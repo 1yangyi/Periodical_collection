@@ -1,0 +1,10 @@
+【法学家】bucket=高校自建
+S2 抓首页 98 链接 (Playwright=False)；S3 命中 3 个入口
+
+=== 采集清单 ===
+  [投稿指南] https://faxuejia.ruc.edu.cn/CN/column/column12.shtml
+      -> 页面_55775.txt
+  [本期目录　封面　封底] https://faxuejia.ruc.edu.cn/fileup/1005-0221/COVER/20260920151222_directoryfile_cn.pdf
+      -> 20260920151222_directoryfile_cn.pdf
+
+共 2 项

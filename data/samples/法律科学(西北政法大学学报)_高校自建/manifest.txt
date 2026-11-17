@@ -1,0 +1,20 @@
+【法律科学(西北政法大学学报)】bucket=高校自建
+S2 抓首页 66 链接 (Playwright=False)；S3 命中 7 个入口
+
+=== 采集清单 ===
+  [投稿须知] https://flkx.nwupl.edu.cn/info/iList.jsp?cat_id=11199
+      -> 页面_58750.txt
+  [《法律科学》注释体例] https://flkx.nwupl.edu.cn/zzwd/146783.htm
+      -> 页面_67886.txt
+  [语言文字规范标准管理办法] https://flkx.nwupl.edu.cn/zzwd/47697.htm
+      -> 页面_58061.txt
+  [关于不再接受合作署名稿件投稿的公告] https://flkx.nwupl.edu.cn/zzwd/56270.htm
+      -> 页面_77892.txt
+  [关于执行《中国高等学校社会科学学报编辑规范》的重要启事] https://flkx.nwupl.edu.cn/zzwd/56268.htm
+      -> 页面_3925.txt
+  [稿约] https://flkx.nwupl.edu.cn/zzwd/56267.htm
+      -> 页面_30048.txt
+  [教育部关于印发《高等学校学术不端行为调查处理实施细则》的通知] https://flkx.nwupl.edu.cn/flkhjwtj/151058.htm
+      -> 页面_80449.txt
+
+共 7 项

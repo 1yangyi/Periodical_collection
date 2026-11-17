@@ -1,0 +1,281 @@
+{
+  "description": "历史采集材料，按文件内容去重；未经当前 pipeline 联网验证。旧 manifest 中的文件名可按 previous_paths 映射到现存文件。",
+  "files": [
+    {
+      "path": "东方法学_知网系/manifest.txt",
+      "sha256": "b568f667bc3249ad10159eea3c2141e36eaed84ca47d21c5400bf571429a7ae5",
+      "previous_paths": [
+        "archive/original-pipeline/extracted/东方法学_知网系/manifest.txt"
+      ]
+    },
+    {
+      "path": "东方法学_知网系/页面_16870.txt",
+      "sha256": "a4cb59f6fb34c82f4d4a9a01c51535e9415ab11c1961c59a11b4a1c66ed67ab9",
+      "previous_paths": [
+        "archive/original-pipeline/extracted/东方法学_知网系/页面_16870.txt",
+        "archive/original-pipeline/extracted/东方法学_知网系/页面_68512.txt"
+      ]
+    },
+    {
+      "path": "压电与声光_作者园地/投稿模版.doc",
+      "sha256": "c3836219b0c35142bdf0e890239e8eacae63a2c8a84c8d4461d3d9baa268ff0e",
+      "previous_paths": [
+        "archive/original-extracted/压电与声光_作者园地/投稿模版.doc",
+        "archive/original-pipeline/extracted/压电与声光_作者园地/投稿模版.doc",
+        "archive/original-pipeline/extracted/压电与声光_专业平台/download_upload_file.aspx"
+      ]
+    },
+    {
+      "path": "压电与声光_作者园地/投稿模版.txt",
+      "sha256": "9f0796175dbf03c3db3e46cd9b0ef8bb1351313365805a39530aa12c85bba3eb",
+      "previous_paths": [
+        "archive/original-extracted/压电与声光_作者园地/投稿模版.txt",
+        "archive/original-pipeline/extracted/压电与声光_作者园地/投稿模版.txt",
+        "archive/original-pipeline/extracted/压电与声光_专业平台/download_upload_file.txt"
+      ]
+    },
+    {
+      "path": "压电与声光_专业平台/manifest.txt",
+      "sha256": "92596a339bfe925e5a7e306a1864d9062dbfe21524f322274b880861abb50f42",
+      "previous_paths": [
+        "archive/original-pipeline/extracted/压电与声光_专业平台/manifest.txt"
+      ]
+    },
+    {
+      "path": "压电与声光_专业平台/《压电与声光》著作权转让协议.docx",
+      "sha256": "a4c7c80616ea28e6924388ecffd350600147b9210abd4023f1aa067c366d1389",
+      "previous_paths": [
+        "archive/original-pipeline/extracted/压电与声光_专业平台/《压电与声光》著作权转让协议.docx"
+      ]
+    },
+    {
+      "path": "压电与声光_作者园地/作图要求.doc",
+      "sha256": "04f81ac29781d521a2a5dd924645b9cfeca2395620898a3c3e84e4ea861333d4",
+      "previous_paths": [
+        "archive/original-extracted/压电与声光_作者园地/作图要求.doc",
+        "archive/original-pipeline/extracted/压电与声光_专业平台/作图要求.doc",
+        "archive/original-pipeline/extracted/压电与声光_作者园地/作图要求.doc"
+      ]
+    },
+    {
+      "path": "压电与声光_作者园地/作图要求.txt",
+      "sha256": "7ba51073d1f9bbc3c90b3f930b3ecd1b187a902228152ca051834f15b8972ca4",
+      "previous_paths": [
+        "archive/original-extracted/压电与声光_作者园地/作图要求.txt",
+        "archive/original-pipeline/extracted/压电与声光_专业平台/作图要求.txt",
+        "archive/original-pipeline/extracted/压电与声光_作者园地/作图要求.txt"
+      ]
+    },
+    {
+      "path": "压电与声光_作者园地/投稿指南.doc",
+      "sha256": "535318d28858fd99107e5d50c05ea894cb3d146e6c9fa12227e7519218517164",
+      "previous_paths": [
+        "archive/original-extracted/压电与声光_作者园地/投稿指南.doc",
+        "archive/original-pipeline/extracted/压电与声光_专业平台/投稿指南.doc",
+        "archive/original-pipeline/extracted/压电与声光_作者园地/投稿指南.doc"
+      ]
+    },
+    {
+      "path": "压电与声光_作者园地/投稿指南.txt",
+      "sha256": "f5d15ea3234ea530f9d0b10181464f2f48ebe516d01a4cdbd1d06223222b2e52",
+      "previous_paths": [
+        "archive/original-extracted/压电与声光_作者园地/投稿指南.txt",
+        "archive/original-pipeline/extracted/压电与声光_专业平台/投稿指南.txt",
+        "archive/original-pipeline/extracted/压电与声光_作者园地/投稿指南.txt"
+      ]
+    },
+    {
+      "path": "压电与声光_作者园地/修改稿要求.txt",
+      "sha256": "cdef7b6f88f319e1c4c5de4a1b23951ceea9c099452c5a68a477c8a44210c5bb",
+      "previous_paths": [
+        "archive/original-extracted/压电与声光_作者园地/修改稿要求.txt",
+        "archive/original-pipeline/extracted/压电与声光_作者园地/修改稿要求.txt",
+        "archive/original-pipeline/extracted/压电与声光_专业平台/页面_15087.txt"
+      ]
+    },
+    {
+      "path": "压电与声光_作者园地/投稿须知.txt",
+      "sha256": "88729de323c0406c33f83e6443b6f46f7ebb790c4a0d063e73cec3d20977412c",
+      "previous_paths": [
+        "archive/original-extracted/压电与声光_作者园地/投稿须知.txt",
+        "archive/original-pipeline/extracted/压电与声光_作者园地/投稿须知.txt",
+        "archive/original-pipeline/extracted/压电与声光_专业平台/页面_46412.txt"
+      ]
+    },
+    {
+      "path": "压电与声光_作者园地/参考文献著录格式.txt",
+      "sha256": "e3ffe6026be04076ee4999084c34893bcaff33ea98bd602db4083a1c76cd2d11",
+      "previous_paths": [
+        "archive/original-extracted/压电与声光_作者园地/参考文献著录格式.txt",
+        "archive/original-pipeline/extracted/压电与声光_作者园地/参考文献著录格式.txt",
+        "archive/original-pipeline/extracted/压电与声光_专业平台/页面_515.txt"
+      ]
+    },
+    {
+      "path": "压电与声光_专业平台/页面_88697.txt",
+      "sha256": "956b85ef3db6812be8372f197227c97cd4f920e9fd149e43e67176df139066d5",
+      "previous_paths": [
+        "archive/original-pipeline/extracted/压电与声光_专业平台/页面_88697.txt"
+      ]
+    },
+    {
+      "path": "比较法研究_知网系/manifest.txt",
+      "sha256": "6e7e53959f149e69c55732c72ddc1804f1415b960d1c4d243588544f7cf7f66d",
+      "previous_paths": [
+        "archive/original-pipeline/extracted/比较法研究_知网系/manifest.txt"
+      ]
+    },
+    {
+      "path": "比较法研究_知网系/页面_28398.txt",
+      "sha256": "5a534567d946c94808659d4d6b0cd24815a6f652a91827a5e8061e1f183f19ac",
+      "previous_paths": [
+        "archive/original-pipeline/extracted/比较法研究_知网系/页面_28398.txt",
+        "archive/original-pipeline/extracted/比较法研究_知网系/页面_52756.txt"
+      ]
+    },
+    {
+      "path": "比较法研究_知网系/页面_47338.txt",
+      "sha256": "e4c1e968e18e44be85a71e535ae81719cc691d76dde3f3be64d9476e124cf741",
+      "previous_paths": [
+        "archive/original-pipeline/extracted/比较法研究_知网系/页面_47338.txt",
+        "archive/original-pipeline/extracted/比较法研究_知网系/页面_67005.txt"
+      ]
+    },
+    {
+      "path": "法学家_高校自建/20260920151222_directoryfile_cn.pdf",
+      "sha256": "8f4a882bc8c396f010f36e0f1c89afbaed47ca8a48cbf8daea71c5206fecee1f",
+      "previous_paths": [
+        "archive/original-pipeline/extracted/法学家_高校自建/20260920151222_directoryfile_cn.pdf"
+      ]
+    },
+    {
+      "path": "法学家_高校自建/manifest.txt",
+      "sha256": "0fbb88bb272262262fd623844cd77c29d59973eace1d9dbc6b00d190c7b70793",
+      "previous_paths": [
+        "archive/original-pipeline/extracted/法学家_高校自建/manifest.txt"
+      ]
+    },
+    {
+      "path": "法学家_高校自建/页面_55775.txt",
+      "sha256": "da6f5f00efa57a35a07abe34fa20a2a026e2006e31c0f858d4ed77a74d6eae66",
+      "previous_paths": [
+        "archive/original-pipeline/extracted/法学家_高校自建/页面_55775.txt"
+      ]
+    },
+    {
+      "path": "法学家_高校自建/页面_58117.txt",
+      "sha256": "9e39bf60d63c8806b5330944de2a8a3650b7163b1e54814055f88af8aaf0c0fa",
+      "previous_paths": [
+        "archive/original-pipeline/extracted/法学家_高校自建/页面_58117.txt"
+      ]
+    },
+    {
+      "path": "法律科学(西北政法大学学报)_高校自建/manifest.txt",
+      "sha256": "84c90f8dc77da77c3ce197e0116f0a8e365b373ee427850f3b55a1e3a5097a07",
+      "previous_paths": [
+        "archive/original-pipeline/extracted/法律科学(西北政法大学学报)_高校自建/manifest.txt"
+      ]
+    },
+    {
+      "path": "法律科学(西北政法大学学报)_高校自建/页面_12358.txt",
+      "sha256": "865c4095c8af287367a3b694756a5103a13680cbc41809828697ccc6d62ced4c",
+      "previous_paths": [
+        "archive/original-pipeline/extracted/法律科学(西北政法大学学报)_高校自建/页面_12358.txt",
+        "archive/original-pipeline/extracted/法律科学(西北政法大学学报)_高校自建/页面_77892.txt"
+      ]
+    },
+    {
+      "path": "法律科学(西北政法大学学报)_高校自建/页面_2760.txt",
+      "sha256": "7ff0e1c9ac93f7737f105448e2078211376d6b0bac58e03d3481753597a86137",
+      "previous_paths": [
+        "archive/original-pipeline/extracted/法律科学(西北政法大学学报)_高校自建/页面_2760.txt",
+        "archive/original-pipeline/extracted/法律科学(西北政法大学学报)_高校自建/页面_3925.txt"
+      ]
+    },
+    {
+      "path": "法律科学(西北政法大学学报)_高校自建/页面_30048.txt",
+      "sha256": "337373468f254a855998856d88b8a28346aa013da1a0d7233b8e5193d0698cc5",
+      "previous_paths": [
+        "archive/original-pipeline/extracted/法律科学(西北政法大学学报)_高校自建/页面_30048.txt",
+        "archive/original-pipeline/extracted/法律科学(西北政法大学学报)_高校自建/页面_51315.txt"
+      ]
+    },
+    {
+      "path": "法律科学(西北政法大学学报)_高校自建/页面_44894.txt",
+      "sha256": "f506802fb8320e6639d1785fd97df5cbab5500caaa98cc557d3e1d65cf59518a",
+      "previous_paths": [
+        "archive/original-pipeline/extracted/法律科学(西北政法大学学报)_高校自建/页面_44894.txt",
+        "archive/original-pipeline/extracted/法律科学(西北政法大学学报)_高校自建/页面_58750.txt"
+      ]
+    },
+    {
+      "path": "法律科学(西北政法大学学报)_高校自建/页面_52289.txt",
+      "sha256": "a753f395c46c57a41dadba27226dc66e6142026045d5c16330d1efb9944ed944",
+      "previous_paths": [
+        "archive/original-pipeline/extracted/法律科学(西北政法大学学报)_高校自建/页面_52289.txt",
+        "archive/original-pipeline/extracted/法律科学(西北政法大学学报)_高校自建/页面_67886.txt"
+      ]
+    },
+    {
+      "path": "法律科学(西北政法大学学报)_高校自建/页面_55522.txt",
+      "sha256": "d5dad607e4044c33ad5693a38abde798bfcc652fb68015398663aaeb441256b4",
+      "previous_paths": [
+        "archive/original-pipeline/extracted/法律科学(西北政法大学学报)_高校自建/页面_55522.txt",
+        "archive/original-pipeline/extracted/法律科学(西北政法大学学报)_高校自建/页面_58061.txt"
+      ]
+    },
+    {
+      "path": "法律科学(西北政法大学学报)_高校自建/页面_80449.txt",
+      "sha256": "2f3174173e5068abc0bcb9f71bd4b63801825d3a7cd53674e11567159271d8d4",
+      "previous_paths": [
+        "archive/original-pipeline/extracted/法律科学(西北政法大学学报)_高校自建/页面_80449.txt",
+        "archive/original-pipeline/extracted/法律科学(西北政法大学学报)_高校自建/页面_94765.txt"
+      ]
+    },
+    {
+      "path": "法律适用_知网系/manifest.txt",
+      "sha256": "b1e7f2e3c92d0661db2971a26ee2fbc62dc8d958368091ce62cefeaff5c8a91c",
+      "previous_paths": [
+        "archive/original-pipeline/extracted/法律适用_知网系/manifest.txt"
+      ]
+    },
+    {
+      "path": "法律适用_知网系/页面_20078.txt",
+      "sha256": "03f9fc22c21d74f01c9f5432679701fe4522a12ca8827bf819564a506e77a283",
+      "previous_paths": [
+        "archive/original-pipeline/extracted/法律适用_知网系/页面_20078.txt",
+        "archive/original-pipeline/extracted/法律适用_知网系/页面_89392.txt"
+      ]
+    },
+    {
+      "path": "法律适用_知网系/页面_26486.txt",
+      "sha256": "1ed36d2d30cb5a7c1a259814e28c51485b8ec659083c9a4c159ab403f2c99134",
+      "previous_paths": [
+        "archive/original-pipeline/extracted/法律适用_知网系/页面_26486.txt",
+        "archive/original-pipeline/extracted/法律适用_知网系/页面_33371.txt"
+      ]
+    },
+    {
+      "path": "半导体光电_投稿须知.txt",
+      "sha256": "80b9b8c61f78d8cc2d8c4abab3e7f20f6965c4a9fde739efabdb15c67a81a88f",
+      "previous_paths": [
+        "archive/original-extracted/半导体光电_投稿须知.txt"
+      ]
+    },
+    {
+      "path": "压电与声光_投稿须知.txt",
+      "sha256": "53d3cf5b6fdd4019fe6f69703711c817da53b1bb2c92bd703c783b1c5edd0aa7",
+      "previous_paths": [
+        "archive/original-extracted/压电与声光_投稿须知.txt"
+      ]
+    }
+  ],
+  "removed_empty_manifests": [
+    "archive\\original-pipeline\\extracted\\当代法学_高校自建\\manifest.txt",
+    "archive\\original-pipeline\\extracted\\期刊名_长尾\\manifest.txt",
+    "archive\\original-pipeline\\extracted\\法商研究_知网系\\manifest.txt",
+    "archive\\original-pipeline\\extracted\\法学_高校自建\\manifest.txt",
+    "archive\\original-pipeline\\extracted\\法学论坛_长尾\\manifest.txt",
+    "archive\\original-pipeline\\extracted\\财经法学_知网系\\manifest.txt"
+  ]
+}

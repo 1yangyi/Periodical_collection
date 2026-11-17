@@ -1,0 +1,8 @@
+【东方法学】bucket=知网系
+S2 抓首页 24 链接 (Playwright=False)；S3 命中 1 个入口
+
+=== 采集清单 ===
+  [投稿指南] https://dffx.cbpt.cnki.net/portal/journal/portal/client/news/dffx_0a96be87-490b-49ff-90aa-bee7b5d1b2cc
+      -> 页面_16870.txt
+
+共 1 项

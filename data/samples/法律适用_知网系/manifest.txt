@@ -1,0 +1,10 @@
+【法律适用】bucket=知网系
+S2 抓首页 28 链接 (Playwright=False)；S3 命中 2 个入口
+
+=== 采集清单 ===
+  [投稿须知] https://flsy.cbpt.cnki.net/portal/journal/portal/client/news/FLSY_0a96be87-490b-49ff-90aa-bee7b5d1b2cc
+      -> 页面_20078.txt
+  [《法律适用》引用体例及注意事项] https://mp.weixin.qq.com/s/vY3mWIZZH_HZ63JjNEEp_w
+      -> 页面_33371.txt
+
+共 2 项

@@ -1,0 +1,26 @@
+1. 批量处理期刊
+    .\.venv\Scripts\python.exe -X utf8 pipeline.py run `
+  --limit 20 `
+  --output outputs/batch20
+
+
+2. 按期刊名搜索
+    .\.venv\Scripts\python.exe -X utf8 pipeline.py run `
+  --url 'https://www.peaotec.com/' `
+  --name '压电与声光' `
+  --output outputs/peaotec
+
+
+
+3. 参数调整
+--max-depth 4	最多沿链接走到第 4 层，输入网址为第 0 层
+--max-pages 50	每刊最多尝试处理 50 个网址，包含网页和附件
+--workers 2	同时处理 2 本期刊
+--browser auto	需要时尝试浏览器渲染，默认设置
+--browser off	只使用 HTTP 获取页面
+--resume	复用符合条件的成功结果，其余任务重跑
+
+
+
+
+流体机械

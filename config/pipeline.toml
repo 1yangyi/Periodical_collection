@@ -1,0 +1,31 @@
+# 所有相对路径相对于本配置文件所在目录。
+rules_file = "rules.json"
+
+[pipeline]
+input = "../data/raw/期刊链接.xlsx"
+output = "../outputs/current"
+sheet = "期刊链接"
+workers = 2
+timeout = 20
+retries = 2
+delay = 1.0
+max_pages = 30
+max_depth = 3
+max_bytes = 20971520
+min_text_length = 40
+# auto-chrome：HTTP 优先，不足时启动正常 Chrome；chrome：直接使用正常 Chrome。
+browser = "auto"
+browser_wait_ms = 1500
+discover_official = true
+# 不关闭 TLS 校验；只有显式开启时，HTTPS 连接失败才尝试 HTTP。
+http_fallback = false
+# 可选本地模型模式。运行时只读取已缓存/本地模型，不自动下载。
+semantic = false
+embedding_model = "BAAI/bge-small-zh-v1.5"
+embedding_revision = "main"
+semantic_threshold = 0.8
+semantic_content_threshold = 0.8
+semantic_top_k = 3
+semantic_candidate_limit = 200
+semantic_queries = ["论文稿件撰写排版和投稿要求", "期刊作者服务与投稿资料下载", "论文排版示例和投稿模板", "参考文献图表及修改稿要求"]
+semantic_content_queries = ["论文正文的字体字号行距页边距和排版要求", "投稿论文的撰写要求和作者提交材料说明", "参考文献引文图表及修改稿的具体编写要求"]

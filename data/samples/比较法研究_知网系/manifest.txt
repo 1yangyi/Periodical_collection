@@ -1,0 +1,10 @@
+【比较法研究】bucket=知网系
+S2 抓首页 97 链接 (Playwright=False)；S3 命中 6 个入口
+
+=== 采集清单 ===
+  [作者投稿系统] http://BJFY.cbpt.cnki.net/index.aspx?t=1
+      -> 页面_47338.txt
+  [作者投稿] https://bjfy.cbpt.cnki.net/WKI/WebPublication/index.aspx
+      -> 页面_28398.txt
+
+共 2 项
