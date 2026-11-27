@@ -1,0 +1,27 @@
+{
+  "index": 27,
+  "journal": "畜牧兽医学报",
+  "url": "https://ias.caas.cn/qklm/xsqk/b854342fe47f4fb0bc0127e48f0bc47f.htm",
+  "source_sheet": "可打开",
+  "source_row": 28,
+  "started_at": "2026-11-26T20:41:34+08:00",
+  "finished_at": "2026-11-26T20:43:10+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0027_畜牧兽医学报/manifest.json",
+  "pages": 1,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 1,
+  "pending_reasons": [
+    "no_valid_word_or_pdf"
+  ]
+}

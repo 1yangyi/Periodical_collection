@@ -1,0 +1,61 @@
+{
+  "journal": {
+    "name": "中华重症医学电子杂志",
+    "url": "https://icu.cma-cmc.com.cn/CN/2096-1537/current.shtml",
+    "journal_id": "",
+    "row": 50,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://icu.cma-cmc.com.cn/CN/2096-1537/current.shtml",
+  "collected_at": "2026-11-26T20:45:19+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "icu.cma-cmc.com.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://icu.cma-cmc.com.cn/CN/2096-1537/current.shtml",
+      "requested_url": "https://icu.cma-cmc.com.cn/CN/2096-1537/current.shtml",
+      "title": "中华重症医学电子杂志",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:45:19+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://icu.cma-cmc.com.cn/CN/2096-1537/current.shtml",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use 补查超时",
+      "context": ""
+    },
+    {
+      "url": "https://icu.cma-cmc.com.cn/CN/2096-1537/current.shtml",
+      "title": "中华重症医学电子杂志",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

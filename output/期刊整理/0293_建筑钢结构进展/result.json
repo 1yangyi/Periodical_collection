@@ -1,0 +1,30 @@
+{
+  "index": 293,
+  "journal": "建筑钢结构进展",
+  "url": "https://cjournal.hep.com.cn/1671-9379/CN/qkjs",
+  "source_sheet": "可打开",
+  "source_row": 294,
+  "started_at": "2026-11-26T20:59:23+08:00",
+  "finished_at": "2026-11-26T20:59:27+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST network-policies 返回 HTTP 422"
+  ],
+  "manifest": "0293_建筑钢结构进展/manifest.json",
+  "pages": 1,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 2,
+  "pending_reasons": [
+    "browser_use_failed",
+    "no_valid_word_or_pdf"
+  ]
+}

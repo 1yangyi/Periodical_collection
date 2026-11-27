@@ -1,0 +1,137 @@
+{
+  "journal": {
+    "name": "中国科学. 化学",
+    "url": "https://ic.cas.cn/news/ttxw/202609/t20260929_8287811.html",
+    "journal_id": "",
+    "row": 40,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://ic.cas.cn/news/ttxw/202609/t20260929_8287811.html",
+  "collected_at": "2026-11-26T20:43:33+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "ic.cas.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://ic.cas.cn/news/ttxw/202609/t20260929_8287811.html",
+      "requested_url": "https://ic.cas.cn/news/ttxw/202609/t20260929_8287811.html",
+      "title": "化学所建所70周年《中国科学：化学》《先进材料》专刊上线出版--中国科学院化学研究所",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:43:33+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://ic.cas.cn/notice/",
+      "requested_url": "https://ic.cas.cn/../../notice/",
+      "title": "通知公告--中国科学院化学研究所",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:43:33+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://ic.cas.cn/notice/index_1.html",
+      "requested_url": "https://ic.cas.cn/notice/index_1.html",
+      "title": "通知公告--中国科学院化学研究所",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2"
+      ],
+      "visited_at": "2026-11-26T20:43:33+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://ic.cas.cn/notice/index_2.html",
+      "requested_url": "https://ic.cas.cn/notice/index_2.html",
+      "title": "通知公告--中国科学院化学研究所",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "3"
+      ],
+      "visited_at": "2026-11-26T20:43:33+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://ic.cas.cn/notice/index_3.html",
+      "requested_url": "https://ic.cas.cn/notice/index_3.html",
+      "title": "通知公告--中国科学院化学研究所",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "4"
+      ],
+      "visited_at": "2026-11-26T20:43:33+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://ic.cas.cn/notice/index_4.html",
+      "requested_url": "https://ic.cas.cn/notice/index_4.html",
+      "title": "通知公告--中国科学院化学研究所",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "5"
+      ],
+      "visited_at": "2026-11-26T20:43:33+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://ic.cas.cn/notice/index_65.html",
+      "requested_url": "https://ic.cas.cn/notice/index_65.html",
+      "title": "通知公告--中国科学院化学研究所",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "尾页"
+      ],
+      "visited_at": "2026-11-26T20:43:33+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://ic.cas.cn/notice/202511/P020251119364109186230.pdf",
+      "title": "关于召开“第十五届国际高分子物理学术研讨会”的通知",
+      "source_url": "https://ic.cas.cn/notice/index_3.html",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "4",
+        "关于召开“第十五届国际高分子物理学术研讨会”的通知"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "关于召开“第十五届国际高分子物理学术研讨会”的通知 2025-11-19"
+    },
+    {
+      "url": "https://ic.cas.cn/news/ttxw/202609/t20260929_8287811.html",
+      "title": "中国科学. 化学",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

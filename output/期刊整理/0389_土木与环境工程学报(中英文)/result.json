@@ -1,0 +1,31 @@
+{
+  "index": 389,
+  "journal": "土木与环境工程学报(中英文)",
+  "url": "https://www.jcee.com.cn/",
+  "source_sheet": "可打开",
+  "source_row": 390,
+  "started_at": "2026-11-26T21:00:43+08:00",
+  "finished_at": "2026-11-26T21:00:57+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 2,
+    "artifacts": 1,
+    "pending": 1,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST network-policies 返回 HTTP 422"
+  ],
+  "manifest": "0389_土木与环境工程学报(中英文)/manifest.json",
+  "pages": 2,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 1,
+  "pending_count": 3,
+  "pending_reasons": [
+    "browser_use_failed",
+    "needs_review",
+    "no_valid_word_or_pdf"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "index": 82,
+  "journal": "西安体育学院学报",
+  "url": "https://xaty.cbpt.cnki.net/portal/journal/portal/client/index",
+  "source_sheet": "可打开",
+  "source_row": 83,
+  "started_at": "2026-11-26T20:50:04+08:00",
+  "finished_at": "2026-11-26T20:51:29+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 2,
+    "artifacts": 1,
+    "pending": 1,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0082_西安体育学院学报/manifest.json",
+  "pages": 2,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 1,
+  "pending_count": 2,
+  "pending_reasons": [
+    "needs_review",
+    "no_valid_word_or_pdf"
+  ]
+}

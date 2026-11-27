@@ -1,0 +1,98 @@
+{
+  "journal": {
+    "name": "求是学刊",
+    "url": "https://qsxk.hlju.edu.cn/",
+    "journal_id": "",
+    "row": 18,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://qsxk.hlju.edu.cn/",
+  "collected_at": "2026-11-26T20:40:15+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "qsxk.hlju.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://qsxk.hlju.edu.cn/",
+      "requested_url": "https://qsxk.hlju.edu.cn/",
+      "title": "黑龙江大学求是学刊",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:40:15+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qsxk.hlju.edu.cn/tgxz.htm",
+      "requested_url": "https://qsxk.hlju.edu.cn/tgxz.htm",
+      "title": "投稿须知",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:40:15+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qsxk.hlju.edu.cn/info/2018/1163.htm",
+      "requested_url": "https://qsxk.hlju.edu.cn/info/2018/1163.htm",
+      "title": "投稿须知-黑龙江大学求是学刊",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:40:15+08:00",
+      "published_at": "2022-04-25"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿须知-黑龙江大学求是学刊",
+      "source_url": "https://qsxk.hlju.edu.cn/info/2018/1163.htm",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "投稿须知"
+      ],
+      "local_path": "web/投稿须知-黑龙江大学求是学刊_c9ea82bfab.html",
+      "status": "saved",
+      "published_at": "2022-04-25"
+    },
+    {
+      "type": "webpage_text",
+      "title": "求是学刊投稿格式",
+      "local_path": "求是学刊投稿格式.md",
+      "source_urls": [
+        "https://qsxk.hlju.edu.cn/info/2018/1163.htm"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://qsxk.hlju.edu.cn/",
+      "title": "求是学刊",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

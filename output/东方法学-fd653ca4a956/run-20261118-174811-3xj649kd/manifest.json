@@ -1,0 +1,88 @@
+{
+  "journal": {
+    "name": "东方法学",
+    "url": "https://dffx.cbpt.cnki.net/portal/journal/portal/client/index",
+    "journal_id": "CSSCI-2025-0004",
+    "row": 5,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "completed",
+  "homepage_resolved": "https://dffx.cbpt.cnki.net/portal/journal/portal/client/index",
+  "collected_at": "2026-11-18T17:48:11+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "dffx.cbpt.cnki.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://dffx.cbpt.cnki.net/portal/journal/portal/client/index",
+      "requested_url": "https://dffx.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "东方法学",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-18T17:48:11+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://dffx.cbpt.cnki.net/portal/journal/portal/client/news/dffx_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "requested_url": "https://dffx.cbpt.cnki.net/portal/journal/portal/client/news/dffx_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "title": "投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-18T17:48:11+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "东方法学",
+      "source_url": "https://dffx.cbpt.cnki.net/portal/journal/portal/client/index",
+      "path": [
+        "官网入口"
+      ],
+      "local_path": "web/东方法学_550fb4afc2.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "attachment",
+      "format": "docx",
+      "title": "《东方法学》投稿须知和注释体例",
+      "local_path": "attachments/《东方法学》投稿须知和注释体例_2e0af1f04b.docx",
+      "sha256": "2e0af1f04be3172c655d18cb8ab1f2f0a4289765513d6d910a82272dbfe76c4b",
+      "bytes": 515347,
+      "sources": [
+        {
+          "source_url": "https://dffx.cbpt.cnki.net/portal/journal/portal/client/index",
+          "download_url": "https://publishmedia.cbpt.cnki.net/portal/minio/webs/dffx/media/web/2026/07/28/%E3%80%8A%E4%B8%9C%E6%96%B9%E6%B3%95%E5%AD%A6%E3%80%8B%E6%8A%95%E7%A8%BF%E9%A1%BB%E7%9F%A5%E5%92%8C%E6%B3%A8%E9%87%8A%E4%BD%93%E4%BE%8B.docx",
+          "resolved_url": "https://publishmedia.cbpt.cnki.net/portal/minio/webs/dffx/media/web/2026/07/28/%E3%80%8A%E4%B8%9C%E6%96%B9%E6%B3%95%E5%AD%A6%E3%80%8B%E6%8A%95%E7%A8%BF%E9%A1%BB%E7%9F%A5%E5%92%8C%E6%B3%A8%E9%87%8A%E4%BD%93%E4%BE%8B.docx",
+          "path": [
+            "官网入口",
+            "《东方法学》投稿须知和注释体例"
+          ],
+          "label": "《东方法学》投稿须知和注释体例",
+          "context": "期刊与作者许可协议 《东方法学》投稿须知和注释体例 more..",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": []
+}

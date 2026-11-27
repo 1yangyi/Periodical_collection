@@ -1,0 +1,75 @@
+{
+  "journal": {
+    "name": "东南学术",
+    "url": "https://dnxsh.cbpt.cnki.net/EditorGN/PromptPageInfo.aspx?c=1&t=v",
+    "journal_id": "",
+    "row": 85,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://dnxsh.cbpt.cnki.net/EditorGN/PromptPageInfo.aspx?c=1&t=v",
+  "collected_at": "2026-11-26T20:50:15+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "dnxsh.cbpt.cnki.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://dnxsh.cbpt.cnki.net/EditorGN/PromptPageInfo.aspx?c=1&t=v",
+      "requested_url": "https://dnxsh.cbpt.cnki.net/EditorGN/PromptPageInfo.aspx?c=1&t=v",
+      "title": "投稿须知",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:50:15+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://dnxsh.cbpt.cnki.net/WKG/showValidateCode.aspx",
+      "requested_url": "https://dnxsh.cbpt.cnki.net/WKD3/WebPublication/wkDownFileByLink.aspx?fid=fde0ebf3-d45f-402e-aa72-6fda01495092&mid=dlxs&nid=54253c13-816a-4cda-85b4-048f7444fa78",
+      "title": "附件：《东南学术》写作体例",
+      "path": [
+        "官网入口",
+        "附件：《东南学术》写作体例"
+      ],
+      "visited_at": "2026-11-26T20:50:15+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://dnxsh.cbpt.cnki.net/WKD3/WebPublication/wkDownFileByLink.aspx?fid=fde0ebf3-d45f-402e-aa72-6fda01495092&mid=dlxs&nid=54253c13-816a-4cda-85b4-048f7444fa78",
+      "title": "《东南学术》写作体例",
+      "source_url": "https://dnxsh.cbpt.cnki.net/EditorGN/PromptPageInfo.aspx?c=1&t=v",
+      "path": [
+        "《东南学术》投稿须知",
+        "附件：《东南学术》写作体例"
+      ],
+      "reason": "invalid_or_failed_attachment",
+      "detail": "响应类型：text/html",
+      "context": ""
+    },
+    {
+      "url": "https://dnxsh.cbpt.cnki.net/EditorGN/PromptPageInfo.aspx?c=1&t=v",
+      "title": "东南学术",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

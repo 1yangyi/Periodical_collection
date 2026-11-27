@@ -1,0 +1,72 @@
+{
+  "journal": {
+    "name": "生态经济",
+    "url": "https://stjj.cbpt.cnki.net/portal/journal/portal/client/index",
+    "journal_id": "",
+    "row": 327,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://stjj.cbpt.cnki.net/portal/journal/portal/client/index",
+  "collected_at": "2026-11-26T20:59:43+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "stjj.cbpt.cnki.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://stjj.cbpt.cnki.net/portal/journal/portal/client/index",
+      "requested_url": "https://stjj.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "生态经济",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:43+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://stjj.cbpt.cnki.net/portal/journal/portal/client/news/stjj_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "requested_url": "https://stjj.cbpt.cnki.net/portal/journal/portal/client/news/stjj_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "title": "投稿须知",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:59:43+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://stjj.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://stjj.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "生态经济",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

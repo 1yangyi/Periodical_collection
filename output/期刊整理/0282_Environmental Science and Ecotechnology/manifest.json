@@ -1,0 +1,102 @@
+{
+  "journal": {
+    "name": "Environmental Science and Ecotechnology",
+    "url": "https://www.sciopen.com/journal/2069-9643",
+    "journal_id": "",
+    "row": 283,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "completed",
+  "homepage_resolved": "https://www.sciopen.com/journal/2069-9643",
+  "collected_at": "2026-11-26T20:59:16+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.sciopen.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.sciopen.com/journal/2069-9643",
+      "requested_url": "https://www.sciopen.com/journal/2069-9643",
+      "title": "Environmental Science and Ecotechnology | SciOpen",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:16+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1821007358524555265&issn=2069-9643",
+      "requested_url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1821007358524555265&issn=2069-9643",
+      "title": "Submission Guidelines - SciOpen",
+      "path": [
+        "官网入口",
+        "Submission Guidelines"
+      ],
+      "visited_at": "2026-11-26T20:59:16+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "Submission Guidelines - SciOpen",
+      "source_url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1821007358524555265&issn=2069-9643",
+      "path": [
+        "官网入口",
+        "Submission Guidelines"
+      ],
+      "local_path": "web/Submission Guidelines - SciOpen_f87691bddd.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "attachment",
+      "format": "docx",
+      "title": "this template",
+      "local_path": "attachments/declaration-of-competing-interests_3bf50f9ba7.docx",
+      "sha256": "3bf50f9ba7bd1be7cdc9a9838c26d9cd935c7ab18a797655f9182c141c200c0d",
+      "bytes": 19799,
+      "sources": [
+        {
+          "source_url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1821007358524555265&issn=2069-9643",
+          "download_url": "https://legacyfileshare.elsevier.com/promis_misc/declaration-of-competing-interests.docx",
+          "resolved_url": "https://legacyfileshare.elsevier.com/promis_misc/declaration-of-competing-interests.docx",
+          "path": [
+            "官网入口",
+            "Submission Guidelines",
+            "this template"
+          ],
+          "label": "this template",
+          "context": "this template",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://www.sciopen.com/journal/2069-9643",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    }
+  ]
+}

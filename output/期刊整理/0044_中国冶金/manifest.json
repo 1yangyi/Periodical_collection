@@ -1,0 +1,164 @@
+{
+  "journal": {
+    "name": "中国冶金",
+    "url": "https://www.chinamet.cn/zgyj/",
+    "journal_id": "",
+    "row": 45,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "completed",
+  "homepage_resolved": "https://www.chinamet.cn/zgyj/",
+  "collected_at": "2026-11-26T20:44:19+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.chinamet.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.chinamet.cn/zgyj/",
+      "requested_url": "https://www.chinamet.cn/zgyj/",
+      "title": "导出文件",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:44:19+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.chinamet.cn/gyby/zgyj/CN/column/column79.shtml",
+      "requested_url": "https://www.chinamet.cn/gyby/zgyj/CN/column/column79.shtml",
+      "title": "中国冶金 投稿指南",
+      "path": [
+        "中国冶金主页",
+        "下载中心页面",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:44:19+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "中国冶金 投稿指南",
+      "source_url": "https://www.chinamet.cn/gyby/zgyj/CN/column/column79.shtml",
+      "path": [
+        "中国冶金主页",
+        "下载中心页面",
+        "投稿指南"
+      ],
+      "local_path": "web/中国冶金 投稿指南_66ba382535.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "attachment",
+      "format": "docx",
+      "title": "投稿指南",
+      "local_path": "attachments/20230914100713_7ad24020f9.docx",
+      "sha256": "7ad24020f9f8eea895abc1130ba44be10e694c10591421f23b0eec084be1c258",
+      "bytes": 46813,
+      "sources": [
+        {
+          "source_url": "https://www.chinamet.cn/gyby/zgyj/CN/column/83/items",
+          "download_url": "https://www.chinamet.cn/gyby/zgyj/CN/item/downloadFile.do?id=45",
+          "resolved_url": "https://www.chinamet.cn/gyby/zgyj/CN/item/downloadFile.do?id=45",
+          "path": [
+            "中国冶金主页",
+            "下载中心页面",
+            "投稿指南"
+          ],
+          "label": "投稿指南",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "attachment",
+      "format": "docx",
+      "title": "论文模板",
+      "local_path": "attachments/20240301153037_8d6600a646.docx",
+      "sha256": "8d6600a6468e14e2d6b8ce16fbaefdc6508e3986eb7bc8fa5dba68be78f93d4b",
+      "bytes": 58924,
+      "sources": [
+        {
+          "source_url": "https://www.chinamet.cn/gyby/zgyj/CN/column/83/items",
+          "download_url": "https://www.chinamet.cn/gyby/zgyj/CN/item/downloadFile.do?id=30",
+          "resolved_url": "https://www.chinamet.cn/gyby/zgyj/CN/item/downloadFile.do?id=30",
+          "path": [
+            "中国冶金主页",
+            "下载中心页面",
+            "论文模板"
+          ],
+          "label": "论文模板",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "attachment",
+      "format": "docx",
+      "title": "《中国冶金》著作权转让协议",
+      "local_path": "attachments/20220428121516_dbf8c21d38.docx",
+      "sha256": "dbf8c21d38cfb830c0708c93d2791d072bd4cb9fe62bf50563545b46dcfb8446",
+      "bytes": 20072,
+      "sources": [
+        {
+          "source_url": "https://www.chinamet.cn/gyby/zgyj/CN/column/83/items",
+          "download_url": "https://www.chinamet.cn/gyby/zgyj/CN/item/downloadFile.do?id=44",
+          "resolved_url": "https://www.chinamet.cn/gyby/zgyj/CN/item/downloadFile.do?id=44",
+          "path": [
+            "中国冶金主页",
+            "下载中心页面",
+            "《中国冶金》著作权转让协议"
+          ],
+          "label": "《中国冶金》著作权转让协议",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "webpage_text",
+      "title": "中国冶金投稿格式",
+      "local_path": "中国冶金投稿格式.md",
+      "source_urls": [
+        "https://www.chinamet.cn/gyby/zgyj/CN/column/column79.shtml"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://www.chinamet.cn/gyby/zgyj/CN/top_download",
+      "title": "下载排行",
+      "source_url": "https://www.chinamet.cn/gyby/zgyj/CN/column/column79.shtml",
+      "path": [
+        "中国冶金主页",
+        "下载中心页面",
+        "投稿指南",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "journal": {
+    "name": "语言教学与研究",
+    "url": "https://yyjx.blcu.edu.cn/",
+    "journal_id": "",
+    "row": 14,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://yyjx.blcu.edu.cn/",
+  "collected_at": "2026-11-26T20:39:49+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "yyjx.blcu.edu.cn",
+      "yyjx.chinajournal.net.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://yyjx.blcu.edu.cn/",
+      "requested_url": "https://yyjx.blcu.edu.cn/",
+      "title": "《语言教学与研究》编辑部",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:39:49+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://yyjx.blcu.edu.cn/tgzn.htm",
+      "requested_url": "https://yyjx.blcu.edu.cn/tgzn.htm",
+      "title": "投稿指南-《语言教学与研究》编辑部",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:39:49+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://yyjx.blcu.edu.cn/info/1008/2751.htm",
+      "requested_url": "https://yyjx.blcu.edu.cn/info/1008/2751.htm",
+      "title": "第六届语言教学与研究国际学术研讨会征稿启事-《语言教学与研究》编辑部",
+      "path": [
+        "官网入口",
+        "第六届语言教学与研究国际学术研讨会征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:39:49+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://yyjx.blcu.edu.cn/info/1009/2721.htm",
+      "requested_url": "https://yyjx.blcu.edu.cn/info/1009/2721.htm",
+      "title": "第十七届亚太地区国际汉语教学学会年会征稿启事-《语言教学与研究》编辑部",
+      "path": [
+        "官网入口",
+        "第十七届亚太地区国际汉语教学学会年会征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:39:49+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://yyjx.blcu.edu.cn/info/1009/1053.htm",
+      "requested_url": "https://yyjx.blcu.edu.cn/info/1009/1053.htm",
+      "title": "第五届汉语语言与话语国际研讨会征稿通知-《语言教学与研究》编辑部",
+      "path": [
+        "官网入口",
+        "第五届汉语语言与话语国际研讨会征稿通知"
+      ],
+      "visited_at": "2026-11-26T20:39:49+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://yyjx.blcu.edu.cn/info/1009/1049.htm",
+      "requested_url": "https://yyjx.blcu.edu.cn/info/1009/1049.htm",
+      "title": "第六届国际汉语教学研究生指导研讨会征稿启事-《语言教学与研究》编辑部",
+      "path": [
+        "官网入口",
+        "第六届国际汉语教学研究生指导研讨会征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:39:49+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://yyjx.chinajournal.net.cn/EditorB3N/Quit.aspx",
+      "requested_url": "http://yyjx.chinajournal.net.cn/",
+      "title": "http://yyjx.chinajournal.net.cn",
+      "path": [
+        "官网入口",
+        "第六届国际汉语教学研究生指导研讨会征稿启事",
+        "http://yyjx.chinajournal.net.cn"
+      ],
+      "visited_at": "2026-11-26T20:39:49+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://yyjx.chinajournal.net.cn/WKB3/showValidateCode.aspx",
+      "requested_url": "http://yyjx.chinajournal.net.cn/WKB3/WebPublication/wkTextContent.aspx?contentID=4c19d16d-c257-46fa-8d01-a8085d3f6f8e&mid=yyjx",
+      "title": "http://yyjx.chinajournal.net.cn/WKB3/WebPublication/wkTextContent.aspx?contentID=4c19d16d-c257-46fa-8d01-a8085d3f6f8e∣=yyjx",
+      "path": [
+        "官网入口",
+        "第六届国际汉语教学研究生指导研讨会征稿启事",
+        "http://yyjx.chinajournal.net.cn/WKB3/WebPublication/wkTextContent.aspx?contentID=4c19d16d-c257-46fa-8d01-a8085d3f6f8e∣=yyjx"
+      ],
+      "visited_at": "2026-11-26T20:39:49+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://yyjx.blcu.edu.cn/tzgg.htm",
+      "requested_url": "https://yyjx.blcu.edu.cn/tzgg.htm",
+      "title": "通知公告-《语言教学与研究》编辑部",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:39:49+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://yyjx.blcu.edu.cn/tzgg/6.htm",
+      "requested_url": "https://yyjx.blcu.edu.cn/tzgg/6.htm",
+      "title": "通知公告-《语言教学与研究》编辑部",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "通知公告",
+        "2"
+      ],
+      "visited_at": "2026-11-26T20:39:49+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://yyjx.blcu.edu.cn/tzgg/5.htm",
+      "requested_url": "https://yyjx.blcu.edu.cn/tzgg/5.htm",
+      "title": "通知公告-《语言教学与研究》编辑部",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "通知公告",
+        "3"
+      ],
+      "visited_at": "2026-11-26T20:39:49+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://yyjx.blcu.edu.cn/tzgg/4.htm",
+      "requested_url": "https://yyjx.blcu.edu.cn/tzgg/4.htm",
+      "title": "通知公告-《语言教学与研究》编辑部",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "通知公告",
+        "4"
+      ],
+      "visited_at": "2026-11-26T20:39:49+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://yyjx.blcu.edu.cn/tzgg/3.htm",
+      "requested_url": "https://yyjx.blcu.edu.cn/tzgg/3.htm",
+      "title": "通知公告-《语言教学与研究》编辑部",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "通知公告",
+        "5"
+      ],
+      "visited_at": "2026-11-26T20:39:49+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://yyjx.blcu.edu.cn/tzgg/1.htm",
+      "requested_url": "https://yyjx.blcu.edu.cn/tzgg/1.htm",
+      "title": "通知公告-《语言教学与研究》编辑部",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "通知公告",
+        "7"
+      ],
+      "visited_at": "2026-11-26T20:39:49+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿指南-《语言教学与研究》编辑部",
+      "source_url": "https://yyjx.blcu.edu.cn/tgzn.htm",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "local_path": "web/投稿指南-《语言教学与研究》编辑部_1bc01ad433.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "第六届语言教学与研究国际学术研讨会征稿启事-《语言教学与研究》编辑部",
+      "source_url": "https://yyjx.blcu.edu.cn/info/1008/2751.htm",
+      "path": [
+        "官网入口",
+        "第六届语言教学与研究国际学术研讨会征稿启事"
+      ],
+      "local_path": "web/第六届语言教学与研究国际学术研讨会征稿启事-《语言教学与研究》编辑部_20685a05e6.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "第十七届亚太地区国际汉语教学学会年会征稿启事-《语言教学与研究》编辑部",
+      "source_url": "https://yyjx.blcu.edu.cn/info/1009/2721.htm",
+      "path": [
+        "官网入口",
+        "第十七届亚太地区国际汉语教学学会年会征稿启事"
+      ],
+      "local_path": "web/第十七届亚太地区国际汉语教学学会年会征稿启事-《语言教学与研究》编辑部_a782c38655.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "语言教学与研究投稿格式",
+      "local_path": "语言教学与研究投稿格式.md",
+      "source_urls": [
+        "https://yyjx.blcu.edu.cn/tgzn.htm",
+        "https://yyjx.blcu.edu.cn/info/1008/2751.htm",
+        "https://yyjx.blcu.edu.cn/info/1009/2721.htm"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://yyjx.blcu.edu.cn/info/1008/1142.htm",
+      "title": "“基于互动观念的语言理论与应用探索”专刊征稿启事",
+      "source_url": "https://yyjx.blcu.edu.cn/tzgg/6.htm",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "通知公告",
+        "2",
+        "“基于互动观念的语言理论与应用探索”专刊征稿启事"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "· “基于互动观念的语言理论与应用探索”专刊征稿启事"
+    },
+    {
+      "url": "https://yyjx.blcu.edu.cn/info/1008/1130.htm",
+      "title": "“汉语国际教育线上教学模式与方法”大家谈征稿启事",
+      "source_url": "https://yyjx.blcu.edu.cn/tzgg/5.htm",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "通知公告",
+        "3",
+        "“汉语国际教育线上教学模式与方法”大家谈征稿启事"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "· “汉语国际教育线上教学模式与方法”大家谈征稿启事"
+    },
+    {
+      "url": "https://yyjx.blcu.edu.cn/info/1008/1087.htm",
+      "title": "语言教学与研究国际学术研讨会（2018）征稿启事",
+      "source_url": "https://yyjx.blcu.edu.cn/tzgg/3.htm",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "通知公告",
+        "5",
+        "语言教学与研究国际学术研讨会（2018）征稿启事"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "· 语言教学与研究国际学术研讨会（2018）征稿启事"
+    },
+    {
+      "url": "https://yyjx.blcu.edu.cn/info/1008/1064.htm",
+      "title": "构式语法理论和应用研究征稿启事",
+      "source_url": "https://yyjx.blcu.edu.cn/tzgg/3.htm",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "通知公告",
+        "5",
+        "构式语法理论和应用研究征稿启事"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "· 构式语法理论和应用研究征稿启事"
+    },
+    {
+      "url": "https://yyjx.blcu.edu.cn/tzgg/2.htm",
+      "title": "6",
+      "source_url": "https://yyjx.blcu.edu.cn/tzgg/4.htm",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "通知公告",
+        "4",
+        "6"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "6"
+    },
+    {
+      "url": "https://yyjx.blcu.edu.cn/",
+      "title": "语言教学与研究",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "journal": {
+    "name": "中国地质灾害与防治学报",
+    "url": "https://www.zgdzzhyfzxb.com/",
+    "journal_id": "",
+    "row": 38,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "completed",
+  "homepage_resolved": "https://www.zgdzzhyfzxb.com/",
+  "collected_at": "2026-11-26T20:43:02+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.zgdzzhyfzxb.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.zgdzzhyfzxb.com/",
+      "requested_url": "https://www.zgdzzhyfzxb.com/",
+      "title": "导出文件",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:43:02+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.zgdzzhyfzxb.com/zgjz",
+      "requested_url": "https://www.zgdzzhyfzxb.com/zgjz",
+      "title": "征稿简则",
+      "path": [
+        "官网入口",
+        "征稿简则"
+      ],
+      "visited_at": "2026-11-26T20:43:02+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.zgdzzhyfzxb.com/news/49",
+      "requested_url": "https://www.zgdzzhyfzxb.com/news/49",
+      "title": "《中国地质灾害与防治学报》征稿简则（2022版）",
+      "path": [
+        "首页",
+        "作者园地",
+        "《中国地质灾害与防治学报》征稿简则（2022版）"
+      ],
+      "visited_at": "2026-11-26T20:43:02+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "attachment",
+      "format": "pdf",
+      "title": "《中国地质灾害与防治学报》图件要求",
+      "local_path": "attachments/eb31d9f7-9c84-40a6-b0b7-3466f48688a7_0e06ea9487.pdf",
+      "sha256": "0e06ea9487832d25aca87baa9b30a9650943f5f7c432e3378b23a63708aba1eb",
+      "bytes": 244797,
+      "sources": [
+        {
+          "source_url": "https://www.zgdzzhyfzxb.com/aigjsyyq",
+          "download_url": "https://www.zgdzzhyfzxb.com/fileZGDZZHYFZXB/cms/news/info/2022/08/b4f0eaa1dfc342daa06ee453feca1adb/eb31d9f7-9c84-40a6-b0b7-3466f48688a7.pdf",
+          "resolved_url": "https://www.zgdzzhyfzxb.com/fileZGDZZHYFZXB/cms/news/info/2022/08/b4f0eaa1dfc342daa06ee453feca1adb/eb31d9f7-9c84-40a6-b0b7-3466f48688a7.pdf",
+          "path": [
+            "首页",
+            "作者园地",
+            "《中国地质灾害与防治学报》图件要求"
+          ],
+          "label": "《中国地质灾害与防治学报》图件要求",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "attachment",
+      "format": "pdf",
+      "title": "《中国地质灾害与防治学报》版式要求（2027版）",
+      "local_path": "attachments/a75677b8-bdba-4865-8c2b-53e23da8968f_6d5b15ab22.pdf",
+      "sha256": "6d5b15ab22f084baa2455ad375e2ebf4286efbd74f7dc8e1b6aabb206c2a08b9",
+      "bytes": 305403,
+      "sources": [
+        {
+          "source_url": "https://www.zgdzzhyfzxb.com/aigjsyyq",
+          "download_url": "https://www.zgdzzhyfzxb.com/fileZGDZZHYFZXB/news/zgdzzhyfzxb/a75677b8-bdba-4865-8c2b-53e23da8968f.pdf",
+          "resolved_url": "https://www.zgdzzhyfzxb.com/fileZGDZZHYFZXB/news/zgdzzhyfzxb/a75677b8-bdba-4865-8c2b-53e23da8968f.pdf",
+          "path": [
+            "首页",
+            "作者园地",
+            "《中国地质灾害与防治学报》版式要求（2027版）"
+          ],
+          "label": "《中国地质灾害与防治学报》版式要求（2027版）",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "attachment",
+      "format": "pdf",
+      "title": "《中国地质灾害与防治学报》保密及著作权转让声明",
+      "local_path": "attachments/bf24841d-9a78-4191-aab7-fb7457b55128_d5d26eba86.pdf",
+      "sha256": "d5d26eba86d4e160c688c437660d3345add3d1a6d1b900c384dc64a2d6283dce",
+      "bytes": 141973,
+      "sources": [
+        {
+          "source_url": "https://www.zgdzzhyfzxb.com/aigjsyyq",
+          "download_url": "https://www.zgdzzhyfzxb.com/fileZGDZZHYFZXB/news/zgdzzhyfzxb/bf24841d-9a78-4191-aab7-fb7457b55128.pdf",
+          "resolved_url": "https://www.zgdzzhyfzxb.com/fileZGDZZHYFZXB/news/zgdzzhyfzxb/bf24841d-9a78-4191-aab7-fb7457b55128.pdf",
+          "path": [
+            "首页",
+            "作者园地",
+            "《中国地质灾害与防治学报》保密及著作权转让声明"
+          ],
+          "label": "《中国地质灾害与防治学报》保密及著作权转让声明",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "attachment",
+      "format": "pdf",
+      "title": "信息与文献 参考文献著录规则 GB/T 7714—2025",
+      "local_path": "attachments/6fbede83-b849-4d6b-8dd3-7e8965c196c3_5c2399001f.pdf",
+      "sha256": "5c2399001f556fa318154b8757dd5a246c78116444e99e1dbc3332be6a6f0c04",
+      "bytes": 1274532,
+      "sources": [
+        {
+          "source_url": "https://www.zgdzzhyfzxb.com/aigjsyyq",
+          "download_url": "https://www.zgdzzhyfzxb.com/fileZGDZZHYFZXB/news/zgdzzhyfzxb/6fbede83-b849-4d6b-8dd3-7e8965c196c3.pdf",
+          "resolved_url": "https://www.zgdzzhyfzxb.com/fileZGDZZHYFZXB/news/zgdzzhyfzxb/6fbede83-b849-4d6b-8dd3-7e8965c196c3.pdf",
+          "path": [
+            "首页",
+            "作者园地",
+            "信息与文献 参考文献著录规则 GB/T 7714—2025"
+          ],
+          "label": "信息与文献 参考文献著录规则 GB/T 7714—2025",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://www.zgdzzhyfzxb.com/",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "https://www.zgdzzhyfzxb.com/zgjz",
+      "title": "征稿简则",
+      "source_url": "https://www.zgdzzhyfzxb.com/",
+      "path": [
+        "官网入口",
+        "征稿简则"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": "征稿简则"
+    },
+    {
+      "url": "https://www.zgdzzhyfzxb.com/news/49",
+      "title": "《中国地质灾害与防治学报》征稿简则（2022版）",
+      "source_url": "https://www.zgdzzhyfzxb.com/aigjsyyq",
+      "path": [
+        "首页",
+        "作者园地",
+        "《中国地质灾害与防治学报》征稿简则（2022版）"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "https://www.zgdzzhyfzxb.com/fileZGDZZHYFZXB/cms/news/info/2022/08/77916e0d-e030-4e4d-8077-310b3b06f7b3.pdf",
+      "title": "《中国地质灾害与防治学报》结构要求（2022版）",
+      "source_url": "https://www.zgdzzhyfzxb.com/aigjsyyq",
+      "path": [
+        "首页",
+        "作者园地",
+        "《中国地质灾害与防治学报》结构要求（2022版）"
+      ],
+      "reason": "invalid_or_failed_attachment",
+      "detail": "404 Client Error: Not Found for url: https://www.zgdzzhyfzxb.com/fileZGDZZHYFZXB/cms/news/info/2022/08/77916e0d-e030-4e4d-8077-310b3b06f7b3.pdf",
+      "context": ""
+    }
+  ]
+}

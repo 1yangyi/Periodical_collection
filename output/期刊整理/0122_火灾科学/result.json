@@ -1,0 +1,32 @@
+{
+  "index": 122,
+  "journal": "火灾科学",
+  "url": "https://safetyse.ustc.edu.cn/4560/list.htm",
+  "source_sheet": "可打开",
+  "source_row": 123,
+  "started_at": "2026-11-26T20:56:17+08:00",
+  "finished_at": "2026-11-26T20:57:19+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 7,
+    "artifacts": 0,
+    "pending": 5,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST runs 返回 HTTP 402"
+  ],
+  "manifest": "0122_火灾科学/manifest.json",
+  "pages": 7,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 7,
+  "pending_reasons": [
+    "browser_use_failed",
+    "depth_limit",
+    "needs_review",
+    "no_valid_word_or_pdf"
+  ]
+}

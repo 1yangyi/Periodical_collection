@@ -1,0 +1,61 @@
+{
+  "journal": {
+    "name": "Photonics Research",
+    "url": "https://opg.optica.org/prj/home.cfm",
+    "journal_id": "",
+    "row": 195,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "",
+  "collected_at": "2026-11-26T20:58:07+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "opg.optica.org"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://opg.optica.org/prj/home.cfm",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "跳转到未核实域名：https://validate.perfdrive.com/?ssa=f30133f6-df23-5ebb-c6e1-d838db45b98d&ssb=33002283130&ssc=https%3A%2F%2Fopg.optica.org%2Fprj%2Fhome.cfm&ssi=b7468888-d3hy-70fe-62ba-d3af1a9fdffe&ssk=botmanager_support@radware.com&ssm=60698474462908752106725155383619&ssn=09f68fb38ebbd110a1dbcf5ca736dbe64223abaa0979-1676-3b63-42c1da&sso=400b963-4ebe-250bb82384ea21d3edcd3e0944b3d1a20370975044cf7aa5&ssp=42807402731795624173179569010288524&ssq=89963909788979263480797889060001011599223&ssr=MzguMjQ2LjIzMC44&sst=PeriodicalCollection%2F0.1%20%28public%20submission%20guides%29&ssv=&ssw=",
+      "context": ""
+    },
+    {
+      "url": "https://opg.optica.org/prj/home.cfm",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://opg.optica.org/prj/home.cfm",
+      "title": "Photonics Research",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "journal": {
+    "name": "Plant Phenomics",
+    "url": "https://www.sciopen.com/journal/2097-0374",
+    "journal_id": "",
+    "row": 372,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "completed",
+  "homepage_resolved": "https://www.sciopen.com/journal/2097-0374",
+  "collected_at": "2026-11-26T20:03:07+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.sciopen.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.sciopen.com/journal/2097-0374",
+      "requested_url": "https://www.sciopen.com/journal/2097-0374",
+      "title": "Plant Phenomics | SciOpen",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:03:07+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1789911731820728322&issn=2097-0374",
+      "requested_url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1789911731820728322&issn=2097-0374",
+      "title": "Submission Guidelines - SciOpen",
+      "path": [
+        "官网入口",
+        "Submission Guidelines"
+      ],
+      "visited_at": "2026-11-26T20:03:07+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "Submission Guidelines - SciOpen",
+      "source_url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1789911731820728322&issn=2097-0374",
+      "path": [
+        "官网入口",
+        "Submission Guidelines"
+      ],
+      "local_path": "web/Submission Guidelines - SciOpen_5b593e0c47.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "attachment",
+      "format": "docx",
+      "title": "manuscript template",
+      "local_path": "attachments/PP_MT_ad9850f386.docx",
+      "sha256": "ad9850f38601deee2a44c9cf2265008180dc65d48c24b04761a8159b1bfec297",
+      "bytes": 55670,
+      "sources": [
+        {
+          "source_url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1789911731820728322&issn=2097-0374",
+          "download_url": "https://www.editorialmanager.com/plantphenomics/account/PP_MT.docx",
+          "resolved_url": "https://www.editorialmanager.com/plantphenomics/account/PP_MT.docx",
+          "path": [
+            "官网入口",
+            "Submission Guidelines",
+            "manuscript template"
+          ],
+          "label": "manuscript template",
+          "context": "manuscript template",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://www.sciopen.com/journal/2097-0374",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "https://www.editorialmanager.com/plantphenomics/account/PP_MT.docx",
+      "title": "Word",
+      "source_url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1789911731820728322&issn=2097-0374",
+      "path": [
+        "官网入口",
+        "Submission Guidelines",
+        "Word"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Word"
+    },
+    {
+      "url": "https://spj.science.org/pb-assets/SPJ/CustomPages/Misc/SPJ_Figure_Preparation_Guide-1691522222.pdf",
+      "title": "figure guide",
+      "source_url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1789911731820728322&issn=2097-0374",
+      "path": [
+        "官网入口",
+        "Submission Guidelines",
+        "figure guide"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "figure guide"
+    },
+    {
+      "url": "https://www.editorialmanager.com/plantphenomics/account/PlantPhenomics_COI_form.pdf",
+      "title": "Download the Authorship and Conflict of Interest Form",
+      "source_url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1789911731820728322&issn=2097-0374",
+      "path": [
+        "官网入口",
+        "Submission Guidelines",
+        "Download the Authorship and Conflict of Interest Form"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Download the Authorship and Conflict of Interest Form"
+    },
+    {
+      "url": "https://www.editorialmanager.com/plantphenomics/account/PlantPhenomics_LicensetoPublish.pdf",
+      "title": "Download the License to Publish Form",
+      "source_url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1789911731820728322&issn=2097-0374",
+      "path": [
+        "官网入口",
+        "Submission Guidelines",
+        "Download the License to Publish Form"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Download the License to Publish Form"
+    },
+    {
+      "url": "https://www.editorialmanager.com/plantphenomics/account/PlantPhenomics_ImagePermission.pdf",
+      "title": "Download the Image Permission Form",
+      "source_url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1789911731820728322&issn=2097-0374",
+      "path": [
+        "官网入口",
+        "Submission Guidelines",
+        "Download the Image Permission Form"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Download the Image Permission Form"
+    }
+  ]
+}

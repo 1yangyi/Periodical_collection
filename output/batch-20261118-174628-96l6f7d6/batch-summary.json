@@ -1,0 +1,152 @@
+{
+  "spreadsheet": "/Users/yangyi/periodical_collection/data/期刊链接.xlsx",
+  "started_at": "2026-11-18T09:46:28.164474+00:00",
+  "planned_count": 10,
+  "counts": {
+    "completed": 3,
+    "uncompleted": 7
+  },
+  "results": [
+    {
+      "journal": {
+        "name": "比较法研究",
+        "url": "https://bjfy.cbpt.cnki.net/WKI/WebPublication/index.aspx?mid=bjfy",
+        "journal_id": "CSSCI-2025-0001",
+        "row": 2,
+        "extra_hosts": [],
+        "extra_urls": []
+      },
+      "status": "uncompleted",
+      "manifest": "比较法研究-cb5a7eea8155/run-20261118-174628-q7u5zfdi/manifest.json",
+      "artifacts": 3,
+      "pending": 1
+    },
+    {
+      "journal": {
+        "name": "财经法学",
+        "url": "https://cjfx.cbpt.cnki.net/",
+        "journal_id": "CSSCI-2025-0002",
+        "row": 3,
+        "extra_hosts": [],
+        "extra_urls": []
+      },
+      "status": "completed",
+      "manifest": "财经法学-bcbe94662958/run-20261118-174708-3px_fw47/manifest.json",
+      "artifacts": 4,
+      "pending": 0
+    },
+    {
+      "journal": {
+        "name": "当代法学",
+        "url": "https://hssra.jlu.edu.cn/xsqk/ddfx.htm",
+        "journal_id": "CSSCI-2025-0003",
+        "row": 4,
+        "extra_hosts": [],
+        "extra_urls": []
+      },
+      "status": "uncompleted",
+      "manifest": "当代法学-508b25547dfe/run-20261118-174731-qa1rr4g8/manifest.json",
+      "artifacts": 0,
+      "pending": 5
+    },
+    {
+      "journal": {
+        "name": "东方法学",
+        "url": "https://dffx.cbpt.cnki.net/portal/journal/portal/client/index",
+        "journal_id": "CSSCI-2025-0004",
+        "row": 5,
+        "extra_hosts": [],
+        "extra_urls": []
+      },
+      "status": "completed",
+      "manifest": "东方法学-fd653ca4a956/run-20261118-174811-3xj649kd/manifest.json",
+      "artifacts": 2,
+      "pending": 0
+    },
+    {
+      "journal": {
+        "name": "法律科学(西北政法大学学报)",
+        "url": "https://flkx.nwupl.edu.cn/",
+        "journal_id": "CSSCI-2025-0005",
+        "row": 6,
+        "extra_hosts": [],
+        "extra_urls": []
+      },
+      "status": "uncompleted",
+      "manifest": "法律科学_西北政法大学学报-fad7eb861379/run-20261118-174823-4yhv_zg8/manifest.json",
+      "artifacts": 2,
+      "pending": 2
+    },
+    {
+      "journal": {
+        "name": "法律适用",
+        "url": "https://flsy.cbpt.cnki.net/portal/journal/portal/client/index",
+        "journal_id": "CSSCI-2025-0006",
+        "row": 7,
+        "extra_hosts": [],
+        "extra_urls": []
+      },
+      "status": "uncompleted",
+      "manifest": "法律适用-92d9dd576575/run-20261118-174931-x9grvker/manifest.json",
+      "artifacts": 2,
+      "pending": 2
+    },
+    {
+      "journal": {
+        "name": "法商研究",
+        "url": "https://www.fsyj.chinajournal.net.cn/WKD/WebPublication/wkTextContent.aspx?mid=fsyj&navigationContentID=cb0d810c-6901-4359-85e4-843e1bb4a218",
+        "journal_id": "CSSCI-2025-0007",
+        "row": 8,
+        "extra_hosts": [],
+        "extra_urls": []
+      },
+      "status": "uncompleted",
+      "manifest": "法商研究-a7f5366072d7/run-20261118-175030-3jdm6u7a/manifest.json",
+      "artifacts": 0,
+      "pending": 2
+    },
+    {
+      "journal": {
+        "name": "法学",
+        "url": "https://www.ecupl.edu.cn/2023/0518/c622a201294/page.htm",
+        "journal_id": "CSSCI-2025-0008",
+        "row": 9,
+        "extra_hosts": [],
+        "extra_urls": []
+      },
+      "status": "uncompleted",
+      "manifest": "法学-8b67a480e363/run-20261118-175116-csx95ywp/manifest.json",
+      "artifacts": 0,
+      "pending": 2
+    },
+    {
+      "journal": {
+        "name": "法学家",
+        "url": "https://faxuejia.ruc.edu.cn/CN/current",
+        "journal_id": "CSSCI-2025-0009",
+        "row": 10,
+        "extra_hosts": [],
+        "extra_urls": []
+      },
+      "status": "completed",
+      "manifest": "法学家-f51b1ed9583f/run-20261118-175205-w7ipvg4u/manifest.json",
+      "artifacts": 13,
+      "pending": 12
+    },
+    {
+      "journal": {
+        "name": "法学论坛",
+        "url": "http://www.sdsfxh.org.cn/",
+        "journal_id": "CSSCI-2025-0010",
+        "row": 11,
+        "extra_hosts": [],
+        "extra_urls": []
+      },
+      "status": "uncompleted",
+      "manifest": "法学论坛-2dc84b2908cb/run-20261118-175258-jv9lpnhe/manifest.json",
+      "artifacts": 0,
+      "pending": 3
+    }
+  ],
+  "finished_at": "2026-11-18T09:54:12.089558+00:00"
+}

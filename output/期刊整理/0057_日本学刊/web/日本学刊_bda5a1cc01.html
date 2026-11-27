@@ -1,0 +1,277 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>日本学刊</title>
+    <link href="/Areas/201607190002/Content/style/style.css" rel="stylesheet" />
+    <link href="/Areas/201607190002/Content/style/liebiao.css" rel="stylesheet" />
+    <link href="/Areas/201607190002/Content/style/erji.css" rel="stylesheet" />
+    <link href="/Areas/201607190002/Content/style/fenqi.css" rel="stylesheet" />
+    <link href="/Areas/201607190002/Content/style/gaojisousuo.css" rel="stylesheet" />
+    <link href="/Areas/201607190002/Content/style/index.css" rel="stylesheet" />
+
+    <script type="text/javascript" src="/Content/js/jquery-3.7.1.min.js"></script>
+    <script src="/Areas/201607190002/Content/js/main.js"></script>
+    <script src="/Areas/201607190002/Content/js/msclass.js"></script>
+    <script src="/Areas/201607190002/Content/js/jquery.1.8.3.min.js"></script>
+    <script type="text/javascript">
+   
+    $(function () {
+        $("#btnSearch").click(function () {
+
+            var ss = $("#Stext").val();
+            var title = "";
+            var Authors = "";
+            var tags = "";
+            var channelID = $("#options").val();
+            if (channelID == "标题") {
+                title = ss;
+            }
+            else if (channelID == "作者") {
+                Authors =ss;
+            }
+            else {
+                tags = ss;
+            }
+            var year ="";
+            var issue = "";
+            var url = "/Magazine/GetIssueContentList?year=" + year + "&issue=" + issue + "&keyWords=" + title + "&authors=" + Authors + "&tags=" + tags + "&channelID=" + channelID;
+            window.open(url);
+        });
+    })
+    </script>
+</head>
+<body style="filter:grayscale(0)">
+    <div class="baowei">
+        <div id="divQRCode" style="position:fixed; top:40%; left: 90%;width: 150px; height: 400px;">
+            <span style=" font-size=font-size 14px;"=14px;">
+            扫一扫 关注杂志</span>
+            <img alt="二维码" src='/Areas/201607190002/Content/images/rbxkewm.jpg' id="imgQRCode" height="110" width="110" />
+         <div id="divLogo">
+        
+	    <img alt="logo" src='/Areas/201607190002/Content/images/xewm.png' id="imgLogo" height="110" width="110"/><br/>
+            <a href="http://qk.cass.cn/rbxk/" target="_blank">
+            <img alt="logo" src='/Areas/201607190002/Content/images/rbxkjwrk.png' id="imgLogo" height="45" width="150"/></a>
+ 	  
+      </div>
+        </div>
+        <div class="box">
+            <div class="title">
+                <ul class="title_l">
+                    <li>日本学刊网欢迎您！ <span id="DateTime"></span></li>
+                </ul>
+                <ul class="tittle_r">
+                    <li class="on-site">站内检索</li>
+                    <li class="search">
+                        <select id="options">
+                            <option>标题</option>
+                            <option>作者</option>
+                            <option>关键字</option>
+                        </select>
+                        <input id="Stext" type="text" />
+                        <span id="btnSearch">搜索</span>
+                    </li>
+                    <li class="senior"><a href="/html/GjSearch.html">高级检索</a></li>
+                </ul>
+            </div>
+            <div class="banner">
+                <img src="/Areas/201607190002/Content/images/banner.png" />
+            </div>
+            <link type="text/css" rel="stylesheet" href="/Areas/201607190002/Content/style/pagination.css" />
+            <div class="nav">
+                <div class="gohome">
+                    <a href="/Home/Index"><img src="/Areas/201607190002/Content/images/gohome.png" /></a>
+                </div>
+                <div class="nav_l nav_l1">
+                    <ul id="Menus_1">
+                        <li><a href="/CommonBlock/SiteContentList?channelID=1398">本刊简介</a></li>
+                        <li><a href="/CommonBlock/SiteContentList?channelID=1400">分期目录</a></li>
+                        <li><a href="/html/tlgf.html">体例规范</a></li>
+                        <li><a href="/CommonBlock/SiteContentList?channelID=1404">重点推荐</a></li>
+                        <li><a href="/CommonBlock/SiteContentList?channelID=1412">社会反响</a></li>
+                        <li><a href="/CommonBlock/SiteContentList?channelID=1408">作者专栏</a></li>
+                        <li><a href="/CommonBlock/SiteContentList?channelID=1407">中日文献</a></li>
+                        <li><a href="/html/rbnh.html">日本年号</a></li>
+                        <li class="nine"><a href="/html/lxwm.html">联系我们</a></li>
+                        <li><a href="/CommonBlock/SiteContentList?channelID=1399">站内公告</a></li>
+                        <li><a href="/CommonBlock/SiteContentList?channelID=1402">分类目录</a></li>
+                        <li><a href="/CommonBlock/SiteContentList?channelID=1403">刊社动态</a></li>
+                        <li><a href="/CommonBlock/SiteContentList?channelID=1406">论文摘编</a></li>
+                        <li><a href="/CommonBlock/SiteContentList?channelID=1405">著审编读</a></li>
+                        <li><a href="/CommonBlock/SiteContentList?channelID=1410">网上论文</a></li>
+                        <li><a href="/html/rbfg.html">日本法规</a></li>
+                        <li><a href="/CommonBlock/SiteContentList?channelID=1413">大事年表</a></li>
+                        <li class="nine"><a href="/CommonBlock/SiteContentList?channelID=1414">征稿征订</a></li>
+                    </ul>
+
+                </div>
+            </div>
+           
+            
+
+
+<style type="text/css">
+    .rbsb {
+        margin-bottom: 20px;
+        margin-top: 20px;
+        line-height: 2.5em;
+    }
+
+    .rbsbspan {
+        font-size: 16px;
+        font-family: 微软雅黑, &#39;
+        Microsoft YaHei&#39;
+        color: rgb(63, 63, 63);
+        background-color: white;
+    }
+</style>
+<div class="erji_nav">
+    <ul class="erji_nav_l">
+        <li><span>您现在所在的位置：</span></li>
+        <li><a href="/Home/Index">首页</a>></li>
+        <li><a href="">正文</a></li>
+    </ul>
+</div>
+<div class="erji_content">
+    <div class="erji_content_t" style="color: #407932; font-weight: bold; font-size: 22px"><span style="font-weight:bold;font-style:normal;color:#000">投稿须知</span></div>
+    <div id="right_content" class="erji_content_b">
+        <span class="erji_zuozhe" style="color: #407932; text-align: center; display: block">
+            作者：日本学刊 &nbsp;&nbsp;&nbsp;&nbsp;时间：2015/4/15 1:04:13
+        </span>
+        <div id="contentWZ">
+            <p><p style="text-align: center;"><span style="font-size: 18px;">&nbsp;<strong>《日本学刊》征稿及启用“在线投稿”平台启事</strong></span></p><p><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、《日本学刊》作为中国社会科学院日本研究所和中华日本学会联合主办的学术性刊物，主要刊载日本问题研究者的学术成果，内容涵盖日本政治、外交、军事、 经济、科技、社会、文化、教育、历史等各个领域。按照社科院学术期刊创新工程的部署，2014年起《日本学刊》进行了创刊以来的第三次改版，对期刊形式、论文内容以 及刊网融合等方面进行调整尝试。在论文方面：（1）注重刊发研究日本政治、外交、 经济、社会、文化等领域的重大现实问题，中日关系热点问题，以及日本研究中比较重 要且研究涉及不多或开掘不深的问题或重要问题再探讨的论文；（2）注重刊发具有世 界和区域视角、跨学科和综合性的比较研究，侧重当代或历史问题的深入探讨而突出启示意义的论文；（3）注重刊发应用社会科学基础理论的学理性文章，特别是以问题研究为导向，建立自己的研究理论，提供新的分析框架的论文；（4）注重刊发观点清晰独到、分析论证深入全面、论据文献扎实新颖、文字叙述准确流畅的论文。热忱欢迎学界同人赐稿。 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、本刊实行双向匿名审稿制度。在向本刊提供的稿件正文中，不要出现作者姓名及其他有关作者的信息（包括“拙著”等字样）。&nbsp; <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、本刊只接受电子投稿，请登录日本学刊网（<a href="http://www.rbxk.org/">http://www.rbxk.org/</a>），通过“在线投稿”平台直接发送到本刊编辑部，请勿寄给个人，否则不能进入本刊的匿名审稿程序。 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四、论文每篇以15000字左右为宜。请附200～300字中文及日文摘要和3～5个关键 词。稿件中的引文、图表、数字、日期、人名、地名等务请核对准确。注释中须包含：作者姓名、文献题名、出版地、出版者、出版时间、起止页码。请用同一种外文注释所引用外文资料的出处 。如论文系国家有关部门的基金项目，请注明项目的正式名称 和项目 编号。未列详尽者，请参见本刊现行体例。 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;五、切勿一稿多投。作者自寄出稿件之日起三个月内未接到采用通知，可自行处理。 恕不退稿。 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;六、本刊不收版面费。来稿一经刊出即付稿酬（包括中国学术期刊电子版和日本学 刊网及其他主流媒体转载部分）和样刊（2册）。作者未收到时，请及时垂询，以便核实补寄。</p><p><br/></p><p style="text-align: right;">《日本学刊》编辑部 <br/>2016年1月</p></p>
+           
+        </div>
+    </div>
+    <div id="divFile" class="erji_content_b" style="text-align: right;">
+    </div>
+</div>
+<script type="text/javascript">
+
+    $(function () {
+
+
+        //处理内容太少时，附件不在页面底部情况
+        if ($("#right_content").height() < 400) {
+            $("#right_content").height(400);
+        }
+    })
+
+    //处理图片居中显示
+    $(function () {
+        $("#right_content p[style=text-align:center] img").wrap("<center></center>");
+    });
+</script>
+
+
+
+
+
+
+
+
+            <div class="friend">
+                <div class="friend_l">
+                    友情链接
+                </div>
+                <div class="friend_r">
+                            <select class="link" id="firendLink_686 _1" name="firendLink">
+                                 <option value="https://www.aminer.cn/">----AMiner----</option>
+                                 <option value="http://japan.xinhuanet.com/index.htm">----新华网日本频道----</option>
+                                 <option value="http://www.cssn.cn/">----中国社科网----</option>
+                                 <option value="http://www.gmw.cn/">----光明网----</option>
+                                 <option value="http://www.huanqiu.com/">----环球网----</option>
+                                 <option value="http://www.chinanews.com/">----中国新闻网----</option>
+                                 <option value="http://www.china.com.cn/">----中国网----</option>
+                                 <option value="http://www.xinhuanet.com/">----新华网----</option>
+                                 <option value="http://www.people.com.cn/">----人民网----</option>
+
+                        </select>
+
+                        <select class="link" id="firendLink_686 _2" name="firendLink">
+                                    <option value="http://www.yahoo.co.jp/">----雅虎日本----</option>
+                                    <option value="http://www.nikkei.com/">----日本经济新闻----</option>
+                                    <option value="http://sankei.jp.msn.com/">----产经新闻----</option>
+                                    <option value="http://www.mainichi.co.jp/">----每日新闻----</option>
+                                    <option value="http://www.yomiuri.co.jp/">----读卖新闻----</option>
+                                    <option value="http://www.asahi.com/">----朝日新闻----</option>
+                                    <option value="http://china.kyodonews.jp/">----共同网----</option>
+
+                        </select>
+
+                        <select class="link" id="firendLink_686 _3" name="firendLink">
+                                    <option value="http://niigata.china-consulate.org/chn/">----中国驻新潟总领事馆----</option>
+                                    <option value="http://nagoya.china-consulate.org/chn/">----中国驻名古屋总领事馆----</option>
+                                    <option value="http://nagasaki.china-consulate.org/chn/">----中国驻长崎总领事馆----</option>
+                                    <option value="http://sapporo.china-consulate.org/chn/">----中国驻札幌总领事馆----</option>
+                                    <option value="http://www.chn-consulate-fukuoka.or.jp/chn/">----中国驻福冈总领事馆----</option>
+                                    <option value="http://osaka.china-consulate.org/chn/">----中国驻大阪总领事馆----</option>
+                                    <option value="http://www.china-embassy.or.jp/chn/">----中国驻日本大使馆----</option>
+                                    <option value="http://rbyjs.lnu.edu.cn/index.htm">----辽宁大学日本研究所----</option>
+                                    <option value="http://www.tass-tj.org.cn/ribenyanjiusuo/Pages/shouye.aspx">----天津社会科学院日本研究所----</option>
+                                    <option value="http://www.riyan.nankai.edu.cn/">----南开大学日本研究院----</option>
+                                    <option value="http://www.jsc.fudan.edu.cn/">----复旦大学日本研究中心----</option>
+                                    <option value="http://web5.pku.edu.cn/cjps/gaik6.html">----北京大学日本研究中心----</option>
+                                    <option value="http://www.bjryzx.org/">----北京日本学研究中心----</option>
+                                    <option value="http://ijs.cass.cn/">----中国社会科学院日本研究所----</option>
+
+                        </select>
+
+                        <select class="link" id="firendLink_686 _4" name="firendLink">
+                                    <option value="http://www.jsps.org.cn/jspsbj/site/indexch.jsp">----日本学术振兴会北京代表处----</option>
+                                    <option value="http://www.jpfbj.cn/">----日本国际交流基金会北京文化中心----</option>
+                                    <option value="http://www.hk.emb-japan.go.jp/chi/index.html">----日本国驻香港总领事馆----</option>
+                                    <option value="http://www.qingdao.cn.emb-japan.go.jp/cn/index.html">----日本国驻青岛总领事馆----</option>
+                                    <option value="http://www.chongqing.cn.emb-japan.go.jp/index_c.htm">----日本国驻重庆总领事馆----</option>
+                                    <option value="http://www.dalian.cn.emb-japan.go.jp/ch/index.html">----日本国驻大连办事处----</option>
+                                    <option value="http://www.shenyang.cn.emb-japan.go.jp/cn/index.htm">----日本国驻沈阳总领事馆----</option>
+                                    <option value="http://www.guangzhou.cn.emb-japan.go.jp/cgjp_cn/index.htm">----日本国驻广州总领事馆----</option>
+                                    <option value="http://www.shanghai.cn.emb-japan.go.jp/cn/index_cn.htm">----日本国驻上海总领事馆----</option>
+                                    <option value="http://www.cn.emb-japan.go.jp/index.htm">----日本国驻华大使馆----</option>
+
+                        </select>
+                </div>
+            </div>
+            <div class="foot">
+                <div class="foot_t">
+                    您是本站第<span>12790781</span>位访客 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    版权所有 日本学刊杂志社</font>
+                </div>
+                <div class="foot_f">
+                    <ul>
+                        <li>本刊地址：北京市东城区张自忠路3号东院</li>
+                        <li>邮政编码：100007</li>
+                        <li><a href="https://www.boyuancb.com/" style="color: #666666;text-decoration: none; ">本系统由北京博渊星辰网络科技有限公司设计开发</a></li>
+                        
+                    </ul>
+                </div>
+                <div class="foot_s">
+                    <ul>
+                        <li>电话：（010）64039045</li>
+                        <li>传真：（010）64014022 64039045</li>
+                        <li>技术支持电话：010-63269626</li>
+                    </ul>
+                </div>
+                <div class="foot_th">
+                    <ul>
+                        <li>国内订阅：全国各地邮局</li>
+                        <li>邮发代号：80-437</li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+<script type="text/javascript">
+    $(function () {
+       
+        $("[name='firendLink']").change(function () {
+           
+            window.open($(this).val());
+        });
+    });
+</script>

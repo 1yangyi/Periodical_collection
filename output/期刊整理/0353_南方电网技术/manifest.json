@@ -1,0 +1,181 @@
+{
+  "journal": {
+    "name": "南方电网技术",
+    "url": "https://nfdwjs.csg.cn/",
+    "journal_id": "",
+    "row": 354,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://nfdwjs.csg.cn/joweb/nfdw",
+  "collected_at": "2026-11-26T21:00:03+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "nfdwjs.csg.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://nfdwjs.csg.cn/joweb/nfdw",
+      "requested_url": "https://nfdwjs.csg.cn/",
+      "title": "南方电网技术",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:00:03+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://nfdwjs.csg.cn/joweb/nfdw/CN/instruction",
+      "requested_url": "https://nfdwjs.csg.cn/joweb/nfdw/CN/instruction",
+      "title": "南方电网技术",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T21:00:03+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://nfdwjs.csg.cn/joweb/nfdw/CN/requirement",
+      "requested_url": "https://nfdwjs.csg.cn/joweb/nfdw/CN/requirement",
+      "title": "南方电网技术",
+      "path": [
+        "官网入口",
+        "投稿格式要求"
+      ],
+      "visited_at": "2026-11-26T21:00:03+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://nfdwjs.csg.cn/joweb/nfdw/CN/CMS/banner/1200092612795761572",
+      "requested_url": "https://nfdwjs.csg.cn/joweb/nfdw/CN/CMS/banner/1200092612795761572",
+      "title": "Loading... - 南方电网技术",
+      "path": [
+        "官网入口",
+        "海上风电关键设备可靠性研究及工程实践”专刊征稿启事"
+      ],
+      "visited_at": "2026-11-26T21:00:03+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://nfdwjs.csg.cn/joweb/nfdw/CN/CMS/banner/1197203384110412203",
+      "requested_url": "https://nfdwjs.csg.cn/joweb/nfdw/CN/CMS/banner/1197203384110412203",
+      "title": "Loading... - 南方电网技术",
+      "path": [
+        "官网入口",
+        "“乡村新型能源系统关键技术与应用”专刊征稿启事"
+      ],
+      "visited_at": "2026-11-26T21:00:03+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://nfdwjs.csg.cn/joweb/nfdw/CN/CMS/banner/1197203481787363757",
+      "requested_url": "https://nfdwjs.csg.cn/joweb/nfdw/CN/CMS/banner/1197203481787363757",
+      "title": "Loading... - 南方电网技术",
+      "path": [
+        "官网入口",
+        "“新型电力系统防灾减灾关键技术”专刊征稿启事"
+      ],
+      "visited_at": "2026-11-26T21:00:03+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://nfdwjs.csg.cn/joweb/nfdw/CN/top-download",
+      "title": "下载排行",
+      "source_url": "https://nfdwjs.csg.cn/joweb/nfdw/CN/instruction",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    },
+    {
+      "url": "https://nfdwjs.csg.cn/joweb/nfdw/CN/top-download",
+      "title": "下载排行",
+      "source_url": "https://nfdwjs.csg.cn/joweb/nfdw/CN/requirement",
+      "path": [
+        "官网入口",
+        "投稿格式要求",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    },
+    {
+      "url": "https://nfdwjs.csg.cn/joweb/nfdw/CN/top-download",
+      "title": "下载排行",
+      "source_url": "https://nfdwjs.csg.cn/joweb/nfdw/CN/CMS/banner/1200092612795761572",
+      "path": [
+        "官网入口",
+        "海上风电关键设备可靠性研究及工程实践”专刊征稿启事",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    },
+    {
+      "url": "https://nfdwjs.csg.cn/joweb/nfdw/CN/top-download",
+      "title": "下载排行",
+      "source_url": "https://nfdwjs.csg.cn/joweb/nfdw/CN/CMS/banner/1197203384110412203",
+      "path": [
+        "官网入口",
+        "“乡村新型能源系统关键技术与应用”专刊征稿启事",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    },
+    {
+      "url": "https://nfdwjs.csg.cn/joweb/nfdw/CN/top-download",
+      "title": "下载排行",
+      "source_url": "https://nfdwjs.csg.cn/joweb/nfdw/CN/CMS/banner/1197203481787363757",
+      "path": [
+        "官网入口",
+        "“新型电力系统防灾减灾关键技术”专刊征稿启事",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    },
+    {
+      "url": "https://nfdwjs.csg.cn/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://nfdwjs.csg.cn/",
+      "title": "南方电网技术",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

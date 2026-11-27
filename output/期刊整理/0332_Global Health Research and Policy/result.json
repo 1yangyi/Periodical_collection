@@ -1,0 +1,31 @@
+{
+  "index": 332,
+  "journal": "Global Health Research and Policy",
+  "url": "https://www.keaipublishing.com/en/journals/global-health-research-and-policy/",
+  "source_sheet": "可打开",
+  "source_row": 333,
+  "started_at": "2026-11-26T20:59:48+08:00",
+  "finished_at": "2026-11-26T20:59:52+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 1,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST network-policies 返回 HTTP 422"
+  ],
+  "manifest": "0332_Global Health Research and Policy/manifest.json",
+  "pages": 1,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 3,
+  "pending_reasons": [
+    "browser_use_failed",
+    "needs_review",
+    "no_valid_word_or_pdf"
+  ]
+}

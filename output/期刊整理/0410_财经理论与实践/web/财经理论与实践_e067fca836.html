@@ -1,0 +1,306 @@
+
+<script>
+function addCookie(url,title)
+{
+ if (document.all)
+    {
+       window.external.addFavorite(url,title);
+    }
+    else if (window.sidebar)
+    {
+       window.sidebar.addPanel(title, url, "");
+ }
+}
+
+function setHomepage(homeurl)
+{
+ if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+  document.body.setHomePage(homeurl);
+ 
+    }
+    else if (window.sidebar)
+    {
+    if(window.netscape)
+    {
+         try
+   {  
+            netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");  
+         }  
+         catch (e)  
+         {  
+    alert( "该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true" );  
+         }
+    } 
+    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+    prefs.setCharPref('browser.startup.homepage',homeurl);
+ }
+} 
+</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+    
+<title>财经理论与实践</title>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/xml; charset=gb2312">
+<meta name="description" content="财经理论与实践">
+<meta name="keywords" content="财经理论与实践"  />
+
+<script type="text/javascript" src="js/calendar_new.js"></script>
+	<script type="text/javascript" src="js/checkform.js"></script>
+	<script type="text/javascript" src="js/ajax.js"></script>
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<link href="css/front_table_css.css" rel="stylesheet" type="text/css">
+	<link href="css/fu.css" rel="stylesheet" type="text/css">
+	<link href="css/zi.css" rel="stylesheet" type="text/css">	
+    
+</head> 
+ 
+<body> 
+<center> 
+
+     <div id="container"> 
+            <div id="ascending"> 
+                  <div class="logo"><img src="ext_images/12345678.jpg" /></div> 
+                 <div class="navigation"> 
+                 <ul> 
+                         <li style="width:200px;">
+                         <script language="javascript">
+											var week,day,month,year
+											function initArray(){
+											this.length = initArray.arguments.length
+											for (var i = 0; i < this.length; i++)
+											this[i+1] = initArray.arguments[i]
+											}
+											var LastModDate = new Date(document.lastModified);
+											var WeekArray = new initArray("星期日","星期一","星期二","星期三","星期四","星期五","星期六");
+											var MonthArray = new initArray("1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月");
+											day = LastModDate.getDate() +"日";
+											year = LastModDate.getFullYear() +"年";
+											week = WeekArray[(LastModDate.getDay()+1)];
+											month = MonthArray[(LastModDate.getMonth()+1)];
+											now = new Date();
+											time = now.toLocaleTimeString(); 
+											document.write(year,month,day,"     ",week,"    ");
+								</script>
+                         </li>
+                         <li> 
+                             <A href="index.aspx">首页</A><b style='color:#ffffff;text-align:center;'>|</b><A href="first_menu.aspx?parent_id=20091014184907001">期刊简介</A><b style='color:#ffffff;text-align:center;'>|</b><A href="first_menu.aspx?parent_id=20091014184921001">编委会</A><b style='color:#ffffff;text-align:center;'>|</b><A href="first_menu.aspx?parent_id=20091014184936001">投稿须知</A><b style='color:#ffffff;text-align:center;'>|</b><A href="first_menu.aspx?parent_id=20091014185020001">订阅通知</A><b style='color:#ffffff;text-align:center;'>|</b><A href="first_menu.aspx?parent_id=20091014185027001">联系我们</A><b style='color:#ffffff;text-align:center;'>|</b><A href="first_menu.aspx?parent_id=20220929142242001">版权声明</A>
+                         </li>    
+                 </ul>
+                 </div> 
+                  <div class="xinxi"> 
+                      <ul style="width:1000px;"> 
+                          <li style="margin-left:30px;"><a href="index.aspx"><img src="ext_images/ff_04.jpg" /></a></li> 
+                          <li style="width:400px;"><marquee scrollAmount=2 width=600px height="28" onmouseover=stop() onmouseout=start() direction=left>
+                            </marquee> 
+                          </li> 
+
+                          <li style="float: right; margin-right: 40px;margin-bottom:10px;"><div style="height:33px;width:190px;"><img  style="float:left" src="ext_images/jia.jpg" /><div style="float:left"><a style="margin-bottom:10px;" href="#" onclick="addCookie(document.location.href,'财经理论与实践');">
+                            加入收藏</a>&nbsp;&nbsp;&nbsp;</div><img  style="float:left" src="ext_images/jia.jpg" /><div style="float:left;"><a style="margin-bottom:10px;" href="#"
+                                onclick="setHomepage(document.location.href);">
+                                设为首页</a> </div></div></li>
+
+                      </ul> 
+                  </div> 
+            </div> 
+
+    <div class="left">
+    <div class="left-kuang1">
+        <div class="left-shang1">
+            <img src="ext_images/yangzhu_07.jpg" /></div>
+        <ul style="text-align:center;">
+            <li><a href="author/login.aspx">投稿查稿</a></li>
+            <li><a href="login.aspx">编辑办公</a></li>
+            <li><a href="auditor/login.aspx">专家审稿</a></li>
+            <li><a href="auditor/login.aspx">主编审稿</a></li>
+        </ul>
+        <div class="left-xia1">
+            <img src="ext_images/yangzhu_39.jpg" /></div>
+    </div>
+    <div class="left-kuang2">
+        <div class="left-shang2">
+            <div class="wenzi">
+                常用下载</div>
+        </div>
+        <ul style="width: 210px;">
+        
+        </ul>
+        <div class="left-xia2">
+            <img src="ext_images/yangzhu_39.jpg" /></div>
+    </div>
+    <a href="reader/query_recent_article_list.aspx">
+        <img src="ext_images/yangzhu_45.jpg" style="margin-bottom: 20px;" /></a> 
+        <a href="reader/wait_published_articles.aspx">
+            <img src="ext_images/yangzhu_48.jpg" style="margin-bottom: 20px;" /></a>
+    
+    <div class="left-kuang3">
+        <div class="left-shang3">
+            <div class="wenzi">
+                全文下载排行</div>
+        </div>
+        <ul><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>工业机器人应用对我国经济增长<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>中国对蒙古国投资的新形势与高<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>共同富裕目标下互联网可及性对<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>老年照料对农村劳动力转移空间<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>税负加重是否会影响企业金融资<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>养老保险媒体宣传的差异及助推<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>产业政策如何推动制造业企业数<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>公共文化财政事权与支出责任划<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>企业数字技术应用的减污降碳协<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>数字金融如何赋能文化企业全要<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>城市“亲清”政商关系与企业纳<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>简牍账簿所见中国古代上计制度<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>绿色创新如何影响隐含权益久期<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>核心企业对数智化创新生态系统<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>供应链创新能力和管理会计控制<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>汇率变动与出口产品加成率：影<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>数字平台信息生产与新创企业股<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>智慧交通对绿色经济增长的影响<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>养老金收支平衡视角下延迟退休<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>绿色创新对企业环境绩效的影响<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>何以推进灵活就业人员养老保险<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>气候风险冲击与信贷融资收缩的<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>企业科学研究反哺存在最优财政<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>金融科技影响企业创新投资的效<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>金融集聚、产学研合作与新质生<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>企业ESG表现对企业韧性的影<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>绿色金融能否赋能中国式现代化<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>财政分权、地方政府行为与经济<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>住房产权对城镇居民家庭经济地<font color="#9d9d9d">…</font></a></li><br/><li style='width:203px;'>·<a href='reader/more_download_article_list.aspx'>数字中国建设的现实挑战、战略<font color="#9d9d9d">…</font></a></li></ul>
+        <ul style="float:right; margin-right:10px;"><li><a href="reader/more_download_article_list.aspx">更多>></a></li></ul>
+        <div class="left-xia3">
+            <img src="ext_images/yangzhu_39.jpg" /></div>
+    </div>
+    
+    
+</div>
+<div class="center" style="width:762px;">
+  <form method="post" action="./first_menu.aspx?parent_id=20091014184936001" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<span id="ErrorMessage"></span>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" class="front_table">
+  <tr >
+	<td width="5" ><img src="../../images/newsbg/bg_corn1.jpg" width="5" height="5"></td>
+	<td background="../../images/newsbg/bg_top.jpg" height="5"></td>
+	<td width="5"><img src="../../images/newsbg/bg_corn2.jpg" width="5" height="5"></td>
+  </tr>
+  <tr>
+	<td background="../../images/newsbg/bg_left.jpg" width="5"></td>
+	<td>
+		<div style="margin:4px">
+			<p style="text-align:center;font-size:15px;font-weight:600"><span id="Title">投稿须知</span></p>
+			<p><hr size=1 width="98%" align="center" color="green"></p>
+
+			<p><span id="Content"><p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp;&nbsp; 一、来稿必须符合我刊栏目选题要求，观点鲜明、主题突出、立论科学、引证可靠，文字力求精练，一般在8000字左右，最多不超过10000字（含中英文对照的摘要及关键词、注释、参考文献等）。本刊对来稿在不改变作者观点的情况下有删改权。</span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp;&nbsp; 二、按照国家新闻出版总署颁发的《中国学术期刊（光盘版）检索与评价数据规范》（CAJ-CD1999-02-01试行）标准化要求，投向本刊的稿件要求著者提供题目、摘要、关键词、作者简介、注释、参考文献。</span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp; &nbsp;（一）标题：文章标题应简明、具体、确切、新颖，能概括全文主旨，一般不超过20个汉字，必要时可加副标题，同时配有相应的英文翻译； </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp; （二）摘要：须客观地反映文章的重要内容，篇幅一般不超过200字。其撰写要求见附录二。 </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp; （三）关键词：是反映文章最主要内容的术语词，每篇文章选3～5组为宜。 </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp; （四）作者简介：包括姓名（出生年）、性别、民族、籍贯、职务、职称、研究方向、工作单位、地址、邮编、电话及电子信箱。 </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp; （五）文章题目、作者单位、摘要及关键词均应译出英文，著者姓名标出汉语拼音。 </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp; （六）注释：是对文章中特定内容（引用数据、观点和结论）的进一步解释、说明，在行文的右上角用圆圈序码标出。来稿注释一律用尾注，请勿用脚注或夹注。 </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp; （七）参考文献：指著者引文（正式出版物）所注的出处，按出现的先后顺序在正文中用序号标注置于行文的右上角，并与文末的参考文献序号一一对应。外文参考文献按照国际通行的著录格式标注。其格式见附录 </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp; 三、几点说明： </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp; 1.本刊发表的署名文章，只代表作者本人的观点，文责自负。</span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp; 2. 本刊反对一稿多投、搭便车，严禁抄袭、剽窃、侵吞、篡改他人学术成果。一经发现，本刊将封杀并追究作者责任。稿件一经向本刊提交以后，默认为授权本刊独家出版。 </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp; 3.本刊已入编《中国学术期刊（光盘版）》和&ldquo;中国期刊网&rdquo;，因而惠本刊的并被采用的稿件，均被视为作者已同意稿件入编《中国学术期刊（光盘版）》和&ldquo;中国期刊网&rdquo; ，其著者著作权使用费与本刊稿酬一次性给付。若著者不同意入编，请在来稿中声明。 </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp; 4.本刊所付的稿酬包括印刷版和光盘版（上网络），所刊发的文章若被转载，其稿酬亦含在其中。 </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp; 5.本刊对拟采用的稿件，有权修改、删节，若有异议，请在文中注明。 </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp; 6.本刊采在线投稿用系统投稿。作者投稿后只要有稿件编号的即表示投稿成功，编辑都会对其进行初审（因本刊来稿量大，限于人力，不会对每篇来稿做出回复）。初审通过需送专家评审的才会进一步与作者进行联系。从收稿之日起2个月之内，如在系统里稿件状态显示仍是&ldquo;新收稿&rdquo;，则表明稿件未达到本刊送专家评审标准，作者可自行处理。&nbsp;</span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 《财经理论与实践》编辑部</strong></span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt"><strong>附</strong></span></span><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt"><strong>录：</strong></span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt"><strong>&nbsp;&nbsp;&nbsp; </strong>一、参考文献的著录格式： </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp;&nbsp; 1．著作：［序号］主要责任者.文献题名［M］.出版地：出版社，出版年.起止页码（任选）. </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp; ［1］诺斯.经济史中的结构与变迁［M］.上海：上海人民出版社1994.225-226. </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp; 2．译著：［序号］国名或地区（用圆括号）主要责任者.文献题名［M］.译者.出版地：出版社，出版年.起止页码（任选）. </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp; ［1］（美）迈克尔&middot;波特.竞争战略［M］.陈晓悦译.北京：华夏出版社，1999.20-24. </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp; 3．论文集：［序号］主要责任者.文献题名［C］. 出版地：出版社，出版年.起止页码（任选）.</span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp; ［1］伍蠡甫.西方论文选：下册［C］.上海：上海译文出版社，1979.18-25. </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp;&nbsp; 4．论文集中的析出文献：［序号］析出文献主要责任者.析出文献题名［A］.原文献主要责任者（任选）.原文献题名［C］. 出版地：出版社，出版年.析出文献起止页码. </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp; ［1］钟文发.非线性规划在可燃毒物配置中的应用［A］.赵玮.运筹学的理论与应用&mdash;&mdash;中国运筹学会第五届大会论文集［C］.西安：西安电子科技大学出版社，1996.468-471.〖ZK）〗 </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp; 5．期刊文章：［序号］主要责任者.文献题名［J］.刊名，年，卷（期）：起止页码. </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp; ［1］谢诗芬，戴子礼.现值和公允价值会计：21世纪财务变革的重要前提［J］.财经理论与实践，2005，161（5）：44-50. </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp; 6．报纸文章：［序号］主要责任者.文献题名［N］.报纸名，出版日期（版次）. </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp; ［1］谢希德.创造学习的新思路［N］.人民日报，1998-12-25（10）. </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp; 7．电子文献：［序号］主要责任者.电子文献题名［EB/OL］.文献出处或可获得地址，发表或更新日期/引用日期（任选）. </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp; ［1］王明亮.关于中国学术期刊标准数据库系统工程的进展 ［EB/OL］.http://www.cajcd.edu.cn/pub/wml.txt/980810-2.ntml,1998-08-16/1998-10-04. 常用文献标识码 根据GB3469-83《文献类型与文献载体代码》规定，以单字母标识： 专著(M) 论文集（C）报纸文章（N） 期刊文章（J）学位论文（D） 报告（R） 标准（S） 专利（P） 专著、论文集中的析出文献(A) 其他未说明的文献类型(Z) 电子文献类型以双字母作为标识： 数据库(DB); 计算机程序(CP); 电子公告 (EB) 非纸张型载体电子文献，在参考文献标识中同时标明其载体类型： 联机网上的数据库 (DB/OL); 磁带数据库 (DB/MT); 光盘图书 (M/CD): 磁盘软件 (CP/DK); 网上期刊(J/OL); 网上电子公告 (EB/OL) </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp; 二、学术论文摘要的基本写作要求 </span></span></p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;&nbsp;&nbsp; 摘要是学术论文的重要组成部分。应着重反映论文的新内容和特别强调的观点、着重于论文的成果和结论。摘要不得简单地重复题名中已有的信息，不是正文的补充、注释、总结，也不可加进原文内容以外的解释或评论，更不得进行自我评价。同时要排除在本专业领域内已成常识性的内容。并应尽量避免出现方程式、非规范化的符号、术语和缩略语，尽可能使用主题词或关键词。摘要应用第三人称的写法，不得使用&ldquo;本文&rdquo;、&ldquo;作者&rdquo;等作为主语。 摘要的表达要简明，语义要确切。一般不分段落。字数以150-200字为宜。</span></span></p>
+
+<p align="justify">&nbsp;</p>
+
+<p align="justify"><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp;<strong>&nbsp;</strong></span></span><span style="font-family: 楷体_GB2312"><span style="font-size: 14pt">&nbsp; 为避免被假冒网站欺骗，请作者投稿最好登陆湖南大学主页，通过&ldquo;管理与服务机构&rdquo;窗口进入期刊社网站，再点击《财经理论与实践》即可登陆。 </span></span></p>
+</span></p>
+		</div>
+	</td>
+	<td background="../../images/newsbg/bg_right.jpg" width="5"></td>
+  </tr>
+  <tr  height="5">
+	<td><img src="../../images/newsbg/bg_corn3.jpg" width="5" height="5"></td>
+	<td background="../../images/newsbg/bg_bottom.jpg"></td>
+	<td><img src="../../images/newsbg/bg_corn4.jpg" width="5" height="5"></td>
+  </tr>
+</table>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="83A0293C" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div></form>
+</div>
+
+
+    
+      
+      <div>
+          <div id="footer"> 
+             <br />您是本站第&nbsp;
+                <img src=images/01shuzi.gif>
+            
+                <img src=images/01shuzi.gif>
+            
+                <img src=images/00shuzi.gif>
+            
+                <img src=images/08shuzi.gif>
+            
+                <img src=images/08shuzi.gif>
+            
+                <img src=images/02shuzi.gif>
+            
+                <img src=images/01shuzi.gif>
+            
+                <img src=images/07shuzi.gif>
+            
+                     
+                     
+                     &nbsp;位访问者,今日访问&nbsp;
+                     
+                     
+                <img src=images/02shuzi.gif>
+            
+                <img src=images/06shuzi.gif>
+            
+                <img src=images/05shuzi.gif>
+            
+                <img src=images/05shuzi.gif>
+            &nbsp;次<br /><br />主管单位：教育部  主办单位：湖南大学 <br /><br/>
+                    技术支持：<a href="http://www.e-tiller.com" style="color:#e25100"> 北京勤云科技发展有限公司</a>
+          </div> 
+      </div>
+</center> 
+</body> 
+</html> 
+        

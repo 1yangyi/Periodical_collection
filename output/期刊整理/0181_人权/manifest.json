@@ -1,0 +1,61 @@
+{
+  "journal": {
+    "name": "人权",
+    "url": "https://www.humanrights.cn/journal/index.html",
+    "journal_id": "",
+    "row": 182,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.humanrights.cn/journal/index.html",
+  "collected_at": "2026-11-26T20:57:58+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.humanrights.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.humanrights.cn/journal/index.html",
+      "requested_url": "https://www.humanrights.cn/journal/index.html",
+      "title": "《人权》杂志-中国人权网",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:57:58+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.humanrights.cn/journal/index.html",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://www.humanrights.cn/journal/index.html",
+      "title": "人权",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

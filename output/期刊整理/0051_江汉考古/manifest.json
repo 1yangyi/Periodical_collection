@@ -1,0 +1,88 @@
+{
+  "journal": {
+    "name": "江汉考古",
+    "url": "https://www.hbkgy.com/jhkg/index.html",
+    "journal_id": "",
+    "row": 52,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.hbkgy.com/jhkg/index.html",
+  "collected_at": "2026-11-26T20:45:31+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.hbkgy.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.hbkgy.com/jhkg/index.html",
+      "requested_url": "https://www.hbkgy.com/jhkg/index.html",
+      "title": "江汉考古 - 湖北省文物考古研究院",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:45:31+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.hbkgy.com/xggf/p/5714.html",
+      "requested_url": "https://www.hbkgy.com/xggf/p/5714.html",
+      "title": "《江汉考古》关于引文注释的规定",
+      "path": [
+        "https://www.hbkgy.com/jhkg/index.html",
+        "首页页脚「相关规范」",
+        "《江汉考古》关于引文注释的规定"
+      ],
+      "visited_at": "2026-11-26T20:45:31+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.hbkgy.com/xggf/p/7957.html",
+      "requested_url": "https://www.hbkgy.com/xggf/p/7957.html",
+      "title": "《江汉考古》关于引文注释的规定（测试版）",
+      "path": [
+        "https://www.hbkgy.com/jhkg/index.html",
+        "首页页脚「相关规范」",
+        "《江汉考古》关于引文注释的规定（测试版）"
+      ],
+      "visited_at": "2026-11-26T20:45:31+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.hbkgy.com/bkjs",
+      "title": "投稿指南",
+      "source_url": "https://www.hbkgy.com/jhkg/index.html",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "跳转到未核实域名：http://hbsbwg.cjyun.org/bkjs/index.html",
+      "context": "投稿指南"
+    },
+    {
+      "url": "https://www.hbkgy.com/jhkg/index.html",
+      "title": "江汉考古",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

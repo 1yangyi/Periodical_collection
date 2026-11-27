@@ -1,0 +1,61 @@
+{
+  "journal": {
+    "name": "中国工业经济",
+    "url": "https://ciejournal.ajcass.com/Admin/user/login?group=author",
+    "journal_id": "",
+    "row": 165,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://ciejournal.ajcass.com/Admin/user/login?group=author",
+  "collected_at": "2026-11-26T20:57:47+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "ciejournal.ajcass.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://ciejournal.ajcass.com/Admin/user/login?group=author",
+      "requested_url": "https://ciejournal.ajcass.com/Admin/user/login?group=author",
+      "title": "中国工业经济 稿件管理系统",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:57:47+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://ciejournal.ajcass.com/Admin/user/login?group=author",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://ciejournal.ajcass.com/Admin/user/login?group=author",
+      "title": "中国工业经济",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

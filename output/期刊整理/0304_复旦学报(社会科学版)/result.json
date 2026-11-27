@@ -1,0 +1,32 @@
+{
+  "index": 304,
+  "journal": "复旦学报(社会科学版)",
+  "url": "https://wkkyc.fudan.edu.cn/xsqk/list.htm",
+  "source_sheet": "可打开",
+  "source_row": 305,
+  "started_at": "2026-11-26T20:59:30+08:00",
+  "finished_at": "2026-11-26T20:59:40+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 7,
+    "artifacts": 0,
+    "pending": 8,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST network-policies 返回 HTTP 422"
+  ],
+  "manifest": "0304_复旦学报(社会科学版)/manifest.json",
+  "pages": 7,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 10,
+  "pending_reasons": [
+    "browser_use_failed",
+    "needs_review",
+    "no_valid_word_or_pdf",
+    "page_fetch_failed"
+  ]
+}

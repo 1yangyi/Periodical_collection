@@ -1,0 +1,588 @@
+{
+  "started_at": "2026-11-26T20:00:48+08:00",
+  "source": "/Users/yangyi/periodical_collection/data/期刊复核_已分类.xlsx",
+  "policy": "requests and BeautifulSoup first; Browser Use Cloud only if no validated doc/docx/pdf; Playwright disabled",
+  "planned_count": 5,
+  "counts": {
+    "completed": 3,
+    "uncompleted": 2
+  },
+  "results": [
+    {
+      "journal": "矿物岩石地球化学通报",
+      "url": "https://www.gyig.ac.cn/tzgg_/202506/t20250606_7799141.html",
+      "source_row": 220,
+      "status": "uncompleted",
+      "browser_use_invoked": true,
+      "before_fallback": {
+        "pages": 15,
+        "artifacts": 1,
+        "pending": 9
+      },
+      "manifest": "01_矿物岩石地球化学通报/manifest.json",
+      "pages": 16,
+      "attachments": [],
+      "webpage_text": 1,
+      "pending": [
+        {
+          "url": "https://www.gyig.ac.cn/tzgg_/202610/P020261028411640491498.pdf",
+          "title": "第三届宇宙成因核素测量技术与应用青年学术论坛（第三轮通知）",
+          "source_url": "https://www.gyig.ac.cn/tzgg_/",
+          "path": [
+            "官网入口",
+            "通知公告",
+            "第三届宇宙成因核素测量技术与应用青年学术论坛（第三轮通知）"
+          ],
+          "reason": "needs_review",
+          "detail": "",
+          "context": "第三届宇宙成因核素测量技术与应用青年学术论坛（第三轮通知） 2026-10-28"
+        },
+        {
+          "url": "https://www.sciengine.com/DENRE/home",
+          "title": "https://www.sciengine.com/DENRE/home",
+          "source_url": "https://www.gyig.ac.cn/tzgg_/202609/t20260909_8279790.html",
+          "path": [
+            "官网入口",
+            "通知公告",
+            "2",
+            "Data Express in Natural Resources and Environment(DENRE)征稿启事",
+            "https://www.sciengine.com/DENRE/home"
+          ],
+          "reason": "depth_limit",
+          "detail": "",
+          "context": "期刊主页： https://www.sciengine.com/DENRE/home"
+        },
+        {
+          "url": "https://www.gyig.ac.cn/tzgg_/202510/P020251030607699169322.pdf",
+          "title": "中国科学院地球化学研究所分析测试中心公正性声明",
+          "source_url": "https://www.gyig.ac.cn/tzgg_/index_5.html",
+          "path": [
+            "官网入口",
+            "通知公告",
+            "5",
+            "下一页",
+            "中国科学院地球化学研究所分析测试中心公正性声明"
+          ],
+          "reason": "needs_review",
+          "detail": "",
+          "context": "中国科学院地球化学研究所分析测试中心公正性声明 2025-10-30"
+        },
+        {
+          "url": "https://www.gyig.ac.cn/tzgg_/202510/P020251009367265628488.pdf",
+          "title": "第十一届全国成矿理论与找矿方法学术讨论会（第二号通知）",
+          "source_url": "https://www.gyig.ac.cn/tzgg_/index_5.html",
+          "path": [
+            "官网入口",
+            "通知公告",
+            "5",
+            "下一页",
+            "第十一届全国成矿理论与找矿方法学术讨论会（第二号通知）"
+          ],
+          "reason": "needs_review",
+          "detail": "",
+          "context": "第十一届全国成矿理论与找矿方法学术讨论会（第二号通知） 2025-10-09"
+        },
+        {
+          "url": "https://www.gyig.ac.cn/tzgg_/201005/t20100505_6253866.html",
+          "title": "通知",
+          "source_url": "https://www.gyig.ac.cn/tzgg_/index_52.html",
+          "path": [
+            "官网入口",
+            "通知公告",
+            "尾页",
+            "53",
+            "通知"
+          ],
+          "reason": "depth_limit",
+          "detail": "",
+          "context": "通知 2010-05-05"
+        },
+        {
+          "url": "https://www.gyig.ac.cn/tzgg_/index_6.html",
+          "title": "7",
+          "source_url": "https://www.gyig.ac.cn/tzgg_/index_5.html",
+          "path": [
+            "官网入口",
+            "通知公告",
+            "5",
+            "下一页",
+            "7"
+          ],
+          "reason": "depth_limit",
+          "detail": "",
+          "context": "7"
+        },
+        {
+          "url": "https://www.gyig.ac.cn/tzgg_/index_7.html",
+          "title": "8",
+          "source_url": "https://www.gyig.ac.cn/tzgg_/index_5.html",
+          "path": [
+            "官网入口",
+            "通知公告",
+            "5",
+            "下一页",
+            "8"
+          ],
+          "reason": "depth_limit",
+          "detail": "",
+          "context": "8"
+        },
+        {
+          "url": "https://www.gyig.ac.cn/tzgg_/index_8.html",
+          "title": "9",
+          "source_url": "https://www.gyig.ac.cn/tzgg_/index_5.html",
+          "path": [
+            "官网入口",
+            "通知公告",
+            "5",
+            "下一页",
+            "9"
+          ],
+          "reason": "depth_limit",
+          "detail": "",
+          "context": "9"
+        },
+        {
+          "url": "https://www.gyig.ac.cn/tzgg_/index_9.html",
+          "title": "10",
+          "source_url": "https://www.gyig.ac.cn/tzgg_/index_5.html",
+          "path": [
+            "官网入口",
+            "通知公告",
+            "5",
+            "下一页",
+            "10"
+          ],
+          "reason": "depth_limit",
+          "detail": "",
+          "context": "10"
+        },
+        {
+          "url": "https://www.gyig.ac.cn/tzgg_/202506/t20250606_7799141.html",
+          "title": "矿物岩石地球化学通报",
+          "source_url": "",
+          "path": [],
+          "reason": "no_valid_word_or_pdf",
+          "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "journal": "InfoMat",
+      "url": "https://journal.hep.com.cn/infomat/EN/home",
+      "source_row": 321,
+      "status": "completed",
+      "browser_use_invoked": false,
+      "before_fallback": null,
+      "manifest": "02_InfoMat/manifest.json",
+      "pages": 2,
+      "attachments": [
+        {
+          "title": "Research Article Template (MS word)",
+          "format": "docx",
+          "local_path": "02_InfoMat/attachments/Research+Article+Template11.10_3d38949d9f.docx"
+        },
+        {
+          "title": "Review Template (MS word)",
+          "format": "docx",
+          "local_path": "02_InfoMat/attachments/Review+Article+Template11.12_cf1f33f56e.docx"
+        }
+      ],
+      "webpage_text": 0,
+      "pending": [
+        {
+          "url": "https://journal.hep.com.cn/pb-assets/25673173/Guidelines%20for%20the%20Preparation%20of%20Figures-1573182704117.pdf",
+          "title": "Guidelines for the Preparation of Figures",
+          "source_url": "https://journal.hep.com.cn/infomat/EN/guidelines",
+          "path": [
+            "官网入口",
+            "Author guidelines",
+            "Guidelines for the Preparation of Figures"
+          ],
+          "reason": "needs_review",
+          "detail": "",
+          "context": "Guidelines for the Preparation of Figures"
+        },
+        {
+          "url": "https://journal.hep.com.cn/pb-assets/25673165/Graphic%20TOC-1577161100207.pdf",
+          "title": "Guidlines for Graphic in Table of Contents (TOC)",
+          "source_url": "https://journal.hep.com.cn/infomat/EN/guidelines",
+          "path": [
+            "官网入口",
+            "Author guidelines",
+            "Guidlines for Graphic in Table of Contents (TOC)"
+          ],
+          "reason": "needs_review",
+          "detail": "",
+          "context": "Guidlines for Graphic in Table of Contents (TOC)"
+        },
+        {
+          "url": "https://journal.hep.com.cn/pb-assets/25673165/Cover%20guideline-1581321993697.pdf",
+          "title": "Guidelines for the Preparation of Front/Inside Cover",
+          "source_url": "https://journal.hep.com.cn/infomat/EN/guidelines",
+          "path": [
+            "官网入口",
+            "Author guidelines",
+            "Guidelines for the Preparation of Front/Inside Cover"
+          ],
+          "reason": "needs_review",
+          "detail": "",
+          "context": "Guidelines for the Preparation of Front/Inside Cover (Copyright permission form is here )"
+        },
+        {
+          "url": "https://onlinelibrary.wiley.com/pb-assets/26379368/FORM%20-%20Permissions%20Request-1580903739340.pdf",
+          "title": "here",
+          "source_url": "https://journal.hep.com.cn/infomat/EN/guidelines",
+          "path": [
+            "官网入口",
+            "Author guidelines",
+            "here"
+          ],
+          "reason": "needs_review",
+          "detail": "",
+          "context": "Guidelines for the Preparation of Front/Inside Cover (Copyright permission form is here )"
+        },
+        {
+          "url": "http://media.wiley.com/assets/7323/92/electronic_artwork_guidelines.pdf",
+          "title": "here",
+          "source_url": "https://journal.hep.com.cn/infomat/EN/guidelines",
+          "path": [
+            "官网入口",
+            "Author guidelines",
+            "here"
+          ],
+          "reason": "needs_review",
+          "detail": "",
+          "context": "here"
+        },
+        {
+          "url": "https://authorservices.wiley.com/asset/photos/electronic_artwork_guidelines.pdf",
+          "title": "basic figure requirements",
+          "source_url": "https://journal.hep.com.cn/infomat/EN/guidelines",
+          "path": [
+            "官网入口",
+            "Author guidelines",
+            "basic figure requirements"
+          ],
+          "reason": "needs_review",
+          "detail": "",
+          "context": "You should review the basic figure requirements for manuscripts for peer review, as well as the more detailed post-acceptance figure requirements."
+        },
+        {
+          "url": "https://authorservices.wiley.com/asset/Authorship-change-form_AS.pdf",
+          "title": "Request for Changes to a Journal Article Author List Form",
+          "source_url": "https://journal.hep.com.cn/infomat/EN/guidelines",
+          "path": [
+            "官网入口",
+            "Author guidelines",
+            "Request for Changes to a Journal Article Author List Form"
+          ],
+          "reason": "needs_review",
+          "detail": "",
+          "context": "Request for Changes to a Journal Article Author List Form"
+        }
+      ]
+    },
+    {
+      "journal": "天然气工业",
+      "url": "https://www.cngascn.com/",
+      "source_row": 354,
+      "status": "completed",
+      "browser_use_invoked": false,
+      "before_fallback": null,
+      "manifest": "03_天然气工业/manifest.json",
+      "pages": 3,
+      "attachments": [
+        {
+          "title": "点击下载",
+          "format": "docx",
+          "local_path": "03_天然气工业/attachments/20210425153836167_b8652b3530.docx"
+        },
+        {
+          "title": "点击下载",
+          "format": "docx",
+          "local_path": "03_天然气工业/attachments/20210425111909133_983a8de1bd.docx"
+        }
+      ],
+      "webpage_text": 0,
+      "pending": [
+        {
+          "url": "https://www.cngascn.com/uploads/files/2021/11/20211126163627159.pdf",
+          "title": "点击下载",
+          "source_url": "https://www.cngascn.com/index/lists/downloads.html",
+          "path": [
+            "官网入口",
+            "下载中心",
+            "点击下载"
+          ],
+          "reason": "needs_review",
+          "detail": "",
+          "context": "2021年Ei检索收录 点击下载"
+        },
+        {
+          "url": "https://www.cngascn.com/uploads/files/2020/11/20201126171512124.pdf",
+          "title": "点击下载",
+          "source_url": "https://www.cngascn.com/index/lists/downloads.html",
+          "path": [
+            "官网入口",
+            "下载中心",
+            "点击下载"
+          ],
+          "reason": "needs_review",
+          "detail": "",
+          "context": "2019Ei收录216全 点击下载"
+        },
+        {
+          "url": "https://www.cngascn.com/uploads/files/2020/11/20201126171452132.pdf",
+          "title": "点击下载",
+          "source_url": "https://www.cngascn.com/index/lists/downloads.html",
+          "path": [
+            "官网入口",
+            "下载中心",
+            "点击下载"
+          ],
+          "reason": "needs_review",
+          "detail": "",
+          "context": "2018年Ei检索收录215篇全 点击下载"
+        },
+        {
+          "url": "https://www.cngascn.com/uploads/files/2021/11/20211126163612129.pdf",
+          "title": "点击下载",
+          "source_url": "https://www.cngascn.com/index/lists/downloads.html",
+          "path": [
+            "官网入口",
+            "下载中心",
+            "点击下载"
+          ],
+          "reason": "needs_review",
+          "detail": "",
+          "context": "2020年Ei检索收录 点击下载"
+        },
+        {
+          "url": "https://www.cngascn.com/uploads/files/2020/11/20201126164647143.docx",
+          "title": "点击下载",
+          "source_url": "https://www.cngascn.com/index/lists/downloads.html",
+          "path": [
+            "官网入口",
+            "下载中心",
+            "点击下载"
+          ],
+          "reason": "needs_review",
+          "detail": "",
+          "context": "版权协议及保密证明 点击下载"
+        },
+        {
+          "url": "https://www.cngascn.com/uploads/files/2020/11/20201126164519143.docx",
+          "title": "点击下载",
+          "source_url": "https://www.cngascn.com/index/lists/downloads.html",
+          "path": [
+            "官网入口",
+            "下载中心",
+            "点击下载"
+          ],
+          "reason": "needs_review",
+          "detail": "",
+          "context": "下载往期目录和封面的方法 点击下载"
+        }
+      ]
+    },
+    {
+      "journal": "新疆地质",
+      "url": "https://www.scicloudcenter.com/XJG/",
+      "source_row": 468,
+      "status": "uncompleted",
+      "browser_use_invoked": true,
+      "before_fallback": {
+        "pages": 2,
+        "artifacts": 0,
+        "pending": 1
+      },
+      "manifest": "04_新疆地质/manifest.json",
+      "pages": 4,
+      "attachments": [],
+      "webpage_text": 1,
+      "pending": [
+        {
+          "url": "https://www.scicloudcenter.com/XJG/",
+          "title": "",
+          "source_url": "",
+          "path": [
+            "官网入口"
+          ],
+          "reason": "needs_review",
+          "detail": "检测到待操作的动态投稿栏目",
+          "context": ""
+        },
+        {
+          "url": "https://www.scicloudcenter.com/XJG/",
+          "title": "新疆地质",
+          "source_url": "",
+          "path": [],
+          "reason": "no_valid_word_or_pdf",
+          "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+          "context": ""
+        }
+      ]
+    },
+    {
+      "journal": "Plant Phenomics",
+      "url": "https://www.sciopen.com/journal/2097-0374",
+      "source_row": 372,
+      "status": "completed",
+      "browser_use_invoked": false,
+      "before_fallback": null,
+      "manifest": "05_Plant Phenomics/manifest.json",
+      "pages": 2,
+      "attachments": [
+        {
+          "title": "manuscript template",
+          "format": "docx",
+          "local_path": "05_Plant Phenomics/attachments/PP_MT_ad9850f386.docx"
+        }
+      ],
+      "webpage_text": 0,
+      "pending": [
+        {
+          "url": "https://www.sciopen.com/journal/2097-0374",
+          "title": "",
+          "source_url": "",
+          "path": [
+            "官网入口"
+          ],
+          "reason": "needs_review",
+          "detail": "检测到待操作的动态投稿栏目",
+          "context": ""
+        },
+        {
+          "url": "https://www.editorialmanager.com/plantphenomics/account/PP_MT.docx",
+          "title": "Word",
+          "source_url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1789911731820728322&issn=2097-0374",
+          "path": [
+            "官网入口",
+            "Submission Guidelines",
+            "Word"
+          ],
+          "reason": "needs_review",
+          "detail": "",
+          "context": "Word"
+        },
+        {
+          "url": "https://spj.science.org/pb-assets/SPJ/CustomPages/Misc/SPJ_Figure_Preparation_Guide-1691522222.pdf",
+          "title": "figure guide",
+          "source_url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1789911731820728322&issn=2097-0374",
+          "path": [
+            "官网入口",
+            "Submission Guidelines",
+            "figure guide"
+          ],
+          "reason": "needs_review",
+          "detail": "",
+          "context": "figure guide"
+        },
+        {
+          "url": "https://www.editorialmanager.com/plantphenomics/account/PlantPhenomics_COI_form.pdf",
+          "title": "Download the Authorship and Conflict of Interest Form",
+          "source_url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1789911731820728322&issn=2097-0374",
+          "path": [
+            "官网入口",
+            "Submission Guidelines",
+            "Download the Authorship and Conflict of Interest Form"
+          ],
+          "reason": "needs_review",
+          "detail": "",
+          "context": "Download the Authorship and Conflict of Interest Form"
+        },
+        {
+          "url": "https://www.editorialmanager.com/plantphenomics/account/PlantPhenomics_LicensetoPublish.pdf",
+          "title": "Download the License to Publish Form",
+          "source_url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1789911731820728322&issn=2097-0374",
+          "path": [
+            "官网入口",
+            "Submission Guidelines",
+            "Download the License to Publish Form"
+          ],
+          "reason": "needs_review",
+          "detail": "",
+          "context": "Download the License to Publish Form"
+        },
+        {
+          "url": "https://www.editorialmanager.com/plantphenomics/account/PlantPhenomics_ImagePermission.pdf",
+          "title": "Download the Image Permission Form",
+          "source_url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1789911731820728322&issn=2097-0374",
+          "path": [
+            "官网入口",
+            "Submission Guidelines",
+            "Download the Image Permission Form"
+          ],
+          "reason": "needs_review",
+          "detail": "",
+          "context": "Download the Image Permission Form"
+        }
+      ]
+    }
+  ],
+  "finished_at": "2026-11-26T20:03:19+08:00",
+  "review_findings": [
+    {
+      "journal": "矿物岩石地球化学通报",
+      "issue": "wrong_journal_webpage_text",
+      "detail": "正文副本实际为 Data Express in Natural Resources and Environment (DENRE) 征稿启事，不计入目标期刊有效资料。保留原始输出用于排查。",
+      "local_path": "01_矿物岩石地球化学通报/矿物岩石地球化学通报投稿格式.md"
+    },
+    {
+      "journal": "新疆地质",
+      "issue": "webpage_only",
+      "detail": "已保存本刊投稿须知正文，但未取得有效 Word/PDF；Browser Use 已补查，仍为 uncompleted。"
+    }
+  ],
+  "verification": {
+    "journals_processed": 5,
+    "word_pdf_files_verified": 5,
+    "browser_use_invocations": 2,
+    "playwright_enabled": false,
+    "checks": [
+      "all artifact files exist",
+      "attachment SHA-256 matches manifest",
+      "attachment signatures match declared formats",
+      "completion status matches valid originals"
+    ],
+    "attachment_files": [
+      {
+        "journal": "InfoMat",
+        "path": "02_InfoMat/attachments/Research+Article+Template11.10_3d38949d9f.docx",
+        "bytes": 248202,
+        "sha256_verified": true,
+        "format_verified": true
+      },
+      {
+        "journal": "InfoMat",
+        "path": "02_InfoMat/attachments/Review+Article+Template11.12_cf1f33f56e.docx",
+        "bytes": 207144,
+        "sha256_verified": true,
+        "format_verified": true
+      },
+      {
+        "journal": "天然气工业",
+        "path": "03_天然气工业/attachments/20210425153836167_b8652b3530.docx",
+        "bytes": 41031,
+        "sha256_verified": true,
+        "format_verified": true
+      },
+      {
+        "journal": "天然气工业",
+        "path": "03_天然气工业/attachments/20210425111909133_983a8de1bd.docx",
+        "bytes": 286384,
+        "sha256_verified": true,
+        "format_verified": true
+      },
+      {
+        "journal": "Plant Phenomics",
+        "path": "05_Plant Phenomics/attachments/PP_MT_ad9850f386.docx",
+        "bytes": 55670,
+        "sha256_verified": true,
+        "format_verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "journal": {
+    "name": "服装学报",
+    "url": "http://fzxb.paperonce.org/",
+    "journal_id": "",
+    "row": 365,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "completed",
+  "homepage_resolved": "http://fzxb.paperonce.org/",
+  "collected_at": "2026-11-26T21:00:15+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "fzxb.paperonce.org"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "http://fzxb.paperonce.org/",
+      "requested_url": "http://fzxb.paperonce.org/",
+      "title": "网站导航",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:00:15+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://fzxb.paperonce.org/Corp/30.aspx",
+      "requested_url": "http://fzxb.paperonce.org/Corp/30.aspx",
+      "title": "投稿须知 - 《服装学报》",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T21:00:15+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://fzxb.paperonce.org/docs/AuthorPark/details.aspx?documentid=28&Nid=CB43E2FF-9C81-4DE9-93AB-423ECBFD497E",
+      "requested_url": "http://fzxb.paperonce.org/docs/AuthorPark/details.aspx?documentid=28&Nid=CB43E2FF-9C81-4DE9-93AB-423ECBFD497E",
+      "title": "写作要求 - 《服装学报》",
+      "path": [
+        "官网入口",
+        "写作要求"
+      ],
+      "visited_at": "2026-11-26T21:00:15+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://fzxb.paperonce.org/docs/xzzx/default.aspx",
+      "requested_url": "http://fzxb.paperonce.org/docs/xzzx/default.aspx",
+      "title": "网站导航",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "visited_at": "2026-11-26T21:00:15+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "网站导航",
+      "source_url": "http://fzxb.paperonce.org/",
+      "path": [
+        "官网入口"
+      ],
+      "local_path": "web/网站导航_937fc54755.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "attachment",
+      "format": "pdf",
+      "title": "《服装学报》论文模板",
+      "local_path": "attachments/ee1686b6-f9b8-4c11-b466-d38e18dc1ab8_c3fe55b183.pdf",
+      "sha256": "c3fe55b183dc185de0ea84c7b2651fcfef575e3ada6c2620bfce79e5748cb407",
+      "bytes": 1498890,
+      "sources": [
+        {
+          "source_url": "http://fzxb.paperonce.org/",
+          "download_url": "http://fzxb.paperonce.org/Upload/Park/ee1686b6-f9b8-4c11-b466-d38e18dc1ab8.pdf",
+          "resolved_url": "http://fzxb.paperonce.org/Upload/Park/ee1686b6-f9b8-4c11-b466-d38e18dc1ab8.pdf",
+          "path": [
+            "官网入口",
+            "《服装学报》论文模板"
+          ],
+          "label": "《服装学报》论文模板",
+          "context": "《服装学报》论文模板",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "webpage",
+      "title": "投稿须知 - 《服装学报》",
+      "source_url": "http://fzxb.paperonce.org/Corp/30.aspx",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "local_path": "web/投稿须知 - 《服装学报》_f04fdbafbc.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "写作要求 - 《服装学报》",
+      "source_url": "http://fzxb.paperonce.org/docs/AuthorPark/details.aspx?documentid=28&Nid=CB43E2FF-9C81-4DE9-93AB-423ECBFD497E",
+      "path": [
+        "官网入口",
+        "写作要求"
+      ],
+      "local_path": "web/写作要求 - 《服装学报》_045817d001.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "服装学报投稿格式",
+      "local_path": "服装学报投稿格式.md",
+      "source_urls": [
+        "http://fzxb.paperonce.org/Corp/30.aspx",
+        "http://fzxb.paperonce.org/docs/AuthorPark/details.aspx?documentid=28&Nid=CB43E2FF-9C81-4DE9-93AB-423ECBFD497E"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "http://fzxb.paperonce.org/Upload/Park/105f6705-d804-469b-838e-782061895c96.docx",
+      "title": "版权转让合同",
+      "source_url": "http://fzxb.paperonce.org/docs/xzzx/default.aspx",
+      "path": [
+        "官网入口",
+        "下载中心",
+        "版权转让合同"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "版权转让合同 [2015/1/13]"
+    },
+    {
+      "url": "http://fzxb.paperonce.org/Upload/Park/2cebfa83-693d-4ba3-ad35-86a42b03759e.doc",
+      "title": "《服装学报》稿件修改说明",
+      "source_url": "http://fzxb.paperonce.org/docs/xzzx/default.aspx",
+      "path": [
+        "官网入口",
+        "下载中心",
+        "《服装学报》稿件修改说明"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "《服装学报》稿件修改说明 [2015/1/13]"
+    }
+  ]
+}

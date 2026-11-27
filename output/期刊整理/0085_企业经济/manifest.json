@@ -1,0 +1,109 @@
+{
+  "journal": {
+    "name": "企业经济",
+    "url": "https://quit.cbpt.cnki.net/portal/journal/portal/client/index",
+    "journal_id": "",
+    "row": 86,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://quit.cbpt.cnki.net/portal/journal/portal/client/index",
+  "collected_at": "2026-11-26T20:50:25+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "quit.cbpt.cnki.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://quit.cbpt.cnki.net/portal/journal/portal/client/index",
+      "requested_url": "https://quit.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "企业经济",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:50:25+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://quit.cbpt.cnki.net/portal/journal/portal/client/news/quit_2fce6e50-50ac-48de-a475-a2ddb5b1f91d",
+      "requested_url": "https://quit.cbpt.cnki.net/portal/journal/portal/client/news/quit_2fce6e50-50ac-48de-a475-a2ddb5b1f91d",
+      "title": "投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:50:25+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://quit.cbpt.cnki.net/portal/journal/portal/client/download/quit_54253c13-816a-4cda-85b4-048f7444fa78?title=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83",
+      "requested_url": "https://quit.cbpt.cnki.net/portal/journal/portal/client/download/quit_54253c13-816a-4cda-85b4-048f7444fa78?title=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83",
+      "title": "企业经济",
+      "path": [
+        "首页",
+        "下载中心"
+      ],
+      "visited_at": "2026-11-26T20:50:25+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿指南",
+      "source_url": "https://quit.cbpt.cnki.net/portal/journal/portal/client/news/quit_2fce6e50-50ac-48de-a475-a2ddb5b1f91d",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "local_path": "web/投稿指南_7c8112a989.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "企业经济投稿格式",
+      "local_path": "企业经济投稿格式.md",
+      "source_urls": [
+        "https://quit.cbpt.cnki.net/portal/journal/portal/client/news/quit_2fce6e50-50ac-48de-a475-a2ddb5b1f91d"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://quit.cbpt.cnki.net/portal/journal/portal/client/download/quit_54253c13-816a-4cda-85b4-048f7444fa78?title=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83",
+      "title": "下载中心",
+      "source_url": "https://quit.cbpt.cnki.net/portal/journal/portal/client/news/quit_2fce6e50-50ac-48de-a475-a2ddb5b1f91d",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "下载中心"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载中心"
+    },
+    {
+      "url": "https://quit.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "企业经济",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

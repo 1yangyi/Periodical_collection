@@ -1,0 +1,61 @@
+{
+  "journal": {
+    "name": "法学论坛",
+    "url": "http://www.sdsfxh.org.cn/",
+    "journal_id": "CSSCI-2025-0010",
+    "row": 11,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "",
+  "collected_at": "2026-11-18T17:52:58+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.sdsfxh.org.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "http://www.sdsfxh.org.cn/",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "HTTPConnectionPool(host='www.sdsfxh.org.cn', port=80): Max retries exceeded with url: / (Caused by ReadTimeoutError(\"HTTPConnectionPool(host='www.sdsfxh.org.cn', port=80): Read timed out. (read timeout=15)\"))",
+      "context": ""
+    },
+    {
+      "url": "http://www.sdsfxh.org.cn/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "HTTPSConnectionPool(host='api.browser-use.com', port=443): Read timed out. (read timeout=10)",
+      "context": ""
+    },
+    {
+      "url": "http://www.sdsfxh.org.cn/",
+      "title": "法学论坛",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

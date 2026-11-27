@@ -1,0 +1,108 @@
+{
+  "journal": {
+    "name": "经济学(季刊)",
+    "url": "https://nsd.pku.edu.cn/cbw/jjxjk/index.htm",
+    "journal_id": "",
+    "row": 347,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://nsd.pku.edu.cn/cbw/jjxjk/index.htm",
+  "collected_at": "2026-11-26T20:59:57+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "nsd.pku.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://nsd.pku.edu.cn/cbw/jjxjk/index.htm",
+      "requested_url": "https://nsd.pku.edu.cn/cbw/jjxjk/index.htm",
+      "title": "出版物",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:57+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://nsd.pku.edu.cn/jxxm/bks/tzgg6/index.htm",
+      "requested_url": "https://nsd.pku.edu.cn/jxxm/bks/tzgg6/index.htm",
+      "title": "教学项目",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:59:57+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://nsd.pku.edu.cn/jxxm/bks/tzgg6/index1.htm",
+      "requested_url": "https://nsd.pku.edu.cn/jxxm/bks/tzgg6/index1.htm",
+      "title": "教学项目",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "下一页"
+      ],
+      "visited_at": "2026-11-26T20:59:57+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://nsd.pku.edu.cn/cbw/jjxjk/xwsd/534639.htm",
+      "title": "“早期中国发展及其长久影响”研讨会征稿启事",
+      "source_url": "https://nsd.pku.edu.cn/cbw/jjxjk/index.htm",
+      "path": [
+        "官网入口",
+        "“早期中国发展及其长久影响”研讨会征稿启事"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "404 Client Error: Not Found for url: https://nsd.pku.edu.cn/cbw/jjxjk/xwsd/534639.htm",
+      "context": "“早期中国发展及其长久影响”研讨会征稿启事 2024-03-06"
+    },
+    {
+      "url": "https://nsd.pku.edu.cn/cbw/jjxjk/zxtgsgx/534920.htm",
+      "title": "《经济学》（季刊）投稿须知",
+      "source_url": "https://nsd.pku.edu.cn/cbw/jjxjk/index.htm",
+      "path": [
+        "官网入口",
+        "《经济学》（季刊）投稿须知"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "404 Client Error: Not Found for url: https://nsd.pku.edu.cn/cbw/jjxjk/zxtgsgx/534920.htm",
+      "context": "《经济学》（季刊）投稿须知 2023-10-17"
+    },
+    {
+      "url": "https://nsd.pku.edu.cn/cbw/jjxjk/index.htm",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://nsd.pku.edu.cn/cbw/jjxjk/index.htm",
+      "title": "经济学(季刊)",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

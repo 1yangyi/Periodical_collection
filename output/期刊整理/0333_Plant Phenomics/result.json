@@ -1,0 +1,30 @@
+{
+  "index": 333,
+  "journal": "Plant Phenomics",
+  "url": "https://www.sciopen.com/journal/2097-0374",
+  "source_sheet": "可打开",
+  "source_row": 334,
+  "started_at": "2026-11-26T20:59:50+08:00",
+  "finished_at": "2026-11-26T20:59:55+08:00",
+  "status": "completed",
+  "browser_use_invoked": false,
+  "before_fallback": null,
+  "browser_use_errors": [],
+  "manifest": "0333_Plant Phenomics/manifest.json",
+  "pages": 2,
+  "attachments": [
+    {
+      "title": "manuscript template",
+      "format": "docx",
+      "local_path": "0333_Plant Phenomics/attachments/PP_MT_ad9850f386.docx",
+      "sha256": "ad9850f38601deee2a44c9cf2265008180dc65d48c24b04761a8159b1bfec297",
+      "bytes": 55670
+    }
+  ],
+  "original_count": 1,
+  "webpage_text": 0,
+  "pending_count": 6,
+  "pending_reasons": [
+    "needs_review"
+  ]
+}

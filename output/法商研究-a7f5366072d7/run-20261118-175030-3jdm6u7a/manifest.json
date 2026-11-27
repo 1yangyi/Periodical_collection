@@ -1,0 +1,52 @@
+{
+  "journal": {
+    "name": "法商研究",
+    "url": "https://www.fsyj.chinajournal.net.cn/WKD/WebPublication/wkTextContent.aspx?mid=fsyj&navigationContentID=cb0d810c-6901-4359-85e4-843e1bb4a218",
+    "journal_id": "CSSCI-2025-0007",
+    "row": 8,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "",
+  "collected_at": "2026-11-18T17:50:30+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.fsyj.chinajournal.net.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.fsyj.chinajournal.net.cn/WKD/WebPublication/wkTextContent.aspx?mid=fsyj&navigationContentID=cb0d810c-6901-4359-85e4-843e1bb4a218",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "HTTPSConnectionPool(host='www.fsyj.chinajournal.net.cn', port=443): Max retries exceeded with url: /WKD/WebPublication/wkTextContent.aspx?mid=fsyj&navigationContentID=cb0d810c-6901-4359-85e4-843e1bb4a218 (Caused by SSLError(CertificateError(\"hostname 'www.fsyj.chinajournal.net.cn' doesn't match either of '*.cnki.net', 'caj.d.cnki.net', 'eng.tcm.cnki.net', 'gb.tcm.cnki.net', 'kb.tcm.cnki.net', 'pdf.d.cnki.net', 'tra.tcm.cnki.net', '*.oversea.cnki.net', 'www.cnki.net', 'cnki.net'\")))",
+      "context": ""
+    },
+    {
+      "url": "https://www.fsyj.chinajournal.net.cn/WKD/WebPublication/wkTextContent.aspx?mid=fsyj&navigationContentID=cb0d810c-6901-4359-85e4-843e1bb4a218",
+      "title": "法商研究",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

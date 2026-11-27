@@ -1,0 +1,28 @@
+{
+  "index": 8,
+  "journal": "人口与发展",
+  "url": "https://ccj.pku.edu.cn/article/info?aid=392189638",
+  "source_sheet": "可打开",
+  "source_row": 9,
+  "started_at": "2026-11-26T20:39:07+08:00",
+  "finished_at": "2026-11-26T20:40:15+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 2,
+    "artifacts": 0,
+    "pending": 5,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0008_人口与发展/manifest.json",
+  "pages": 2,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 6,
+  "pending_reasons": [
+    "needs_review",
+    "no_valid_word_or_pdf"
+  ]
+}

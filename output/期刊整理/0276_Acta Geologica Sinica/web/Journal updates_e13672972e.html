@@ -1,0 +1,1026 @@
+<!-- 内容页 -->
+ <!-- 加载站点配置信息 -->
+ <!-- 加载菜单 -->
+<!-- 静态资源加载路径，如js，css图片等 -->
+<!-- 后端图片服务器地址，加参数fileId即可以访问图片，用于cms管理的图片显示 -->
+<!-- contentData 变量可以直接使用，保存的是配置cms菜单上的内容 -->
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <title>Acta Geologica Sinica (English Edition)</title>
+
+<link rel="shortcut icon" type="image/x-icon" href="https://jf1.hep.com.cn/static/hep_journal_fase_en/images/favicon.ico">
+<!--<link href="https://jf1.hep.com.cn/static/hep_journal_fase_en/font-awesome-4.7.0/css/font-awesome.css" rel="stylesheet">
+<link href="https://jf1.hep.com.cn/static/hep_journal_fase_en/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="https://jf1.hep.com.cn/static/hep_journal_fase_en/css/bootsnav.css"> -->
+
+<!--<link href="https://jf1.hep.com.cn/static/hep_journal_fase_en/css/css.css" rel="stylesheet"> -->
+<!-- <script src="https://jf1.hep.com.cn/static/hep_journal_fase_en//js/jquery.min.js"></script> 废弃-->
+<!--<script src="https://journal.hep.com.cn/static/hep/common/js/jquery-3.6.0.min.js"></script>
+<script src="https://journal.hep.com.cn/static/hep/common/js/jquery-migrate-3.3.2.min.js"></script> -->
+<!-- <script src="https://jf1.hep.com.cn/static/hep_journal_fase_en//js/bootstrap.min.js"></script> 废弃-->
+<!--<script src="https://journal.hep.com.cn/static/hep/common/js/bootstrap-3.4.1.min.js"></script>
+<script src="https://jf1.hep.com.cn/static/hep_journal_fase_en/js/indexjs.js"></script>
+<link href="https://jf1.hep.com.cn/static/hep_journal_fase_en/css/jqpagination.css" rel="stylesheet">
+<link href="https://jf1.hep.com.cn/static/hep_journal_fase_en/js/colorbox/colorbox.css" rel="stylesheet">
+<script src="https://jf1.hep.com.cn/static/hep_journal_fase_en/js/colorbox/jquery.colorbox.js"></script>
+<script src="https://jf1.hep.com.cn/static/hep_journal_fase_en/js/confirm/jquery.confirm.js"></script> -->
+
+<link rel="stylesheet" href="https://jf1.hep.com.cn/static/hep_journal_fase_en/font-awesome-4.7.0/css/font-awesome.1.0.1.css"/>
+<script src="https://jf1.hep.com.cn/static/hep_journal_fase_en/common/js/jquery-3.6.0.min.1.0.0.js"></script>
+<link rel="stylesheet" href="https://jf1.hep.com.cn/static/hep_journal_fase_en/css/bootstrap.min.1.0.0.css"/>
+<script src="https://jf1.hep.com.cn/static/hep_journal_fase_en/common/js/jquery-migrate-3.3.2.min.1.0.0.js"></script>
+<link rel="stylesheet" href="https://jf1.hep.com.cn/static/hep_journal_fase_en/css/bootsnav.1.0.0.css"/>
+<script src="https://jf1.hep.com.cn/static/hep_journal_fase_en/common/js/bootstrap-3.4.1.min.1.0.0.js"></script>
+<link rel="stylesheet" href="https://jf1.hep.com.cn/static/hep_journal_fase_en/css/css.1.0.3.css"/>
+<link rel="stylesheet" href="https://jf1.hep.com.cn/static/hep_journal_fase_en/css/jqpagination.1.0.0.css"/>
+<script src="https://jf1.hep.com.cn/static/hep_journal_fase_en/js/indexjs.1.0.0.js"></script>
+<link rel="stylesheet" href="https://jf1.hep.com.cn/static/hep_journal_fase_en/js/colorbox/colorbox.1.0.0.css"/>
+<script src="https://jf1.hep.com.cn/static/hep_journal_fase_en/js/colorbox/jquery.colorbox.1.0.1.js"></script>
+<script src="https://jf1.hep.com.cn/static/hep_journal_fase_en/js/confirm/jquery.confirm.1.0.0.js"></script>
+
+</head>
+
+<body>
+<!--头部start1-->
+<!-- 静态资源加载路径，如js，css图片等 -->
+<!-- 后端图片服务器地址，加参数fileId即可以访问图片，用于cms管理的图片显示 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+.nav-bar {background: #024aab;}
+@media (max-width: 678px){
+    nav.navbar.bootsnav {background: #024aab;}
+}
+.journal-head .journal-head-bg {
+    padding: 22px 0 15px;
+}
+.journal-logo {
+    max-width: 432px;
+}
+.article-search {
+    margin-top: 4.5%;
+}
+</style>
+
+<div>
+    <div class="wrap">
+        <div class="container">
+            <div class="navbar site-nav">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="https://journal.hep.com.cn"><img src="https://jf1.hep.com.cn/static/hep_journal_fase_en/images/top-logo.png" alt=""></a></div>
+                <div class="navbar-collapse collapse" role="navigation">
+                    <ul class="nav navbar-nav nav-menu">
+                    	<li class="current"><a href="https://journal.hep.com.cn/hep/en"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
+                    	<li><a href="https://journal.hep.com.cn/hep/EN/journals">Journals</a></li>
+                    	<li><a href="https://journal.hep.com.cn/hep/EN/subscription">Subscription</a></li>
+                    	<li class=""><a href="https://journal.hep.com.cn/hep/EN/submission">Submission</a></li>
+                    	<li><a href="#" data-toggle="dropdown" aria-expanded="true">Metrics <span class="caret"></span></a>
+                    		<ul class="dropdown-menu">
+                    			<!--<li><a href="https://journal.hep.com.cn/hep/EN/top_altmetrics">Top followed articles on altmetrics</a></li>-->
+                    			<li><a href="https://journal.hep.com.cn/hep/EN/top_social">Top read articles on mendeley</a></li>
+                    		</ul>
+                    	</li>
+                    	<li><a href="https://journal.hep.com.cn/hep/EN/policy">Editorial policy</a></li>
+                    	<li><a href="https://journal.hep.com.cn/hep/EN/open_access">Open access</a></li>
+                    	<li><a href="https://journal.hep.com.cn/hep/EN/us">About us</a></li>
+                    </ul>
+                    <!--
+                    <ul class="nav navbar-nav navbar-right hidden-sm">
+                        <li><a href="">Sign in</a></li>
+                    </ul>
+                    -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--移动端导航显示-->
+    <nav class="navbar navbar-default navbar-mobile bootsnav on">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                <i class="fa fa-bars"></i>
+            </button>
+            <a class="navbar-brand hidden-sm" href="https://journal.hep.com.cn/agse/EN">Acta Geologica Sinica (English Edition)</a>
+        </div>
+        <div class="collapse navbar-collapse" id="navbar-menu">
+            <ul class="nav navbar-nav" data-in="fadeInDown" data-out="fadeOutUp">
+
+                                            <li class="dropdown">
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">About the journal</a>
+                      <ul class="dropdown-menu animated">
+                         <!-- contentType::::1 -->
+                            <li><a href="https://journal.hep.com.cn/agse/EN/aims">Aims & scope</a></li>
+                         <!-- contentType::::1 -->
+                            <li><a href="https://journal.hep.com.cn/agse/EN/editorial_board">Editorial board</a></li>
+                         <!-- contentType::::1 -->
+                            <li><a href="https://journal.hep.com.cn/agse/EN/covergallery">Cover gallery</a></li>
+                         <!-- contentType::::1 -->
+                            <li><a href="https://journal.hep.com.cn/agse/EN/contact">Contact us</a></li>
+                      </ul>
+                  </li>
+                  <li class="dropdown">
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Browse</a>
+                      <ul class="dropdown-menu animated">
+                         <!-- contentType::::5 -->
+                            <li><a href="https://journal.hep.com.cn/agse/EN/current">Latest issue</a></li>
+                         <!-- contentType::::5 -->
+                            <li><a href="https://journal.hep.com.cn/agse/EN/archive_by_issues">All volumes and issues</a></li>
+                         <!-- contentType::::5 -->
+                            <li><a href="https://journal.hep.com.cn/agse/EN/topaccess">Most accessed</a></li>
+                         <!-- contentType::::5 -->
+                            <li><a href="https://journal.hep.com.cn/agse/EN/topcited">Most cited</a></li>
+                      </ul>
+                  </li>
+                                                                      <li class="dropdown">
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Authors & reviewers</a>
+                      <ul class="dropdown-menu animated">
+                         <!-- contentType::::2 -->
+                            <li><a href="https://journal.hep.com.cn/agse/EN/onlinesubmission" target="__blank">Online submisson</a></li>
+                         <!-- contentType::::1 -->
+                            <li><a href="https://journal.hep.com.cn/agse/EN/guidelines">Guidelines for authors</a></li>
+                      </ul>
+                  </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+        </div>
+    </nav>
+    <!--移动端导航显示end-->
+    <div class="journal-head" style="background:url('https://journal.hep.com.cn/agse/EN/file/pic?fileId=zPur/b0nF4BP0rxkHCJJvA==') no-repeat top center;background-size: cover;">
+        <div class="journal-head-bg">
+            <div class="container">
+                <div class="journal-logo">
+                    <div class="logo">
+                        <a href="https://journal.hep.com.cn/agse/EN"><img src="https://journal.hep.com.cn/agse/EN/file/pic?fileId=P2x96VItrK3pjBXEqA0MpQ==" class="img-responsive" alt=""></a>
+                    </div>
+                    <div class="logo-brief">
+                        
+                    </div>
+                </div>
+                <div class="article-search">
+                    <form action="#" class="ul-search-form"  onsubmit = "searchBlur(); return false;">
+                        <div class="input-group">
+                            <input name="keyword" id="searchInput" type="text" class="form-control" placeholder="Title / Author / Abstract / Keywords / DOI / Affiliation">
+
+                            <span class="input-group-btn">
+                           <button class="btn btn-default" type="button" onClick="searchBlur()" ><i class="glyphicon glyphicon-search"></i></button>
+
+                        </span>
+                        </div>
+                    </form>
+                    <div class="adv-search hidden-sm hidden-xs">
+                        <a href="https://journal.hep.com.cn/agse/EN/advsearch">Adv search</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="head-line">
+    </div>
+    <!--pc导航导航-->
+    <div class="nav-bar">
+        <div class="container">
+            <ul class="nav">
+
+                                <li class="nav-li"><h3 class="nav-nav">About the journal</h3>
+                    <ul>
+                
+                            <li><h3><a href="https://journal.hep.com.cn/agse/EN/aims">Aims & scope</a></h3></li>
+                
+                
+                
+                            <li><h3><a href="https://journal.hep.com.cn/agse/EN/editorial_board">Editorial board</a></h3></li>
+                
+                
+                
+                            <li><h3><a href="https://journal.hep.com.cn/agse/EN/covergallery">Cover gallery</a></h3></li>
+                
+                
+                
+                            <li><h3><a href="https://journal.hep.com.cn/agse/EN/contact">Contact us</a></h3></li>
+                
+                
+                    </ul>
+                </li>
+                <li class="nav-li"><h3 class="nav-nav">Browse</h3>
+                    <ul>
+                
+                            <li><h3><a href="https://journal.hep.com.cn/agse/EN/current">Latest issue</a></h3></li>
+                
+                
+                
+                            <li><h3><a href="https://journal.hep.com.cn/agse/EN/archive_by_issues">All volumes and issues</a></h3></li>
+                
+                
+                
+                            <li><h3><a href="https://journal.hep.com.cn/agse/EN/topaccess">Most accessed</a></h3></li>
+                
+                
+                
+                            <li><h3><a href="https://journal.hep.com.cn/agse/EN/topcited">Most cited</a></h3></li>
+                
+                
+                    </ul>
+                </li>
+                                                <li class="nav-li"><h3 class="nav-nav">Authors & reviewers</h3>
+                    <ul>
+                
+                           <li><h3><a href="https://journal.hep.com.cn/agse/EN/onlinesubmission" target="__blank">Online submisson</a></h3></li>
+                
+                
+                
+                            <li><h3><a href="https://journal.hep.com.cn/agse/EN/guidelines">Guidelines for authors</a></h3></li>
+                
+                
+                    </ul>
+                </li>
+                                                                                                                                                                                                                                                                                                            </ul>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("ul.nav li").hover(function(){
+                $(this).addClass("on");
+
+            },
+            function(){
+                $(this).removeClass("on");
+
+            })
+    });
+
+    $(document).ready(function() {
+        $("ul.nav li").hover(function(){
+                $(this).parent("ul").siblings("h3").addClass("choice");
+
+            },
+            function(){
+                $(this).parent("ul").siblings("h3").removeClass("choice");
+            })
+    });
+
+    $(document).ready(function() {
+        if ($("ul.nav li").find("ul") .html()!="") {
+            $("ul.nav li").parent("ul").siblings("h3").append("<span class='sub'></span>");
+        }
+    });
+    
+    
+    function searchBlur() {
+        // 获取输入框的值
+        const val = document.getElementById('searchInput').value;
+        const keyStr = 'mixWords';
+
+        if (!val.trim()){
+             alert("please input keyword!");
+             return; // 空值不跳转
+        }
+        // 跳转到搜索结果页，并通过 URL 参数传值
+        window.location.href = 'https://journal.hep.com.cn/agse/EN/searchresult?q=s&'+keyStr+'=' + encodeURIComponent(val);
+    }
+</script>
+<!--pc导航导航end-->
+<div class="container">
+    <div class="row">
+        
+        <!-- 菜单内容：Jo4JournalMenuDto(id=1160243558886936718, tenantId=1045748351789510663, journalId=1155139928240427030, resourceId=null, resourceName=null, language=EN, name=Guidelines for authors, url=/guidelines, orderNum=3, disabled=0, delFlag=0, createdTime=1747815673865, createdBy=admin, updatedTime=1754033329970, updatedBy=admin, orderByClause=null, journalGroupId=null, pid=1160243558886936699, menuType=2, siteId=1160243558886936691, contentType=1, tplDetailId=1158062609934192939, cmsDatasourceType=1, isShow=1) -->
+        
+
+
+
+
+
+        <div class="col-md-8">
+            <section class="content_nr">
+                <h3 class="column" id="title_text">
+
+                   
+                    Guidelines for authors
+
+                </h3>
+                <div class="news-content">
+
+                   
+
+
+
+
+                    <div id="rich-text-ed40e74c-3125-49cd-83f1-7686b0e71e6b" class="pb-rich-text" >
+        <p style="line-height:150%">&nbsp;</p>
+
+<p style="line-height:150%">Thank you for your interest in <em>Acta Geological Sinica - English Edition</em>. Please read the complete Author Guidelines carefully prior to submission, including the section on copyright.</p>
+<p style="line-height:150%">Note that submission implies that the content has not been published or submitted for publication elsewhere except as a brief abstract in the proceedings of a scientific meeting or symposium.</p>
+<p style="line-height:150%">New submissions should be made via the <a href="https://wiley.atyponrex.com/journal/ACGS">Research Exchange submission portal</a>. You may check the status of your submission at any time by logging on to submission.wiley.com and clicking the “My Submissions” button. For technical help with the submission system, please review our <a href="https://rex-docs.atypon.com/wiley-rex/index.html" target="_blank" rel="noopener">FAQs</a> <a href="https://submissionhelp.wiley.com/"></a>or contact <a href="/cdn-cgi/l/email-protection#f4878196999d87879d9b9a9c919884b4839d98918dda979b99"><span class="__cf_email__" data-cfemail="eb989e8986829898828485838e879bab9c82878e92c5888486">[email&#160;protected]</span></a><br><br></p>
+<p style="line-height:150%"><strong><br>PREPARING YOUR MANUSCRIPT</strong></p>
+<p style="line-height:150%">1. Manuscripts devoted to various aspects of geosciences and related disciplines are all welcome, including those of broad interest to the international geoscience community or of particular interest to the Chinese geoscience community.</p>
+<p style="line-height:150%">2. Two types of manuscript are published in the Journal, including<strong> original papers and</strong> <strong>reviews</strong>. Original papers present the latest scientific studies, normally 5,000 to 10,000 words long and within 6-12 journal pages. Review papers are based on literature review and summarize the current status of study of a specific topic or field, identify remaining scientific problems, and point out future directions, normally 5,000 to 10,000 words and within 6-12 journal pages.</p>
+<p style="line-height:150%">3.<strong> Components of a manuscript</strong></p>
+<p style="line-height:150%"><strong><em>&nbsp;&nbsp;&nbsp; Components of an original paper</em></strong></p>
+<p style="line-height:150%"><strong>(1) Title page</strong></p>
+<ul>
+<li>Title of paper</li>
+<li>Authors’ names</li>
+<li>Authors’ affiliation(s) and address(es)</li>
+<li>E-mail addresses of the first author and (if appropriate) the corresponding author</li>
+<li>A running title</li>
+</ul>
+<p style="line-height:150%"><strong>(2) Abstract and key words </strong></p>
+<p style="line-height:150%">The abstract should be no more than 200 words long and should not contain citation of references. Up to six key words should be provided.</p>
+<p style="line-height:150%"><strong>(3) Main text</strong></p>
+<ul>
+<li>Introduction</li>
+<li>Geological Setting</li>
+<li>Methods and Materials</li>
+<li>Results</li>
+<li>Discussion</li>
+<li>Conclusion</li>
+<li>Acknowledgments</li>
+</ul>
+<p style="line-height:150%"><strong>(4) References</strong></p>
+<p style="line-height:150%"><strong>List of references:</strong> References should be listed in alphabetic order and cited in the text with the author’s name followed by the year of publication. References other than English, French, Spanish and Russian should be translated into English, with the specific original language duly indicated. Some examples of journal articles, books and theses are shown below.</p>
+<p style="line-height:150%"><strong>Journal: </strong>Symons, D.T.A., and Sangster, D.F., 1991. Palaeomagnetic age of …. Economic Geology, 86(1): 1-12.</p>
+<p style="line-height:150%"><strong>Book:</strong> Lee, J.S., 1939. The Geology of China. London: Thomas Murby and Co., 1-528.</p>
+<p style="line-height:150%"><strong>Proceeding: </strong>Bowden, P., Wang, P., and Turner, D.C., 1974. Peralkaline and associated ring-complexes …. In: Sorensen, H. (ed.), The Alkaline Rocks. New York: Wiley and Sons, 330-351.</p>
+<p style="line-height:150%">Minor, H.E., 2000. Spillways for high velocities. In: Zurich, V.E., Minor, H.E., Hager, W.H. (eds.), Proceedings of International Workshop on Hydraulics of Stepped Spillways. Rotterdam: Balkema Publishers, 3–10.</p>
+<p style="line-height:150%"><strong>Academic thesis:</strong> Li, M., 2006. Formation Mechanism of Bayan Obo REE-Nb-Fe deposit in Inner Mongolia, China (M.Sc. thesis). Beijing: China University of Geosciences (Beijing), 1-147.</p>
+<p style="line-height:150%"><strong>Prepublication:</strong> Guo, C., Qin, Y., Ma, D.M., and Xia, Y.C., 2019. Pore Structure and permeability characterization of high-rank coal reservoirs: A case of the Bide-Santang Basin, Western Guizhou, South China. Acta Geologica Sinica (English Edition), <a href="https://doi.org/10.1111/1755-6724.14295">doi: 10.1111/1755-6724.14295</a>.</p>
+<p style="line-height:150%">Online material: Hua, X., 2021. China's natural gas consumption rises in first four months (June&nbsp;7,&nbsp;2021). &nbsp;&nbsp;http://www.xinhuanet.com/english/2021-06/06/c_139992295.htm.</p>
+<p style="line-height:150%"><strong>Citation in the text:</strong> When citing literature in the text, use the following format:</p>
+<p style="line-height:150%">One author: (Lee, 1939); Two authors: (Symons and Sangster, 1991); Three or more authors: (Bowden et al., 1974).</p>
+<p style="line-height:150%">Multiple citations in the text should be placed in chronological order, not in alphabetical order.</p>
+<p style="line-height:150%"><strong>(5) Brief biography (maximum of 100 words) and head photo</strong> of the first author and the corresponding author.</p>
+<p style="line-height:150%"><strong><em>&nbsp;&nbsp;&nbsp; &nbsp;Components of a review paper</em></strong></p>
+<p style="line-height:150%">Same as an original paper, but the arrangement of text may vary depending on the topics.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="line-height:150%">4.<strong> Artwork</strong></p>
+<p style="line-height:150%">General requirements to all the figures: &nbsp;</p>
+<ul>
+<li><strong>All figures</strong> are to be numbered using Arabic numerals, such as Fig. 1, Fig. 2, etc. <strong>Figure parts</strong> should be denoted by lowercase letters (Fig. 1a, Fig. 1b, etc.). <strong>The size of figures </strong>should be no larger than the size of A4 paper and fit in one-column (8-5 cm) or two-column (16-16.5 cm) width. <strong>Labeling</strong> in figures should be in font of Times New Roman and 6 pt at least (7-8 pt are commonly recommended). <strong>Initial</strong> of the first word including legend should be capitalized, except proper nouns (e.g. Changcheng System, Yanshannian-Himalayan). <strong>Boldface type or italics</strong> are not recommended usually.</li>
+<li><strong>Lines in figures </strong>should be 0.18-3 pt, frame 0.3-0.5 pt, and emphatic lines can be 0.5-1.0 pt.</li>
+<li>Digital line-drawing figures should be prepared using CorelDraw, Adobe Illustrator or Photoshop and in&nbsp;.CDR,&nbsp;.WMF,&nbsp;.PSD&nbsp;or&nbsp;.Ai&nbsp;format. If these programs are not available, digital figures in JPG or TIFF formats with a resolution of 600 dpi are acceptable as long as they meet the journal’s requirements.</li>
+<li>Digital photographs should have a resolution of 600 dpi.</li>
+<li>The journal publishes both color and black-and-white figures.</li>
+</ul>
+<p style="line-height:150%">5.<strong> Table: </strong>Tables should be generally less than one page; tables more than one page should be submitted as supplemental material, not as part of the main manuscript. The text in tables should be Times New Roman, 7.5 pt, and single-spaced. The first letter of the first word in each cell should be in upper case, except proper nouns.</p>
+<p style="line-height:150%">6.<strong> Graphical abstract</strong></p>
+<p style="line-height:150%"><em>Acta Geologica Sinica - English Edition</em>&nbsp;publishes graphical abstracts for research articles and review articles, displayed online in graphical form with a brief abstract, in addition to the up to 250 word abstract above. The online table of contents will display a schematic figure to convey the core message of your paper, alongside a short abstract highlighting the major findings of the paper. Authors should submit a new and stand-alone image, or designate an image already included in the paper. Your short abstract should consist of 2-3 sentences summarizing the essence of the paper. Graphical abstract entries should be submitted to Scholar One in one of the generic file formats and uploaded as ‘Graphical Abstract’ during the initial manuscript submission process. The image should fit within the dimensions of 50mm x 60mm, and be fully legible at this size.</p>
+<p style="line-height:150%">7.<strong> Manuscript preparation: </strong>Microsoft Word files are preferred. Times New Roman font, 12 pt font size, and double line spacing are recommended.</p>
+<p style="line-height:150%">8. The author alone is responsible for the correctness of his/her paper. When major changes are deemed necessary, the Editor will consult with the author, and the corrected manuscript may be returned to the author for approval or further clarification.</p>
+<p style="line-height:150%">9. Ethical responsibility of authors: Only unpublished original papers, which have not been submitted or published elsewhere, will be considered.</p>
+<p style="line-height:150%">10.<strong> Online Submission: Please submit your manuscript at https://mc.manuscriptcentral.com/ags. </strong>For initial submission, it is recommended that figures and tables be inserted in appropriate positions in the text for convenience of peer review. Once a manuscript is recommended for acceptance, please submit the revised text, each revised figure and each revised table as separate files.</p>
+<p style="line-height:150%"><strong>Data Sharing and Data Accessibility</strong></p>
+<p style="line-height:150%">The journal encourages authors to share the data and other artefacts supporting the results in the paper by archiving it in an appropriate public repository. Authors should include a data accessibility statement, including a link to the repository they have used, in order that this statement can be published alongside their paper.<br><br><b><span data-contrast="auto">Refer and Transfer Program</span></b><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:252}">&nbsp;</span></p>
+<p style="line-height:150%"><span data-contrast="auto">Wiley believes that no valuable research should go unshared. This journal participates in Wiley’s </span><a href="https://authorservices.wiley.com/author-resources/Journal-Authors/submission-peer-review/manuscript-transfer.html"><span data-contrast="none">Refer &amp; Transfer program</span></a><span data-contrast="auto">. If your manuscript is not accepted, you may receive a recommendation to transfer your manuscript to another suitable Wiley journal, either through a referral from the journal’s editor or through our Transfer Desk Assistant.</span></p>
+<p style="line-height:150%"><strong>COPYRIGHT, LICENSING AND ONLINE OPEN</strong></p>
+<p style="line-height:150%">Authors may choose to publish under the terms of the journal’s <a href="https://onlinelibrary.wiley.com/pb-assets/assets/17556724/ACGS_CTA_Revised_Dec_2015_watermark-1509477352000.pdf">Copyright Transfer Agreement</a> (CTA), or under open access terms made available via Wiley’s OnlineOpen option. Note that all authors must read and agree to the conditions outlined in the specific agreement chosen, and the corresponding author must sign on their behalf.</p>
+<p style="line-height:150%"><strong>Standard Copyright Transfer Agreement (CTA)</strong></p>
+<p style="line-height:150%">The journal's standard CTA can be downloaded <a href="https://onlinelibrary.wiley.com/pb-assets/assets/17556724/ACGS_CTA_Revised_Dec_2015_watermark-1509477352000.pdf">here</a>. Note that the CTA allows for self-archiving of specific versions of the article under specific conditions. Please click <a href="http://olabout.wiley.com/WileyCDA/Section/id-820227.html">here</a> for more detailed information about self-archiving definitions and policies.<strong><br></strong></p>
+<p style="line-height:150%"><strong>Online Open - Wiley's Open Access Option</strong></p>
+<p style="line-height:150%">OnlineOpen is available to authors of articles who wish to make their article freely available to all on Wiley Online Library under a Creative Commons license. With OnlineOpen, the author, the author's funding agency, or the author's institution pays a fee to ensure that the article is made open access. Authors of OnlineOpen articles are permitted to post the final, published PDF of their article on their personal website, and in an institutional repository or other free public server immediately after publication. OnlineOpen fulfills funding agency mandates that require grantees to archive the final version of their article. Wiley will also deposit your OnlineOpen article in PubMed Central and PMC mirror sites.</p>
+<p style="line-height:150%">All OnlineOpen articles are treated in the same way as any other article. They go through the journal's standard peer-review process and will be accepted or rejected based on their own merit.</p>
+<p style="line-height:150%"><strong><em>Open access licenses.</em></strong> Authors choosing to publish using OnlineOpen will retain copyright in their article and have a choice of publishing under the following Creative Commons License terms:</p>
+<p style="line-height:150%"><a href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons Attribution Non-Commercial License</a> (CC-BY-NC)<br><a href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-Non-Commercial-NoDerivs License</a> (CC-BY-NC-ND)<br><a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution license</a> (CC-BY)</p>
+<p style="line-height:150%">Note that certain funders [e.g. The Wellcome Trust and members of the Research Councils UK (RCUK) or the Austrian Science Fund (FWF)] require publication under the Creative Commons Attribution licence, this licence is available to all authors publishing in the journal.</p>
+<p style="line-height:150%">For more information about open access license terms and conditions <a href="http://olabout.wiley.com/WileyCDA/Section/id-815641.html">click here</a>.</p>
+<p style="line-height:150%"><strong><em>Funder Open Access:</em></strong> Please <a href="http://www.wiley.com/go/funderstatement">click here</a> for more information on Wiley’s compliance with specific Funder Open Access Policies.</p>
+<p style="line-height:150%"><strong>Nominating which publication agreement to sign</strong></p>
+<p style="line-height:150%">After acceptance the journal’s editorial office will ask you which terms you would like to publish under, either the terms of the copyright transfer agreement or OnlineOpen terms. If you select OnlineOpen you will need to nominate which Creative Commons license you would like to use so that they Editorial office can provide you with the correct license agreement to sign. <span class="TextRun SCXW135504251 BCX8" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW135504251 BCX8" data-ccp-charstyle="normaltextrun" data-ccp-charstyle-defn="{&quot;ObjectId&quot;:&quot;48cdce15-5016-4bc3-b542-1dd2b777fa59|30&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[469775450,&quot;normaltextrun&quot;,201340122,&quot;1&quot;,134233614,&quot;true&quot;,469778129,&quot;normaltextrun&quot;,335572020,&quot;1&quot;,469778324,&quot;Default Paragraph Font&quot;]}">For more information on this journal’s APCs, please see the </span></span><a href="https://onlinelibrary.wiley.com/page/journal/17556724/homepage/fundedaccess.html?#/" target="_blank" rel="noopener"><span class="TextRun Underlined SCXW135504251 BCX8" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW135504251 BCX8" data-ccp-charstyle="normaltextrun">Open Access page</span></span></a><span class="TextRun SCXW135504251 BCX8" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW135504251 BCX8" data-ccp-charstyle="normaltextrun">.</span></span></p>
+<p style="line-height:150%"><strong>Article Preparation Support </strong></p>
+<p style="line-height:150%"><a href="https://wileyeditingservices.com/en/article-preparation/?utm_source=wol&amp;utm_medium=backlink&amp;utm_term=ag&amp;utm_content=prep&amp;utm_campaign=prodops">Wiley Editing Services</a> offers expert help with English Language Editing, as well as translation, manuscript formatting, figure illustration, figure formatting, and graphical abstract design – so you can submit your manuscript with confidence.</p>
+<p style="line-height:150%">Also, check out our resources for <a href="https://authorservices.wiley.com/author-resources/Journal-Authors/Prepare/index.html?utm_source=wol&amp;utm_medium=backlink&amp;utm_term=ag&amp;utm_content=prepresources&amp;utm_campaign=prodops">Preparing Your Article</a> for general guidance about writing and preparing your manuscript.</p>
+<p style="line-height:150%"><strong>Article Promotion Support </strong></p>
+<p style="line-height:150%"><a href="https://wileyeditingservices.com/en/article-promotion/?utm_source=wol&amp;utm_medium=backlink&amp;utm_term=ag&amp;utm_content=promo&amp;utm_campaign=prodops">Wiley Editing Services </a>offers professional video, design, and writing services to create shareable video abstracts, infographics, conference posters, lay summaries, and research news stories for your research – so you can help your research get the attention it deserves.</p>
+<p style="line-height:150%"><em>Author Guidelines Updated 20 May 2022</em></p>
+</div>
+                    
+
+                    <br><br>
+                        <script>
+                            #title_text.html('Guidelines for authors');
+                        
+                        </script>
+
+                    <div class="text-right">
+                        Pubdate: <span id = "pubDate"></span> &nbsp;&nbsp;&nbsp;
+                        Viewed: <span id ="contentPv" > </span>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <!--右侧-->
+        <!-- 右侧内容区域 -->
+ <!-- 加载Home页信息 -->
+<div class="col-md-4">
+
+
+
+
+<!--
+-->
+
+
+    <!-- 最新期刊区域 -->
+    <aside class="aside">
+        <div class="column">
+            <span>Latest issue</span>
+        </div>
+        <!-- 期刊封面图片处理 -->
+                <div class="cover-con">
+            <div class="cover" id="journal_cover_img" style="display:none;">
+                <!-- 修复封面图片路径并添加点击跳转 -->
+                <img src="https://journal.hep.com.cn/agse/EN/file/pic?fileId=85DopyCNbrxVXPYeQIK5/g=="
+                     class="img-responsive center-block"
+                     alt="Journal cover"
+                     onclick="window.location.href='https://journal.hep.com.cn/agse/EN/current'"
+                     style="cursor: pointer;">
+                <!-- 下载封面按钮
+                <span>
+                    <a href="https://academic.hep.com.cn//fileup/2095-1701/COVER/fm_download_20230829131052.pdf" title="Download cover">
+                        <svg class="icon-svg" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" width="30" height="30">
+                            <path d="M917.63 602v160a20 20 0 0 1-20 20H154.72a20 20 0 0 1-20-20V602H63.89v160a80 80 0 0 0 98 98h728.53a80 80 0 0 0 98-98V602z"></path>
+                            <path d="M791.62 470.94l-60-60-169.48 179.48V98.44h-90.8v492.07L296.29 431.03l-60 60L524 738.57l267.62-267.63z"></path>
+                        </svg>
+                    </a>
+                </span>
+                 -->
+            </div>
+            <!-- 期刊信息与日期处理 -->
+            <div class="nian-juan-qi">
+                <span id="chubanruqiyue1">2026-04-20</span>
+                2026, 
+                Volume 100                 Issue 2            </div>
+            <script>
+                // 优化日期格式转换
+                $(document).ready(function() {
+                    var dateElement = $('#chubanruqiyue1');
+                    var dateStr = dateElement.html().trim();
+
+                    if (dateStr) {
+                        var dateParts = dateStr.split('-');
+                        if (dateParts.length === 3) {
+                            var monthNum = parseInt(dateParts[1], 10);
+                            var monthNames = {
+                                1: "Jan", 2: "Feb", 3: "Mar", 4: "Apr", 5: "May", 6: "Jun",
+                                7: "Jul", 8: "Aug", 9: "Sept", 10: "Oct", 11: "Nov", 12: "Dec"
+                            };
+                            var englishMonth = monthNames[monthNum] || dateParts[1];
+                            dateElement.html(englishMonth);
+                        }
+                    }
+                });
+            </script>
+            <div class="cover-view">
+                <a href="https://journal.hep.com.cn/agse/EN/archive_by_issues">View all volumes and issues</a>
+            </div>
+
+            <!-- 封面插图弹窗 -->
+            <div class="modal fade" id="myModal_new" tabindex="-1" role="dialog" aria-labelledby="myModalLabel_new" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                            <h4 class="modal-title" id="myModalLabel">Cover illustration</h4>
+                        </div>
+                        <div class="modal-body text-justify">
+                            <br>
+                            
+                            <br>
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </aside>
+
+    <!-- 投稿按钮 -->
+    <aside class="aside">
+        <div class="submit-manuscript">
+            <a href="http://mc.manuscriptcentral.com/ags" target="_blank">Submit manuscript</a>
+        </div>
+        
+        
+        
+    </aside>
+
+    <!-- 标签页内容 -->
+    <ul id="myTabs" class="nav-list nav nav-tabs" role="tablist">
+        <li role="presentation" class="active">
+            <a href="#latest" id="latest-tab" role="tab" data-toggle="tab" aria-controls="latest" aria-expanded="true">Latest articles</a>
+        </li>
+        <li role="presentation">
+            <a href="#accesses" role="tab" id="accessese-tab" data-toggle="tab" aria-controls="accesses" aria-expanded="false">Most accessed</a>
+        </li>
+        <li role="presentation">
+            <a href="#collections" role="tab" id="collections-tab" data-toggle="tab" aria-controls="collections" aria-expanded="false">Collections</a>
+        </li>
+    </ul>
+
+    <div id="myTabContent" class="tab-content aside-tab-content">
+        <!-- 最新文章 -->
+        <div role="tabpanel" class="tab-pane fade active in" id="latest" aria-labelledby="latest-tab">
+            <ul class="journal-list" id="lastest_article_list_container">
+                <li id="lastest_article_detail_tmp">
+                    <div class="title">
+                            <a class="article_detail_title" href="https://journal.hep.com.cn/agse/EN/" target="_blank"></a>
+                       
+                    </div>
+                    <div class="author article_detail_author"></div>
+                    <div class="j-doi">
+                        <a class="article_detail_doi" href="https://doi.org/">https://doi.org/</a>
+                    </div>
+                </li>
+            </ul>
+            <div class="view-all">
+                <a href="https://journal.hep.com.cn/agse/EN/latest">
+                    View all articles
+                    <i class="fa fa-angle-right" aria-hidden="true"></i>
+                </a>
+            </div>
+        </div>
+
+        <!-- 阅读排行 -->
+        <div role="tabpanel" class="tab-pane fade" id="accesses" aria-labelledby="accesses-tab">
+            <ul class="journal-list" id="most_read_article_list_container">
+                <li id="most_read_article_detail_tmp">
+                    <div class="title">
+                        <a class="article_detail_title" href="https://journal.hep.com.cn/agse/EN/" target="_blank"></a>
+                    </div>
+                    <div class="author article_detail_author"></div>
+                    <div class="j-doi">
+                        <a class="article_detail_doi" href="https://doi.org/">https://doi.org/</a>
+                    </div>
+                </li>
+            </ul>
+            <div class="view-all">
+                <a href="https://journal.hep.com.cn/agse/EN/topaccess">
+                    View all articles
+                    <i class="fa fa-angle-right" aria-hidden="true"></i>
+                </a>
+            </div>
+        </div>
+
+        <!-- 专题（限制最多显示5条） -->
+        <div role="tabpanel" class="tab-pane fade" id="collections" aria-labelledby="collections-tab">
+            <div class="view-all">
+                <a href="https://journal.hep.com.cn/agse/EN/collections">
+                    View all collections
+                    <i class="fa fa-angle-right" aria-hidden="true"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- 侧边按钮组 -->
+    <div class="aside-btn btn-subscription">
+        <a href="https://journal.hep.com.cn/agse/EN/subscription"><i class="fa fa-book" aria-hidden="true"></i>Subscription</a>
+    </div>
+    <div class="aside-btn">
+        <a href="https://journal.hep.com.cn/agse/EN/emailAlert"><i class="fa fa-envelope" aria-hidden="true"></i>E-mail alert</a>
+    </div>
+    <div class="aside-btn">
+        <a href="https://journal.hep.com.cn/agse/EN/rss"><i class="fa fa-feed" aria-hidden="true"></i>Subscribe to our RSS content</a>
+    </div>
+
+    <aside class="aside" style="margin-top:25px;">
+        <div class="column">
+            <span>Journal updates</span>
+            <a href="https://journal.hep.com.cn/agse/EN/CMS/news" class="more">More</a>
+        </div>
+        <ul class="news-list">
+
+
+            <li>
+                <a href="
+                                            https://journal.hep.com.cn/agse/EN/CMS/news/1161603514223563094
+" class="news-title">
+                    Journal updates
+                </a>
+                <div class="news-date">
+                    2024-07-09
+                </div>
+            </li>
+        </ul>
+    </aside>
+
+    <!-- 链接（限制最多3条） -->
+    <aside class="aside">
+        <div class="column">
+            <span>Links</span>
+        </div>
+         <!-- 加载链接信息 -->
+        <ul class="news-list">
+            <li>
+                <a href="" class="news-title" target="_blank">
+                Links
+                </a>
+            </li>
+        </ul>
+    </aside>
+
+    <!-- ISSN信息 -->
+    <aside class="aside issn-no">
+        <div class="issn-cn">
+
+
+        
+            
+                <a href="https://onlinelibrary.wiley.com/journal/17556724">
+                 <img src="https://journal.hep.com.cn/agse/EN/file/pic?fileId=VEST59wHcTLCdA9VCpAr2w==" class="img-responsive center-block" />
+                </a>
+                <br/>
+            
+            
+            
+            
+            ISSN 1000-9515 (Print) <br> 
+            ISSN 1755-6724 (Online) <br> 
+        </div>
+    </aside>
+</div>
+<script>
+    async function downloadFile(url, fileId) {
+        try {
+            // 显示加载状态
+            const link = event.currentTarget;
+            const originalText = link.innerHTML;
+            link.innerHTML = '<i class="fa fa-spinner fa-spin"></i> Downloading...';
+
+            // 正确构建查询参数
+            const params = new URLSearchParams();
+            params.append('fileId', fileId);
+            params.append('fileType', 'png'); // 不包含点号，根据后端需求调整
+
+            // 发送fetch请求
+            const response = await fetch(`${url}?${params}`, {
+                method: 'GET',
+                credentials: 'same-origin'
+            });
+
+            // 检查响应状态
+            if (!response.ok) {
+                throw new Error(`下载失败: HTTP状态码 ${response.status}`);
+            }
+
+            // 检查响应类型
+            const contentType = response.headers.get('Content-Type');
+            console.log('Content-Type:', contentType);
+
+            // 如果返回的是HTML而不是图片，可能有问题
+            if (contentType && contentType.includes('text/html')) {
+                const text = await response.text();
+                console.warn('下载的内容似乎是HTML，而不是图片:', text.substring(0, 200));
+                throw new Error('服务器返回了HTML内容，而不是图片');
+            }
+
+            // 强制使用固定文件名：cover.png
+            const fileName = 'cover.png';
+
+            // 创建下载链接
+            const blob = await response.blob();
+            const downloadUrl = URL.createObjectURL(blob);
+
+            // 触发下载
+            const a = document.createElement('a');
+            a.href = downloadUrl;
+            a.download = fileName;
+            document.body.appendChild(a);
+            a.click();
+
+            // 清理资源
+            setTimeout(() => {
+                document.body.removeChild(a);
+                URL.revokeObjectURL(downloadUrl);
+                link.innerHTML = originalText;
+            }, 100);
+
+        } catch (error) {
+            console.error('下载异常:', error);
+            alert('下载失败: ' + error.message);
+            event.currentTarget.innerHTML = originalText;
+        }
+    }
+    $(function() {
+        getHotArticleList();
+        getLatestArticleList();
+    })
+
+    function getLatestArticleList() {
+        var latest_article_list_container = $("#lastest_article_list_container");
+        var latest_article_detail_tmp = $("#lastest_article_detail_tmp").clone();
+        latest_article_list_container.empty();
+
+        var url = "https://journal.hep.com.cn/agse/EN/api/site/data/article/simple/latestArticleList?pageNum=1&pageSize=5";
+        $.ajax({
+            url: url,
+            type: 'GET',
+            dataType: 'json',
+            success: function(res) {
+                if(res.code==200 && res.data.list!=null) {
+                    for(var article of res.data.list) {
+                        var article_detail_div = latest_article_detail_tmp.clone();
+                        article_detail_div.appendTo(latest_article_list_container);
+                        renderArticleDetail(article_detail_div, article.id);
+                    }
+                }
+            },
+
+            error: function() {}
+        });
+
+    }
+
+
+
+    function getHotArticleList(){
+        //most_read_article_list_container
+        var most_read_article_list_container = $("#most_read_article_list_container");
+        var most_read_article_detail_tmp = $("#most_read_article_detail_tmp").clone();
+        most_read_article_list_container.empty();
+        var url = "https://journal.hep.com.cn/agse/EN/api/site/data/article/hotArticleList?pageNum=1&pageSize=5";
+        $.ajax({
+            url: url,
+            type: 'GET',
+            dataType: 'json',
+            success: function(res) {
+                if(res.code!=200 || res.data.visitTopNList==null) {
+                    return;
+                }
+                for(var article of res.data.visitTopNList) {
+                    var article_detail_div = most_read_article_detail_tmp.clone();
+                    article_detail_div.appendTo(most_read_article_list_container);
+                    //renderHotArticleDetail(article_detail_div, article.articleDto.id);
+                    renderArticleDetail(article_detail_div, article.articleDto.id);
+                }
+            },
+            error: function(res) {
+
+            }
+
+        });
+    }
+    function renderArticleDetail(articleDiv, articleId) {
+        var url = "https://journal.hep.com.cn/agse/EN/api/site/data/article/articleInfo?articleId="+articleId;
+        $.ajax({
+            url: url,
+            type: 'GET',
+            dataType: 'json',
+            success: function(res) {
+                if(res.code!=200 || res.data==null){
+                    return;
+                }
+                var articleDetail = res.data;
+                var siteUrl = "https://journal.hep.com.cn/agse/EN";
+
+                articleDiv.find(".article_detail_title").html(articleDetail.ext['EN'].title);
+                var articleUrl = "https://journal.hep.com.cn/agse/EN/";
+                if(articleDetail.doi!=null && articleDetail.doi!='') {
+                    articleUrl+=articleDetail.doi;
+                }else {
+                    articleUrl+=articleDetail.id;
+                }
+                console.log("跳url", articleUrl)
+                
+                articleDiv.find(".article_detail_title").attr('href',articleUrl);
+                var authorStr = "";
+                if(articleDetail.authors!= null) {
+                    for(var author of articleDetail.authors) {
+                        if(authorStr!="") {
+                            authorStr=authorStr+",";
+                        }
+                        authorStr=authorStr+author.ext['EN'].stringName;
+                    }
+                }
+                articleDiv.find(".article_detail_author").html(authorStr);
+                articleDiv.find(".article_detail_online_date").text(articleDetail.onlineDateStr);
+                articleDiv.find(".article_detail_doi").text("https://doi.org/"+articleDetail.doi);
+                articleDiv.find(".article_detail_doi").attr('href',"https://doi.org/"+articleDetail.doi);
+                articleDiv.find(".article_detail_start_page").text(articleDetail.startPage);
+                articleDiv.find(".article_detail_pdf").attr("href",siteUrl+'/PDF/'+articleDetail.id);
+                if(articleDetail.ext['EN'].columnName!=null) {
+                    articleDiv.find(".article_detail_column").text(articleDetail.ext['EN'].columnName);
+                }
+                articleDiv.css('display', 'block');
+            },
+            error: function(res) {
+
+            }
+
+        });
+    }
+    
+    $(function() {
+        renderJournalCoverPic();
+    });
+    
+    function renderJournalCoverPic() {
+        var coverImgDom = $("#journal_cover_img");
+        var url = "https://journal.hep.com.cn/agse/EN/api/site/data/article/issue/issueCoverPic?journalId=&language=EN";
+        $.ajax({
+            url: url,
+            type: 'GET',
+            dataType: 'json',
+            success: function(res) {
+                if(res.code==200 && res.data!=null) {
+                    if(res.data.issueFile!=null && res.data.issueFile!="") {
+                        coverImgDom.find('img').attr("src","https://journal.hep.com.cn/agse/EN/file/pic?fileId="+res.data.issueFile);
+                    }
+                    coverImgDom.css("display", "block");
+                } else {
+                    coverImgDom.css("display", "block"); 
+                }
+            },
+            error: function(res) {
+                console.log("查询期刊封面图失败:"+JSON.stringify(res));
+            }   
+        });
+     }
+</script>
+<!--右侧end-->
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<nav class="black-bg">
+    <div class="container">
+        <div class="footer-nav-container">
+            <div class="footer-column">
+                <h3>About the journal</h3>
+                <ul style="list-style: none; padding: 0; margin: 0;">
+                            <li><a href="https://journal.hep.com.cn/agse/EN/aims">Aims & scope</a></li>
+                            <li><a href="https://journal.hep.com.cn/agse/EN/editorial_board">Editorial board</a></li>
+                            <li><a href="https://journal.hep.com.cn/agse/EN/contact">Contact us</a></li>
+                </ul>
+            </div>
+            <div class="footer-column">
+                <h3>Articles and content</h3>
+                <ul style="list-style: none; padding: 0; margin: 0;">
+                            <li><a href="https://journal.hep.com.cn/agse/EN/archive_by_issues">All volumes and issues</a></li>
+                            <li><a href="https://journal.hep.com.cn/hep/EN/collections">Collections</a></li>
+                            <li><a href="https://journal.hep.com.cn/hep/EN/videos">Multimedia collections</a></li>
+                            <li><a href="https://journal.hep.com.cn/agse/EN/topaccess">Most accessed</a></li>
+                            <li><a href="https://journal.hep.com.cn/agse/EN/topcited">Most cited</a></li>
+                </ul>
+            </div>
+            <div class="footer-column">
+                <h3>For authors</h3>
+                <ul style="list-style: none; padding: 0; margin: 0;">
+                            <li><a href="https://journal.hep.com.cn/agse/EN/guidelines">Author guidelines</a></li>
+                            <li><a href="http://mc.manuscriptcentral.com/ags">Online submission</a></li>
+                            <li><a href="https://journal.hep.com.cn/hep/EN/policy">Editorial policy</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav>
+<footer class="footer">
+    <div class="container">
+        <div class="row footer-cons">
+            <div class="col-md-9">
+                <div class="footer-info">
+                    <p>Copyright © Higher Education Press. Powered by Beijing Magtech Co. Ltd</p>
+                   <p>ICP Filing: <a href="https://beian.miit.gov.cn" target="_blank">京ICP备12020869号-1</a> | <a href="https://beian.miit.gov.cn" target="_blank">京ICP备150856号</a> | 京公网安备11010202008535号 | 网络出版服务许可证网出证(京)字第127号</p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="j-wechat">
+                    <img src="https://jf1.hep.com.cn/static/hep_journal_fase_en/images/WeChat.jpg" class="img-responsive center-block" alt="">
+                </div>
+                <div class="share">
+                    <a href="http://www.facebook.com/share.php?src=bm&amp;u=https://journal.hep.com.cn/agse/EN"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                    <a href="http://twitter.com/intent/tweet?text=https://journal.hep.com.cn/agse/EN"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    <a href="javascript:;" class="weixin-a"><i class='fa fa-wechat'></i><div class="weixin_ewm" id="output-wx"></div></a>
+                    <!--动态生成二维码
+                    <script type="text/javascript" src="https://jf1.hep.com.cn/static/hep_journal_fase_en/js/jquery.qrcode.min.js"></script>-->
+<script src="https://jf1.hep.com.cn/static/hep_journal_fase_en/js/jquery.qrcode.min.1.0.0.js"></script>
+                    <script>
+                        jQuery(function(){
+                            jQuery('#output-wx').qrcode({ width: 104, height: 104, text: window.location.href });
+                        })
+                    </script>
+                    <!--动态生成二维码end-->
+                    <a href="#"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-rss" aria-hidden="true"></i></a>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</footer>
+<!--返回顶部-->
+<div class="top_web" id="backtop" style="display: block;"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span></div>
+
+<!--百度统计journal.hep.com.cn-->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?ea40cb7f4a9016844e3b8fa9ea03e8b4";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-40JBR51S7J"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', 'G-40JBR51S7J');
+
+</script>
+
+<!--加载cms内容统计数组件，需提前加载jquery，hep_common_cms_pvstat模版放在高教通用组件模版中-->
+<!-- 需前置加载jquery，需传递域名-domainUrl、内容id-contentId 、显示结果页的dom对象viewId -->
+
+<script>
+
+$(document).ready(function() {
+    
+    if(1160153046616117351){
+        saveClick();
+    }
+    
+});
+
+
+function saveClick() {
+    // 显示加载状态
+
+
+    // 调用后台接口保存点击并获取新数值
+    $.ajax({
+        url: 'https://journal.hep.com.cn/agse/EN/cms/saveClick',
+        method: 'POST',
+        data: {
+            contentId: '1160153046616117351'
+        },
+        success: function(response) {
+         
+         
+          // 解析JSON响应
+            const result = JSON.parse(response);
+            // 提取pv值并更新显示
+            if (typeof result.pv !== 'undefined') {
+                 $('#contentPv').html(result.pv);
+
+            }
+                 
+        },
+        error: function(xhr) {
+            console.error('保存点击失败', xhr);
+            // 恢复原始文本
+            //alert('点击统计失败，请重试');
+        }
+    });
+}
+</script>
+
+</body>
+
+<script>
+    $(function(){
+        const timestamp = 1720454400000;
+        $("#pubDate").text(formatDate(timestamp));
+    });
+
+    function formatDate(timestamp) {
+        if (!timestamp) return "";
+        var date = new Date(timestamp);
+        var monthListEn = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sept","Oct","Nov","Dec"];
+        var year = date.getFullYear();
+        var month = monthListEn[date.getMonth()];
+        var day = date.getDate();
+        return month+" "+(day < 10 ? '0' + day : day)+", "+year;
+    }
+</script>
+</html>

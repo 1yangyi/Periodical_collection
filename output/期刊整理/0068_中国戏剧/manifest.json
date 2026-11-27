@@ -1,0 +1,65 @@
+{
+  "journal": {
+    "name": "中国戏剧",
+    "url": "https://www.chinatheatre.org.cn/",
+    "journal_id": "",
+    "row": 69,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.chinatheatre.org.cn/",
+  "collected_at": "2026-11-26T20:47:45+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.chinatheatre.org.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.chinatheatre.org.cn/",
+      "requested_url": "https://www.chinatheatre.org.cn/",
+      "title": "中国戏剧家协会",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:47:45+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.chinatheatre.org.cn/kwcb/zgxj/201802/t20180211_396390.html",
+      "requested_url": "https://www.chinatheatre.org.cn/kwcb/zgxj/201802/t20180211_396390.html",
+      "title": "《中国戏剧》（月刊）简介",
+      "path": [
+        "首页",
+        "刊物出版",
+        "中国戏剧",
+        "《中国戏剧》（月刊）简介"
+      ],
+      "visited_at": "2026-11-26T20:47:45+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.chinatheatre.org.cn/",
+      "title": "中国戏剧",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "journal": {
+    "name": "财经理论与实践",
+    "url": "http://hdxbcjb.cnjournals.net",
+    "journal_id": "",
+    "row": 411,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "http://hdxbcjb.cnjournals.net/ch/index.aspx",
+  "collected_at": "2026-11-26T21:01:04+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "hdxbcjb.cnjournals.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "http://hdxbcjb.cnjournals.net/ch/index.aspx",
+      "requested_url": "http://hdxbcjb.cnjournals.net",
+      "title": "财经理论与实践",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:01:04+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://hdxbcjb.cnjournals.net/ch/first_menu.aspx?parent_id=20091014184936001",
+      "requested_url": "http://hdxbcjb.cnjournals.net/ch/first_menu.aspx?parent_id=20091014184936001",
+      "title": "财经理论与实践",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T21:01:04+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "财经理论与实践",
+      "source_url": "http://hdxbcjb.cnjournals.net/ch/first_menu.aspx?parent_id=20091014184936001",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "local_path": "web/财经理论与实践_e067fca836.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "财经理论与实践投稿格式",
+      "local_path": "财经理论与实践投稿格式.md",
+      "source_urls": [
+        "http://hdxbcjb.cnjournals.net/ch/first_menu.aspx?parent_id=20091014184936001"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "http://hdxbcjb.cnjournals.net/ch/reader/more_download_article_list.aspx",
+      "title": "工业机器人应用对我国经济增长 …",
+      "source_url": "http://hdxbcjb.cnjournals.net/ch/first_menu.aspx?parent_id=20091014184936001",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "工业机器人应用对我国经济增长 …"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "· 工业机器人应用对我国经济增长 …"
+    },
+    {
+      "url": "http://hdxbcjb.cnjournals.net",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "http://hdxbcjb.cnjournals.net",
+      "title": "财经理论与实践",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

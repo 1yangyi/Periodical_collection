@@ -1,0 +1,72 @@
+{
+  "journal": {
+    "name": "量子光学学报",
+    "url": "https://wvvvv.opticsjournal.net/J/lzgxxb/Issues.html",
+    "journal_id": "",
+    "row": 335,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://wvvvv.opticsjournal.net/J/lzgxxb/Issues.html",
+  "collected_at": "2026-11-26T20:59:51+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "wvvvv.opticsjournal.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://wvvvv.opticsjournal.net/J/lzgxxb/Issues.html",
+      "requested_url": "https://wvvvv.opticsjournal.net/J/lzgxxb/Issues.html",
+      "title": "安全提示",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:51+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://wvvvv.opticsjournal.net/journal/lzgxxb/news/pt211201001890gcif.cshtml",
+      "requested_url": "https://wvvvv.opticsjournal.net/journal/lzgxxb/news/pt211201001890gcif.cshtml",
+      "title": "投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:59:51+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://wvvvv.opticsjournal.net/J/lzgxxb/Issues.html",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://wvvvv.opticsjournal.net/J/lzgxxb/Issues.html",
+      "title": "量子光学学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

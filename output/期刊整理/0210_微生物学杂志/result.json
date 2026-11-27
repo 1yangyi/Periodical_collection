@@ -1,0 +1,30 @@
+{
+  "index": 210,
+  "journal": "微生物学杂志",
+  "url": "https://www.csm1952.org.cn/kxpj/kpts/art/2021/art_759ff86254c843179660a73c9a45b9dd.html",
+  "source_sheet": "可打开",
+  "source_row": 211,
+  "started_at": "2026-11-26T20:58:30+08:00",
+  "finished_at": "2026-11-26T20:58:35+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST runs 返回 HTTP 402"
+  ],
+  "manifest": "0210_微生物学杂志/manifest.json",
+  "pages": 1,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 2,
+  "pending_reasons": [
+    "browser_use_failed",
+    "no_valid_word_or_pdf"
+  ]
+}

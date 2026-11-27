@@ -1,0 +1,30 @@
+{
+  "index": 123,
+  "journal": "Chinese Journal of Chemical Physics",
+  "url": "https://lib.ahpu.edu.cn/2024/0401/c9683a214635/page.htm",
+  "source_sheet": "可打开",
+  "source_row": 124,
+  "started_at": "2026-11-26T20:56:30+08:00",
+  "finished_at": "2026-11-26T20:57:19+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST runs 返回 HTTP 402"
+  ],
+  "manifest": "0123_Chinese Journal of Chemical Physics/manifest.json",
+  "pages": 1,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 2,
+  "pending_reasons": [
+    "browser_use_failed",
+    "no_valid_word_or_pdf"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "index": 157,
+  "journal": "中国土壤与肥料",
+  "url": "https://caas.cn/xxfw/zyfw/cqk/81791d9be9304b7dbef8b97aaf9b2e6b.htm",
+  "source_sheet": "可打开",
+  "source_row": 158,
+  "started_at": "2026-11-26T20:57:41+08:00",
+  "finished_at": "2026-11-26T20:57:46+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST runs 返回 HTTP 402"
+  ],
+  "manifest": "0157_中国土壤与肥料/manifest.json",
+  "pages": 1,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 2,
+  "pending_reasons": [
+    "browser_use_failed",
+    "no_valid_word_or_pdf"
+  ]
+}

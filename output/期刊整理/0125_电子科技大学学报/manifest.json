@@ -1,0 +1,108 @@
+{
+  "journal": {
+    "name": "电子科技大学学报",
+    "url": "https://www.juestc.uestc.edu.cn/",
+    "journal_id": "",
+    "row": 126,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.juestc.uestc.edu.cn/",
+  "collected_at": "2026-11-26T20:56:37+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.juestc.uestc.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.juestc.uestc.edu.cn/",
+      "requested_url": "https://www.juestc.uestc.edu.cn/",
+      "title": "导出文件",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:56:37+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.juestc.uestc.edu.cn/zgqs",
+      "requested_url": "https://www.juestc.uestc.edu.cn/zgqs",
+      "title": "征稿启事",
+      "path": [
+        "官网入口",
+        "征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:56:37+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.juestc.uestc.edu.cn/qikandongtai",
+      "requested_url": "https://www.juestc.uestc.edu.cn/qikandongtai",
+      "title": "导出文件",
+      "path": [
+        "官网入口",
+        "征稿启事",
+        "更多"
+      ],
+      "visited_at": "2026-11-26T20:56:37+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.juestc.uestc.edu.cn/article/top_down",
+      "requested_url": "https://www.juestc.uestc.edu.cn/article/top_down",
+      "title": "下载排行",
+      "path": [
+        "官网入口",
+        "征稿启事",
+        "更多"
+      ],
+      "visited_at": "2026-11-26T20:56:37+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.juestc.uestc.edu.cn/article/top_view",
+      "requested_url": "https://www.juestc.uestc.edu.cn/article/top_view",
+      "title": "点击排行",
+      "path": [
+        "官网入口",
+        "征稿启事",
+        "更多"
+      ],
+      "visited_at": "2026-11-26T20:56:37+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.juestc.uestc.edu.cn/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://www.juestc.uestc.edu.cn/",
+      "title": "电子科技大学学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

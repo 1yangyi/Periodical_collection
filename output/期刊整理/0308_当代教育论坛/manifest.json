@@ -1,0 +1,54 @@
+{
+  "journal": {
+    "name": "当代教育论坛",
+    "url": "https://ime.ccnu.edu.cn/virtual_attach_file.vsb?afc=aollPaUmvbMRNDLYRCZL8Mfnln2Lm74bU4AfnNn7oRV7LzU0gihFp2hmCIa0LkyDMYysUShVnzUaUmQkU8Lin7LZnmn2nzNDo7LinzCDLNMFLmLPnNlZMRWFLmT7LmNJv2nto4OeoDTxQShXptQ0g47aLzG0LzL4LYbw6288c&e=.pdf&nid=1333&oid=1327766781&tid=1010",
+    "journal_id": "",
+    "row": 309,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "completed",
+  "homepage_resolved": "",
+  "collected_at": "2026-11-26T20:59:32+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "ime.ccnu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [],
+  "artifacts": [
+    {
+      "type": "attachment",
+      "format": "pdf",
+      "title": "virtual_attach_file.vsb",
+      "local_path": "attachments/virtual_attach_file.vsb_ae5fb56b1d.pdf",
+      "sha256": "ae5fb56b1d0cd497e68ef5f8517384fa5a8756bb407c75a8c69b18623e658da4",
+      "bytes": 171305,
+      "sources": [
+        {
+          "source_url": "https://ime.ccnu.edu.cn/virtual_attach_file.vsb?afc=aollPaUmvbMRNDLYRCZL8Mfnln2Lm74bU4AfnNn7oRV7LzU0gihFp2hmCIa0LkyDMYysUShVnzUaUmQkU8Lin7LZnmn2nzNDo7LinzCDLNMFLmLPnNlZMRWFLmT7LmNJv2nto4OeoDTxQShXptQ0g47aLzG0LzL4LYbw6288c&e=.pdf&nid=1333&oid=1327766781&tid=1010",
+          "download_url": "https://ime.ccnu.edu.cn/virtual_attach_file.vsb?afc=aollPaUmvbMRNDLYRCZL8Mfnln2Lm74bU4AfnNn7oRV7LzU0gihFp2hmCIa0LkyDMYysUShVnzUaUmQkU8Lin7LZnmn2nzNDo7LinzCDLNMFLmLPnNlZMRWFLmT7LmNJv2nto4OeoDTxQShXptQ0g47aLzG0LzL4LYbw6288c&e=.pdf&nid=1333&oid=1327766781&tid=1010",
+          "resolved_url": "https://ime.ccnu.edu.cn/virtual_attach_file.vsb?afc=aollPaUmvbMRNDLYRCZL8Mfnln2Lm74bU4AfnNn7oRV7LzU0gihFp2hmCIa0LkyDMYysUShVnzUaUmQkU8Lin7LZnmn2nzNDo7LinzCDLNMFLmLPnNlZMRWFLmT7LmNJv2nto4OeoDTxQShXptQ0g47aLzG0LzL4LYbw6288c&e=.pdf&nid=1333&oid=1327766781&tid=1010",
+          "path": [
+            "官网入口"
+          ],
+          "label": "",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": []
+}

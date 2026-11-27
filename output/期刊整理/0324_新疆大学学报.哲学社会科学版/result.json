@@ -1,0 +1,28 @@
+{
+  "index": 324,
+  "journal": "新疆大学学报.哲学社会科学版",
+  "url": "https://xjdb.cbpt.cnki.net/portal/journal/portal/client/index",
+  "source_sheet": "可打开",
+  "source_row": 325,
+  "started_at": "2026-11-26T20:59:40+08:00",
+  "finished_at": "2026-11-26T20:59:51+08:00",
+  "status": "completed",
+  "browser_use_invoked": false,
+  "before_fallback": null,
+  "browser_use_errors": [],
+  "manifest": "0324_新疆大学学报.哲学社会科学版/manifest.json",
+  "pages": 2,
+  "attachments": [
+    {
+      "title": "投稿须知",
+      "format": "docx",
+      "local_path": "0324_新疆大学学报.哲学社会科学版/attachments/f46a6a09-27e7-4200-9f59-49d30ec68143_711728db92.docx",
+      "sha256": "711728db928a14e449a4731acdde22a372dc2a103d0b67bf3e9bc91203349148",
+      "bytes": 11680
+    }
+  ],
+  "original_count": 1,
+  "webpage_text": 0,
+  "pending_count": 0,
+  "pending_reasons": []
+}

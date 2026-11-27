@@ -1,0 +1,61 @@
+{
+  "journal": {
+    "name": "北京行政学院学报",
+    "url": "https://www.bai.gov.cn/bai/baixykw/202407/t20240707_3740089.html",
+    "journal_id": "",
+    "row": 180,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.bai.gov.cn/bai/baixykw/202407/t20240707_3740089.html",
+  "collected_at": "2026-11-26T20:57:58+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.bai.gov.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.bai.gov.cn/bai/baixykw/202407/t20240707_3740089.html",
+      "requested_url": "https://www.bai.gov.cn/bai/baixykw/202407/t20240707_3740089.html",
+      "title": "北京行政学院学报",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:57:58+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.bai.gov.cn/bai/baixykw/202407/t20240707_3740089.html",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://www.bai.gov.cn/bai/baixykw/202407/t20240707_3740089.html",
+      "title": "北京行政学院学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

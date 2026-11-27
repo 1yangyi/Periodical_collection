@@ -1,0 +1,30 @@
+{
+  "index": 282,
+  "journal": "Environmental Science and Ecotechnology",
+  "url": "https://www.sciopen.com/journal/2069-9643",
+  "source_sheet": "可打开",
+  "source_row": 283,
+  "started_at": "2026-11-26T20:59:16+08:00",
+  "finished_at": "2026-11-26T20:59:22+08:00",
+  "status": "completed",
+  "browser_use_invoked": false,
+  "before_fallback": null,
+  "browser_use_errors": [],
+  "manifest": "0282_Environmental Science and Ecotechnology/manifest.json",
+  "pages": 2,
+  "attachments": [
+    {
+      "title": "this template",
+      "format": "docx",
+      "local_path": "0282_Environmental Science and Ecotechnology/attachments/declaration-of-competing-interests_3bf50f9ba7.docx",
+      "sha256": "3bf50f9ba7bd1be7cdc9a9838c26d9cd935c7ab18a797655f9182c141c200c0d",
+      "bytes": 19799
+    }
+  ],
+  "original_count": 1,
+  "webpage_text": 0,
+  "pending_count": 1,
+  "pending_reasons": [
+    "needs_review"
+  ]
+}

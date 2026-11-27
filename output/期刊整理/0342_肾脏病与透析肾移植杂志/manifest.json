@@ -1,0 +1,73 @@
+{
+  "journal": {
+    "name": "肾脏病与透析肾移植杂志",
+    "url": "https://njunju.nju.edu.cn/",
+    "journal_id": "",
+    "row": 343,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://njunju.nju.edu.cn/",
+  "collected_at": "2026-11-26T20:59:56+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "njunju.nju.edu.cn",
+      "www.nju.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://njunju.nju.edu.cn/",
+      "requested_url": "https://njunju.nju.edu.cn/",
+      "title": "南京大学",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:56+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.nju.edu.cn/",
+      "requested_url": "https://www.nju.edu.cn/",
+      "title": "南京大学",
+      "path": [
+        "官网入口",
+        "新版官网"
+      ],
+      "visited_at": "2026-11-26T20:59:56+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://njunju.nju.edu.cn/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://njunju.nju.edu.cn/",
+      "title": "肾脏病与透析肾移植杂志",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

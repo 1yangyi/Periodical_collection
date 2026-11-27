@@ -1,0 +1,85 @@
+{
+  "journal": {
+    "name": "兵工学报",
+    "url": "https://bigo.publish.founderss.cn/zh/home/",
+    "journal_id": "",
+    "row": 196,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://bigo.publish.founderss.cn/zh/home/",
+  "collected_at": "2026-11-26T20:58:08+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "bigo.publish.founderss.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://bigo.publish.founderss.cn/zh/home/",
+      "requested_url": "https://bigo.publish.founderss.cn/zh/home/",
+      "title": "快捷入口",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:58:08+08:00",
+      "published_at": "2025-12-25"
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "http://www.co-journal.com/zh/info/22067/",
+      "title": "投稿须知",
+      "source_url": "https://bigo.publish.founderss.cn/zh/home/",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "reason": "unverified_host",
+      "detail": "",
+      "context": "投稿须知"
+    },
+    {
+      "url": "http://www.co-journal.com/newFile?columnId=32127&columnName=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83&index=4&parentIndex=4&bannerId=null&code=newFile&newsDataType=news&newCompositeId=22071&childId=",
+      "title": "下载中心",
+      "source_url": "https://bigo.publish.founderss.cn/zh/home/",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "reason": "unverified_host",
+      "detail": "",
+      "context": "下载中心"
+    },
+    {
+      "url": "https://bigo.publish.founderss.cn/zh/home/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://bigo.publish.founderss.cn/zh/home/",
+      "title": "兵工学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

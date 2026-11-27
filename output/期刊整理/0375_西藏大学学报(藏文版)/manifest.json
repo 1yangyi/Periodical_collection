@@ -1,0 +1,156 @@
+{
+  "journal": {
+    "name": "西藏大学学报(藏文版)",
+    "url": "https://xuebao.xzu.edu.cn/index/jbxx/zwb.htm",
+    "journal_id": "",
+    "row": 376,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://xuebao.xzu.edu.cn/index/jbxx/zwb.htm",
+  "collected_at": "2026-11-26T21:00:22+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "xuebao.xzu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://xuebao.xzu.edu.cn/index/jbxx/zwb.htm",
+      "requested_url": "https://xuebao.xzu.edu.cn/index/jbxx/zwb.htm",
+      "title": "藏文版-期刊中心（学报）",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:00:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://xuebao.xzu.edu.cn/tgzn.htm",
+      "requested_url": "https://xuebao.xzu.edu.cn/tgzn.htm",
+      "title": "投稿指南-期刊中心（学报）",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T21:00:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://xuebao.xzu.edu.cn/info/1007/1290.htm",
+      "requested_url": "https://xuebao.xzu.edu.cn/info/1007/1290.htm",
+      "title": "《高原科学研究》投稿须知-期刊中心（学报）",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "《高原科学研究》投稿须知"
+      ],
+      "visited_at": "2026-11-26T21:00:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://xuebao.xzu.edu.cn/info/1007/1289.htm",
+      "requested_url": "https://xuebao.xzu.edu.cn/info/1007/1289.htm",
+      "title": "《西藏大学学报》（社会科学版）投稿须知-期刊中心（学报）",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "《西藏大学学报》（社会科学版）投稿须知"
+      ],
+      "visited_at": "2026-11-26T21:00:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://xuebao.xzu.edu.cn/info/1007/1288.htm",
+      "requested_url": "https://xuebao.xzu.edu.cn/info/1007/1288.htm",
+      "title": "《西藏大学学报》（藏文版）投稿须知-期刊中心（学报）",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "《西藏大学学报》（藏文版）投稿须知"
+      ],
+      "visited_at": "2026-11-26T21:00:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://xuebao.xzu.edu.cn/tzgg.htm",
+      "requested_url": "https://xuebao.xzu.edu.cn/tzgg.htm",
+      "title": "通知公告-期刊中心（学报）",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T21:00:22+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "《高原科学研究》投稿须知-期刊中心（学报）",
+      "source_url": "https://xuebao.xzu.edu.cn/info/1007/1290.htm",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "《高原科学研究》投稿须知"
+      ],
+      "local_path": "web/《高原科学研究》投稿须知-期刊中心（学报）_4e6ffd6b47.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "《西藏大学学报》（社会科学版）投稿须知-期刊中心（学报）",
+      "source_url": "https://xuebao.xzu.edu.cn/info/1007/1289.htm",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "《西藏大学学报》（社会科学版）投稿须知"
+      ],
+      "local_path": "web/《西藏大学学报》（社会科学版）投稿须知-期刊中心（学报）_ad4d6d610d.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "西藏大学学报(藏文版)投稿格式",
+      "local_path": "西藏大学学报(藏文版)投稿格式.md",
+      "source_urls": [
+        "https://xuebao.xzu.edu.cn/info/1007/1290.htm",
+        "https://xuebao.xzu.edu.cn/info/1007/1289.htm"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://xuebao.xzu.edu.cn/index/jbxx/zwb.htm",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://xuebao.xzu.edu.cn/index/jbxx/zwb.htm",
+      "title": "西藏大学学报(藏文版)",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

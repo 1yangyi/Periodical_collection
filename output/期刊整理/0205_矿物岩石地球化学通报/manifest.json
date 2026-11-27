@@ -1,0 +1,390 @@
+{
+  "journal": {
+    "name": "矿物岩石地球化学通报",
+    "url": "https://www.gyig.ac.cn/tzgg_/202506/t20250606_7799141.html",
+    "journal_id": "",
+    "row": 206,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.gyig.ac.cn/tzgg_/202506/t20250606_7799141.html",
+  "collected_at": "2026-11-26T20:58:22+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.gyig.ac.cn",
+      "www.sciengine.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.gyig.ac.cn/tzgg_/202506/t20250606_7799141.html",
+      "requested_url": "https://www.gyig.ac.cn/tzgg_/202506/t20250606_7799141.html",
+      "title": "中国科学院地球化学研究所六十周年庆《矿物岩石地球化学通报》特刊征稿函",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:58:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.gyig.ac.cn/tzgg_/",
+      "requested_url": "https://www.gyig.ac.cn/tzgg_/",
+      "title": "通知公告--中国科学院地球化学研究所",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:58:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.gyig.ac.cn/ggjszx/yhzn/xzzq/",
+      "requested_url": "https://www.gyig.ac.cn/ggjszx/yhzn/xzzq/",
+      "title": "下载专区----公共技术中心（新）",
+      "path": [
+        "官网入口",
+        "下载专区"
+      ],
+      "visited_at": "2026-11-26T20:58:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.gyig.ac.cn/ggjszx/tzgg/",
+      "requested_url": "https://www.gyig.ac.cn/ggjszx/tzgg/",
+      "title": "通知公告----公共技术中心（新）",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:58:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.gyig.ac.cn/tzgg_/index_1.html",
+      "requested_url": "https://www.gyig.ac.cn/tzgg_/index_1.html",
+      "title": "通知公告--中国科学院地球化学研究所",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2"
+      ],
+      "visited_at": "2026-11-26T20:58:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.gyig.ac.cn/tzgg_/202609/t20260909_8279790.html",
+      "requested_url": "https://www.gyig.ac.cn/tzgg_/202609/t20260909_8279790.html",
+      "title": "Data Express in Natural Resources and Environment(DENRE)征稿启事",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2",
+        "Data Express in Natural Resources and Environment(DENRE)征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:58:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.gyig.ac.cn/tzgg_/index_2.html",
+      "requested_url": "https://www.gyig.ac.cn/tzgg_/index_2.html",
+      "title": "通知公告--中国科学院地球化学研究所",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "3"
+      ],
+      "visited_at": "2026-11-26T20:58:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.gyig.ac.cn/tzgg_/index_3.html",
+      "requested_url": "https://www.gyig.ac.cn/tzgg_/index_3.html",
+      "title": "通知公告--中国科学院地球化学研究所",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "4"
+      ],
+      "visited_at": "2026-11-26T20:58:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.gyig.ac.cn/tzgg_/index_4.html",
+      "requested_url": "https://www.gyig.ac.cn/tzgg_/index_4.html",
+      "title": "通知公告--中国科学院地球化学研究所",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "5"
+      ],
+      "visited_at": "2026-11-26T20:58:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.gyig.ac.cn/tzgg_/index_54.html",
+      "requested_url": "https://www.gyig.ac.cn/tzgg_/index_54.html",
+      "title": "通知公告--中国科学院地球化学研究所",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "尾页"
+      ],
+      "visited_at": "2026-11-26T20:58:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.gyig.ac.cn/tzgg_/index_5.html",
+      "requested_url": "https://www.gyig.ac.cn/tzgg_/index_5.html",
+      "title": "通知公告--中国科学院地球化学研究所",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "5",
+        "下一页"
+      ],
+      "visited_at": "2026-11-26T20:58:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.gyig.ac.cn/tzgg_/index_50.html",
+      "requested_url": "https://www.gyig.ac.cn/tzgg_/index_50.html",
+      "title": "通知公告--中国科学院地球化学研究所",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "尾页",
+        "51"
+      ],
+      "visited_at": "2026-11-26T20:58:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.gyig.ac.cn/tzgg_/index_51.html",
+      "requested_url": "https://www.gyig.ac.cn/tzgg_/index_51.html",
+      "title": "通知公告--中国科学院地球化学研究所",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "尾页",
+        "52"
+      ],
+      "visited_at": "2026-11-26T20:58:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.gyig.ac.cn/tzgg_/index_52.html",
+      "requested_url": "https://www.gyig.ac.cn/tzgg_/index_52.html",
+      "title": "通知公告--中国科学院地球化学研究所",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "尾页",
+        "53"
+      ],
+      "visited_at": "2026-11-26T20:58:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.gyig.ac.cn/tzgg_/index_53.html",
+      "requested_url": "https://www.gyig.ac.cn/tzgg_/index_53.html",
+      "title": "通知公告--中国科学院地球化学研究所",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "尾页",
+        "54"
+      ],
+      "visited_at": "2026-11-26T20:58:22+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "Data Express in Natural Resources and Environment(DENRE)征稿启事",
+      "source_url": "https://www.gyig.ac.cn/tzgg_/202609/t20260909_8279790.html",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2",
+        "Data Express in Natural Resources and Environment(DENRE)征稿启事"
+      ],
+      "local_path": "web/Data Express in Natural Resources and Environment(DENRE)征稿启事_54dfab15b0.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "矿物岩石地球化学通报投稿格式",
+      "local_path": "矿物岩石地球化学通报投稿格式.md",
+      "source_urls": [
+        "https://www.gyig.ac.cn/tzgg_/202609/t20260909_8279790.html"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://www.gyig.ac.cn/tzgg_/202610/P020261028411640491498.pdf",
+      "title": "第三届宇宙成因核素测量技术与应用青年学术论坛（第三轮通知）",
+      "source_url": "https://www.gyig.ac.cn/tzgg_/",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "第三届宇宙成因核素测量技术与应用青年学术论坛（第三轮通知）"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "第三届宇宙成因核素测量技术与应用青年学术论坛（第三轮通知） 2026-10-28"
+    },
+    {
+      "url": "https://www.sciengine.com/DENRE/home",
+      "title": "https://www.sciengine.com/DENRE/home",
+      "source_url": "https://www.gyig.ac.cn/tzgg_/202609/t20260909_8279790.html",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2",
+        "Data Express in Natural Resources and Environment(DENRE)征稿启事",
+        "https://www.sciengine.com/DENRE/home"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "期刊主页： https://www.sciengine.com/DENRE/home"
+    },
+    {
+      "url": "https://www.gyig.ac.cn/tzgg_/202510/P020251030607699169322.pdf",
+      "title": "中国科学院地球化学研究所分析测试中心公正性声明",
+      "source_url": "https://www.gyig.ac.cn/tzgg_/index_5.html",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "5",
+        "下一页",
+        "中国科学院地球化学研究所分析测试中心公正性声明"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "中国科学院地球化学研究所分析测试中心公正性声明 2025-10-30"
+    },
+    {
+      "url": "https://www.gyig.ac.cn/tzgg_/202510/P020251009367265628488.pdf",
+      "title": "第十一届全国成矿理论与找矿方法学术讨论会（第二号通知）",
+      "source_url": "https://www.gyig.ac.cn/tzgg_/index_5.html",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "5",
+        "下一页",
+        "第十一届全国成矿理论与找矿方法学术讨论会（第二号通知）"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "第十一届全国成矿理论与找矿方法学术讨论会（第二号通知） 2025-10-09"
+    },
+    {
+      "url": "https://www.gyig.ac.cn/tzgg_/201005/t20100505_6253866.html",
+      "title": "通知",
+      "source_url": "https://www.gyig.ac.cn/tzgg_/index_52.html",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "尾页",
+        "53",
+        "通知"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "通知 2010-05-05"
+    },
+    {
+      "url": "https://www.gyig.ac.cn/tzgg_/index_6.html",
+      "title": "7",
+      "source_url": "https://www.gyig.ac.cn/tzgg_/index_5.html",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "5",
+        "下一页",
+        "7"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "7"
+    },
+    {
+      "url": "https://www.gyig.ac.cn/tzgg_/index_7.html",
+      "title": "8",
+      "source_url": "https://www.gyig.ac.cn/tzgg_/index_5.html",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "5",
+        "下一页",
+        "8"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "8"
+    },
+    {
+      "url": "https://www.gyig.ac.cn/tzgg_/index_8.html",
+      "title": "9",
+      "source_url": "https://www.gyig.ac.cn/tzgg_/index_5.html",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "5",
+        "下一页",
+        "9"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "9"
+    },
+    {
+      "url": "https://www.gyig.ac.cn/tzgg_/index_9.html",
+      "title": "10",
+      "source_url": "https://www.gyig.ac.cn/tzgg_/index_5.html",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "5",
+        "下一页",
+        "10"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "10"
+    },
+    {
+      "url": "https://www.gyig.ac.cn/tzgg_/202506/t20250606_7799141.html",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://www.gyig.ac.cn/tzgg_/202506/t20250606_7799141.html",
+      "title": "矿物岩石地球化学通报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

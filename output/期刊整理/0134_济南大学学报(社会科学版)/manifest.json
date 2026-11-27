@@ -1,0 +1,150 @@
+{
+  "journal": {
+    "name": "济南大学学报(社会科学版)",
+    "url": "https://journal.ujn.edu.cn/zh/home/",
+    "journal_id": "",
+    "row": 135,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://journal.ujn.edu.cn/zh/home/",
+  "collected_at": "2026-11-26T20:57:20+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "journal.ujn.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://journal.ujn.edu.cn/zh/home/",
+      "requested_url": "https://journal.ujn.edu.cn/zh/home/",
+      "title": "快捷入口",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:57:20+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://journal.ujn.edu.cn/zh/info/6189/",
+      "requested_url": "http://journal.ujn.edu.cn/zh/info/6189/",
+      "title": "投稿须知 - 济南大学学报（社会科学版）",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:57:20+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿须知 - 济南大学学报（社会科学版）",
+      "source_url": "http://journal.ujn.edu.cn/zh/info/6189/",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "local_path": "web/投稿须知 - 济南大学学报（社会科学版）_f0e060d01b.html",
+      "status": "saved",
+      "published_at": ""
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://founder-rc-product.oss-cn-zhangjiakou.aliyuncs.com/upload/2026-08-02/102FK33CIGPPJ5648498.pdf?x-oss-date=20260802T134445Z&x-oss-expires=526514&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=LTAI5tCkN9AaKkwKs3bY8YW6%2F20260802%2Fcn-zhangjiakou%2Foss%2Faliyun_v4_request&x-oss-signature=a6fec9a3b88077fd00be1cce1c6ba34dcfe163ef027174a5e71bc3b181a0de86",
+      "title": "关于规范使用 AIGC 工具的声明",
+      "source_url": "http://journal.ujn.edu.cn/zh/info/6189/",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "关于规范使用 AIGC 工具的声明"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "附件3： 关于规范使用 AIGC 工具的声明"
+    },
+    {
+      "url": "https://founder-rc-product.oss-cn-zhangjiakou.aliyuncs.com/upload/2026-08-02/112I3UFO6G21R2400955.docx?x-oss-date=20260802T134445Z&x-oss-expires=526514&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=LTAI5tCkN9AaKkwKs3bY8YW6%2F20260802%2Fcn-zhangjiakou%2Foss%2Faliyun_v4_request&x-oss-signature=512b1034901fe6c506ba6b6073bf63c4a20e04b50039494d7400f9d339be8f0c",
+      "title": "作者贡献声明",
+      "source_url": "http://journal.ujn.edu.cn/zh/info/6189/",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "作者贡献声明"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "附件4： 作者贡献声明"
+    },
+    {
+      "url": "https://founder-rc-product.oss-cn-zhangjiakou.aliyuncs.com/upload/2026-08-02/364S5RJVYJES54425609.pdf?x-oss-date=20260802T134445Z&x-oss-expires=526514&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=LTAI5tCkN9AaKkwKs3bY8YW6%2F20260802%2Fcn-zhangjiakou%2Foss%2Faliyun_v4_request&x-oss-signature=d1ceef71d6f370b27b1bcb186d910ebeb5c531e915d8c22edbcb074f4a438754",
+      "title": "学术伦理审查要求",
+      "source_url": "http://journal.ujn.edu.cn/zh/info/6189/",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "学术伦理审查要求"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "附件5： 学术伦理审查要求"
+    },
+    {
+      "url": "https://founder-rc-product.oss-cn-zhangjiakou.aliyuncs.com/upload/2026-08-02/107CRIVCXLPYN0645223.docx?x-oss-date=20260802T134445Z&x-oss-expires=526514&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=LTAI5tCkN9AaKkwKs3bY8YW6%2F20260802%2Fcn-zhangjiakou%2Foss%2Faliyun_v4_request&x-oss-signature=035735c880ce1ed9dc5f0f8e26191bc83e99bdc1b8462ec79a68287e3669a38f",
+      "title": "稿件模板",
+      "source_url": "http://journal.ujn.edu.cn/zh/info/6189/",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "稿件模板"
+      ],
+      "reason": "invalid_or_failed_attachment",
+      "detail": "403 Client Error: Forbidden for url: https://founder-rc-product.oss-cn-zhangjiakou.aliyuncs.com/upload/2026-08-02/107CRIVCXLPYN0645223.docx?x-oss-date=20260802T134445Z&x-oss-expires=526514&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=LTAI5tCkN9AaKkwKs3bY8YW6%2F20260802%2Fcn-zhangjiakou%2Foss%2Faliyun_v4_request&x-oss-signature=035735c880ce1ed9dc5f0f8e26191bc83e99bdc1b8462ec79a68287e3669a38f",
+      "context": "附件1： 稿件模板"
+    },
+    {
+      "url": "https://founder-rc-product.oss-cn-zhangjiakou.aliyuncs.com/upload/2026-01-14/2463WYMCHTSMI1608126.pdf?x-oss-date=20260802T134445Z&x-oss-expires=526514&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=LTAI5tCkN9AaKkwKs3bY8YW6%2F20260802%2Fcn-zhangjiakou%2Foss%2Faliyun_v4_request&x-oss-signature=c2d06d1da3a6ef5c8eda6aef7126b12205bf9fc49581e8bfcf6311abbaa4bb08",
+      "title": "济南大学学报体例规范和注释规范2026修订",
+      "source_url": "http://journal.ujn.edu.cn/zh/info/6189/",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "济南大学学报体例规范和注释规范2026修订"
+      ],
+      "reason": "invalid_or_failed_attachment",
+      "detail": "403 Client Error: Forbidden for url: https://founder-rc-product.oss-cn-zhangjiakou.aliyuncs.com/upload/2026-01-14/2463WYMCHTSMI1608126.pdf?x-oss-date=20260802T134445Z&x-oss-expires=526514&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=LTAI5tCkN9AaKkwKs3bY8YW6%2F20260802%2Fcn-zhangjiakou%2Foss%2Faliyun_v4_request&x-oss-signature=c2d06d1da3a6ef5c8eda6aef7126b12205bf9fc49581e8bfcf6311abbaa4bb08",
+      "context": "附件2： 济南大学学报体例规范和注释规范2026修订"
+    },
+    {
+      "url": "https://journal.ujn.edu.cn/zh/home/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://journal.ujn.edu.cn/zh/home/",
+      "title": "济南大学学报(社会科学版)",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

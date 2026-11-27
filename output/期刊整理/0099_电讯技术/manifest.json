@@ -1,0 +1,52 @@
+{
+  "journal": {
+    "name": "电讯技术",
+    "url": "https://castjournals.cast.org.cn/joweb/dxjs/CN/journal",
+    "journal_id": "",
+    "row": 100,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://castjournals.cast.org.cn/joweb/dxjs/CN/journal",
+  "collected_at": "2026-11-26T20:53:01+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "castjournals.cast.org.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://castjournals.cast.org.cn/joweb/dxjs/CN/journal",
+      "requested_url": "https://castjournals.cast.org.cn/joweb/dxjs/CN/journal",
+      "title": "电讯技术",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:53:01+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://castjournals.cast.org.cn/joweb/dxjs/CN/journal",
+      "title": "电讯技术",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

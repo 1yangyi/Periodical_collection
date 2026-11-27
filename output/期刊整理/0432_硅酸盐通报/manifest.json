@@ -1,0 +1,61 @@
+{
+  "journal": {
+    "name": "硅酸盐通报",
+    "url": "https://www.opticsjournal.net/J/bccs/Issues.html",
+    "journal_id": "",
+    "row": 433,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.opticsjournal.net/J/bccs/Issues.html",
+  "collected_at": "2026-11-26T21:01:28+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.opticsjournal.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.opticsjournal.net/J/bccs/Issues.html",
+      "requested_url": "https://www.opticsjournal.net/J/bccs/Issues.html",
+      "title": "安全提示",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:01:28+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.opticsjournal.net/J/bccs/Issues.html",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://www.opticsjournal.net/J/bccs/Issues.html",
+      "title": "硅酸盐通报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "journal": {
+    "name": "中小学外语教学,中学篇",
+    "url": "https://paper.i21st.cn/m/story/37409.html",
+    "journal_id": "",
+    "row": 68,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://paper.i21st.cn/m/story/37409.html",
+  "collected_at": "2026-11-26T20:47:44+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "paper.i21st.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://paper.i21st.cn/m/story/37409.html",
+      "requested_url": "https://paper.i21st.cn/m/story/37409.html",
+      "title": "《中小学外语教学》(中学篇）征稿启事",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:47:44+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://paper.i21st.cn/m/story/37407.html",
+      "requested_url": "https://paper.i21st.cn/m/story/37407.html",
+      "title": "2007年教研版论文投稿要求",
+      "path": [
+        "第104期",
+        "2007年教研版论文投稿要求"
+      ],
+      "visited_at": "2026-11-26T20:47:44+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "《中小学外语教学》(中学篇）征稿启事",
+      "source_url": "https://paper.i21st.cn/m/story/37409.html",
+      "path": [
+        "官网入口"
+      ],
+      "local_path": "web/《中小学外语教学》(中学篇）征稿启事_a37514512e.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "2007年教研版论文投稿要求",
+      "source_url": "https://paper.i21st.cn/m/story/37407.html",
+      "path": [
+        "第104期",
+        "2007年教研版论文投稿要求"
+      ],
+      "local_path": "web/2007年教研版论文投稿要求_3dabdc7e5b.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "中小学外语教学,中学篇投稿格式",
+      "local_path": "中小学外语教学,中学篇投稿格式.md",
+      "source_urls": [
+        "https://paper.i21st.cn/m/story/37409.html",
+        "https://paper.i21st.cn/m/story/37407.html"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://paper.i21st.cn/m/story/37409.html",
+      "title": "中小学外语教学,中学篇",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

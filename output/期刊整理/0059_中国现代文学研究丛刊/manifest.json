@@ -1,0 +1,109 @@
+{
+  "journal": {
+    "name": "中国现代文学研究丛刊",
+    "url": "https://www.wxg.org.cn/dqym/index.jhtml",
+    "journal_id": "",
+    "row": 60,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.wxg.org.cn/dqym/index.jhtml",
+  "collected_at": "2026-11-26T20:46:37+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.wxg.org.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.wxg.org.cn/dqym/index.jhtml",
+      "requested_url": "https://www.wxg.org.cn/dqym/index.jhtml",
+      "title": "中国现代文学研究丛刊",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:46:37+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.wxg.org.cn:80/tgxz.jhtml",
+      "requested_url": "http://www.wxg.org.cn:80/tgxz.jhtml",
+      "title": "中国现代文学研究丛刊",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:46:37+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.wxg.org.cn/tgxz.jhtml",
+      "requested_url": "http://www.wxg.org.cn/tgxz.jhtml",
+      "title": "中国现代文学研究丛刊",
+      "path": [
+        "中国现代文学研究丛刊",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:46:37+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "中国现代文学研究丛刊",
+      "source_url": "http://www.wxg.org.cn:80/tgxz.jhtml",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "local_path": "web/中国现代文学研究丛刊_0d6c488e7f.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "中国现代文学研究丛刊",
+      "source_url": "http://www.wxg.org.cn/tgxz.jhtml",
+      "path": [
+        "中国现代文学研究丛刊",
+        "投稿须知"
+      ],
+      "local_path": "web/中国现代文学研究丛刊_0d6c488e7f.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "中国现代文学研究丛刊投稿格式",
+      "local_path": "中国现代文学研究丛刊投稿格式.md",
+      "source_urls": [
+        "http://www.wxg.org.cn:80/tgxz.jhtml",
+        "http://www.wxg.org.cn/tgxz.jhtml"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://www.wxg.org.cn/dqym/index.jhtml",
+      "title": "中国现代文学研究丛刊",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

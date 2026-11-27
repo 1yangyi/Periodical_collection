@@ -1,0 +1,135 @@
+{
+  "journal": {
+    "name": "发光学报",
+    "url": "https://cjl.lightpublishing.cn/",
+    "journal_id": "",
+    "row": 385,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://cjl.lightpublishing.cn/zh/home/",
+  "collected_at": "2026-11-26T21:00:34+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "cjl.lightpublishing.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://cjl.lightpublishing.cn/zh/home/",
+      "requested_url": "https://cjl.lightpublishing.cn/",
+      "title": "快捷入口",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:00:34+08:00",
+      "published_at": "2026-10-30"
+    },
+    {
+      "url": "https://cjl.lightpublishing.cn/zh/info/1338/",
+      "requested_url": "http://cjl.lightpublishing.cn/zh/info/1338/",
+      "title": "投稿须知 - 发光学报",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T21:00:34+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿须知 - 发光学报",
+      "source_url": "https://cjl.lightpublishing.cn/zh/info/1338/",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "local_path": "web/投稿须知 - 发光学报_73179b2e53.html",
+      "status": "saved",
+      "published_at": ""
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://cjl.lightpublishing.cn/",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "http://cjl.lightpublishing.cn/download?columnId=374&columnName=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83&index=3&parentIndex=3&bannerId=0&code=download&newsDataType=news&newCompositeId=1330&childId=",
+      "title": "下载中心",
+      "source_url": "https://cjl.lightpublishing.cn/zh/info/1338/",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "下载中心"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载中心"
+    },
+    {
+      "url": "http://cjl.lightpublishing.cn/download?columnId=374&columnName=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83&index=3&parentIndex=3&code=download",
+      "title": "文章保密与版权转让证明",
+      "source_url": "https://cjl.lightpublishing.cn/zh/info/1338/",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "文章保密与版权转让证明"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "本刊实行网上投稿（ https://mc03.manuscriptcentral.com/cjl ）， 在投稿过程中，作者 需上传稿件 Word文档和“ 文章保密与版权转让证明 ”，并 推荐 3~5 名审稿专家。"
+    },
+    {
+      "url": "http://cjl.lightpublishing.cn/download?columnId=374&columnName=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83&index=3&parentIndex=3&code=download&bannerId=0",
+      "title": "征稿简则",
+      "source_url": "https://cjl.lightpublishing.cn/zh/info/1338/",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "征稿简则"
+      ],
+      "reason": "invalid_or_failed_attachment",
+      "detail": "响应类型：text/html",
+      "context": "稿件发表的正常周期为 3~5 个月，其中按我刊 “ 征稿简则 ” 和 “ 论文模板 ” 要求撰写的稿件将会被优先处理。"
+    },
+    {
+      "url": "https://cjl.lightpublishing.cn/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://cjl.lightpublishing.cn/",
+      "title": "发光学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

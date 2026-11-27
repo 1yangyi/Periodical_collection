@@ -1,0 +1,32 @@
+{
+  "index": 204,
+  "journal": "建筑结构学报",
+  "url": "https://www.chinaasc.org.cn/news/86643.html",
+  "source_sheet": "可打开",
+  "source_row": 205,
+  "started_at": "2026-11-26T20:58:21+08:00",
+  "finished_at": "2026-11-26T20:58:39+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 20,
+    "artifacts": 0,
+    "pending": 11,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST runs 返回 HTTP 402"
+  ],
+  "manifest": "0204_建筑结构学报/manifest.json",
+  "pages": 20,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 13,
+  "pending_reasons": [
+    "browser_use_failed",
+    "depth_limit",
+    "needs_review",
+    "no_valid_word_or_pdf"
+  ]
+}

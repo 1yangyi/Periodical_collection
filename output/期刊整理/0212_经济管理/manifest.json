@@ -1,0 +1,130 @@
+{
+  "journal": {
+    "name": "经济管理",
+    "url": "https://jjgl.ajcass.com/",
+    "journal_id": "",
+    "row": 213,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://jjgl.ajcass.com/",
+  "collected_at": "2026-11-26T20:58:33+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "jjgl.ajcass.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://jjgl.ajcass.com/",
+      "requested_url": "https://jjgl.ajcass.com/",
+      "title": "期刊信息",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:58:33+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://jjgl.ajcass.com/CommonBlock/GetSiteDescribeDetail/12118?channelID=12118",
+      "requested_url": "https://jjgl.ajcass.com/CommonBlock/GetSiteDescribeDetail/12118?channelID=12118",
+      "title": "期刊简介",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:58:33+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://jjgl.ajcass.com/CommonBlock/SiteContentDetail2?contentID=148554",
+      "requested_url": "https://jjgl.ajcass.com/CommonBlock/SiteContentDetail2?contentID=148554",
+      "title": "期刊简介",
+      "path": [
+        "官网入口",
+        "《经济管理》投稿指南（2018年第1期起修订使用）"
+      ],
+      "visited_at": "2026-11-26T20:58:33+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "期刊简介",
+      "source_url": "https://jjgl.ajcass.com/CommonBlock/GetSiteDescribeDetail/12118?channelID=12118",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "local_path": "web/期刊简介_4213739aa9.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "期刊简介",
+      "source_url": "https://jjgl.ajcass.com/CommonBlock/SiteContentDetail2?contentID=148554",
+      "path": [
+        "官网入口",
+        "《经济管理》投稿指南（2018年第1期起修订使用）"
+      ],
+      "local_path": "web/期刊简介_a6663df7c8.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "经济管理投稿格式",
+      "local_path": "经济管理投稿格式.md",
+      "source_urls": [
+        "https://jjgl.ajcass.com/CommonBlock/GetSiteDescribeDetail/12118?channelID=12118",
+        "https://jjgl.ajcass.com/CommonBlock/SiteContentDetail2?contentID=148554"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://jjgl.ajcass.com/CommonBlock/SiteContentDetail2?contentID=148554",
+      "title": "《经济管理》投稿指南（2018年第1期起修订使用）",
+      "source_url": "https://jjgl.ajcass.com/",
+      "path": [
+        "官网入口",
+        "《经济管理》投稿指南（2018年第1期起修订使用）"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": "《经济管理》投稿指南（2018年第1期起修订使用）"
+    },
+    {
+      "url": "https://jjgl.ajcass.com/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://jjgl.ajcass.com/",
+      "title": "经济管理",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

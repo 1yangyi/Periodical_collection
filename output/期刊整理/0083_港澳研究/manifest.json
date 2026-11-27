@@ -1,0 +1,74 @@
+{
+  "journal": {
+    "name": "港澳研究",
+    "url": "https://yjga.cbpt.cnki.net/portal/journal/portal/client/index",
+    "journal_id": "",
+    "row": 84,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://yjga.cbpt.cnki.net/portal/journal/portal/client/index",
+  "collected_at": "2026-11-26T20:50:06+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "yjga.cbpt.cnki.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://yjga.cbpt.cnki.net/portal/journal/portal/client/index",
+      "requested_url": "https://yjga.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "港澳研究",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:50:06+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://yjga.cbpt.cnki.net/portal/journal/portal/client/news/yjga_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "requested_url": "https://yjga.cbpt.cnki.net/portal/journal/portal/client/news/yjga_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "title": "投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:50:06+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://yjga.cbpt.cnki.net/portal/journal/portal/client/news/yjga_db922688-adf9-430b-94cd-def1f4845b4d",
+      "requested_url": "https://yjga.cbpt.cnki.net/portal/journal/portal/client/news/yjga_db922688-adf9-430b-94cd-def1f4845b4d",
+      "title": "期刊介绍",
+      "path": [
+        "首页",
+        "期刊介绍"
+      ],
+      "visited_at": "2026-11-26T20:50:06+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://yjga.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "港澳研究",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

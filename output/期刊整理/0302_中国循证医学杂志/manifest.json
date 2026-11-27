@@ -1,0 +1,73 @@
+{
+  "journal": {
+    "name": "中国循证医学杂志",
+    "url": "https://journal.scu.edu.cn/info/1183/1255.htm",
+    "journal_id": "",
+    "row": 303,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://journal.scu.edu.cn/info/1183/1255.htm",
+  "collected_at": "2026-11-26T20:59:29+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "journal.scu.edu.cn",
+      "www.cjebm.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://journal.scu.edu.cn/info/1183/1255.htm",
+      "requested_url": "https://journal.scu.edu.cn/info/1183/1255.htm",
+      "title": "中国循证医学杂志",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:29+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.cjebm.com/",
+      "requested_url": "http://www.cjebm.com/",
+      "title": "www.cjebm.com",
+      "path": [
+        "官网入口",
+        "www.cjebm.com"
+      ],
+      "visited_at": "2026-11-26T20:59:29+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://journal.scu.edu.cn/info/1183/1255.htm",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://journal.scu.edu.cn/info/1183/1255.htm",
+      "title": "中国循证医学杂志",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

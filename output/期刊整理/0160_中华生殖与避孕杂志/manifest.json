@@ -1,0 +1,61 @@
+{
+  "journal": {
+    "name": "中华生殖与避孕杂志",
+    "url": "https://sibpt.cn/SupportDepartments2.html",
+    "journal_id": "",
+    "row": 161,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "",
+  "collected_at": "2026-11-26T20:57:43+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "sibpt.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://sibpt.cn/SupportDepartments2.html",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "HTTPSConnectionPool(host='sibpt.cn', port=443): Max retries exceeded with url: /SupportDepartments2.html (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)')))",
+      "context": ""
+    },
+    {
+      "url": "https://sibpt.cn/SupportDepartments2.html",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://sibpt.cn/SupportDepartments2.html",
+      "title": "中华生殖与避孕杂志",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

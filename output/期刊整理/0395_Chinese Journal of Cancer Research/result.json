@@ -1,0 +1,31 @@
+{
+  "index": 395,
+  "journal": "Chinese Journal of Cancer Research",
+  "url": "https://www.cjcrcn.org/",
+  "source_sheet": "可打开",
+  "source_row": 396,
+  "started_at": "2026-11-26T21:00:51+08:00",
+  "finished_at": "2026-11-26T21:01:03+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 2,
+    "artifacts": 0,
+    "pending": 7,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST network-policies 返回 HTTP 422"
+  ],
+  "manifest": "0395_Chinese Journal of Cancer Research/manifest.json",
+  "pages": 2,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 9,
+  "pending_reasons": [
+    "browser_use_failed",
+    "needs_review",
+    "no_valid_word_or_pdf"
+  ]
+}

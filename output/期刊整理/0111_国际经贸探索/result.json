@@ -1,0 +1,27 @@
+{
+  "index": 111,
+  "journal": "国际经贸探索",
+  "url": "https://www.gdufs.edu.cn/info/1070/1090.htm",
+  "source_sheet": "可打开",
+  "source_row": 112,
+  "started_at": "2026-11-26T20:54:39+08:00",
+  "finished_at": "2026-11-26T20:55:57+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0111_国际经贸探索/manifest.json",
+  "pages": 1,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 1,
+  "pending_reasons": [
+    "no_valid_word_or_pdf"
+  ]
+}

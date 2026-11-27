@@ -1,0 +1,482 @@
+<!DOCTYPE html><HTML>
+<HEAD>
+	<TITLE>现代中文学刊 投稿指南</TITLE>
+	<META http-equiv=Content-Type content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
+
+
+
+
+
+
+<link href="/js/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="/develop/static/common/css/css.css">
+<link rel="stylesheet" href="/js/jqpagination/jqpagination.css" />
+<script src="/js/jquery/jquery.min.js"></script>
+<script src="/js/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.qrcode.min.js"></script>
+<script src="/develop/static/common/js/common_cn.js"></script>
+<script src="/develop/static/common/js/component_cn.js"></script>
+<script language="javascript" src="/js/store.js"></script>
+<script language="javascript" src="/develop/static/common/js/download_cn.js"></script>
+<script language="javascript" src="/js/My97DatePicker/WdatePicker.js"></script>
+<link rel="stylesheet" href="/develop/static/common/bootstrap/js/font-awesome.min.css">
+
+<script>
+	$(document).ready(function(){
+		$("title").text($("title").text().replace(/<\/?[^>]*>/g,""));
+	});
+</script>
+
+
+
+
+
+
+
+
+
+
+<meta name="google-site-verification" content="GqftDyjkbLznCjwJH3xdvsEi1ZnXlVqxWMeQ5H2MD38" />
+<!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!--顶部快速导航下拉导航菜单特效css-->
+<link rel="stylesheet" href="https://xdzwxk.ecnu.edu.cn/images/1674-7704/css/bootsnav.css">
+<!--网站css-->
+<link rel="stylesheet" href="https://xdzwxk.ecnu.edu.cn/images/1674-7704/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://xdzwxk.ecnu.edu.cn/images/1674-7704/css/css.css">
+<script src="https://xdzwxk.ecnu.edu.cn/images/1674-7704/js/indexjs.js"></script>
+
+</HEAD>
+
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+<input type="hidden" id="mag-common-contextPath" value=""/>
+
+<div id="mag-component-store-div" style="display:none;"></div>
+			
+<!-- 模态框（Modal） -->
+<div class="modal fade" id="magModal" tabindex="-1" role="dialog" data-keyboard=false data-backdrop='static' aria-labelledby="magModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button buttonGroup="0" type="button"  class="close"  aria-hidden="true" onclick="mag_layer_close();">
+					&times;
+				</button>
+				<h4 class="modal-title" id="magModalLabel">
+					模态框（Modal）标题
+				</h4>
+			</div>
+			<div class="modal-body" id="mag-modal-body" style="overflow:auto;">
+				在这里添加一些文本
+			</div>
+			<div id="mag-layer-button-div" class="modal-footer">
+				<button buttonGroup="1" type="button"  class="btn btn-default"  onclick="mag_layer_close();">关闭
+				</button>
+				<button buttonGroup="2" type="button"  class="btn btn-default"  onclick="mag_layer_close();">关闭
+				</button>
+				<button buttonGroup="2" type="button" class="btn btn-primary" onclick="mag_submit()" id="mag_layer_submit_button_2">
+					提交更改
+				</button>
+				<button buttonGroup="3" type="button"  class="btn btn-default"  onclick="mag_layer_close();">取消
+				</button>
+				<button buttonGroup="3" type="button" class="btn btn-primary" onclick="mag_submit()" id="mag_layer_submit_button_3">
+					确定并提交
+				</button>
+				
+			</div>
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal -->
+</div>
+
+<div id="magModal_2" style="display:none;position:fixed;left:0px;top:0px;right:0px;bottom:0px;z-index:1060">
+	<div class="modal-dialog" style="margin-top:60px;">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button buttonGroup="0" type="button" id="mag-madal-close_bt_2"  class="close"  aria-hidden="true" onclick="mag_layer_close_2();">
+					&times;
+				</button>
+				<h4 class="modal-title" id="magModalLabel_2">
+					模态框（Modal）标题
+				</h4>
+			</div>
+			<div id="modal-body_2" class="modal-body"></div>
+		</div>
+	</div>
+</div>
+
+<!-- 模态框-Tab -->
+<div class="modal fade" id="magTabModal" tabindex="-1" role="dialog" data-keyboard=false data-backdrop='static' aria-labelledby="magTabModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header" style="border-bottom:0px;padding:15px 0px;">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true" style="padding-right:15px;">
+					&times;
+				</button>
+				
+<ul id="magTab" class="nav nav-tabs">
+
+</ul>
+			</div>
+			<div class="modal-body">
+				
+<div id="magTabContent" class="tab-content">
+
+</div>
+			</div>
+			<div id="mag-tablayer-button-div" class="modal-footer">
+				
+			</div>
+			
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal -->
+</div>
+
+
+
+<div style="display:none;">
+	<iframe id="mag_sendLongReq_iframe" name="mag_sendLongReq_iframe"></iframe>
+	<iframe id="mag_cma_sso_login_iframe" name="mag_cma_sso_login_iframe"></iframe>
+</div>
+<input type="hidden" id="mag_cma_sso_authorizeUrl" value=""/>
+		
+
+
+
+<!--头部-->
+<script src='https://tongji.journalreport.cn/mstatistics.service.js' ></script><script>recordAdd('61fa4c6d7dd5497a9203b93caad6749c')</script>
+
+
+<script language="javascript">
+	function tabChange(obj, id) {
+		var arrayli = obj.parentNode.getElementsByTagName("li"); //获取li数组
+		var arrayul = document.getElementById(id).getElementsByTagName("ul"); //获取ul数组
+		for (i = 0; i < arrayul.length; i++) {
+			if (obj == arrayli[i]) {
+				arrayli[i].className = "cli";
+				arrayul[i].className = "";
+			} else {
+				arrayli[i].className = "";
+				arrayul[i].className = "hidden";
+			}
+		}
+	}
+</script>
+<style type="text/css">
+.tabbox {
+	width: 400px;
+	margin-top: 5px;
+	margin-bottom: 5px
+}
+
+.tabmenu {
+	width: 400px;
+	height: 28px;
+	border-left: 1px solid #CCC;
+	border-top: 1px solid #ccc;
+}
+
+.tabmenu ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.tabmenu li {
+	text-align: center;
+	float: left;
+	display: block;
+	width: 99px;
+	overflow: hidden;
+	background-color: #f1f1f1;
+	line-height: 27px;
+	border-right: #ccc 1px solid;
+	border-bottom: #ccc 1px solid;
+	display: inline;
+}
+
+.tabmenu .cli {
+	text-align: center;
+	float: left;
+	display: block;
+	width: 99px;
+	overflow: hidden;
+	background-color: #fff;
+	line-height: 27px;
+	border-right: #ccc 1px solid;
+	border-bottom: #fff 1px solid;
+	display: inline;
+	cursor: pointer;
+	color: #c30000;
+	font-weight: bold
+}
+
+#tabcontent {
+	width: 399px;
+	background-color: #fff;
+	border-left: #CCC 1px solid;
+	border-right: #CCC 1px solid;
+	border-bottom: #CCC 1px solid;
+	height: 65px;
+}
+
+#tabcontent ul {
+	margin: 0;
+	padding: 5px;
+	list-style-type: none;
+}
+
+#tabcontent .hidden {
+	display: none;
+}
+
+img[src*='.traceImg']{
+	width:44px;
+	height:22px;
+}
+</style>
+
+<!--头部-->
+<div class="ding">
+	<div class="ding2">
+	<span class="fl">
+		欢迎访问《现代中文学刊》官方网站，今天是<script language="JavaScript" type="text/javascript">today=new Date();
+		function initArray(){
+		this.length=initArray.arguments.length
+		for(var i=0;i<this.length;i++)
+		this[i+1]=initArray.arguments[i]  }
+		var d=new initArray(
+		" 星期日",
+		" 星期一",
+		" 星期二",
+		" 星期三",
+		" 星期四",
+		" 星期五",
+		" 星期六");
+		document.write(
+		"<font color=ffffff style='font-size:11pt;font-family: 微软雅黑;'> ",
+		today.getFullYear(),"年",
+		today.getMonth()+1,"月",
+		today.getDate(),"日",
+		d[today.getDay()+1],
+		"</font>" );
+	   </script>
+	   </span>
+					   
+	</div>
+</div>
+<div class="header">
+<div class="banner">
+	<div class="col-lg-8 col-md-8 col-sm-8"><img src="https://xdzwxk.ecnu.edu.cn/images/1674-7704/images/banner.png"></div>
+	<div class="col-lg-4 col-md-4 col-sm-4">
+		<div class="article-search">
+			<div mag-component-type="ajaxPage" mag-page-url="https://xdzwxk.ecnu.edu.cn/CN/article/quickSearch.do"></div>
+		</div>
+	</div>
+</div>
+</div>
+<div class="daohang">
+	<div class="navbar site-nav">
+		<div class="navbar-header">
+		<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+			<span class="sr-only">Toggle navigation</span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			
+		</button>
+		</div>
+		
+		<div class="navbar-collapse collapse" role="navigation">
+			
+			<ul class="nav navbar-nav">
+				<li><a href="https://xdzwxk.ecnu.edu.cn/CN/home">首页</a></li>
+				<li><a href="https://xdzwxk.ecnu.edu.cn/CN/column/column1.shtml">期刊介绍</a></li>
+				<li><a href="https://xdzwxk.ecnu.edu.cn/CN/column/column2.shtml">编委会</a></li>
+				<li><a href="https://xdzwxk.ecnu.edu.cn/CN/column/column3.shtml">投稿指南</a></li>
+				<li><a href="https://xdzwxk.ecnu.edu.cn/CN/column/column10.shtml">道德声明</a></li>
+				<li><a href="https://xdzwxk.ecnu.edu.cn/CN/column/column11.shtml">期刊订阅</a></li>
+				<li><a href="https://xdzwxk.ecnu.edu.cn/CN/column/column5.shtml">联系我们</a></li>
+				<!--  <li><a href="https://xdzwxk.ecnu.edu.cn/EN/home" target="_blank">English</a></li>-->
+			</ul>
+			
+		</div>
+	</div>		
+</div>    
+
+
+
+
+<!--中间-->
+<div class="container">
+<div class="row">
+
+<div class="col-lg-9 col-md-9 m-center">		
+<section class="content_nr">
+	<h3 class="column">
+		<span> 投稿指南 </span>
+	</h3>
+<div class="item-content">
+<span style="line-height:2;font-size:16px;"> 
+<p style="color:rgba(0, 0, 0, 0.9);font-family:system-ui, -apple-system, BlinkMacSystemFont, &quot;font-size:14px;background-color:#FFF3E0;text-indent:2em;text-align:justify;">
+	<span style="font-size:18px;">《现代中文学刊》侧重于中国近代以来的文学和文化研究，设有特稿、访谈、演讲、专辑、批评、学术随笔、书评、译文、史料、回应等栏目，欢迎海内外同仁惠稿。注意事项如下：</span> 
+</p>
+<p style="color:rgba(0, 0, 0, 0.9);font-family:system-ui, -apple-system, BlinkMacSystemFont, &quot;font-size:14px;background-color:#FFF3E0;text-indent:2em;text-align:justify;">
+	<span style="font-size:18px;"><br>
+</span> 
+</p>
+<p style="color:rgba(0, 0, 0, 0.9);font-family:system-ui, -apple-system, BlinkMacSystemFont, &quot;font-size:14px;background-color:#FFF3E0;text-indent:2em;text-align:justify;">
+	<span style="font-size:18px;">一、论文一般不超过两万字，书评和回应文字不超过一万字为宜（以上均含注释）。译文和史料字数不受限制。内容提要不超过300字，关键词限3-7个，并附论文题目英译文。引用、注释务请核对无误。注释采用尾注，以1、2、3等标注，注码须标于标点符号之后，务请严格依照本刊体例修订格式。</span>
+</p>
+<p style="color:rgba(0, 0, 0, 0.9);font-family:system-ui, -apple-system, BlinkMacSystemFont, &quot;font-size:14px;background-color:#FFF3E0;text-indent:2em;text-align:justify;">
+	<span style="font-size:18px;"><br>
+</span>
+</p>
+<p style="color:rgba(0, 0, 0, 0.9);font-family:system-ui, -apple-system, BlinkMacSystemFont, &quot;font-size:14px;background-color:#FFF3E0;text-indent:2em;text-align:justify;">
+	<span style="font-size:18px;">二、本刊实行双向匿名评审制度。来稿正文请勿出现作者姓名、工作单位、基金项目等可能透露作者身份的信息；作者姓名、单位、职称、通讯地址、电子邮箱及项目资助情况等，请另页（或以单独文档）随稿提交，供编辑部送交评审专家匿名审阅。</span> 
+</p>
+<p style="color:rgba(0, 0, 0, 0.9);font-family:system-ui, -apple-system, BlinkMacSystemFont, &quot;font-size:14px;background-color:#FFF3E0;text-indent:2em;text-align:justify;">
+	<br>
+</p>
+<p style="color:rgba(0, 0, 0, 0.9);font-family:system-ui, -apple-system, BlinkMacSystemFont, &quot;font-size:14px;background-color:#FFF3E0;text-indent:2em;text-align:justify;">
+	<span style="font-size:18px;">三、惠稿一式两份，电子稿以word格式发至：xdzwxk@vip.163.com；打印稿寄：上海市中山北路3663号华东师范大学中文系《现代中文学刊》编辑部，200062。</span> 
+</p>
+<p style="color:rgba(0, 0, 0, 0.9);font-family:system-ui, -apple-system, BlinkMacSystemFont, &quot;font-size:14px;background-color:#FFF3E0;text-indent:2em;text-align:justify;">
+	<br>
+</p>
+<p style="color:rgba(0, 0, 0, 0.9);font-family:system-ui, -apple-system, BlinkMacSystemFont, &quot;font-size:14px;background-color:#FFF3E0;text-indent:2em;text-align:justify;">
+	<span style="font-size:18px;">四、三个月未接来用通知，可自行处理。学刊编辑部有权删改采用稿，不同意者请特别注明。请勿一稿多投。</span> 
+</p>
+</span><span style="line-height:2;font-size:16px;"></span><br>
+<span style="line-height:2;font-size:16px;"></span>
+<br>
+<div class="text-right">
+发布日期：2011-11-10&nbsp;&nbsp;&nbsp;
+浏览：
+
+
+
+
+9546
+	
+	
+	 
+</div>
+</div>
+</section>
+</div>
+
+<!--右部-->
+
+
+
+<div class="right-sidebar col-lg-3 col-md-3 col-sm-3">
+<div class="xw_tab border border-radius">
+	<div class="title_1"><span class="t1">编辑部公告</span><a href="https://xdzwxk.ecnu.edu.cn/CN/folder/2/news"><div class="gd">更多<i class="glyphicon glyphicon-chevron-right"></i></div></a></div>
+	 <div id="de">  
+		<div id="de1">  
+			<ul class="right-middle">  
+			<div mag-component-type="ajaxPage" mag-page-url="https://xdzwxk.ecnu.edu.cn/CN/1674-7704/model/xwgg.htm"></div>	
+			</ul>
+		</div>  
+		<div id="de2"></div>  
+	</div>  
+
+<script>  
+    var dome = document.getElementById("de");  
+    var dome1 = document.getElementById("de1");  
+    var dome2 = document.getElementById("de2");  
+    var speed = 50;//设置向上轮动的速度    
+    dome2.innerHTML = dome1.innerHTML;//复制节点    
+    function moveTop() {  
+        if (dome1.offsetHeight - dome.scrollTop <= 0) {  
+            dome.scrollTop = 0;  
+        } else {  
+            dome.scrollTop++;  
+        }  
+    }  
+    var myFunction = setInterval("moveTop()", speed);  
+    dome.onmouseover = function () {  
+        clearInterval(myFunction);  
+    };  
+    dome.onmouseout = function () {  
+        myFunction = setInterval(moveTop, speed);  
+    };  
+</script> 				
+</div>
+<div class="qkxx border border-radius">
+	<div class="qkxx_fm">
+		<a href="https://xdzwxk.ecnu.edu.cn/CN/current"><img src="https://xdzwxk.ecnu.edu.cn/fileup/1674-7704/COVER/volumn_20230614173244.jpg" class="img-responsive"></a>
+	</div>
+	<div class="qkxx_xx">
+		双月刊，1984年创刊<br>
+		ISSN 1674-7704<br>
+		CN  31-2026/G4<br>
+	</div>	
+</div>
+
+<div class="dydy border border-radius">
+<a href="https://xdzwxk.ecnu.edu.cn/CN/column/column11.shtml">
+	<i class="fa fa-envelope" aria-hidden="true"></i> 用户订阅
+</a>
+</div>
+
+<div class="tab_list2 border border-radius">
+	<div class="title_1"><i class="fa fa-link" aria-hidden="true"></i> 友情链接 <a href="https://xdzwxk.ecnu.edu.cn/CN/column/4/items"><div class="gd">更多...</div></a></div>
+	<ul>
+		                                        	</ul>
+</div>
+
+<div class="ewm border border-radius">
+	<div class="title_1"><i class="fa fa-weixin" aria-hidden="true"></i> 微信公众平台</div>
+	<img src="https://xdzwxk.ecnu.edu.cn/images/1674-7704/images/211.png">
+	<div class="ewm_wz">扫一扫，关注微信公众号</div>
+</div>
+
+<div class="tongji border border-radius">
+	<div class="title_1"><i class="fa fa-list-ul" aria-hidden="true"></i> 访问统计</div>
+	<script>record('61fa4c6d7dd5497a9203b93caad6749c')</script>   
+	<ul>
+	总访问量 <label id="pvVisitsSum"></label>　<br>
+	今日访问 <label id="ipDaySum"></label>　<br>
+	在线人数<label id="currentOnLine"></label>
+	</ul>
+</div>
+
+</div>
+
+</div>
+</div>
+<!--底部-->
+
+
+
+<div class="footer">
+<div class="banquan">
+	
+				版权所有 &copy; 《现代中文学刊》编辑部<br>
+		地址：上海市中山北路3663号华东师范大学中文系内　 邮编：200062<br>
+		　电话：（021)62224030　 E-mail：xdzwxk@vip.163.com<br>		技术支持：<a href="https://www.magtech.com.cn/" target="_blank" class="baise">北京玛格泰克科技发展有限公司</a>	
+
+	
+	</div>
+</div>
+
+<!--返回顶部-->
+<div class="top_web" id="backtop" style="display:block;"> <span class="glyphicon glyphicon-menu-up" aria-hidden="true" ></span></div>
+<!--返回顶部end--> 
+</body>
+</HTML>

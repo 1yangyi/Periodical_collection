@@ -1,0 +1,176 @@
+{
+  "journal": {
+    "name": "华中师范大学学报. 自然科学版",
+    "url": "https://journal.ccnu.edu.cn/zk/CN/column/item50.shtml",
+    "journal_id": "",
+    "row": 2,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://journal.ccnu.edu.cn/zk/CN/column/item50.shtml",
+  "collected_at": "2026-11-26T20:39:07+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "journal.ccnu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://journal.ccnu.edu.cn/zk/CN/column/item50.shtml",
+      "requested_url": "https://journal.ccnu.edu.cn/zk/CN/column/item50.shtml",
+      "title": "华中师范大学学报(自然科学版)",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:39:07+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://journal.ccnu.edu.cn/zk/CN/column/column107.shtml",
+      "requested_url": "https://journal.ccnu.edu.cn/zk/CN/column/column107.shtml",
+      "title": "华中师范大学学报(自然科学版)",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:39:07+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://journal.ccnu.edu.cn/",
+      "requested_url": "http://journal.ccnu.edu.cn/zk//CN/column/item35.shtml",
+      "title": "详细说明请见编辑部公告",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "详细说明请见编辑部公告"
+      ],
+      "visited_at": "2026-11-26T20:39:07+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "华中师范大学学报(自然科学版)",
+      "source_url": "https://journal.ccnu.edu.cn/zk/CN/column/column107.shtml",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "local_path": "web/华中师范大学学报(自然科学版)_be002a9c99.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "华中师范大学学报. 自然科学版投稿格式",
+      "local_path": "华中师范大学学报. 自然科学版投稿格式.md",
+      "source_urls": [
+        "https://journal.ccnu.edu.cn/zk/CN/column/column107.shtml"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "http://journal.ccnu.edu.cn/zk/CN/item/downloadFile.jsp?filedisplay=20190305145434.docx",
+      "title": "版权授权协议",
+      "source_url": "https://journal.ccnu.edu.cn/zk/CN/column/column107.shtml",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "版权授权协议"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "作者投稿时请登录本刊网站投稿系统，投稿文件须用 “word” 软件编排，公式请使用mathtype插入. 投稿时除需提交全文文件外，还需下载填写书面 版权授权协议 与 学术诚信声明 并上传扫描件（ 详细说明请见编辑部公告 ）。本刊不收取审稿费用，稿件一经发表，将酌付稿酬，并赠送该期学报."
+    },
+    {
+      "url": "http://journal.ccnu.edu.cn/zk/CN/item/downloadFile.jsp?filedisplay=20190305145448.docx",
+      "title": "学术诚信声明",
+      "source_url": "https://journal.ccnu.edu.cn/zk/CN/column/column107.shtml",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "学术诚信声明"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "作者投稿时请登录本刊网站投稿系统，投稿文件须用 “word” 软件编排，公式请使用mathtype插入. 投稿时除需提交全文文件外，还需下载填写书面 版权授权协议 与 学术诚信声明 并上传扫描件（ 详细说明请见编辑部公告 ）。本刊不收取审稿费用，稿件一经发表，将酌付稿酬，并赠送该期学报."
+    },
+    {
+      "url": "http://journal.ccnu.edu.cn/zk//CN/item/downloadFile.jsp?filedisplay=20221013112519.doc",
+      "title": "华中师范大学学报版权授权书",
+      "source_url": "https://journal.ccnu.edu.cn/zk/CN/column/column107.shtml",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "华中师范大学学报版权授权书"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "附件： 华中师范大学学报版权授权书 华中师范大学学报学术诚信声明"
+    },
+    {
+      "url": "http://journal.ccnu.edu.cn/zk/CN/item/downloadFile.jsp?filedisplay=20190305145434.docx",
+      "title": "版权授权协议（DOCX）",
+      "source_url": "https://journal.ccnu.edu.cn/zk/CN/column/column107.shtml",
+      "path": [
+        "起始页面",
+        "投稿指南",
+        "版权授权协议"
+      ],
+      "reason": "invalid_or_failed_attachment",
+      "detail": "响应类型：text/html",
+      "context": ""
+    },
+    {
+      "url": "http://journal.ccnu.edu.cn/zk/CN/item/downloadFile.jsp?filedisplay=20190305145448.docx",
+      "title": "学术诚信声明（DOCX）",
+      "source_url": "https://journal.ccnu.edu.cn/zk/CN/column/column107.shtml",
+      "path": [
+        "起始页面",
+        "投稿指南",
+        "学术诚信声明"
+      ],
+      "reason": "invalid_or_failed_attachment",
+      "detail": "响应类型：text/html",
+      "context": ""
+    },
+    {
+      "url": "http://journal.ccnu.edu.cn/zk//CN/item/downloadFile.jsp?filedisplay=20221013112519.doc",
+      "title": "华中师范大学学报版权授权书（DOC）",
+      "source_url": "https://journal.ccnu.edu.cn/zk/CN/column/column107.shtml",
+      "path": [
+        "起始页面",
+        "投稿指南",
+        "附件",
+        "华中师范大学学报版权授权书"
+      ],
+      "reason": "invalid_or_failed_attachment",
+      "detail": "响应类型：text/html",
+      "context": ""
+    },
+    {
+      "url": "https://journal.ccnu.edu.cn/zk/CN/column/item50.shtml",
+      "title": "华中师范大学学报. 自然科学版",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

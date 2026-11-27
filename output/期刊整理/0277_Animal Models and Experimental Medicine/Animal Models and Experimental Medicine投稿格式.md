@@ -1,0 +1,422 @@
+# Animal Models and Experimental Medicine投稿格式
+
+## Journal updates
+
+来源网址：https://journal.hep.com.cn/amem/EN/guidelines
+
+采集时间：2026-11-26T20:59:14+08:00
+
+Thank you for your interest in Animal Models and Experimental Medicine. Please consult the following instructions to help you prepare your manuscript, and feel free to contact us with any questions. To ensure fast peer review and publication, manuscripts that do not adhere to the following instructions will be returned to the corresponding author for technical revision before undergoing peer review. We are looking forward to your submission.
+
+CONTENTS
+
+1. Aims and Scope
+2. Manuscript Categories and Requirements
+3. Preparing Your Submission
+4. Editorial Policies and Ethical Considerations
+5. Author Licensing
+6. Publication Process after Acceptance
+7. Post Publication
+8. Editorial Office Contact Details
+
+1. AIMS AND SCOPE
+
+Animal Models and Experimental Medicine (AMEM) is an international, open access publishing journal dedicated to disseminating research and contemporary information in the field of laboratory animal sciences. The objective of AMEM is to build an international academic exchange platform for research involving laboratory animals, animal models and related topics, including applied research in experimental medicine and translational medicine, and to increase understanding amongst the international academic community of the development of such studies and the welfare status of laboratory animals. Topics explored by AMEM include new animal models of human disease, laboratory animal biology, laboratory animal medicine, laboratory animal welfare, laboratory animal biotechnology, as well as other studies involving laboratory animals. AMEM serves as an official journal of The International Association for Comparative Medicine, is supported by the Chinese Association for Laboratory Animal Sciences (CALAS), and the Institute of Laboratory Animal Sciences, Chinese Academy of Medical Sciences & Peking Union Medical Collage, in cooperation with the Asian Federation of Laboratory Animal Science Associations (AFLAS).
+
+Editor-in-Chief: Qin Chuan, M.D.
+
+Frequency: Bi-monthly
+
+CN 10-1546/R
+
+Journal Abbreviation: AMEM
+
+Publisher: John Wiley & Sons Australia, Ltd
+
+### 
+
+2. MANUSCRIPT CATEGORIES AND REQUIREMENTS
+
+Editorial [ONLY BY INVITATION OF THE EDITORS]
+
+Word Limit: 1,500 words maximum.
+Abstract: no abstract required for this manuscript type.
+References: 5 maximum.
+Description: Proposals for Editorials may be submitted; however, in this case authors should only send an outline of the proposed paper for initial consideration.
+
+Review
+
+Word limit: 5,000 words maximum including an abstract but excluding references, tables and figures.
+Abstract: 250 words maximum.
+References: no maximum.
+Figures/tables: minimum of 1 image or figure.
+Description: Reviews are comprehensive analyses of specific topics. Proposals for reviews may be submitted; however, in this case authors should only send an outline of the proposed paper for initial consideration. Both solicited and unsolicited review articles are welcome and they will undergo peer review prior to acceptance.
+
+Commentary
+
+Word limit: 1,500 words maximum including an abstract but excluding references.
+Title: 20 words maximum.
+References: 20 maximum, including the article discussed.
+Figures/tables: 2 maximum.
+Description: Expert opinion from one or more people (who may agree or disagree) on a published work, current understanding/status of an area, or how practice should be undertaken.
+
+Original Article
+
+Word limit: 4,000 words maximum including an abstract but excluding references, tables and figures.
+Abstract: 250 words maximum, with subheaders.
+References: no limit.
+Figures/ tables: no limit, but 8 figures should be sufficient.
+Description: Full-length reports of current research in any of the fields covered by the title Animal Models and Experimental Medicine, interpreted in the broadest sense.
+
+Short Communication
+
+Word limit: 3,000 words including an abstract but excluding references, tables and figures.
+Abstract: 250 words, unstructured (no use of subheaders).
+References: Up to 35.
+Figures/tables: Up to 4 in total.
+Description: New findings that will substantially and immediately affect research. The words “Short Communication” must appear at the top left corner of the title page. Arrange text as in Original Articles.
+
+Practice and Policy
+
+Word limit: 3,000 words maximum including an abstract but excluding references, tables and figures.
+Abstract: 250 words maximum
+References: 20 maximum.
+Figures/ tables: 2 maximum.
+Description: Mini-Reviews are invited on a particular topic in the field of laboratory animal science, such as education, management, law, standards, facilities, applications, and an editor is appointed to oversee the peer review process. Original data may be included, but if so, sufficient detail on methods must be provided so that proper peer review can be accomplished. Further instructions are provided upon invitation.
+
+Research Highlights
+
+Word limit: 1,500 words maximum including an abstract but excluding references, tables and figures.
+Abstract: 250 words maximum
+References: 20 maximum.
+Figures/ tables: 2 maximum.
+Description: Research highlights should focus on interesting research articles recently published in prestigious journals and provide a balanced opinion of the paper or explain the implications and put them into context.
+
+Meeting Report
+
+Word limit: 3,000 words maximum including an abstract but excluding references, tables and figures.
+Abstract: 250 words maximum, with subheaders.
+References: no limit.
+Figures/ tables: no limit, but 8 figures should be sufficient.
+Description: Brief reports of symposia and conferences in the field of laboratory animal sciences and basic medical sciences. Reports must be submitted within 2 months of the meeting date in order to maintain their timeliness. Only those Meeting Reports dealing with topics of interest to the readership and that contain novel information and insights from the meeting are accepted for publication. A Meeting Report should be a thoughtful, critical commentary which shows an appreciation of the connections among the various presentations and reveals the consensus, if any, which emerged at the meeting. Before submitting a Meeting Report for consideration, potential authors must send a letter to the Editor-in-Chief inquiring whether the topic meets the criteria for consideration. Letters of inquiry should be sent to the Publications Office (E-mail: [email protected]).
+
+Technical Note
+
+Word limit: 1,500 words including an abstract but excluding references, tables and figures.
+Abstract: 250 words, unstructured (no use of subheaders).
+References: Up to 35.
+Figures/tables: Up to 4 in total.
+Description: Technical notes articles should present a new experimental or improved method, test or procedure. The method described may either be completely new, or may offer a better version of an existing method. The article must describe a demonstrable advance on what is currently available. The method needs to have been well tested and ideally, but not necessarily, used in a way that proves its value.
+
+Column
+
+Word limit: 3,000 words including an abstract but excluding references, tables and figures.
+Abstract: 250 words, unstructured (no use of subheaders).
+References: Up to 35.
+Figures/tables: Up to 4 in total.
+Description: An opinionated, subjective piece from one or more experts on a published work, current understanding and status of an area within the publishing scope of Animal Models of Experimental Medicine. Columns do not undergo peer review.
+Currently there are two columns "AFLAS Focus" and "Laboratory Animal Welfare and Ethics" in the pipeline. During submission, please select the corresponding topic if you are submitting to one of the columns.
+
+Letter to the Editor
+
+Word limit: 500 words maximum.
+Abstract: not required for this manuscript type.
+References: 5 maximum.
+Figures/ tables: 1 maximum.
+Description: Letters must offer perspective to content published in Animal Models and Experimental Medicine. A Letter must reference the original source, and a Response to a Letter must reference the Letter in the first few paragraphs. Letters can use an arbitrary title, but a Response must cite the title of the Letter: e.g. Response to [title of Letter]. This ensures that readers can track the line of discussion.
+
+3. PREPARING YOUR SUBMISSION
+
+Free Format submission
+
+Animal Models and Experimental Medicine now offers Free Format submission for a simplified and streamlined submission process.
+
+Before you submit, you will need:
+
+- Your manuscript: this should be an editable file including text, figures, and tables, or separate files – whichever you prefer. All required sections should be contained in your manuscript, including abstract, introduction, methods, results, and conclusions. Figures and tables should have legends. Figures should be uploaded in the highest resolution possible. References may be submitted in any style or format, as long as it is consistent throughout the manuscript. Supporting information should be submitted in separate files. If the manuscript, figures or tables are difficult for you to read, they will also be difficult for the editors and reviewers, and the editorial office will send it back to you for revision. Your manuscript may also be sent back to you for revision if the quality of English language is poor.
+- An ORCID ID, freely available at https://orcid.org. (Why is this important? Your article, if accepted and published, will be attached to your ORCID profile. Institutions and funders are increasingly requiring authors to have ORCID IDs.)
+- The title page of the manuscript, including:
+
+- data availability statement
+- funding statement
+- conflict of interest disclosure
+- ethics approval statement
+- patient consent statement
+- permission to reproduce material from other sources
+- clinical trial registration
+
+Animal Models and Experimental Medicine has implemented the Submission Prefill tool on our ScholarOne Manuscripts site. With one step, authors may upload their manuscript as a Word file and allow the system to automatically extract the Title, Abstract, Keywords, Authors, Institutions and Funders from the document, auto filling the data into the appropriate user interface fields.
+
+To submit, login at https://mc.manuscriptcentral.com/amem and create a new submission. Follow the submission steps as required and submit the manuscript.
+
+Preprint Policy
+
+Please find our preprint policy here.
+This journal accepts articles previously published on preprint servers. You are requested to update any pre-publication versions with a link to the final published article. You may also post the final published version of the article immediately after publication.
+
+Refer and Transfer Program
+
+Wiley believes that no valuable research should go unshared. This journal participates in Wiley’s Refer & Transfer program. If your manuscript is not accepted, you may receive a recommendation to transfer your manuscript to another suitable Wiley journal, either through a referral from the journal’s editor or through our Transfer Desk Assistant.
+
+Structure of the Manuscript
+
+The length of manuscripts must adhere to the specifications under the section Manuscript Categories.
+
+Manuscripts should be presented in the following order: (i) title page, (ii) abstract and key words, (iii) text, (iv) acknowledgments, (v) references, (vi) supplementary material, (vii) figure legends, (viii) tables (each table complete with title and footnotes) and (ix) figures. Footnotes to the text are not allowed and any such material should be incorporated into the text as parenthetical matter.
+
+TITLE PAGE
+
+The title page should contain (i) the title of the paper, (ii) the full names of the authors, (iii) the addresses of the institutions at which the work was carried out, (iv) the full postal and email address, plus facsimile and telephone numbers, of the author to whom correspondence about the manuscript should be sent, and (v) a short running title (less than 40 characters). The present address of any author, if different from that where the work was carried out, should be supplied in a footnote. In keeping with the latest guidelines of the International Committee of Medical Journal Editors, each author's contribution to the paper is to be quantified.
+
+Article titles The title should be short, informative and contain the major key words. Concise titles are easier to read than long, convoluted ones. Titles that are too short may, however, lack important information, such as study design. Authors should include all information in the title that will make electronic retrieval of the article both sensitive and specific. Do not use abbreviations in the title.
+
+ABSTRACT AND KEYWORDS
+
+The length of abstracts must adhere to the word count specifications under the section Manuscript Categories. The abstract should state the main problem, methods, results, and conclusions. Except for Original Research Articles and Meeting Reports, there should be no subheadings in the abstract. It must be factual and comprehensive. The use of abbreviations and acronyms should be limited and general statements (e.g. ‘‘the significance of the results is discussed’’) should be avoided.
+
+Four to six key words should be supplied below the abstract, in alphabetical order, and should be taken from those recommended by the US National Library of Medicine’s Medical Subject Headings (MeSH) browser list at: http://www.nlm.nih.gov/mesh/meshhome.html.
+
+TEXT
+
+Authors must use the following subheadings to divide the sections of their Original Article manuscript: Introduction, Methods, Results, Discussion, Acknowledgment, Disclosure, References, and when relevant, Supplementary Material.
+
+ACKNOWLEDGMENTS
+
+This should include sources of support, including financial and material support. Contributions from individuals who do not meet the criteria for authorship should be listed, with permission from the contributor, in an Acknowledgments section.
+
+Conflict of Interest Statement
+
+Authors will be asked to provide a conflict of interest statement during the submission process. See ‘Conflict of Interest’ section in Editorial Policies and Ethical Considerations for details on what to include in this section. Authors should ensure they liaise with all co-authors to confirm agreement with the final statement.
+
+References
+
+References should follow the AMA style, meaning all references should be numbered consecutively in order of appearance and should be as complete as possible. In-text citations should cite references in consecutive order using Arabic superscript numerals. For more information about AMA reference style please see the AMA Manual of Style. Names of journals should be abbreviated in the style used in Index Medicus. Authors are responsible for the accuracy of the references. Sample references follow:
+
+Journal article
+
+King VM, Armstrong DM, Apps R, Trott JR. Numerical aspects of pontine, lateral reticular, and inferior olivary projections to two paravermal cortical zones of the cat cerebellum. J Comp Neurol 1998;390:537-551.
+
+Journal article with no named author or group name
+
+Centers for Disease Control and Prevention (CDC). Licensure of a meningococcal conjugate vaccine (Menveo) and guidance for use--Advisory Committee on Immunization Practices (ACIP), 2010. MMWR Morb Mortal Wkly Rep. 2010;59(9):273.
+
+Electronic Journal article
+
+If you have a doi* (preferred):
+Gage BF, Fihn SD, White RH. Management and dosing of warfarin therapy. The American Journal of Medicine. 2000;109(6):481-488. doi:10.1016/S0002-9343(00)00545-3.
+
+If you do not have a doi*:
+Aggleton JP. Understanding anterograde amnesia: disconnections and hidden lesions. Q J Exp Psychol. 2008;61(10):1441-1471. http://search.ebscohost.com/login.aspx?direct=true&db=pbh&AN=34168185&site=ehost-live Accessed March 18, 2010.
+
+*The Digital Object Identifier (DOI) is an identification system for intellectual property in the digital environment. Developed by the International DOI Foundation on behalf of the publishing industry, its goals are to provide a framework for managing intellectual content, link customers with publishers, facilitate electronic commerce, and enable automated copyright management.
+
+Book Chapter
+
+Guyton JL, Crockarell JR. Fractures of acetabulum and pelvis. In: Canale ST, ed. Campbell's Operative Orthopaedics. 10th ed. Philadelphia, PA: Mosby, Inc; 2003:2939-2984.
+
+Electronic Book
+
+Rudolph CD, Rudolph AM. Rudolph's Pediatrics. 21st ed. New York, NY: McGraw-Hill Companies; 2002. http://online.statref.com/Document/Document.aspx?DocID=1&StartDoc=1&EndDoc=1882&FxID=13&offset=7&SessionId=A3F279FQVVFXFSXQ . Accessed August 22, 2007.
+
+Internet Document
+
+American Cancer Society. Cancer Facts & Figures 2003. http://www.cancer.org/downloads/STT/CAFF2003PWSecured.pdf. Accessed March 3, 2003
+
+TABLES
+
+Tables should be self-contained and complement, but not duplicate, information contained in the text. Number tables consecutively in the text in Arabic numerals. Type tables on a separate page with the legend above. Legends should be concise but comprehensive – the table, legend and footnotes must be understandable without reference to the text. Vertical lines should not be used to separate columns. Column headings should be brief, with units of measurement in parentheses; all abbreviations must be defined in footnotes. Footnote symbols: †, ‡, §, ¶, should be used (in that order) and *, **, *** should be reserved for P-values. Statistical measures such as SD or SEM should be identified in the headings. If tables have been reproduced from another source, a letter from the copyright holder (usually the Publisher), stating authorization to reproduce the material, must be attached to the covering letter.
+
+FIGURES
+
+All illustrations (line drawings and photographs) are classified as figures. Figures should be cited in consecutive order in the text. Magnifications should be indicated using a scale bar on the illustration. If figures have been reproduced from another source, a letter from the copyright holder (usually the Publisher), stating authorization to reproduce the material, must be attached to the covering letter.
+
+Size Figures should be sized to fit within the column (82 mm), intermediate (118 mm) or the full text width (173 mm).
+
+Resolution Figures must be supplied as high resolution files saved as .eps or .tif. Halftone figures 300 dpi (dots per inch), color figures 300 dpi saved as CMYK, figures containing text 400 dpi, line figures 1,000 dpi.
+
+Color figures Files should be set up as CMYK (cyan, magenta, yellow, black) and not as RGB (red, green, blue) so that colors as they appear on screen will be a closer representation of how they will print in the Journal.
+
+Line figures Must be sharp, black and white graphs or diagrams, drawn professionally or with a computer graphics package.
+
+Text sizing in figures Lettering must be included and should be sized to be no larger than the journal text or 8 point (Should be readable after reduction – avoid large type or thick lines). Line width between 0.5 and 1 point.
+
+Figure legends Type figure legends on a separate page. Legends should be concise but comprehensive – the figure and its legend must be understandable without reference to the text. Include definitions of any symbols used and define/explain all abbreviations and units of measurement.
+
+Click here for the basic figure requirements for figures submitted with manuscripts for initial peer review, as well as the more detailed post-acceptance figure requirements.
+
+EQUATIONS
+
+Equations should be numbered sequentially with Arabic numerals; these should be ranged right in parentheses. All variables should appear in italics. Use the simplest possible form for all mathematical symbols.
+
+Graphical Abstracts
+
+Animal Models and Experimental Medicine publishes graphical abstracts for research articles and review articles, displayed online in graphical form with a brief abstract, in addition to the up to 250 word abstract above. The online table of contents will display a schematic figure to convey the core message of your paper, alongside a short abstract highlighting the major findings of the paper. Authors should submit a new and stand-alone image, or designate an image already included in the paper. Your short abstract should consist of 2-3 sentences summarizing the essence of the paper. Graphical abstract entries should be submitted to Scholar One in one of the generic file formats and uploaded as ‘Graphical Abstract’ during the initial manuscript submission process. The image should fit within the dimensions of 50mm x 60mm, and be fully legible at this size.
+
+Supporting Information
+
+Supporting Information is provided by the authors to support the content of an article but they are not integral to that article. They are hosted via a link on Synergy but do not appear in the print version of the article. Supporting Information must be submitted together with the article for review; they should not be added at a later stage. They can be in the form of tables, figures, appendices and even video footage. Reference to Supporting Information in the main body of the article is allowed. However, it should be noted that excessive reference to a piece of Supporting Information may indicate that it would be better suited as a proper reference or fully included figure/table. The materials will be published as they are supplied and will not be checked or typeset in any way. All Supporting Information files should come with a legend, listed at the end of the main article. Each figure and table file should not be larger than 5MB, although video files may be larger. Prior to submission, please check the guidelines at: http://authorservices.wiley.com/bauthor/suppmat.asp
+
+Style of the Manuscript
+
+Manuscripts must follow the style of the Vancouver agreement detailed in the ICMJE’ revised ‘Uniform Requirements for Manuscripts Submitted to Biomedical Journals: Writing and Editing for Biomedical Publication’, as presented at: http://www.ICMJE.org/.
+
+Author name Each author’s given name should be followed by family name.
+
+Capitalize each letter of the Family name. A hyphen could be used in the Family name according to the rule in the Author’s region
+
+For a given name, capitalize the first letter of those words/syllables that should be used in initials, otherwise, DO NOT capitalize the first letter and use a hyphen to connect it with its anterior word.
+
+Spelling The journal uses US spelling and authors should therefore follow the latest edition of the Merriam–Webster’s Collegiate Dictionary.
+
+Units All measurements must be given in SI or SI-derived units. For more information about SI units, please go to the Bureau International des Poids et Mesures (BIPM) website at: http://www.bipm.fr
+
+Abbreviations Must be used sparingly – only where they ease the reader’s task by reducing repetition of long, technical terms. Initially use the word in full, followed by the abbreviation in parentheses. Thereafter use the abbreviation only.
+
+Trade names Drugs should be referred to by their generic names. If proprietary drugs have been used in the study, refer to these by their generic name, mentioning the proprietary name, and the name and location of the manufacturer, in parentheses.
+
+Submission of Manuscripts
+
+Submission is free of Charge. Manuscripts must be submitted online at: https://mc.manuscriptcentral.com/amem
+Authors must supply an email address as all correspondence will be by email.
+
+Word 2007
+
+Authors must note that Word 2007 is not yet compatible with journal production systems. Unfortunately, the journal cannot accept Microsoft Word 2007 documents until such time as a stable production version is released. Please use Word's 'Save as' option therefore to save your document as an older (.doc) file type.
+
+General
+
+All articles submitted to the journal must comply with these instructions. Failure to do so will result in return of the manuscript and possible delay in publication.
+
+- Submissions must be double-spaced.
+- All margins should be at least 30 mm.
+- All pages should be numbered consecutively in the top right-hand corner, beginning with the title page.
+- Do not use Enter at the end of lines within a paragraph.
+- Turn the hyphenation option off; include only those hyphens that are essential to the meaning.
+- Specify any special characters used to represent non-keyboard characters.
+- Take care not to use l (ell) for 1 (one), O (capital o) for 0 (zero) or ß (German esszett) for β (Greek beta).
+- Use a tab, not spaces, to separate data points in tables. If you use a table editor function, ensure that each data point is contained within a unique cell (i.e. do not use carriage returns within cells).
+
+Each figure should be supplied as a separate file, with the figure number incorporated in the file name. For submission, low-resolution figures saved as .jpg or .bmp files should be uploaded, for ease of transmission during the review process. Upon acceptance of the article, high-resolution figures (at least 300 d.p.i.) saved as .eps or .tif files should be uploaded. Digital images supplied only as low-resolution files cannot be used for publication.
+
+Cover Letter
+
+Papers are accepted for publication in the journal on the understanding that the content has not been published or submitted for publication elsewhere except as a brief abstract in the proceedings of a scientific meeting or symposium. This must be stated in the cover letter.
+
+The cover letter must also contain an acknowledgment that all authors have contributed significantly, and that all authors are in agreement with the content of the manuscript. In keeping with the latest guidelines of the International Committee of Medical Journal Editors, each author’s contribution to the paper is to be quantified.
+
+Article Preparation Support
+
+Wiley Editing Services offers expert help with English Language Editing, as well as translation, manuscript formatting, figure illustration, figure formatting, and graphical abstract design – so you can submit your manuscript with confidence.
+
+Also, check out our resources for Preparing Your Article for general guidance about writing and preparing your manuscript.
+
+4. EDITORIAL POLICIES AND ETHICAL CONSIDERATIONS
+
+Review Process
+
+The acceptance criteria for all papers are the quality and originality of the research and its significance to journal readership. Except where otherwise stated, manuscripts are single-blind peer reviewed. Papers will only be sent to review if the Editor-in-Chief determines that the paper meets the appropriate quality and relevance requirements. Manuscripts are assigned sequentially to Associate Editors. An Associate Editor solicits reviewers (typically, two external reviews are sought). The reviewers’ evaluations and Associate Editor’s comments are compiled by the Editor-in-Chief for disposition and transmittal to the authors. A decision is made usually within six weeks of the receipt of the manuscript.
+
+The Editor-in-Chief will advise authors whether a manuscript is accepted, should be revised or is rejected. Minor revisions are expected to be returned within four weeks of decision; major revisions within three months. Manuscripts not revised within these time periods are subject to withdrawal from consideration for publication unless the authors can provide extenuating circumstances.
+
+A number of manuscripts will have to be rejected on the grounds of priority and available space. A manuscript may be returned to the authors without outside review if the Editor-in-Chief and Associate Editor find it inappropriate for publication in the Journal. Similarly, the Editors may expedite the review process for manuscripts felt to be of high priority in order to reach a rapid decision. Such ‘fast-track decisions’ will normally occur within one week of receipt of the manuscript.
+
+Authors may provide the Editor-in-Chief with the names, addresses and email addresses of up to three suitably qualified individuals of international standing who would be competent to referee the work, although the Editor-in-Chief will not be bound by any such nomination. Likewise, authors may advise of any individual who for any reason, such as potential conflict of interest, might be inappropriate to act as a referee, again without binding the Editor-in-Chief.
+
+The Editor-in-Chief’s decision is final. If, however, authors dispute a decision and can document good reasons why a manuscript should be reconsidered, a rebuttal process exists. In the first place, authors should write to the Editor-in-Chief.
+
+All journals Manuscripts should be written so that they are intelligible to the professional reader who is not a specialist in the particular field. They should be written in a clear, concise, direct style. Where contributions are judged as acceptable for publication, the Editor and the Publisher reserve the right to modify manuscripts to eliminate ambiguity and repetition and improve communication between author and reader. If extensive alterations are required, the manuscript will be returned to the author for revision.
+
+If an author is from the editorial board of AMEM including Editors-in-Chief, Associate Editors and Editorial Board Members, he will be excluded from the peer-review process and all editorial decisions related to the publication of this article.
+
+Human Studies and Subjects
+
+For manuscripts reporting medical studies that involve human participants, a statement identifying the ethics committee that approved the study and confirmation that the study conforms to recognized standards is required, for example: Declaration of Helsinki; US Federal Policy for the Protection of Human Subjects; or European Medicines Agency Guidelines for Good Clinical Practice.
+
+Images and information from individual participants will only be published where the authors have obtained the individual's free prior informed consent. Authors do not need to provide a copy of the consent form to the publisher; however, in signing the author license to publish, authors are required to confirm that consent has been obtained. Wiley has a standard patient consent form available for use.
+
+Animal Studies
+
+A statement indicating that the protocol and procedures employed were ethically reviewed and approved, as well as the name of the body giving approval, must be included in the Methods section of the manuscript. Authors are encouraged to adhere to animal research reporting standards, for example the ARRIVE reporting guidelines for reporting study design and statistical analysis; experimental procedures; experimental animals and housing and husbandry. Authors should also state whether experiments were performed in accordance with relevant institutional and national guidelines for the care and use of laboratory animals:
+• US authors should cite compliance with the US National Research Council's Guide for the Care and Use of Laboratory Animals, the US Public Health Service's Policy on Humane Care and Use of Laboratory Animals, and Guide for the Care and Use of Laboratory Animals.
+• UK authors should conform to UK legislation under the Animals (Scientific Procedures) Act 1986 Amendment Regulations (SI 2012/3039).
+• European authors outside the UK should conform to Directive 2010/63/EU
+
+We ask all authors to carefully consider the ethical use of animals in their research.
+
+NIH Public Access Mandate
+
+For those interested in our policy on the NIH Public Access Mandate, please consult our policy statement: http://www.wiley.com/WileyCDA/Section/id-321171.html
+
+ORCID
+
+As part of our commitment to supporting authors at every step of the publishing process, Animal Models and Experimental Medicine requires the submitting author (only) to provide an ORCID ID when submitting a manuscript. This takes around 2 minutes to complete. Find more information.
+
+Author contributions (CRediT)
+
+This journal requires you to detail all authors’ contributions to the work by filling out CRediT (Contribution Roles Taxonomy) information during submission.
+
+This information provided will be used to automatically generate an author contribution statement that will be published with the final article.
+
+You can learn more about CRediT and read an explanation of contribution roles on Wiley’s CRediT information page.
+
+Data Sharing and Data Accessibility
+
+Please review Wiley’s policy here. This journal encourages data sharing.
+
+The journal encourages authors to share the data and other artefacts supporting the results in the paper by archiving it in an appropriate public repository. Authors should include a data accessibility statement, including a link to the repository they have used, in order that this statement can be published alongside their paper.
+
+All accepted manuscripts may elect to publish a data availability statement to confirm the presence or absence of shared data. If you have shared data, this statement will describe how the data can be accessed, and include a persistent identifier (e.g., a DOI for the data, or an accession number) from the repository where you shared the data.
+
+Sample statements are available here. If published, statements will be placed in the heading of your manuscript.
+
+Publication Ethics
+
+This journal is a member of the Committee on Publication Ethics (COPE). Note this journal uses iThenticate’s Cross Check software to detect instances of overlapping and similar text in submitted manuscripts. Read our Top 10 Publishing Ethics Tips for Authors here. Wiley’s Publication Ethics Guidelines can be found at https://authorservices.wiley.com/ethics-guidelines/index.html.
+
+5. Author Licensing
+
+Animal Models and Experimental Medicine is an Open Access journal: authors of accepted papers pay an Article Publication Charge and their papers are published under a Creative Commons license. With Creative Commons licenses, the author retains copyright and the public is allowed to reuse the content. The author grants Wiley a license to publish the article and identify as the original publisher.
+
+Open Access Fees: All articles published by Animal Models and Experimental Medicine are fully open access: immediately freely avaible to read, download and share. To cover the cost of publishing, Animal Models and Experimental Medicine charges an Article Publication Fee (APC). For more information about this journal's APC's, please visit the Open Access Page. Agreement to pay the APC is given at manuscript submission, but will only be charged upon acceptance. Automatic Article Publication Charge waivers and discounts will be given to authors from countries on the Waivers and Discounts List. Authors should submit a waiver or discount request during the submission of their article. Besides, journal offer waivers to authors for selected high-quality articles. For rapid feedback on the potential suitability of an article for waiver, please send an enquiry to the editorial office. More information is here.
+
+If your paper is accepted, the author identified as the formal corresponding author will receive an email prompting them to log in to Author Services, where via the Wiley Author Licensing Service (WALS) they will be required to complete a copyright license agreement on behalf of all authors of the paper.
+
+The following license agreements are available:
+Creative Commons Attribution Non-Commercial (CC-BY-NC) license
+Creative Commons Attribution-Non-Commercial-NoDerivs (CC- BY-NC-ND) license
+
+RCUK or Wellcome trust funded authors will be directed to sign the open access agreement under the terms of the Creative Commons Attribution (CC-BY) license in order to be funder compliant.
+
+To learn more about Creative Commons Licenses and to preview terms and conditions of the agreements, please click here. Note that certain funders mandate a particular type of CC license be used; to check this, please click here.
+
+6. PUBLICATION PROCESS AFTER ACCEPTANCE
+
+Accepted article received in production
+
+When your accepted article is received by Wiley’s production team, you (corresponding author) will receive an email asking you to login or register with Author Services. You will be asked to sign a publication license at this point.
+
+Proofs
+
+It is essential that corresponding authors supply an email address to which correspondence can be emailed while their article is in production. Notification of the URL from where to download a Portable Document Format (PDF) typeset page proof, associated forms and further instructions will be sent by email to the corresponding author. The purpose of the PDF proof is a final check of the layout, and of tables and figures. Alterations other than the essential correction of errors are unacceptable at PDF proof stage. The proof should be checked, and approval to publish the article should be emailed to the Publisher by the date indicated, otherwise, it may be signed off by the Editor or held over to the next issue. Acrobat Reader will be required in order to read the PDF. This software can be downloaded (free of charge) from the following Web site: http://www.adobe.com/products/acrobat/readstep2.html This will enable the file to be opened, read on screen, and printed out in order for any corrections to be added. Further instructions will be sent with the proof.
+
+Early View
+
+Animal Models and Experimental Medicine offers Early View service for selected articles. Early View articles are complete full-text articles published online in advance of their publication in a printed issue. Articles are therefore available as soon as they are ready, rather than having to wait for the next scheduled print issue. Early View articles are complete and final. They have been fully reviewed, revised and edited for publication, and the authors’ final corrections have been incorporated. Because they are in final form, no changes can be made after online publication. The nature of Early View articles means that they do not yet have volume, issue or page numbers, so Early View articles cannot be cited in the traditional way. They are therefore given a Digital Object Identifier (DOI), which allows the article to be cited and tracked before it is allocated to an issue. After print publication, the DOI remains valid and can continue to be used to cite and access the article. More information about DOIs can be found at http://www.doi.org/faq.html
+
+7. POST PUBLICATION
+
+Article Promotion Support
+
+Wiley Editing Services offers professional video, design, and writing services to create shareable video abstracts, infographics, conference posters, lay summaries, and research news stories for your research – so you can help your research get the attention it deserves.
+
+8. EDITORIAL OFFICE CONTACT DETAILS
+
+Animal Models and Experimental Medicine
+Managing Editor: Xiuping Sun
+Assistant Editors: Mingjing Song, Dongyuan Zhang and Yu Zhang
+Editorial office of Animal Models and Experimental Medicine
+5 Panjiayuan Nanli, Chaoyang District, Beijing, 100021, China
+Email: amem@cnilas.org;
+Tel: +86-10-67779337
+
+Pubdate: Viewed:

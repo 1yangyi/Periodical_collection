@@ -1,0 +1,37 @@
+{
+  "index": 315,
+  "journal": "天然气工业",
+  "url": "https://www.cngascn.com/",
+  "source_sheet": "可打开",
+  "source_row": 316,
+  "started_at": "2026-11-26T20:59:35+08:00",
+  "finished_at": "2026-11-26T20:59:40+08:00",
+  "status": "completed",
+  "browser_use_invoked": false,
+  "before_fallback": null,
+  "browser_use_errors": [],
+  "manifest": "0315_天然气工业/manifest.json",
+  "pages": 3,
+  "attachments": [
+    {
+      "title": "点击下载",
+      "format": "docx",
+      "local_path": "0315_天然气工业/attachments/20210425153836167_b8652b3530.docx",
+      "sha256": "b8652b3530f27e930ebf8329d6842db3afddf8a5e6ff5bee4269bad4cce06d19",
+      "bytes": 41031
+    },
+    {
+      "title": "点击下载",
+      "format": "docx",
+      "local_path": "0315_天然气工业/attachments/20210425111909133_983a8de1bd.docx",
+      "sha256": "983a8de1bdbbaff7c1b47961b11691c6050e134772b5fdac15165bf8a7ccc050",
+      "bytes": 286384
+    }
+  ],
+  "original_count": 2,
+  "webpage_text": 0,
+  "pending_count": 6,
+  "pending_reasons": [
+    "needs_review"
+  ]
+}

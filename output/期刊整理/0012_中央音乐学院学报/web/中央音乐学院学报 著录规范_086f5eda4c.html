@@ -1,0 +1,800 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+	<TITLE>中央音乐学院学报 著录规范</TITLE>
+	<META http-equiv=Content-Type content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
+
+
+
+
+
+
+<link href="/js/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="/develop/static/common/css/css.css">
+<link rel="stylesheet" href="/js/jqpagination/jqpagination.css" />
+<script src="/js/jquery/jquery.min.js"></script>
+<script src="/js/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.qrcode.min.js"></script>
+<script src="/develop/static/common/js/common_cn.js"></script>
+<script src="/develop/static/common/js/component_cn.js"></script>
+<script language="javascript" src="/js/store.js"></script>
+<script language="javascript" src="/develop/static/common/js/download_cn.js"></script>
+<script language="javascript" src="/js/My97DatePicker/WdatePicker.js"></script>
+<script language="javascript" src="/develop/static/common/js/xss/xss.js"></script>
+<link rel="stylesheet" href="/develop/static/common/bootstrap/js/font-awesome.min.css">
+<script language="javascript" src="/develop/static/common/js/xss/mag-xss.js"></script>
+
+<script>
+	$(document).ready(function(){
+		$("title").text($("title").text().replace(/<\/?[^>]*>/g,""));
+	});
+</script>
+
+<style>
+      svg.markmap {
+        width: 100%;
+        height:100%;
+      }
+      .markmap {
+        width: 100%;
+        height:400px;
+      }
+.circle-border {
+	background-color: #CCCCCC; /* 可选，如果想要看到背景 */
+	border: 2px solid #fff; /* 边框宽度和颜色 */
+	border-radius: 50%; /* 将四个角设置为50%，形成圆形 */
+	padding:3px 8px;
+}
+#soin-summary-div img {
+    max-width: 100%;
+}
+</style>
+
+
+
+
+
+
+
+
+
+
+<meta name="google-site-verification" content="GqftDyjkbLznCjwJH3xdvsEi1ZnXlVqxWMeQ5H2MD38" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+<!--顶部快速导航下拉导航菜单特效css-->
+<link rel="stylesheet" href="https://xuebao.ccom.edu.cn/images/1001-9871/css/bootsnav.css">
+<!--网站css-->
+<link rel="stylesheet" href="https://xuebao.ccom.edu.cn/images/1001-9871/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://xuebao.ccom.edu.cn/images/1001-9871/css/css.css">
+<script src="https://xuebao.ccom.edu.cn/images/1001-9871/js/indexjs.js"></script>
+
+<!-- Favicons -->
+<link href="https://xuebao.ccom.edu.cn/images/1001-9871/images/favicon.png" rel="icon">
+<link href="https://xuebao.ccom.edu.cn/images/1001-9871/images/apple-touch-icon.png" rel="apple-touch-icon">
+  
+
+<!-- Favicons -->
+<link href="https://xuebao.ccom.edu.cn/images/1001-9871/images/favicon.png" rel="icon">
+<link href="https://xuebao.ccom.edu.cn/images/1001-9871/images/apple-touch-icon.png" rel="apple-touch-icon">
+  
+
+</HEAD>
+
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+<input type="hidden" id="mag-common-contextPath" value=""/>
+
+<div id="mag-component-store-div" style="display:none;"></div>
+			
+<!-- 模态框（Modal） -->
+<div class="modal fade" id="magModal" tabindex="-1" role="dialog" data-keyboard=false data-backdrop='static' aria-labelledby="magModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button buttonGroup="0" type="button"  class="close"  aria-hidden="true" onclick="mag_layer_close();">
+					&times;
+				</button>
+				<h4 class="modal-title" id="magModalLabel">
+					模态框（Modal）标题
+				</h4>
+			</div>
+			<div class="modal-body" id="mag-modal-body" style="overflow:auto;">
+				在这里添加一些文本
+			</div>
+			<div id="mag-layer-button-div" class="modal-footer">
+				<button buttonGroup="1" type="button"  class="btn btn-default"  onclick="mag_layer_close();">关闭
+				</button>
+				<button buttonGroup="2" type="button"  class="btn btn-default"  onclick="mag_layer_close();">关闭
+				</button>
+				<button buttonGroup="2" type="button" class="btn btn-primary" onclick="mag_submit()" id="mag_layer_submit_button_2">
+					提交更改
+				</button>
+				<button buttonGroup="3" type="button"  class="btn btn-default"  onclick="mag_layer_close();">取消
+				</button>
+				<button buttonGroup="3" type="button" class="btn btn-primary" onclick="mag_submit()" id="mag_layer_submit_button_3">
+					确定并提交
+				</button>
+				
+			</div>
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal -->
+</div>
+
+<div id="magModal_2" style="display:none;position:fixed;left:0px;top:0px;right:0px;bottom:0px;z-index:1060">
+	<div class="modal-dialog" style="margin-top:60px;">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button buttonGroup="0" type="button" id="mag-madal-close_bt_2"  class="close"  aria-hidden="true" onclick="mag_layer_close_2();">
+					&times;
+				</button>
+				<h4 class="modal-title" id="magModalLabel_2">
+					模态框（Modal）标题
+				</h4>
+			</div>
+			<div id="modal-body_2" class="modal-body"></div>
+		</div>
+	</div>
+</div>
+
+<!-- 模态框-Tab -->
+<div class="modal fade" id="magTabModal" tabindex="-1" role="dialog" data-keyboard=false data-backdrop='static' aria-labelledby="magTabModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header" style="border-bottom:0px;padding:15px 0px;">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true" style="padding-right:15px;">
+					&times;
+				</button>
+				
+<ul id="magTab" class="nav nav-tabs">
+
+</ul>
+			</div>
+			<div class="modal-body">
+				
+<div id="magTabContent" class="tab-content">
+
+</div>
+			</div>
+			<div id="mag-tablayer-button-div" class="modal-footer">
+				
+			</div>
+			
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal -->
+</div>
+
+
+
+<div style="display:none;">
+	<iframe id="mag_sendLongReq_iframe" name="mag_sendLongReq_iframe"></iframe>
+	<iframe id="mag_cma_sso_login_iframe" name="mag_cma_sso_login_iframe"></iframe>
+</div>
+<input type="hidden" id="mag_cma_sso_authorizeUrl" value=""/>
+		
+
+
+
+<!--头部-->
+<script src='https://tongji.journalreport.cn/mstatistics.service.js' ></script><script>recordAdd('fe256f7c6b764879b36381f913d779f4')</script>
+
+
+<script language="javascript">
+	function tabChange(obj, id) {
+		var arrayli = obj.parentNode.getElementsByTagName("li"); //获取li数组
+		var arrayul = document.getElementById(id).getElementsByTagName("ul"); //获取ul数组
+		for (i = 0; i < arrayul.length; i++) {
+			if (obj == arrayli[i]) {
+				arrayli[i].className = "cli";
+				arrayul[i].className = "";
+			} else {
+				arrayli[i].className = "";
+				arrayul[i].className = "hidden";
+			}
+		}
+	}
+</script>
+<style type="text/css">
+.tabbox {
+	width: 400px;
+	margin-top: 5px;
+	margin-bottom: 5px
+}
+
+.tabmenu {
+	width: 400px;
+	height: 28px;
+	border-left: 1px solid #CCC;
+	border-top: 1px solid #ccc;
+}
+
+.tabmenu ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.tabmenu li {
+	text-align: center;
+	float: left;
+	display: block;
+	width: 99px;
+	overflow: hidden;
+	background-color: #f1f1f1;
+	line-height: 27px;
+	border-right: #ccc 1px solid;
+	border-bottom: #ccc 1px solid;
+	display: inline;
+}
+
+.tabmenu .cli {
+	text-align: center;
+	float: left;
+	display: block;
+	width: 99px;
+	overflow: hidden;
+	background-color: #fff;
+	line-height: 27px;
+	border-right: #ccc 1px solid;
+	border-bottom: #fff 1px solid;
+	display: inline;
+	cursor: pointer;
+	color: #c30000;
+	font-weight: bold
+}
+
+#tabcontent {
+	width: 399px;
+	background-color: #fff;
+	border-left: #CCC 1px solid;
+	border-right: #CCC 1px solid;
+	border-bottom: #CCC 1px solid;
+	height: 65px;
+}
+
+#tabcontent ul {
+	margin: 0;
+	padding: 5px;
+	list-style-type: none;
+}
+
+#tabcontent .hidden {
+	display: none;
+}
+
+img[src*='.traceImg']{
+	width:44px;
+	height:22px;
+}
+</style>
+<!--头部-->
+<link href="https://xuebao.ccom.edu.cn/images/1001-9871/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+<header id="header" class="header fixed-top">
+    <div class="d-flex justify-content-between align-items-center djust">
+
+      <a href="https://xuebao.ccom.edu.cn/CN/home" class="logo">
+        <img src="https://xuebao.ccom.edu.cn/images/1001-9871/images/logo.png" alt=""> 
+      </a>
+
+      <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
+      <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a href="https://xuebao.ccom.edu.cn/CN/home" class="active">首页</a></li>
+          
+          <li class="dropdown"><a href="https://xuebao.ccom.edu.cn/CN/home"><span>关于学报</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <ul>
+              	<li><a href="https://xuebao.ccom.edu.cn/CN/column/column1.shtml">学报简介</a></li>
+	       <!--<li><a href="https://xuebao.ccom.edu.cn/CN/column/column2.shtml">编辑部成员</a></li>-->
+				<li><a href="https://xuebao.ccom.edu.cn/CN/column/column3.shtml">历届编委</a></li>
+				<li><a href="https://xuebao.ccom.edu.cn/CN/column/column4.shtml">图说刊史</a></li>
+                                <li><a href="https://xuebao.ccom.edu.cn/CN/column/column2.shtml">现任成员</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"><a href="https://xuebao.ccom.edu.cn/CN/home"><span>在线期刊</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <ul>
+              	<li><a href="https://xuebao.ccom.edu.cn/CN/current">当期期刊</a></li>
+				<li><a href="https://xuebao.ccom.edu.cn/CN/archive_by_years">过刊阅览</a></li>
+            </ul>
+          </li>
+          <li><a href="https://xuebao.ccom.edu.cn/CN/folder/1/news">学术动态</a></li>
+	  <li><a href="https://xuebao.ccom.edu.cn/CN/column/5/items">编辑部公告</a></li>
+	<!--
+          <li class="dropdown"><a href="#"><span>编辑部启事</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <ul>
+              	<li><a href="https://xuebao.ccom.edu.cn/CN/column/5/items">编辑部公告</a></li>
+				<li><a href="https://xuebao.ccom.edu.cn/CN/column/column6.shtml">征稿启事</a></li>
+            </ul>
+          </li>-->
+          <li><a class="get-a-quote" href="https://xuebao.ccom.edu.cn/EN/home" target="_blank">English</a></li>
+        </ul>
+       
+      </nav>
+      <!-- .navbar -->
+
+    </div>
+</header>
+
+<!-- 导航效果  -->
+ <script src="https://xuebao.ccom.edu.cn/images/1001-9871/js/main.js"></script>
+ 
+ <div class="n-banner"></div>
+ 
+ 
+ 
+ 
+
+<!--中间-->
+<div class="container">
+<div class="row">
+
+<!--左-->
+
+
+
+
+
+
+<div class="col-md-9 m-center">	
+			
+<section class="content_nr">
+	<h3 class="column">
+		<span> 著录规范 </span>
+	</h3>
+<div class="item-content">
+
+<p class="MsoNormal" align="left" style="text-align:center;">
+	<b><span style="font-size:18px;">《中央音乐学院学报》投稿须知及著录规范</span> <span></span></b> 
+</p>
+<p class="MsoNormal" align="center" style="text-align:center;">
+	<br>
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	</p><p class="MsoNormal">
+		<b><span>投稿注意事项</span> </b><b></b>
+	</p>
+	<p class="MsoNormal">
+		<span>《中央音乐学院学报》</span> <span>欢迎选题独特、观点鲜明、论证严密、结构严谨、符合学术规范、</span> <span>篇</span>幅为1万—1.5<span>万字左右的原创学术论文投稿。</span> 
+	</p>
+	<p class="MsoNormal">
+		&nbsp;
+	</p>
+	<p class="MsoNormal">
+		<b>投稿方式</b><b></b>
+	</p>
+	<p class="MsoNormal">
+		《中央音乐学院学报》<span>于</span><span>2026</span><span>年</span><span>1</span><span>月</span><span>1</span><span>日起</span><span>正式启用</span><span>全新网站与作者在线投稿系统</span>，<span>作者可通过《</span>中央音乐学院<span>学报》官方网站</span>“<span>作者投稿</span>”<span>入口登录系统，</span><span>首次登录须先</span><span>“注册账号”，后续可直接使用“账号”登录系统。作者登录系统后，可通过“工作桌面”右侧的“导航式投稿”和“一步式投稿”模式完成投稿。</span><span>投稿后系统自动生成投稿编号，作者可通过</span>“<span>稿件中心</span>”<span>查看稿件状态。新投稿系统具备论</span><span>文</span>“<span>查重</span>”<span>功能，可快速检测稿件的重复率，确保学术原创性；同时针对</span>“<span>人工</span><span>智能生成内容</span>”<span>进行专项检测，可有效识别人工智能生成文本，维护学术</span><span>诚信。</span>
+	</p>
+	<p class="MsoNormal">
+		&nbsp;
+	</p>
+	<p class="MsoBodyText" align="justify" style="margin-left:0.0000pt;text-align:justify;">
+		《中央音乐学院学报》官方网站：<a href="https://xuebao.ccom.edu.cn/">https: //xuebao.ccom.edu.cn</a>
+	</p>
+	<p class="MsoNormal">
+		&nbsp;
+	</p>
+	<p class="MsoNormal">
+		投稿方式详见《中央音乐学院学报》微信公众号：https://mp.weixin.qq.com/s/tFtqzyi2yarp3LBCk33s0A
+	</p>
+	<p class="MsoNormal">
+		&nbsp;
+	</p>
+	<p class="MsoNormal">
+		<span>学报原邮箱（</span><span>xbbjb@ccom.edu.cn</span><span>）将继续作为官方唯一联络邮箱使用，仅不再承担接收稿件功用。</span>
+	</p>
+	<p class="MsoNormal">
+		<b>&nbsp;</b>
+	</p>
+	<p class="MsoNormal">
+		<b><span>来稿请附</span> </b><b></b>
+	</p>
+	<p class="MsoNormal">
+		<span>中、英文摘要、关键词，以及作者个人信息（包括姓名、</span> <span>出生年、</span> <span>性别、</span> <span>工作单位、</span> <span>职称或职务、详细通信地址、联系电话）。</span> 
+	</p>
+	<p class="MsoNormal">
+		&nbsp;
+	</p>
+	<p class="MsoNormal">
+		<b><span>项目备注</span> </b><b></b>
+	</p>
+	<p class="MsoNormal">
+		<span>稿件如是科研、基金项目成果，请注明项目名称和项目编号。</span> 
+	</p>
+	<p class="MsoNormal">
+		&nbsp;
+	</p>
+	<p class="MsoNormal">
+		若在四个月内未接到编辑部通知，作者可自行处理稿件。稿件一经录用，本刊将支<span>付作者相应稿酬。切勿同时一稿多投。</span> 
+	</p>
+	<p class="MsoNormal">
+		&nbsp;
+	</p>
+	<p class="MsoNormal" style="text-align:center;">
+		<b><span>著录规范细则</span> </b><b></b>
+	</p>
+	<p class="MsoNormal">
+		<span>正文前请撰写</span><span>“摘要”、提炼文章“关键词”。 </span>
+	</p>
+	<p class="MsoNormal">
+		本刊论文所引文献，统一以页下脚注的形式体现，引用文献的内容需标注齐全。文后不再附录参考文献。
+	</p>
+<p></p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b></b><b></b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<br>
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>题<span> &nbsp;</span>名</b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	题名是论文的总纲，反映论文中重要特定内容的恰当、简明的词语的逻辑组合。题名应简明，一般<b>不宜超过<span>25</span>字</b>。
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<br>
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>摘<span> &nbsp;</span>要<span></span></b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	摘要的内容通常包括研究的目的、方法、结果和结论，是对论文的内容不加注释和评论的简短陈述<span>,&nbsp;</span>应具有独立性和自明性。中文摘要的字数，原则上应与论文中的成果多少相适应，<b>以<span>200</span>字～<span>300</span>字左右为宜</b>。中文摘要、外文摘要内容宜对应，为利于国际交流，外文摘要可以比中文摘要包含更多信息。<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<br>
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>关键词<span></span></b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	关键词是为便于文献检索，从题名、摘要或正文部分选取出来用以表示论文主题内容的词或词组。关键词要有检索意义，不应使用太泛指的词，例如<span>“</span>方法<span>”&nbsp;“</span>理论<span>”“</span>分析<span>”</span>等。每篇论文<b>以选取<span>3</span>个～<span>8</span>个关键词为宜</b>。<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<br>
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>中文专著著录格式<span></span></b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	作者名（多位作者间用顿号区隔）：《专著名》，出版地（出版社所在城市）：出版社全称，出版年份，所引页码。<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>示例：</b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	徐光宪、王祥：《物质结构》，北京：科学出版社<span>,&nbsp;2010</span>年，第<span>1</span>页。
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<br>
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>中文译著著录格式<span></span></b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	〔国籍〕原著作者名：《译著名》，译者名，出版地（出版社所在地）：出版社全称，出版年份，所引页码。
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>示例：</b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	〔美〕尼古拉斯·尼葛洛庞帝：《数字化生存》，胡泳、范海燕译，海口：海南出版社，1996年，第1页。
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b></b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>中文连续出版物中的析出文献<span></span></b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	著录格式<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	作者名：《文章名》，《期刊名》，出版年份，卷<span>/</span>期（如第<span>1</span>卷<span>/</span>期），页码（所引文章在期刊中的起止页码或引文的当前页码）。<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>示例：</b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	关立哲、韩纪富、张晨珏：《科技期刊编辑审读中要注重比较思维的科学运用》，《编辑学报》，<span>2014</span>年，第<span>2</span>期，第<span>144—146</span>页。
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<br>
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	作者名：《文章名》，《报章名》，出版日期，版次。<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>示例：</b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	余建斌：《我们的科技一直在追赶：访中国工程院院长周济》，《人民日报》，<span>2013</span>年<span>1</span>月<span>12</span>日，第<span>2</span>版。
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<br>
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>中文词条、文集析出文献著录格式<span></span></b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	析出文献作者名：《析出文献名》，词典<span>/</span>文集作者名：《词典<span>/</span>文集名》，出版地：出版社全称，出版年，页码（所引文章在文献中的起止页码或引文的当前页码）。
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>示例：</b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会编：《中国图书馆学会年会论文集》，北京：国家图书馆出版社，<span>2011</span>年，第<span>45—52</span>页。
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b></b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>古籍文献著录格式<span></span></b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	古籍版本可著录<span>“</span>写本<span>”“</span>抄本<span>”“</span>刻本<span>”“</span>活字本<span>”</span>等，文献著作者如在清代及以前，需用六角括号〔〕标明，如出现多位责任者，需分别注明，如<span>xxx</span>书，<span>xxx</span>校点，<span>xxx</span>注疏等。
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>示例：</b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	〔明〕汪昂：《本草备要》，刻本，京都：老二酉堂，<span>1881</span>年。<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<br>
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>外文文献著录格式<span></span></b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	外文文献的著录应使用信息资源本身的语种著录。
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	著录各项中，作者名采用先名字、后姓氏的写法（如<span>Stanley Sadie</span>），多位作者名之间用逗号区隔。
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	专著名或刊名用斜体字。期刊文章、文集及词典析出文章名或词条加双引号。
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	页码用<span>p.1/pp.1-3/pp.1,3,5</span>表示。
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>译文的著录格式原则上应遵照原文文献的著录方式。</b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<br>
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<br>
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>外文专著著录格式<span></span></b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>示例：</b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	J.Peter&nbsp;Burkholder, Donald Jay Grout, Claude
+V.Palisca,&nbsp;<i>A History of Western Music</i>, New York:
+W.W.Norton&amp;Company, 2019, pp.1-5.
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<br>
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>外文学位论文著录格式<span></span></b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>示例：</b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	R.B.Calms,&nbsp;<i>Infrared Spectroscopic Studies on
+Solid Oxygen</i>[D], Berkeley: University of California,1965.&nbsp;
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<br>
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>外文连续出版物中的析出文献著录格式<span></span></b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>示例：</b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	P. Caplan, “Cataloging Internet&nbsp;Resources”，<i><span>The Public Access Computer Systems Review</span></i><span>,1993,4(2), pp.61-66.&nbsp;</span> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b></b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>电子资源文献著录格式<span></span></b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	作者名：《文献名》，（发表日期<span>/</span>更新日期<span>/</span>引用日期任选其一），电子文献的出版信息或可获得网址。<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>示例：</b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	萧钰：《出版业信息化迈入快车道》<span>&nbsp;(2001-12-19)</span>，<span>http://www.creadercom/news/20011219/200112190019.html.&nbsp;</span> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	D.Bawden,&nbsp;<i>Origins and Concepts of Digital
+Literacy&nbsp;</i>(2008-05-04),
+http://www.soi.city.ac.uk/~dbawden/&nbsp;digital%20literacy%20chapter.pdf.
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<br>
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>预印本文献著录格式<span></span></b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	预印本是一种网络学术论文形式，作者在未经过正式的同行评审获得学术期刊接受之前，可以将稿件通过预印本服务器公开在网上，供读者免费获取。预印本是永久公开记录的一部分，如同已发表的期刊文章一样，每篇预印本文章都被赋予一个数字对象唯一标识符（<span>DOI</span>）。预印本发表后，作者可以对其修改，修改后的新版本与之前的版本都被保存，有不同的网址，并且可以被公开查询。
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	作者名：文献名<span>[Preprint]</span>，预印本服务器的名称<span>,&nbsp;[</span>最新版本发布日期<span>]</span>（访问时间）<span>,</span>有效访问网址（<span>URL</span>）<span>.</span> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>示例：</b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	Yu-Jhe Li，<span>Yun-Chun
+Chen</span>，<span>Yu-Chiang Frank Wang</span>：<i>Cross-Resolution Adversarial Dual Network for
+Person Re-Identification and Beyond&nbsp;</i>[Preprint], arXiv,[2020-2-19]（<span>2022-10-21)URL:http://arxiv.org/abs/2002.09274.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp;</span><span></span> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	<b>图片、谱例规范</b> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	文章中使用的谱例、图片、图例需完整、明晰，并尽可能提供电子或激光打印原件。谱例需用<b>五线谱</b>，全文谱例篇幅不超过文字篇幅的<b>四分之一</b>。谱例、图例若引自正式出版物，需加注说明来源，并遵照中、外文献著录规范标注。若为非正式出版物，可在谱例或图例下方用文字说明来源。如记谱、摄影、采录者，演唱（奏）、表演者或摄影、采录时间、地点等。<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="text-align:left;">
+	本刊依据《中华人民共和国著作权法》将对拟刊发稿件内容进行适当编辑。同时，本刊内容可能为其他出版物、数据库收录、转载或摘编。对此，本刊不再另付稿酬。作者若不同意上述行为，请务必在投稿时附言声明。<span></span> 
+</p>
+<p class="MsoNormal" align="center" style="text-align:center;">
+	<br>
+</p>
+<p class="MsoNormal" align="center" style="text-align:center;">
+	<b>本刊不以任何形式收取版面费</b> 
+</p>
+<p class="MsoNormal" align="center" style="text-align:center;">
+	<br>
+</p>
+<p class="MsoNormal" align="center" style="text-align:center;">
+	全国哲学社会科学工作办公室<span></span> 
+</p>
+<p class="MsoNormal" align="center" style="text-align:center;">
+	举报电话：<span></span> 
+</p>
+<p class="MsoNormal" align="center" style="text-align:center;">
+	010-63098272
+</p>
+<p class="MsoNormal">
+	<span></span> 
+</p>
+<br>
+<div class="text-right">
+发布日期：2025-06-03&nbsp;&nbsp;&nbsp;
+浏览：
+
+
+
+
+8973
+	
+	
+	 
+</div>
+
+</div>
+</section>
+</div>
+
+<!--右部-->
+
+
+
+
+
+</div>
+</div>
+<!--底部-->
+
+
+
+<footer id="footer" class="footer">
+
+    <div class="container">
+      <div class="row gy-4">
+        <div class="col-lg-3 col-md-12 footer-info">
+          <div class="logo d-flex align-items-center">
+           <img src="https://xuebao.ccom.edu.cn/images/1001-9871/images/ewm.jpg" class="img-responsive">
+          </div>
+          
+          <div class="social-links d-flex mt-4">
+            <a class="weixin-a" href="javascript:;"><i class="fa fa-weixin" aria-hidden="true"></i><div class="weixin_ewm" id="output"></div></a>
+             <a href="https://service.weibo.com/share/share.php?url=https://xuebao.ccom.edu.cn&amp;title=分享内容" target="_blank" class="weibo"><i class="fa fa-weibo" aria-hidden="true"></i></a>
+            <a href="https://www.facebook.com/sharer.php?u=https://xuebao.ccom.edu.cn" class="facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            <a href="https://twitter.com/share?url=https://xuebao.ccom.edu.cn" class="twitter"> <i class="fa fa-twitter" aria-hidden="true"></i></a>
+          </div>
+        </div>
+		<!--动态生成二维码-->
+		<script type="text/javascript" src="https://xuebao.ccom.edu.cn/images/1001-9871/js/jquery.qrcode.min.js"></script>
+		<script>
+		jQuery(function(){
+		jQuery('#output').qrcode({ width: 114, height: 114, text: window.location.href });
+		})
+		</script>
+		<!--动态生成二维码end-->
+					
+        <div class="col-lg-2 col-md-12 footer-links">
+          <h4>关于本刊</h4>
+          <ul>
+            <li><a href="https://xuebao.ccom.edu.cn/CN/column/column1.shtml">学报简介</a></li>
+            <li><a href="https://xuebao.ccom.edu.cn/CN/column/column3.shtml">历届编委</a></li>
+            <li><a href="https://xuebao.ccom.edu.cn/CN/column/column4.shtml">图说刊史</a></li>
+            <li><a href="https://xuebao.ccom.edu.cn/CN/column/column2.shtml">现任成员</a></li>
+           
+          </ul>
+        </div>
+
+        <div class="col-lg-2 col-md-12 footer-links">
+          <h4>在线期刊</h4>
+          <ul>
+           		<li><a href="https://xuebao.ccom.edu.cn/CN/current">当期期刊</a></li>
+				<li><a href="https://xuebao.ccom.edu.cn/CN/archive_by_issues">过刊阅览</a></li>
+          </ul>
+        </div>
+        
+		<div class="col-lg-2 col-md-12 footer-links">
+          <h4>友情链接</h4>
+          <ul>
+           			        			        			        					<li ><a href="https://www.ccom.edu.cn" class="text-title" target="_blank">中央音乐学院</a></li>
+			        			        			        			        			        					<li ><a href="http://www.moe.gov.cn/" class="text-title" target="_blank">中华人民共和国教育部</a></li>
+			        			        			        			        			        					<li ><a href="https://www.nppa.gov.cn/" class="text-title" target="_blank">国家新闻出版署</a></li>
+			        			        			                  </ul>
+        </div>
+        <div class="col-lg-3 col-md-12 footer-links">
+          <h4>联系我们</h4>
+          <p>
+            地址：北京市鲍家街43号 <br>
+            电话：010-66417541, 010-66425731<br>
+            传真：010-66415492<br>
+            邮箱：xbbjb@ccom.edu.cn<br>
+          </p>
+
+        </div>
+
+      </div>
+    </div>
+
+    	<div class="container mt-4">
+		  <div class="copyright">
+			Copyright &copy; 《中央音乐学院学报》编辑部
+		  </div>
+      
+        </div>
+    
+ </footer>
+
+</body>
+</HTML>

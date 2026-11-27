@@ -1,0 +1,31 @@
+{
+  "index": 321,
+  "journal": "钻井液与完井液",
+  "url": "http://www.zjyywjy.com.cn",
+  "source_sheet": "可打开",
+  "source_row": 322,
+  "started_at": "2026-11-26T20:59:40+08:00",
+  "finished_at": "2026-11-26T20:59:45+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 5,
+    "artifacts": 0,
+    "pending": 6,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST network-policies 返回 HTTP 422"
+  ],
+  "manifest": "0321_钻井液与完井液/manifest.json",
+  "pages": 5,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 8,
+  "pending_reasons": [
+    "browser_use_failed",
+    "needs_review",
+    "no_valid_word_or_pdf"
+  ]
+}

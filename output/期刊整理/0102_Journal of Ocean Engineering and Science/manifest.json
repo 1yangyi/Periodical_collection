@@ -1,0 +1,76 @@
+{
+  "journal": {
+    "name": "Journal of Ocean Engineering and Science",
+    "url": "https://www.qk.sjtu.edu.cn/joes/EN/rss/showRssInfo.do",
+    "journal_id": "",
+    "row": 103,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.qk.sjtu.edu.cn/joes/EN/rss/showRssInfo.do",
+  "collected_at": "2026-11-26T20:53:27+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.qk.sjtu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.qk.sjtu.edu.cn/joes/EN/rss/showRssInfo.do",
+      "requested_url": "https://www.qk.sjtu.edu.cn/joes/EN/rss/showRssInfo.do",
+      "title": "Journal of Ocean Engineering and Science",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:53:27+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.qk.sjtu.edu.cn/joes/EN/column/column2272.shtml",
+      "requested_url": "https://www.qk.sjtu.edu.cn/joes/EN/column/column2272.shtml",
+      "title": "Journal of Ocean Engineering and Science | Guide for Authors",
+      "path": [
+        "RSS 页面",
+        "Guide for Authors"
+      ],
+      "visited_at": "2026-11-26T20:53:27+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.qk.sjtu.edu.cn/joes/EN/top_download",
+      "title": "Most Downloaded",
+      "source_url": "https://www.qk.sjtu.edu.cn/joes/EN/column/column2272.shtml",
+      "path": [
+        "RSS 页面",
+        "Guide for Authors",
+        "Most Downloaded"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Most Downloaded"
+    },
+    {
+      "url": "https://www.qk.sjtu.edu.cn/joes/EN/rss/showRssInfo.do",
+      "title": "Journal of Ocean Engineering and Science",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

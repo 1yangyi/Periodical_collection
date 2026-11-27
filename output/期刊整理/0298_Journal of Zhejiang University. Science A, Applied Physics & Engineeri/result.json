@@ -1,0 +1,28 @@
+{
+  "index": 298,
+  "journal": "Journal of Zhejiang University. Science A, Applied Physics & Engineering",
+  "url": "https://jzus.zju.edu.cn/openiptxt.php?doi=10.1631%2Fjzus.A2100487",
+  "source_sheet": "可打开",
+  "source_row": 299,
+  "started_at": "2026-11-26T20:59:26+08:00",
+  "finished_at": "2026-11-26T20:59:31+08:00",
+  "status": "completed",
+  "browser_use_invoked": false,
+  "before_fallback": null,
+  "browser_use_errors": [],
+  "manifest": "0298_Journal of Zhejiang University. Science A, Applied Physics & Engineeri/manifest.json",
+  "pages": 0,
+  "attachments": [
+    {
+      "title": "download.pdf",
+      "format": "pdf",
+      "local_path": "0298_Journal of Zhejiang University. Science A, Applied Physics & Engineeri/attachments/download_240aac6e93.pdf",
+      "sha256": "240aac6e93a0b99ed76bf068459ff3dc0ead5e20e94fec9e082dea149aa69b65",
+      "bytes": 6255471
+    }
+  ],
+  "original_count": 1,
+  "webpage_text": 0,
+  "pending_count": 0,
+  "pending_reasons": []
+}

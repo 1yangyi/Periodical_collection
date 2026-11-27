@@ -1,0 +1,94 @@
+{
+  "journal": {
+    "name": "南大法学",
+    "url": "https://law.nju.edu.cn/xsyj/ndfx.htm",
+    "journal_id": "",
+    "row": 133,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://law.nju.edu.cn/xsyj/ndfx.htm",
+  "collected_at": "2026-11-26T20:57:19+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "law.nju.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://law.nju.edu.cn/xsyj/ndfx.htm",
+      "requested_url": "https://law.nju.edu.cn/xsyj/ndfx.htm",
+      "title": "《南大法学》",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:57:19+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://law.nju.edu.cn/xsyj/nyflpl/zgqs.htm",
+      "requested_url": "https://law.nju.edu.cn/xsyj/nyflpl/zgqs.htm",
+      "title": "征稿启事",
+      "path": [
+        "官网入口",
+        "征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:57:19+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "征稿启事",
+      "source_url": "https://law.nju.edu.cn/xsyj/nyflpl/zgqs.htm",
+      "path": [
+        "官网入口",
+        "征稿启事"
+      ],
+      "local_path": "web/征稿启事_a1ce73191b.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "南大法学投稿格式",
+      "local_path": "南大法学投稿格式.md",
+      "source_urls": [
+        "https://law.nju.edu.cn/xsyj/nyflpl/zgqs.htm"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://law.nju.edu.cn/xsyj/ndfx.htm",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://law.nju.edu.cn/xsyj/ndfx.htm",
+      "title": "南大法学",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "index": 33,
+  "journal": "原子能科学技术",
+  "url": "https://yznkxjs.xml-journal.net/cn/",
+  "source_sheet": "可打开",
+  "source_row": 34,
+  "started_at": "2026-11-26T20:42:22+08:00",
+  "finished_at": "2026-11-26T20:44:19+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 4,
+    "artifacts": 2,
+    "pending": 4,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0033_原子能科学技术/manifest.json",
+  "pages": 5,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 1,
+  "pending_count": 6,
+  "pending_reasons": [
+    "needs_review",
+    "no_valid_word_or_pdf"
+  ]
+}

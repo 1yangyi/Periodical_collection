@@ -1,0 +1,52 @@
+{
+  "journal": {
+    "name": "青海民族研究",
+    "url": "https://qje.qhmu.edu.cn/",
+    "journal_id": "",
+    "row": 8,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "",
+  "collected_at": "2026-11-26T20:39:07+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "qje.qhmu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://qje.qhmu.edu.cn/",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "HTTPSConnectionPool(host='qje.qhmu.edu.cn', port=443): Max retries exceeded with url: / (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='qje.qhmu.edu.cn', port=443): Read timed out. (read timeout=15)\"))",
+      "context": ""
+    },
+    {
+      "url": "https://qje.qhmu.edu.cn/",
+      "title": "青海民族研究",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

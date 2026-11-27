@@ -1,0 +1,148 @@
+{
+  "journal": {
+    "name": "机械工程学报",
+    "url": "https://qikan.cmes.org/jxgcxb/CN/home",
+    "journal_id": "",
+    "row": 293,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://qikan.cmes.org/jxgcxb/CN/home",
+  "collected_at": "2026-11-26T20:59:23+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "qikan.cmes.org",
+      "www.cmes.org"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://qikan.cmes.org/jxgcxb/CN/home",
+      "requested_url": "https://qikan.cmes.org/jxgcxb/CN/home",
+      "title": "机械工程学报",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:23+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cmes.org/cmes",
+      "requested_url": "https://www.cmes.org/cmes",
+      "title": "【媒体关注】中国工业报专题报道——固本强基 机械工业智能制造进行时",
+      "path": [
+        "官网入口",
+        "学会官网"
+      ],
+      "visited_at": "2026-11-26T20:59:23+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cmes.org/cmes/news/notice/index.html",
+      "requested_url": "https://www.cmes.org/cmes/news/notice/index.html",
+      "title": "中国机械工程学会",
+      "path": [
+        "官网入口",
+        "学会官网",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:59:23+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cmes.org/cmes/award/jianglitzgg/index.html",
+      "requested_url": "https://www.cmes.org/cmes/award/jianglitzgg/index.html",
+      "title": "中国机械工程学会",
+      "path": [
+        "官网入口",
+        "学会官网",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:59:23+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cmes.org/cmes/xhdj/tzgg/index.html",
+      "requested_url": "https://www.cmes.org/cmes/xhdj/tzgg/index.html",
+      "title": "中国机械工程学会",
+      "path": [
+        "官网入口",
+        "学会官网",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:59:23+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cmes.org/news/notice/index.html",
+      "requested_url": "https://www.cmes.org/news/notice/index.html",
+      "title": "中国机械工程学会",
+      "path": [
+        "官网入口",
+        "学会官网",
+        "通知公告",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:59:23+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cmes.org/award/jianglitzgg/index.html",
+      "requested_url": "https://www.cmes.org/award/jianglitzgg/index.html",
+      "title": "中国机械工程学会",
+      "path": [
+        "官网入口",
+        "学会官网",
+        "通知公告",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:59:23+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cmes.org/xhdj/tzgg/index.html",
+      "requested_url": "https://www.cmes.org/xhdj/tzgg/index.html",
+      "title": "中国机械工程学会",
+      "path": [
+        "官网入口",
+        "学会官网",
+        "通知公告",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:59:23+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://qikan.cmes.org/jxgcxb/CN/home",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://qikan.cmes.org/jxgcxb/CN/home",
+      "title": "机械工程学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

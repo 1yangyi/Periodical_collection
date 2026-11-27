@@ -1,0 +1,153 @@
+{
+  "journal": {
+    "name": "自然资源遥感",
+    "url": "https://www.gtzyyg.com/",
+    "journal_id": "",
+    "row": 51,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "completed",
+  "homepage_resolved": "https://www.gtzyyg.com/",
+  "collected_at": "2026-11-26T20:45:30+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.gtzyyg.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.gtzyyg.com/",
+      "requested_url": "https://www.gtzyyg.com/",
+      "title": "导出文件",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:45:30+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.gtzyyg.com/submission-guidelines",
+      "requested_url": "https://www.gtzyyg.com/submission-guidelines",
+      "title": "投稿须知",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:45:30+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.gtzyyg.com/submission-materials",
+      "requested_url": "https://www.gtzyyg.com/submission-materials",
+      "title": "导出文件",
+      "path": [
+        "首页",
+        "投稿指南",
+        "投稿资料"
+      ],
+      "visited_at": "2026-11-26T20:45:30+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "attachment",
+      "format": "pdf",
+      "title": "《自然资源遥感》撰稿须知 PDF",
+      "local_path": "attachments/20250616100034_bd13110b57.pdf",
+      "sha256": "bd13110b574f57a788ad46d4a240d8a7ba3ef85c6b8590517e38a6d8c2b9ef42",
+      "bytes": 215578,
+      "sources": [
+        {
+          "source_url": "https://www.gtzyyg.com/submission-guidelines",
+          "download_url": "https://www.gtzyyg.com/news/exportNewFile?id=202",
+          "resolved_url": "https://www.gtzyyg.com/news/exportNewFile?id=202",
+          "path": [
+            "首页",
+            "投稿指南",
+            "投稿须知",
+            "稿件要求"
+          ],
+          "label": "《自然资源遥感》撰稿须知 PDF",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "attachment",
+      "format": "pdf",
+      "title": "《自然资源遥感》论文模板 Word",
+      "local_path": "attachments/20230711113214_bc70af7d93.pdf",
+      "sha256": "bc70af7d939375998e0519377cc082f174fff8e47a42b00d9ad508e36fbd8e47",
+      "bytes": 561496,
+      "sources": [
+        {
+          "source_url": "https://www.gtzyyg.com/submission-guidelines",
+          "download_url": "https://www.gtzyyg.com/news/exportNewFile?id=201",
+          "resolved_url": "https://www.gtzyyg.com/news/exportNewFile?id=201",
+          "path": [
+            "首页",
+            "投稿指南",
+            "投稿须知",
+            "稿件要求"
+          ],
+          "label": "《自然资源遥感》论文模板 Word",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://www.gtzyyg.com/",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "https://www.gtzyyg.com/submission-guidelines",
+      "title": "投稿须知",
+      "source_url": "https://www.gtzyyg.com/",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": "投稿须知"
+    },
+    {
+      "url": "https://www.gtzyyg.com/submission-materials",
+      "title": "投稿资料",
+      "source_url": "https://www.gtzyyg.com/",
+      "path": [
+        "首页",
+        "投稿指南",
+        "投稿资料"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    }
+  ]
+}

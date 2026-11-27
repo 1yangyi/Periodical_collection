@@ -1,0 +1,147 @@
+{
+  "journal": {
+    "name": "智能科学与技术学报",
+    "url": "https://www.cjist.com.cn/zh/home/",
+    "journal_id": "",
+    "row": 37,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.cjist.com.cn/zh/home/",
+  "collected_at": "2026-11-26T20:43:01+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.cjist.com.cn",
+      "znkx.portal.founderss.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.cjist.com.cn/zh/home/",
+      "requested_url": "https://www.cjist.com.cn/zh/home/",
+      "title": "快捷入口",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:43:01+08:00",
+      "published_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.cjist.com.cn/zh/info/15454/",
+      "requested_url": "http://www.cjist.com.cn/zh/info/15454/",
+      "title": "投稿须知 - 智能科学与技术学报",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:43:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cjist.com.cn/zh/info/15455/",
+      "requested_url": "http://www.cjist.com.cn/zh/info/15455/",
+      "title": "投稿格式要求 - 智能科学与技术学报",
+      "path": [
+        "官网入口",
+        "投稿格式要求"
+      ],
+      "visited_at": "2026-11-26T20:43:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cjist.com.cn/newFile?columnId=25654&columnName=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83&index=3&parentIndex=3&bannerId=null&code=newFile&newsDataType=news&newCompositeId=18224&childId=",
+      "requested_url": "http://www.cjist.com.cn/newFile?columnId=25654&columnName=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83&index=3&parentIndex=3&bannerId=null&code=newFile&newsDataType=news&newCompositeId=18224&childId=",
+      "title": "下载中心",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "visited_at": "2026-11-26T20:43:01+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿须知 - 智能科学与技术学报",
+      "source_url": "https://www.cjist.com.cn/zh/info/15454/",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "local_path": "web/投稿须知 - 智能科学与技术学报_bd909c306c.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "投稿格式要求 - 智能科学与技术学报",
+      "source_url": "https://www.cjist.com.cn/zh/info/15455/",
+      "path": [
+        "官网入口",
+        "投稿格式要求"
+      ],
+      "local_path": "web/投稿格式要求 - 智能科学与技术学报_8f431c728e.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "智能科学与技术学报投稿格式",
+      "local_path": "智能科学与技术学报投稿格式.md",
+      "source_urls": [
+        "https://www.cjist.com.cn/zh/info/15454/",
+        "https://www.cjist.com.cn/zh/info/15455/"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://mail.qiye.163.com/bjjs6/s?_host=mail.qiye.163.com&func=mbox%3AgetMessageData&sid=H07AK3K2C0L2d5eA575-XeBNdfcIcms2&mode=download&part=3&mid=AL6A3ADPLl8sT3Cn*HAzWaqW&email=&_appName=sirius-web",
+      "title": "版权转让协议",
+      "source_url": "https://www.cjist.com.cn/zh/info/15454/",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "版权转让协议"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "参考： 版权转让协议"
+    },
+    {
+      "url": "https://znkx.portal.founderss.cn/",
+      "title": "作者登录",
+      "source_url": "https://www.cjist.com.cn/zh/info/15454/",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "作者登录"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "跳转到未核实域名：https://journal.ids.fzyun.cn/auth/realms/journal/protocol/openid-connect/auth?client_id=journal-znkx-author&redirect_uri=https%3A%2F%2Fznkx.portal.founderss.cn%2Foauth%2Fcallback&response_type=code&scope=phone+openid+email+profile&state=445d119f-4c5f-425c-ac1e-c700696b1b4c",
+      "context": "请访问《智能科学与技术学报》官网 ，点击 “ 作者登录 ”按钮，使用官方投稿系统提交稿件。如果您是新作者（即第一次投稿），请先注册，然后按照提示操作。"
+    },
+    {
+      "url": "https://www.cjist.com.cn/zh/home/",
+      "title": "智能科学与技术学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "journal": {
+    "name": "保鲜与加工",
+    "url": "https://www.taas.ac.cn/system/2026/01/26/030243578.shtml",
+    "journal_id": "",
+    "row": 79,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.taas.ac.cn/system/2026/01/26/030243578.shtml",
+  "collected_at": "2026-11-26T20:49:14+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.taas.ac.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.taas.ac.cn/system/2026/01/26/030243578.shtml",
+      "requested_url": "https://www.taas.ac.cn/system/2026/01/26/030243578.shtml",
+      "title": "《保鲜与加工》2026年1期目次-天津市农业科学院-北方网企业建站",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:49:14+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.taas.ac.cn/tzgg/",
+      "requested_url": "https://www.taas.ac.cn/tzgg/",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:49:14+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.taas.ac.cn/tzgg/index.shtml",
+      "requested_url": "https://www.taas.ac.cn/tzgg/index.shtml",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:49:14+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.taas.ac.cn/tzgg/tzgg/index.shtml",
+      "requested_url": "https://www.taas.ac.cn/tzgg/tzgg/index.shtml",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:49:14+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.taas.ac.cn/tzgg/tzgg/",
+      "requested_url": "https://www.taas.ac.cn/tzgg/tzgg/",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:49:14+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.taas.ac.cn/system/2026/01/26/030243578.shtml",
+      "title": "保鲜与加工",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

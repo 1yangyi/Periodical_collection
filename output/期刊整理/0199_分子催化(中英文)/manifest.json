@@ -1,0 +1,94 @@
+{
+  "journal": {
+    "name": "分子催化(中英文)",
+    "url": "https://licp.cas.cn/xscbw/fzch/",
+    "journal_id": "",
+    "row": 200,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://licp.cas.cn/xscbw/fzch/",
+  "collected_at": "2026-11-26T20:58:14+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "licp.cas.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://licp.cas.cn/xscbw/fzch/",
+      "requested_url": "https://licp.cas.cn/xscbw/fzch/",
+      "title": "《分子催化》----中国科学院兰州化学物理研究所",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:58:14+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://licp.cas.cn/xscbw/fzch/200907/t20090714_2076397.html",
+      "requested_url": "https://licp.cas.cn/xscbw/fzch/200907/t20090714_2076397.html",
+      "title": "《分子催化》征稿启事----中国科学院兰州化学物理研究所",
+      "path": [
+        "官网入口",
+        "《分子催化》征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:58:14+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "《分子催化》征稿启事----中国科学院兰州化学物理研究所",
+      "source_url": "https://licp.cas.cn/xscbw/fzch/200907/t20090714_2076397.html",
+      "path": [
+        "官网入口",
+        "《分子催化》征稿启事"
+      ],
+      "local_path": "web/《分子催化》征稿启事----中国科学院兰州化学物理研究所_fbf490b821.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "分子催化(中英文)投稿格式",
+      "local_path": "分子催化(中英文)投稿格式.md",
+      "source_urls": [
+        "https://licp.cas.cn/xscbw/fzch/200907/t20090714_2076397.html"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://licp.cas.cn/xscbw/fzch/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://licp.cas.cn/xscbw/fzch/",
+      "title": "分子催化(中英文)",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

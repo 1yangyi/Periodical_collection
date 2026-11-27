@@ -1,0 +1,31 @@
+{
+  "index": 402,
+  "journal": "全球定位系统",
+  "url": "http://www.qqdwxt.cn/",
+  "source_sheet": "可打开",
+  "source_row": 403,
+  "started_at": "2026-11-26T21:00:58+08:00",
+  "finished_at": "2026-11-26T21:01:09+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 3,
+    "artifacts": 0,
+    "pending": 3,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST network-policies 返回 HTTP 422"
+  ],
+  "manifest": "0402_全球定位系统/manifest.json",
+  "pages": 3,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 5,
+  "pending_reasons": [
+    "browser_use_failed",
+    "needs_review",
+    "no_valid_word_or_pdf"
+  ]
+}

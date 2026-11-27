@@ -1,0 +1,30 @@
+{
+  "index": 224,
+  "journal": "教育与经济",
+  "url": "https://jyji.cbpt.cnki.net/portal/journal/portal/client/index",
+  "source_sheet": "可打开",
+  "source_row": 225,
+  "started_at": "2026-11-26T20:58:43+08:00",
+  "finished_at": "2026-11-26T20:59:07+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 2,
+    "artifacts": 1,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST network-policies 返回 HTTP 422"
+  ],
+  "manifest": "0224_教育与经济/manifest.json",
+  "pages": 2,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 1,
+  "pending_count": 2,
+  "pending_reasons": [
+    "browser_use_failed",
+    "no_valid_word_or_pdf"
+  ]
+}

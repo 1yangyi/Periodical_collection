@@ -1,0 +1,147 @@
+{
+  "journal": {
+    "name": "民族语文",
+    "url": "https://mzyw.ajcass.com/Magazine/GetIssueContentList?1=1&PageSize=10&issue=5&page=1&sortName=+SortID%2CStartPageNum+&sortOrder=+Asc+&year=2022",
+    "journal_id": "",
+    "row": 320,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://mzyw.ajcass.com/Magazine/GetIssueContentList?1=1&PageSize=10&issue=5&page=1&sortName=+SortID%2CStartPageNum+&sortOrder=+Asc+&year=2022",
+  "collected_at": "2026-11-26T20:59:37+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "mzyw.ajcass.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://mzyw.ajcass.com/Magazine/GetIssueContentList?1=1&PageSize=10&issue=5&page=1&sortName=+SortID%2CStartPageNum+&sortOrder=+Asc+&year=2022",
+      "requested_url": "https://mzyw.ajcass.com/Magazine/GetIssueContentList?1=1&PageSize=10&issue=5&page=1&sortName=+SortID%2CStartPageNum+&sortOrder=+Asc+&year=2022",
+      "title": "民族语文",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:37+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://mzyw.ajcass.com/Home/List/?ChannelID=11876",
+      "requested_url": "https://mzyw.ajcass.com/Home/List/?ChannelID=11876",
+      "title": "民族语文",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:59:37+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://mzyw.ajcass.com/Home/Show/?itemid=11133&ChannelID=11876",
+      "requested_url": "https://mzyw.ajcass.com/Home/Show/?itemid=11133&ChannelID=11876",
+      "title": "民族语文",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "《民族语文》投稿须知（更新）"
+      ],
+      "visited_at": "2026-11-26T20:59:37+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://mzyw.ajcass.com/Home/List/?ChannelID=11999",
+      "requested_url": "https://mzyw.ajcass.com/Home/List/?ChannelID=11999",
+      "title": "民族语文",
+      "path": [
+        "官网入口",
+        "下载专区"
+      ],
+      "visited_at": "2026-11-26T20:59:37+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://mzyw.ajcass.com/Home/Show/?itemid=152459&ChannelID=11999",
+      "requested_url": "https://mzyw.ajcass.com/Home/Show/?itemid=152459&ChannelID=11999",
+      "title": "民族语文",
+      "path": [
+        "官网入口",
+        "下载专区",
+        "《民族语文》投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:59:37+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://mzyw.ajcass.com/Home/Show/?itemid=152476&ChannelID=11999",
+      "requested_url": "https://mzyw.ajcass.com/Home/Show/?itemid=152476&ChannelID=11999",
+      "title": "民族语文",
+      "path": [
+        "官网入口",
+        "下载专区",
+        "《民族语文》投稿须知细则"
+      ],
+      "visited_at": "2026-11-26T20:59:37+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://mzyw.ajcass.com/Admin/UploadFile/SiteContent/FJList/201810160001/2024/10//20240912091106WU_FILE_0.pdf",
+      "title": "附件下载",
+      "source_url": "https://mzyw.ajcass.com/Home/Show/?itemid=152459&ChannelID=11999",
+      "path": [
+        "官网入口",
+        "下载专区",
+        "《民族语文》投稿须知",
+        "附件下载"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "附件下载"
+    },
+    {
+      "url": "https://mzyw.ajcass.com/Admin/UploadFile/SiteContent/FJList/201810160001/2024/10//20240912093825WU_FILE_0.pdf",
+      "title": "附件下载",
+      "source_url": "https://mzyw.ajcass.com/Home/Show/?itemid=152476&ChannelID=11999",
+      "path": [
+        "官网入口",
+        "下载专区",
+        "《民族语文》投稿须知细则",
+        "附件下载"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "附件下载"
+    },
+    {
+      "url": "https://mzyw.ajcass.com/Magazine/GetIssueContentList?1=1&PageSize=10&issue=5&page=1&sortName=+SortID%2CStartPageNum+&sortOrder=+Asc+&year=2022",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://mzyw.ajcass.com/Magazine/GetIssueContentList?1=1&PageSize=10&issue=5&page=1&sortName=+SortID%2CStartPageNum+&sortOrder=+Asc+&year=2022",
+      "title": "民族语文",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

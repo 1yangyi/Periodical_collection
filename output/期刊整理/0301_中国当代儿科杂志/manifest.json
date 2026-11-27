@@ -1,0 +1,397 @@
+{
+  "journal": {
+    "name": "中国当代儿科杂志",
+    "url": "https://journals.csu.edu.cn/journals/24/-1",
+    "journal_id": "",
+    "row": 302,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://journals.csu.edu.cn/journals/24/-1",
+  "collected_at": "2026-11-26T20:59:28+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "journals.csu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://journals.csu.edu.cn/journals/24/-1",
+      "requested_url": "https://journals.csu.edu.cn/journals/24/-1",
+      "title": "中国当代儿科杂志",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:28+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "requested_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "title": "资料下载",
+      "path": [
+        "官网入口",
+        "资料下载"
+      ],
+      "visited_at": "2026-11-26T20:59:28+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com//zhongnan/article_attachment/2025/0922/xhA-WUZ_n4pN4DdCup5tZ.pdf",
+      "title": "1. CSCD-中国科学引文数据库来源期刊列表(2025-2026)",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "1. CSCD-中国科学引文数据库来源期刊列表(2025-2026)"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "1. CSCD-中国科学引文数据库来源期刊列表(2025-2026)"
+    },
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com/image/2025/0422/1914615450184978432.xlsx",
+      "title": "2. 中文社会科学引文索引 (CSSCI)来源期刊目录(2023-2024)",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "2. 中文社会科学引文索引 (CSSCI)来源期刊目录(2023-2024)"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "2. 中文社会科学引文索引 (CSSCI)来源期刊目录(2023-2024)"
+    },
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com/image/2025/0422/1914615659795320832.xlsx",
+      "title": "3. 中文社会科学引文索引 (CSSCI) 来源期刊扩展版目录(2023-2024)",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "3. 中文社会科学引文索引 (CSSCI) 来源期刊扩展版目录(2023-2024)"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "3. 中文社会科学引文索引 (CSSCI) 来源期刊扩展版目录(2023-2024)"
+    },
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com/image/2025/0422/1914615956907233280.pdf",
+      "title": "4. 中国科技期刊引证报告（核心板）自然科学卷(2024年版)",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "4. 中国科技期刊引证报告（核心板）自然科学卷(2024年版)"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "4. 中国科技期刊引证报告（核心板）自然科学卷(2024年版)"
+    },
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com/image/2025/0422/1914616168174325760.pdf",
+      "title": "5. 中国科技论文统计报告—百杰、科普核心(2024年版)",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "5. 中国科技论文统计报告—百杰、科普核心(2024年版)"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "5. 中国科技论文统计报告—百杰、科普核心(2024年版)"
+    },
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com/image/2025/0422/1914616293290414080.pdf",
+      "title": "6. 中国学术期刊国际引证年报（自然科学与工程技术）(2024年)",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "6. 中国学术期刊国际引证年报（自然科学与工程技术）(2024年)"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "6. 中国学术期刊国际引证年报（自然科学与工程技术）(2024年)"
+    },
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com/image/2025/0422/1914616430150553600.pdf",
+      "title": "7. 中国学术期刊国际引证年报2024年（人文社会科学）(2024年)",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "7. 中国学术期刊国际引证年报2024年（人文社会科学）(2024年)"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "7. 中国学术期刊国际引证年报2024年（人文社会科学）(2024年)"
+    },
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com/image/2025/0422/1914616551177195520.xlsx",
+      "title": "8. Ei Compendex收录期刊列表(2025年4月)",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "8. Ei Compendex收录期刊列表(2025年4月)"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "8. Ei Compendex收录期刊列表(2025年4月)"
+    },
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com/image/2025/0422/1914616691157897216.xlsx",
+      "title": "9. Scopus收录、停刊期刊列表（2025年3月）",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "9. Scopus收录、停刊期刊列表（2025年3月）"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "9. Scopus收录、停刊期刊列表（2025年3月）"
+    },
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com/image/2025/0422/1914617403027755008.pdf",
+      "title": "14. 中国科学引文数据库选刊原则",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "14. 中国科学引文数据库选刊原则"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "14. 中国科学引文数据库选刊原则"
+    },
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com//article_attachment/2025/0530/2kXBgoYshD6CdzFP-teCL.pdf",
+      "title": "15. 中国科技期刊发展蓝皮书2017",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "15. 中国科技期刊发展蓝皮书2017"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "15. 中国科技期刊发展蓝皮书2017"
+    },
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com//zhongnan/article_attachment/2025/0916/9dkrt0H1F7DoTbzMDNkrx.pdf",
+      "title": "16. 中国科协高质量科技期刊分级目录总汇（截至2024年12月1日）",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "16. 中国科协高质量科技期刊分级目录总汇（截至2024年12月1日）"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "16. 中国科协高质量科技期刊分级目录总汇（截至2024年12月1日）"
+    },
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com//zhongnan/article_attachment/2025/0916/pN-NVdxFwa3_8He5ItWFJ.pdf",
+      "title": "17. 中国科技期刊卓越行动计划二期入选项目",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "17. 中国科技期刊卓越行动计划二期入选项目"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "17. 中国科技期刊卓越行动计划二期入选项目"
+    },
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com//zhongnan/article_attachment/2025/0924/iOF95tTOin9KUApPI1_uS.pdf",
+      "title": "18. 中国科技核心期刊目录（2024年版自然科学卷)",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "18. 中国科技核心期刊目录（2024年版自然科学卷)"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "18. 中国科技核心期刊目录（2024年版自然科学卷)"
+    },
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com//zhongnan/article_attachment/2025/0924/u0mK353dacA--F-K3enNX.pdf",
+      "title": "19. 中国科技核心期刊目录（2024年版社会科学卷)",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "19. 中国科技核心期刊目录（2024年版社会科学卷)"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "19. 中国科技核心期刊目录（2024年版社会科学卷)"
+    },
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com//zhongnan/article_attachment/2025/0924/fW_cHP2ASx1Prg2NF1xhP.pdf",
+      "title": "20. 中国科技核心期刊目录（2024年版科普卷)",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "20. 中国科技核心期刊目录（2024年版科普卷)"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "20. 中国科技核心期刊目录（2024年版科普卷)"
+    },
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com//zhongnan/article_attachment/2025/0924/klv7c8xrN0O_YNQ-Km-Uv.pdf",
+      "title": "21. 2024年中国科技论文统计报告发布稿",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "21. 2024年中国科技论文统计报告发布稿"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "21. 2024年中国科技论文统计报告发布稿"
+    },
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com//zhongnan/article_attachment/2025/1103/lu_Nz8mRaQJyXryjikk_y.pdf",
+      "title": "22. 2025年中国科技论文统计报告发布稿",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "22. 2025年中国科技论文统计报告发布稿"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "22. 2025年中国科技论文统计报告发布稿"
+    },
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com//zhongnan/article_attachment/2025/1103/P37e0d0RZpOP2-BmGh6CR.pdf",
+      "title": "23. 中国科技核心期刊目录（2025年版学术卷）",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "23. 中国科技核心期刊目录（2025年版学术卷）"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "23. 中国科技核心期刊目录（2025年版学术卷）"
+    },
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com//zhongnan/article_attachment/2025/1103/xhjvfQexhTTm4EtLfR7JT.pdf",
+      "title": "24. 中国科技核心期刊目录（2025年版科普卷）",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "24. 中国科技核心期刊目录（2025年版科普卷）"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "24. 中国科技核心期刊目录（2025年版科普卷）"
+    },
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com//zhongnan/article_attachment/2025/1212/vySyhL7ZuRv26q5vhhTrD.pdf",
+      "title": "25. 2025中国学术期刊国际引证年报（自然科学与工程技术版）",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "25. 2025中国学术期刊国际引证年报（自然科学与工程技术版）"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "25. 2025中国学术期刊国际引证年报（自然科学与工程技术版）"
+    },
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com//zhongnan/article_attachment/2025/1212/H18LhwsOaZ-ruQZAhff_C.pdf",
+      "title": "26. 2025中国学术期刊国际引证年报（人文社会科学版）",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "26. 2025中国学术期刊国际引证年报（人文社会科学版）"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "26. 2025中国学术期刊国际引证年报（人文社会科学版）"
+    },
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com//zhongnan/article_attachment/2025/1218/d7WpB_PH56B5ioH34P7Hl.pdf",
+      "title": "27. 中国科协高质量科技期刊分级目录总汇（截至2025年12月1日）",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "27. 中国科协高质量科技期刊分级目录总汇（截至2025年12月1日）"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "27. 中国科协高质量科技期刊分级目录总汇（截至2025年12月1日）"
+    },
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com//zhongnan/article_attachment/2026/0403/AXwCGd4TuPAK8gb6vQjUi.pdf",
+      "title": "28.中国学术期刊影响因子年报（社会科学）（2025年）",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "28.中国学术期刊影响因子年报（社会科学）（2025年）"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "28.中国学术期刊影响因子年报（社会科学）（2025年）"
+    },
+    {
+      "url": "https://journal-platform-1305836431.cos.ap-beijing.myqcloud.com//zhongnan/article_attachment/2026/0403/72JaqPON-xwAffdKnkDhh.pdf",
+      "title": "29.中国学术期刊影响因子年报（自然科学）（2025年）",
+      "source_url": "https://journals.csu.edu.cn/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "29.中国学术期刊影响因子年报（自然科学）（2025年）"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "29.中国学术期刊影响因子年报（自然科学）（2025年）"
+    },
+    {
+      "url": "https://journals.csu.edu.cn/journals/24/-1",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://journals.csu.edu.cn/journals/24/-1",
+      "title": "中国当代儿科杂志",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

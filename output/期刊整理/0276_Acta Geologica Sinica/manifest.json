@@ -1,0 +1,107 @@
+{
+  "journal": {
+    "name": "Acta Geologica Sinica",
+    "url": "https://journal.hep.com.cn/agse/EN/",
+    "journal_id": "",
+    "row": 277,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://journal.hep.com.cn/agse/EN/",
+  "collected_at": "2026-11-26T20:59:13+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "journal.hep.com.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://journal.hep.com.cn/agse/EN/",
+      "requested_url": "https://journal.hep.com.cn/agse/EN/",
+      "title": "Journal updates",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:13+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://journal.hep.com.cn/agse/EN/guidelines",
+      "requested_url": "https://journal.hep.com.cn/agse/EN/guidelines",
+      "title": "Journal updates",
+      "path": [
+        "官网入口",
+        "Author guidelines"
+      ],
+      "visited_at": "2026-11-26T20:59:13+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "Journal updates",
+      "source_url": "https://journal.hep.com.cn/agse/EN/guidelines",
+      "path": [
+        "官网入口",
+        "Author guidelines"
+      ],
+      "local_path": "web/Journal updates_e13672972e.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "Acta Geologica Sinica投稿格式",
+      "local_path": "Acta Geologica Sinica投稿格式.md",
+      "source_urls": [
+        "https://journal.hep.com.cn/agse/EN/guidelines"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://onlinelibrary.wiley.com/pb-assets/assets/17556724/ACGS_CTA_Revised_Dec_2015_watermark-1509477352000.pdf",
+      "title": "Copyright Transfer Agreement",
+      "source_url": "https://journal.hep.com.cn/agse/EN/guidelines",
+      "path": [
+        "官网入口",
+        "Author guidelines",
+        "Copyright Transfer Agreement"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Copyright Transfer Agreement"
+    },
+    {
+      "url": "https://journal.hep.com.cn/agse/EN/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://journal.hep.com.cn/agse/EN/",
+      "title": "Acta Geologica Sinica",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

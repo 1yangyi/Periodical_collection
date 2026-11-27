@@ -1,0 +1,1244 @@
+<!-- 内容页 -->
+ <!-- 加载站点配置信息 -->
+ <!-- 加载菜单 -->
+<!-- 静态资源加载路径，如js，css图片等 -->
+<!-- 后端图片服务器地址，加参数fileId即可以访问图片，用于cms管理的图片显示 -->
+<!-- contentData 变量可以直接使用，保存的是配置cms菜单上的内容 -->
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <title>InfoMat</title>
+
+<link rel="shortcut icon" type="image/x-icon" href="https://jf1.hep.com.cn/static/hep_journal_fase_en/images/favicon.ico">
+<!--<link href="https://jf1.hep.com.cn/static/hep_journal_fase_en/font-awesome-4.7.0/css/font-awesome.css" rel="stylesheet">
+<link href="https://jf1.hep.com.cn/static/hep_journal_fase_en/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="https://jf1.hep.com.cn/static/hep_journal_fase_en/css/bootsnav.css"> -->
+
+<!--<link href="https://jf1.hep.com.cn/static/hep_journal_fase_en/css/css.css" rel="stylesheet"> -->
+<!-- <script src="https://jf1.hep.com.cn/static/hep_journal_fase_en//js/jquery.min.js"></script> 废弃-->
+<!--<script src="https://journal.hep.com.cn/static/hep/common/js/jquery-3.6.0.min.js"></script>
+<script src="https://journal.hep.com.cn/static/hep/common/js/jquery-migrate-3.3.2.min.js"></script> -->
+<!-- <script src="https://jf1.hep.com.cn/static/hep_journal_fase_en//js/bootstrap.min.js"></script> 废弃-->
+<!--<script src="https://journal.hep.com.cn/static/hep/common/js/bootstrap-3.4.1.min.js"></script>
+<script src="https://jf1.hep.com.cn/static/hep_journal_fase_en/js/indexjs.js"></script>
+<link href="https://jf1.hep.com.cn/static/hep_journal_fase_en/css/jqpagination.css" rel="stylesheet">
+<link href="https://jf1.hep.com.cn/static/hep_journal_fase_en/js/colorbox/colorbox.css" rel="stylesheet">
+<script src="https://jf1.hep.com.cn/static/hep_journal_fase_en/js/colorbox/jquery.colorbox.js"></script>
+<script src="https://jf1.hep.com.cn/static/hep_journal_fase_en/js/confirm/jquery.confirm.js"></script> -->
+
+<link rel="stylesheet" href="https://jf1.hep.com.cn/static/hep_journal_fase_en/font-awesome-4.7.0/css/font-awesome.1.0.1.css"/>
+<script src="https://jf1.hep.com.cn/static/hep_journal_fase_en/common/js/jquery-3.6.0.min.1.0.0.js"></script>
+<link rel="stylesheet" href="https://jf1.hep.com.cn/static/hep_journal_fase_en/css/bootstrap.min.1.0.0.css"/>
+<script src="https://jf1.hep.com.cn/static/hep_journal_fase_en/common/js/jquery-migrate-3.3.2.min.1.0.0.js"></script>
+<link rel="stylesheet" href="https://jf1.hep.com.cn/static/hep_journal_fase_en/css/bootsnav.1.0.0.css"/>
+<script src="https://jf1.hep.com.cn/static/hep_journal_fase_en/common/js/bootstrap-3.4.1.min.1.0.0.js"></script>
+<link rel="stylesheet" href="https://jf1.hep.com.cn/static/hep_journal_fase_en/css/css.1.0.3.css"/>
+<link rel="stylesheet" href="https://jf1.hep.com.cn/static/hep_journal_fase_en/css/jqpagination.1.0.0.css"/>
+<script src="https://jf1.hep.com.cn/static/hep_journal_fase_en/js/indexjs.1.0.0.js"></script>
+<link rel="stylesheet" href="https://jf1.hep.com.cn/static/hep_journal_fase_en/js/colorbox/colorbox.1.0.0.css"/>
+<script src="https://jf1.hep.com.cn/static/hep_journal_fase_en/js/colorbox/jquery.colorbox.1.0.1.js"></script>
+<script src="https://jf1.hep.com.cn/static/hep_journal_fase_en/js/confirm/jquery.confirm.1.0.0.js"></script>
+
+</head>
+
+<body>
+<!--头部start1-->
+<!-- 静态资源加载路径，如js，css图片等 -->
+<!-- 后端图片服务器地址，加参数fileId即可以访问图片，用于cms管理的图片显示 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+.nav-bar {background: #023e97;}
+@media (max-width: 678px){
+    nav.navbar.bootsnav {background: #023e97;}
+}
+.journal-head .journal-head-bg {
+    padding: 40px 0 25px;
+}
+.journal-logo {
+    max-width: 352px;
+}
+.article-search {
+    margin-top: 3%;
+}
+</style>
+
+<div>
+    <div class="wrap">
+        <div class="container">
+            <div class="navbar site-nav">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="https://journal.hep.com.cn"><img src="https://jf1.hep.com.cn/static/hep_journal_fase_en/images/top-logo.png" alt=""></a></div>
+                <div class="navbar-collapse collapse" role="navigation">
+                    <ul class="nav navbar-nav nav-menu">
+                    	<li class="current"><a href="https://journal.hep.com.cn/hep/en"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
+                    	<li><a href="https://journal.hep.com.cn/hep/EN/journals">Journals</a></li>
+                    	<li><a href="https://journal.hep.com.cn/hep/EN/subscription">Subscription</a></li>
+                    	<li class=""><a href="https://journal.hep.com.cn/hep/EN/submission">Submission</a></li>
+                    	<li><a href="#" data-toggle="dropdown" aria-expanded="true">Metrics <span class="caret"></span></a>
+                    		<ul class="dropdown-menu">
+                    			<!--<li><a href="https://journal.hep.com.cn/hep/EN/top_altmetrics">Top followed articles on altmetrics</a></li>-->
+                    			<li><a href="https://journal.hep.com.cn/hep/EN/top_social">Top read articles on mendeley</a></li>
+                    		</ul>
+                    	</li>
+                    	<li><a href="https://journal.hep.com.cn/hep/EN/policy">Editorial policy</a></li>
+                    	<li><a href="https://journal.hep.com.cn/hep/EN/open_access">Open access</a></li>
+                    	<li><a href="https://journal.hep.com.cn/hep/EN/us">About us</a></li>
+                    </ul>
+                    <!--
+                    <ul class="nav navbar-nav navbar-right hidden-sm">
+                        <li><a href="">Sign in</a></li>
+                    </ul>
+                    -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--移动端导航显示-->
+    <nav class="navbar navbar-default navbar-mobile bootsnav on">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                <i class="fa fa-bars"></i>
+            </button>
+            <a class="navbar-brand hidden-sm" href="https://journal.hep.com.cn/infomat/EN">InfoMat</a>
+        </div>
+        <div class="collapse navbar-collapse" id="navbar-menu">
+            <ul class="nav navbar-nav" data-in="fadeInDown" data-out="fadeOutUp">
+
+                                            <li class="dropdown">
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">About the journal</a>
+                      <ul class="dropdown-menu animated">
+                         <!-- contentType::::1 -->
+                            <li><a href="https://journal.hep.com.cn/infomat/EN/aims">Aims & scope</a></li>
+                         <!-- contentType::::1 -->
+                            <li><a href="https://journal.hep.com.cn/infomat/EN/description">Description</a></li>
+                         <!-- contentType::::1 -->
+                            <li><a href="https://journal.hep.com.cn/infomat/EN/editorial_board">Editorial board</a></li>
+                         <!-- contentType::::1 -->
+                            <li><a href="https://journal.hep.com.cn/infomat/EN/covergallery">Cover gallery</a></li>
+                         <!-- contentType::::1 -->
+                            <li><a href="https://journal.hep.com.cn/infomat/EN/contact">Contact us</a></li>
+                      </ul>
+                  </li>
+                  <li class="dropdown">
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Browse</a>
+                      <ul class="dropdown-menu animated">
+                         <!-- contentType::::5 -->
+                            <li><a href="https://journal.hep.com.cn/infomat/EN/current">Latest issue</a></li>
+                         <!-- contentType::::5 -->
+                            <li><a href="https://journal.hep.com.cn/infomat/EN/archive_by_issues">All volumes and issues</a></li>
+                         <!-- contentType::::5 -->
+                            <li><a href="https://journal.hep.com.cn/infomat/EN/topaccess">Most accessed</a></li>
+                         <!-- contentType::::5 -->
+                            <li><a href="https://journal.hep.com.cn/infomat/EN/topcited">Most cited</a></li>
+                      </ul>
+                  </li>
+                                                                      <li class="dropdown">
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Authors & reviewers</a>
+                      <ul class="dropdown-menu animated">
+                         <!-- contentType::::2 -->
+                            <li><a href="https://journal.hep.com.cn/infomat/EN/onlinesubmission" target="__blank">Online submisson</a></li>
+                         <!-- contentType::::1 -->
+                            <li><a href="https://journal.hep.com.cn/infomat/EN/guidelines">Guidelines for authors</a></li>
+                      </ul>
+                  </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                      </ul>
+        </div>
+    </nav>
+    <!--移动端导航显示end-->
+    <div class="journal-head" style="background:url('https://journal.hep.com.cn/infomat/EN/file/pic?fileId=+H9rclZGzBMZPm6KnEBoVw==') no-repeat top center;background-size: cover;">
+        <div class="journal-head-bg">
+            <div class="container">
+                <div class="journal-logo">
+                    <div class="logo">
+                        <a href="https://journal.hep.com.cn/infomat/EN"><img src="https://journal.hep.com.cn/infomat/EN/file/pic?fileId=svJf5FDqKuYSU2Fvnqhf0A==" class="img-responsive" alt=""></a>
+                    </div>
+                    <div class="logo-brief">
+                        
+                    </div>
+                </div>
+                <div class="article-search">
+                    <form action="#" class="ul-search-form"  onsubmit = "searchBlur(); return false;">
+                        <div class="input-group">
+                            <input name="keyword" id="searchInput" type="text" class="form-control" placeholder="Title / Author / Abstract / Keywords / DOI / Affiliation">
+
+                            <span class="input-group-btn">
+                           <button class="btn btn-default" type="button" onClick="searchBlur()" ><i class="glyphicon glyphicon-search"></i></button>
+
+                        </span>
+                        </div>
+                    </form>
+                    <div class="adv-search hidden-sm hidden-xs">
+                        <a href="https://journal.hep.com.cn/infomat/EN/advsearch">Adv search</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="head-line">
+    </div>
+    <!--pc导航导航-->
+    <div class="nav-bar">
+        <div class="container">
+            <ul class="nav">
+
+                                <li class="nav-li"><h3 class="nav-nav">About the journal</h3>
+                    <ul>
+                
+                            <li><h3><a href="https://journal.hep.com.cn/infomat/EN/aims">Aims & scope</a></h3></li>
+                
+                
+                
+                            <li><h3><a href="https://journal.hep.com.cn/infomat/EN/description">Description</a></h3></li>
+                
+                
+                
+                            <li><h3><a href="https://journal.hep.com.cn/infomat/EN/editorial_board">Editorial board</a></h3></li>
+                
+                
+                
+                            <li><h3><a href="https://journal.hep.com.cn/infomat/EN/covergallery">Cover gallery</a></h3></li>
+                
+                
+                
+                            <li><h3><a href="https://journal.hep.com.cn/infomat/EN/contact">Contact us</a></h3></li>
+                
+                
+                    </ul>
+                </li>
+                <li class="nav-li"><h3 class="nav-nav">Browse</h3>
+                    <ul>
+                
+                            <li><h3><a href="https://journal.hep.com.cn/infomat/EN/current">Latest issue</a></h3></li>
+                
+                
+                
+                            <li><h3><a href="https://journal.hep.com.cn/infomat/EN/archive_by_issues">All volumes and issues</a></h3></li>
+                
+                
+                
+                            <li><h3><a href="https://journal.hep.com.cn/infomat/EN/topaccess">Most accessed</a></h3></li>
+                
+                
+                
+                            <li><h3><a href="https://journal.hep.com.cn/infomat/EN/topcited">Most cited</a></h3></li>
+                
+                
+                    </ul>
+                </li>
+                                                <li class="nav-li"><h3 class="nav-nav">Authors & reviewers</h3>
+                    <ul>
+                
+                           <li><h3><a href="https://journal.hep.com.cn/infomat/EN/onlinesubmission" target="__blank">Online submisson</a></h3></li>
+                
+                
+                
+                            <li><h3><a href="https://journal.hep.com.cn/infomat/EN/guidelines">Guidelines for authors</a></h3></li>
+                
+                
+                    </ul>
+                </li>
+                                                                                                                                                                                                                                                                                            </ul>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("ul.nav li").hover(function(){
+                $(this).addClass("on");
+
+            },
+            function(){
+                $(this).removeClass("on");
+
+            })
+    });
+
+    $(document).ready(function() {
+        $("ul.nav li").hover(function(){
+                $(this).parent("ul").siblings("h3").addClass("choice");
+
+            },
+            function(){
+                $(this).parent("ul").siblings("h3").removeClass("choice");
+            })
+    });
+
+    $(document).ready(function() {
+        if ($("ul.nav li").find("ul") .html()!="") {
+            $("ul.nav li").parent("ul").siblings("h3").append("<span class='sub'></span>");
+        }
+    });
+    
+    
+    function searchBlur() {
+        // 获取输入框的值
+        const val = document.getElementById('searchInput').value;
+        const keyStr = 'mixWords';
+
+        if (!val.trim()){
+             alert("please input keyword!");
+             return; // 空值不跳转
+        }
+        // 跳转到搜索结果页，并通过 URL 参数传值
+        window.location.href = 'https://journal.hep.com.cn/infomat/EN/searchresult?q=s&'+keyStr+'=' + encodeURIComponent(val);
+    }
+</script>
+<!--pc导航导航end-->
+<div class="container">
+    <div class="row">
+        
+        <!-- 菜单内容：Jo4JournalMenuDto(id=1160243559574802589, tenantId=1045748351789510663, journalId=1155139928286564361, resourceId=null, resourceName=null, language=EN, name=Guidelines for authors, url=/guidelines, orderNum=3, disabled=0, delFlag=0, createdTime=1747815673865, createdBy=admin, updatedTime=1754033329970, updatedBy=admin, orderByClause=null, journalGroupId=null, pid=1160243559574802570, menuType=2, siteId=1160243559574802562, contentType=1, tplDetailId=1158062609934192939, cmsDatasourceType=1, isShow=1) -->
+        
+
+
+
+
+
+        <div class="col-md-8">
+            <section class="content_nr">
+                <h3 class="column" id="title_text">
+
+                   
+                    Guidelines for authors
+
+                </h3>
+                <div class="news-content">
+
+                   
+
+
+
+
+                    <div id="rich-text-4e398c05-a45c-45e4-adcf-74b38980136a" class="pb-rich-text" >
+        <ol>
+<li style="text-align: justify;"><a href="#a1">Submission</a></li>
+<li><a href="#a2">Aims and Scope</a></li>
+<li><a href="#a3">Article Types</a></li>
+<li><a href="#a4">Manuscript Preparation</a></li>
+<li><a href="#new5">Experimental Design, Description, and Validation</a></li>
+<li><a href="#a5">Editorial Policies and Ethical Considerations</a></li>
+<li><a href="#a6">Author Licensing</a></li>
+<li><a href="#a7">Publication Process After Acceptance</a></li>
+<li><a href="#a8">Post Publication</a></li>
+<li><a href="#a9">Editorial Office Contact Details</a></li>
+</ol>
+<br>
+<div style="text-align: justify;"><br><a id="a1"></a></div>
+<h4 id="submission" style="text-align: justify;">1. SUBMISSION</h4>
+<div style="text-align: justify;">Thanks for your kind interest in&nbsp;<i>InfoMat</i>. The submissions have to consist of content that has not been published or submitted for publication elsewhere except as a brief abstract in the proceedings of conferences or symposiums.</div>
+<div style="text-align: justify;">&nbsp;</div>
+<div style="text-align: justify;">All the submissions will be handled and processed using the <span style="text-decoration: underline;"><a href="http://www.wileyauthors.com/scholarone" target="_blank" rel="noopener"><span style="color: #005274;">ScholarOne</span></a></span> online submission system. <br>Once you have prepared your submission in accordance with the Guidelines, manuscripts should be submitted online at <a href="https://mc.manuscriptcentral.com/infomat" target="_blank" rel="noopener">https://mc.manuscriptcentral.com/infomat</a>.<br>The submission system will prompt you to use an <a href="http://www.wileyauthors.com/orcid" target="_blank" rel="noopener">ORCID ID</a> (a unique author identifier) to help distinguish your work from that of other researchers as well as develop your personal profile in a worldwide platform.<br><br></div>
+<div style="text-align: justify;">A cover letter should be included in the ‘Cover Letter Field’ of the ScholarOne system. The text can be entered directly into the field or uploaded as a file.</div>
+<div style="text-align: justify;">The cover letter should contain:</div>
+<div style="text-align: justify;">&nbsp;1. A statement confirming the paper has not been published or submitted for publication elsewhere except as a brief abstract in the proceedings of a scientific meeting or symposium.</div>
+<div style="text-align: justify;">&nbsp;2. An acknowledgment that all authors have contributed significantly and in keeping with the latest guidelines of the International Committee of the Journal Editors, each author’s contribution to the paper is to be described, i.e., what role each author participated in.</div>
+<div style="text-align: justify;">&nbsp;3. A statement confirming that all authors are in agreement with the content of manuscript.</div>
+<div style="text-align: justify;">In addition, the authors should state clearly the motivation behind and the novelty of their research in the cover letter. The authors also need to clarify the key results and the advances made compared with their previous work.</div>
+<div style="text-align: justify;">&nbsp;</div>
+<div style="text-align: justify;">Microsoft Word templates for</div>
+<div style="text-align: justify;">
+<ul>
+<li><a title="Research Articles template" href="https://onlinelibrary.wiley.com/pb-assets/assets/25673165/Contribute/Research Article Template11.10-1636526422797.docx" target="_self">Research Article Template (MS word)</a></li>
+<li><a title="Reviews-template" href="https://onlinelibrary.wiley.com/pb-assets/assets/25673165/Contribute/Review Article Template11.12-1636704800897.docx" target="_self">Review Template (MS word)</a></li>
+<li><a title="Guideline for the Preparation of Figures&nbsp;" href="/pb-assets/25673173/Guidelines%20for%20the%20Preparation%20of%20Figures-1573182704117.pdf">Guidelines for the Preparation of Figures&nbsp;</a></li>
+<li><a href="/pb-assets/25673165/Graphic%20TOC-1577161100207.pdf" target="_blank" rel="noopener">Guidlines for Graphic in Table of Contents (TOC)</a></li>
+<li><a title="Cover guideline" href="/pb-assets/25673165/Cover%20guideline-1581321993697.pdf">Guidelines for the Preparation of Front/Inside Cover</a>&nbsp;(Copyright permission form is&nbsp;<a title="copyright permission form" href="https://onlinelibrary.wiley.com/pb-assets/26379368/FORM%20-%20Permissions%20Request-1580903739340.pdf">here</a>)</li>
+</ul>
+</div>
+<h4 style="text-align: justify;"><br><br><a id="a2"></a><br>2. AIMS AND SCOPE</h4>
+<div style="text-align: justify;"><i>InfoMat</i>&nbsp;is an interdisciplinary and open-access journal that will address the growing scientific interest in new materials with unique electrical, optical and magnetic properties, and their applications in the rapid development of information technology. It will serve as a high-quality journal for researchers working in a wide variety of scientific areas and bring together the communities of materials science and information technology to contribute in this emerging field.</div>
+<div style="text-align: justify;"><i>InfoMat</i>&nbsp;is aimed at publishing experimental and theoretical approaches dealing with issues of advanced materials. It will particularly focus on the fabrication and characterization of materials with novel properties. The scope is internationally broad and falls within materials science, electrical electronics, and telecommunication categories. The journal recognizes the complexity of issues, and therefore particularly welcomes innovative interdisciplinary research with wide impact. The readership of the journal includes both researchers and engineers from academia and industry.</div>
+<div id="mt" style="text-align: justify;"><br><br></div>
+<h4 style="text-align: justify;"><a id="a3"></a><br>3. ARTICLE TYPES</h4>
+<div style="text-align: justify;"><strong>(1) Research Article</strong></div>
+<div style="text-align: justify;"><strong><i>Description</i></strong>: The reports of original studies within the journal scope of <i>InfoMat</i>.</div>
+<div style="text-align: justify;"><strong><i>Word Limit</i></strong>: No strict word limits, however, it is better to be within 5,000 words including abstract but excluding references, tables and figures.<br><strong><i>Abstract</i></strong>: Within 260 words, briefly describe the contents of the Research Article.<br><strong><i>References</i></strong>: No word limits, but the American Medical Association (AMA) system of referencing should be used (see <span style="text-decoration: underline;"><a href="http://www.amamanualofstyle.com/" target="_blank" rel="noopener"><span style="color: #005274;">AMA Manual of Style</span></a></span>&nbsp;for details).<br><strong><i>Figures/tables</i></strong>: No number limits, but 10 figures/tables should be sufficient. The tables and figures should be submitted together with the main text of the article, and they should be properly prepared and numbered as describing <a href="http://media.wiley.com/assets/7323/92/electronic_artwork_guidelines.pdf" target="_blank" rel="noopener">here</a>.</div>
+<div style="text-align: justify;"><strong><i>Keywords</i></strong>: Please provide 3-6 keywords to highlight the main involving subjects of the article.</div>
+<div style="text-align: justify;"><strong><br>(2) Review Article<br></strong></div>
+<div style="text-align: justify;"><strong><i>Description</i></strong>: Review Articles are comprehensive analyses of a specific topic. They can be submitted either by the invitations from the Editors or by the authors themselves; both types will undergo the peer-review process prior to acceptance.</div>
+<div style="text-align: justify;"><strong><i>Word Limit</i></strong>: No strict word limits, however, it is better to be within 8,000 words including abstract but excluding references, tables and figures.<br><strong><i>Abstract</i></strong>: Within 260 words, briefly describe the contents of the Review Article.<br><strong><i>References</i></strong>: No word limits, but the American Medical Association (AMA) system of referencing should be used (see <span style="text-decoration: underline;"><a href="http://www.amamanualofstyle.com/" target="_blank" rel="noopener"><span style="color: #005274;">AMA Manual of Style</span></a></span>&nbsp;for details)<br><strong><i>Figures/tables</i></strong>: Minimum 1 table/figure in the Review. The tables and figures should be submitted together with the main text of the article, and they should be properly prepared and numbered as describing <a href="http://media.wiley.com/assets/7323/92/electronic_artwork_guidelines.pdf" target="_blank" rel="noopener">here</a>.</div>
+<div style="text-align: justify;"><strong><i>Keywords</i></strong>: Please provide 3-6 keywords to highlight the main involving subjects of the article.</div>
+<div style="text-align: justify;"><strong><em>Biography</em></strong>: Please provide the first (or co-first) and corresponding authors' biographies. The biographies should include photographs, which are in 40 mm broad, 50 mm high, and better 600 dpi at minimum. It is recommended to keep the biography list as short as possible.</div>
+<div style="text-align: justify;"><strong><br>(3) Perspective</strong></div>
+<div style="text-align: justify;"><strong><i>Description</i></strong>: Perspecctives are a forum for authors to discuss ideas from a personal viewpoint. They are more forward looking and/or speculative than Reviews. Perspectives can be submitted either by the invitations from the Editors or by the authors themselves; both types will undergo the peer-review process prior to acceptance.</div>
+<div style="text-align: justify;"><strong><i>Word Limit</i></strong>: No strict word limits, however, it is better to be within 8,000 words including abstract but excluding references, tables and figures.<br><strong><i>Abstract</i></strong>: Within 260 words, briefly describe the contents of the Perspective.<br><strong><i>References</i></strong>: No word limits. but the American Medical Association (AMA) system of referencing should be used (see <span style="text-decoration: underline;"><a href="http://www.amamanualofstyle.com/" target="_blank" rel="noopener"><span style="color: #005274;">AMA Manual of Style</span></a></span>&nbsp;for details)<br><strong><i>Figures/tables</i></strong>: Minimum 1 table/figure in the Perspective. The tables and figures should be submitted together with the main text of the article, and they should be properly prepared and numbered as describing <a href="http://media.wiley.com/assets/7323/92/electronic_artwork_guidelines.pdf" target="_blank" rel="noopener">here</a>.</div>
+<div style="text-align: justify;"><strong><i>Keywords</i></strong>: Please provide 3-6 keywords to highlight the main involving subjects of the article.</div>
+<div style="text-align: justify;"><strong><em>Biography</em></strong>: Please provide the first (or co-first) and corresponding authors' biographies. The biographies should include photographs, which are in 40 mm broad, 50 mm high, and better 600 dpi at minimum. It is recommended to keep the biography list as short as possible.</div>
+<div style="text-align: justify;"><strong><br>(4) Editorial [only invited by Editors]</strong></div>
+<div style="text-align: justify;"><strong><i>Description</i></strong>: It is written by Editorial Board members, invited authors or editors.</div>
+<div style="text-align: justify;"><strong><i>Word Limit</i></strong>: 1,000 words maximum.<br><strong><i>Abstract</i></strong>: Not required.</div>
+<div style="text-align: justify;"><strong><i>Figures/tables</i></strong>: Maximum 2 figure/tables. The figure/tables should be submitted together with the main text of the article, and they should be properly prepared and numbered as describing <a href="http://media.wiley.com/assets/7323/92/electronic_artwork_guidelines.pdf" target="_blank" rel="noopener">here</a>.<br><strong><i>References</i></strong>: Maximum 5 references. The American Medical Association (AMA) system of referencing should be used (see <span style="text-decoration: underline;"><a href="http://www.amamanualofstyle.com/" target="_blank" rel="noopener"><span style="color: #005274;">AMA Manual of Style</span></a></span>&nbsp;for details).</div>
+<div style="text-align: justify;"><strong><i>Keywords</i></strong>: Not required.</div>
+<div style="text-align: justify;"><br><br></div>
+<h4 style="text-align: justify;"><a id="a4"></a><br>4. MANUSCRIPT PREPARATION</h4>
+<div style="text-align: justify;"><strong>Free Format submission</strong></div>
+<div style="text-align: justify;"><em>InfoMat</em> now offers <a href="https://authorservices.wiley.com/author-resources/Journal-Authors/Prepare/free-format-submission.html">Free Format submission</a> for a simplified and streamlined submission process for <strong>New Submissions</strong>. <br>You do not need to reformat your manuscript for a new submission. However, authors are requested to follow the guidelines presented here when preparing their <strong>Revised Manuscripts</strong>.</div>
+<div style="text-align: justify;">&nbsp;</div>
+<div style="text-align: justify;">Before you submit, you will need:</div>
+<div style="text-align: justify;">
+<ul>
+<li>Your manuscript: this should be an editable file including text, figures, and tables, or separate files – whichever you prefer. All required sections should be contained in your manuscript, including abstract (which does need to be correctly styled), introduction, methods, results, and conclusions. Figures and tables should have legends. Figures should be uploaded in the highest resolution possible. References may be submitted in any style or format, as long as it is consistent throughout the manuscript. You can find the recommended format below. Supporting information should be submitted in separate files. If the manuscript, figures or tables are difficult for you to read, they will also be difficult for the editors and reviewers, and the editorial office will send it back to you for revision. Your manuscript may also be sent back to you for revision if the quality of English language is poor.</li>
+<li>An ORCID ID, freely available at <u><a href="https://orcid.org/">https://orcid.org</a></u>. <em>(Why is this important? Your article, if accepted and published, will be attached to your ORCID profile. Institutions and funders are increasingly requiring authors to have ORCID IDs.)</em></li>
+<li>The title page of the manuscript, including:</li>
+<ul>
+<li>Your co-author details, including affiliation and email address. <em>(Why is this important? We need to keep all co-authors informed of the outcome of the peer review process.)</em></li>
+<li>Statements relating to our ethics and integrity policies, which may include any of the following <em>(Why are these important? We need to uphold rigorous ethical standards for the research we consider for publication):</em></li>
+</ul>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>data availability statement</li>
+<li>funding statement</li>
+<li>conflict of interest disclosure</li>
+<li>ethics approval statement</li>
+<li>patient consent statement</li>
+<li>permission to reproduce material from other sources</li>
+<li>clinical trial registration</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div style="text-align: justify;">To submit, login at <a href="https://mc.manuscriptcentral.com/infomat">https://mc.manuscriptcentral.com/infomat</a> and create a new submission. Follow the submission steps as required and submit the manuscript.<br><strong><i><br>General<br></i></strong><i></i></div>
+<div style="text-align: justify;">In general, the submission file should be prepared in the <strong>WORD</strong> format and should be presented in the following order:<br><br>Title - Author(s) - (Dedication) - Affliliation(s) - Keywords - Abstract - Main text [including Figures, Schemes and Tables] [Each Figure/Scheme completes with figure legend, and each table completes with title and footnotes] - (Experimental/Methods Section) - Acknowledgements - References - (Biographies) - Table of Contents - Supporting Information (if relevant) <br>[Sections in brakets are only presented in certain article types.] [Supporting Information should be supplied as separate files.]<br>
+<p style="line-height:150%">Manuscripts must be written in American English and be grammatically and linguistically correct. Authors should seek assistance with style, grammar and vocabulary if necessary.<br><em>Please note: Wiley provides a professional language and manuscript editing service, with expert help in English language editing, translation service, manuscript formatting, and figure preparation. For detailed information, costs and instructions please go to:&nbsp;</em><a href="http://wileyeditingservices.com/en/"><em><strong>Wiley Editing Services</strong></em></a><em>.</em></p>
+<p style="line-height:150%">The structure and compositions of all materials central to the manuscript must be disclosed in the main text or in Supporting Information, this includes commercial and proprietary products, pure materials, and mixtures. Manuscripts reporting results using undisclosed material compositions may not be considered for publication and may be returned without external review.</p>
+<p style="line-height:150%">Symbols for physical quantities should be italicized, but their units should not be written in italics. As examples:&nbsp;<em>T</em>&nbsp;for temperature with K as the unit, in contrast to T for the unit Tesla;&nbsp;<em>J</em>&nbsp;with units Hz,&nbsp;<em>a</em>&nbsp;with units nm. Stereochemical information (<em>cis</em>,&nbsp;<em>E</em>,&nbsp;<em>R</em>, etc.; d, L), locants (<em>N</em>-methyl), symmetry groups and space groups (<em>C</em><sub>2<em>v</em></sub>), and prefixes in formulae or compound names (<em>t</em>Bu and&nbsp;<em>tert</em>-butyl) must be in italics. Latin phrases such as “in situ” should not be italicized. Formula numbers should be bold (Arabic numerals and, if necessary, Roman lowercase letters). Labels of axes labels should be formatted as "variable [units]", e.g.,&nbsp;<em>T</em>&nbsp;[K] where the variable is in italics and the units are enclosed in square brackets and in upright type.</p>
+<p style="line-height:150%">Equations should be labeled with consecutive numbers and mentioned by label in the text, for example, “Equation (1).” They should be provided in an editable format – use symbols or an equation editor – do not embed as graphics.</p>
+<p style="line-height:150%">Vectors must be in bold italic letters and tensors in bold letters (both in the text and in equations).</p>
+<p style="line-height:150%">Please distinguish carefully between subscripts, superscripts, and special symbols. Units (e.g. V cm<sup>–1</sup>, K, Pa etc.) should be written in upright letters (not in italics) with a short space to the number before.</p>
+<p style="line-height:150%">Please use SI units throughout. Mathematical functions which are tabulated (e.g., sin, cos, exp, e, etc.) should be given in upright letters (not in italics).</p>
+<p style="line-height:150%">Physical data should be arranged as follows, where possible:</p>
+<ul>
+<li>p./b.p. 20 °C</li>
+<li>[<em>α</em>]<sub>D</sub><sup>20</sup>&nbsp;= −13.5 (<em>c&nbsp;</em>= 0.2 in acetone) (a unit has to be given if it is different from deg cm<sup>3</sup>&nbsp;g<sup>−1</sup>&nbsp;dm<sup>−1</sup>&nbsp;for [<em>α</em>] and from g cm<sup>−3</sup>&nbsp;for&nbsp;<em>c</em>)</li>
+<li><sup>1</sup>H NMR (200 MHz, [D<sub>8</sub>]THF, 25 °C, TMS):&nbsp;<em>δ&nbsp;</em>= 1.3 (q,&nbsp;<sup>3</sup><em>J</em>(H,H) = 8 Hz, 2 H; CH<sub>2</sub>), 0.9 ppm (t,&nbsp;<sup>3</sup><em>J</em>(H,H) = 8 Hz, 3 H; CH<sub>3</sub>)</li>
+<li>IR(Nujol): u= 1790 cm<sup>–1</sup>&nbsp;(C=O)</li>
+<li>UV–vis (<em>n</em>-hexane):&nbsp;<em>λ</em><sub>max</sub>(<em>ε</em>) = 320 (5000), 270 nm (12&nbsp;000)</li>
+<li>MS (70 eV):&nbsp;<em>m</em>/<em>z</em>&nbsp;(%): 108 (20) [M<sup>+</sup>], 107 (60) [M<sup>+</sup>–H], 91 (100) [C<sub>7</sub>H<sub>7</sub><sup>+</sup>]</li>
+<li>Plane angles in products of units can have either ° or deg as the unit</li>
+</ul>
+<p style="line-height:150%">In addition, when quoting physical data, the following should be considered:</p>
+<ul>
+<li>data should be quoted with decimal points and negative exponents (e.g., 25.8 J K<sup>−1</sup>&nbsp;mol<sup>−1</sup>)</li>
+<li>the order should remain consistent throughout the manuscript</li>
+<li>when measurement conditions remain unchanged, they need only be mentioned once, for instance in column headings</li>
+</ul>
+<p style="line-height:150%">Nomenclature should conform to the current American usage. The rules and recommendations of the International Union of Pure and Applied Chemistry (IUPAC), the International Union of Biochemistry (IUB), and the International Union of Pure and Applied Physics (IUPAP) should be followed. The Latin names of biological species and genera should be written in italics, with the full name always used when it appears for the first time in the text (e.g.,&nbsp;<em>Homo sapiens</em>); the abbreviated form (e.g.,&nbsp;<em>H. sapiens</em>) may be used thereafter.</p>
+<p style="line-height:150%">Abbreviations and acronyms should be used sparingly and consistently. Where they first appear in the text, the complete term should also be given. Common acronyms such as bp, DNA, RNA, NMR, UV–vis., wt, do not need to be defined.</p>
+</div>
+<div style="text-align: justify;"><strong><i><br>Title page</i></strong><i></i></div>
+<div style="text-align: justify;">The manuscript should start with the following:</div>
+<div style="text-align: justify;">1. The title of the article. This should clearly describe the research using relevant keywords and it should avoid catchy but non-descriptive phrases. The first letters of all words, except coordinating conjunctions, articles, and prepositions, should be capitalized. No references should be cited. Chemical and mathematical formulae should be avoided in the title, as they may lead to difficulties when the title is integrated into databases. The title should not contain abbreviations;<br>2. A short running title of less than 40 characters;<br>3. A complete list of authors with the first name, middle initial(s), and surname of each author. An asterisk should be used to indicate each corresponding author (further symbols to indicate the affiliation(s) should not be used). A dedication line is optional;<br>4. A full list of affiliations for all authors. These should include: the names of all authors associated with each affiliation (with all first names as initials) and the complete postal address. An institutional/company email address must be provided for all corresponding authors. The present address of any author, if different from that where the work was carried out, should be supplied in a footnote.<br><br>
+<div style="text-align: justify;"><strong><i>Abstract</i></strong></div>
+<div style="text-align: justify;">Please provide an abstract of no more than 260 words containing the major keywords. The abstract should adhere to the word count specifications under the section Manuscript Categories and Requirements. It should state the main problem, methods, results, and conclusions. It must be factual and comprehensive and should be written in the present tense and impersonal style (i.e., avoiding we). The use of abbreviations and acronyms should be limited and general statements (e.g. ‘‘the significance of the results is discussed’’) should be avoided. Abbreviations must be defined when first used and the abstract should not contain any references.</div>
+<div style="text-align: justify;"><strong><i><br>Keywords</i></strong></div>
+<div style="text-align: justify;">Please provide 3-6 keywords that are most relevant to your contents.<br><br></div>
+</div>
+<div style="text-align: justify;">
+<div style="text-align: justify;">
+<div style="text-align: justify;"><strong><i>Authorship <br></i></strong></div>
+<div style="text-align: justify;">Please refer to the journal’s authorship policy in the Editorial Policies and Ethical Considerations section for details on eligibility for author listing.<br><br><em><strong>Table of Contents</strong></em><br>A short text and graphic should be provided for the Table of Contents (ToC). The ToC text should describe the main results in 50 to 60 words. It should be written for a general audience and be written in the third person.<br><br>The ToC figure should convey the main message of the article. It does not have to be a figure from the article; it can be a combination of figures or a new, original figure composed to represent the topic. The author must be the copyright holder for this figure and any images used to create it. The size of the image should be either 55 mm x 50 mm (w x h) or 110 mm x 20 mm (w x h). Please label the graphic as “For Table of Contents Only” and<strong> upload it separately at the first submission stage.</strong><br><span style="font-size: 10.5pt; font-family: 'Open Sans',sans-serif; color: #1c1d1e;"><strong><i><br></i></strong><i></i></span></div>
+</div>
+<div style="text-align: justify;">
+<div style="text-align: justify;"><strong><i>Main Text</i></strong></div>
+<div style="text-align: justify;">Authors should use the subheadings required for the Article Type as specified in the section 'Article Types' and refer to the 'General' guidelines above.</div>
+<strong><i><br></i></strong></div>
+</div>
+<div style="text-align: justify;"><strong><i>References</i></strong></div>
+<div style="text-align: justify;">The American Medical Association (AMA) system of referencing should be used see the -&nbsp;<span style="text-decoration: underline;"><a href="http://www.amamanualofstyle.com/" target="_blank" rel="noopener"><span style="color: #005274;">AMA Manual of Style</span></a></span>&nbsp;for details. All references should be numbered consecutively in order of appearance and should be as complete as possible. In text citations should cite references in consecutive order using Arabic superscript numerals. Sample references follow:</div>
+<div style="text-align: justify;"><i><strong>In-Text examples:</strong><br></i>Diabetes mellitus is associated with a high risk of foot ulcers.<sup><span lang="EN-US" style="font-size: 9.0pt; font-family: 'Open Sans',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #1c1d1e;">1-3</span></sup><br>Several interventions have been successful at increasing compliance.<sup><span lang="EN-US" style="font-size: 9.0pt; font-family: 'Open Sans',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #1c1d1e;">11,14-16</span></sup><br>The data of Smith et al<sup><span lang="EN-US" style="font-size: 9.0pt; font-family: 'Open Sans',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #1c1d1e;">18</span></sup>&nbsp;is further evidence of this effect.<br>As reported previously,<sup><span lang="EN-US" style="font-size: 9.0pt; font-family: 'Open Sans',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #1c1d1e;">1,3-6</span></sup><br>The results were as follows<sup><span lang="EN-US" style="font-size: 9.0pt; font-family: 'Open Sans',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #1c1d1e;">4</span></sup>:</div>
+<div style="text-align: justify;"><i><strong>Journal article (1-6 authors):</strong><br></i>1. <span style="font-size: 10.5pt; font-family: 'Open Sans',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #1c1d1e; mso-ansi-language: DE;">King VM, Armstrong DM, Apps R, Trott JR. </span>Numerical aspects of pontine, lateral reticular, and inferior olivary projections to two paravermal cortical zones of the cat cerebellum. J Comp Neurol. 1998; 390:537-551.</div>
+<div style="text-align: justify;"><i><strong>Journal article with more than six authors:</strong><br></i>2. Geller AC, Venna S, Prout M, et al. Should the skin cancer examination be taught in medical school? Arch Dermatol. 2002;138:1201-1203.</div>
+<div style="text-align: justify;"><i><strong>Journal article with no named author or group name:</strong><br></i>3. Centers for Disease Control and Prevention (CDC). Licensure of a meningococcal conjugate vaccine (Menveo) and guidance for use--Advisory Committee on Immunization Practices (ACIP), 2010. MMWR Morb Mortal Wkly Rep. 2010;59:273.</div>
+<div style="text-align: justify;"><i><strong>Online articles not yet published in an issue:</strong><br></i>4. Smith JJ, Fihn SD, White RH. Treatment of allergic rhinitis. Am J Med. In press; doi:10.1016/S0002-9343(00)00545-3.</div>
+<div style="text-align: justify;"><i><strong>Book:</strong><br></i>5. Voet D, Voet JG. Biochemistry. New York: John Wiley &amp; Sons; 1990. 1223 p.</div>
+<div style="text-align: justify;"><i><strong>Book chapter:</strong><br></i>6. Guyton JL, Crockarell JR. Fractures of acetabulum and pelvis. In: Canale ST, ed. Campbell's Operative Orthopaedics. 10th ed. Philadelphia, PA: Mosby, Inc; 2003:2939-2984.</div>
+<div style="text-align: justify;"><i><strong>Electronic book:</strong><br></i>7. Rudolph CD, Rudolph AM. Rudolph's Pediatrics. 21st ed. New York, NY: McGraw-Hill Companies; 2002. http://online.statref.com/Document/Document.aspx?DocID=1&amp;StartDoc=1&amp;EndDoc=1882&amp;FxID=13&amp;offset=7&amp;SessionId=A3F279FQVVFXFSXQ. Accessed August 22, 2007.</div>
+<div style="text-align: justify;"><i><strong>Internet document:</strong><br></i>8. American Cancer Society. Cancer Facts &amp; Figures 2003. http://www.cancer.org/downloads/STT/CAFF2003PWSecured.pdf. Accessed March 3, 2003.</div>
+<div style="text-align: justify;">Please note that journal title abbreviations should conform to the practices of Chemical Abstracts.</div>
+<div style="text-align: justify;"><strong><strong><i><br></i></strong><em>Tables, Figures and Schemes<br></em></strong>Tables should be provided with a brief legend and should only be subdivided by three horizontal lines (head rule, neck rule, foot rule). Tables should be self-contained and complement, but not duplicate, information contained in the text. They should be supplied as editable files, not pasted as images. Legends should be concise but comprehensive – the table, legend and footnotes must be understandable without reference to the text. All abbreviations must be defined in footnotes. Footnote symbols: †, ‡, §, ¶, should be used (in that order) and *, **, *** should be reserved for P-values. Statistical measures such as SD or SEM should be identified in the headings. Tables with only one or two columns and columns with only one or two entries are to be avoided. For footnotes in tables, Roman lowercase letters followed by a closing parenthesis should be used. All tables are numbered (Arabic numerals) in the sequence in which they are referred to in the text.
+<p style="line-height:150%">Each figure and scheme should have a caption and should be inserted in-line within the main text. All figures and schemes must be mentioned in the text in numerical order. Different types of atoms in structural chemistry figures should be clearly distinguishable (by color). The full word "Figure" should be used in all parts of the manuscript when figures are cited. Figure legends should be concise but comprehensive – the figure and its legend must have high readability. Include definitions of any symbols used and define/explain all abbreviations and units of measurement.</p>
+<p style="line-height:150%">Vector graphic images such as plots, graphs, and line diagrams (including chemical structures) should either be embedded into a Word document or saved as a PDF, PS, or EPS file. Original files of graphical items prepared using ChemDraw or Photoshop may also be included. Bitmap graphic images such as photographs and electron microscope images should be saved as TIFF or PNG files; each figure part must have a resolution of at least 300&nbsp;dpi (1000 pixels wide when the image is typeset at a single column width).</p>
+<p style="line-height:150%">You should review the <a href="https://authorservices.wiley.com/asset/photos/electronic_artwork_guidelines.pdf">basic figure requirements</a> for manuscripts for peer review, as well as the more detailed post-acceptance figure requirements.</p>
+<i></i></div>
+<div style="text-align: justify;"><strong><i><br>Supporting Information</i></strong></div>
+<div style="text-align: justify;">Supporting Information is information that is not essential to the article but provides greater depth and background. It is generally hosted online and appears without editing or typesetting. It may include tables, figures, videos, datasets, etc. Succinct text and the necessary graphics for the Supporting Information must be submitted, where possible, as a separate document (i.e., Word, or PDF). The document should include the title and names of all the authors and a template that can be used to prepare this page is included in the manuscript template. Any graphics should be embedded into the Supporting Information file and should not be submitted as separate graphics files. The author must keep a copy of the Supporting Information and make this available to readers upon request. Other types of Supporting Information, e.g., multimedia files, raw data, code, etc., may be provided separately, with large files provided in a compressed file format, e.g., .zip or .rar. Please note, if data, scripts or other artefacts used to generate the analyses presented in the paper are available via a publicly available data repository, authors should include a reference to the location of the material within their paper. View <a href="https://authorservices.wiley.com/author-resources/Journal-Authors/Prepare/manuscript-preparation-guidelines.html/supporting-information.html">Wiley’s FAQs</a> on more details of Supporting Information.</div>
+<div style="text-align: justify;"><strong><strong><i><br></i></strong></strong>
+<div style="text-align: justify;"><strong><i>Acknowledgments <br></i></strong></div>
+<div style="text-align: justify;">All funding sources relevant to the work reported should be acknowledged, including grant numbers and names of funding bodies. Contributions from anyone who does not meet the criteria for authorship should be listed, with permission from the contributor, in an Acknowledgments section. Financial and material support should also be mentioned. Thanks to anonymous reviewers are not appropriate.<br><br></div>
+<div style="text-align: justify;"><strong><i>Conflict of Interest Statement</i></strong></div>
+<div style="text-align: justify;">You will be asked to provide a conflict of interest statement during the submission process. All the authors must declare financial/commercial conflicts of interest. If the authors have no conflicts of interest, this should be stated. See the section ‘Conflict of Interest’ in the Editorial Policies and Ethical Considerations section for details on what to include in this section. Please ensure you liaise with all co-authors to confirm agreement with the final statement.</div>
+<div style="text-align: justify;"><br><strong><em>Reproduction of Copyright Material</em><strong><i><span style="font-size: 12pt;"><br></span></i></strong></strong>If excerpts from copyrighted works owned by third parties are included, credit must be shown in the contribution. It is your responsibility to also obtain written permission for reproduction from the copyright owners. For more information please visit <a href="https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/licensing-info-faqs.html">Wiley’s Copyright Terms &amp; Conditions FAQ</a>. The corresponding author is responsible for obtaining written permission to reproduce the material "in print and other media" from the publisher of the original source, and for supplying Wiley with that permission upon submission.</div>
+<strong><i><br>Wiley Author Resources</i></strong><i></i></div>
+<div style="text-align: justify;">Wiley has a range of resources for authors preparing manuscripts for submission available&nbsp;<span style="text-decoration: underline;"><a href="http://www.wileyauthors.com/prepare" target="_blank" rel="noopener"><span style="color: #005274;">here</span></a></span>. In particular, authors may benefit from referring to Wiley’s best practice tips on&nbsp;<span style="text-decoration: underline;"><a href="http://www.wileyauthors.com/seo" target="_blank" rel="noopener"><span style="color: #005274;">Writing for Search Engine Optimization</span></a></span>.</div>
+<div style="text-align: justify;"><span lang="EN-US">&nbsp;</span></div>
+<div id="epec" style="text-align: justify;"><strong><strong> <a id="new5"></a><br></strong></strong>
+<p style="line-height:150%"><strong>5. EXPERIMENTAL DESIGN, DESCRIPTION, AND VALIDATION</strong></p>
+<p style="line-height:150%"><strong><em>Animal Experimentation</em></strong></p>
+<p style="line-height:150%">For detailed reporting of animal experimentation, the&nbsp;<a href="http://www.nc3rs.org.uk/ARRIVEpdf"><strong>ARRIVE</strong></a>&nbsp;guidelines (hosted on the NC3Rswebsite, https://arriveguidelines.org/) should be followed. Manuscripts containing experiments using animals must include a statement in the Experimental Section to state that permission was obtained from the relevant national or local authorities. The institutional committees that have approved the experiments must be identified and the accreditation number of the laboratory or of the investigator must be given where applicable. If no such rules or permission are stipulated in the particular country where the research/experiments were carried out, this must be mentioned in the manuscript. Compliance with US Public Health Service’s Policy on&nbsp;<a href="https://oacu.oir.nih.gov/animal-research-advisory-committee-guidelines"><strong>Animal Research Advisory Committee Guidelines</strong></a>&nbsp;is strongly recommended.</p>
+<p style="line-height:150%"><strong><em>Human Studies/Subjects and Clinical Samples</em></strong></p>
+<p style="line-height:150%">For manuscripts containing experiments with human subjects (including the testing of sensor/wearable technologies) or tissue samples from human subjects, a statement regarding appropriate Institutional Review Board (IRB)/Ethical Committee approval must be included. The informed consent of all participating subjects must be obtained, and a statement to indicate this must be included. Confirmation that the study conforms to recognized standards, such as the&nbsp;<a href="https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/"><strong>Declaration of Helsinki</strong></a>, is also required.</p>
+<p style="line-height:150%">When reporting phase II and III clinical trials, reporting on tumor marker studies, or describing human biospecimens, authors should refer, respectively, to the relevant&nbsp;<a href="http://www.consort-statement.org/"><strong>CONSORT statement</strong></a>,&nbsp;<a href="http://www.nature.com/nrclinonc/journal/v2/n8/full/ncponc0252.html"><strong>REMARK</strong></a>, or&nbsp;<a href="http://dx.doi.org/10.1002/cncy.20147"><strong>BRISQ</strong></a>&nbsp;guidelines. Prospective clinical trials must be registered in&nbsp;<a href="http://www.clinicaltrials.gov/"><strong>www.clinicaltrials.gov</strong></a>&nbsp;(or a similar public repository that matches the criteria established by ICMJE) prior to the start of patient enrollment. Trial registration numbers must be reported in the article.</p>
+<p style="line-height:150%"><strong><em><br>Image Processing</em></strong></p>
+<p style="line-height:150%">Images submitted for publication must accurately represent the original data, and authors must provide, if requested by the editors, unprocessed and raw data to aid in the reviewing process. Images submitted should be minimally modified, and any modification to original raw data should be clearly and fully disclosed, either in the figure legends, the Experimental Section, or in the Supporting Information. This should include the software used and the settings and methods applied in manipulations.</p>
+<p style="line-height:150%">Processing should be applied equally to the entire image and also to controls. Processing that obscures data or emphasizes certain regions at the expense of others should not be used. When used, false-color and nonlinear adjustments, such as gamma correction, deconvolution, filtering, thresholding, and projection, should be clearly indicated in the manuscript.</p>
+<p style="line-height:150%">In the case of gels and blots, cropped images may be used when necessary for clarity and conciseness. These modifications must be clearly mentioned, and the full gels and blots should be provided as Supporting Information. A clear line should mark the boundary between different gels where these were cropped, and all important bands should be maintained in the image.</p>
+<p style="line-height:150%"><strong><em><br>Statistical Analysis</em></strong></p>
+<p style="line-height:150%">Reported data should be representative and reproducible. For original research articles, a sub-section entitled "Statistical Analysis" should be included at the end of the Experimental Section that fully describes the following:</p>
+<ol>
+<li>Pre-processing of data (e.g., transformation, normalization, evaluation of outliers),</li>
+</ol>
+<ol start="2">
+<li>Data presentation (e.g., mean ± SD),</li>
+<li>Sample size/number of replicates (<em>n</em>) for each statistical analysis,</li>
+<li>Statistical methods used to assess significant differences (name of the statistical test including one- or two-sided testing, testing level (i.e., alpha value,&nbsp;<em>P</em>value), if applicable post-hoc test or any alpha adjustment, validity of any assumptions made for the chosen test),</li>
+<li>Software used for statistical analysis.</li>
+</ol>
+<p style="line-height:150%">All relevant figure and table legends should contain information on sample size/number of replicates (<em>n</em>), probability (<em>P</em>) value, the specific statistical test for each experiment, data presentation, and the meaning of the significance symbol.</p>
+<p style="line-height:150%">A more detailed checklist can be found here:&nbsp;<a href="https://www.advancedsciencenews.com/road-better-data-presentation-dos-donts/"><strong>The Road to Better Presentation of Data: The Do’s and Don’ts</strong></a></p>
+<p style="line-height:150%"><strong><em><br>Data Sharing and Data Availability</em></strong></p>
+<p style="line-height:150%"><em>InfoMat </em>encourages authors to share the data and other artefacts supporting the results in the paper by archiving it in an appropriate public repository. Authors may provide a data availability statement, including a link to the repository they have used, in order that this statement can be published in their paper. Shared data should be cited. All accepted manuscripts may elect to publish a data availability statement to confirm the presence or absence of shared data. If you have shared data, this statement will describe how the data can be accessed, and include a persistent identifier (e.g., a DOI for the data, or an accession number) from the repository where you shared the data. You may use the Standard Templates for Author Use or draft your own.<br><br>When data is available and linked, authors will need to provide a citation of the data in their reference list. <br><br></p>
+<p style="line-height:150%"><em>Data citation:</em></p>
+<p style="line-height:150%">[dataset]Authors; Year; Dataset title; Data repository or archive; Version (if any); Persistent identifier (e.g., DOI)</p>
+<p style="line-height:150%">The term [Dataset] will be removed before publication.</p>
+<p style="line-height:150%">To help choose an appropriate data repository for your research, you may consider the following:</p>
+<ul>
+<li>Visit&nbsp;<a href="http://www.re3data.org/">re3data.org</a>&nbsp;or for extensive catalogues of registered and certified data repositories</li>
+<li>Some funders have designated archives set up for researchers to deposit their data. Check our&nbsp;<a href="https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/author-compliance-tool.html">Author Compliance Tool</a>&nbsp;to see your funder’s data sharing policy.</li>
+</ul>
+<p style="line-height:150%">Some example repositories are as follows:</p>
+<p style="line-height:150%"><strong>Nucleotide sequence data</strong>&nbsp;can be submitted in electronic form to any of the three major collaborative databases:&nbsp;<a href="http://www.ddbj.nig.ac.jp/"><strong>DNA Data Bank of Japan (DDBJ)</strong></a>,&nbsp;<a href="http://www.ebi.ac.uk/ena"><strong>EMBL Nucleotide Archive</strong></a>, or&nbsp;<a href="https://www.ncbi.nlm.nih.gov/genbank/"><strong>GenBank</strong></a>. It is only necessary to submit to one database as data are exchanged between DDBJ, EMBL, and GenBank on a daily basis</p>
+<p style="line-height:150%"><strong>Proteins sequence data</strong>&nbsp;should be submitted to either of the following repositories:&nbsp;<a href="http://pir.georgetown.edu/"><strong>Protein Information Resource (PIR)</strong></a>&nbsp;or&nbsp;<a href="http://www.expasy.ch/sprot/sprot-top.html"><strong>SWISS-PROT</strong></a>.</p>
+<p style="line-height:150%">For manuscripts describing&nbsp;<strong>structural data</strong>, atomic coordinates and the associated experimental data should be deposited in the appropriate databank (see below). Data in databanks must be released, at the latest, upon publication of the article. Please ensure that atomic coordinates and experimental data are released on time.</p>
+<ul>
+<li>Organic, organometallic and inorganic compounds: Crystallographic data should not be sent as Supporting Information, but should be deposited with the joint&nbsp;<a href="https://www.ccdc.cam.ac.uk/deposit/">Cambridge Crystallographic Data Centre (CCDC)/Fachinformationszentrum (FIZ) Karlsruhe</a>&nbsp;online deposition service</li>
+<li>Proteins and nucleic acids:&nbsp;<a href="https://www.rcsb.org/">Protein Data Bank</a></li>
+<li>NMR spectroscopy data:&nbsp;<a href="http://www.bmrb.wisc.edu/">BioMagResBank</a></li>
+</ul>
+<p style="line-height:150%">For more information, check&nbsp;<a href="https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/data-sharing-citation/data-sharing-policy.html"><strong>Wiley’s Data Sharing Policies</strong></a>&nbsp;and our&nbsp;<a href="https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/data-sharing-citation/faqs.html"><strong>Frequently Asked Questions</strong></a>&nbsp;page.</p>
+<p style="line-height:150%"><strong><br><em>Data Citation</em></strong></p>
+<p style="line-height:150%">Please review&nbsp;<a href="https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/data-sharing-citation/data-citation-policy.html">Wiley’s Data Citation policy</a>.</p>
+<strong><br><br><br></strong></div>
+<h4 style="text-align: justify;"><a id="a5"></a>6. EDITORIAL POLICIES AND ETHICAL CONSIDERATIONS</h4>
+<div style="text-align: justify;"><strong><i>Editorial Peer-review Policy</i></strong></div>
+<div style="text-align: justify;">The acceptance criteria for all papers are the quality and originality of the research and its significance to our readership. Except where otherwise stated, manuscripts are single-blind peer reviewed. Papers will only be sent to review if the Editor-in-Chief determines that the paper meets the appropriate quality and relevance requirements.</div>
+<div style="text-align: justify;"><br>Wiley's policy on confidentiality of the review process is&nbsp;<span style="text-decoration: underline;"><a href="http://www.wileypeerreview.com/reviewpolicy" target="_blank" rel="noopener"><span style="color: #005274;">available here</span></a></span>.</div>
+<div style="text-align: justify;"><br>Manuscripts are assigned sequentially to Associate Editors. An Associate Editor solicits reviewers (typically, two external reviews are sought). The reviewers’ evaluations and Associate Editor’s comments are compiled by the Editor-in-Chief for disposition and transmittal to the authors. The Associate Editor will advise authors whether a manuscript is accepted, should be revised or is rejected. Minor revisions are expected to be returned better within two weeks of decision; major revisions better within four weeks. Manuscripts not revised within the time periods of three months are subject to withdrawal from consideration for publication unless the authors can provide extenuating circumstances.</div>
+<div style="text-align: justify;"><br>A number of manuscripts will have to be rejected on the grounds of priority and available space. A manuscript may be returned to the authors without outside review if the Editor-in-Chief and Associate Editor find it inappropriate for publication in the Journal. Similarly, the Editors may expedite the review process for manuscripts felt to be of high priority in order to reach a rapid decision. Such ‘fast-track decisions’ will normally occur within one week of receipt of the manuscript.</div>
+<div style="text-align: justify;"><br>Even though the final decisions are made, authors may dispute a decision and can document good reasons why a manuscript should be reconsidered. A rebuttal process exists. In the first place, authors should write rebuttal letters to the Editor-in-Chief.</div>
+<div style="text-align: justify;"><br>In-house submissions-Papers authored by Editors or Editorial Board members of the title, will be sent to Editors unaffiliated with the author or institution and monitored carefully to ensure there is no peer-review bias.</div>
+<div style="text-align: justify;">&nbsp;</div>
+<div style="text-align: justify;">&nbsp;</div>
+<div style="text-align: justify;"><strong><i>Conflict of Interest</i></strong></div>
+<div style="text-align: justify;">The journal requires that all authors disclose any potential sources of conflict of interest. Any interest or relationship, financial or otherwise that might be perceived as influencing an author's objectivity is considered a potential source of conflict of interest. These must be disclosed when directly relevant or directly related to the work that the authors describe in their manuscript. Potential sources of conflict of interest include, but are not limited to, patent or stock ownership, membership of a company board of directors, membership of an advisory board or committee for a company, and consultancy for or receipt of speaker's fees from a company. The existence of a conflict of interest does not preclude publication. If the authors have no conflict of interest to declare, they must also state this at submission. It is the responsibility of the corresponding author to review this policy with all authors and collectively to disclose with the submission ALL pertinent commercial and other relationships.</div>
+<div style="text-align: justify;"><strong><i><br>Funding</i></strong></div>
+<div style="text-align: justify;">Authors should list all funding sources in the Acknowledgments section. Authors are responsible for the accuracy of their funder designation. If in doubt, please check the <a href="https://www.crossref.org/services/funder-registry/">Open Funder Registry</a> for the correct nomenclature.</div>
+<div style="text-align: justify;"><strong><i><br>Authorship</i></strong></div>
+<div style="text-align: justify;">The list of authors should accurately illustrate who contributed to the work and how. All those listed as authors should qualify for authorship according to the following criteria:</div>
+<div style="text-align: justify;">
+<ol start="1" type="1">
+<li class="MsoNormal" style="color: #1c1d1e; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; mso-list: l2 level1 lfo2; tab-stops: list 36.0pt; background: white;">Have made substantial contributions to conception and design, or acquisition of data, or analysis and interpretation of data;</li>
+<li class="MsoNormal" style="color: #1c1d1e; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; mso-list: l2 level1 lfo2; tab-stops: list 36.0pt; background: white;">Been involved in drafting the manuscript or revising it critically for important intellectual content;</li>
+<li class="MsoNormal" style="color: #1c1d1e; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; mso-list: l2 level1 lfo2; tab-stops: list 36.0pt; background: white;">Given final approval of the version to be published. Each author should have participated sufficiently in the work to take public responsibility for appropriate portions of the content; and</li>
+<li class="MsoNormal" style="color: #1c1d1e; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; mso-list: l2 level1 lfo2; tab-stops: list 36.0pt; background: white;">Agreed to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.</li>
+</ol>
+</div>
+<div style="text-align: justify;">Contributions from anyone who does not meet the criteria for authorship should be listed, with permission from the contributor, in an Acknowledgments section (for example, to recognize contributions from people who provided technical help, collation of data, writing assistance, acquisition of funding, or a department chairperson who provided general support). Prior to submitting the article all authors should agree on the order in which their names will be listed in the manuscript.<br>
+<p style="line-height:150%">In the case of joint first or senior authorship, a footnote should be added to the author listing, e.g. ‘X and Y should be considered joint first author’ or ‘X and Y should be considered joint senior author.’</p>
+</div>
+<div style="text-align: justify;"><strong><i><br>Author Name Change Policy<br></i></strong>In cases where authors wish to change their name following publication, Wiley will update and republish the paper and redeliver the updated metadata to indexing services. Our editorial and production teams will use discretion in recognizing that name changes may be of a sensitive and private nature for various reasons including (but not limited to) alignment with gender identity, or as a result of marriage, divorce, or religious conversion. Accordingly, to protect the author’s privacy, we will not publish a correction notice to the paper, and we will not notify co-authors of the change. Authors should contact the journal’s Editorial Office with their name change request.</div>
+<div style="text-align: justify;"><strong><i><br>Correction to authorship<br></i></strong>In accordance with Wiley’s <a href="https://authorservices.wiley.com/ethics-guidelines/index.html#5">Best Practice Guidelines on Research Integrity and Publishing Ethics</a> and the <a href="https://publicationethics.org/authorship">Committee on Publication Ethics</a>’ guidance, <em>InfoMat</em> will allow authors to correct authorship on a submitted, accepted, or published article if a valid reason exists to do so. All authors – including those to be added or removed – must agree to any proposed change. To request a change to the author list, please complete the <a href="https://authorservices.wiley.com/asset/Authorship-change-form_AS.pdf">Request for Changes to a Journal Article Author List Form</a> and contact either the journal’s editorial or production office, depending on the status of the article. Authorship changes will not be considered without a fully completed Author Change form. [Correcting the authorship is different from changing an author’s name; the relevant policy for that can be found in <a href="https://authorservices.wiley.com/ethics-guidelines/index.html#5">Wiley’s Best Practice Guidelines</a> under “Author name changes after publication.”]<strong><i><br><br>ORCID<br></i></strong>As part of our commitment to supporting authors at every step of the publishing process, <i>InfoMat </i>encourages the submitting author (only) to provide an ORCID iD when submitting a manuscript. This takes around 2 minutes to complete.&nbsp;<span style="text-decoration: underline;"><a href="http://olabout.wiley.com/WileyCDA/Section/id-828034.html" target="_blank" rel="noopener"><span style="color: #005274;">Find more information</span></a></span>.</div>
+<div style="text-align: justify;"><strong><i><br>Guidelines on Publishing and Research Ethics in Journal Articles<br></i></strong>The journal is committed to high standards for professional conduct and ethical behavior in all published material. The <a href="https://onlinelibrary.wiley.com/page/journal/25673165/homepage/publication-ethics-guidelines">Publishing Ethics Guidelines</a> details the journal's position as a scientific publisher. <br><br>The journal requires that you include in the manuscript details IRB approvals, ethical treatment of human and animal research participants, and gathering of informed consent, as appropriate. You will be expected to declare all conflicts of interest, or none, on submission. Please review Wiley’s policies surrounding <a href="https://authorservices.wiley.com/ethics-guidelines/index.html#18">human studies, animal studies, clinical trial registration, biosecurity, and research reporting guidelines</a>.</div>
+<div style="text-align: justify;">
+<p style="line-height:150%">As the member of the <a href="http://publicationethics.org/">Committee on Publication Ethics (COPE)</a> the journal follows its core practices and handles cases of research and publication misconduct accordingly (<a href="https://publicationethics.org/core-practices">https://publicationethics.org/core-practices</a>).</p>
+<p style="line-height:150%">This journal uses iThenticate’s CrossCheck software to detect instances of overlapping and similar text in submitted manuscripts. Read our <a href="https://authorservices.wiley.com/author-resources/Journal-Authors/Prepare/publishing-ethics.html">Wiley’s Top 10 Publishing Ethics Tips for Authors</a> and <a href="https://authorservices.wiley.com/ethics-guidelines/index.html">Wiley’s Publication Ethics Guidelines</a> here.</p>
+</div>
+<div style="margin: 0in; text-align: justify;"><strong><i><br>Data Protection<br></i></strong>
+<p style="line-height:150%">By submitting a manuscript to or reviewing for this publication, your name, email address, and affiliation, and other contact details the publication might require, will be used for the regular operations of the publication. Please review <a href="https://authorservices.wiley.com/statements/data-protection-policy.html">Wiley’s Data Protection Policy</a> to learn more.<br><br><br><br></p>
+</div>
+<h4 style="text-align: justify;"><a id="a6"></a><br>7. AUTHOR LICENSING</h4>
+<div style="text-align: justify;">All articles published by <em>InfoMat</em> are fully open access where they are immediately freely available to read, download and share. To cover the cost of publishing, <em>InfoMat</em> charges a publication fee when a submission is accepted for publication. There is no fee for initial submission for editorial/peer-review evaluation. <strong>Accepted papers will be published under CC BY - Creative Commons Attribution License</strong>. With Creative Commons licenses, the author retains copyright and the public is allowed to reuse the content. The author grants Wiley a license to publish the article and to identify as the original publisher. All authors will be directed to the Creative Commons Attribution license (CC BY) in accordance with funder mandates effective on 1 April 2013.<br><br></div>
+<div style="text-align: justify;">If your paper is accepted, the author identified as the formal corresponding author will receive an email prompting them to login into Author Services; where via the Wiley Author Licensing Service (WALS) they will be able to complete the license agreement on behalf of all authors on the paper.<br><br></div>
+<div style="text-align: justify;">To learn more about Creative Commons Licenses and to preview terms and conditions of the agreements, please&nbsp;<span style="text-decoration: underline;"><a href="http://www.wileyauthors.com/OAA" target="_blank" rel="noopener"><span style="color: #005274;">click here</span></a></span>. Note that certain funders mandate that a particular type of CC license has to be used; to check this, please&nbsp;<span style="text-decoration: underline;"><a href="http://www.wileyauthors.com/compliancetool" target="_blank" rel="noopener"><span style="color: #005274;">click here</span></a></span>.</div>
+<div style="text-align: justify;"><strong><br>Open Access fees:</strong> The Article Publication Charge (APC) is collected from July 26 2022 onwards. Agreement to pay the APC is given at manuscript submission, but will only be charged upon acceptance. For more information on this journal’s APCs, please see the <a href="https://onlinelibrary.wiley.com/page/journal/25673165/homepage/open-access?" target="_blank" rel="noopener">Open Access page</a>.</div>
+<div id="ppaa" style="text-align: justify;"><strong>&nbsp;<br><br></strong></div>
+<h4 style="text-align: justify;"><a id="a7"></a><br>8. PUBLICATION PROCESS AFTER ACCEPTANCE</h4>
+<div style="text-align: justify;"><strong> Please kindly note that substantial changes to the manuscript after acceptance may require a re-evaluation by peer reviewers. If you have any questions or updates after your manuscript’s acceptance, please contact the editorial office at your earliest convenience. </strong></div>
+<div style="text-align: justify;"><br><strong>First Look</strong><br>After your paper is accepted, your files will be assessed by the editorial office to ensure they are ready for production. You may be contacted if any updates or final files are required. Otherwise, your paper will be sent to the production team.<br><br><strong>Wiley Author Services</strong><br>When an accepted article is received by Wiley’s production team, the corresponding author will receive an email asking to login or register with <a href="http://www.wileyauthors.com/">Wiley Author Services</a>. You will be asked to sign a publication license at this point as well as pay for any applicable APCs.<br><br></div>
+<div style="text-align: justify;"><strong>Proofs<br></strong>Authors will receive an e-mail notification with a link and instructions for accessing HTML page proofs online/with their proofs included as a pdf. Authors should also make sure that any renumbered tables, figures, or references match text citations and that figure legends correspond with text citations and actual figures. Proofs must be returned within 48 hours of receipt of the email.</div>
+<div style="text-align: justify;"><br>Please note that you are responsible for all statements made in your work, including changes made during the editorial process and thus you must check your proofs carefully. <br><br></div>
+<div style="text-align: justify;"><strong>Early View</strong></div>
+<div style="text-align: justify;">The journal offers rapid publication via Wiley’s Early View service.&nbsp;<span style="text-decoration: underline;"><a href="http://olabout.wiley.com/WileyCDA/Section/id-404512.html#ev" target="_blank" rel="noopener"><span style="color: #005274;">Early View</span></a></span> (Online Version of Record) articles are published on Wiley Online Library before inclusion in an issue. Note there may be a delay after corrections are received before your article appears online, as Editors also need to review proofs. Once your article is published on Early View no further changes to your article are possible. Your Early View article is fully citable and carries an online publication date and DOI for citations.<br><br></div>
+<div style="text-align: justify;"><strong>Additional Guidelines for Cover Pictures, Visual Abstracts, Frontispieces and Table of Contents Graphics</strong></div>
+<div style="text-align: justify;">
+<ol>
+<li>Concepts illustrated in graphical material must clearly fit with the research discussed in the accompanying text.</li>
+<li>Images featuring depictions or representations of people must not contain any form of objectification, sexualization, stereotyping, or discrimination. We also ask authors to consider community diversity in images containing multiple depictions or representations of people.</li>
+<li>Inappropriate use, representation, or depiction of religious figures or imagery, and iconography should be avoided.</li>
+<li>Use of elements of mythology, legends, and folklore might be acceptable and will be decided on a case-by-case basis. However, these images must comply with the guidelines on human participants when they are present.</li>
+<li>Generally, authors should consider any sensitivities when using images of objects that might have cultural significance or may be inappropriate in the context (for example, religious texts, historical events, and depictions of people).</li>
+<li>Legal requirements: All necessary copyright permission for the reproduction of the graphical elements used in visuals must be obtained prior to publication. Clearance must be obtained from identifiable people before using their image on the cover or the like and such clearance must specify that it will be used on the cover. Use within text does not require such clearance unless it discloses sensitive personal information such as medical information. In all situations involving disclosure of such personal info, specific permission must be obtained. And images of individuals should not be used in a false manner.</li>
+</ol>
+</div>
+<div style="text-align: justify;"><strong>Graphics that do not adhere to these guidelines will be recommended for revision or will not be accepted for publication.</strong></div>
+<div id="pp" style="text-align: justify;"><br><br></div>
+<h4 style="text-align: justify;"><a id="a8"></a><br>9. POST PUBLICATION</h4>
+<div style="text-align: justify;"><strong>Access and sharing</strong></div>
+<div style="text-align: justify;">Please review Wiley’s guidelines on sharing your research&nbsp;<a href="https://authorservices.wiley.com/author-resources/Journal-Authors/Promotion/sharing-your-research.html">here</a>. The submitted version of the manuscript, the accepted version, and the published version (Version of Record)&nbsp;can all be deposited on an institutional or other repository of the author's choice without embargo.&nbsp;<br><br>When your article is published online:</div>
+<div style="text-align: justify;">
+<ul>
+<li>The author receives an email alert (if requested).</li>
+<li>The link to the published article can be shared through social media.</li>
+<li>The author will have free access to the paper (after accepting the Terms &amp; Conditions of use, they can view the article).</li>
+</ul>
+</div>
+<div style="text-align: justify;"><strong><i>Now is the time to start promoting your article. Find out how to do that&nbsp;</i></strong><strong><i><span style="text-decoration: underline;"><a href="http://www.wileyauthors.com/maximize" target="_blank" rel="noopener"><span style="color: #005274;">here</span></a></span></i></strong></div>
+<div style="text-align: justify;"><strong><br>Article Promotion Support </strong></div>
+<div style="text-align: justify;"><a href="https://wileyeditingservices.com/en/article-promotion/?utm_source=wol&amp;utm_medium=backlink&amp;utm_term=ag&amp;utm_content=promo&amp;utm_campaign=prodops">Wiley Editing Services </a>offers professional video, design, and writing services to create shareable video abstracts, infographics, conference posters, lay summaries, and research news stories for your research – so you can help your research get the attention it deserves.</div>
+<div id="eocd" style="text-align: justify;"><strong>&nbsp;<br><br></strong></div>
+<h4 style="text-align: justify;"><a id="a9"></a><br>10. EDITORIAL OFFICE CONTACT DETAILS</h4>
+<div style="text-align: justify;"><i>InfoMat </i>Editorial Office</div>
+<div style="text-align: justify;">Email:&nbsp;editorial@info-mat.org</div>
+<div style="text-align: justify;">University of Electronic Science and Technology of China (UESTC)<br>No. 4, Sec. 2, North Jianshe Road, Chengdu 610054, China.</div>
+</div>
+                    
+
+                    <br><br>
+                        <script>
+                            #title_text.html('Guidelines for authors');
+                        
+                        </script>
+
+                    <div class="text-right">
+                        Pubdate: <span id = "pubDate"></span> &nbsp;&nbsp;&nbsp;
+                        Viewed: <span id ="contentPv" > </span>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <!--右侧-->
+        <!-- 右侧内容区域 -->
+ <!-- 加载Home页信息 -->
+<div class="col-md-4">
+
+
+
+
+<!--
+-->
+
+
+    <!-- 最新期刊区域 -->
+    <aside class="aside">
+        <div class="column">
+            <span>Latest issue</span>
+        </div>
+        <!-- 期刊封面图片处理 -->
+                <div class="cover-con">
+            <div class="cover" id="journal_cover_img" style="display:none;">
+                <!-- 修复封面图片路径并添加点击跳转 -->
+                <img src="https://journal.hep.com.cn/infomat/EN/file/pic?fileId=x5gGOXEXepZD5Y+yjOgqjQ=="
+                     class="img-responsive center-block"
+                     alt="Journal cover"
+                     onclick="window.location.href='https://journal.hep.com.cn/infomat/EN/current'"
+                     style="cursor: pointer;">
+                <!-- 下载封面按钮
+                <span>
+                    <a href="https://academic.hep.com.cn//fileup/2095-1701/COVER/fm_download_20230829131052.pdf" title="Download cover">
+                        <svg class="icon-svg" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" width="30" height="30">
+                            <path d="M917.63 602v160a20 20 0 0 1-20 20H154.72a20 20 0 0 1-20-20V602H63.89v160a80 80 0 0 0 98 98h728.53a80 80 0 0 0 98-98V602z"></path>
+                            <path d="M791.62 470.94l-60-60-169.48 179.48V98.44h-90.8v492.07L296.29 431.03l-60 60L524 738.57l267.62-267.63z"></path>
+                        </svg>
+                    </a>
+                </span>
+                 -->
+            </div>
+            <!-- 期刊信息与日期处理 -->
+            <div class="nian-juan-qi">
+                <span id="chubanruqiyue1">2026-06-20</span>
+                2026, 
+                Volume 8                 Issue 6            </div>
+            <script>
+                // 优化日期格式转换
+                $(document).ready(function() {
+                    var dateElement = $('#chubanruqiyue1');
+                    var dateStr = dateElement.html().trim();
+
+                    if (dateStr) {
+                        var dateParts = dateStr.split('-');
+                        if (dateParts.length === 3) {
+                            var monthNum = parseInt(dateParts[1], 10);
+                            var monthNames = {
+                                1: "Jan", 2: "Feb", 3: "Mar", 4: "Apr", 5: "May", 6: "Jun",
+                                7: "Jul", 8: "Aug", 9: "Sept", 10: "Oct", 11: "Nov", 12: "Dec"
+                            };
+                            var englishMonth = monthNames[monthNum] || dateParts[1];
+                            dateElement.html(englishMonth);
+                        }
+                    }
+                });
+            </script>
+            <div class="cover-view">
+                <a href="https://journal.hep.com.cn/infomat/EN/archive_by_issues">View all volumes and issues</a>
+            </div>
+
+            <!-- 封面插图弹窗 -->
+            <div class="modal fade" id="myModal_new" tabindex="-1" role="dialog" aria-labelledby="myModalLabel_new" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                            <h4 class="modal-title" id="myModalLabel">Cover illustration</h4>
+                        </div>
+                        <div class="modal-body text-justify">
+                            <br>
+                            
+                            <br>
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </aside>
+
+    <!-- 投稿按钮 -->
+    <aside class="aside">
+        <div class="submit-manuscript">
+            <a href="https://mc.manuscriptcentral.com/infomat" target="_blank">Submit manuscript</a>
+        </div>
+        
+        
+        
+    </aside>
+
+    <!-- 标签页内容 -->
+    <ul id="myTabs" class="nav-list nav nav-tabs" role="tablist">
+        <li role="presentation" class="active">
+            <a href="#latest" id="latest-tab" role="tab" data-toggle="tab" aria-controls="latest" aria-expanded="true">Latest articles</a>
+        </li>
+        <li role="presentation">
+            <a href="#accesses" role="tab" id="accessese-tab" data-toggle="tab" aria-controls="accesses" aria-expanded="false">Most accessed</a>
+        </li>
+        <li role="presentation">
+            <a href="#collections" role="tab" id="collections-tab" data-toggle="tab" aria-controls="collections" aria-expanded="false">Collections</a>
+        </li>
+    </ul>
+
+    <div id="myTabContent" class="tab-content aside-tab-content">
+        <!-- 最新文章 -->
+        <div role="tabpanel" class="tab-pane fade active in" id="latest" aria-labelledby="latest-tab">
+            <ul class="journal-list" id="lastest_article_list_container">
+                <li id="lastest_article_detail_tmp">
+                    <div class="title">
+                            <a class="article_detail_title" href="https://journal.hep.com.cn/infomat/EN/" target="_blank"></a>
+                       
+                    </div>
+                    <div class="author article_detail_author"></div>
+                    <div class="j-doi">
+                        <a class="article_detail_doi" href="https://doi.org/">https://doi.org/</a>
+                    </div>
+                </li>
+            </ul>
+            <div class="view-all">
+                <a href="https://journal.hep.com.cn/infomat/EN/latest">
+                    View all articles
+                    <i class="fa fa-angle-right" aria-hidden="true"></i>
+                </a>
+            </div>
+        </div>
+
+        <!-- 阅读排行 -->
+        <div role="tabpanel" class="tab-pane fade" id="accesses" aria-labelledby="accesses-tab">
+            <ul class="journal-list" id="most_read_article_list_container">
+                <li id="most_read_article_detail_tmp">
+                    <div class="title">
+                        <a class="article_detail_title" href="https://journal.hep.com.cn/infomat/EN/" target="_blank"></a>
+                    </div>
+                    <div class="author article_detail_author"></div>
+                    <div class="j-doi">
+                        <a class="article_detail_doi" href="https://doi.org/">https://doi.org/</a>
+                    </div>
+                </li>
+            </ul>
+            <div class="view-all">
+                <a href="https://journal.hep.com.cn/infomat/EN/topaccess">
+                    View all articles
+                    <i class="fa fa-angle-right" aria-hidden="true"></i>
+                </a>
+            </div>
+        </div>
+
+        <!-- 专题（限制最多显示5条） -->
+        <div role="tabpanel" class="tab-pane fade" id="collections" aria-labelledby="collections-tab">
+            <div class="view-all">
+                <a href="https://journal.hep.com.cn/infomat/EN/collections">
+                    View all collections
+                    <i class="fa fa-angle-right" aria-hidden="true"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- 侧边按钮组 -->
+    <div class="aside-btn btn-subscription">
+        <a href="https://journal.hep.com.cn/infomat/EN/subscription"><i class="fa fa-book" aria-hidden="true"></i>Subscription</a>
+    </div>
+    <div class="aside-btn">
+        <a href="https://journal.hep.com.cn/infomat/EN/emailAlert"><i class="fa fa-envelope" aria-hidden="true"></i>E-mail alert</a>
+    </div>
+    <div class="aside-btn">
+        <a href="https://journal.hep.com.cn/infomat/EN/rss"><i class="fa fa-feed" aria-hidden="true"></i>Subscribe to our RSS content</a>
+    </div>
+
+    <aside class="aside" style="margin-top:25px;">
+        <div class="column">
+            <span>Journal updates</span>
+            <a href="https://journal.hep.com.cn/infomat/EN/CMS/news" class="more">More</a>
+        </div>
+        <ul class="news-list">
+
+
+            <li>
+                <a href="
+                                            https://journal.hep.com.cn/infomat/EN/CMS/news/1161603514659770730
+" class="news-title">
+                    Journal updates
+                </a>
+                <div class="news-date">
+                    2024-07-09
+                </div>
+            </li>
+        </ul>
+    </aside>
+
+    <!-- 链接（限制最多3条） -->
+    <aside class="aside">
+        <div class="column">
+            <span>Links</span>
+        </div>
+         <!-- 加载链接信息 -->
+        <ul class="news-list">
+            <li>
+                <a href="" class="news-title" target="_blank">
+                Links
+                </a>
+            </li>
+        </ul>
+    </aside>
+
+    <!-- ISSN信息 -->
+    <aside class="aside issn-no">
+        <div class="issn-cn">
+
+
+        
+            
+                <a href="https://onlinelibrary.wiley.com/journal/25673165">
+                 <img src="https://journal.hep.com.cn/infomat/EN/file/pic?fileId=VEST59wHcTLCdA9VCpAr2w==" class="img-responsive center-block" />
+                </a>
+                <br/>
+            
+            
+            
+            
+            ISSN 2567-3165 (Print) <br> 
+            ISSN 2567-3165 (Online) <br> 
+            CN 511799/TB<br>
+        </div>
+    </aside>
+</div>
+<script>
+    async function downloadFile(url, fileId) {
+        try {
+            // 显示加载状态
+            const link = event.currentTarget;
+            const originalText = link.innerHTML;
+            link.innerHTML = '<i class="fa fa-spinner fa-spin"></i> Downloading...';
+
+            // 正确构建查询参数
+            const params = new URLSearchParams();
+            params.append('fileId', fileId);
+            params.append('fileType', 'png'); // 不包含点号，根据后端需求调整
+
+            // 发送fetch请求
+            const response = await fetch(`${url}?${params}`, {
+                method: 'GET',
+                credentials: 'same-origin'
+            });
+
+            // 检查响应状态
+            if (!response.ok) {
+                throw new Error(`下载失败: HTTP状态码 ${response.status}`);
+            }
+
+            // 检查响应类型
+            const contentType = response.headers.get('Content-Type');
+            console.log('Content-Type:', contentType);
+
+            // 如果返回的是HTML而不是图片，可能有问题
+            if (contentType && contentType.includes('text/html')) {
+                const text = await response.text();
+                console.warn('下载的内容似乎是HTML，而不是图片:', text.substring(0, 200));
+                throw new Error('服务器返回了HTML内容，而不是图片');
+            }
+
+            // 强制使用固定文件名：cover.png
+            const fileName = 'cover.png';
+
+            // 创建下载链接
+            const blob = await response.blob();
+            const downloadUrl = URL.createObjectURL(blob);
+
+            // 触发下载
+            const a = document.createElement('a');
+            a.href = downloadUrl;
+            a.download = fileName;
+            document.body.appendChild(a);
+            a.click();
+
+            // 清理资源
+            setTimeout(() => {
+                document.body.removeChild(a);
+                URL.revokeObjectURL(downloadUrl);
+                link.innerHTML = originalText;
+            }, 100);
+
+        } catch (error) {
+            console.error('下载异常:', error);
+            alert('下载失败: ' + error.message);
+            event.currentTarget.innerHTML = originalText;
+        }
+    }
+    $(function() {
+        getHotArticleList();
+        getLatestArticleList();
+    })
+
+    function getLatestArticleList() {
+        var latest_article_list_container = $("#lastest_article_list_container");
+        var latest_article_detail_tmp = $("#lastest_article_detail_tmp").clone();
+        latest_article_list_container.empty();
+
+        var url = "https://journal.hep.com.cn/infomat/EN/api/site/data/article/simple/latestArticleList?pageNum=1&pageSize=5";
+        $.ajax({
+            url: url,
+            type: 'GET',
+            dataType: 'json',
+            success: function(res) {
+                if(res.code==200 && res.data.list!=null) {
+                    for(var article of res.data.list) {
+                        var article_detail_div = latest_article_detail_tmp.clone();
+                        article_detail_div.appendTo(latest_article_list_container);
+                        renderArticleDetail(article_detail_div, article.id);
+                    }
+                }
+            },
+
+            error: function() {}
+        });
+
+    }
+
+
+
+    function getHotArticleList(){
+        //most_read_article_list_container
+        var most_read_article_list_container = $("#most_read_article_list_container");
+        var most_read_article_detail_tmp = $("#most_read_article_detail_tmp").clone();
+        most_read_article_list_container.empty();
+        var url = "https://journal.hep.com.cn/infomat/EN/api/site/data/article/hotArticleList?pageNum=1&pageSize=5";
+        $.ajax({
+            url: url,
+            type: 'GET',
+            dataType: 'json',
+            success: function(res) {
+                if(res.code!=200 || res.data.visitTopNList==null) {
+                    return;
+                }
+                for(var article of res.data.visitTopNList) {
+                    var article_detail_div = most_read_article_detail_tmp.clone();
+                    article_detail_div.appendTo(most_read_article_list_container);
+                    //renderHotArticleDetail(article_detail_div, article.articleDto.id);
+                    renderArticleDetail(article_detail_div, article.articleDto.id);
+                }
+            },
+            error: function(res) {
+
+            }
+
+        });
+    }
+    function renderArticleDetail(articleDiv, articleId) {
+        var url = "https://journal.hep.com.cn/infomat/EN/api/site/data/article/articleInfo?articleId="+articleId;
+        $.ajax({
+            url: url,
+            type: 'GET',
+            dataType: 'json',
+            success: function(res) {
+                if(res.code!=200 || res.data==null){
+                    return;
+                }
+                var articleDetail = res.data;
+                var siteUrl = "https://journal.hep.com.cn/infomat/EN";
+
+                articleDiv.find(".article_detail_title").html(articleDetail.ext['EN'].title);
+                var articleUrl = "https://journal.hep.com.cn/infomat/EN/";
+                if(articleDetail.doi!=null && articleDetail.doi!='') {
+                    articleUrl+=articleDetail.doi;
+                }else {
+                    articleUrl+=articleDetail.id;
+                }
+                console.log("跳url", articleUrl)
+                
+                articleDiv.find(".article_detail_title").attr('href',articleUrl);
+                var authorStr = "";
+                if(articleDetail.authors!= null) {
+                    for(var author of articleDetail.authors) {
+                        if(authorStr!="") {
+                            authorStr=authorStr+",";
+                        }
+                        authorStr=authorStr+author.ext['EN'].stringName;
+                    }
+                }
+                articleDiv.find(".article_detail_author").html(authorStr);
+                articleDiv.find(".article_detail_online_date").text(articleDetail.onlineDateStr);
+                articleDiv.find(".article_detail_doi").text("https://doi.org/"+articleDetail.doi);
+                articleDiv.find(".article_detail_doi").attr('href',"https://doi.org/"+articleDetail.doi);
+                articleDiv.find(".article_detail_start_page").text(articleDetail.startPage);
+                articleDiv.find(".article_detail_pdf").attr("href",siteUrl+'/PDF/'+articleDetail.id);
+                if(articleDetail.ext['EN'].columnName!=null) {
+                    articleDiv.find(".article_detail_column").text(articleDetail.ext['EN'].columnName);
+                }
+                articleDiv.css('display', 'block');
+            },
+            error: function(res) {
+
+            }
+
+        });
+    }
+    
+    $(function() {
+        renderJournalCoverPic();
+    });
+    
+    function renderJournalCoverPic() {
+        var coverImgDom = $("#journal_cover_img");
+        var url = "https://journal.hep.com.cn/infomat/EN/api/site/data/article/issue/issueCoverPic?journalId=&language=EN";
+        $.ajax({
+            url: url,
+            type: 'GET',
+            dataType: 'json',
+            success: function(res) {
+                if(res.code==200 && res.data!=null) {
+                    if(res.data.issueFile!=null && res.data.issueFile!="") {
+                        coverImgDom.find('img').attr("src","https://journal.hep.com.cn/infomat/EN/file/pic?fileId="+res.data.issueFile);
+                    }
+                    coverImgDom.css("display", "block");
+                } else {
+                    coverImgDom.css("display", "block"); 
+                }
+            },
+            error: function(res) {
+                console.log("查询期刊封面图失败:"+JSON.stringify(res));
+            }   
+        });
+     }
+</script>
+<!--右侧end-->
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<nav class="black-bg">
+    <div class="container">
+        <div class="footer-nav-container">
+            <div class="footer-column">
+                <h3>About the journal</h3>
+                <ul style="list-style: none; padding: 0; margin: 0;">
+                            <li><a href="https://journal.hep.com.cn/infomat/EN/aims">Aims & scope</a></li>
+                            <li><a href="https://journal.hep.com.cn/infomat/EN/editorial_board">Editorial board</a></li>
+                            <li><a href="https://journal.hep.com.cn/infomat/EN/contact">Contact us</a></li>
+                </ul>
+            </div>
+            <div class="footer-column">
+                <h3>Articles and content</h3>
+                <ul style="list-style: none; padding: 0; margin: 0;">
+                            <li><a href="https://journal.hep.com.cn/infomat/EN/archive_by_issues">All volumes and issues</a></li>
+                            <li><a href="https://journal.hep.com.cn/hep/EN/collections">Collections</a></li>
+                            <li><a href="https://journal.hep.com.cn/hep/EN/videos">Multimedia collections</a></li>
+                            <li><a href="https://journal.hep.com.cn/infomat/EN/topaccess">Most accessed</a></li>
+                            <li><a href="https://journal.hep.com.cn/infomat/EN/topcited">Most cited</a></li>
+                </ul>
+            </div>
+            <div class="footer-column">
+                <h3>For authors</h3>
+                <ul style="list-style: none; padding: 0; margin: 0;">
+                            <li><a href="https://journal.hep.com.cn/infomat/EN/guidelines">Author guidelines</a></li>
+                            <li><a href="https://mc.manuscriptcentral.com/infomat">Online submission</a></li>
+                            <li><a href="https://journal.hep.com.cn/hep/EN/policy">Editorial policy</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav>
+<footer class="footer">
+    <div class="container">
+        <div class="row footer-cons">
+            <div class="col-md-9">
+                <div class="footer-info">
+                    <p>Copyright © Higher Education Press. Powered by Beijing Magtech Co. Ltd</p>
+                   <p>ICP Filing: <a href="https://beian.miit.gov.cn" target="_blank">京ICP备12020869号-1</a> | <a href="https://beian.miit.gov.cn" target="_blank">京ICP备150856号</a> | 京公网安备11010202008535号 | 网络出版服务许可证网出证(京)字第127号</p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="j-wechat">
+                    <img src="https://jf1.hep.com.cn/static/hep_journal_fase_en/images/WeChat.jpg" class="img-responsive center-block" alt="">
+                </div>
+                <div class="share">
+                    <a href="http://www.facebook.com/share.php?src=bm&amp;u=https://journal.hep.com.cn/infomat/EN"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                    <a href="http://twitter.com/intent/tweet?text=https://journal.hep.com.cn/infomat/EN"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    <a href="javascript:;" class="weixin-a"><i class='fa fa-wechat'></i><div class="weixin_ewm" id="output-wx"></div></a>
+                    <!--动态生成二维码
+                    <script type="text/javascript" src="https://jf1.hep.com.cn/static/hep_journal_fase_en/js/jquery.qrcode.min.js"></script>-->
+<script src="https://jf1.hep.com.cn/static/hep_journal_fase_en/js/jquery.qrcode.min.1.0.0.js"></script>
+                    <script>
+                        jQuery(function(){
+                            jQuery('#output-wx').qrcode({ width: 104, height: 104, text: window.location.href });
+                        })
+                    </script>
+                    <!--动态生成二维码end-->
+                    <a href="#"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-rss" aria-hidden="true"></i></a>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</footer>
+<!--返回顶部-->
+<div class="top_web" id="backtop" style="display: block;"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span></div>
+
+<!--百度统计journal.hep.com.cn-->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?ea40cb7f4a9016844e3b8fa9ea03e8b4";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-40JBR51S7J"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', 'G-40JBR51S7J');
+
+</script>
+
+<!--加载cms内容统计数组件，需提前加载jquery，hep_common_cms_pvstat模版放在高教通用组件模版中-->
+<!-- 需前置加载jquery，需传递域名-domainUrl、内容id-contentId 、显示结果页的dom对象viewId -->
+
+<script>
+
+$(document).ready(function() {
+    
+    if(1160153046674837593){
+        saveClick();
+    }
+    
+});
+
+
+function saveClick() {
+    // 显示加载状态
+
+
+    // 调用后台接口保存点击并获取新数值
+    $.ajax({
+        url: 'https://journal.hep.com.cn/infomat/EN/cms/saveClick',
+        method: 'POST',
+        data: {
+            contentId: '1160153046674837593'
+        },
+        success: function(response) {
+         
+         
+          // 解析JSON响应
+            const result = JSON.parse(response);
+            // 提取pv值并更新显示
+            if (typeof result.pv !== 'undefined') {
+                 $('#contentPv').html(result.pv);
+
+            }
+                 
+        },
+        error: function(xhr) {
+            console.error('保存点击失败', xhr);
+            // 恢复原始文本
+            //alert('点击统计失败，请重试');
+        }
+    });
+}
+</script>
+
+</body>
+
+<script>
+    $(function(){
+        const timestamp = 1720454400000;
+        $("#pubDate").text(formatDate(timestamp));
+    });
+
+    function formatDate(timestamp) {
+        if (!timestamp) return "";
+        var date = new Date(timestamp);
+        var monthListEn = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sept","Oct","Nov","Dec"];
+        var year = date.getFullYear();
+        var month = monthListEn[date.getMonth()];
+        var day = date.getDate();
+        return month+" "+(day < 10 ? '0' + day : day)+", "+year;
+    }
+</script>
+</html>

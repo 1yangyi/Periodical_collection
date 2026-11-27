@@ -1,0 +1,74 @@
+{
+  "journal": {
+    "name": "燕山大学学报",
+    "url": "https://xuebao.ysu.edu.cn/",
+    "journal_id": "",
+    "row": 23,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://xuebao.ysu.edu.cn/",
+  "collected_at": "2026-11-26T20:40:58+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "xuebao.ysu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://xuebao.ysu.edu.cn/",
+      "requested_url": "https://xuebao.ysu.edu.cn/",
+      "title": "导出文件",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:40:58+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://xuebao.ysu.edu.cn/submission-guidelines",
+      "requested_url": "https://xuebao.ysu.edu.cn/submission-guidelines",
+      "title": "投稿须知",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:40:58+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://xuebao.ysu.edu.cn/download-center",
+      "requested_url": "https://xuebao.ysu.edu.cn/download-center",
+      "title": "导出文件",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "visited_at": "2026-11-26T20:40:58+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://xuebao.ysu.edu.cn/",
+      "title": "燕山大学学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,1324 @@
+<!doctype html>
+<html>
+ <head>
+  <link rel="shortcut icon" href="https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/favicon.ico" type="image/x-icon"><meta name = "description" content = "" / >
+  <meta charset="utf-8">
+  <title>山东农业科学</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+  <script src="https://publishmedia.cbpt.cnki.net/portal/minio/webs/agri/template/green_muban4_20251028/base/jquery-3.4.1.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="https://publishmedia.cbpt.cnki.net/portal/minio/webs/agri/template/green_muban4_20251028/base/jquery-migrate-3.1.0.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="https://publishmedia.cbpt.cnki.net/portal/minio/webs/agri/template/green_muban4_20251028/base/base.js" type="text/javascript" charset="utf-8"></script>
+  <link rel="stylesheet" type="text/css" href="https://publishmedia.cbpt.cnki.net/portal/minio/webs/agri/template/green_muban4_20251028/base/base.css">
+  <link rel="stylesheet" type="text/css" href="https://publishmedia.cbpt.cnki.net/portal/minio/webs/agri/template/green_muban4_20251028/base/common.css">
+  <link rel="stylesheet" type="text/css" href="https://publishmedia.cbpt.cnki.net/portal/minio/webs/agri/template/green_muban4_20251028/base/color_green.css"> 
+
+ 
+	
+    <style>
+
+    	* { 
+		    font-family: Verdana, Arial, Microsoft YaHei, PingFang SC, sans-serif; 
+		}
+
+    	/* ================= 账号修改 */
+	.login_zone{position: absolute; top:0;  left: 50%;  margin: 0 0 0 240px; background:linear-gradient(360deg, #010101c7, transparent); border-radius: 0 0 10px 10px ;padding: 0 20px; font-size: 14px; line-height: 28px; z-index: 9999; color: #ccc ; }
+
+	/* .login_zone::before{    content: " "; display: inline-block; position: absolute;top: -11px; left: -39px; width: 28px; height: 15px;border: 11px solid #ffffff00;border-radius: 0 28px 0 0;border-right: 11px solid #ffffff; border-top: 11px solid #ffffff;}
+	.login_zone::after{    content: " "; display: inline-block; position: absolute;top: -11px; right: -39px; width: 28px; height: 15px;border: 11px solid #ffffff00;border-radius: 28px 0 0 0;border-left: 11px solid #ffffff; border-top: 11px solid #ffffff;} */
+
+	.login_zone a{color:#ff9604;margin: 0 5px;}
+	.login_zone a:hover{color:#c37201}
+	.list_star {background: url(img/list_star.png) no-repeat center center;width: 17px; height: 50px;display: inline-block; margin: 0 10px 0 0;float: left; background-size: contain;}
+	.list_star_2 {background: url(img/list_star_2.png) no-repeat center center;width: 17px; height: 50px;display: inline-block; margin: 0 10px 0 0;float: left; background-size: contain;}
+	.list_col{color: #feae4c !important;}
+	/*.col{ color: #666 !important; background: #f5f5f5 !important;}*/
+	.col{  background-size:contain !important; color: #f3bf83 !important;padding: 0 0 0 20px !important;margin: 0 10px 0 10px !important;font-weight: bold;}
+	.col_ed{  background-size:contain !important; color: #f3bf83 !important;padding: 0 0 0 20px !important;margin: 0 10px 0 10px !important;font-weight: bold;}
+	a:hover.col,a:hover.col_ed{color: #e49d4c !important;}
+	.collect { position: absolute; top: 28px; right: 0px;}
+	.collect a{    color: #f3bf83; font-size: 14px;   height: 24px; line-height: 24px;  display: inline-block; background: #ffffff  url(img/list_star.png) no-repeat 5px center ;background-size:20px !important;  border-radius: 5px; border: 1px solid #f3bf83; padding: 0 10px 0 30px; }
+	.collect a.collected{ background: #ffffff  url(img/list_star_2.png) no-repeat 5px center ;}
+	.collect a:hover{ color: #e49d4c; }
+	.fow{}
+	.login_zone a.fowed{ color:#cccccc}
+	.login_zone a:hover.fowed{ color:#999999}
+	.paperNow_tt a.col,.paperNow_tt a.col_ed{ width: 70px;text-align: center; }
+
+	/*AI智能问答*/
+	.x_open{ display: inline-block;position: fixed;  bottom: 200px; right:60px;  background: url(img/x_open2.png); font-size: 16px; width: 70px;height:83px;  background-size: cover;  color: #fff; text-align: center; line-height:126px;border-radius: 12px; z-index: 9999}
+	a:hover.x_open{box-shadow: 8px 8px 1px #30bde242;font-weight: bold; }
+	.x{ position: fixed; top: 0; right: 0; height: 100vh; width: 450px; background: #ffffff;z-index: 9999; border-radius: 15px;display: none;box-shadow: 0  0 10px #ccc; transform: translateX(-10px);}
+	.x_inner{padding: 20px 20px 0 20px;}
+	h4.x_inner_tt{font-size: 24px;font-weight: bold;background: linear-gradient(to right,#e093eb, #d4a3ff, #08feff); background-clip: text; -webkit-text-fill-color: transparent; width:auto; float: left;position: relative;padding: 0 0 0 44px;margin: 0 0 10px 0;}
+	/*
+	.x_inner h4::before{content: " "; background-image: url(img/AI_intro_tt.png); width: 30px;height: 30px;background-size: cover; display: inline-block;position: absolute;top:3px; left: 8px;}
+	*/
+	h4.x_inner_tt::before {content: " "; background-image: url(img/x_open_robot.png); width: 70px; height: 70px; background-size: cover;display: inline-block; position: absolute;top: -11px; left: -39px; transform: rotate(335deg);}
+	.made_intro{display: inline-block;   width: 100px; height: 20px; line-height: 20px;text-align: center;font-size: 15px !important; color: #fff !important; border: 1px solid;border-image: linear-gradient(to right,#e093eb, #d4a3ff, #08feff) 1 ;background: linear-gradient(to right,#e093eb, #d4a3ff, #08feff); background-clip: text; -webkit-text-fill-color: transparent; position: absolute;  top: 3px; right: 26px;}
+	.x_close{ width: 20px; height: 20px; background: url(img/x_close.png) no-repeat; background-size: cover; display: inline-block;   cursor: pointer; float: right; margin: 8px 0 0 0;}
+	.x_main{clear: both;margin: 20px 0 0 0; background: #f5f5f5;border-radius: 10px 10px 0 0; height:calc(100vh - 410px);padding: 100px 20px 20px 20px; position: relative;  }
+	.x_chat, .reg_chat{ overflow-y: scroll;height:100%;}
+	.reg_chat_zone { height:calc(100vh - 80px) }
+	.x_ask{ padding: 10px ; background: #898989; border-radius: 10px; color:#fff;display: inline-block; float: right;clear: both;margin: 0 0 20px 0; line-height: 24px;}
+	.x_answer{ clear: both;padding: 10px ;  background: #e9e8e8;border-radius: 10px; line-height: 24px; margin: 0 0 20px 0;}
+	.x_answer_main{ padding: 0 0 10px 0; }
+	.x_answer_foot{border-top: 1px solid #dbdada; padding: 10px 0 0 0;}
+	.x_answer_foot a{font-size: 12px; color: #a5a5a5;  }
+	.x_answer_foot a:hover{color:#666}
+	a.x_answer_foot_btn_2{float: right;}
+	a.x_answer_foot_btn_1::before{content: ""; width: 14px; height: 14px; background: url(img/x_answer_foot_btn_1.png) no-repeat; background-size: cover; display: inline-block;  margin: 0 5px 0 0;vertical-align: -3px;}
+	a.x_answer_foot_btn_2::before{content: ""; width: 14px; height: 14px; background: url(img/x_answer_foot_btn_2.png) no-repeat; background-size: cover; display: inline-block;   margin: 0 5px 0 0;vertical-align: -3px;}
+	a.x_answer_foot_btn_3::before{content: ""; width: 14px; height: 14px; background: url(img/x_answer_foot_btn_3.png) no-repeat; background-size: cover; display: inline-block;   margin: 0 5px 0 0;vertical-align: -3px;}
+	a.x_answer_foot_btn_4::before{content: ""; width: 14px; height: 14px; background: url(img/x_answer_foot_btn_4.png) no-repeat; background-size: cover; display: inline-block;   margin: 0 5px 0 0;vertical-align: -3px;}
+	.x_clear{font-size: 12px; color: #a5a5a5; margin: 0 0 5px 5px; display: inline-block; }
+	a.x_clear:hover{color:#666}
+	.x_input{background: #f5f5f5;border-radius: 0 0 10px 10px; border-top: 1px solid #ddd; padding:10px 20px;  position: relative;}
+	.x_input textarea{width: 100%;border: none;resize: none; border-radius: 10px; padding: 10px;background: #fff;box-sizing: border-box;min-height:120px;max-height: calc(72vh); font-size: 14px}
+	.intro_tips{padding: 0 20px ;font-size: 12px;}
+	.x_tips{ position: absolute; top:10px; color: #555;}
+	.x_holder {position: absolute; top: 35px; }
+	.x_holder a{  background: #096cbe; color: #fff;   padding: 2px 10px; display: inline-block; border-radius: 5px; margin:2px 5px; width:90px;text-align: center; font-size: 12px;}
+	.x_holder a:hover{background: linear-gradient(to right, #e093eb, #d4a3ff, #08feff);}
+	.x_push{ display: inline-block; background:#ffffffeb  url(img/x_ask.png) no-repeat; width: 36px; height: 36px; background-size: cover; position: absolute; bottom: 20px; right: 30px; cursor: pointer; border-radius: 8px;}     
+	.made_intro_loading{color: #999;  animation: blink 1s infinite;}
+	.x_answer_main_think_title {color: #a5a5a5; margin-bottom: 5px}
+	.x_answer_main_think {border-left: 1px solid #a5a5a5; color: #a5a5a5; padding-left: 10px; line-height: 20px}
+	.x_loading{ position: absolute; top: 10px; left: 50%; transform: translateX(-50%); color:#069ba1; width: 380px; z-index: 9999; text-align: center; padding: 5px 0; background: linear-gradient(to right,#0ffcff00, #0ffcff, #0ffcff00);}
+	.x_stop{ display: inline-block; background:#ffffffeb  url(img/x_stop.png) no-repeat; width: 36px; height: 36px; background-size: cover; position: absolute; bottom: 20px; right: 30px; cursor: pointer; border-radius: 8px;}
+	a.made_intro{background: linear-gradient(to right, #e093eb, #d4a3ff, #08feff) ; color: #ffffff !important;-webkit-text-fill-color:initial}
+	.x_cut{ position: absolute; top: 10px; left: 50%; transform: translateX(-50%); color:#069ba1; width: 300px; z-index: 9999; text-align: center; padding: 5px 0; background:#eef8e8; color: #5cba33; border-radius: 3px; box-shadow: 0 0 10px #ccc; animation: hide 2s forwards;}
+
+	.x_answer ol { list-style: decimal; padding-left: 20px;}
+	.x_answer ol li { list-style: decimal;}
+	.x_answer ul li { list-style: initial;}
+
+
+	.login_zone{z-index:1;    transform: translateX(240px); margin:0;}
+	.searchDiv {z-index: 1;width: 280px;}
+
+	/* ================= 翻译部分 */
+	.x_open2{ display: inline-block;position: fixed;  bottom: 115px; right:60px;  background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_open3.png') !important;  font-size: 16px; width: 70px;height:67px;  background-size: cover;  color: #fff; text-align: center; line-height:106px;border-radius: 12px; background-size: cover !important; z-index: 9999}
+	a:hover.x_open2{box-shadow: 8px 8px 1px #30bde242;font-weight: bold; }
+	.x2 { display: none; position: fixed; bottom: 116px; right: 130px; height: auto; width: 380px; background:#ffffffc7; backdrop-filter: blur(5px); z-index: 9999; border-radius: 15px; box-shadow: 0 0 10px #9a9a9a;transform: translateX(-10px); padding: 20px;}
+	.x2 h4{ font-size: 1.3rem;font-weight: bold; color: #1c66e6; background: linear-gradient(to right, #95b8f0, #ffffff00);-webkit-background-clip: text; -webkit-text-fill-color: transparent; border-bottom: 3px solid #cccccc;margin: 0 0 20px 0; border-image: linear-gradient(to right, #95b8f0, #ffffff00 60%) 1; width: 50%;}
+	.form-group { margin-bottom: 20px; overflow: hidden; display: flex; align-items: center;}
+	.form-group label { display: block;width: 100px;font-weight: bold;color: #333;}
+	.btn-group { display: flex; gap: 8px;flex-wrap: wrap;}
+	.btn-check{ opacity: 0;width: 0;height: 0;}
+	.btn-group{ display:flex; gap:8px; flex-wrap:wrap; }
+	.btn{align-items: center; justify-content: center; padding: 5px 20px;border: 1px solid #aed0f7; border-radius: 5px; background: #fff; color: #aed0f7 !important; cursor: pointer; user-select: none;transition: background .2s, color .2s, border-color .2s, box-shadow .2s; width: auto !important; font-size: 0.9rem; font-weight: 400 !important; font-size: 12px}
+	.btn:hover{ background:#f9fafb; }
+	.btn-check:checked + .btn { background: #5093dc;color: #ffffff !important; border-color: #267ad6; box-shadow: 0 0 0 2px rgb(70 144 229 / 20%);}
+	.hotkey-item { display: inline-flex; align-items: center;margin: 5px 10px;gap: 8px; }
+	.hotkey-input { width: 40px !important; height: 40px;font-family: monospace; font-size: 16px;font-weight: bold;text-align: center; color: #5093dc !important;background: #fff;border: 2px solid #ccc; border-radius: 6px; box-shadow: 0 2px 3px rgba(0,0,0,0.1); transition: all 0.2s;}
+	.hotkey-input:hover {border-color: #cccccc;box-shadow: 0 0 0 2px rgba(70,70,70,.2);}
+	.hotkey-input:focus { outline: none;border-color: #cccccc; box-shadow: 0 0 0 2px rgba(70,70,70,.2);}
+	.hotkey-label {font-size: 14px;color: #666;}
+	.color-picker{width: 80px !important; height: 36px; border-radius: 5px; border: 1px solid #d4d4d4; padding: 3px; background: #ffffffa6; margin: 0 10px 0 0;cursor: pointer;}
+	.color-picker-name{width: 80px !important; height: 28px; border-radius: 5px; border: 1px solid #d4d4d4; padding: 3px;  background: #ffffffa6; font-size: 12px}
+	.submit-btn { display: block; width: 80%; padding: 10px; background: linear-gradient(to bottom, #a2c8f3, #4189d7); color: #fff; border: none; border-radius: 4px; font-size: 1rem; cursor: pointer; margin: 20px auto 0 auto;text-align: center; font-size: 12px}
+	.translate-tip {margin-top: 5px; width: 100%; text-align: center; display: inline-block; color: #666;}
+
+	@media (max-width: 800px) {
+	    .x2{   width: 80%; background: #ffffffcc;z-index: 9999; border-radius: 15px;display: none;  position: fixed; bottom: 200px; left: 50%; transform: translateX(-50%);}
+	    .x_open2{ display:none; }
+	}
+
+	a.x_answer_foot_btn_5::before { content: "";width: 14px;height: 14px;background: url(img/x_answer_foot_btn_5.png) no-repeat;background-size: cover;display: inline-block;margin: 0 5px 0 0;vertical-align: -3px;}
+
+	a.x_answer_foot_btn_5 {float: right; margin-right: 10px}
+	.trace{position: fixed;right: 0; height: 100vh; width: 400px; background: #ffffffd4; backdrop-filter: blur(5px); z-index: 10002; border-radius: 15px; box-shadow: 0 0 10px #ccc;transform: translateX(-10px);padding: 0 20px;display: none;}
+	.trace h3{font-size: 18px;margin: 0 0 20px 0;color:#333; margin: 20px 0}
+	.trace_item{ background:#f1f1f1;border-radius: 5px; margin: 0 0 30px 0;padding: 10px;box-shadow: 0 0 5px #cccccc;}
+	.trace_tt{ border-bottom: 1px solid #eee;font-size: 14px; line-height: 24px;color: #666;padding: 5px 0;}
+	.trace_journal{ display: inline-block;font-weight: bold; color: #333;}
+	a:hover.trace_journal{color: #1867a7;}
+	.trace_tt b{color:#e59538;}
+	.trace_item span{margin: 10px 0;font-size: 14px;display: block;background: #ffffff; border-radius: 5px;color: #333333;}
+	.trace_item span em{font-style: normal;}
+	.trace_close{width: 20px; height: 20px;background: url(img/x_close.png) no-repeat; background-size: cover; display: inline-block; cursor: pointer;float: right; margin: 8px 0 0 0;}
+	.trace{position: fixed;top: 50%;right: 0; height: 95vh; width: 400px; background: #ffffffd4; backdrop-filter: blur(5px); z-index: 10002; border-radius: 5px; box-shadow: 0 0 10px #ccc;transform: translateY(-50%);padding: 20px;display: none;}
+	.trace h3{font-size: 18px;margin: 0 0 20px 0;color:#333;}
+	.trace_item{ background:#f1f1f1;border-radius: 5px; margin: 0 0 30px 0;padding: 10px;box-shadow: 0 0 5px #cccccc;}
+	.trace_tt{ border-bottom: 1px solid #eee;font-size: 14px; line-height: 24px;color: #666;padding: 5px 0;}
+	.trace_journal{ display: inline-block;font-weight: bold; color: #333;}
+	a:hover.trace_journal{color: #1867a7;}
+	.trace_tt b{color:#e59538;}
+	.trace_main{margin: 10px 0;font-size: 14px;background: #ffffff; border-radius: 5px;padding: 0 5px;color: #333333; padding: 5px; }
+
+	.trace_close{width: 20px; height: 20px;background: url(img/x_close.png) no-repeat; background-size: cover; display: inline-block; cursor: pointer;float: right; margin: 8px 0 0 0;}
+	.trace_main span.clamp-2 {display: -webkit-box;-webkit-line-clamp: 2;     -webkit-box-orient: vertical;overflow: hidden;}
+	.trace_main span.expanded {display: block;-webkit-line-clamp: unset;-webkit-box-orient: unset; overflow: visible;}
+	.trace-toggle {display: block; margin: 5px 5px 0 0;font-size: 12px;color: #999;cursor: pointer; user-select: none; text-decoration: none;text-align: right;}
+	.reg_empty_zone { text-align: center;width: 100%;display: block;font-size: 16px;color: #666;margin-top: 60px; }
+
+
+	@media (max-width: 800px) {
+	    .x, .trace{ position: fixed; top: 0; right: 0; height: 100vh; width: 100%; background: #ffffffcc;z-index: 9999; border-radius: 15px;display: none;box-shadow: none; transform: translateX(0px);}
+	    .trace { margin: 0px; width:auto; padding: 20px}
+	    .x_open{opacity: 0.8;right: 10px; z-index: 9999;}
+	    .x_inner h4{padding: 0 0 10px 44px;}
+	    .x_holder{ left: 0; text-align: center;}
+	    .x_holder a { width: 90px; padding: 2px; margin: 2px;}
+	    .made_intro{  width: 60px; right: 15px;}
+	    .login_zone {position: absolute;top: 0; right: 0;background: linear-gradient(270deg, #010101c7, transparent) !important;border-radius: 0;left: initial !important;margin: 0 !important;border-radius: 0 !important; transform: translateX(0px) !important;}
+
+	    .trace_main a, .x_answer_foot a, .trace_tt a { -webkit-tap-highlight-color: transparent; }
+	}
+
+    	
+    	/* 检索区域 */
+		.findZone{margin: 0 0 30px 0;position: relative; box-shadow: 0px 0px 10px #cacaca; border-radius: 3px; overflow: hidden;}
+		.findZone_tt{margin: 0;overflow: hidden;background: #ffffff;line-height: 40px;position: relative; display: flex;}
+		.findZone_tt span{background:#a67308;mask-image: url(img/find.png); mask-size: 70%;mask-repeat: no-repeat;mask-position: center center;background-size: 24px;display: block;height:40px; width: 40px;}
+		.findZone_tt h3 { color: #333;font-size: 16px; }
+		.findZone_main{ padding:15px;text-align: center; }
+		.findZone_main a{box-sizing: border-box;display: inline-block;height: 33px;line-height: 33px;padding: 0 10px;border-radius: 3px; margin: 0 5px;}
+		.find_text{box-sizing: border-box;  height: 33px;line-height: 33px;  border-radius: 3px;border: 1px solid #ccc;padding: 0 3px; color: #333; display: block;width: 90%; margin: 0 auto 10px auto; font-size: 14px;}
+		input:focus.find_text{ border: 1px solid #ddd; box-shadow: 0 0 5px #cacaca;}
+		.find_btn{ background: #a67308;color: #ffffff;}
+		.find_adv{background: #ffffff;color: #900;border: 1px solid #900;}
+		@media (max-width: 800px){
+		.findZone{width: 90%;margin: 0 auto 30px auto; }
+		}
+		.findZone_tt span{ mask-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/find.png');}
+
+
+		/* 飘窗 */
+		.drift{margin: 0;left: 0;top: 0;width: 30%; max-width: 30%; border-radius: 8px;box-shadow: 0 0 3px #ccc;backdrop-filter: blur(5px);position: fixed;z-index: 9999; background: #ffffff8f; padding: 5px;}
+		.drift::before{content: ""; position: absolute; top:0; left:0;  width: 44px; height: 44px;background:#ffffff url(img/drift.png) center center no-repeat; background-size:80%;border-radius: 50%;border: 8px solid  #cde0fe; transform: translate(-20%,-20%) rotate(330deg);}
+		.drift_inner{padding:30px 20px 20px 20px; background:linear-gradient(to bottom, #cde0fe 1%, #ffffffc2);border-radius: 8px;}
+		.drift_close { width: 30px; height: 30px; position: absolute; top: 10px; right: 10px;transition: transform .2s;}
+		.drift h2{ line-height: 30px; font-size: 18px;text-align: center;box-sizing: border-box; padding: 0 20px;}
+		.drift article{line-height: 24px;}
+		.drift_close::before,.drift_close::after {content: '';position: absolute;height: 3px;width: 18px;top: 15px;left: 7px;margin-top: -1px;background:#ffffff;}
+		.drift_close::before {transform: rotate(45deg);}
+		.drift_close::after {transform: rotate(-45deg);}
+		a:hover.drift_close { transform: rotate(90deg);}
+		.drift::before{content: ""; position: absolute; top:0; left:0;  width: 44px; height: 44px;background:#ffffff url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/drift.png') center center no-repeat; background-size:80%;border-radius: 50%;border: 8px solid  #cde0fe; transform: translate(-20%,-20%) rotate(330deg);}
+		.drift_inner a{color:inherit;}
+
+		@media(max-width: 800px){
+			.drift {
+			    width: 80% !important;
+			    max-width: 80% !important;
+			    left:50% !important;
+			    top:50% !important;
+			    transform: translateX(-50%) translateY(-50%)  !important;
+			}
+		}
+
+
+		/* 期刊列表-智能导读 */
+		.ai_intro::before {  background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/AI_intro.png'); }
+		.video_intro::before {  background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/video_intro.png'); }
+		.intro h4::before { background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/AI_intro_tt.png'); }
+		.ai_summary::before { background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/AI_summary.png'); }
+
+		/* 期刊列表-收藏 */
+		.x_close { background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_close.png') !important; background-size: cover !important; }
+		.list_star_2 { background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/list_star_2.png') no-repeat center center !important; background-size: contain !important;}
+		.col { background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/list_star.png') no-repeat left center !important;     background-size: contain !important}
+		.list_star { background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/list_star.png') no-repeat center center !important; background-size: contain !important;}
+		.col_ed{ background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/list_star_2.png') no-repeat left center !important; background-size: contain !important };
+		a.x_open2 { background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_open3.png') !important; background-size: cover !important; }
+	    .inline-translation { -webkit-text-fill-color: initial; float: initial !important; margin-left: 8px; padding: 2px 6px; border-radius: 6px; font-size: 1em; display: inline-flex !important; align-items: center; color: #03a9f4 !important;  font-weight: bold; user-select: none; /* 防止误选 */}
+	    .inline-translation span { color: #03a9f4; }
+	    .inline-translation button { background: rgb(228, 57, 200); background-size: cover; border: none; width: 20px; height:20px; margin-left: 10px; mask-size: cover; mask-repeat: no-repeat; mask-position: center; }
+
+	    /* 知识库 */
+	    .x_close, .trace_close{ background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_close.png') !important; background-size: cover !important; }
+	    a.x_answer_foot_btn_1::before{ background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_answer_foot_btn_1.png') no-repeat !important; background-size: cover !important; }
+	    a.x_answer_foot_btn_2::before{ background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_answer_foot_btn_2.png') no-repeat !important; background-size: cover !important; }
+	    .x_push{ background:#ffffffeb  url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_ask.png') no-repeat !important; background-size:cover !important; }
+	    a.x_answer_foot_btn_3::before{background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_answer_foot_btn_3.png') no-repeat !important;background-size: cover !important;}
+	    a.x_answer_foot_btn_4::before{background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_answer_foot_btn_4.png') no-repeat !important;background-size: cover !important;}  
+	    a.x_answer_foot_btn_5::before{background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_answer_foot_btn_5.png') no-repeat !important;background-size: cover !important;}  
+	    h4.x_inner_tt::before{background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_open_robot.png') !important; background-size: cover !important;}
+	    .x_inner_tt::before{background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_open_robot.png') !important; background-size: cover !important;}
+	    .x_open { background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_open2.png') !important; background-size: cover !important;}
+	    .x_stop{ display: inline-block; background:#ffffffeb  url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_stop.png') no-repeat !important; background-size: cover !important; }
+
+		.shareStyle {font-size: 12px;color: #666;}
+		.shareStyle a { display: inline-block;width: 20px;height: 20px;background-size: cover;margin: 0 5px 0 0;background-repeat: no-repeat;vertical-align: -4px; }
+		.wechat_window {display:none; position: fixed; width: 320px;height: 365px;left: 0;top: 0;right: 0;bottom: 0;margin: auto; background: white; box-shadow: 0px 0px 5px #e5e5e5;}
+		.wechat_window p {background: #f5f5f5; height: 50px; line-height: 50px; color: #333; text-align: left; padding-left: 15px; font-size: 14px}
+		.wechat_window a {top: 10px}
+		.wechat_box {padding: 20px 35px 40px; border-top: 1px solid #e8e8e8;}
+		.wechat_box h5 {line-height: 15px; margin-top: 10px; color: #bbb; text-align: center;}
+
+		.albumZone_up_r { overflow: scroll; }
+
+		.share_link,a:hover.share_link{background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/share_link.png');}
+		.share_qq,a:hover.share_qq{background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/share_qq.png');}
+		.share_qzone,a:hover.share_qzone{background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/share_qzone.png');}
+		.share_wechat,a:hover.share_wechat{background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/share_wechat.png');}
+		.share_weibo,a:hover.share_weibo{background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/share_weibo.png');}
+		.share_mail,a:hover.share_mail{background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/share_mail.png'); }
+		.share_facebook,a:hover.share_facebook{background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common//share_facebook.png');}
+		.share_x,a:hover.share_x{background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common//share_x.png');}
+
+		.t2_nav {border-radius: 5px;border: 1px solid #eee;padding: 10px 20px;display: block;margin: 60px 0 0 0;box-shadow: 0px 0px 3px #eee;}
+
+		.t2_nav a {display: block;line-height: 24px;color: var(--pcolor);font-size: 14px;}
+		.t2_nav a:hover { color: var(--dcolor); }
+
+		.paperDetail{ position: relative; }
+		.paper_wechat{ width: 120px; box-sizing: border-box;display: flex;flex-direction: column;align-items: center;gap: 5px;position: absolute;right: 20px;bottom: 20px; }
+
+		/* 下拉框 */
+		.paper_select{ width: 100px;height: 20px;padding: 0 14px;margin: 0 10px 0 0;border-radius: 3px;border: 1px solid #dcdcdc; background: #f8f8f8;font-size: 12px;color: #333;outline: none;cursor: pointer;transition: .3s; float: right}
+		select:hover.paper_select{border-color: #3b82f6;background: #fff;}
+
+		/* 二维码区域 */
+		.qrCode_box{width: 100px;padding: 5px;background: #fff;box-shadow:0 4px 12px rgba(0,0,0,.04),inset 0 0 0 1px rgba(0,0,0,.04);}
+		.qrCode_box img{display: block;width: 100%;}
+
+		/* 文字 */
+		.paper_wechat span{ font-size: 14px;color: #666;letter-spacing: 1px; }
+
+		@media (max-width: 800px){
+		.paper_wechat{display: none;}
+		}
+
+
+    </style>
+
+		<style>
+			.top_tip{display: flex;align-items: center;line-height: 20px; padding:0px 0px 10px 0px;gap: 10px;color: #bbb; }
+			.top_tip a{color:#bbb}
+			.top_tip a:hover{color:#999}
+			.paperDetailZone{margin:0 auto 20px auto;}
+			.paperDetailZone .mainL{    padding: 10px 0 0 0 !important;}
+			.paperDetailZone .mainR {  padding: 10px 0 0 0 !important; }
+			.mainZone .top_tip{  padding: 0 0 20px 0;}
+			.top_tip span:last-child{ overflow: hidden;white-space: nowrap;text-overflow: ellipsis;flex: 1;}
+
+			@media (max-width: 800px) {
+			  .top_tip{display: none;}
+			}
+		</style>
+
+
+
+
+
+	<link rel="stylesheet" type="text/css" href="https://publishmedia.cbpt.cnki.net/portal/minio/webs/agri/template/green_muban4_20251028/base/common.css?v=20261126205058">
+
+
+    <script src="https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/qrcode.min.js" type="text/javascript" charset="utf-8"></script> 
+    <script src="https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/fingerprintjs/dist/fp.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/marked.min.js" type="text/javascript" charset="utf-8"></script>
+
+<macros style="display:none">
+	<macroName>nav</macroName>
+	<macroName>emailalert</macroName>
+	<macroName>searchbtn</macroName>
+	<macroName>searchbox</macroName>
+	<macroName>tablepage</macroName>
+	<macroName>yinyongbenwen</macroName>
+	<macroName>piczone</macroName>
+	<macroName>journalimg</macroName>
+	<macroName>journalInfo</macroName>
+	<macroName>journalinfonormal</macroName>
+
+	<macroName>searchdiv</macroName>
+	<macroName>searchzone</macroName>
+
+	<macroName>qikanlogo</macroName>
+	<macroName>popupnotification</macroName>
+</macros>
+
+
+
+
+<div class="videoPlayLayerBox" style="display: none;">
+	<div class="videoPlayLayer" id="videoPlayLayerBox">
+		<div class="videoPlayLayer_inner">
+			<a href="javascript:;" class="closebtn"></a>
+			<script>
+				$(function(){
+					$(".closebtn").click(function(){
+						$(".videoPlayLayerBox").fadeOut(50, function() {
+						    $(".videoPlayLayer").fadeOut();
+					  	});
+						var video = document.getElementById('myVideo');
+	  					video.pause();
+					});
+				});
+			</script>
+      		<div class="videoPlayLayer_main">
+				<video id="myVideo" controls class="video_player" width="100%" height="100%">
+				  	Your browser does not support the video tag. 
+				</video>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="pdfDownloadLayer pdfbox" style="display: none;">
+      	<div class="maskEle"></div>
+      	<div class="layerEle_box">
+        	<h2>请选择需要下载的pdf数据</h2>
+        	<a href="javascript:;" class="pdfboxclose"></a>
+	        <div class="layerEle_box_main">
+	          	<a href="javascript:;" id="chinesepdf" class="pdfbtn">中文数据</a>
+			    <a href="javascript:;" id="englishpdf" class="pdfbtn trans">英文数据</a>
+	    	</div>
+		  	<div class="transZone">
+			  	<span class="progress">正在翻译英文数据</span>
+			  	<span class="dots">...</span>
+		  	</div>
+		</div>
+    </div>
+
+<!-- 翻译狗下载 -->
+<script>
+
+
+  $(".pdfboxclose").click(function() {
+    $(".pdfDownloadLayer").fadeOut(100);
+    $(".layerEle_box_main").show();
+    $(".transZone").hide();
+  });
+
+	// $(".trans").click(function(){
+	//   	$(".layerEle_box_main").hide();
+	// 	$(".transZone").fadeIn();
+	// });
+
+	    // 下载中文原文
+    function downloadPdfChinese(id, webId,title, type) {
+        var url = "https://agri.cbpt.cnki.net/portal/journal/portal/client/updateDownLoadNumber/" + id + "/" + type;
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", url);
+        xhr.setRequestHeader("web_id", webId);
+        xhr.responseType = "blob";
+        xhr.onload = function () {
+            if (xhr.status === 200) {
+                var blob = this.response;
+                var reader = new FileReader();
+                reader.readAsDataURL(blob);
+                var filename = decodeURI(this.getResponseHeader('filename'));
+                reader.onload = function (e) {
+                    var a = document.createElement('a');
+                    a.download = title + ".pdf";
+                    a.href = e.target.result;
+                    //兼容firefox
+                    $('body').append(a);
+                    a.click();
+                    $(a).remove();
+                }
+            }
+        };
+        xhr.send();
+    };
+
+    function downloadPDFAction(id, webId,title, pdfUrl) {
+
+    	$(".pdfDownloadLayer").fadeIn(100);
+    	// 这里需要弹出弹框，让用户选择下载原文还英文
+
+    // 给标签重新绑定事件
+    	var pdfChineseLink = document.getElementById('chinesepdf');
+    	pdfChineseLink.onclick = function() { 
+		    getChinesePreviewUrl(id, webId, title);
+		};  
+
+    	var pdfEnglishLink = document.getElementById('englishpdf');
+    	pdfEnglishLink.onclick = function() {  
+		    downloadPdfEnglishBegin(id, title);  
+		};  
+    }	
+
+    function getChinesePreviewUrl(paperId, webId, title) {
+    	var baseUrl = 'https://agri.cbpt.cnki.net/portal/journal/portal/journal/api/getPaperDownloadInfo?paperId='+paperId;
+		$.ajax({          
+			url: baseUrl,
+			contentType:"application/json; charset=utf-8",		
+            dataType:"json",			
+			type: "POST", 	
+            async: "true",		
+			success: function(res){
+				let previewPdfUrl = res.data.previewPdfUrl;
+
+				var isPhone = /mobile/i.test(navigator.userAgent);
+				if (isPhone) {
+					downloadFull(paperId,'1', webId, title);
+				}else {
+					window.open(previewPdfUrl, '_blank');
+				}
+				
+			    $(".pdfDownloadLayer").fadeOut(100);
+				$(".layerEle_box_main").show();
+				$(".transZone").hide();
+			}
+		});
+    }
+
+    // 1、请求下载英文原文接口，开始翻译
+    function downloadPdfEnglishBegin(itemID, title) {
+    	$(".layerEle_box_main").hide();
+		$(".transZone").fadeIn();
+
+    	console.log("1、请求下载英文原文接口，开始翻译");
+    
+        var baseUrl = "https://agri.cbpt.cnki.net/portal/journal/portal/client/uploadTranslatePaper/" + itemID + "/1";
+		$.ajax({          
+			url: baseUrl,
+			contentType:"application/json; charset=utf-8",		
+            dataType:"json",			
+			type: "GET", 	
+            async: "true",		
+			success: function(res){
+				if (res.success == true) {
+					downloadPdfEnglishGetProgress(itemID, title);
+				}else {
+					$(".pdfDownloadLayer").fadeOut(100, function() {  
+				      	$(".layerEle_box_main").show();
+			    		$(".progress").text("正在翻译英文数据");
+	                    $(".transZone").hide();
+
+	                    alert(res.message);
+				    });  
+					
+				}
+			},
+			error:function(res){                                   
+				console.log(res);
+				
+				$(".pdfDownloadLayer").fadeOut(100, function() {  
+			      	$(".layerEle_box_main").show();
+		    		$(".progress").text("正在翻译英文数据");
+                    $(".transZone").hide();
+
+                    alert(res.message);
+			    }); 
+			}
+		});
+
+    }
+
+	// 2、查询翻译进度
+    function downloadPdfEnglishGetProgress(itemID, title) {
+    	console.log("2、查询翻译进度，刷新进度条进度");
+    	var baseUrl = "https://agri.cbpt.cnki.net/portal/journal/portal/client/queryTranslateProgress/" + itemID + "/1";
+		$.ajax({          
+			url: baseUrl,
+			contentType:"application/json; charset=utf-8",		
+	        dataType:"json",			
+			type: "GET", 	
+	        async: "true",		
+			success: function(res){
+				
+	            let progress = res.data.percent;
+	        	let text = "正在翻译英文数据" + progress + "%"
+			    $(".progress").text(text);
+
+			    // 下载完成后要开始下载
+			    if (progress === '100.00') {
+			    	downloadPdfEnglishEnd(itemID, title);
+			    }else {
+			    	reDownloadPdfEnglishGetProgress(itemID, title);
+			    }
+			},      
+			error:function(res){                                   
+				console.log(res);
+
+				$(".pdfDownloadLayer").fadeOut(100, function() {  
+			      	$(".layerEle_box_main").show();
+		    		$(".progress").text("正在翻译英文数据");
+                    $(".transZone").hide();
+
+                    alert(res.message);
+			    }); 
+			}
+		});
+    }
+
+    function reDownloadPdfEnglishGetProgress(itemID, title) {
+    	console.log("2、查询翻译进度，刷新进度条进度");
+    	var baseUrl = "https://agri.cbpt.cnki.net/portal/journal/portal/client/queryTranslateProgress/" + itemID + "/1";
+		$.ajax({          
+			url: baseUrl,
+			contentType:"application/json; charset=utf-8",		
+	        dataType:"json",			
+			type: "GET", 	
+	        async: "true",		
+			success: function(res){
+				
+	            let progress = res.data.percent;
+	        	let text = "正在翻译英文数据" + progress + "%"
+			    console.log("进度是",text);
+			    $(".progress").text(text);
+
+			    // 下载完成后要开始下载
+			    if (progress === '100.00') {
+			    	downloadPdfEnglishEnd(itemID, title);
+			    }else {
+			    	downloadPdfEnglishGetProgress(itemID, title);
+			    }
+			},      
+			error:function(res){                                   
+				console.log(res);
+				$(".pdfDownloadLayer").fadeOut(100, function() {  
+			      	$(".layerEle_box_main").show();
+		    		$(".progress").text("正在翻译英文数据");
+                    $(".transZone").hide();
+
+                    alert(res.message);
+			    }); 
+			}
+		});
+    }
+
+    // 3、翻译完成后开始下载文件
+    function downloadPdfEnglishEnd(itemID, title) {
+    	console.log("翻译完成，开始下载了");
+
+    	var baseUrl = "https://agri.cbpt.cnki.net/portal/journal/portal/client/downloadTranslatePaper/" + itemID + "/1";
+
+    	$.ajax({          
+			url: baseUrl,
+			contentType:"application/json; charset=utf-8",		
+	        dataType:"json",			
+			type: "GET", 	
+	        async: "true",		
+			success: function(res){
+				let englishUrl = res.data;
+				window.open(englishUrl, '_blank');
+
+				$(".pdfDownloadLayer").fadeOut(100, function() {  
+			      	$(".layerEle_box_main").show();
+		    		$(".progress").text("正在翻译英文数据");
+                    $(".transZone").hide();
+			    });  
+			},      
+			error:function(res){                                   
+				$(".pdfDownloadLayer").fadeOut(100, function() {  
+			      	$(".layerEle_box_main").show();
+		    		$(".progress").text("正在翻译英文数据");
+                    $(".transZone").hide();
+			    });  
+			}
+		});
+    }
+
+</script>
+
+<!-- 智能导读视频播放 -->
+<script>
+
+	function canPlayVideo(url, callback) {
+	  var video = document.createElement('video');
+	 
+	  video.addEventListener('canplay', function() {
+	    callback(true);
+	  }, { once: true });
+	 
+	  video.addEventListener('error', function() {
+	    callback(false);
+	  }, { once: true });
+	 
+	  video.src = url;
+	}
+
+	aivideo=function(videoUrl, videoId) {
+		// 使用方法
+		canPlayVideo(videoUrl, function(canPlay) {
+		  if (canPlay) {
+		    $(".videoPlayLayerBox").fadeIn(100, function() {
+			    $(".videoPlayLayer").fadeIn(50);
+		  	});
+		  	countPlayback(videoId);
+	        console.log("这里需要弹出一个窗口播放视频", videoUrl);
+	        playVideo(videoUrl);
+		  } else {
+		    console.log('视频无法播放');
+		    window.open(videoUrl, '_blank');
+		  }
+		});
+    }
+
+    function countPlayback(videoId) {
+	 	var baseUrl = "https://agri.cbpt.cnki.net/portal/journal/portal/client/updateVideoViewNum?videoContentId=" + videoId;
+		$.ajax({          
+			url: baseUrl,
+			contentType:"application/json; charset=utf-8",		
+            dataType:"json",			
+			type: "GET", 	
+            async: "true",		
+			success: function(res){
+				
+			},
+			error:function(res){                                   
+				console.log(res);
+			}
+		});
+    }
+
+		// 播放视频
+	function playVideo(videoUrl) {
+		var video = document.getElementById('myVideo');
+		video.src = videoUrl;
+		video.load();
+	  	video.play();
+	}
+	 
+	// 暂停视频
+	function pauseVideo() {
+		var video = document.getElementById('myVideo');
+	  	video.pause();
+	}
+
+	var dragItem = document.getElementById('videoPlayLayerBox');
+	var active = false;
+	 
+	dragItem.addEventListener('mousedown', function(e) {
+	    active = true;
+	    currentX = e.clientX - dragItem.offsetLeft;
+	    currentY = e.clientY - dragItem.offsetTop;
+	});
+	 
+	document.addEventListener('mouseup', function() {
+	    active = false;
+	});
+	 
+	document.addEventListener('mousemove', function(e) {
+	    if (active) {
+	        dragItem.style.left = (e.clientX - currentX) + 'px';
+	        dragItem.style.top = (e.clientY - currentY) + 'px';
+	    }
+	});
+
+</script>
+
+
+<!-- 分享box -->
+<script>
+	function cancelWechatWindow(){
+		// $(".wechatModal").fadeOut();
+		document.getElementById('wechatModal').style.display = 'none';
+	};
+
+	function shareweb(type) {
+	    //获取文章标题
+	    var title = document.title;
+	    //获取当前网页url
+	    var url = document.location.href;
+	    var userAgent = navigator.userAgent; //取得浏览器的userAgent字符串
+	    var isIE = userAgent.indexOf("compatible") > -1 && userAgent.indexOf("MSIE") > -1; //判断是否IE<11浏览器
+
+
+	    //1、复制链接
+	    if(type == 'copy') {
+        	const input = document.createElement('input');
+        	input.setAttribute('readonly','readonly');
+        	input.setAttribute('value', url);
+        	document.body.appendChild(input);
+        	input.select();
+        	if(document.execCommand('copy')){
+        		document.execCommand('copy');
+        		alert('链接已复制');
+        	}
+        	document.body.removeChild(input);
+        	return;
+        }
+
+		//2、qq好友接口的传参
+        if(type == 'qq'){
+            if(isIE){
+                //如果为IE 构造一个虚拟的a标签 以便于跳转到对应的URL
+                var gotolink = document.createElement('a');
+                gotolink.href = 'http://connect.qq.com/widget/shareqq/index.html?url=' + url + '&title=' + title
+                gotolink.setAttribute("target", "_blank");
+                document.body.appendChild(gotolink);
+                gotolink.click();
+            }
+            else {
+                window.open('http://connect.qq.com/widget/shareqq/index.html?url=' + url + '&title=' + title);
+            }
+            return;
+        } 
+
+        //3、qq空间
+        if(type=='qzone'){
+            if(isIE){
+                 //如果为IE 构造一个虚拟的a标签 以便于跳转到对应的URL
+                var gotolink = document.createElement('a');
+                gotolink.href = 'https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=' + url + '&sharesource=qzone&title=' + title;
+                gotolink.setAttribute("target", "_blank");
+                document.body.appendChild(gotolink);
+                gotolink.click();
+            }
+            else {
+                window.open('https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=' + url + '&sharesource=qzone&title=' + title);
+            }
+            return;
+        };
+
+
+
+        //4、微信分享
+        if(type == 'wechat'){
+			handleWechatShare();
+		    return;
+        }
+
+        //5、邮件
+        if (type == 'email') {
+	        if(isIE){
+	            //如果为IE 构造一个虚拟的a标签 以便于跳转到对应的URL
+
+	            var gotolink = document.createElement('a');
+	            gotolink.href = 'http://mail.qq.com/cgi-bin/qm_share?url=' + url + '&to=qqmail'
+	            gotolink.setAttribute("target", "_blank");
+	            document.body.appendChild(gotolink);
+	            gotolink.click();
+	        }
+	        else {
+	            window.open('http://mail.qq.com/cgi-bin/qm_share?url=' + url + '&to=qqmail');
+	        }
+	        return;
+	    }
+
+
+        //6、新浪微博
+        if(type=='sina'){
+        	 //新浪微博接口的传参
+            if(isIE){
+                //如果为IE 构造一个虚拟的a标签 以便于跳转到对应的URL
+                var gotolink = document.createElement('a');
+                gotolink.href = 'http://service.weibo.com/share/share.php?url=' + url + '&sharesource=weibo&title=' + title + '&appkey=2706825840';
+                gotolink.setAttribute("target", "_blank");
+                document.body.appendChild(gotolink);
+                gotolink.click();
+            }
+            else {
+                window.open('http://service.weibo.com/share/share.php?url=' + url + '&sharesource=weibo&title=' + title + '&appkey=2706825840');
+            }
+            return;
+        }
+
+		//7、Facebook
+		if (type == 'facebook') {
+			window.open(
+                `https://www.facebook.com/sharer/sharer.php?u=`+url,
+                'facebook-share-dialog',
+                'width=626,height=436'
+            );
+            return;
+		}
+
+		//8、twitter
+		if (type = 'twitter') {
+			window.open(
+                `https://twitter.com/intent/tweet?url=`+url + `&text=` + title,
+                'twitter-share-dialog',
+                'width=550,height=420'
+            );
+            return;
+		}
+	}
+
+	function handleWechatShare() {
+	    const modal = document.getElementById('wechatModal');
+	    const qrContainer = document.getElementById('qrcode');
+	    
+	    // 清除旧二维码
+	    qrContainer.innerHTML = '';
+	    
+	    // 生成新二维码
+	    new QRCode(qrContainer, {
+	      text: window.location.href,
+	      width: 240,
+	      height: 240,
+	      colorDark: "#000000",
+	      colorLight: "#ffffff",
+	      correctLevel: QRCode.CorrectLevel.H
+	    });
+	    
+	    modal.style.display = 'block';
+	}
+</script>
+
+<script>
+	    
+    function getSpecialHtmlUrl(paperIdSource, year, doi, issue, volnum, contentid, wkpaperid) {
+        var url = "https://agri.cbpt.cnki.net/portal/journal/portal/journal/api/gotoSpecialHtmlUrl";
+
+        var queryVO = {
+            paperIdSource: paperIdSource,
+            year: year,
+            doi: doi,
+            issue: issue,
+            volnum: volnum,
+            contentId: contentid,
+            wkPaperID: wkpaperid
+        }
+        
+        $.ajax({          
+            url: url,
+            contentType:"application/json; charset=utf-8",
+            dataType: "json",  
+            type: "post", 
+            async: "true",
+            data: JSON.stringify(queryVO),
+            success: function(res){
+                var responseUrl = res.data;
+                console.log('-----' + responseUrl);
+                window.open(responseUrl, "_blank");
+            },
+            error:function(res){
+                  console.log(res);
+            }
+        });
+    }
+
+    function getChineseHtmlUrl(id) {
+    	var url = "https://agri.cbpt.cnki.net/portal/journal/portal/journal/api/getChinesDownloadInfoByEnglishPaper?contentId=" + id;
+        $.ajax({       
+        type: "post",
+        url: url , 
+        dataType: "json",       
+        success:  function (data) {
+            var responseHtmlUrl = data.data.htmlUrl;
+            // 调用下载接口
+            if (responseHtmlUrl != null) {
+                window.open(responseHtmlUrl, "_blank");
+            }else {
+                var cnkiNodeUrl = data.data.cnkiNodeUrl;
+                window.open(cnkiNodeUrl, "_blank")
+            }
+        }});
+    }
+
+    function getSpecialPDFUrl(id, webId,title){
+        var url = "https://agri.cbpt.cnki.net/portal/journal/portal/journal/api/getChinesDownloadInfoByEnglishPaper?contentId=" + id;
+        $.ajax({       
+        type: "post",
+        url: url , 
+        dataType: "json",       
+        success:  function (data) {
+            var responsePdfUrl = data.data.pdfUrl;
+            // 调用下载接口
+            if (responsePdfUrl != null) {
+                var responseWebId = data.data.relationWebId;
+                // var responseContentId = data.data.relationContentId;
+                downloadFullNew(responsePdfUrl, responseWebId, title);
+            }else {
+                var cnkiNodeUrl = data.data.cnkiNodeUrl;
+                window.open(cnkiNodeUrl, "_blank")
+            }
+        }});
+    }
+
+    downloadFullNew=function(pdfUrl, webId, title) {
+       	var url = pdfUrl;
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", url);
+        xhr.setRequestHeader("web_id", webId);
+        xhr.responseType = "blob";
+        xhr.onload = function () {
+            if (xhr.status === 200) {
+                var blob = this.response;
+            	// 获取 `Content-Disposition` 头
+	            var contentDisposition = xhr.getResponseHeader("Content-Disposition");
+	           // 兼容不同浏览器的下载方式
+	            if (window.navigator.msSaveBlob) {
+	                // IE 兼容处理
+	                window.navigator.msSaveBlob(blob, filename);
+	            } else {
+	                var blobUrl = URL.createObjectURL(blob);
+	                var a = document.createElement("a");
+	                a.href = blobUrl;
+	                a.download = title + ".pdf";
+	                document.body.appendChild(a);
+
+	                // 兼容不同浏览器触发下载
+	                var evt = new MouseEvent("click", { bubbles: true, cancelable: true, view: window });
+	                a.dispatchEvent(evt);
+	                document.body.removeChild(a);
+	                URL.revokeObjectURL(blobUrl);
+	            }
+            }
+        };
+        xhr.send();
+    };
+
+    // const iframe = document.createElement('iframe');
+	// iframe.style.display = 'none';
+	// iframe.src = ' https://' + "agri" + '.cbpt.cnki.net/editor/#/login'; 
+	// console.log('----' + iframe.src);
+	// document.body.appendChild(iframe);
+	// iframe.onload = function() {
+	//   iframe.contentWindow.navigator.serviceWorker.getRegistrations()
+	//     .then(registrations => {
+	//       registrations.forEach(registration => {
+	//         console.log('Unregistering:', registration.scope);
+	//         registration.unregister();
+	//       });
+	//       document.body.removeChild(iframe);
+	//       console.log('Service Worker 已清理');
+	//     });
+	// };
+
+	$(function () {
+        getFingerprint();
+    });
+
+    var fpPromise;
+
+	async function getFingerprint(){
+		let localFP = '';
+	  	if (localFP == null || localFP.length == 0) {
+ 			if (!fpPromise) {
+		    	fpPromise = FingerprintJS.load()
+		  	}
+		  
+		  	const fp = await fpPromise
+		  	const result = await fp.get();
+		  	
+		  	console.log('=== 指纹组件对比 ===');
+			Object.keys(result.components).forEach(key => {
+			  console.log(key +`:`, JSON.stringify(result.components[key].value));
+			});
+
+			// 保存到全局变量以便对比
+			window.fingerprintComponents = result.components;
+
+		  	var customcomponents = [
+				result.components.fonts,
+				result.components.domBlockers,
+				// result.components.fontPreferences,
+				result.components.audio,
+				result.components.screenFrame,
+				result.components.osCpu,
+				result.components.languages,
+				result.components.colorDepth,
+				result.components.screenResolution,
+				result.components.hardwareConcurrency,
+				result.components.timezone,
+				result.components.sessionStorage,
+				result.components.localStorage,
+				result.components.indexedDB,
+				result.components.openDatabase,
+				result.components.cpuClass,
+				result.components.platform,
+				result.components.plugins,
+				result.components.touchSupport,
+				result.components.vendor,
+				result.components.vendorFlavors,
+				result.components.colorGamut,
+				result.components.invertedColors,
+				result.components.forcedColors,
+				result.components.monochrome,
+				result.components.contrast,
+				result.components.reducedMotion,
+				result.components.reducedTransparency,
+				result.components.hdr,
+				result.components.math,
+				result.components.pdfViewerEnabled,
+				result.components.architecture,
+				result.components.applePay,
+				result.components.privateClickMeasurement,
+				result.components.audioBaseLatency,
+				result.components.dateTimeLocale,
+				result.components.webGlBasics,
+				result.components.webGlExtensions
+			];
+		  	const hash2 = FingerprintJS.hashComponents(customcomponents); 
+		  	console.log('2、自定义生成的浏览器指纹是：' + hash2)
+			localFP = hash2; 
+			// localStorage.setItem("fp", localFP);
+			setDeviceIdCookie(localFP);
+		}else {
+			console.log('1、从缓存里取的浏览器指纹是：' + localFP)
+		}
+
+		if("" == '1') {
+			var visitUserInfoValue = "";
+			var match = visitUserInfoValue.match(/userId=([^,)]+)/);
+			var userId = match ? match[1] : null;
+			var userIdValue = userId === "null" ? null : userId;
+			if (userIdValue == null || userIdValue.length == 0) {
+				getVisitorTokenWithFP(localFP);	
+			}
+		}
+
+	}
+
+    function setDeviceIdCookie(deviceID) {
+    	const expires = new Date();
+		expires.setDate(expires.getDate() + 30); // 7天后过期
+		let dateString = expires.toUTCString();
+
+		var tokenCookieString = "deviceId=" + deviceID + ";" + dateString + " ;path=/"; 
+		document.cookie = tokenCookieString;
+    }
+</script>
+
+
+
+<macros style="display:none">
+	<macroName>xinwenxiangqing</macroName>
+	<macroName>xinwenxiangqingnew</macroName>
+</macros>
+
+
+ </head>
+ <body>
+  <div class="container">
+   <div class="header">
+    <div class="logo">
+     <div class="inner">
+      <div name="qikanlogo" journallogo="" class="logo_tt cnki-compont" showlogoimage="true" logoimagesrc="https://publishmedia.cbpt.cnki.net/portal/minio/webs/agri/media/web/2026/01/13/bgn.png" journalname="" showenglishname="true">
+
+		<img style="" class="journallogo" src="https://publishmedia.cbpt.cnki.net/portal/minio/webs/agri/media/web/2026/01/13/bgn.png">
+
+
+      </div>
+      <div class="logo_honor"><!-- <span>EI收录</span>
+							<span>scopus收录</span> -->
+      </div>
+      <div class="searchDiv" name="searchDiv">
+
+
+
+
+	<input type="text" class="search_text" id="searchDivTxtIpt" />
+	<a href="javascript:;" onclick="searchDivCon()" class="search_div_btn" target="_blank"></a>
+	<a href="https://agri.cbpt.cnki.net/portal/journal/portal/client/advSearchResult" class="search_adv" target="_blank">高级检索</a>
+
+	<script>
+		$("#searchDivTxtIpt").on("keyup", function (e) {
+			if (e.which == 13) {
+				//执行方法
+				searchDivCon();
+			}
+		});
+        function searchDivCon() {
+           	var url = "https://agri.cbpt.cnki.net/portal/journal/portal/client/searchResult?content=" + encodeURI($('#searchDivTxtIpt').val()) ;
+			window.open(url, "_blank");
+
+        }
+    </script>
+      </div>
+     </div>
+    </div>
+    <div class="nav">
+     <div class="inner">
+      <div name="nav" navcomponentlist="" menutype="top" class="nav-inner cnki-compont" shownewwindow="true">
+
+
+
+		<a class="navNow" href="https://agri.cbpt.cnki.net/portal/journal/portal/client/index">首页</a>
+							<a href="https://agri.cbpt.cnki.net/portal/journal/portal/client/news/AGRI_887493e1-8bb1-44f6-850c-25c415606e5b" target="_blank">期刊简介</a>
+
+							<a href="https://agri.cbpt.cnki.net/portal/journal/portal/client/news/AGRI_b7620c1d-2548-49b2-92fc-7d76367918f6" target="_blank">投稿指南</a>
+
+							<a href="https://agri.cbpt.cnki.net/portal/journal/portal/client/news/AGRI_306c1295-84fa-481b-9e9f-7cd6ae731ddf" target="_blank">编委会</a>
+
+							<a href="https://agri.cbpt.cnki.net/portal/journal/portal/client/news/AGRI_1d92b47d-ad74-4345-9fed-ea3aa3d62ce0" target="_blank">广告业务</a>
+
+							<a href="https://agri.cbpt.cnki.net/portal/journal/portal/client/news/AGRI_db99479c-9285-44f4-b6ab-26133d5fb465" target="_blank">版权协议</a>
+
+							<a href="https://agri.cbpt.cnki.net/portal/journal/portal/client/download/AGRI_54253c13-816a-4cda-85b4-048f7444fa78?title=下载中心" target="_blank">下载中心</a>
+
+							<a href="https://agri.cbpt.cnki.net/portal/journal/portal/client/news/agri_f5e3dad3-5094-48f2-9211-b9336ca8a48f" target="_blank">联系我们</a>
+
+							<a href="https://publish.cnki.net/admin/agri#/home" target="_blank">网站管理</a>
+
+      </div> <b>|</b>
+      <div name="emailalert" class="emailAlert cnki-compont">
+	<a href="https://agri.cbpt.cnki.net/portal/journal/portal/client/email_alert" class="specialNav" target="_blank">Email-Alert</a>
+      </div> <!--<a href="#" class="redNav">进入后台管理系统</a>-->
+     </div>
+    </div>
+   </div>
+   <div class="main">
+    <div class="mainZone">
+     <div class="mainC">
+      <div name="xinwenxiangqing" class="txtZone t2 cnki-compont" xinwenxiangqingcomponentlist="" showtitle="true" showlittletitle="true" showabstract="true" showdate="true" showauthor="true">
+
+
+
+		<!-- <div class="t2_tt_car">首页 > 行业动态</div> -->
+				<div class="t2_tt">投稿指南</div>
+
+		<div class="t2_tt_art">
+					<span class="t2_tt_art_date">2013-04-09</span>
+			&nbsp;&nbsp;&nbsp;&nbsp;
+					<span class="t2_tt_art_author"></span>
+
+	        <div class="shareStyle">分享至：
+				<a href="javascript:;" onclick="shareweb('copy')" class="share_link" title="复制链接"></a>
+	          	<a href="javascript:;" onclick="shareweb('qq')" class="share_qq" title="分享至QQ"></a>
+	          	<a href="javascript:;" onclick="shareweb('qzone')" class="share_qzone" title="分享至QQ空间"></a>
+	          	<a href="javascript:;" onclick="shareweb('wechat')" class="share_wechat" title="分享至微信"></a>
+	          	<a href="javascript:;" onclick="shareweb('sina')" class="share_weibo" title="分享至微博"></a>
+	          	<a href="javascript:;" onclick="shareweb('email')" class="share_mail" title="分享至邮箱"></a>
+	          	<a href="javascript:;" onclick="shareweb('facebook')" class="share_facebook" title="分享至facebook"></a>
+	          	<a href="javascript:;" onclick="shareweb('twitter')" class="share_x" title="分享至twitter"></a>
+			</div>
+
+			<div id="wechatModal" class="wechat_window">
+			  	<p>扫码分享到微信或朋友圈</p>
+			  	<a href="javascript:;" class="closebtn" onclick="cancelWechatWindow()"></a>
+			  	<div class="wechat_box">
+			  		<div id="qrcode"></div>
+			  		<h5>使用微信"扫一扫"功能。<br>将此内容分享给您的微信好友或者朋友圈</h5>
+			  	</div>
+			</div>
+		</div>
+			<div class="t2_main">
+				<div align="center"><a><span style="font-family: 方正黑体简体; font-size: 22pt">《山东农业科学》投稿论文写作结构及要求</span></a></div>
+
+<div align="center">&nbsp;</div>
+
+<div align="center"><span style="font-family: 方正黑体简体; font-size: 22pt">（通栏排，字体、字号无要求，无基金项目支持论文建议不要投稿）</span></div>
+
+<div align="center">&nbsp;</div>
+
+<div align="center">&nbsp;</div>
+
+<div align="center"><span style="font-family: 方正黑体简体; font-size: 16pt">中文题目</span></div>
+
+<div align="center"><span style="font-family: 宋体">作者</span></div>
+
+<div align="center"><span style="font-family: 宋体; font-size: 9pt">（作者单位，地址 邮编）</span></div>
+
+<div align="center">&nbsp;</div>
+
+<div><span style="font-family: 方正黑体简体">摘要：</span><span style="font-family: 宋体">（要求大摘要）</span></div>
+
+<div><span style="font-family: 方正黑体简体">关键词：</span></div>
+
+<div><span style="font-family: 方正黑体简体">中图分类号：</span></div>
+
+<div align="center"><span style="font-family: 宋体; font-size: 16pt">英文题目</span></div>
+
+<div align="center"><span style="font-family: 宋体">作者英译名</span></div>
+
+<div align="center"><span style="font-family: 宋体; font-size: 9pt">（作者单位英译名）</span></div>
+
+<div><b>Abstract:</b></div>
+
+<div><b>Key words</b><b><span style="font-family: 宋体">：</span></b></div>
+
+<div>&nbsp;</div>
+
+<div><span style="font-family: 方正黑体简体; font-size: 12pt">前言</span></div>
+
+<div><span style="font-family: 方正黑体简体; font-size: 12pt">1</span><span style="font-family: 方正黑体简体; font-size: 12pt">材料与方法</span></div>
+
+<div><span style="font-family: 方正黑体简体; font-size: 12pt">2 </span><span style="font-family: 方正黑体简体; font-size: 12pt">结果与分析</span></div>
+
+<div><span style="font-family: 方正黑体简体; font-size: 12pt">3 </span><span style="font-family: 方正黑体简体; font-size: 12pt">结论与讨论<span>&nbsp;或&nbsp;3讨论 </span></span><span style="font-family: 方正黑体简体; font-size: 12pt">4 </span><span style="font-family: 方正黑体简体; font-size: 12pt">结论</span></div>
+
+<div>&nbsp;</div>
+
+<div><span>&nbsp;</span><span style="font-family: 方正黑体简体">参考文献：</span></div>
+
+<div><a><span style="font-family: 宋体; font-size: 9pt">[1]</span></a></div>
+
+<div><span style="font-family: 宋体; font-size: 9pt">[2]</span>&nbsp;</div>
+
+<div align="center">&nbsp;</div>
+
+<div align="center"><span style="font-family: 黑体; font-size: 22pt">具体要求</span></div>
+
+<div style="line-height: 29pt"><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">1.</span></b><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">题目：</span></b><span style="font-family: 仿宋_GB2312; font-size: 14pt">文章题目力求简短精练，尽量压缩在20字以内，应紧扣文章中心内容，不能使用笼统的、泛指性很强的词语，也应避免使用非共知共用的缩略词、首字母缩写词、字符或代号。</span></div>
+
+<div style="line-height: 29pt"><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">2.</span></b><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">作者及其单位：</span></b><span style="font-family: 仿宋_GB2312; font-size: 14pt">多个作者间用&ldquo;，&rdquo;隔开，作者姓名为两个字的中间不空格，通讯作者以&ldquo;*&rdquo;标出；不同作者单位间用&ldquo;；&rdquo;隔开。</span></div>
+
+<div align="left" style="text-align: left; line-height: 29pt"><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">3.</span><a><span><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">摘要：</span></b></span></a></b><span><span><span style="font-family: 仿宋_GB2312; font-size: 14pt">中、英文摘要以提供文稿内容梗概为目的，必须拥有与正文等量的主要信息，但不应将本学科领域已成为常识的内容及应放在前言里的内容列入。应包含目的、方法、结果、结论四要素，定量描述试验结果，不加评论和补充解释。</span></span></span></div>
+
+<div align="left" style="text-align: left; line-height: 29pt"><span><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">4.</span></b></span><span><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">关键词：</span></b></span><span><span style="font-family: 仿宋_GB2312; font-size: 14pt">3</span></span><span><span style="font-family: 仿宋_GB2312; font-size: 14pt">～<span>5个，以&ldquo;；&rdquo;分隔，应能反映论文的主题内容。</span></span></span></div>
+
+<div style="line-height: 29pt"><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">5.</span></b><a><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">前言：</span></b></a><span style="font-family: 仿宋_GB2312; font-size: 14pt">前言内容力求简练，不应过多叙述同行熟知的常识性内容，段落、语句之间衔接要自然。内容大致有如下几项：<span>研究目的（即为什么要进行本研究）；研究背景（即前人在本研究领域已进行了哪些研究，进行到何种程度，哪些问题尚未解决，应尽可能高度概括性列出与本研究有关的主要作者的最主要进展）；本研究的切入点或创新点（即前人研究的薄弱环节或空白）；拟解决的关键问题；以及预期结果和意义。</span></span></div>
+
+<div style="line-height: 29pt"><span style="font-family: 仿宋_GB2312; font-size: 14pt">6.材料与方法：应真实、清楚、详细，但不繁琐，引用之处可以只注明出处，创新之处应详细说明。</span><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">&nbsp;试验材料、时间、地点、方法等应交待清楚。</span></b></div>
+
+<div style="line-height: 29pt"><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">7.</span></b><a><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">讨论与结论：</span></b></a><span style="font-family: 仿宋_GB2312; font-size: 14pt">提炼概括并解释主要研究结果和论点，说明所取得成果的意义，指出自己成果与前人研究成果或观点的异同，讨论尚未定论之处和与预想相反的结果，提出今后研究的方向和问题。最主要的是突出新发现、新发明，突出自己研究的特色。</span><span style="font-family: 仿宋_GB2312; font-size: 14pt">&nbsp;</span></div>
+
+<div style="line-height: 29pt"><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">8.</span></b><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">综述类论文的写作</span></b><span style="font-family: 仿宋_GB2312; font-size: 14pt">：要求是该学科领域最新的国内外研究进展，参考文献数量要求在60篇以上，且大部分为近几年的文献，并且国外文献要求在20篇以上。</span></div>
+
+<div style="line-height: 29pt"><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">9.</span></b><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">图、表：</span></b><span style="font-family: 仿宋_GB2312; font-size: 14pt">实验结果的数量关系尽量用图、表表示，力求少而精，排在正文首次提及之后，只用中文，不用英文对照。线条图要求线条清晰，标注完整，一律用宋体小五号字；大小、比例适当，半栏图宽一般不超过6.5 cm，整栏图宽一般不超过14 cm。表格一律用三线表，表格内同类型数字的精确位数应相同，即小数点后的有效数字位数要统一。图注、表注后都加标点，图注在图题上方（在图和图题之间），表注在表格下方。</span></div>
+
+<div style="line-height: 29pt; text-indent: 28pt"><span style="font-family: 仿宋_GB2312; font-size: 14pt">投稿时，论文中的图片请以.JPEG、.tif等图像格式附件上传，曲线图、柱状图请链接数据源，Excel图请上传.Xls.、Xlsx格式附件。</span></div>
+
+<div style="line-height: 29pt"><span style="font-family: 仿宋_GB2312; font-size: 14pt">10.</span><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">计量单位：</span></b><span style="font-family: 仿宋_GB2312; font-size: 14pt">采用国家法定计量单位及符号，如：m(米)、s(秒)min(分)、h(小时)、d(天)、a（年）、L(升)、kg(千克)、hm<sup>2</sup>(公顷，英文中用ha)、t(吨)、lx(勒克斯)、Pa(帕斯卡)、mol(摩尔)、U(酶活力单位)等。M、N、ppm、亩、目（筛孔）等已停止使用，1M硫酸应改为1 mol/L硫酸，1N硫酸应改为0.5 mol/L硫酸，亩应换算成平方米或公顷，&ldquo;目&rdquo;应换算成孔径（mm）。</span></div>
+
+<div style="line-height: 29pt; text-indent: 21pt"><span style="font-family: 仿宋_GB2312; font-size: 14pt">单位符号不用于无数字的文句中，如 &ldquo;第n天&rdquo;表格内可以表示为&ldquo;第n d&rdquo;，行文时用&ldquo;第n天&rdquo;，每天不能写作每d。</span></div>
+
+<div style="line-height: 29pt; text-indent: 28pt"><span style="font-family: 仿宋_GB2312; font-size: 14pt">在1个组合单位内不得有1条以上的斜线，如&mu;mol&middot;m<sup>-2</sup>&middot;s<sup>-1</sup>可写作&mu;mol/(m<sup>2</sup>&middot;s)，但不可写作&mu;mol/m<sup>2</sup>/s。组合单位中一般不能附加其他信息，如光合速率为25</span><span style="font-family: 仿宋_GB2312; font-size: 14pt">～</span><span style="font-family: 仿宋_GB2312; font-size: 14pt">30 </span><span style="font-size: 14pt">&micro;</span><span style="font-family: 仿宋_GB2312; font-size: 14pt">mol/(m<sup>2</sup></span><span style="font-family: 仿宋_GB2312; font-size: 14pt">&middot;s),不能写成25</span><span style="font-family: 仿宋_GB2312; font-size: 14pt">～</span><span style="font-family: 仿宋_GB2312; font-size: 14pt">30 </span><span style="font-family: 宋体; font-size: 14pt">&micro;</span><span style="font-family: 仿宋_GB2312; font-size: 14pt">molCO<sub>2</sub>/</span><span style="font-family: 仿宋_GB2312; font-size: 14pt">（m<sup>2</sup></span><span style="font-family: 仿宋_GB2312; font-size: 14pt">&middot;</span><span style="font-family: 仿宋_GB2312; font-size: 14pt">s</span><span style="font-family: 仿宋_GB2312; font-size: 14pt">）。组合单位的分母中一般不加词头，但长度、面积、体积允许加词头。</span></div>
+
+<div style="line-height: 29pt; text-indent: 28pt"><span style="font-family: 仿宋_GB2312; font-size: 14pt">一组计量单位相同的量值（应使用阿拉伯数字）间仍使用顿号，最后两个量值间应尽量避免用&ldquo;和&rdquo;字，如&ldquo;1、2、3和4 mg&rdquo;应改为&ldquo;1、2、3、4 mg&rdquo;；如果用&ldquo;和&rdquo;字，则前一个数字应加单位符号，如&ldquo;1和2 mg&rdquo;应改为&ldquo;1 mg和2 mg&rdquo;。居并列关系的外文字母间的点号，视具体情况而定，凡表示具体物质的，如品种名称、酶代号、动植物拉丁名、化学元素符号一律用顿号，数字符号间则用逗号。</span></div>
+
+<div style="line-height: 29pt"><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">11.</span></b><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">正、斜体：</span></b><span style="font-family: 仿宋_GB2312; font-size: 14pt">本刊对论文中正、斜体的格式暂作如下规定：①物种的学名：属、种用拉丁文斜体，属的首字母大写，其余小写；属以上用拉丁文正体；病毒一律正体,首字母大写；②凡是基因都应斜体，如&ldquo;<i>HA</i>基因&rdquo;；蛋白应是正体，如&ldquo;HA蛋白&rdquo;；③限制性内切酶:内切酶前3个字母用斜体，后面的字母和编码正体平排。如<i>Bam</i>HⅠ、<i>Hin</i>dⅢ、<i>Pst</i>Ⅰ、<i>Sau</i>3AI等；④氨基酸</span><span style="font-family: 仿宋_GB2312; font-size: 14pt">和碱基的缩写：氨基酸缩写用</span><span style="font-family: 仿宋_GB2312; font-size: 14pt">3</span><span style="font-family: 仿宋_GB2312; font-size: 14pt">个字母表示时，仅第一个字母大写，其余为小写，全部正体，用单字母表示时，全部大写正体。碱基缩写全部大写正体；</span><span style="font-family: 仿宋_GB2312; font-size: 14pt">⑤</span><span style="font-family: 仿宋_GB2312; font-size: 14pt">质粒和载体：质粒一律用正体，首字母</span><span style="font-family: 仿宋_GB2312; font-size: 14pt">p</span><span style="font-family: 仿宋_GB2312; font-size: 14pt">为小写，后面字母和数码平排，如</span><span style="font-family: 仿宋_GB2312; letter-spacing: -0.2pt; font-size: 14pt">pBR322</span><span style="font-family: 仿宋_GB2312; font-size: 14pt">、</span><span style="font-family: 仿宋_GB2312; font-size: 14pt">pGBKT-ipaB</span><span style="font-family: 仿宋_GB2312; font-size: 14pt">等。</span></div>
+
+<div style="line-height: 29pt"><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">12.</span></b><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">百分数间比较：</span></b><span style="font-family: 仿宋_GB2312; font-size: 14pt">两个百分数间进行差值比较时只能用百分点表示。</span></div>
+
+<div style="line-height: 29pt"><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">13.</span></b><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">规范使用&ldquo;浓度&rdquo;：</span></b><span style="font-family: 仿宋_GB2312; font-size: 14pt">通常所说的&ldquo;浓度&rdquo;是物质的量浓度的简称，其单位为mol/m<sup>3</sup>或mol/L；单位为g/L的称为质量浓度；1单位的质量（体积）百分比浓度应称质量（体积）分数；单位为mol/kg的应称为质量摩尔浓度。</span></div>
+
+<div style="line-height: 29pt"><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">14.</span></b><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">参考文献</span></b><span style="font-family: 仿宋_GB2312; font-size: 14pt">：采用顺序编码制格式，文中引用内容必须全部注明文献来源，并按文中引用的先后顺序编号列于文后，学术研究论文的文后参考文献数量要求在30篇以上。</span></div>
+
+<div style="line-height: 29pt"><span style="font-family: 仿宋_GB2312; font-size: 14pt">&nbsp; &nbsp; &nbsp; &nbsp;参考文献作者列出前3位，超过3人时，第3作者后加&ldquo;，等&rdquo;（英文加&ldquo;，et al&rdquo;）；题名末尾加注相应的标识码，如：期刊为&ldquo;[J]&rdquo;，著作为&ldquo;[M]&rdquo;，论文集为&ldquo;[C]&rdquo;，在线报纸为&ldquo;[N/OL]&rdquo;，在线期刊为&ldquo;[J/OL]&rdquo;，标准为[S]等。</span></div>
+
+<div style="line-height: 29pt; margin: 0cm 0cm 0pt 20.7pt"><span style="font-family: 仿宋_GB2312; font-size: 14pt">不同文献的著录格式如下：</span></div>
+
+<div style="line-height: 29pt; text-indent: 20.65pt"><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">①连续出版物中的析出文献</span></b><span style="font-family: 仿宋_GB2312; font-size: 14pt">&nbsp;</span><span style="font-family: 仿宋_GB2312; font-size: 14pt">析出文献主要责任者.析出文献题名［文献类型标志］.连续出版物名称：其他题名信息,年,卷(期) :页码[引用日期].获取和访问路径.</span></div>
+
+<div style="line-height: 29pt"><span style="font-family: 仿宋_GB2312; font-size: 14pt">&nbsp;&nbsp;&nbsp;</span><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">②专著中的析出文献</span></b><span style="font-family: 仿宋_GB2312; font-size: 14pt">&nbsp;</span><span style="font-family: 仿宋_GB2312; font-size: 14pt">析出文献主要责任者.析出文献题名［文献类型标志］.析出文献其他责任者//专著主要责任者.专注题名:其他题名信息.版本项.出版地：出版者,出版年：析出文献的页码[引用日期].获取和访问路径.</span></div>
+
+<div style="line-height: 29pt; text-indent: 20.65pt"><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">③专利文献 </span></b><span style="font-family: 仿宋_GB2312; font-size: 14pt">&nbsp;专利申请者或所有者.专利题名：专利国别,专利号[文献类型标志].公告日期或公开日期[引用日期].获取和访问路径.</span></div>
+
+<div style="line-height: 29pt; text-indent: 21pt"><span style="font-family: 仿宋_GB2312; font-size: 14pt">④<b>技术标准 </b>责任人.标准代号 标准名称[文献类型标志].出版地：出版者,引文页码[引用日期]. 获取和访问路径.</span></div>
+
+<div>
+<div style="line-height: 29pt"><span style="font-size: 14pt">15.</span><b><span style="font-size: 14pt">注意事项：</span></b></div>
+
+<div style="line-height: 29pt; text-indent: 21pt"><span style="font-size: 14pt">（1）本刊编辑部对来稿可作必要的修改或删减。一般不退稿，要求退稿者请注明。请勿一稿多投，若2个月内未收到稿件录用通知，作者可自行处理。</span></div>
+
+<div style="line-height: 29pt; text-indent: 21pt"><span style="font-size: 14pt">（2）为适应我国信息化建设需要，扩大作者学术交流渠道，本刊已加入《中国学术期刊（光盘版）》和中国期刊网、万方数据&mdash;&mdash;数字化期刊网、重庆维普中文科技期刊数据库、龙源期刊网、超星期刊网等，作者著作权使用费与本刊稿酬一次性给付。如作者不同意将文章编入数据库，请在来稿时声明，本刊将作适当处理。</span></div>
+
+<div style="line-height: 28pt; text-indent: 21pt; background: #f7f7f7"><span style="font-size: 14pt">（3）本刊接收网站在线投稿，</span><span style="color: black; font-size: 14pt">本刊没有授权任何代理机构和个人来为《山东农业科学》组稿和收取版面费，向代理机构和个人交版面费的作者，本刊概不负责，造成的损失自负。</span></div>
+
+<div style="line-height: 28pt; text-indent: 21pt; background: #f7f7f7"><span style="color: black; font-size: 14pt">（4）通过在线投稿的论文，原则上作者和基金项目信息就不能再改动，请在投稿前确定好论文的作者及排序，一般不超过10人。</span></div>
+&nbsp;
+
+<hr align="left" size="1" width="33%" />
+<div id="ftn1">
+<div><a class="FCK__AnchorC" href="#_ftnref1" name="_ftn1" title=""><span style="font-family: 宋体; font-size: 9pt">收稿日期：</span></a></div>
+
+<div><span style="font-family: 宋体; font-size: 9pt">基金项目：来源（如：国家自然科学基金项目）</span><span style="font-size: 9pt">+</span><span style="font-family: 宋体; font-size: 9pt">名称（如：种质资源创制）</span><span style="font-size: 9pt">+</span><span style="font-family: 宋体; font-size: 9pt">编号（如：</span><span style="font-size: 9pt">213768</span><span style="font-family: 宋体; font-size: 9pt">）</span></div>
+
+<div><span style="font-family: 宋体; font-size: 9pt">作者简介：姓名（出生年</span><span style="font-size: 9pt">-</span><span style="font-family: 宋体; font-size: 9pt">），性别，籍贯，职称（在读硕士</span><span style="font-size: 9pt">/</span><span style="font-family: 宋体; font-size: 9pt">博士研究生可不写），学历，主要从事&hellip;&hellip;工作（在读研究生则为研究方向：&hellip;&hellip;）。</span><span style="font-size: 9pt">E-mail</span><span style="font-family: 宋体; font-size: 9pt">：</span></div>
+
+<div><span style="font-size: 9pt">*</span><span style="font-family: 宋体; font-size: 9pt">通讯作者：简介项目同第一作者简介。</span></div>
+</div>
+</div>
+
+<div>
+<hr align="left" size="1" width="33%" />
+<div>
+<div id="_com_1">
+<div><span><span>&nbsp;</span></span></div>
+</div>
+</div>
+</div>
+
+			</div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="footer">
+    <div class="inner">
+     <p>本系统由中国知网提供技术支持 使用说明 技术支持: cb@cnki.net http://find.cb.cnki.net<br> 建议采用IE 10.0以上版本，1024*768分辨率浏览本页面<br></p>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>

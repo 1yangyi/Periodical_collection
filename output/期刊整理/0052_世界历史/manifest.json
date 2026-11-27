@@ -1,0 +1,85 @@
+{
+  "journal": {
+    "name": "世界历史",
+    "url": "https://sjls.ajcass.com/",
+    "journal_id": "",
+    "row": 53,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://sjls.ajcass.com/",
+  "collected_at": "2026-11-26T20:45:34+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "sjls.ajcass.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://sjls.ajcass.com/",
+      "requested_url": "https://sjls.ajcass.com/",
+      "title": "世界历史",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:45:34+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://sjls.ajcass.com/Home/Show/?ChannelID=11733",
+      "requested_url": "https://sjls.ajcass.com/Home/Show/?ChannelID=11733",
+      "title": "世界历史",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:45:34+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://sjls.ajcass.com/Home/Show/?itemid=159023&ChannelID=11741",
+      "requested_url": "https://sjls.ajcass.com/Home/Show/?itemid=159023&ChannelID=11741",
+      "title": "世界历史",
+      "path": [
+        "官网入口",
+        "第九届全国世界史中青年学者论坛征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:45:34+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://sjls.ajcass.com/Home/Show/?ChannelID=11735",
+      "requested_url": "https://sjls.ajcass.com/Home/Show/?ChannelID=11735",
+      "title": "世界历史",
+      "path": [
+        "网站首页",
+        "技术规范"
+      ],
+      "visited_at": "2026-11-26T20:45:34+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://sjls.ajcass.com/",
+      "title": "世界历史",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

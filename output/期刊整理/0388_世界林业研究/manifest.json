@@ -1,0 +1,97 @@
+{
+  "journal": {
+    "name": "世界林业研究",
+    "url": "https://journals.caf.ac.cn/sjlyyj/",
+    "journal_id": "",
+    "row": 389,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://journals.caf.ac.cn/sjlyyj/",
+  "collected_at": "2026-11-26T21:00:43+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "journals.caf.ac.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://journals.caf.ac.cn/sjlyyj/",
+      "requested_url": "https://journals.caf.ac.cn/sjlyyj/",
+      "title": "世界林业研究",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:00:43+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://journals.caf.ac.cn/sjlyyj/%7B%7Bnews.linkedWebsite%7D%7D",
+      "title": "下载",
+      "source_url": "https://journals.caf.ac.cn/sjlyyj/",
+      "path": [
+        "官网入口",
+        "下载"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "400 Client Error:  for url: https://journals.caf.ac.cn/sjlyyj/%7B%7Bnews.linkedWebsite%7D%7D",
+      "context": "下载"
+    },
+    {
+      "url": "https://journals.caf.ac.cn/sjlyyj/%7B%7Bnews.attachmentPath%7D%7D",
+      "title": "下载",
+      "source_url": "https://journals.caf.ac.cn/sjlyyj/",
+      "path": [
+        "官网入口",
+        "下载"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "400 Client Error:  for url: https://journals.caf.ac.cn/sjlyyj/%7B%7Bnews.attachmentPath%7D%7D",
+      "context": "下载"
+    },
+    {
+      "url": "https://journals.caf.ac.cn/%7B%7BnewsColumn.publisherId%7D%7D/news/%7B%7Bnews.id%7D%7D",
+      "title": "下载",
+      "source_url": "https://journals.caf.ac.cn/sjlyyj/",
+      "path": [
+        "官网入口",
+        "下载"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "400 Client Error:  for url: https://journals.caf.ac.cn/%7B%7BnewsColumn.publisherId%7D%7D/news/%7B%7Bnews.id%7D%7D",
+      "context": "下载"
+    },
+    {
+      "url": "https://journals.caf.ac.cn/sjlyyj/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://journals.caf.ac.cn/sjlyyj/",
+      "title": "世界林业研究",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

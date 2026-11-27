@@ -1,0 +1,118 @@
+{
+  "journal": {
+    "name": "深空探测学报(中英文)",
+    "url": "https://jdse.bit.edu.cn/sktcxb/",
+    "journal_id": "",
+    "row": 129,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://jdse.bit.edu.cn/sktcxb/",
+  "collected_at": "2026-11-26T20:57:08+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "jdse.bit.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://jdse.bit.edu.cn/sktcxb/",
+      "requested_url": "https://jdse.bit.edu.cn/sktcxb/",
+      "title": "导出文件",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:57:08+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://jdse.bit.edu.cn/sktcxb/submission-guidelines",
+      "requested_url": "https://jdse.bit.edu.cn/sktcxb/submission-guidelines",
+      "title": "投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:57:08+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://jdse.bit.edu.cn/sktcxb/xiazaizhongxin",
+      "requested_url": "https://jdse.bit.edu.cn/sktcxb/xiazaizhongxin",
+      "title": "导出文件",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "visited_at": "2026-11-26T20:57:08+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://jdse.bit.edu.cn/sktcxb/",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "https://jdse.bit.edu.cn/sktcxb/submission-guidelines",
+      "title": "投稿指南",
+      "source_url": "https://jdse.bit.edu.cn/sktcxb/",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": "投稿指南"
+    },
+    {
+      "url": "https://jdse.bit.edu.cn/sktcxb/xiazaizhongxin",
+      "title": "下载中心",
+      "source_url": "https://jdse.bit.edu.cn/sktcxb/",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": "下载中心"
+    },
+    {
+      "url": "https://jdse.bit.edu.cn/sktcxb/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://jdse.bit.edu.cn/sktcxb/",
+      "title": "深空探测学报(中英文)",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

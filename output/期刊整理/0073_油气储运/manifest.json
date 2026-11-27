@@ -1,0 +1,109 @@
+{
+  "journal": {
+    "name": "油气储运",
+    "url": "https://yqcy.pipechina.com.cn/index.htm",
+    "journal_id": "",
+    "row": 74,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://yqcy.pipechina.com.cn/index.htm",
+  "collected_at": "2026-11-26T20:48:43+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "yqcy.pipechina.com.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://yqcy.pipechina.com.cn/index.htm",
+      "requested_url": "https://yqcy.pipechina.com.cn/index.htm",
+      "title": "学术沙龙",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:48:43+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://yqcy.pipechina.com.cn/submission-guidelines",
+      "requested_url": "https://yqcy.pipechina.com.cn/submission-guidelines",
+      "title": "《油气储运》投稿须知",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:48:43+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://yqcy.pipechina.com.cn/xiazaizhongxin",
+      "requested_url": "https://yqcy.pipechina.com.cn/xiazaizhongxin",
+      "title": "导出文件",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "visited_at": "2026-11-26T20:48:43+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://yqcy.pipechina.com.cn/index.htm",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "https://yqcy.pipechina.com.cn/submission-guidelines",
+      "title": "投稿须知",
+      "source_url": "https://yqcy.pipechina.com.cn/index.htm",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": "投稿须知"
+    },
+    {
+      "url": "https://yqcy.pipechina.com.cn/xiazaizhongxin",
+      "title": "下载中心",
+      "source_url": "https://yqcy.pipechina.com.cn/index.htm",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": "下载中心"
+    },
+    {
+      "url": "https://yqcy.pipechina.com.cn/index.htm",
+      "title": "油气储运",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

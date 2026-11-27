@@ -1,0 +1,30 @@
+{
+  "index": 190,
+  "journal": "人民文学",
+  "url": "https://wyb.chinawriter.com.cn/content/201612/01/content45320.html",
+  "source_sheet": "可打开",
+  "source_row": 191,
+  "started_at": "2026-11-26T20:58:04+08:00",
+  "finished_at": "2026-11-26T20:58:09+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST runs 返回 HTTP 402"
+  ],
+  "manifest": "0190_人民文学/manifest.json",
+  "pages": 1,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 2,
+  "pending_reasons": [
+    "browser_use_failed",
+    "no_valid_word_or_pdf"
+  ]
+}

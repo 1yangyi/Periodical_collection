@@ -1,0 +1,72 @@
+{
+  "journal": {
+    "name": "激光技术",
+    "url": "https://wap.opticsjournal.net/J/jgjs/Issues.html",
+    "journal_id": "",
+    "row": 248,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://wap.opticsjournal.net/J/jgjs/Issues.html",
+  "collected_at": "2026-11-26T20:59:01+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "wap.opticsjournal.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://wap.opticsjournal.net/J/jgjs/Issues.html",
+      "requested_url": "https://wap.opticsjournal.net/J/jgjs/Issues.html",
+      "title": "安全提示",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://wap.opticsjournal.net/J/jgjs/Channel/%E6%8A%95%E7%A8%BF%E6%8C%87%E5%8D%97.html",
+      "requested_url": "https://wap.opticsjournal.net/J/jgjs/Channel/%E6%8A%95%E7%A8%BF%E6%8C%87%E5%8D%97.html",
+      "title": "投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:59:01+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://wap.opticsjournal.net/J/jgjs/Issues.html",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://wap.opticsjournal.net/J/jgjs/Issues.html",
+      "title": "激光技术",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

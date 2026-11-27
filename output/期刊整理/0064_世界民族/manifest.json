@@ -1,0 +1,98 @@
+{
+  "journal": {
+    "name": "世界民族",
+    "url": "https://sjmz.ajcass.com/",
+    "journal_id": "",
+    "row": 65,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://sjmz.ajcass.com/",
+  "collected_at": "2026-11-26T20:47:19+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "sjmz.ajcass.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://sjmz.ajcass.com/",
+      "requested_url": "https://sjmz.ajcass.com/",
+      "title": "世界民族",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:47:19+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://sjmz.ajcass.com/Home/List/?ChannelID=11873",
+      "requested_url": "https://sjmz.ajcass.com/Home/List/?ChannelID=11873",
+      "title": "世界民族",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:47:19+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://sjmz.ajcass.com/Home/Show/?itemid=152955&ChannelID=11851",
+      "requested_url": "https://sjmz.ajcass.com/Home/Show/?itemid=152955&ChannelID=11851",
+      "title": "世界民族",
+      "path": [
+        "官网入口",
+        "《世界民族》“奋进新征程 建功新时代”专栏征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:47:19+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://sjmz.ajcass.com/Home/Show/?itemid=157517&ChannelID=11873",
+      "requested_url": "https://sjmz.ajcass.com/Home/Show/?itemid=157517&ChannelID=11873",
+      "title": "世界民族",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "《世界民族》来稿须知"
+      ],
+      "visited_at": "2026-11-26T20:47:19+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://sjmz.ajcass.com/Home/Show/?itemid=148437&ChannelID=11873",
+      "requested_url": "https://sjmz.ajcass.com/Home/Show/?itemid=148437&ChannelID=11873",
+      "title": "世界民族",
+      "path": [
+        "网站首页",
+        "投稿须知",
+        "《世界民族》行文规范和体例"
+      ],
+      "visited_at": "2026-11-26T20:47:19+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://sjmz.ajcass.com/",
+      "title": "世界民族",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,7 +1,17 @@
+# Local credentials and settings
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Python environments and generated caches
 .venv/
+venv/
 __pycache__/
 *.py[cod]
 .pytest_cache/
-outputs/
+.coverage
+htmlcov/
+
+# macOS metadata
 .DS_Store
-models/

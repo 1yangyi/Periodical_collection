@@ -1,0 +1,119 @@
+{
+  "journal": {
+    "name": "新疆地质",
+    "url": "https://www.scicloudcenter.com/XJG/",
+    "journal_id": "",
+    "row": 468,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.scicloudcenter.com/XJG/login/index",
+  "collected_at": "2026-11-26T20:02:32+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.scicloudcenter.com",
+      "www.sciengine.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.scicloudcenter.com/XJG/login/index",
+      "requested_url": "https://www.scicloudcenter.com/XJG/",
+      "title": "SciCloud",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:02:32+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.sciengine.com/XG/home",
+      "requested_url": "https://www.sciengine.com/XG/home",
+      "title": "期刊主页",
+      "path": [
+        "官网入口",
+        "期刊主页"
+      ],
+      "visited_at": "2026-11-26T20:02:32+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.scicloudcenter.com/XJG/fileNotLogin/instructions",
+      "requested_url": "https://www.scicloudcenter.com/XJG/fileNotLogin/instructions",
+      "title": "新疆地质",
+      "path": [
+        "https://www.scicloudcenter.com/XJG/login/index",
+        "点击“投稿须知”"
+      ],
+      "visited_at": "2026-11-26T20:02:32+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.scicloudcenter.com/XJG/fileNotLogin/download",
+      "requested_url": "https://www.scicloudcenter.com/XJG/fileNotLogin/download",
+      "title": "新疆地质",
+      "path": [
+        "https://www.scicloudcenter.com/XJG/login/index",
+        "点击“相关下载”"
+      ],
+      "visited_at": "2026-11-26T20:02:32+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "新疆地质",
+      "source_url": "https://www.scicloudcenter.com/XJG/fileNotLogin/instructions",
+      "path": [
+        "https://www.scicloudcenter.com/XJG/login/index",
+        "点击“投稿须知”"
+      ],
+      "local_path": "web/新疆地质_5a87c75a92.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "新疆地质投稿格式",
+      "local_path": "新疆地质投稿格式.md",
+      "source_urls": [
+        "https://www.scicloudcenter.com/XJG/fileNotLogin/instructions"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://www.scicloudcenter.com/XJG/",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "https://www.scicloudcenter.com/XJG/",
+      "title": "新疆地质",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

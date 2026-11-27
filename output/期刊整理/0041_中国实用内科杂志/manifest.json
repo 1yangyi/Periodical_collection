@@ -1,0 +1,136 @@
+{
+  "journal": {
+    "name": "中国实用内科杂志",
+    "url": "https://www.zgsyz.com/zgsynk/CN/news/news44.shtml",
+    "journal_id": "",
+    "row": 42,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.zgsyz.com/zgsynk/CN/news/news44.shtml",
+  "collected_at": "2026-11-26T20:43:42+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.zgsyz.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.zgsyz.com/zgsynk/CN/news/news44.shtml",
+      "requested_url": "https://www.zgsyz.com/zgsynk/CN/news/news44.shtml",
+      "title": "中国实用内科杂志",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:43:42+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.zgsyz.com/zgsynk/CN/column/column6.shtml",
+      "requested_url": "https://www.zgsyz.com/zgsynk/CN/column/column6.shtml",
+      "title": "中国实用内科杂志 投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:43:42+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.zgsyz.com/zgsynk/CN/column/item11.shtml",
+      "requested_url": "https://www.zgsyz.com/zgsynk/CN/column/item11.shtml",
+      "title": "中国实用内科杂志 投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:43:42+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.zgsyz.com/zgsynk/CN/column/item6.shtml",
+      "requested_url": "https://www.zgsyz.com/zgsynk/CN/column/item6.shtml",
+      "title": "中国实用内科杂志 投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:43:42+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.zgsyz.com/zgsynk/CN/column/item12.shtml",
+      "requested_url": "https://www.zgsyz.com/zgsynk/CN/column/item12.shtml",
+      "title": "中国实用内科杂志 投稿指南",
+      "path": [
+        "起始页面：通知公告",
+        "顶部导航：投稿指南",
+        "投稿指南列表：版权转让协议"
+      ],
+      "visited_at": "2026-11-26T20:43:42+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "中国实用内科杂志 投稿指南",
+      "source_url": "https://www.zgsyz.com/zgsynk/CN/column/item11.shtml",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "投稿须知"
+      ],
+      "local_path": "web/中国实用内科杂志 投稿指南_f13915a1cb.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "中国实用内科杂志 投稿指南",
+      "source_url": "https://www.zgsyz.com/zgsynk/CN/column/item12.shtml",
+      "path": [
+        "起始页面：通知公告",
+        "顶部导航：投稿指南",
+        "投稿指南列表：版权转让协议"
+      ],
+      "local_path": "web/中国实用内科杂志 投稿指南_62e33f36c7.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "中国实用内科杂志投稿格式",
+      "local_path": "中国实用内科杂志投稿格式.md",
+      "source_urls": [
+        "https://www.zgsyz.com/zgsynk/CN/column/item11.shtml",
+        "https://www.zgsyz.com/zgsynk/CN/column/item12.shtml"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://www.zgsyz.com/zgsynk/CN/news/news44.shtml",
+      "title": "中国实用内科杂志",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

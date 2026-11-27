@@ -1,0 +1,249 @@
+{
+  "journal": {
+    "name": "噪声与振动控制",
+    "url": "https://nvc.sjtu.edu.cn/CN/column/item10.shtml",
+    "journal_id": "",
+    "row": 301,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "completed",
+  "homepage_resolved": "https://nvc.sjtu.edu.cn/CN/column/item10.shtml",
+  "collected_at": "2026-11-26T20:59:27+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "nvc.sjtu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://nvc.sjtu.edu.cn/CN/column/item10.shtml",
+      "requested_url": "https://nvc.sjtu.edu.cn/CN/column/item10.shtml",
+      "title": "噪声与振动控制 投稿指南",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:27+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://nvc.sjtu.edu.cn/CN/column/column6.shtml",
+      "requested_url": "https://nvc.sjtu.edu.cn/CN/column/column6.shtml",
+      "title": "噪声与振动控制 投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:59:27+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://nvc.sjtu.edu.cn/CN/column/column18.shtml",
+      "requested_url": "https://nvc.sjtu.edu.cn/CN/column/column18.shtml",
+      "title": "噪声与振动控制 论文模板",
+      "path": [
+        "官网入口",
+        "论文模板"
+      ],
+      "visited_at": "2026-11-26T20:59:27+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://nvc.sjtu.edu.cn/CN/column/item3.shtml",
+      "requested_url": "https://nvc.sjtu.edu.cn/CN/column/item3.shtml",
+      "title": "噪声与振动控制 投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:59:27+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "噪声与振动控制 论文模板",
+      "source_url": "https://nvc.sjtu.edu.cn/CN/column/column18.shtml",
+      "path": [
+        "官网入口",
+        "论文模板"
+      ],
+      "local_path": "web/噪声与振动控制 论文模板_810e7623af.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "attachment",
+      "format": "doc",
+      "title": "/attached/file/20241210/20241210140210_442.doc",
+      "local_path": "attachments/20240515174537_266_61a3c807f6.doc",
+      "sha256": "61a3c807f61f547e8b70a692408c305277a6063888501678698b827235a04d42",
+      "bytes": 187392,
+      "sources": [
+        {
+          "source_url": "https://nvc.sjtu.edu.cn/CN/column/column18.shtml",
+          "download_url": "https://nvc.sjtu.edu.cn/attached/file/20240515/20240515174537_266.doc",
+          "resolved_url": "https://nvc.sjtu.edu.cn/attached/file/20240515/20240515174537_266.doc",
+          "path": [
+            "官网入口",
+            "论文模板",
+            "/attached/file/20241210/20241210140210_442.doc"
+          ],
+          "label": "/attached/file/20241210/20241210140210_442.doc",
+          "context": "论文格式模板（2024年4月1日修订）： /attached/file/20241210/20241210140210_442.doc",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "attachment",
+      "format": "doc",
+      "title": "/attached/file/20241210/20241210140210_442.doc",
+      "local_path": "attachments/20241210140210_442_b9897b4161.doc",
+      "sha256": "b9897b4161b013d9cd95e65f9481b7834399ea7729d37a5edea173e6bd503636",
+      "bytes": 187392,
+      "sources": [
+        {
+          "source_url": "https://nvc.sjtu.edu.cn/CN/column/column18.shtml",
+          "download_url": "https://nvc.sjtu.edu.cn/attached/file/20241210/20241210140210_442.doc",
+          "resolved_url": "https://nvc.sjtu.edu.cn/attached/file/20241210/20241210140210_442.doc",
+          "path": [
+            "官网入口",
+            "论文模板",
+            "/attached/file/20241210/20241210140210_442.doc"
+          ],
+          "label": "/attached/file/20241210/20241210140210_442.doc",
+          "context": "论文格式模板（2024年4月1日修订）： /attached/file/20241210/20241210140210_442.doc",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "attachment",
+      "format": "docx",
+      "title": "/attached/file/20211028/20211028164024_27.docx",
+      "local_path": "attachments/20211028164024_27_4c906a111e.docx",
+      "sha256": "4c906a111ee0f0d193b79a379dfea853c88857a0b0eca18e1412ee3be876c6f1",
+      "bytes": 16023,
+      "sources": [
+        {
+          "source_url": "https://nvc.sjtu.edu.cn/CN/column/column18.shtml",
+          "download_url": "https://nvc.sjtu.edu.cn/attached/file/20211028/20211028164024_27.docx",
+          "resolved_url": "https://nvc.sjtu.edu.cn/attached/file/20211028/20211028164024_27.docx",
+          "path": [
+            "官网入口",
+            "论文模板",
+            "/attached/file/20211028/20211028164024_27.docx"
+          ],
+          "label": "/attached/file/20211028/20211028164024_27.docx",
+          "context": "参考文献著录格式 ： /attached/file/20211028/20211028164024_27.docx",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "webpage",
+      "title": "噪声与振动控制 投稿指南",
+      "source_url": "https://nvc.sjtu.edu.cn/CN/column/item3.shtml",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "投稿指南"
+      ],
+      "local_path": "web/噪声与振动控制 投稿指南_6a879894ba.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "噪声与振动控制投稿格式",
+      "local_path": "噪声与振动控制投稿格式.md",
+      "source_urls": [
+        "https://nvc.sjtu.edu.cn/CN/column/item3.shtml"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://nvc.sjtu.edu.cn/attached/file/20211025/20211025155245_231.docx",
+      "title": "/attached/file/20211025/20211025155245_231.docx",
+      "source_url": "https://nvc.sjtu.edu.cn/CN/column/column18.shtml",
+      "path": [
+        "官网入口",
+        "论文模板",
+        "/attached/file/20211025/20211025155245_231.docx"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "图、表格式参考： /attached/file/20211025/20211025155245_231.docx"
+    },
+    {
+      "url": "https://nvc.sjtu.edu.cn/attached/file/20211025/20211025155301_0.docx",
+      "title": "/attached/file/20211025/20211025155301_0.docx",
+      "source_url": "https://nvc.sjtu.edu.cn/CN/column/column18.shtml",
+      "path": [
+        "官网入口",
+        "论文模板",
+        "/attached/file/20211025/20211025155301_0.docx"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "有关量、单位和符号使用的一般原则 ： /attached/file/20211025/20211025155301_0.docx"
+    },
+    {
+      "url": "https://nvc.sjtu.edu.cn/attached/file/20211025/20211025155333_186.docx",
+      "title": "/attached/file/20211025/20211025155333_186.docx",
+      "source_url": "https://nvc.sjtu.edu.cn/CN/column/column18.shtml",
+      "path": [
+        "官网入口",
+        "论文模板",
+        "/attached/file/20211025/20211025155333_186.docx"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "常用中图分类号 ： /attached/file/20211025/20211025155333_186.docx"
+    },
+    {
+      "url": "https://nvc.sjtu.edu.cn/attached/file/20211028/20211028164346_509.pdf",
+      "title": "/attached/file/20211028/20211028164346_509.pdf",
+      "source_url": "https://nvc.sjtu.edu.cn/CN/column/column18.shtml",
+      "path": [
+        "官网入口",
+        "论文模板",
+        "/attached/file/20211028/20211028164346_509.pdf"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "用Adobe Acrobat软件校样标注 ： /attached/file/20211028/20211028164346_509.pdf"
+    },
+    {
+      "url": "https://nvc.sjtu.edu.cn/attached/file/20211217/20211217164552_288.docx",
+      "title": "/attached/file/20211217/20211217164552_288.docx",
+      "source_url": "https://nvc.sjtu.edu.cn/CN/column/column18.shtml",
+      "path": [
+        "官网入口",
+        "论文模板",
+        "/attached/file/20211217/20211217164552_288.docx"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "如何填写发票抬头信息： /attached/file/20211217/20211217164552_288.docx"
+    }
+  ]
+}

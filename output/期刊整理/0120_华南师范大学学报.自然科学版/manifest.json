@@ -1,0 +1,86 @@
+{
+  "journal": {
+    "name": "华南师范大学学报.自然科学版",
+    "url": "https://journal-n.scnu.edu.cn/",
+    "journal_id": "",
+    "row": 121,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://journal-n.scnu.edu.cn/",
+  "collected_at": "2026-11-26T20:55:57+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "journal-n.scnu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://journal-n.scnu.edu.cn/",
+      "requested_url": "https://journal-n.scnu.edu.cn/",
+      "title": "导出文件",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:55:57+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://journal-n.scnu.edu.cn/tougaoxuzhi_cn",
+      "requested_url": "https://journal-n.scnu.edu.cn/tougaoxuzhi_cn",
+      "title": "投稿指南",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:55:57+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://journal-n.scnu.edu.cn/",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "https://journal-n.scnu.edu.cn/tougaoxuzhi_cn",
+      "title": "投稿须知",
+      "source_url": "https://journal-n.scnu.edu.cn/",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": "投稿须知"
+    },
+    {
+      "url": "https://journal-n.scnu.edu.cn/",
+      "title": "华南师范大学学报.自然科学版",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

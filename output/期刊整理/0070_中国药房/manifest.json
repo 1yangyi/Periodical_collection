@@ -1,0 +1,110 @@
+{
+  "journal": {
+    "name": "中国药房",
+    "url": "https://journal.china-pharmacy.com/zh/home/",
+    "journal_id": "",
+    "row": 71,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://journal.china-pharmacy.com/zh/home/",
+  "collected_at": "2026-11-26T20:48:06+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "journal.china-pharmacy.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://journal.china-pharmacy.com/zh/home/",
+      "requested_url": "https://journal.china-pharmacy.com/zh/home/",
+      "title": "快捷入口",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:48:06+08:00",
+      "published_at": "2026-11-17"
+    },
+    {
+      "url": "https://journal.china-pharmacy.com/zh/info/9840/",
+      "requested_url": "http://journal.china-pharmacy.com/zh/info/9840/",
+      "title": "投稿须知 - 中国药房",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:48:06+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://journal.china-pharmacy.com/download?columnId=7954&columnName=%E4%BD%9C%E8%80%85%E4%B8%8B%E8%BD%BD&index=3&parentIndex=3&bannerId=null&code=download&newsDataType=&newCompositeId=9796&childId=",
+      "requested_url": "http://journal.china-pharmacy.com/download?columnId=7954&columnName=%E4%BD%9C%E8%80%85%E4%B8%8B%E8%BD%BD&index=3&parentIndex=3&bannerId=null&code=download&newsDataType=&newCompositeId=9796&childId=",
+      "title": "作者下载（链接已在站内页面确认；打开后页面内容为空，未确认具体模板或附件）",
+      "path": [
+        "中国药房首页",
+        "投稿助手",
+        "作者下载"
+      ],
+      "visited_at": "2026-11-26T20:48:06+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿须知 - 中国药房",
+      "source_url": "https://journal.china-pharmacy.com/zh/info/9840/",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "local_path": "web/投稿须知 - 中国药房_e6ef4889f0.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "中国药房投稿格式",
+      "local_path": "中国药房投稿格式.md",
+      "source_urls": [
+        "https://journal.china-pharmacy.com/zh/info/9840/"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "http://journal.china-pharmacy.com/download?columnId=7954&columnName=%E4%BD%9C%E8%80%85%E4%B8%8B%E8%BD%BD&index=3&parentIndex=3&bannerId=null&code=download&newsDataType=&newCompositeId=9796&childId=",
+      "title": "作者下载",
+      "source_url": "https://journal.china-pharmacy.com/zh/info/9840/",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "作者下载"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "作者下载"
+    },
+    {
+      "url": "https://journal.china-pharmacy.com/zh/home/",
+      "title": "中国药房",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

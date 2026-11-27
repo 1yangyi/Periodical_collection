@@ -1,0 +1,192 @@
+{
+  "journal": {
+    "name": "原子能科学技术",
+    "url": "https://yznkxjs.xml-journal.net/cn/",
+    "journal_id": "",
+    "row": 34,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://yznkxjs.xml-journal.net/cn/",
+  "collected_at": "2026-11-26T20:42:22+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "yznkxjs.xml-journal.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://yznkxjs.xml-journal.net/cn/",
+      "requested_url": "https://yznkxjs.xml-journal.net/cn/",
+      "title": "导出文件",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:42:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://yznkxjs.xml-journal.net/tougaoxuzhi",
+      "requested_url": "https://yznkxjs.xml-journal.net/tougaoxuzhi",
+      "title": "《原子能科学技术》投稿须知",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:42:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://yznkxjs.xml-journal.net/zhenggaojianze",
+      "requested_url": "https://yznkxjs.xml-journal.net/zhenggaojianze",
+      "title": "《原子能科学技术》征稿简则",
+      "path": [
+        "官网入口",
+        "征稿简则"
+      ],
+      "visited_at": "2026-11-26T20:42:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://yznkxjs.xml-journal.net/xiazaizhongxin",
+      "requested_url": "https://yznkxjs.xml-journal.net/xiazaizhongxin",
+      "title": "导出文件",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "visited_at": "2026-11-26T20:42:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://yznkxjs.xml-journal.net/lunwnemoban",
+      "requested_url": "https://yznkxjs.xml-journal.net/lunwnemoban",
+      "title": "导出文件",
+      "path": [
+        "起始页「原子能科学技术」",
+        "投稿指南",
+        "论文模版"
+      ],
+      "visited_at": "2026-11-26T20:42:22+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "《原子能科学技术》投稿须知",
+      "source_url": "https://yznkxjs.xml-journal.net/tougaoxuzhi",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "local_path": "web/《原子能科学技术》投稿须知_d95a0f1242.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "《原子能科学技术》征稿简则",
+      "source_url": "https://yznkxjs.xml-journal.net/zhenggaojianze",
+      "path": [
+        "官网入口",
+        "征稿简则"
+      ],
+      "local_path": "web/《原子能科学技术》征稿简则_019f3515f8.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "原子能科学技术投稿格式",
+      "local_path": "原子能科学技术投稿格式.md",
+      "source_urls": [
+        "https://yznkxjs.xml-journal.net/tougaoxuzhi",
+        "https://yznkxjs.xml-journal.net/zhenggaojianze"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://yznkxjs.xml-journal.net/cn/",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "https://yznkxjs.xml-journal.net/tougaoxuzhi",
+      "title": "投稿须知",
+      "source_url": "https://yznkxjs.xml-journal.net/cn/",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": "投稿须知"
+    },
+    {
+      "url": "https://yznkxjs.xml-journal.net/zhenggaojianze",
+      "title": "征稿简则",
+      "source_url": "https://yznkxjs.xml-journal.net/cn/",
+      "path": [
+        "官网入口",
+        "征稿简则"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": "征稿简则"
+    },
+    {
+      "url": "https://yznkxjs.xml-journal.net/xiazaizhongxin",
+      "title": "下载中心",
+      "source_url": "https://yznkxjs.xml-journal.net/cn/",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": "下载中心"
+    },
+    {
+      "url": "https://yznkxjs.xml-journal.net/lunwnemoban",
+      "title": "论文模版",
+      "source_url": "https://yznkxjs.xml-journal.net/cn/",
+      "path": [
+        "起始页「原子能科学技术」",
+        "投稿指南",
+        "论文模版"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "https://yznkxjs.xml-journal.net/cn/",
+      "title": "原子能科学技术",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

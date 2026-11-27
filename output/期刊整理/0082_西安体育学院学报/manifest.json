@@ -1,0 +1,98 @@
+{
+  "journal": {
+    "name": "西安体育学院学报",
+    "url": "https://xaty.cbpt.cnki.net/portal/journal/portal/client/index",
+    "journal_id": "",
+    "row": 83,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://xaty.cbpt.cnki.net/portal/journal/portal/client/index",
+  "collected_at": "2026-11-26T20:50:04+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "xaty.cbpt.cnki.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://xaty.cbpt.cnki.net/portal/journal/portal/client/index",
+      "requested_url": "https://xaty.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "西安体育学院学报",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:50:04+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://xaty.cbpt.cnki.net/portal/journal/portal/client/news/XATY_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "requested_url": "https://xaty.cbpt.cnki.net/portal/journal/portal/client/news/XATY_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "title": "投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:50:04+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿指南",
+      "source_url": "https://xaty.cbpt.cnki.net/portal/journal/portal/client/news/XATY_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "local_path": "web/投稿指南_907d10e22d.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "西安体育学院学报投稿格式",
+      "local_path": "西安体育学院学报投稿格式.md",
+      "source_urls": [
+        "https://xaty.cbpt.cnki.net/portal/journal/portal/client/news/XATY_0a96be87-490b-49ff-90aa-bee7b5d1b2cc"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://xaty.cbpt.cnki.net/portal/journal/portal/client/download/XATY_a6ca31d7-fa4f-4f3d-a30c-bfb23189f0ea?title=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83",
+      "title": "下载中心",
+      "source_url": "https://xaty.cbpt.cnki.net/portal/journal/portal/client/news/XATY_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "下载中心"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载中心"
+    },
+    {
+      "url": "https://xaty.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "西安体育学院学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

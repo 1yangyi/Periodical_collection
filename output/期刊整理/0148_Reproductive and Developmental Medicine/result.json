@@ -1,0 +1,30 @@
+{
+  "index": 148,
+  "journal": "Reproductive and Developmental Medicine",
+  "url": "https://rdm.yiigle.com/superSeach.jspx",
+  "source_sheet": "可打开",
+  "source_row": 149,
+  "started_at": "2026-11-26T20:57:34+08:00",
+  "finished_at": "2026-11-26T20:57:41+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST runs 返回 HTTP 402"
+  ],
+  "manifest": "0148_Reproductive and Developmental Medicine/manifest.json",
+  "pages": 1,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 2,
+  "pending_reasons": [
+    "browser_use_failed",
+    "no_valid_word_or_pdf"
+  ]
+}

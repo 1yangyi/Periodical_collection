@@ -1,0 +1,450 @@
+{
+  "journal": {
+    "name": "华中农业大学学报(社会科学版)",
+    "url": "https://qks.hzau.edu.cn/qkdh/xbskb.htm",
+    "journal_id": "",
+    "row": 134,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://qks.hzau.edu.cn/qkdh/xbskb.htm",
+  "collected_at": "2026-11-26T20:57:19+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "hnxbl.cnjournals.net",
+      "qks.hzau.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://qks.hzau.edu.cn/qkdh/xbskb.htm",
+      "requested_url": "https://qks.hzau.edu.cn/qkdh/xbskb.htm",
+      "title": "友情链接",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:57:19+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qks.hzau.edu.cn/xwgg/tzgg.htm",
+      "requested_url": "https://qks.hzau.edu.cn/xwgg/tzgg.htm",
+      "title": "友情链接",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:57:19+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qks.hzau.edu.cn/info/1013/3654.htm",
+      "requested_url": "https://qks.hzau.edu.cn/info/1013/3654.htm",
+      "title": "《华中农业大学学报》“水产养殖设施工程与智能装备”专题征稿启事",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "《华中农业大学学报》“水产养殖设施工程与智能装备”专题征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:57:19+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qks.hzau.edu.cn/info/1013/3634.htm",
+      "requested_url": "https://qks.hzau.edu.cn/info/1013/3634.htm",
+      "title": "《华中农业大学学报》“大宗淡水鱼绿色高效养殖技术”专题征稿启事",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "《华中农业大学学报》“大宗淡水鱼绿色高效养殖技术”专题征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:57:19+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qks.hzau.edu.cn/info/1013/3624.htm",
+      "requested_url": "https://qks.hzau.edu.cn/info/1013/3624.htm",
+      "title": "《华中农业大学学报》“淡水鱼加工技术与产业发展”专题征稿通知",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "《华中农业大学学报》“淡水鱼加工技术与产业发展”专题征稿通知"
+      ],
+      "visited_at": "2026-11-26T20:57:19+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qks.hzau.edu.cn/info/1013/3064.htm",
+      "requested_url": "https://qks.hzau.edu.cn/info/1013/3064.htm",
+      "title": "《华中农业大学学报》“农业人工智能”专题 征稿通知",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "《华中农业大学学报》“农业人工智能”专题 征稿通知"
+      ],
+      "visited_at": "2026-11-26T20:57:19+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qks.hzau.edu.cn/info/1013/3034.htm",
+      "requested_url": "https://qks.hzau.edu.cn/info/1013/3034.htm",
+      "title": "《华中农业大学学报》“城乡融绿高质量发展”专题征稿通知",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "《华中农业大学学报》“城乡融绿高质量发展”专题征稿通知"
+      ],
+      "visited_at": "2026-11-26T20:57:19+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qks.hzau.edu.cn/info/1013/3024.htm",
+      "requested_url": "https://qks.hzau.edu.cn/info/1013/3024.htm",
+      "title": "《华中农业大学学报》“黑茶产业高质量发展”专题征稿通知",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "《华中农业大学学报》“黑茶产业高质量发展”专题征稿通知"
+      ],
+      "visited_at": "2026-11-26T20:57:19+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://hnxbl.cnjournals.net/hznydxzr/home",
+      "requested_url": "http://hnxbl.cnjournals.net/",
+      "title": "欢迎投稿 <华中农业大学学报 >自然科学版",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "《华中农业大学学报》“大宗淡水鱼绿色高效养殖技术”专题征稿启事",
+        "http://hnxbl.cnjournals.net"
+      ],
+      "visited_at": "2026-11-26T20:57:19+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qks.hzau.edu.cn/xwgg/tzgg/2.htm",
+      "requested_url": "https://qks.hzau.edu.cn/xwgg/tzgg/2.htm",
+      "title": "友情链接",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2"
+      ],
+      "visited_at": "2026-11-26T20:57:19+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qks.hzau.edu.cn/info/1013/2315.htm",
+      "requested_url": "https://qks.hzau.edu.cn/info/1013/2315.htm",
+      "title": "“风景园林与气候变化”专集征稿通知",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2",
+        "“风景园林与气候变化”专集征稿通知"
+      ],
+      "visited_at": "2026-11-26T20:57:19+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qks.hzau.edu.cn/info/1013/2165.htm",
+      "requested_url": "https://qks.hzau.edu.cn/info/1013/2165.htm",
+      "title": "《华中农业大学学报》“柑橘贮藏与加工利用”专题征稿通知",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2",
+        "《华中农业大学学报》“柑橘贮藏与加工利用”专题征稿通知"
+      ],
+      "visited_at": "2026-11-26T20:57:19+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qks.hzau.edu.cn/info/1013/2162.htm",
+      "requested_url": "https://qks.hzau.edu.cn/info/1013/2162.htm",
+      "title": "《华中农业大学学报》“畜禽养殖废弃物资源化利用”专题征稿通知",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2",
+        "《华中农业大学学报》“畜禽养殖废弃物资源化利用”专题征稿通知"
+      ],
+      "visited_at": "2026-11-26T20:57:19+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qks.hzau.edu.cn/info/1013/1913.htm",
+      "requested_url": "https://qks.hzau.edu.cn/info/1013/1913.htm",
+      "title": "Animal Diseases(动物疾病）征稿启事",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2",
+        "Animal Diseases(动物疾病）征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:57:19+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qks.hzau.edu.cn/info/1013/1770.htm",
+      "requested_url": "https://qks.hzau.edu.cn/info/1013/1770.htm",
+      "title": "Animal Diseases(中文刊名:《动物疾病》）征稿启事",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2",
+        "Animal Diseases(中文刊名:《动物疾病》）征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:57:19+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qks.hzau.edu.cn/xwgg/tzgg/1.htm",
+      "requested_url": "https://qks.hzau.edu.cn/xwgg/tzgg/1.htm",
+      "title": "友情链接",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "3"
+      ],
+      "visited_at": "2026-11-26T20:57:19+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "Animal Diseases(动物疾病）征稿启事",
+      "source_url": "https://qks.hzau.edu.cn/info/1013/1913.htm",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2",
+        "Animal Diseases(动物疾病）征稿启事"
+      ],
+      "local_path": "web/Animal Diseases(动物疾病）征稿启事_7c96dd5aa7.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "Animal Diseases(中文刊名:《动物疾病》）征稿启事",
+      "source_url": "https://qks.hzau.edu.cn/info/1013/1770.htm",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2",
+        "Animal Diseases(中文刊名:《动物疾病》）征稿启事"
+      ],
+      "local_path": "web/Animal Diseases(中文刊名_《动物疾病》）征稿启事_ccabe7b546.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "华中农业大学学报(社会科学版)投稿格式",
+      "local_path": "华中农业大学学报(社会科学版)投稿格式.md",
+      "source_urls": [
+        "https://qks.hzau.edu.cn/info/1013/1770.htm"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "http://hnxbl.cnjournals.net/hznydxzr/hznydxzr/site/menus/20200714144802001",
+      "title": "投稿指南",
+      "source_url": "http://hnxbl.cnjournals.net/hznydxzr/home",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "《华中农业大学学报》“大宗淡水鱼绿色高效养殖技术”专题征稿启事",
+        "http://hnxbl.cnjournals.net",
+        "投稿指南"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "投稿指南"
+    },
+    {
+      "url": "http://hnxbl.cnjournals.net/hznydxzr/hznydxzr/news/view/20261103110922001",
+      "title": "《华中农业大学学报》“水产养殖设施工程与智能装备” 专题征稿启事",
+      "source_url": "http://hnxbl.cnjournals.net/hznydxzr/home",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "《华中农业大学学报》“大宗淡水鱼绿色高效养殖技术”专题征稿启事",
+        "http://hnxbl.cnjournals.net",
+        "《华中农业大学学报》“水产养殖设施工程与智能装备” 专题征稿启事"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "· 《华中农业大学学报》“水产养殖设施工程与智能装备” 专题征稿启事 11-03"
+    },
+    {
+      "url": "http://hnxbl.cnjournals.net/hznydxzr/hznydxzr/news/view/20261029154403001",
+      "title": "《华中农业大学学报》“大宗淡水鱼绿色高效养殖技术” 专题征稿启事",
+      "source_url": "http://hnxbl.cnjournals.net/hznydxzr/home",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "《华中农业大学学报》“大宗淡水鱼绿色高效养殖技术”专题征稿启事",
+        "http://hnxbl.cnjournals.net",
+        "《华中农业大学学报》“大宗淡水鱼绿色高效养殖技术” 专题征稿启事"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "· 《华中农业大学学报》“大宗淡水鱼绿色高效养殖技术” 专题征稿启事 10-29"
+    },
+    {
+      "url": "http://hnxbl.cnjournals.net/hznydxzr/hznydxzr/news/view/20261029153509001",
+      "title": "《华中农业大学学报》“淡水鱼加工技术与产业发展” 专题征稿启事",
+      "source_url": "http://hnxbl.cnjournals.net/hznydxzr/home",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "《华中农业大学学报》“大宗淡水鱼绿色高效养殖技术”专题征稿启事",
+        "http://hnxbl.cnjournals.net",
+        "《华中农业大学学报》“淡水鱼加工技术与产业发展” 专题征稿启事"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "· 《华中农业大学学报》“淡水鱼加工技术与产业发展” 专题征稿启事 10-29"
+    },
+    {
+      "url": "http://hnxbl.cnjournals.net/hznydxzr/hznydxzr/news/view/20260716181807001",
+      "title": "《华中农业大学学报》“农业绿色防控”专题征稿启事",
+      "source_url": "http://hnxbl.cnjournals.net/hznydxzr/home",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "《华中农业大学学报》“大宗淡水鱼绿色高效养殖技术”专题征稿启事",
+        "http://hnxbl.cnjournals.net",
+        "《华中农业大学学报》“农业绿色防控”专题征稿启事"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "· 《华中农业大学学报》“农业绿色防控”专题征稿启事 07-16"
+    },
+    {
+      "url": "http://hnxbl.cnjournals.net/hznydxzr/hznydxzr/news/view/20260716152137001",
+      "title": "《华中农业大学学报》“智能化纳米材料在农业及相关领域的应用”专题征稿通知",
+      "source_url": "http://hnxbl.cnjournals.net/hznydxzr/home",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "《华中农业大学学报》“大宗淡水鱼绿色高效养殖技术”专题征稿启事",
+        "http://hnxbl.cnjournals.net",
+        "《华中农业大学学报》“智能化纳米材料在农业及相关领域的应用”专题征稿通知"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "· 《华中农业大学学报》“智能化纳米材料在农业及相关领域的应用”专题征稿通知 07-16"
+    },
+    {
+      "url": "http://hnxbl.cnjournals.net/hznydxzr/hznydxzr/news/view/20200707131311001",
+      "title": "投稿须知",
+      "source_url": "http://hnxbl.cnjournals.net/hznydxzr/home",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "《华中农业大学学报》“大宗淡水鱼绿色高效养殖技术”专题征稿启事",
+        "http://hnxbl.cnjournals.net",
+        "投稿须知"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "· 投稿须知 07-07"
+    },
+    {
+      "url": "http://hnxbl.cnjournals.net/hznydxzr/hznydxzr/news/view/20200707131451001",
+      "title": "论文投稿模板",
+      "source_url": "http://hnxbl.cnjournals.net/hznydxzr/home",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "《华中农业大学学报》“大宗淡水鱼绿色高效养殖技术”专题征稿启事",
+        "http://hnxbl.cnjournals.net",
+        "论文投稿模板"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "· 论文投稿模板 07-07"
+    },
+    {
+      "url": "https://qks.hzau.edu.cn/__local/4/82/BB/210ECBE48BEEF3115BABCB7C28F_75C92172_766A6.pdf",
+      "title": "PDF 文件",
+      "source_url": "https://qks.hzau.edu.cn/info/1013/1913.htm",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2",
+        "Animal Diseases(动物疾病）征稿启事",
+        "PDF 文件"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载此 PDF 文件"
+    },
+    {
+      "url": "https://qks.hzau.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1394510895&wbfileid=D6E63CE8DB074D58D5DA083485E11C83",
+      "title": "Muscript template.zip",
+      "source_url": "https://qks.hzau.edu.cn/info/1013/1913.htm",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2",
+        "Animal Diseases(动物疾病）征稿启事",
+        "Muscript template.zip"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "附件【 Muscript template.zip 】已下载 次"
+    },
+    {
+      "url": "https://qks.hzau.edu.cn/info/1013/1702.htm",
+      "title": "学报自科版“水产品加工与贮藏”专题征稿通知",
+      "source_url": "https://qks.hzau.edu.cn/info/1013/1770.htm",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2",
+        "Animal Diseases(中文刊名:《动物疾病》）征稿启事",
+        "学报自科版“水产品加工与贮藏”专题征稿通知"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "下一篇： 学报自科版“水产品加工与贮藏”专题征稿通知"
+    },
+    {
+      "url": "https://qks.hzau.edu.cn/qkdh/xbskb.htm",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://qks.hzau.edu.cn/qkdh/xbskb.htm",
+      "title": "华中农业大学学报(社会科学版)",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

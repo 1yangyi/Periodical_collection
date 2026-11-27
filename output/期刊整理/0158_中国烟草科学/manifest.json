@@ -1,0 +1,84 @@
+{
+  "journal": {
+    "name": "中国烟草科学",
+    "url": "https://tric.caas.cn/bsdt/zhdt/70f00d655c4345598573579de08ac498.htm",
+    "journal_id": "",
+    "row": 159,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://tric.caas.cn/bsdt/zhdt/70f00d655c4345598573579de08ac498.htm",
+  "collected_at": "2026-11-26T20:57:41+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "tric.caas.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://tric.caas.cn/bsdt/zhdt/70f00d655c4345598573579de08ac498.htm",
+      "requested_url": "https://tric.caas.cn/bsdt/zhdt/70f00d655c4345598573579de08ac498.htm",
+      "title": "《中国烟草科学》第五届理事会第一次会议在青岛召开_中国农业科学院烟草研究所",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:57:41+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://tric.caas.cn/bsdt/ggl/index.htm",
+      "requested_url": "https://tric.caas.cn/bsdt/ggl/index.htm",
+      "title": "公告栏_中国农业科学院烟草研究所",
+      "path": [
+        "官网入口",
+        "公告栏"
+      ],
+      "visited_at": "2026-11-26T20:57:41+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://tric.caas.cn/bsdt/ggl/index1.htm",
+      "requested_url": "https://tric.caas.cn/bsdt/ggl/index1.htm",
+      "title": "公告栏_中国农业科学院烟草研究所",
+      "path": [
+        "官网入口",
+        "公告栏",
+        "下一页"
+      ],
+      "visited_at": "2026-11-26T20:57:41+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://tric.caas.cn/bsdt/zhdt/70f00d655c4345598573579de08ac498.htm",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://tric.caas.cn/bsdt/zhdt/70f00d655c4345598573579de08ac498.htm",
+      "title": "中国烟草科学",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

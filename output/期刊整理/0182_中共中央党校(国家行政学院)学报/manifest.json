@@ -1,0 +1,61 @@
+{
+  "journal": {
+    "name": "中共中央党校(国家行政学院)学报",
+    "url": "https://www.theorychina.org.cn/llzg-xs/qkyl/zgzydxgjxzxyxb_949/",
+    "journal_id": "",
+    "row": 183,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.theorychina.org.cn/llzg-xs/qkyl/zgzydxgjxzxyxb_949/",
+  "collected_at": "2026-11-26T20:57:59+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.theorychina.org.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.theorychina.org.cn/llzg-xs/qkyl/zgzydxgjxzxyxb_949/",
+      "requested_url": "https://www.theorychina.org.cn/llzg-xs/qkyl/zgzydxgjxzxyxb_949/",
+      "title": "2025年第5期",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:57:59+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.theorychina.org.cn/llzg-xs/qkyl/zgzydxgjxzxyxb_949/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://www.theorychina.org.cn/llzg-xs/qkyl/zgzydxgjxzxyxb_949/",
+      "title": "中共中央党校(国家行政学院)学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

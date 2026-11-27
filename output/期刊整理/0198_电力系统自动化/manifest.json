@@ -1,0 +1,85 @@
+{
+  "journal": {
+    "name": "电力系统自动化",
+    "url": "https://dlxt1.publish.founderss.cn/zh/home/",
+    "journal_id": "",
+    "row": 199,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://dlxt1.publish.founderss.cn/zh/home/",
+  "collected_at": "2026-11-26T20:58:11+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "dlxt1.publish.founderss.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://dlxt1.publish.founderss.cn/zh/home/",
+      "requested_url": "https://dlxt1.publish.founderss.cn/zh/home/",
+      "title": "快捷入口",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:58:11+08:00",
+      "published_at": "2026-11-12"
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "http://epjournal.csee.org.cn/zh/info/2160/",
+      "title": "投稿须知",
+      "source_url": "https://dlxt1.publish.founderss.cn/zh/home/",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "reason": "unverified_host",
+      "detail": "",
+      "context": "投稿须知"
+    },
+    {
+      "url": "http://epjournal.csee.org.cn/zh/info/2161/",
+      "title": "参考文献及著录格式",
+      "source_url": "https://dlxt1.publish.founderss.cn/zh/home/",
+      "path": [
+        "官网入口",
+        "参考文献及著录格式"
+      ],
+      "reason": "unverified_host",
+      "detail": "",
+      "context": "参考文献及著录格式"
+    },
+    {
+      "url": "https://dlxt1.publish.founderss.cn/zh/home/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://dlxt1.publish.founderss.cn/zh/home/",
+      "title": "电力系统自动化",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

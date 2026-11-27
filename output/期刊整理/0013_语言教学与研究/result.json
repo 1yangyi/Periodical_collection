@@ -1,0 +1,28 @@
+{
+  "index": 13,
+  "journal": "语言教学与研究",
+  "url": "https://yyjx.blcu.edu.cn/",
+  "source_sheet": "可打开",
+  "source_row": 14,
+  "started_at": "2026-11-26T20:39:49+08:00",
+  "finished_at": "2026-11-26T20:41:22+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 14,
+    "artifacts": 3,
+    "pending": 5,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0013_语言教学与研究/manifest.json",
+  "pages": 14,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 1,
+  "pending_count": 6,
+  "pending_reasons": [
+    "depth_limit",
+    "no_valid_word_or_pdf"
+  ]
+}

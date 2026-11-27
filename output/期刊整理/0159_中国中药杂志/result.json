@@ -1,0 +1,30 @@
+{
+  "index": 159,
+  "journal": "中国中药杂志",
+  "url": "https://www.cpa.org.cn/?cid=76276&do=info",
+  "source_sheet": "可打开",
+  "source_row": 160,
+  "started_at": "2026-11-26T20:57:42+08:00",
+  "finished_at": "2026-11-26T20:57:51+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 8,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST runs 返回 HTTP 402"
+  ],
+  "manifest": "0159_中国中药杂志/manifest.json",
+  "pages": 8,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 2,
+  "pending_reasons": [
+    "browser_use_failed",
+    "no_valid_word_or_pdf"
+  ]
+}

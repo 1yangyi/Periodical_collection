@@ -1,0 +1,52 @@
+{
+  "journal": {
+    "name": "戏曲艺术",
+    "url": "https://www.nacta.edu.cn/kycz/xqyz/index.htm",
+    "journal_id": "",
+    "row": 12,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.nacta.edu.cn/kycz/xqyz/index.htm",
+  "collected_at": "2026-11-26T20:39:35+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.nacta.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.nacta.edu.cn/kycz/xqyz/index.htm",
+      "requested_url": "https://www.nacta.edu.cn/kycz/xqyz/index.htm",
+      "title": "《戏曲艺术》",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:39:35+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.nacta.edu.cn/kycz/xqyz/index.htm",
+      "title": "戏曲艺术",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

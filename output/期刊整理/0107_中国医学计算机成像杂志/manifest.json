@@ -1,0 +1,100 @@
+{
+  "journal": {
+    "name": "中国医学计算机成像杂志",
+    "url": "https://shmc.fudan.edu.cn/2021/1216/c2087a126260/page.htm",
+    "journal_id": "",
+    "row": 108,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://shmc.fudan.edu.cn/2021/1216/c2087a126260/page.htm",
+  "collected_at": "2026-11-26T20:54:07+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "shmc.fudan.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://shmc.fudan.edu.cn/2021/1216/c2087a126260/page.htm",
+      "requested_url": "https://shmc.fudan.edu.cn/2021/1216/c2087a126260/page.htm",
+      "title": "中国医学计算机成像杂志",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:54:07+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://shmc.fudan.edu.cn/news/tzgg/list.htm",
+      "requested_url": "https://shmc.fudan.edu.cn/news/tzgg/list.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "> 通知公告"
+      ],
+      "visited_at": "2026-11-26T20:54:07+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://shmc.fudan.edu.cn/news/tzgg/list16.psp",
+      "requested_url": "https://shmc.fudan.edu.cn/news/tzgg/list16.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "> 通知公告",
+        "尾页"
+      ],
+      "visited_at": "2026-11-26T20:54:07+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://shmc.fudan.edu.cn/xwpx/list.psp",
+      "requested_url": "https://shmc.fudan.edu.cn/xwpx/list.htm",
+      "title": "提示信息",
+      "path": [
+        "官网入口",
+        "> 通知公告",
+        "查看更多"
+      ],
+      "visited_at": "2026-11-26T20:54:07+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://shmc.fudan.edu.cn/_s16/xwpx/list.psp",
+      "requested_url": "https://shmc.fudan.edu.cn/_s16/xwpx/list.psp",
+      "title": "新闻排行",
+      "path": [
+        "官网入口",
+        "> 通知公告",
+        "尾页",
+        "查看更多"
+      ],
+      "visited_at": "2026-11-26T20:54:07+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://shmc.fudan.edu.cn/2021/1216/c2087a126260/page.htm",
+      "title": "中国医学计算机成像杂志",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

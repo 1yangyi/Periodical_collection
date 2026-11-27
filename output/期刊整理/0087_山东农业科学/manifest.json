@@ -1,0 +1,109 @@
+{
+  "journal": {
+    "name": "山东农业科学",
+    "url": "https://agri.cbpt.cnki.net/portal/journal/portal/client/index",
+    "journal_id": "",
+    "row": 88,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://agri.cbpt.cnki.net/portal/journal/portal/client/index",
+  "collected_at": "2026-11-26T20:50:50+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "agri.cbpt.cnki.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://agri.cbpt.cnki.net/portal/journal/portal/client/index",
+      "requested_url": "https://agri.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "请选择需要下载的pdf数据",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:50:50+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://agri.cbpt.cnki.net/portal/journal/portal/client/news/AGRI_b7620c1d-2548-49b2-92fc-7d76367918f6",
+      "requested_url": "https://agri.cbpt.cnki.net/portal/journal/portal/client/news/AGRI_b7620c1d-2548-49b2-92fc-7d76367918f6",
+      "title": "投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:50:50+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://agri.cbpt.cnki.net/portal/journal/portal/client/download/AGRI_54253c13-816a-4cda-85b4-048f7444fa78?title=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83",
+      "requested_url": "https://agri.cbpt.cnki.net/portal/journal/portal/client/download/AGRI_54253c13-816a-4cda-85b4-048f7444fa78?title=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83",
+      "title": "请选择需要下载的pdf数据",
+      "path": [
+        "首页",
+        "下载中心"
+      ],
+      "visited_at": "2026-11-26T20:50:50+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿指南",
+      "source_url": "https://agri.cbpt.cnki.net/portal/journal/portal/client/news/AGRI_b7620c1d-2548-49b2-92fc-7d76367918f6",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "local_path": "web/投稿指南_8f2afe07b4.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "山东农业科学投稿格式",
+      "local_path": "山东农业科学投稿格式.md",
+      "source_urls": [
+        "https://agri.cbpt.cnki.net/portal/journal/portal/client/news/AGRI_b7620c1d-2548-49b2-92fc-7d76367918f6"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://agri.cbpt.cnki.net/portal/journal/portal/client/download/AGRI_54253c13-816a-4cda-85b4-048f7444fa78?title=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83",
+      "title": "下载中心",
+      "source_url": "https://agri.cbpt.cnki.net/portal/journal/portal/client/news/AGRI_b7620c1d-2548-49b2-92fc-7d76367918f6",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "下载中心"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载中心"
+    },
+    {
+      "url": "https://agri.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "山东农业科学",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

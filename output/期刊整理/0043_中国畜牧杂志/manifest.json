@@ -1,0 +1,193 @@
+{
+  "journal": {
+    "name": "中国畜牧杂志",
+    "url": "https://www.zgxmzz.cn/",
+    "journal_id": "",
+    "row": 44,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "completed",
+  "homepage_resolved": "https://www.zgxmzz.cn/",
+  "collected_at": "2026-11-26T20:44:16+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.zgxmzz.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.zgxmzz.cn/",
+      "requested_url": "https://www.zgxmzz.cn/",
+      "title": "中国畜牧杂志",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:44:16+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.zgxmzz.cn/contribute/guide",
+      "requested_url": "https://www.zgxmzz.cn/contribute/guide",
+      "title": "投稿须知 - 中国畜牧杂志",
+      "path": [
+        "首页",
+        "投稿指南",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:44:16+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.zgxmzz.cn/contribute/format",
+      "requested_url": "https://www.zgxmzz.cn/contribute/format",
+      "title": "格式规范 - 中国畜牧杂志",
+      "path": [
+        "首页",
+        "投稿指南",
+        "格式示范"
+      ],
+      "visited_at": "2026-11-26T20:44:16+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿须知 - 中国畜牧杂志",
+      "source_url": "https://www.zgxmzz.cn/contribute/guide",
+      "path": [
+        "首页",
+        "投稿指南",
+        "投稿须知"
+      ],
+      "local_path": "web/投稿须知 - 中国畜牧杂志_fcac62362d.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "格式规范 - 中国畜牧杂志",
+      "source_url": "https://www.zgxmzz.cn/contribute/format",
+      "path": [
+        "首页",
+        "投稿指南",
+        "格式示范"
+      ],
+      "local_path": "web/格式规范 - 中国畜牧杂志_fd64059aa8.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "attachment",
+      "format": "doc",
+      "title": "《中国畜牧杂志》论文模板.doc",
+      "local_path": "attachments/fe0800db-3d4b-4f7e-8965-8d2d7fe2b4a2_7445d50cb0.doc",
+      "sha256": "7445d50cb09f21f5abf5ae556df04eaaa8dc428444c490049031cb16c40b2ea1",
+      "bytes": 95744,
+      "sources": [
+        {
+          "source_url": "https://www.zgxmzz.cn/contribute/format",
+          "download_url": "https://zgxmzz.oss-cn-beijing.aliyuncs.com/upload/editor/attach/202609/fe0800db-3d4b-4f7e-8965-8d2d7fe2b4a2.doc",
+          "resolved_url": "https://zgxmzz.oss-cn-beijing.aliyuncs.com/upload/editor/attach/202609/fe0800db-3d4b-4f7e-8965-8d2d7fe2b4a2.doc",
+          "path": [
+            "首页",
+            "投稿指南",
+            "格式示范",
+            "《中国畜牧杂志》论文模板.doc"
+          ],
+          "label": "《中国畜牧杂志》论文模板.doc",
+          "context": "《中国畜牧杂志》论文模板.doc",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "webpage_text",
+      "title": "中国畜牧杂志投稿格式",
+      "local_path": "中国畜牧杂志投稿格式.md",
+      "source_urls": [
+        "https://www.zgxmzz.cn/contribute/guide"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://www.zgxmzz.cn/",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "https://www.zgxmzz.cn/rank/download",
+      "title": "下载排行",
+      "source_url": "https://www.zgxmzz.cn/contribute/guide",
+      "path": [
+        "首页",
+        "投稿指南",
+        "投稿须知",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行 阅读排行"
+    },
+    {
+      "url": "https://www.zgxmzz.cn/contribute/guide",
+      "title": "投稿须知（作者指南、稿件要求与投稿说明）",
+      "source_url": "https://www.zgxmzz.cn/",
+      "path": [
+        "首页",
+        "投稿指南",
+        "投稿须知"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "https://www.zgxmzz.cn/rank/download",
+      "title": "下载排行",
+      "source_url": "https://www.zgxmzz.cn/contribute/format",
+      "path": [
+        "首页",
+        "投稿指南",
+        "格式示范",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行 阅读排行"
+    },
+    {
+      "url": "https://www.zgxmzz.cn/contribute/format",
+      "title": "格式规范（论文格式要求）",
+      "source_url": "https://www.zgxmzz.cn/",
+      "path": [
+        "首页",
+        "投稿指南",
+        "格式示范"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    }
+  ]
+}

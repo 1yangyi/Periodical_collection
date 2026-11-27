@@ -1,0 +1,96 @@
+{
+  "journal": {
+    "name": "有色金属科学与工程",
+    "url": "https://qks.jxust.edu.cn/qk/ysjskxygc/15.htm",
+    "journal_id": "",
+    "row": 4,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://qks.jxust.edu.cn/qk/ysjskxygc/15.htm",
+  "collected_at": "2026-11-26T20:39:07+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "qks.jxust.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://qks.jxust.edu.cn/qk/ysjskxygc/15.htm",
+      "requested_url": "https://qks.jxust.edu.cn/qk/ysjskxygc/15.htm",
+      "title": "站内搜索",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:39:07+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qks.jxust.edu.cn/info/1045/2000.htm",
+      "requested_url": "https://qks.jxust.edu.cn/info/1045/2000.htm",
+      "title": "《江西理工大学学报》“学习贯彻党的二十大精神”征稿启事",
+      "path": [
+        "官网入口",
+        "2022-10-31 《江西理工大学学报》“学习贯彻党的二十大精神”征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:39:07+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qks.jxust.edu.cn/tglc.htm",
+      "requested_url": "https://qks.jxust.edu.cn/tglc.htm",
+      "title": "站内搜索",
+      "path": [
+        "期刊中心首页",
+        "投稿流程"
+      ],
+      "visited_at": "2026-11-26T20:39:07+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "《江西理工大学学报》“学习贯彻党的二十大精神”征稿启事",
+      "source_url": "https://qks.jxust.edu.cn/info/1045/2000.htm",
+      "path": [
+        "官网入口",
+        "2022-10-31 《江西理工大学学报》“学习贯彻党的二十大精神”征稿启事"
+      ],
+      "local_path": "web/《江西理工大学学报》“学习贯彻党的二十大精神”征稿启事_726facd23a.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "有色金属科学与工程投稿格式",
+      "local_path": "有色金属科学与工程投稿格式.md",
+      "source_urls": [
+        "https://qks.jxust.edu.cn/info/1045/2000.htm"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://qks.jxust.edu.cn/qk/ysjskxygc/15.htm",
+      "title": "有色金属科学与工程",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

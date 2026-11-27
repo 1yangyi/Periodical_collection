@@ -1,0 +1,1378 @@
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>法学家</title>
+
+<!-- develop 必引内容，不可删除，不可改动 -->
+
+
+
+
+
+
+
+<link href="/js/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="/develop/static/common/css/css.css">
+<link rel="stylesheet" href="/js/jqpagination/jqpagination.css" />
+<script src="/js/jquery/jquery.min.js"></script>
+<script src="/js/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.qrcode.min.js"></script>
+<script src="/develop/static/common/js/common_cn.js"></script>
+<script src="/develop/static/common/js/component_cn.js"></script>
+<script language="javascript" src="/js/store.js"></script>
+<script language="javascript" src="/develop/static/common/js/download_cn.js"></script>
+<script language="javascript" src="/js/My97DatePicker/WdatePicker.js"></script>
+<link rel="stylesheet" href="/develop/static/common/bootstrap/js/font-awesome.min.css">
+
+<script>
+	$(document).ready(function(){
+		$("title").text($("title").text().replace(/<\/?[^>]*>/g,""));
+	});
+</script>
+
+
+
+<base href="https://faxuejia.ruc.edu.cn/CN/news/folder.do"/>
+
+<script>
+	function changePage(pager){
+		mag_window_location(mag_currentQikanUrl()+"/CN/folder/3/news?page="+pager);
+	}
+</script>
+<!-- develop end -->
+
+<!--custom 必引内容，网站设计维护的js、css等，不可删除，不可改动-->
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!--顶部快速导航下拉导航菜单特效css-->
+<!--<link rel="stylesheet" href="https://faxuejia.ruc.edu.cn/images/1005-0221/css/bootsnav.css">-->
+<!--网站css-->
+<link rel="stylesheet" href="https://faxuejia.ruc.edu.cn/images/1005-0221/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://faxuejia.ruc.edu.cn/images/1005-0221/css/css.css">
+<script src="https://faxuejia.ruc.edu.cn/images/1005-0221/js/indexjs.js"></script>
+
+
+</head>
+
+<body>
+<!-- develop 必引内容，不可删除，不可改动 -->
+
+
+
+
+
+
+
+
+
+
+
+<input type="hidden" id="mag-common-contextPath" value=""/>
+
+<div id="mag-component-store-div" style="display:none;"></div>
+			
+<!-- 模态框（Modal） -->
+<div class="modal fade" id="magModal" tabindex="-1" role="dialog" data-keyboard=false data-backdrop='static' aria-labelledby="magModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button buttonGroup="0" type="button"  class="close"  aria-hidden="true" onclick="mag_layer_close();">
+					&times;
+				</button>
+				<h4 class="modal-title" id="magModalLabel">
+					模态框（Modal）标题
+				</h4>
+			</div>
+			<div class="modal-body" id="mag-modal-body" style="overflow:auto;">
+				在这里添加一些文本
+			</div>
+			<div id="mag-layer-button-div" class="modal-footer">
+				<button buttonGroup="1" type="button"  class="btn btn-default"  onclick="mag_layer_close();">关闭
+				</button>
+				<button buttonGroup="2" type="button"  class="btn btn-default"  onclick="mag_layer_close();">关闭
+				</button>
+				<button buttonGroup="2" type="button" class="btn btn-primary" onclick="mag_submit()" id="mag_layer_submit_button_2">
+					提交更改
+				</button>
+				<button buttonGroup="3" type="button"  class="btn btn-default"  onclick="mag_layer_close();">取消
+				</button>
+				<button buttonGroup="3" type="button" class="btn btn-primary" onclick="mag_submit()" id="mag_layer_submit_button_3">
+					确定并提交
+				</button>
+				
+			</div>
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal -->
+</div>
+
+<div id="magModal_2" style="display:none;position:fixed;left:0px;top:0px;right:0px;bottom:0px;z-index:1060">
+	<div class="modal-dialog" style="margin-top:60px;">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button buttonGroup="0" type="button" id="mag-madal-close_bt_2"  class="close"  aria-hidden="true" onclick="mag_layer_close_2();">
+					&times;
+				</button>
+				<h4 class="modal-title" id="magModalLabel_2">
+					模态框（Modal）标题
+				</h4>
+			</div>
+			<div id="modal-body_2" class="modal-body"></div>
+		</div>
+	</div>
+</div>
+
+<!-- 模态框-Tab -->
+<div class="modal fade" id="magTabModal" tabindex="-1" role="dialog" data-keyboard=false data-backdrop='static' aria-labelledby="magTabModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header" style="border-bottom:0px;padding:15px 0px;">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true" style="padding-right:15px;">
+					&times;
+				</button>
+				
+<ul id="magTab" class="nav nav-tabs">
+
+</ul>
+			</div>
+			<div class="modal-body">
+				
+<div id="magTabContent" class="tab-content">
+
+</div>
+			</div>
+			<div id="mag-tablayer-button-div" class="modal-footer">
+				
+			</div>
+			
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal -->
+</div>
+
+
+
+<div style="display:none;">
+	<iframe id="mag_sendLongReq_iframe" name="mag_sendLongReq_iframe"></iframe>
+	<iframe id="mag_cma_sso_login_iframe" name="mag_cma_sso_login_iframe"></iframe>
+</div>
+<input type="hidden" id="mag_cma_sso_authorizeUrl" value=""/>
+		
+
+
+<!-- develop end -->
+<!--头部-->
+
+
+<script language="javascript">
+	function tabChange(obj, id) {
+		var arrayli = obj.parentNode.getElementsByTagName("li"); //获取li数组
+		var arrayul = document.getElementById(id).getElementsByTagName("ul"); //获取ul数组
+		for (i = 0; i < arrayul.length; i++) {
+			if (obj == arrayli[i]) {
+				arrayli[i].className = "cli";
+				arrayul[i].className = "";
+			} else {
+				arrayli[i].className = "";
+				arrayul[i].className = "hidden";
+			}
+		}
+	}
+</script>
+<style type="text/css">
+.tabbox {
+	width: 400px;
+	margin-top: 5px;
+	margin-bottom: 5px
+}
+
+.tabmenu {
+	width: 400px;
+	height: 28px;
+	border-left: 1px solid #CCC;
+	border-top: 1px solid #ccc;
+}
+
+.tabmenu ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.tabmenu li {
+	text-align: center;
+	float: left;
+	display: block;
+	width: 99px;
+	overflow: hidden;
+	background-color: #f1f1f1;
+	line-height: 27px;
+	border-right: #ccc 1px solid;
+	border-bottom: #ccc 1px solid;
+	display: inline;
+}
+
+.tabmenu .cli {
+	text-align: center;
+	float: left;
+	display: block;
+	width: 99px;
+	overflow: hidden;
+	background-color: #fff;
+	line-height: 27px;
+	border-right: #ccc 1px solid;
+	border-bottom: #fff 1px solid;
+	display: inline;
+	cursor: pointer;
+	color: #c30000;
+	font-weight: bold
+}
+
+#tabcontent {
+	width: 399px;
+	background-color: #fff;
+	border-left: #CCC 1px solid;
+	border-right: #CCC 1px solid;
+	border-bottom: #CCC 1px solid;
+	height: 65px;
+}
+
+#tabcontent ul {
+	margin: 0;
+	padding: 5px;
+	list-style-type: none;
+}
+
+#tabcontent .hidden {
+	display: none;
+}
+
+img[src*='.traceImg']{
+	width:44px;
+	height:22px;
+}
+</style>
+<div class="journal-head">
+<div class="container" style="background:transparent">
+<div class="row">
+    <div class="col-md-7 logo">
+		<h1><a href="https://faxuejia.ruc.edu.cn/CN/home"><img src="https://faxuejia.ruc.edu.cn/images/1005-0221/images/logo.png" class="img-responsive" alt=""></a></h1>
+    </div>
+	<div class="col-md-5 logo hidden-sm hidden-xs">
+		<h1><img src="https://faxuejia.ruc.edu.cn/images/1005-0221/images/wz.png" class="img-responsive" style="float:right;"></h1>
+    </div>
+</div>
+</div>
+</div>
+
+<!--导航-->
+<div class="navbar site-nav whitebg">
+<div class="container" style="background:transparent">
+<div class="row">
+
+
+    <div class="navbar-header">
+      <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">导航切换</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+      <a class="navbar-brand visible-xs" href="">法学家</a> </div>
+    <div class="navbar-collapse collapse" role="navigation">
+		<ul class="nav navbar-nav">
+			<li style="width:236px;font-size:16px;line-height: 42px;text-align: center;color:#fff;">
+				<script language="JavaScript" type="text/javascript">today=new Date();
+				function initArray(){
+				this.length=initArray.arguments.length
+				for(var i=0;i<this.length;i++)
+				this[i+1]=initArray.arguments[i]  }
+				var d=new initArray(
+				" 星期日",
+				" 星期一",
+				" 星期二",
+				" 星期三",
+				" 星期四",
+				" 星期五",
+				" 星期六");
+				document.write(
+				"",
+				today.getFullYear(),"年",
+				today.getMonth()+1,"月",
+				today.getDate(),"日",
+				d[today.getDay()+1],
+				"" );
+			   </script>
+			</li>
+			<li><a href="https://faxuejia.ruc.edu.cn/CN/home">首页</a></li>
+									
+						<li><a href="https://faxuejia.ruc.edu.cn/CN/column/column1.shtml">期刊简介</a></li>
+					   
+												
+						<li><a href="https://faxuejia.ruc.edu.cn/CN/column/column3.shtml">编 委 会</a></li>
+					   
+												
+						<li role="presentation" class="dropdown">
+			   <a href="#" class="dropdown-toggle" data-toggle="dropdown">在线期刊 <b class="caret"></b></a>
+			   <ul class="dropdown-menu">
+					<li><a href="https://faxuejia.ruc.edu.cn/CN/current">当期目录</a></li>
+					<li><a href="https://faxuejia.ruc.edu.cn/CN/archive_by_issues">过刊浏览</a></li>
+					<li><a href="https://qikan.chaoxing.com/mag/shelf?mags=9f5f61eb554c5077cb41aff61ac6e1b3">电子书</a></li>
+					<li><a href="https://faxuejia.ruc.edu.cn/CN/top_download">下载排行</a></li>
+					<li><a href="https://faxuejia.ruc.edu.cn/CN/top_access">阅读排行</a></li>
+					<li><a href="https://faxuejia.ruc.edu.cn/CN/alert/showAlertInfo.do">E-mail Alert</a></li>
+					<li><a href="https://faxuejia.ruc.edu.cn/CN/rss/showRssInfo.do">RSS</a></li>
+				</ul>
+			</li>
+					   
+												
+						<li><a href="https://faxuejia.ruc.edu.cn/CN/column/column12.shtml">投稿指南</a></li>
+					   
+												
+						<li><a href="https://faxuejia.ruc.edu.cn/CN/column/column19.shtml">期刊订阅</a></li>
+					   
+												
+						<li><a href="https://faxuejia.ruc.edu.cn/CN/column/column16.shtml">联系我们</a></li>
+					   
+									<!--<li><a href="https://faxuejia.ruc.edu.cn/EN/home">English</a></li>-->
+      </ul>
+    </div>
+  </div>
+</div>
+</div>
+<!--导航 End-->
+
+<!--导航 End-->
+<div class="container" style="height: 20px"></div>
+<script src='https://tongji.journalreport.cn/mstatistics.service.js'></script><script>recordAdd('24340e1f526e49679f772ee3b6353137')</script>
+<!--头部 End-->
+
+<!--中间-->
+<div class="container">
+<div class="row">
+<div class="col-md-9 m-center">
+	<section class="content_nr">
+		<h3 class="column">
+			<span>通知公告</span>
+		</h3>
+                
+	<!--News_list-->
+	
+	
+	<div class="news-list-1">
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news55.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">27</div>
+						<div class="month">2026-10</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					【年会综述】新时代消费者权益保护的法律与实践问题研究<br>——中国法学会消费者权益保护法学研究会2026年学术年会综述
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news54.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">17</div>
+						<div class="month">2026-08</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					新时代消费者权益保护的法律与实践问题研究 ——中国法学会消费者权益保护法学研究会 2026年年会暨第三届理事会换届大会 预告与征文通知
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news53.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">17</div>
+						<div class="month">2025-10</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					公司法实施中的重大疑难实务问题研讨会成功举办
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news52.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">14</div>
+						<div class="month">2025-05</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					重磅电子书！《法学家》2015 - 2024年分学科论文集！
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news50.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">24</div>
+						<div class="month">2024-04</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					“构建中国特色法学知识体系、话语体系和法治体系”  2024年度学术研讨会成功召开
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news49.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">08</div>
+						<div class="month">2024-04</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					本刊与“哲学社会科学预印本平台”合作共建说明
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news48.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">20</div>
+						<div class="month">2023-12</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					“构建中国特色法学知识体系、话语体系和法治体系”2024年度学术研讨会 征文启事
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news47.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">30</div>
+						<div class="month">2023-09</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					中国土地法制与乡村振兴战略会议联盟第十届学术研讨会暨博士生学术论坛会议预通知
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news46.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">30</div>
+						<div class="month">2023-08</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					农村集体所有制的法律实现机制研讨会邀请函
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news45.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">22</div>
+						<div class="month">2023-08</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					第三届天同法典评注研讨会“法典评注写作中的各项问题”理论研讨会邀请函
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news44.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">04</div>
+						<div class="month">2023-07</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					“社会主义核心价值观融入《民法典》解释与适用” 学术研讨会暨博士生论坛邀请函
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news43.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">16</div>
+						<div class="month">2023-01</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					“构建中国特色法学知识体系、话语体系和法治体系” 2023年度学术研讨会征稿启事
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news42.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">23</div>
+						<div class="month">2022-09</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					《法学家》网站域名变更预告
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news5.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">22</div>
+						<div class="month">2022-09</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					武汉大学司法案例研究中心“类案法律适用统一高峰论坛”（第二期）具有融资功能的大宗商品贸易类案法律适用的统一会议（论文征集）公告
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news41.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">26</div>
+						<div class="month">2022-01</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					“构建中国特色法学知识体系、话语体系和法治体系”2022年度学术研讨会征稿启事
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news40.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">16</div>
+						<div class="month">2021-03</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					民法典担保制度司法解释的理解与适用研讨会邀请函
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news39.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">05</div>
+						<div class="month">2021-03</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					中国土地法制与乡村振兴战略会议联盟第七届学术研讨会“土地法治百年的理论突破与制度创新学术研讨会”的会议通知
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news38.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">03</div>
+						<div class="month">2021-02</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					“构建中国特色法学知识体系、话语体系和法治体系”2021年度学术研讨会征稿启事
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news37.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">20</div>
+						<div class="month">2020-10</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					中国土地法制与乡村振兴战略会议联盟第六届学术研讨会“农村要素市场化配置改革的法治保障学术研讨会”暨第十二届中国农村法治论坛会议通知
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news4.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">15</div>
+						<div class="month">2020-10</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					民法典担保新制度新规则的解释与适用研讨会邀请函
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news36.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">06</div>
+						<div class="month">2020-05</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					关于取消举办“构建中国特色法学知识体系、话语体系和法治体系”2020年度学术研讨会的公告
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news35.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">02</div>
+						<div class="month">2020-03</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					关于延期举办“中国民法典解释与适用”研讨会（博士生专场）的公告
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news34.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">02</div>
+						<div class="month">2020-03</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					关于延期举办“中国民法典解释与适用”研讨会的公告
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news33.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">17</div>
+						<div class="month">2020-01</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					“构建中国特色法学知识体系、话语体系和法治体系”2020年度学术研讨会征稿启事
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news32.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">08</div>
+						<div class="month">2020-01</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					中国民法典解释与适用研讨会征稿启事
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news31.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">31</div>
+						<div class="month">2019-10</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					《法学家》进入世界学术影响力Q1区期刊行列
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news30.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">16</div>
+						<div class="month">2019-09</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					“法典化的效用与挑战：跨学科的对话”研讨会主题征文
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news29.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">24</div>
+						<div class="month">2019-04</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					“构建中国特色法学知识体系、话语体系和法治体系”2019年度学术研讨会在中国人民大学法学院成功召开
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news28.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">26</div>
+						<div class="month">2019-01</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					“构建中国特色法学知识体系、话语体系和法治体系”2019年度学术研讨会征稿启事
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news27.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">17</div>
+						<div class="month">2018-12</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					中国民法典物权编立法研讨会邀请函
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news26.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">17</div>
+						<div class="month">2018-09</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					中国民法典担保物权立法研讨会邀请函
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news25.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">13</div>
+						<div class="month">2018-09</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					中国民法典立法系列研讨会预告
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news24.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">04</div>
+						<div class="month">2018-07</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					2018年（第三届）全国土地法制与社会发展博士生学术论坛征稿公告
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news23.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">04</div>
+						<div class="month">2018-07</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					乡村振兴与土地法制的完善研讨会邀请函
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news22.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">16</div>
+						<div class="month">2018-05</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					“构建中国特色法学知识体系和话语体系”学术研讨会成功召开
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news21.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">11</div>
+						<div class="month">2018-02</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					“构建中国特色法学知识体系和话语体系”学术研讨会征稿启事
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news20.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">21</div>
+						<div class="month">2016-11</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					《法学家》与《中外法学》《清华法学》共同举办“提升法学期刊学术影响力”研讨会
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news19.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">21</div>
+						<div class="month">2016-08</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					《法学家》杂志社与中国民法学研究会联合主办的民法总则立法研讨会成功召开
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news18.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">01</div>
+						<div class="month">2016-08</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					《法学家》编辑部和中国民法学研究会共同主办“民法总则立法研讨会”
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="news-item-1">
+			<a href="https://faxuejia.ruc.edu.cn/CN/news/news17.shtml" target="_blank " class="media">
+				<div class="media-left">
+					<div class="news-date">
+						<div class="day">15</div>
+						<div class="month">2016-01</div>
+					</div>
+				</div>
+				<div class="media-body">
+					<div class="news-title">
+					《法学家》杂志编委会召开第六次会议
+					</div>
+					<div class="news-desc">
+					
+					</div>
+					<div class="news-go">
+						<i class="fa fa-eye"></i>
+					</div>
+				</div>
+			</a>
+		</div>
+		
+		
+	</div>
+	<!--news_list end--> 
+		
+		
+				<!-- 分页 -->
+				<div style="overflow: hidden;" class="gigantic pagination"><ul class="page_ul_two"><li class="no_background hideinput">跳至</li><li class="no_background hideinput"><input type="text" size="5" onblur="mag_changePage1(event,2,'changePage')" onkeypress="mag_changePage2(event,2,'changePage')" /></li><li class="no_background hideinput">页</li><li class="no_background">第1页</li><li class="no_background">共2页</li><li class="no_background page-total">共51条记录</li></ul><ul class="page_ul"><li class="buneng"><a href="javascript:;" class="first" data-action="first" onclick="changePage('1')">首页</a></li><li class="buneng"><a href="javascript:;" class="previous" data-action="previous" onclick="changePage('0')">上一页</a></li><li><a href="javascript:;" class="next" data-action="next" onclick="changePage('2')">下一页</a></li><li><a href="javascript:;" class="last" data-action="last" onclick="changePage('2')">尾页</a></li></ul></div>
+
+		
+		
+		
+	
+
+</section>
+</div>
+<!--右部-->
+
+
+<div class="col-md-3 m-right">
+
+	<ul class="office-menu">
+		<li><a href="http://faxuejia.ruc.edu.cn/journalx_fxj/authorLogOn.action" target="_blank">
+		<div class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-user"></span> 作者投稿查稿　</div>
+		</a></li>
+		<li><a href="http://faxuejia.ruc.edu.cn/journalx_fxj/editorLogOn.action" target="_blank">
+		<div class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-eye-open"></span> 责编审稿系统　</div>
+		</a></li>
+		<li><a href="http://faxuejia.ruc.edu.cn/journalx_fxj/editorLogOn.action" target="_blank">
+		<div class="btn btn-shadow journal-btn"><span class="fa fa-user-circle-o"></span> 副主编审稿系统</div>
+		</a></li>
+		<li><a href="http://faxuejia.ruc.edu.cn/journalx_fxj/editorInChiefLogOn.action" target="_blank">
+		<div class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-pencil"></span> 主编审稿系统　</div>
+		</a></li>
+		<li><a href="http://faxuejia.ruc.edu.cn/journalx_fxj/expertLogOn.action" target="_blank">
+		<div class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-education"></span> 专家审稿系统　</div>
+		</a></li>
+		<li><a href="http://faxuejia.ruc.edu.cn/journalx_fxj/editorLogOn.action" target="_blank">
+		<div class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-edit"></span> 编辑办公系统　</div>
+		</a></li>
+	</ul>
+	<aside class="aside">
+        <div class="column"><span class="pull-left"><i class="fa fa-volume-up"></i> 通知公告</span> <a href="https://faxuejia.ruc.edu.cn/CN/news/folder.do?folderId=3" class="more">更多</a></div>
+        <ul class="news-list">
+        <marquee onmouseover="this.stop()" onmouseout="this.start()" behavior="scroll" direction="up" scrollamount="1" scrolldelay="70" style="width: 98%; height: 200px;">
+          <div mag-component-type="ajaxPage" mag-page-url="https://faxuejia.ruc.edu.cn/CN/1005-0221/model/tongzhi.htm"></div>
+        </marquee>
+        </ul>
+    </aside>
+	<aside class="aside">
+        <div class="column">
+            <span class="pull-left"><i class="fa fa-book"></i> 版权信息</span>
+        </div>
+			<div style="text-align: left;padding:10px 15px;">
+				刊　　期：双月刊，1986创刊<br>
+				主管单位：中华人民共和国教育部<br>
+				主办单位：中国人民大学<br>
+				主　　编：王利明<br>
+				编辑出版：《法学家》杂志社<br>
+				ISSN 1005-0221<br>
+				CN 11-3212/D
+			</div>
+	</aside>
+    <aside class="aside">
+        <div class="column">
+            <span class="pull-left"><i class="fa fa-download"></i> 下载中心</span>
+            <a href="https://faxuejia.ruc.edu.cn/CN/column/7/items" class="more">更多</a>
+        </div>
+        <ul class="news-list">
+		                        		<li><a href="https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5" class="news-title" target="_blank">本刊注释体例</a></li>
+                                </ul>
+    </aside>
+    
+    <aside class="aside">
+        <div class="column">
+            <span class="pull-left"><i class="fa fa-link"></i> 友情链接</span>
+            <a href="https://faxuejia.ruc.edu.cn/CN/column/10/items" class="more">更多</a>
+        </div>
+        <ul class="news-list">
+		                        		<li><a href="http://www.law.ruc.edu.cn/" class="news-title" target="_blank">中国人民大学法学院</a></li>
+                                        		<li><a href="http://www.fxcxw.org.cn/" class="news-title" target="_blank">中国法学创新网</a></li>
+                                        		<li><a href="http://www.cnki.net/" class="news-title" target="_blank">中国知网</a></li>
+                                        		<li><a href="http://www.pkulaw.cn" class="news-title" target="_blank">北大法宝</a></li>
+                                        		<li><a href="http://www.ruc.edu.cn/" class="news-title" target="_blank">中国人民大学</a></li>
+                                </ul>
+    </aside>
+	<aside class="aside">
+		<div class="column">
+			<span class="pull-left"><i class="fa fa-wechat"></i> 微信公众号</span>
+		</div>
+		<ul class="news-list">
+		<img src="https://faxuejia.ruc.edu.cn/images/1005-0221/images/wechat.png" class="img-responsive" style="width:200px;margin:0 auto;">
+        </ul>
+	</aside>
+	<aside>
+	<div class="column">
+        <span class="pull-left"><i class="fa fa-tasks"></i> 访问统计</span>
+    </div>
+	<ul class="news-list">
+	<script>record('24340e1f526e49679f772ee3b6353137')</script>   
+	总访问量：<span id="ipVisitsSum"></span><br>
+	今日访问：<span id="ipDaySum"></span><br>
+	在线人数：<span id="currentOnLine"></span>
+			</ul>
+	</aside>
+	
+</div>
+
+</div>
+</div>
+<!--底部-->
+
+
+
+<footer class="footer">
+<div class="container">
+	<div class="row">
+			<div class="footer-info">
+				<p>
+				<a href="https://beian.miit.gov.cn" target="_blank">京ICP备05066828号</a><br>	                  版权所有 &copy; 《法学家》编辑部<br>
+					地址：北京市海淀区中关村大街59号中国人民大学明德法学楼503室　<br class="visible-xs">邮编：100872　<br>					电话：010 - 62514551/82509250　<br class="visible-xs">E-mail：faxuejiaruc@vip.163.com<br>					本系统由<a href="https://www.magtech.com.cn/" target="_blank">北京玛格泰克科技发展有限公司</a>设计开发
+
+				</p>
+			</div>
+
+	</div>
+</div>
+</footer>
+<!--返回顶部-->
+<div class="top_web" id="backtop" style="display:block;"> <span class="glyphicon glyphicon-menu-up"></span></div>
+<!--返回顶部end--> 
+
+</body>
+</html>

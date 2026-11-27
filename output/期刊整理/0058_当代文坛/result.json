@@ -1,0 +1,27 @@
+{
+  "index": 58,
+  "journal": "当代文坛",
+  "url": "https://www.sczjw.net.cn/service/detail/891173768381382656.html",
+  "source_sheet": "可打开",
+  "source_row": 59,
+  "started_at": "2026-11-26T20:46:30+08:00",
+  "finished_at": "2026-11-26T20:47:44+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 6,
+    "artifacts": 4,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0058_当代文坛/manifest.json",
+  "pages": 6,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 1,
+  "pending_count": 1,
+  "pending_reasons": [
+    "no_valid_word_or_pdf"
+  ]
+}

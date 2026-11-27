@@ -1,0 +1,73 @@
+{
+  "journal": {
+    "name": "中国科学基金",
+    "url": "https://zkjj.cbpt.cnki.net/",
+    "journal_id": "",
+    "row": 339,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://zkjj.cbpt.cnki.net/EditorGN/Quit.aspx",
+  "collected_at": "2026-11-26T20:59:52+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "zkjj.cbpt.cnki.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://zkjj.cbpt.cnki.net/EditorGN/Quit.aspx",
+      "requested_url": "https://zkjj.cbpt.cnki.net/",
+      "title": "",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:52+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://zkjj.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "",
+      "source_url": "https://zkjj.cbpt.cnki.net/EditorGN/Quit.aspx",
+      "path": [
+        "官网入口",
+        "知网期刊首页"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "500 Server Error: Internal Server Error for url: https://zkjj.cbpt.cnki.net/portal/journal/portal/client/index",
+      "context": ""
+    },
+    {
+      "url": "https://zkjj.cbpt.cnki.net/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://zkjj.cbpt.cnki.net/",
+      "title": "中国科学基金",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

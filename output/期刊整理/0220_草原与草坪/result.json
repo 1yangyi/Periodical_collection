@@ -1,0 +1,31 @@
+{
+  "index": 220,
+  "journal": "草原与草坪",
+  "url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/index.aspx?mid=cycp",
+  "source_sheet": "可打开",
+  "source_row": 221,
+  "started_at": "2026-11-26T20:58:39+08:00",
+  "finished_at": "2026-11-26T20:59:06+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 12,
+    "artifacts": 6,
+    "pending": 3,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST network-policies 返回 HTTP 422"
+  ],
+  "manifest": "0220_草原与草坪/manifest.json",
+  "pages": 12,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 1,
+  "pending_count": 5,
+  "pending_reasons": [
+    "browser_use_failed",
+    "needs_review",
+    "no_valid_word_or_pdf"
+  ]
+}

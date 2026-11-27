@@ -1,0 +1,72 @@
+{
+  "journal": {
+    "name": "Earthquake Research Advances",
+    "url": "https://www.keaipublishing.com/en/journals/earthquake-research-advances/",
+    "journal_id": "",
+    "row": 418,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.keaipublishing.com/en/journals/earthquake-research-advances/",
+  "collected_at": "2026-11-26T21:01:10+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.keaipublishing.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.keaipublishing.com/en/journals/earthquake-research-advances/",
+      "requested_url": "https://www.keaipublishing.com/en/journals/earthquake-research-advances/",
+      "title": "Earthquake Research Advances",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:01:10+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.keaipublishing.com/en/journals/earthquake-research-advances/",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "https://www.keaipublishing.com/en/journals/earthquake-research-advances/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://www.keaipublishing.com/en/journals/earthquake-research-advances/",
+      "title": "Earthquake Research Advances",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

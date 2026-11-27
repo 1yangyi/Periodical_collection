@@ -1,0 +1,33 @@
+{
+  "index": 95,
+  "journal": "语言科学",
+  "url": "https://journal15.magtechjournal.com/Jwk_yykx/CN/top_access",
+  "source_sheet": "可打开",
+  "source_row": 96,
+  "started_at": "2026-11-26T20:52:10+08:00",
+  "finished_at": "2026-11-26T20:53:27+08:00",
+  "status": "completed",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 2,
+    "artifacts": 1,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0095_语言科学/manifest.json",
+  "pages": 2,
+  "attachments": [
+    {
+      "title": "《语言科学》最新稿例（2017年）",
+      "format": "pdf",
+      "local_path": "0095_语言科学/attachments/20170327151845_becb98b54a.pdf",
+      "sha256": "becb98b54a759a9160a44a09f70f00b2fbb9ad0f5375ae420aeb71ade18f2c36",
+      "bytes": 255561
+    }
+  ],
+  "original_count": 1,
+  "webpage_text": 1,
+  "pending_count": 0,
+  "pending_reasons": []
+}

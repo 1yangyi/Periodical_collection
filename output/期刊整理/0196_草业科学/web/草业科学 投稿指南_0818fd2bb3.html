@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+	<TITLE>草业科学 投稿指南</TITLE>
+	<META http-equiv=Content-Type content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
+
+
+
+
+
+
+<link href="/js/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="/develop/static/common/css/css.css">
+<link rel="stylesheet" href="/js/jqpagination/jqpagination.css" />
+<script src="/js/jquery/jquery.min.js"></script>
+<script src="/js/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.qrcode.min.js"></script>
+<script src="/develop/static/common/js/common_cn.js"></script>
+<script src="/develop/static/common/js/component_cn.js"></script>
+<script language="javascript" src="/js/store.js"></script>
+<script language="javascript" src="/develop/static/common/js/download_cn.js"></script>
+<script language="javascript" src="/js/My97DatePicker/WdatePicker.js"></script>
+<script language="javascript" src="/develop/static/common/js/xss/xss.js"></script>
+<link rel="stylesheet" href="/develop/static/common/bootstrap/js/font-awesome.min.css">
+<script language="javascript" src="/develop/static/common/js/xss/mag-xss.js"></script>
+
+<script>
+	$(document).ready(function(){
+		$("title").text($("title").text().replace(/<\/?[^>]*>/g,""));
+	});
+</script>
+
+<style>
+      svg.markmap {
+        width: 100%;
+        height:100%;
+      }
+      .markmap {
+        width: 100%;
+        height:400px;
+      }
+.circle-border {
+	background-color: #CCCCCC; /* 可选，如果想要看到背景 */
+	border: 2px solid #fff; /* 边框宽度和颜色 */
+	border-radius: 50%; /* 将四个角设置为50%，形成圆形 */
+	padding:3px 8px;
+}
+#soin-summary-div img {
+    max-width: 100%;
+}
+</style>
+
+
+
+
+
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="google-site-verification" content="GqftDyjkbLznCjwJH3xdvsEi1ZnXlVqxWMeQ5H2MD38" />
+<link rel="stylesheet" href="https://www.integrativebiology.ac.cn/cykx/images/1001-0629/css/bootstrap-icons.css">
+<link rel="stylesheet" href="https://www.integrativebiology.ac.cn/cykx/images/1001-0629/css/font-awesome.min.css">
+
+
+<link rel="stylesheet" href="https://www.integrativebiology.ac.cn/cykx/images/1001-0629/css/css.css">
+<script src="https://www.integrativebiology.ac.cn/cykx/images/1001-0629/js/indexjs.js"></script>
+
+
+</HEAD>
+
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+<input type="hidden" id="mag-common-contextPath" value=""/>
+
+<div id="mag-component-store-div" style="display:none;"></div>
+			
+<!-- 模态框（Modal） -->
+<div class="modal fade" id="magModal" tabindex="-1" role="dialog" data-keyboard=false data-backdrop='static' aria-labelledby="magModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button buttonGroup="0" type="button"  class="close"  aria-hidden="true" onclick="mag_layer_close();">
+					&times;
+				</button>
+				<h4 class="modal-title" id="magModalLabel">
+					模态框（Modal）标题
+				</h4>
+			</div>
+			<div class="modal-body" id="mag-modal-body" style="overflow:auto;">
+				在这里添加一些文本
+			</div>
+			<div id="mag-layer-button-div" class="modal-footer">
+				<button buttonGroup="1" type="button"  class="btn btn-default"  onclick="mag_layer_close();">关闭
+				</button>
+				<button buttonGroup="2" type="button"  class="btn btn-default"  onclick="mag_layer_close();">关闭
+				</button>
+				<button buttonGroup="2" type="button" class="btn btn-primary" onclick="mag_submit()" id="mag_layer_submit_button_2">
+					提交更改
+				</button>
+				<button buttonGroup="3" type="button"  class="btn btn-default"  onclick="mag_layer_close();">取消
+				</button>
+				<button buttonGroup="3" type="button" class="btn btn-primary" onclick="mag_submit()" id="mag_layer_submit_button_3">
+					确定并提交
+				</button>
+				
+			</div>
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal -->
+</div>
+
+<div id="magModal_2" style="display:none;position:fixed;left:0px;top:0px;right:0px;bottom:0px;z-index:1060">
+	<div class="modal-dialog" style="margin-top:60px;">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button buttonGroup="0" type="button" id="mag-madal-close_bt_2"  class="close"  aria-hidden="true" onclick="mag_layer_close_2();">
+					&times;
+				</button>
+				<h4 class="modal-title" id="magModalLabel_2">
+					模态框（Modal）标题
+				</h4>
+			</div>
+			<div id="modal-body_2" class="modal-body"></div>
+		</div>
+	</div>
+</div>
+
+<!-- 模态框-Tab -->
+<div class="modal fade" id="magTabModal" tabindex="-1" role="dialog" data-keyboard=false data-backdrop='static' aria-labelledby="magTabModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header" style="border-bottom:0px;padding:15px 0px;">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true" style="padding-right:15px;">
+					&times;
+				</button>
+				
+<ul id="magTab" class="nav nav-tabs">
+
+</ul>
+			</div>
+			<div class="modal-body">
+				
+<div id="magTabContent" class="tab-content">
+
+</div>
+			</div>
+			<div id="mag-tablayer-button-div" class="modal-footer">
+				
+			</div>
+			
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal -->
+</div>
+
+
+
+<div style="display:none;">
+	<iframe id="mag_sendLongReq_iframe" name="mag_sendLongReq_iframe"></iframe>
+	<iframe id="mag_cma_sso_login_iframe" name="mag_cma_sso_login_iframe"></iframe>
+</div>
+<input type="hidden" id="mag_cma_sso_authorizeUrl" value=""/>
+		
+
+
+
+<!--头部-->
+
+
+<script language="javascript">
+	function tabChange(obj, id) {
+		var arrayli = obj.parentNode.getElementsByTagName("li"); //获取li数组
+		var arrayul = document.getElementById(id).getElementsByTagName("ul"); //获取ul数组
+		for (i = 0; i < arrayul.length; i++) {
+			if (obj == arrayli[i]) {
+				arrayli[i].className = "cli";
+				arrayul[i].className = "";
+			} else {
+				arrayli[i].className = "";
+				arrayul[i].className = "hidden";
+			}
+		}
+	}
+</script>
+<style type="text/css">
+.tabbox {
+	width: 400px;
+	margin-top: 5px;
+	margin-bottom: 5px
+}
+
+.tabmenu {
+	width: 400px;
+	height: 28px;
+	border-left: 1px solid #CCC;
+	border-top: 1px solid #ccc;
+}
+
+.tabmenu ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.tabmenu li {
+	text-align: center;
+	float: left;
+	display: block;
+	width: 99px;
+	overflow: hidden;
+	background-color: #f1f1f1;
+	line-height: 27px;
+	border-right: #ccc 1px solid;
+	border-bottom: #ccc 1px solid;
+	display: inline;
+}
+
+.tabmenu .cli {
+	text-align: center;
+	float: left;
+	display: block;
+	width: 99px;
+	overflow: hidden;
+	background-color: #fff;
+	line-height: 27px;
+	border-right: #ccc 1px solid;
+	border-bottom: #fff 1px solid;
+	display: inline;
+	cursor: pointer;
+	color: #c30000;
+	font-weight: bold
+}
+
+#tabcontent {
+	width: 399px;
+	background-color: #fff;
+	border-left: #CCC 1px solid;
+	border-right: #CCC 1px solid;
+	border-bottom: #CCC 1px solid;
+	height: 65px;
+}
+
+#tabcontent ul {
+	margin: 0;
+	padding: 5px;
+	list-style-type: none;
+}
+
+#tabcontent .hidden {
+	display: none;
+}
+
+img[src*='.traceImg']{
+	width:44px;
+	height:22px;
+}
+</style>
+
+<!--头部-->
+<div class="ding">
+<div class="ding2">
+	<span class="fl">
+		<a href="https://www.integrativebiology.ac.cn/" target="_blank">整合生物学期刊网</a>
+	</span>
+	
+</div>
+</div>
+
+<div class="header">
+<div class="container">
+<div class="row">
+		<div class="col-lg-8 col-md-8 col-sm-8 banner"><img src="https://www.integrativebiology.ac.cn/cykx/images/1001-0629/images/banner.png" class="img-responsive"></div>
+		<div class="col-lg-4 col-md-4 col-sm-4"> 
+			<div class="zgzb hidden-xs">ISSN 1001-0629　CN 62-1069/S</div>
+			<div class="article-search">
+				<div class="input-group" mag-component-type="ajaxPage" mag-page-url="https://www.integrativebiology.ac.cn/cykx/CN/article/quickSearch.do"></div>
+				<div class="adv-search"><a href="https://www.integrativebiology.ac.cn/cykx/CN/advsearch">高级检索</a></div>
+			 </div>
+		</div>	
+	
+</div>
+</div>
+</div>
+
+<div class="bignav" id="bignav">
+<div class="daohang">
+		<div class="navbar site-nav">
+			<div class="navbar-header">
+				<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand visible-xs" href="https://www.integrativebiology.ac.cn/cykx/CN/1001-0629/home.shtml"></a>
+			</div>
+			<div class="navbar-collapse collapse" role="navigation">
+
+				<ul class="nav navbar-nav">
+					<li><a href="https://www.integrativebiology.ac.cn/cykx/CN/home">首页</a></li>
+					<li><a href="https://www.integrativebiology.ac.cn/cykx/CN/column/column371.shtml">期刊简介</a></li>
+					<li><a href="https://www.integrativebiology.ac.cn/cykx/CN/column/column372.shtml">编委会</a></li>
+					<li><a href="https://www.integrativebiology.ac.cn/cykx/CN/column/column373.shtml">投稿指南</a></li>
+					<li><a href="https://www.integrativebiology.ac.cn/cykx/CN/column/column374.shtml">期刊订阅</a></li>
+					<li><a href="https://www.integrativebiology.ac.cn/cykx/CN/column/column375.shtml">出版道德声明</a></li>
+					<li><a href="https://www.integrativebiology.ac.cn/cykx/CN/column/column376.shtml">联系我们</a></li>
+					<li><a href="https://www.integrativebiology.ac.cn/cykx/EN/home" target="_blank">English</a></li>
+					</ul>
+			</div>
+		</div>		
+</div>
+</div>
+<script type="text/javascript">
+      window.onscroll=function(){
+        var topScroll = get_scrollTop_of_body();//滚动的距离,距离顶部的距离
+        var bignav = document.getElementById("bignav");//获取到导航栏id
+        if(topScroll > 200){ //当滚动距离大于250px时执行下面的东西
+          bignav.style.position = 'fixed';
+          bignav.style.top = '0';
+          bignav.style.zIndex = '9999';
+        }else{//当滚动距离小于250的时候执行下面的内容，也就是让导航栏恢复原状
+          bignav.style.position = 'static';
+        }
+      }
+      /*解决浏览器兼容问题*/
+    function get_scrollTop_of_body(){ 
+        var scrollTop; 
+        if(typeof window.pageYOffset != 'undefined'){//pageYOffset指的是滚动条顶部到网页顶部的距离 
+            scrollTop = window.pageYOffset; 
+        }else if(typeof document.compatMode != 'undefined' && document.compatMode != 'BackCompat')        { 
+            scrollTop = document.documentElement.scrollTop; 
+        }else if(typeof document.body != 'undefined'){ 
+            scrollTop = document.body.scrollTop; 
+        } 
+        return scrollTop; 
+    } 
+
+    </script>
+<!--中间-->
+<div class="container">
+<div class="row">
+
+<!--左-->
+
+
+
+
+
+
+<div class="col-md-9 m-center">		
+<section class="content_nr">
+	<h3 class="column">
+		<span> 投稿指南 </span>
+	</h3>
+<div class="item-content">
+<p style="color:#666666;font-family:微软雅黑, 黑体;font-size:14px;background-color:#FFFFFF;">
+	《草业科学》主要刊登草学、畜牧学、生态学、土壤学及其相关的生物学、农学、林学、园艺学等学科的科技论文。
+</p>
+<p style="color:#666666;font-family:微软雅黑, 黑体;font-size:14px;background-color:#FFFFFF;">
+	<span style="font-weight:700;">题目：</span>精炼，但不拘泥于形式，一般不多于20字。
+</p>
+<p style="color:#666666;font-family:微软雅黑, 黑体;font-size:14px;background-color:#FFFFFF;">
+	<span style="font-weight:700;">中文摘要：</span>应包含研究目的、研究方法、主要研究结果、研究结论，不应出现参考文献，通常300～500字。综述性论文必须凝练出具体的内容和建议、展望。
+</p>
+<p style="color:#666666;font-family:微软雅黑, 黑体;font-size:14px;background-color:#FFFFFF;">
+	<span style="font-weight:700;">英文摘要：</span>应与中文摘要表达一致，投稿前最好找英文编辑机构或相关研究方向英文水平较高的老师修改润色。
+</p>
+<p style="color:#666666;font-family:微软雅黑, 黑体;font-size:14px;background-color:#FFFFFF;">
+	<span style="font-weight:700;">作者姓名及单位中文信息：</span>姓名，请一定写正确姓名及单位名称，单位序号请根据作者出现的先后顺序标注。第一作者通常是试验的主要执行者和论文的撰写者，通信作者通常是研究思路的提出者、试验的指导者和设计者，其他作者按照对试验和论文撰写、修改的贡献依次排序。文章一旦投稿，第一作者和通信作者不能进行改动。
+</p>
+<p style="color:#666666;font-family:微软雅黑, 黑体;font-size:14px;background-color:#FFFFFF;">
+	<span style="font-weight:700;">作者姓名及单位英文信息：</span>所有信息必须与中文信息一致，且单位名称英文信息必须采用官方翻译。中国人按照传统的表达方法，姓前名后，比如张小五，英文翻译为ZHANG Xiaowu，张三英文翻译为ZHANG San，欧阳小四，OUYANG Xiaosi。
+</p>
+<p style="color:#666666;font-family:微软雅黑, 黑体;font-size:14px;background-color:#FFFFFF;">
+	<span style="font-weight:700;">前言：</span>通过对研究背景的回顾和分析，明确提出本研究要解决的科学问题，字数不少于500字。
+</p>
+<p style="color:#666666;font-family:微软雅黑, 黑体;font-size:14px;background-color:#FFFFFF;">
+	<span style="font-weight:700;">材料与方法：</span>研究型论文必备，根据具体情况主要描述研究地概况、试验材料、试验设计和数据分析方法、测定指标及测定方法。其中，试验设计和数据分析方法必须详细描述，达到让其他研究者可以参考该方法进行试验设计和数据分析的目的；测定方法中，如果是常规的测定方法，一两句话描述清楚方法的名字和参考文献即可，比如可溶性糖含量采用蒽酮比色法测定[8]；如果是非常规方法，尤其是作者首创的方法一定要详细描述，以便其他研究者可以重复该测定方法。
+</p>
+<p style="color:#666666;font-family:微软雅黑, 黑体;font-size:14px;background-color:#FFFFFF;">
+	<span style="font-weight:700;">结果与分析：</span>根据试验设计分段对结果进行描述，但注意只描述主要结果，并注明数据的显著性，做到图文并茂。表格中的数据用平均值±标准误表示，图中的数据用平均值和标准误差线表示。图表格式可参考投稿模板。
+</p>
+<p style="color:#666666;font-family:微软雅黑, 黑体;font-size:14px;background-color:#FFFFFF;">
+	<span style="font-weight:700;">讨论与结论：</span>主要是通过已发表的文献或理论来佐证本研究的结果，可以引入与本研究结果相反的研究，并解释可能的原因，最终凝练出本研究的结论。
+</p>
+<p style="color:#666666;font-family:微软雅黑, 黑体;font-size:14px;background-color:#FFFFFF;">
+	<span style="font-weight:700;">参考文献：</span>列出论文中出现的参考文献，科技论文的参考文献除了经典文献外，尽量引用近5年的中文核心或者SCI文献，研究型论文一般20条左右，综述型论文一般50～60条。中文文献需添加英文对照（尽量找原文献的英文翻译）并紧跟在中文的下面。具体格式可参考投稿模板。正文中参考文献引用采用序号上标法按照其在文中被引用的先后顺序标注，避免采用作者年代法。
+</p>
+<br>
+<div class="text-right">
+发布日期：2024-10-15&nbsp;&nbsp;&nbsp;
+浏览：
+
+
+ 
+
+7114
+	
+	
+	 
+</div>
+</div>
+</section>
+</div>
+
+<!--右部-->
+
+
+
+<div class="col-lg-4 col-md-4 col-sm-4 right-sidebar">
+
+<div class="qkxx box1">
+	<div class="qkxx_fm">
+		<a href="https://www.integrativebiology.ac.cn/cykx/CN/current"><img src="https://www.integrativebiology.ac.cn/cykx/fileup/1001-0629/COVER/20241015085936.jpg" class="img-responsive"></a>
+	</div>
+	<div class="qkxx_njq">
+		 2024年, 第41卷, 第09期　<br>
+		 刊出日期：2024-09-15
+	</div>
+	<a class="grid-6" href="https://journal08.magtechjournal.com/Journalx_cykx/authorLogOn.action" target="_blank">作者在线投稿</a>		
+</div>
+
+<div class="qkxx box1">
+	<div class="title_1"><span class="t1">版权信息</span> </div>
+	<div class="qkxx_xx">
+创刊日期：1984年<br>
+刊期：月刊<br>
+主管：中国科学技术协会<br>
+主办：中国草学会<br>
+　　　兰州大学草地农业科技学院<br>
+主编: 侯扶江<br>
+邮发代号：54-51<br>
+
+
+	</div>
+</div>
+
+<div class="ewm box1">
+	<img src="https://www.integrativebiology.ac.cn/cykx/images/1001-0629/images/ewm.jpg" class="img-responsive">
+	<div class="ewm_wz">官方微信公众号：Guihaia</div>
+</div>
+
+</div>
+</div>
+
+
+
+
+</div>
+</div>
+<!--底部-->
+
+
+
+<div class="footer">
+<div class="banquan">
+版权所有 &copy; 《草业科学》编辑部<br>
+ 技术支持：<a href="https://www.magtech.com.cn/" target="_blank" class="baise">北京玛格泰克科技发展有限公司</a>
+</div>
+</div>
+
+<!--返回顶部-->
+<div class="top_web" id="backtop" style="display:block;"> <span class="glyphicon glyphicon-menu-up" aria-hidden="true" ></span></div>
+<!--返回顶部end--> 
+</body>
+</HTML>

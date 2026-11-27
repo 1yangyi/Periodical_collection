@@ -1,0 +1,72 @@
+{
+  "journal": {
+    "name": "Communications on Pure and Applied Analysis",
+    "url": "https://www.aimsciences.org/cpaa",
+    "journal_id": "",
+    "row": 352,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.aimsciences.org/cpaa",
+  "collected_at": "2026-11-26T21:00:02+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.aimsciences.org"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.aimsciences.org/cpaa",
+      "requested_url": "https://www.aimsciences.org/cpaa",
+      "title": "Volume 41 In progress (May 2027) This issue is in progress but contains articles that are final and fully citable.",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:00:02+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.aimsciences.org/cpaa",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "https://www.aimsciences.org/cpaa",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://www.aimsciences.org/cpaa",
+      "title": "Communications on Pure and Applied Analysis",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

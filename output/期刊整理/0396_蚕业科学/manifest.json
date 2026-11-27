@@ -1,0 +1,129 @@
+{
+  "journal": {
+    "name": "蚕业科学",
+    "url": "http://www.cykxjournal.com/",
+    "journal_id": "",
+    "row": 397,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "http://www.cykxjournal.com/",
+  "collected_at": "2026-11-26T21:00:55+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.cykxjournal.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "http://www.cykxjournal.com/",
+      "requested_url": "http://www.cykxjournal.com/",
+      "title": "国家自然科学核心期刊-蚕业科学",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:00:55+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.cykxjournal.com/info/23.html",
+      "requested_url": "http://www.cykxjournal.com/info/23.html",
+      "title": "国家自然科学核心期刊-蚕业科学",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T21:00:55+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.cykxjournal.com/info/25.html",
+      "requested_url": "http://www.cykxjournal.com/info/25.html",
+      "title": "国家自然科学核心期刊-蚕业科学",
+      "path": [
+        "官网入口",
+        "投稿说明"
+      ],
+      "visited_at": "2026-11-26T21:00:55+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.cykxjournal.com/info/27.html",
+      "requested_url": "http://www.cykxjournal.com/info/27.html",
+      "title": "国家自然科学核心期刊-蚕业科学",
+      "path": [
+        "官网入口",
+        "写作要求"
+      ],
+      "visited_at": "2026-11-26T21:00:55+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "国家自然科学核心期刊-蚕业科学",
+      "source_url": "http://www.cykxjournal.com/info/25.html",
+      "path": [
+        "官网入口",
+        "投稿说明"
+      ],
+      "local_path": "web/国家自然科学核心期刊-蚕业科学_4a71727606.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "国家自然科学核心期刊-蚕业科学",
+      "source_url": "http://www.cykxjournal.com/info/27.html",
+      "path": [
+        "官网入口",
+        "写作要求"
+      ],
+      "local_path": "web/国家自然科学核心期刊-蚕业科学_55b6625d2a.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "蚕业科学投稿格式",
+      "local_path": "蚕业科学投稿格式.md",
+      "source_urls": [
+        "http://www.cykxjournal.com/info/25.html",
+        "http://www.cykxjournal.com/info/27.html"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "http://www.cykxjournal.com/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "http://www.cykxjournal.com/",
+      "title": "蚕业科学",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

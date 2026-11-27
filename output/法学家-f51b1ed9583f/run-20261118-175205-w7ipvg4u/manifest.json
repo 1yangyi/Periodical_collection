@@ -1,0 +1,669 @@
+{
+  "journal": {
+    "name": "法学家",
+    "url": "https://faxuejia.ruc.edu.cn/CN/current",
+    "journal_id": "CSSCI-2025-0009",
+    "row": 10,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "completed",
+  "homepage_resolved": "https://faxuejia.ruc.edu.cn/CN/current",
+  "collected_at": "2026-11-18T17:52:05+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "faxuejia.ruc.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://faxuejia.ruc.edu.cn/CN/current",
+      "requested_url": "https://faxuejia.ruc.edu.cn/CN/current",
+      "title": "本刊注释体例",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-18T17:52:05+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://faxuejia.ruc.edu.cn/CN/column/column12.shtml",
+      "requested_url": "https://faxuejia.ruc.edu.cn/CN/column/column12.shtml",
+      "title": "本刊注释体例",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-18T17:52:05+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://faxuejia.ruc.edu.cn/CN/news/folder.do?folderId=3",
+      "requested_url": "https://faxuejia.ruc.edu.cn/CN/news/folder.do?folderId=3",
+      "title": "【年会综述】新时代消费者权益保护的法律与实践问题研究 ——中国法学会消费者权益保护法学研究会2026年学术年会综述",
+      "path": [
+        "官网入口",
+        "更多"
+      ],
+      "visited_at": "2026-11-18T17:52:05+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://faxuejia.ruc.edu.cn/CN/news/news43.shtml",
+      "requested_url": "https://faxuejia.ruc.edu.cn/CN/news/news43.shtml",
+      "title": "本刊注释体例",
+      "path": [
+        "官网入口",
+        "更多",
+        "16 2023-01 “构建中国特色法学知识体系、话语体系和法治体系” 2023年度学术研讨会征稿启事"
+      ],
+      "visited_at": "2026-11-18T17:52:05+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://faxuejia.ruc.edu.cn/CN/news/news41.shtml",
+      "requested_url": "https://faxuejia.ruc.edu.cn/CN/news/news41.shtml",
+      "title": "本刊注释体例",
+      "path": [
+        "官网入口",
+        "更多",
+        "26 2022-01 “构建中国特色法学知识体系、话语体系和法治体系”2022年度学术研讨会征稿启事"
+      ],
+      "visited_at": "2026-11-18T17:52:05+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://faxuejia.ruc.edu.cn/CN/news/news38.shtml",
+      "requested_url": "https://faxuejia.ruc.edu.cn/CN/news/news38.shtml",
+      "title": "本刊注释体例",
+      "path": [
+        "官网入口",
+        "更多",
+        "03 2021-02 “构建中国特色法学知识体系、话语体系和法治体系”2021年度学术研讨会征稿启事"
+      ],
+      "visited_at": "2026-11-18T17:52:05+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://faxuejia.ruc.edu.cn/CN/news/news33.shtml",
+      "requested_url": "https://faxuejia.ruc.edu.cn/CN/news/news33.shtml",
+      "title": "本刊注释体例",
+      "path": [
+        "官网入口",
+        "更多",
+        "17 2020-01 “构建中国特色法学知识体系、话语体系和法治体系”2020年度学术研讨会征稿启事"
+      ],
+      "visited_at": "2026-11-18T17:52:05+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://faxuejia.ruc.edu.cn/CN/news/news32.shtml",
+      "requested_url": "https://faxuejia.ruc.edu.cn/CN/news/news32.shtml",
+      "title": "本刊注释体例",
+      "path": [
+        "官网入口",
+        "更多",
+        "08 2020-01 中国民法典解释与适用研讨会征稿启事"
+      ],
+      "visited_at": "2026-11-18T17:52:05+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://faxuejia.ruc.edu.cn/CN/news/news28.shtml",
+      "requested_url": "https://faxuejia.ruc.edu.cn/CN/news/news28.shtml",
+      "title": "本刊注释体例",
+      "path": [
+        "官网入口",
+        "更多",
+        "26 2019-01 “构建中国特色法学知识体系、话语体系和法治体系”2019年度学术研讨会征稿启事"
+      ],
+      "visited_at": "2026-11-18T17:52:05+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://faxuejia.ruc.edu.cn/CN/news/news21.shtml",
+      "requested_url": "https://faxuejia.ruc.edu.cn/CN/news/news21.shtml",
+      "title": "本刊注释体例",
+      "path": [
+        "官网入口",
+        "更多",
+        "11 2018-02 “构建中国特色法学知识体系和话语体系”学术研讨会征稿启事"
+      ],
+      "visited_at": "2026-11-18T17:52:05+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://faxuejia.ruc.edu.cn/CN/column/7/items",
+      "requested_url": "https://faxuejia.ruc.edu.cn/CN/column/7/items",
+      "title": "本刊注释体例",
+      "path": [
+        "官网入口",
+        "更多"
+      ],
+      "visited_at": "2026-11-18T17:52:05+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://faxuejia.ruc.edu.cn/CN/column/10/items",
+      "requested_url": "https://faxuejia.ruc.edu.cn/CN/column/10/items",
+      "title": "本刊注释体例",
+      "path": [
+        "官网入口",
+        "更多"
+      ],
+      "visited_at": "2026-11-18T17:52:05+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "本刊注释体例",
+      "source_url": "https://faxuejia.ruc.edu.cn/CN/current",
+      "path": [
+        "官网入口"
+      ],
+      "local_path": "web/本刊注释体例_215a62e720.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "attachment",
+      "format": "pdf",
+      "title": "本刊注释体例",
+      "local_path": "attachments/20241114111943_e73d52bcad.pdf",
+      "sha256": "e73d52bcada3131c0348afc5b2fe3fe7a8a8be83825b0037ec1910f4306c5661",
+      "bytes": 163931,
+      "sources": [
+        {
+          "source_url": "https://faxuejia.ruc.edu.cn/CN/current",
+          "download_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "resolved_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "path": [
+            "官网入口",
+            "本刊注释体例"
+          ],
+          "label": "本刊注释体例",
+          "context": "本刊注释体例",
+          "source_published_at": ""
+        },
+        {
+          "source_url": "https://faxuejia.ruc.edu.cn/CN/column/column12.shtml",
+          "download_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "resolved_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "path": [
+            "官网入口",
+            "投稿指南",
+            "本刊注释体例"
+          ],
+          "label": "本刊注释体例",
+          "context": "本刊注释体例",
+          "source_published_at": ""
+        },
+        {
+          "source_url": "https://faxuejia.ruc.edu.cn/CN/news/folder.do?folderId=3",
+          "download_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "resolved_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "path": [
+            "官网入口",
+            "更多",
+            "本刊注释体例"
+          ],
+          "label": "本刊注释体例",
+          "context": "本刊注释体例",
+          "source_published_at": ""
+        },
+        {
+          "source_url": "https://faxuejia.ruc.edu.cn/CN/news/news43.shtml",
+          "download_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "resolved_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "path": [
+            "官网入口",
+            "更多",
+            "16 2023-01 “构建中国特色法学知识体系、话语体系和法治体系” 2023年度学术研讨会征稿启事",
+            "本刊注释体例"
+          ],
+          "label": "本刊注释体例",
+          "context": "本刊注释体例",
+          "source_published_at": ""
+        },
+        {
+          "source_url": "https://faxuejia.ruc.edu.cn/CN/news/news41.shtml",
+          "download_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "resolved_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "path": [
+            "官网入口",
+            "更多",
+            "26 2022-01 “构建中国特色法学知识体系、话语体系和法治体系”2022年度学术研讨会征稿启事",
+            "本刊注释体例"
+          ],
+          "label": "本刊注释体例",
+          "context": "本刊注释体例",
+          "source_published_at": ""
+        },
+        {
+          "source_url": "https://faxuejia.ruc.edu.cn/CN/news/news38.shtml",
+          "download_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "resolved_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "path": [
+            "官网入口",
+            "更多",
+            "03 2021-02 “构建中国特色法学知识体系、话语体系和法治体系”2021年度学术研讨会征稿启事",
+            "本刊注释体例"
+          ],
+          "label": "本刊注释体例",
+          "context": "本刊注释体例",
+          "source_published_at": ""
+        },
+        {
+          "source_url": "https://faxuejia.ruc.edu.cn/CN/news/news33.shtml",
+          "download_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "resolved_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "path": [
+            "官网入口",
+            "更多",
+            "17 2020-01 “构建中国特色法学知识体系、话语体系和法治体系”2020年度学术研讨会征稿启事",
+            "本刊注释体例"
+          ],
+          "label": "本刊注释体例",
+          "context": "本刊注释体例",
+          "source_published_at": ""
+        },
+        {
+          "source_url": "https://faxuejia.ruc.edu.cn/CN/news/news32.shtml",
+          "download_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "resolved_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "path": [
+            "官网入口",
+            "更多",
+            "08 2020-01 中国民法典解释与适用研讨会征稿启事",
+            "本刊注释体例"
+          ],
+          "label": "本刊注释体例",
+          "context": "本刊注释体例",
+          "source_published_at": ""
+        },
+        {
+          "source_url": "https://faxuejia.ruc.edu.cn/CN/news/news28.shtml",
+          "download_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "resolved_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "path": [
+            "官网入口",
+            "更多",
+            "26 2019-01 “构建中国特色法学知识体系、话语体系和法治体系”2019年度学术研讨会征稿启事",
+            "本刊注释体例"
+          ],
+          "label": "本刊注释体例",
+          "context": "本刊注释体例",
+          "source_published_at": ""
+        },
+        {
+          "source_url": "https://faxuejia.ruc.edu.cn/CN/news/news21.shtml",
+          "download_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "resolved_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "path": [
+            "官网入口",
+            "更多",
+            "11 2018-02 “构建中国特色法学知识体系和话语体系”学术研讨会征稿启事",
+            "本刊注释体例"
+          ],
+          "label": "本刊注释体例",
+          "context": "本刊注释体例",
+          "source_published_at": ""
+        },
+        {
+          "source_url": "https://faxuejia.ruc.edu.cn/CN/column/7/items",
+          "download_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "resolved_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "path": [
+            "官网入口",
+            "更多",
+            "本刊注释体例"
+          ],
+          "label": "本刊注释体例",
+          "context": "本刊注释体例",
+          "source_published_at": ""
+        },
+        {
+          "source_url": "https://faxuejia.ruc.edu.cn/CN/column/10/items",
+          "download_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "resolved_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "path": [
+            "官网入口",
+            "更多",
+            "本刊注释体例"
+          ],
+          "label": "本刊注释体例",
+          "context": "本刊注释体例",
+          "source_published_at": ""
+        },
+        {
+          "source_url": "https://faxuejia.ruc.edu.cn/CN/column/column12.shtml",
+          "download_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "resolved_url": "https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5",
+          "path": [
+            "https://faxuejia.ruc.edu.cn/CN/top_download",
+            "导航“投稿指南”",
+            "页面页脚“本刊注释体例”"
+          ],
+          "label": "本刊注释体例",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "webpage",
+      "title": "本刊注释体例",
+      "source_url": "https://faxuejia.ruc.edu.cn/CN/column/column12.shtml",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "local_path": "web/本刊注释体例_d740f53ece.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "【年会综述】新时代消费者权益保护的法律与实践问题研究 ——中国法学会消费者权益保护法学研究会2026年学术年会综述",
+      "source_url": "https://faxuejia.ruc.edu.cn/CN/news/folder.do?folderId=3",
+      "path": [
+        "官网入口",
+        "更多"
+      ],
+      "local_path": "web/【年会综述】新时代消费者权益保护的法律与实践问题研究 ——中国法学会消费者权益保护法学研究会2026年学术年会综述_779949d16b.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "本刊注释体例",
+      "source_url": "https://faxuejia.ruc.edu.cn/CN/news/news43.shtml",
+      "path": [
+        "官网入口",
+        "更多",
+        "16 2023-01 “构建中国特色法学知识体系、话语体系和法治体系” 2023年度学术研讨会征稿启事"
+      ],
+      "local_path": "web/本刊注释体例_ca9e88da27.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "本刊注释体例",
+      "source_url": "https://faxuejia.ruc.edu.cn/CN/news/news41.shtml",
+      "path": [
+        "官网入口",
+        "更多",
+        "26 2022-01 “构建中国特色法学知识体系、话语体系和法治体系”2022年度学术研讨会征稿启事"
+      ],
+      "local_path": "web/本刊注释体例_18a656bfc8.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "本刊注释体例",
+      "source_url": "https://faxuejia.ruc.edu.cn/CN/news/news38.shtml",
+      "path": [
+        "官网入口",
+        "更多",
+        "03 2021-02 “构建中国特色法学知识体系、话语体系和法治体系”2021年度学术研讨会征稿启事"
+      ],
+      "local_path": "web/本刊注释体例_979af44bcd.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "本刊注释体例",
+      "source_url": "https://faxuejia.ruc.edu.cn/CN/news/news33.shtml",
+      "path": [
+        "官网入口",
+        "更多",
+        "17 2020-01 “构建中国特色法学知识体系、话语体系和法治体系”2020年度学术研讨会征稿启事"
+      ],
+      "local_path": "web/本刊注释体例_fcbf81ec9c.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "本刊注释体例",
+      "source_url": "https://faxuejia.ruc.edu.cn/CN/news/news32.shtml",
+      "path": [
+        "官网入口",
+        "更多",
+        "08 2020-01 中国民法典解释与适用研讨会征稿启事"
+      ],
+      "local_path": "web/本刊注释体例_3223fb5e73.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "本刊注释体例",
+      "source_url": "https://faxuejia.ruc.edu.cn/CN/news/news28.shtml",
+      "path": [
+        "官网入口",
+        "更多",
+        "26 2019-01 “构建中国特色法学知识体系、话语体系和法治体系”2019年度学术研讨会征稿启事"
+      ],
+      "local_path": "web/本刊注释体例_6ed3071b82.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "本刊注释体例",
+      "source_url": "https://faxuejia.ruc.edu.cn/CN/news/news21.shtml",
+      "path": [
+        "官网入口",
+        "更多",
+        "11 2018-02 “构建中国特色法学知识体系和话语体系”学术研讨会征稿启事"
+      ],
+      "local_path": "web/本刊注释体例_b4689db998.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "本刊注释体例",
+      "source_url": "https://faxuejia.ruc.edu.cn/CN/column/7/items",
+      "path": [
+        "官网入口",
+        "更多"
+      ],
+      "local_path": "web/本刊注释体例_66829f5a25.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "本刊注释体例",
+      "source_url": "https://faxuejia.ruc.edu.cn/CN/column/10/items",
+      "path": [
+        "官网入口",
+        "更多"
+      ],
+      "local_path": "web/本刊注释体例_5a17fbdeff.html",
+      "status": "saved",
+      "published_at": ""
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://faxuejia.ruc.edu.cn/CN/top_download",
+      "title": "下载排行",
+      "source_url": "https://faxuejia.ruc.edu.cn/CN/current",
+      "path": [
+        "官网入口",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    },
+    {
+      "url": "https://faxuejia.ruc.edu.cn/fileup/1005-0221/COVER/20260920151222_directoryfile_cn.pdf",
+      "title": "本期目录 封面 封底",
+      "source_url": "https://faxuejia.ruc.edu.cn/CN/current",
+      "path": [
+        "官网入口",
+        "本期目录 封面 封底"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "本期目录 封面 封底"
+    },
+    {
+      "url": "https://faxuejia.ruc.edu.cn/CN/top_download",
+      "title": "下载排行",
+      "source_url": "https://faxuejia.ruc.edu.cn/CN/column/column12.shtml",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    },
+    {
+      "url": "https://faxuejia.ruc.edu.cn/CN/top_download",
+      "title": "下载排行",
+      "source_url": "https://faxuejia.ruc.edu.cn/CN/news/news43.shtml",
+      "path": [
+        "官网入口",
+        "更多",
+        "16 2023-01 “构建中国特色法学知识体系、话语体系和法治体系” 2023年度学术研讨会征稿启事",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    },
+    {
+      "url": "https://faxuejia.ruc.edu.cn/CN/top_download",
+      "title": "下载排行",
+      "source_url": "https://faxuejia.ruc.edu.cn/CN/news/news41.shtml",
+      "path": [
+        "官网入口",
+        "更多",
+        "26 2022-01 “构建中国特色法学知识体系、话语体系和法治体系”2022年度学术研讨会征稿启事",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    },
+    {
+      "url": "https://faxuejia.ruc.edu.cn/CN/top_download",
+      "title": "下载排行",
+      "source_url": "https://faxuejia.ruc.edu.cn/CN/news/news38.shtml",
+      "path": [
+        "官网入口",
+        "更多",
+        "03 2021-02 “构建中国特色法学知识体系、话语体系和法治体系”2021年度学术研讨会征稿启事",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    },
+    {
+      "url": "https://faxuejia.ruc.edu.cn/CN/top_download",
+      "title": "下载排行",
+      "source_url": "https://faxuejia.ruc.edu.cn/CN/news/news33.shtml",
+      "path": [
+        "官网入口",
+        "更多",
+        "17 2020-01 “构建中国特色法学知识体系、话语体系和法治体系”2020年度学术研讨会征稿启事",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    },
+    {
+      "url": "https://faxuejia.ruc.edu.cn/CN/top_download",
+      "title": "下载排行",
+      "source_url": "https://faxuejia.ruc.edu.cn/CN/news/news32.shtml",
+      "path": [
+        "官网入口",
+        "更多",
+        "08 2020-01 中国民法典解释与适用研讨会征稿启事",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    },
+    {
+      "url": "https://faxuejia.ruc.edu.cn/CN/top_download",
+      "title": "下载排行",
+      "source_url": "https://faxuejia.ruc.edu.cn/CN/news/news28.shtml",
+      "path": [
+        "官网入口",
+        "更多",
+        "26 2019-01 “构建中国特色法学知识体系、话语体系和法治体系”2019年度学术研讨会征稿启事",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    },
+    {
+      "url": "https://faxuejia.ruc.edu.cn/CN/top_download",
+      "title": "下载排行",
+      "source_url": "https://faxuejia.ruc.edu.cn/CN/news/news21.shtml",
+      "path": [
+        "官网入口",
+        "更多",
+        "11 2018-02 “构建中国特色法学知识体系和话语体系”学术研讨会征稿启事",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    },
+    {
+      "url": "https://faxuejia.ruc.edu.cn/CN/top_download",
+      "title": "下载排行",
+      "source_url": "https://faxuejia.ruc.edu.cn/CN/column/7/items",
+      "path": [
+        "官网入口",
+        "更多",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    },
+    {
+      "url": "https://faxuejia.ruc.edu.cn/CN/top_download",
+      "title": "下载排行",
+      "source_url": "https://faxuejia.ruc.edu.cn/CN/column/10/items",
+      "path": [
+        "官网入口",
+        "更多",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    }
+  ]
+}

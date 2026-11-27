@@ -1,0 +1,30 @@
+{
+  "index": 203,
+  "journal": "计算机研究与发展",
+  "url": "https://crad.ict.ac.cn/",
+  "source_sheet": "可打开",
+  "source_row": 204,
+  "started_at": "2026-11-26T20:58:19+08:00",
+  "finished_at": "2026-11-26T20:58:29+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 3,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST runs 返回 HTTP 402"
+  ],
+  "manifest": "0203_计算机研究与发展/manifest.json",
+  "pages": 3,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 2,
+  "pending_reasons": [
+    "browser_use_failed",
+    "no_valid_word_or_pdf"
+  ]
+}

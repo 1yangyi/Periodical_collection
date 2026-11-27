@@ -1,0 +1,100 @@
+{
+  "journal": {
+    "name": "中央音乐学院学报",
+    "url": "https://xuebao.ccom.edu.cn/CN/column/column1.shtml",
+    "journal_id": "",
+    "row": 13,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://xuebao.ccom.edu.cn/CN/column/column1.shtml",
+  "collected_at": "2026-11-26T20:39:48+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "xuebao.ccom.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://xuebao.ccom.edu.cn/CN/column/column1.shtml",
+      "requested_url": "https://xuebao.ccom.edu.cn/CN/column/column1.shtml",
+      "title": "中央音乐学院学报 学报简介",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:39:48+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://xuebao.ccom.edu.cn/CN/column/5/items",
+      "requested_url": "https://xuebao.ccom.edu.cn/CN/column/5/items",
+      "title": "中央音乐学院学报",
+      "path": [
+        "官网入口",
+        "编辑部公告"
+      ],
+      "visited_at": "2026-11-26T20:39:48+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://xuebao.ccom.edu.cn/CN/column/column7.shtml",
+      "requested_url": "https://xuebao.ccom.edu.cn/CN/column/column7.shtml",
+      "title": "中央音乐学院学报 著录规范",
+      "path": [
+        "起始页面",
+        "首页",
+        "作者投稿区",
+        "著录规范"
+      ],
+      "visited_at": "2026-11-26T20:39:48+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "中央音乐学院学报 著录规范",
+      "source_url": "https://xuebao.ccom.edu.cn/CN/column/column7.shtml",
+      "path": [
+        "起始页面",
+        "首页",
+        "作者投稿区",
+        "著录规范"
+      ],
+      "local_path": "web/中央音乐学院学报 著录规范_086f5eda4c.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "中央音乐学院学报投稿格式",
+      "local_path": "中央音乐学院学报投稿格式.md",
+      "source_urls": [
+        "https://xuebao.ccom.edu.cn/CN/column/column7.shtml"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://xuebao.ccom.edu.cn/CN/column/column1.shtml",
+      "title": "中央音乐学院学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

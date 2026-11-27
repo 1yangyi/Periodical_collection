@@ -1,0 +1,124 @@
+{
+  "journal": {
+    "name": "半导体技术",
+    "url": "https://www.cetc13.cn/13/385525/385529/388430/index.html",
+    "journal_id": "",
+    "row": 78,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.cetc13.cn/13/385525/385529/388430/index.html",
+  "collected_at": "2026-11-26T20:49:13+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.cetc13.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.cetc13.cn/13/385525/385529/388430/index.html",
+      "requested_url": "https://www.cetc13.cn/13/385525/385529/388430/index.html",
+      "title": "《半导体技术》和《微纳电子技术》简介",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:49:13+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cetc13.cn/13/385525/387839/1772508/index.html",
+      "requested_url": "https://www.cetc13.cn/13/385525/387839/1772508/index.html",
+      "title": "《半导体技术》投稿指南",
+      "path": [
+        "期刊杂志",
+        "投稿征文",
+        "《半导体技术》投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:49:13+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cetc13.cn/13/385525/387839/index.html",
+      "requested_url": "https://www.cetc13.cn/13/385525/387839/index.html",
+      "title": "投稿征文-中国电科产业基础研究院",
+      "path": [
+        "期刊杂志",
+        "投稿征文"
+      ],
+      "visited_at": "2026-11-26T20:49:13+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cetc13.cn/13/385525/387839/1772525/index.html",
+      "requested_url": "https://www.cetc13.cn/13/385525/387839/1772525/index.html",
+      "title": "《微纳电子技术》投稿指南",
+      "path": [
+        "期刊杂志",
+        "投稿征文",
+        "《微纳电子技术》投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:49:13+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "《半导体技术》投稿指南",
+      "source_url": "https://www.cetc13.cn/13/385525/387839/1772508/index.html",
+      "path": [
+        "期刊杂志",
+        "投稿征文",
+        "《半导体技术》投稿指南"
+      ],
+      "local_path": "web/《半导体技术》投稿指南_b7ba680209.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "《微纳电子技术》投稿指南",
+      "source_url": "https://www.cetc13.cn/13/385525/387839/1772525/index.html",
+      "path": [
+        "期刊杂志",
+        "投稿征文",
+        "《微纳电子技术》投稿指南"
+      ],
+      "local_path": "web/《微纳电子技术》投稿指南_62e2ce03d9.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "半导体技术投稿格式",
+      "local_path": "半导体技术投稿格式.md",
+      "source_urls": [
+        "https://www.cetc13.cn/13/385525/387839/1772508/index.html",
+        "https://www.cetc13.cn/13/385525/387839/1772525/index.html"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://www.cetc13.cn/13/385525/385529/388430/index.html",
+      "title": "半导体技术",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

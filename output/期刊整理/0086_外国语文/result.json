@@ -1,0 +1,27 @@
+{
+  "index": 86,
+  "journal": "外国语文",
+  "url": "https://scwy.cbpt.cnki.net/WKG/WebPublication/index.aspx",
+  "source_sheet": "可打开",
+  "source_row": 87,
+  "started_at": "2026-11-26T20:50:42+08:00",
+  "finished_at": "2026-11-26T20:52:10+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 3,
+    "artifacts": 2,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0086_外国语文/manifest.json",
+  "pages": 3,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 1,
+  "pending_count": 1,
+  "pending_reasons": [
+    "no_valid_word_or_pdf"
+  ]
+}

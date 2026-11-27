@@ -1,0 +1,142 @@
+{
+  "journal": {
+    "name": "新闻大学",
+    "url": "https://xwxy.fudan.edu.cn/51869/list.htm",
+    "journal_id": "",
+    "row": 3,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://xwxy.fudan.edu.cn/51869/list.htm",
+  "collected_at": "2026-11-26T20:39:07+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "xwxy.fudan.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://xwxy.fudan.edu.cn/51869/list.htm",
+      "requested_url": "https://xwxy.fudan.edu.cn/51869/list.htm",
+      "title": "新闻大学",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:39:07+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://xwxy.fudan.edu.cn/ggl/list.htm",
+      "requested_url": "https://xwxy.fudan.edu.cn/ggl/list.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:39:07+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://xwxy.fudan.edu.cn:443/ggl/list14.psp",
+      "requested_url": "https://xwxy.fudan.edu.cn/ggl/list14.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "尾页"
+      ],
+      "visited_at": "2026-11-26T20:39:07+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://xwxy.fudan.edu.cn:443/ggl/list.htm",
+      "requested_url": "https://xwxy.fudan.edu.cn:443/ggl/list.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "尾页",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:39:07+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://xwxy.fudan.edu.cn/ab/9f/c51869a502687/page.htm",
+      "requested_url": "https://xwxy.fudan.edu.cn/ab/9f/c51869a502687/page.htm",
+      "title": "《新闻大学》在线投稿须知",
+      "path": [
+        "起始页面：https://xwxy.fudan.edu.cn/51869/list.htm",
+        "学术学科",
+        "学术期刊",
+        "新闻大学",
+        "《新闻大学》在线投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:39:07+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "《新闻大学》在线投稿须知",
+      "source_url": "https://xwxy.fudan.edu.cn/ab/9f/c51869a502687/page.htm",
+      "path": [
+        "起始页面：https://xwxy.fudan.edu.cn/51869/list.htm",
+        "学术学科",
+        "学术期刊",
+        "新闻大学",
+        "《新闻大学》在线投稿须知"
+      ],
+      "local_path": "web/《新闻大学》在线投稿须知_81e0cda8a2.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "新闻大学投稿格式",
+      "local_path": "新闻大学投稿格式.md",
+      "source_urls": [
+        "https://xwxy.fudan.edu.cn/ab/9f/c51869a502687/page.htm"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://xwxy.fudan.edu.cn:443/ggl/list14.htm",
+      "title": "尾页",
+      "source_url": "https://xwxy.fudan.edu.cn:443/ggl/list.htm",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "尾页",
+        "通知公告",
+        "尾页"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "尾页"
+    },
+    {
+      "url": "https://xwxy.fudan.edu.cn/51869/list.htm",
+      "title": "新闻大学",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

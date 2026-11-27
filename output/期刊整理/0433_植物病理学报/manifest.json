@@ -1,0 +1,61 @@
+{
+  "journal": {
+    "name": "植物病理学报",
+    "url": "http://zwblxb.magtech.com.cn/",
+    "journal_id": "",
+    "row": 434,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "http://zwblxb.magtech.com.cn/",
+  "collected_at": "2026-11-26T21:01:28+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "zwblxb.magtech.com.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "http://zwblxb.magtech.com.cn/",
+      "requested_url": "http://zwblxb.magtech.com.cn/",
+      "title": "",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:01:28+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "http://zwblxb.magtech.com.cn/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "http://zwblxb.magtech.com.cn/",
+      "title": "植物病理学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "journal": {
+    "name": "天然气工业",
+    "url": "https://www.cngascn.com/",
+    "journal_id": "",
+    "row": 316,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "completed",
+  "homepage_resolved": "https://www.cngascn.com/",
+  "collected_at": "2026-11-26T20:59:35+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.cngascn.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.cngascn.com/",
+      "requested_url": "https://www.cngascn.com/",
+      "title": "天然气工业杂志社参加第十三届全国石油经济学术年会",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:35+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cngascn.com/index/lists/downloads.html",
+      "requested_url": "https://www.cngascn.com/index/lists/downloads.html",
+      "title": "下载中心-天然气工业杂志社",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "visited_at": "2026-11-26T20:59:35+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cngascn.com/index/lists/tzgg.html",
+      "requested_url": "https://www.cngascn.com/index/lists/tzgg.html",
+      "title": "【征稿】“中国含油气盆地天然气新层系·新领域·新类型”专辑征稿",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:59:35+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "下载中心-天然气工业杂志社",
+      "source_url": "https://www.cngascn.com/index/lists/downloads.html",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "local_path": "web/下载中心-天然气工业杂志社_71da3511f7.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "attachment",
+      "format": "docx",
+      "title": "点击下载",
+      "local_path": "attachments/20210425153836167_b8652b3530.docx",
+      "sha256": "b8652b3530f27e930ebf8329d6842db3afddf8a5e6ff5bee4269bad4cce06d19",
+      "bytes": 41031,
+      "sources": [
+        {
+          "source_url": "https://www.cngascn.com/index/lists/downloads.html",
+          "download_url": "https://www.cngascn.com/uploads/files/2021/04/20210425153836167.docx",
+          "resolved_url": "https://www.cngascn.com/uploads/files/2021/04/20210425153836167.docx",
+          "path": [
+            "官网入口",
+            "下载中心",
+            "点击下载"
+          ],
+          "label": "点击下载",
+          "context": "天然气工业投稿须知（2021年4月） 点击下载",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "attachment",
+      "format": "docx",
+      "title": "点击下载",
+      "local_path": "attachments/20210425111909133_983a8de1bd.docx",
+      "sha256": "983a8de1bdbbaff7c1b47961b11691c6050e134772b5fdac15165bf8a7ccc050",
+      "bytes": 286384,
+      "sources": [
+        {
+          "source_url": "https://www.cngascn.com/index/lists/downloads.html",
+          "download_url": "https://www.cngascn.com/uploads/files/2021/04/20210425111909133.docx",
+          "resolved_url": "https://www.cngascn.com/uploads/files/2021/04/20210425111909133.docx",
+          "path": [
+            "官网入口",
+            "下载中心",
+            "点击下载"
+          ],
+          "label": "点击下载",
+          "context": "投稿模板（2020年3月更新） 点击下载",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://www.cngascn.com/uploads/files/2021/11/20211126163627159.pdf",
+      "title": "点击下载",
+      "source_url": "https://www.cngascn.com/index/lists/downloads.html",
+      "path": [
+        "官网入口",
+        "下载中心",
+        "点击下载"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "2021年Ei检索收录 点击下载"
+    },
+    {
+      "url": "https://www.cngascn.com/uploads/files/2020/11/20201126171512124.pdf",
+      "title": "点击下载",
+      "source_url": "https://www.cngascn.com/index/lists/downloads.html",
+      "path": [
+        "官网入口",
+        "下载中心",
+        "点击下载"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "2019Ei收录216全 点击下载"
+    },
+    {
+      "url": "https://www.cngascn.com/uploads/files/2020/11/20201126171452132.pdf",
+      "title": "点击下载",
+      "source_url": "https://www.cngascn.com/index/lists/downloads.html",
+      "path": [
+        "官网入口",
+        "下载中心",
+        "点击下载"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "2018年Ei检索收录215篇全 点击下载"
+    },
+    {
+      "url": "https://www.cngascn.com/uploads/files/2021/11/20211126163612129.pdf",
+      "title": "点击下载",
+      "source_url": "https://www.cngascn.com/index/lists/downloads.html",
+      "path": [
+        "官网入口",
+        "下载中心",
+        "点击下载"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "2020年Ei检索收录 点击下载"
+    },
+    {
+      "url": "https://www.cngascn.com/uploads/files/2020/11/20201126164647143.docx",
+      "title": "点击下载",
+      "source_url": "https://www.cngascn.com/index/lists/downloads.html",
+      "path": [
+        "官网入口",
+        "下载中心",
+        "点击下载"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "版权协议及保密证明 点击下载"
+    },
+    {
+      "url": "https://www.cngascn.com/uploads/files/2020/11/20201126164519143.docx",
+      "title": "点击下载",
+      "source_url": "https://www.cngascn.com/index/lists/downloads.html",
+      "path": [
+        "官网入口",
+        "下载中心",
+        "点击下载"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载往期目录和封面的方法 点击下载"
+    }
+  ]
+}

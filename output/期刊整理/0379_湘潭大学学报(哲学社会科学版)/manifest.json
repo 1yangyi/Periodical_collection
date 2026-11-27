@@ -1,0 +1,178 @@
+{
+  "journal": {
+    "name": "湘潭大学学报(哲学社会科学版)",
+    "url": "https://qks.xtu.edu.cn/info/1495/1077.htm",
+    "journal_id": "",
+    "row": 380,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://qks.xtu.edu.cn/info/1495/1077.htm",
+  "collected_at": "2026-11-26T21:00:25+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "qks.xtu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://qks.xtu.edu.cn/info/1495/1077.htm",
+      "requested_url": "https://qks.xtu.edu.cn/info/1495/1077.htm",
+      "title": "《湘潭大学学报（哲学社会科学版）》投稿须知",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:00:25+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qks.xtu.edu.cn/bszn/tgxz.htm",
+      "requested_url": "https://qks.xtu.edu.cn/bszn/tgxz.htm",
+      "title": "投稿须知",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T21:00:25+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qks.xtu.edu.cn/info/1495/1079.htm",
+      "requested_url": "https://qks.xtu.edu.cn/info/1495/1079.htm",
+      "title": "《湘潭大学学报（自然科学版）》投稿须知",
+      "path": [
+        "官网入口",
+        "上一条：《湘潭大学学报（自然科学版）》投稿须知"
+      ],
+      "visited_at": "2026-11-26T21:00:25+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qks.xtu.edu.cn/info/1495/1080.htm",
+      "requested_url": "https://qks.xtu.edu.cn/info/1495/1080.htm",
+      "title": "《中国韵文学刊》投稿须知",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "《中国韵文学刊》投稿须知"
+      ],
+      "visited_at": "2026-11-26T21:00:25+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qks.xtu.edu.cn/gzdt/tzgg.htm",
+      "requested_url": "https://qks.xtu.edu.cn/gzdt/tzgg.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T21:00:25+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qks.xtu.edu.cn/xzzq.htm",
+      "requested_url": "https://qks.xtu.edu.cn/xzzq.htm",
+      "title": "下载专区",
+      "path": [
+        "官网入口",
+        "下载专区"
+      ],
+      "visited_at": "2026-11-26T21:00:25+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qks.xtu.edu.cn/info/1480/1122.htm",
+      "requested_url": "https://qks.xtu.edu.cn/info/1480/1122.htm",
+      "title": "《湘潭大学学报（自然科学版）》投稿规范",
+      "path": [
+        "官网入口",
+        "下载专区",
+        "《湘潭大学学报（自然科学版）》投稿规范"
+      ],
+      "visited_at": "2026-11-26T21:00:25+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "《湘潭大学学报（自然科学版）》投稿须知",
+      "source_url": "https://qks.xtu.edu.cn/info/1495/1079.htm",
+      "path": [
+        "官网入口",
+        "上一条：《湘潭大学学报（自然科学版）》投稿须知"
+      ],
+      "local_path": "web/《湘潭大学学报（自然科学版）》投稿须知_d5065afe0d.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "《湘潭大学学报（自然科学版）》投稿规范",
+      "source_url": "https://qks.xtu.edu.cn/info/1480/1122.htm",
+      "path": [
+        "官网入口",
+        "下载专区",
+        "《湘潭大学学报（自然科学版）》投稿规范"
+      ],
+      "local_path": "web/《湘潭大学学报（自然科学版）》投稿规范_076b9d5033.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "湘潭大学学报(哲学社会科学版)投稿格式",
+      "local_path": "湘潭大学学报(哲学社会科学版)投稿格式.md",
+      "source_urls": [
+        "https://qks.xtu.edu.cn/info/1495/1079.htm"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://qks.xtu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1824410657&wbfileid=6600753",
+      "title": "湘潭大学学报（自然科学版）排版范例.docx",
+      "source_url": "https://qks.xtu.edu.cn/info/1480/1122.htm",
+      "path": [
+        "官网入口",
+        "下载专区",
+        "《湘潭大学学报（自然科学版）》投稿规范",
+        "湘潭大学学报（自然科学版）排版范例.docx"
+      ],
+      "reason": "invalid_or_failed_attachment",
+      "detail": "响应类型：text/html",
+      "context": "点击下载： 湘潭大学学报（自然科学版）排版范例.docx"
+    },
+    {
+      "url": "https://qks.xtu.edu.cn/info/1495/1077.htm",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://qks.xtu.edu.cn/info/1495/1077.htm",
+      "title": "湘潭大学学报(哲学社会科学版)",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

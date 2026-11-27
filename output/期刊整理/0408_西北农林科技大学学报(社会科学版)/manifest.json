@@ -1,0 +1,129 @@
+{
+  "journal": {
+    "name": "西北农林科技大学学报(社会科学版)",
+    "url": "http://www.xnxbs.net",
+    "journal_id": "",
+    "row": 409,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "http://www.xnxbs.net/xbnlkjdxskb/ch/index.aspx",
+  "collected_at": "2026-11-26T21:01:03+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.xnxbs.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "http://www.xnxbs.net/xbnlkjdxskb/ch/index.aspx",
+      "requested_url": "http://www.xnxbs.net",
+      "title": "西北农林科技大学学报社会科学版",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:01:03+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.xnxbs.net/xbnlkjdxskb/ch/first_menu.aspx?parent_id=20091027195000001",
+      "requested_url": "http://www.xnxbs.net/xbnlkjdxskb/ch/first_menu.aspx?parent_id=20091027195000001",
+      "title": "西北农林科技大学学报社会科学版",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T21:01:03+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.xnxbs.net/xbnlkjdxskb/ch/reader/view_news.aspx?id=20091027191729001",
+      "requested_url": "http://www.xnxbs.net/xbnlkjdxskb/ch/reader/view_news.aspx?id=20091027191729001",
+      "title": "西北农林科技大学学报社会科学版",
+      "path": [
+        "官网入口",
+        "文献著录格式"
+      ],
+      "visited_at": "2026-11-26T21:01:03+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.xnxbs.net/xbnlkjdxskb/ch/first_menu.aspx?parent_id=20091027195024001",
+      "requested_url": "http://www.xnxbs.net/xbnlkjdxskb/ch/first_menu.aspx?parent_id=20091027195024001",
+      "title": "西北农林科技大学学报社会科学版",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "visited_at": "2026-11-26T21:01:03+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "西北农林科技大学学报社会科学版",
+      "source_url": "http://www.xnxbs.net/xbnlkjdxskb/ch/first_menu.aspx?parent_id=20091027195000001",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "local_path": "web/西北农林科技大学学报社会科学版_c69b1ad6fb.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "西北农林科技大学学报社会科学版",
+      "source_url": "http://www.xnxbs.net/xbnlkjdxskb/ch/reader/view_news.aspx?id=20091027191729001",
+      "path": [
+        "官网入口",
+        "文献著录格式"
+      ],
+      "local_path": "web/西北农林科技大学学报社会科学版_859c03a292.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "西北农林科技大学学报(社会科学版)投稿格式",
+      "local_path": "西北农林科技大学学报(社会科学版)投稿格式.md",
+      "source_urls": [
+        "http://www.xnxbs.net/xbnlkjdxskb/ch/first_menu.aspx?parent_id=20091027195000001",
+        "http://www.xnxbs.net/xbnlkjdxskb/ch/reader/view_news.aspx?id=20091027191729001"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "http://www.xnxbs.net",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "http://www.xnxbs.net",
+      "title": "西北农林科技大学学报(社会科学版)",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

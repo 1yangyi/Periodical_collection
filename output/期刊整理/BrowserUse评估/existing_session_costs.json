@@ -1,0 +1,1567 @@
+{
+  "read_only": true,
+  "no_paid_runs_created": true,
+  "requested_sessions": 120,
+  "sessions": [
+    {
+      "sessionId": "0d9ae986-eec2-4e65-9c5c-208ee6dad3ff",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.004602",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000364",
+        "proxyUsedMb": "1.862314",
+        "searchCostUsd": "0.000000",
+        "sessionId": "0d9ae986-eec2-4e65-9c5c-208ee6dad3ff",
+        "totalCostUsd": "0.007966"
+      }
+    },
+    {
+      "sessionId": "090d7761-9599-4eed-a95b-f6a965126bb2",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.002645",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000012",
+        "proxyUsedMb": "0.062519",
+        "searchCostUsd": "0.000000",
+        "sessionId": "090d7761-9599-4eed-a95b-f6a965126bb2",
+        "totalCostUsd": "0.006657"
+      }
+    },
+    {
+      "sessionId": "10db3024-c09f-4fb8-afbc-0431a978d021",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.003749",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000899",
+        "proxyUsedMb": "4.603527",
+        "searchCostUsd": "0.000000",
+        "sessionId": "10db3024-c09f-4fb8-afbc-0431a978d021",
+        "totalCostUsd": "0.007648"
+      }
+    },
+    {
+      "sessionId": "0a93f4ae-3951-481b-b798-d3ff0de66950",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.003326",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000236",
+        "proxyUsedMb": "1.207059",
+        "searchCostUsd": "0.000000",
+        "sessionId": "0a93f4ae-3951-481b-b798-d3ff0de66950",
+        "totalCostUsd": "0.006562"
+      }
+    },
+    {
+      "sessionId": "10f06f50-3096-48bc-b418-619f3abd0011",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.005297",
+        "numRuns": 1,
+        "proxyCostUsd": "0.001259",
+        "proxyUsedMb": "6.445420",
+        "searchCostUsd": "0.000000",
+        "sessionId": "10f06f50-3096-48bc-b418-619f3abd0011",
+        "totalCostUsd": "0.010556"
+      }
+    },
+    {
+      "sessionId": "164a3a68-34c5-42e4-b281-4b2d116ceb45",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.002702",
+        "numRuns": 1,
+        "proxyCostUsd": "0.001035",
+        "proxyUsedMb": "5.300901",
+        "searchCostUsd": "0.000000",
+        "sessionId": "164a3a68-34c5-42e4-b281-4b2d116ceb45",
+        "totalCostUsd": "0.006737"
+      }
+    },
+    {
+      "sessionId": "154008cc-5894-4c38-82fd-2a51f8579cfd",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.004940",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000510",
+        "proxyUsedMb": "2.612957",
+        "searchCostUsd": "0.000000",
+        "sessionId": "154008cc-5894-4c38-82fd-2a51f8579cfd",
+        "totalCostUsd": "0.008450"
+      }
+    },
+    {
+      "sessionId": "155be932-f86d-40b9-93bd-a374194f6660",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.002530",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000286",
+        "proxyUsedMb": "1.466007",
+        "searchCostUsd": "0.000000",
+        "sessionId": "155be932-f86d-40b9-93bd-a374194f6660",
+        "totalCostUsd": "0.005816"
+      }
+    },
+    {
+      "sessionId": "1cab66de-6d36-41b1-8a62-768aefb132a6",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.002963",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000562",
+        "proxyUsedMb": "2.875377",
+        "searchCostUsd": "0.000000",
+        "sessionId": "1cab66de-6d36-41b1-8a62-768aefb132a6",
+        "totalCostUsd": "0.006525"
+      }
+    },
+    {
+      "sessionId": "1c774f1c-02aa-4e47-ba7e-6237182b36e0",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.002931",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000123",
+        "proxyUsedMb": "0.628527",
+        "searchCostUsd": "0.000000",
+        "sessionId": "1c774f1c-02aa-4e47-ba7e-6237182b36e0",
+        "totalCostUsd": "0.006054"
+      }
+    },
+    {
+      "sessionId": "213164b7-7bc8-4625-a4a0-4b0f56e6a630",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.003188",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000340",
+        "proxyUsedMb": "1.740170",
+        "searchCostUsd": "0.000000",
+        "sessionId": "213164b7-7bc8-4625-a4a0-4b0f56e6a630",
+        "totalCostUsd": "0.006528"
+      }
+    },
+    {
+      "sessionId": "24582b5a-eb04-4c11-ab75-141b80734f1c",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.003563",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000721",
+        "proxyUsedMb": "3.691013",
+        "searchCostUsd": "0.000000",
+        "sessionId": "24582b5a-eb04-4c11-ab75-141b80734f1c",
+        "totalCostUsd": "0.007284"
+      }
+    },
+    {
+      "sessionId": "26648b38-1f0b-4293-9cd9-39b580c16c99",
+      "cost": {
+        "browserCostUsd": "0.001000",
+        "llmCostUsd": "0.004018",
+        "numRuns": 1,
+        "proxyCostUsd": "0.002275",
+        "proxyUsedMb": "11.650317",
+        "searchCostUsd": "0.000000",
+        "sessionId": "26648b38-1f0b-4293-9cd9-39b580c16c99",
+        "totalCostUsd": "0.007293"
+      }
+    },
+    {
+      "sessionId": "27cb4a53-47a5-4fc8-82d4-f61e1d244c36",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.002715",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000258",
+        "proxyUsedMb": "1.320289",
+        "searchCostUsd": "0.000000",
+        "sessionId": "27cb4a53-47a5-4fc8-82d4-f61e1d244c36",
+        "totalCostUsd": "0.005973"
+      }
+    },
+    {
+      "sessionId": "27c23ea4-da12-4fd9-a271-01a9a7d93ac9",
+      "cost": {
+        "browserCostUsd": "0.002000",
+        "llmCostUsd": "0.001949",
+        "numRuns": 1,
+        "proxyCostUsd": "0.004388",
+        "proxyUsedMb": "22.468801",
+        "searchCostUsd": "0.000000",
+        "sessionId": "27c23ea4-da12-4fd9-a271-01a9a7d93ac9",
+        "totalCostUsd": "0.008337"
+      }
+    },
+    {
+      "sessionId": "2766fbe2-b09c-473a-a211-77aa75a7ea74",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.002871",
+        "numRuns": 1,
+        "proxyCostUsd": "0.001386",
+        "proxyUsedMb": "7.096776",
+        "searchCostUsd": "0.000000",
+        "sessionId": "2766fbe2-b09c-473a-a211-77aa75a7ea74",
+        "totalCostUsd": "0.007257"
+      }
+    },
+    {
+      "sessionId": "2a214522-cbb3-4bd4-8068-a1ae82ade08c",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.003846",
+        "numRuns": 1,
+        "proxyCostUsd": "0.001212",
+        "proxyUsedMb": "6.206780",
+        "searchCostUsd": "0.000000",
+        "sessionId": "2a214522-cbb3-4bd4-8068-a1ae82ade08c",
+        "totalCostUsd": "0.009058"
+      }
+    },
+    {
+      "sessionId": "2dbe6429-4e13-4919-acfb-860ed1a922ca",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.003780",
+        "numRuns": 1,
+        "proxyCostUsd": "0.001860",
+        "proxyUsedMb": "9.523647",
+        "searchCostUsd": "0.000000",
+        "sessionId": "2dbe6429-4e13-4919-acfb-860ed1a922ca",
+        "totalCostUsd": "0.008640"
+      }
+    },
+    {
+      "sessionId": "28bcf5fd-694d-400e-8289-78250ffd8fd5",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.004456",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000472",
+        "proxyUsedMb": "2.414841",
+        "searchCostUsd": "0.000000",
+        "sessionId": "28bcf5fd-694d-400e-8289-78250ffd8fd5",
+        "totalCostUsd": "0.007928"
+      }
+    },
+    {
+      "sessionId": "2a076a6b-5648-4dba-acd2-d12e2d1d1b3d",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.004282",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000825",
+        "proxyUsedMb": "4.225115",
+        "searchCostUsd": "0.000000",
+        "sessionId": "2a076a6b-5648-4dba-acd2-d12e2d1d1b3d",
+        "totalCostUsd": "0.008107"
+      }
+    },
+    {
+      "sessionId": "337f95d7-6278-433d-97c7-237484e68df7",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.005017",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000915",
+        "proxyUsedMb": "4.682489",
+        "searchCostUsd": "0.000000",
+        "sessionId": "337f95d7-6278-433d-97c7-237484e68df7",
+        "totalCostUsd": "0.008932"
+      }
+    },
+    {
+      "sessionId": "2e8e7415-6735-4c34-b910-e0f518b39475",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.005803",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000253",
+        "proxyUsedMb": "1.293803",
+        "searchCostUsd": "0.000000",
+        "sessionId": "2e8e7415-6735-4c34-b910-e0f518b39475",
+        "totalCostUsd": "0.010056"
+      }
+    },
+    {
+      "sessionId": "33382139-f9d6-4faa-9f12-b4e8ac45a5af",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.003190",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000133",
+        "proxyUsedMb": "0.680995",
+        "searchCostUsd": "0.000000",
+        "sessionId": "33382139-f9d6-4faa-9f12-b4e8ac45a5af",
+        "totalCostUsd": "0.006323"
+      }
+    },
+    {
+      "sessionId": "35b4b72e-6e48-420e-8dd1-e8974da16855",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.002032",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000008",
+        "proxyUsedMb": "0.041904",
+        "searchCostUsd": "0.000000",
+        "sessionId": "35b4b72e-6e48-420e-8dd1-e8974da16855",
+        "totalCostUsd": "0.005040"
+      }
+    },
+    {
+      "sessionId": "3ab61ca1-8028-4bda-a239-f8f4d1f6551d",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.002250",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000007",
+        "proxyUsedMb": "0.035286",
+        "searchCostUsd": "0.000000",
+        "sessionId": "3ab61ca1-8028-4bda-a239-f8f4d1f6551d",
+        "totalCostUsd": "0.005257"
+      }
+    },
+    {
+      "sessionId": "3873c9d4-1513-4c24-97b7-65afc7de6c2d",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.003265",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000043",
+        "proxyUsedMb": "0.222077",
+        "searchCostUsd": "0.000000",
+        "sessionId": "3873c9d4-1513-4c24-97b7-65afc7de6c2d",
+        "totalCostUsd": "0.006308"
+      }
+    },
+    {
+      "sessionId": "3c3e6f3a-400a-4f63-a704-d444a981a36a",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.002722",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000129",
+        "proxyUsedMb": "0.659758",
+        "searchCostUsd": "0.000000",
+        "sessionId": "3c3e6f3a-400a-4f63-a704-d444a981a36a",
+        "totalCostUsd": "0.005851"
+      }
+    },
+    {
+      "sessionId": "3ae64bef-d2a6-4e5c-9a1c-2fe14702f449",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.004652",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000202",
+        "proxyUsedMb": "1.033670",
+        "searchCostUsd": "0.000000",
+        "sessionId": "3ae64bef-d2a6-4e5c-9a1c-2fe14702f449",
+        "totalCostUsd": "0.007854"
+      }
+    },
+    {
+      "sessionId": "45b60d8d-c458-446d-a26f-c563c32dc1d5",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.003974",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000009",
+        "proxyUsedMb": "0.046842",
+        "searchCostUsd": "0.000000",
+        "sessionId": "45b60d8d-c458-446d-a26f-c563c32dc1d5",
+        "totalCostUsd": "0.006983"
+      }
+    },
+    {
+      "sessionId": "3c98beb9-e3e9-421e-a649-c638e1355551",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.006574",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000690",
+        "proxyUsedMb": "3.531676",
+        "searchCostUsd": "0.000000",
+        "sessionId": "3c98beb9-e3e9-421e-a649-c638e1355551",
+        "totalCostUsd": "0.011264"
+      }
+    },
+    {
+      "sessionId": "442ca0a6-9a82-4985-8dae-053af617696b",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.004515",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000139",
+        "proxyUsedMb": "0.710396",
+        "searchCostUsd": "0.000000",
+        "sessionId": "442ca0a6-9a82-4985-8dae-053af617696b",
+        "totalCostUsd": "0.008654"
+      }
+    },
+    {
+      "sessionId": "467a1e74-8d56-4560-9506-902f060ac320",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.005235",
+        "numRuns": 1,
+        "proxyCostUsd": "0.001750",
+        "proxyUsedMb": "8.959718",
+        "searchCostUsd": "0.000000",
+        "sessionId": "467a1e74-8d56-4560-9506-902f060ac320",
+        "totalCostUsd": "0.010985"
+      }
+    },
+    {
+      "sessionId": "4b2bb40e-f36d-43b1-9018-3f406ca05483",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.002644",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000518",
+        "proxyUsedMb": "2.654535",
+        "searchCostUsd": "0.000000",
+        "sessionId": "4b2bb40e-f36d-43b1-9018-3f406ca05483",
+        "totalCostUsd": "0.006162"
+      }
+    },
+    {
+      "sessionId": "4907b1d6-d850-4703-a304-f687652797ce",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.004750",
+        "numRuns": 1,
+        "proxyCostUsd": "0.002950",
+        "proxyUsedMb": "15.103928",
+        "searchCostUsd": "0.000000",
+        "sessionId": "4907b1d6-d850-4703-a304-f687652797ce",
+        "totalCostUsd": "0.010700"
+      }
+    },
+    {
+      "sessionId": "4878a061-de15-496c-be8d-0a7eaedbe791",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.002731",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000188",
+        "proxyUsedMb": "0.960594",
+        "searchCostUsd": "0.000000",
+        "sessionId": "4878a061-de15-496c-be8d-0a7eaedbe791",
+        "totalCostUsd": "0.005919"
+      }
+    },
+    {
+      "sessionId": "47e1d15d-bef6-4fa5-99b7-4f57f6c20bea",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.003174",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000029",
+        "proxyUsedMb": "0.146686",
+        "searchCostUsd": "0.000000",
+        "sessionId": "47e1d15d-bef6-4fa5-99b7-4f57f6c20bea",
+        "totalCostUsd": "0.006203"
+      }
+    },
+    {
+      "sessionId": "4eaa6f1f-7160-4d95-9796-74611005b3ca",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.001540",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000002",
+        "proxyUsedMb": "0.008423",
+        "searchCostUsd": "0.000000",
+        "sessionId": "4eaa6f1f-7160-4d95-9796-74611005b3ca",
+        "totalCostUsd": "0.004542"
+      }
+    },
+    {
+      "sessionId": "4f8d5aab-d7e4-4733-a7c5-ce42ad66766f",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.004274",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000536",
+        "proxyUsedMb": "2.742473",
+        "searchCostUsd": "0.000000",
+        "sessionId": "4f8d5aab-d7e4-4733-a7c5-ce42ad66766f",
+        "totalCostUsd": "0.007810"
+      }
+    },
+    {
+      "sessionId": "4e117737-f5fb-4467-97dc-69c083633714",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.005102",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000064",
+        "proxyUsedMb": "0.326859",
+        "searchCostUsd": "0.000000",
+        "sessionId": "4e117737-f5fb-4467-97dc-69c083633714",
+        "totalCostUsd": "0.009166"
+      }
+    },
+    {
+      "sessionId": "4ccdfe8b-f548-447d-9b3c-12a81233ac46",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.002381",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000030",
+        "proxyUsedMb": "0.155265",
+        "searchCostUsd": "0.000000",
+        "sessionId": "4ccdfe8b-f548-447d-9b3c-12a81233ac46",
+        "totalCostUsd": "0.006411"
+      }
+    },
+    {
+      "sessionId": "4fa10746-8fb4-4f94-859f-26f9bef77df4",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.001180",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000007",
+        "proxyUsedMb": "0.036194",
+        "searchCostUsd": "0.000000",
+        "sessionId": "4fa10746-8fb4-4f94-859f-26f9bef77df4",
+        "totalCostUsd": "0.004187"
+      }
+    },
+    {
+      "sessionId": "4ff91aeb-a7c4-4160-ac29-f63df2f2f6cf",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.004168",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000400",
+        "proxyUsedMb": "2.048149",
+        "searchCostUsd": "0.000000",
+        "sessionId": "4ff91aeb-a7c4-4160-ac29-f63df2f2f6cf",
+        "totalCostUsd": "0.007568"
+      }
+    },
+    {
+      "sessionId": "562c5b59-ba06-48e8-b789-820406e82a4e",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.003345",
+        "numRuns": 1,
+        "proxyCostUsd": "0.001426",
+        "proxyUsedMb": "7.301717",
+        "searchCostUsd": "0.000000",
+        "sessionId": "562c5b59-ba06-48e8-b789-820406e82a4e",
+        "totalCostUsd": "0.008771"
+      }
+    },
+    {
+      "sessionId": "53096e30-4766-4606-bc9e-10e739ebab32",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.002894",
+        "numRuns": 1,
+        "proxyCostUsd": "0.009017",
+        "proxyUsedMb": "46.167235",
+        "searchCostUsd": "0.000000",
+        "sessionId": "53096e30-4766-4606-bc9e-10e739ebab32",
+        "totalCostUsd": "0.015911"
+      }
+    },
+    {
+      "sessionId": "58b343b1-dcd9-46a6-89c6-98505297878a",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.003424",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000013",
+        "proxyUsedMb": "0.067434",
+        "searchCostUsd": "0.000000",
+        "sessionId": "58b343b1-dcd9-46a6-89c6-98505297878a",
+        "totalCostUsd": "0.006437"
+      }
+    },
+    {
+      "sessionId": "5c7c8e30-f85a-4877-b228-1365a5339e6c",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.005702",
+        "numRuns": 1,
+        "proxyCostUsd": "0.001535",
+        "proxyUsedMb": "7.859957",
+        "searchCostUsd": "0.000000",
+        "sessionId": "5c7c8e30-f85a-4877-b228-1365a5339e6c",
+        "totalCostUsd": "0.011237"
+      }
+    },
+    {
+      "sessionId": "5bdab836-c4cb-43c6-82f9-d146b42e63ff",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.004486",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000575",
+        "proxyUsedMb": "2.944853",
+        "searchCostUsd": "0.000000",
+        "sessionId": "5bdab836-c4cb-43c6-82f9-d146b42e63ff",
+        "totalCostUsd": "0.008061"
+      }
+    },
+    {
+      "sessionId": "5eea6993-c2fa-44c1-bbda-31f6587de83a",
+      "cost": {
+        "browserCostUsd": "0.002000",
+        "llmCostUsd": "0.003146",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000028",
+        "proxyUsedMb": "0.142056",
+        "searchCostUsd": "0.000000",
+        "sessionId": "5eea6993-c2fa-44c1-bbda-31f6587de83a",
+        "totalCostUsd": "0.005174"
+      }
+    },
+    {
+      "sessionId": "62b98e7b-e55f-440a-bbcd-2c5107261478",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.006016",
+        "numRuns": 1,
+        "proxyCostUsd": "0.001652",
+        "proxyUsedMb": "8.459262",
+        "searchCostUsd": "0.000000",
+        "sessionId": "62b98e7b-e55f-440a-bbcd-2c5107261478",
+        "totalCostUsd": "0.011668"
+      }
+    },
+    {
+      "sessionId": "61ccfbc6-2703-4858-a1b8-821a90269460",
+      "cost": {
+        "browserCostUsd": "0.002000",
+        "llmCostUsd": "0.001942",
+        "numRuns": 1,
+        "proxyCostUsd": "0.004419",
+        "proxyUsedMb": "22.627682",
+        "searchCostUsd": "0.000000",
+        "sessionId": "61ccfbc6-2703-4858-a1b8-821a90269460",
+        "totalCostUsd": "0.008361"
+      }
+    },
+    {
+      "sessionId": "614509fb-197c-4940-baf8-e7bbc5ac3f48",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.002294",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000263",
+        "proxyUsedMb": "1.348179",
+        "searchCostUsd": "0.000000",
+        "sessionId": "614509fb-197c-4940-baf8-e7bbc5ac3f48",
+        "totalCostUsd": "0.006557"
+      }
+    },
+    {
+      "sessionId": "632435a3-2b5b-4078-b5ff-62f241683de7",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.004797",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000266",
+        "proxyUsedMb": "1.360532",
+        "searchCostUsd": "0.000000",
+        "sessionId": "632435a3-2b5b-4078-b5ff-62f241683de7",
+        "totalCostUsd": "0.008063"
+      }
+    },
+    {
+      "sessionId": "68091e28-0640-47d2-85e6-4e19c128392d",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.001913",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000258",
+        "proxyUsedMb": "1.322763",
+        "searchCostUsd": "0.000000",
+        "sessionId": "68091e28-0640-47d2-85e6-4e19c128392d",
+        "totalCostUsd": "0.005171"
+      }
+    },
+    {
+      "sessionId": "683c95aa-2761-40cd-891e-7fe97cc57b57",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.002557",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000280",
+        "proxyUsedMb": "1.435483",
+        "searchCostUsd": "0.000000",
+        "sessionId": "683c95aa-2761-40cd-891e-7fe97cc57b57",
+        "totalCostUsd": "0.006837"
+      }
+    },
+    {
+      "sessionId": "687e6fea-bd17-48fa-8309-06da5a07d521",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.002646",
+        "numRuns": 1,
+        "proxyCostUsd": "0.005048",
+        "proxyUsedMb": "25.843674",
+        "searchCostUsd": "0.000000",
+        "sessionId": "687e6fea-bd17-48fa-8309-06da5a07d521",
+        "totalCostUsd": "0.010694"
+      }
+    },
+    {
+      "sessionId": "66c2b9fe-f5e0-41eb-8938-629e4d9f6bb6",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.004351",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000341",
+        "proxyUsedMb": "1.744519",
+        "searchCostUsd": "0.000000",
+        "sessionId": "66c2b9fe-f5e0-41eb-8938-629e4d9f6bb6",
+        "totalCostUsd": "0.007692"
+      }
+    },
+    {
+      "sessionId": "6ae1e058-6f5f-427a-b625-4a2284036cba",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.004690",
+        "numRuns": 1,
+        "proxyCostUsd": "0.001011",
+        "proxyUsedMb": "5.174407",
+        "searchCostUsd": "0.000000",
+        "sessionId": "6ae1e058-6f5f-427a-b625-4a2284036cba",
+        "totalCostUsd": "0.009701"
+      }
+    },
+    {
+      "sessionId": "6e8ee080-202e-4a74-848d-11d646889b60",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.003294",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000667",
+        "proxyUsedMb": "3.412684",
+        "searchCostUsd": "0.000000",
+        "sessionId": "6e8ee080-202e-4a74-848d-11d646889b60",
+        "totalCostUsd": "0.006961"
+      }
+    },
+    {
+      "sessionId": "6a8078fe-1f9c-4122-b2dd-939542eafecf",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.005503",
+        "numRuns": 1,
+        "proxyCostUsd": "0.001814",
+        "proxyUsedMb": "9.288874",
+        "searchCostUsd": "0.000000",
+        "sessionId": "6a8078fe-1f9c-4122-b2dd-939542eafecf",
+        "totalCostUsd": "0.010317"
+      }
+    },
+    {
+      "sessionId": "6e0faa61-effa-406e-9b4f-95f6a6054bd5",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.002441",
+        "numRuns": 1,
+        "proxyCostUsd": "0.001075",
+        "proxyUsedMb": "5.502018",
+        "searchCostUsd": "0.000000",
+        "sessionId": "6e0faa61-effa-406e-9b4f-95f6a6054bd5",
+        "totalCostUsd": "0.007516"
+      }
+    },
+    {
+      "sessionId": "70636508-a5ca-4f4e-abb3-519fdbaed7c7",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.002884",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000182",
+        "proxyUsedMb": "0.931266",
+        "searchCostUsd": "0.000000",
+        "sessionId": "70636508-a5ca-4f4e-abb3-519fdbaed7c7",
+        "totalCostUsd": "0.006066"
+      }
+    },
+    {
+      "sessionId": "70feda19-53e2-4ad7-a014-d6348628a68c",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.002405",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000335",
+        "proxyUsedMb": "1.716779",
+        "searchCostUsd": "0.000000",
+        "sessionId": "70feda19-53e2-4ad7-a014-d6348628a68c",
+        "totalCostUsd": "0.006740"
+      }
+    },
+    {
+      "sessionId": "70196c25-7cf6-4905-9438-296e36372cad",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.004649",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000223",
+        "proxyUsedMb": "1.139433",
+        "searchCostUsd": "0.000000",
+        "sessionId": "70196c25-7cf6-4905-9438-296e36372cad",
+        "totalCostUsd": "0.007872"
+      }
+    },
+    {
+      "sessionId": "74cfa1f2-a12a-4a38-9922-068b5c77bdb4",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.004562",
+        "numRuns": 1,
+        "proxyCostUsd": "0.001296",
+        "proxyUsedMb": "6.635639",
+        "searchCostUsd": "0.000000",
+        "sessionId": "74cfa1f2-a12a-4a38-9922-068b5c77bdb4",
+        "totalCostUsd": "0.009858"
+      }
+    },
+    {
+      "sessionId": "79550c44-c31a-4e83-9637-b07170fd4c8c",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.002617",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000305",
+        "proxyUsedMb": "1.562566",
+        "searchCostUsd": "0.000000",
+        "sessionId": "79550c44-c31a-4e83-9637-b07170fd4c8c",
+        "totalCostUsd": "0.006922"
+      }
+    },
+    {
+      "sessionId": "75f422e9-38ec-482c-b0fa-412bd9496017",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.003439",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000019",
+        "proxyUsedMb": "0.098436",
+        "searchCostUsd": "0.000000",
+        "sessionId": "75f422e9-38ec-482c-b0fa-412bd9496017",
+        "totalCostUsd": "0.007458"
+      }
+    },
+    {
+      "sessionId": "75af3bf1-c264-424b-b2be-48b2609dacb4",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.003720",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000621",
+        "proxyUsedMb": "3.181455",
+        "searchCostUsd": "0.000000",
+        "sessionId": "75af3bf1-c264-424b-b2be-48b2609dacb4",
+        "totalCostUsd": "0.008341"
+      }
+    },
+    {
+      "sessionId": "7efc6107-6b50-4ca6-878d-4dd3e483b02a",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.003977",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000025",
+        "proxyUsedMb": "0.129206",
+        "searchCostUsd": "0.000000",
+        "sessionId": "7efc6107-6b50-4ca6-878d-4dd3e483b02a",
+        "totalCostUsd": "0.008002"
+      }
+    },
+    {
+      "sessionId": "84a758ef-8e3e-4f69-a5ba-beede1bbdbf5",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.001494",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000002",
+        "proxyUsedMb": "0.012748",
+        "searchCostUsd": "0.000000",
+        "sessionId": "84a758ef-8e3e-4f69-a5ba-beede1bbdbf5",
+        "totalCostUsd": "0.004496"
+      }
+    },
+    {
+      "sessionId": "88ba23a4-d013-45d2-83ce-9b03b3caf25b",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.003757",
+        "numRuns": 1,
+        "proxyCostUsd": "0.002090",
+        "proxyUsedMb": "10.701571",
+        "searchCostUsd": "0.000000",
+        "sessionId": "88ba23a4-d013-45d2-83ce-9b03b3caf25b",
+        "totalCostUsd": "0.008847"
+      }
+    },
+    {
+      "sessionId": "7fbf902b-4fc0-4bbe-a64d-c25ef356e7a0",
+      "cost": {
+        "browserCostUsd": "0.001000",
+        "llmCostUsd": "0.003583",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000233",
+        "proxyUsedMb": "1.193540",
+        "searchCostUsd": "0.000000",
+        "sessionId": "7fbf902b-4fc0-4bbe-a64d-c25ef356e7a0",
+        "totalCostUsd": "0.004816"
+      }
+    },
+    {
+      "sessionId": "88bc117a-c873-4d9b-837a-3a875904f78d",
+      "cost": {
+        "browserCostUsd": "0.001000",
+        "llmCostUsd": "0.003625",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000463",
+        "proxyUsedMb": "2.370079",
+        "searchCostUsd": "0.000000",
+        "sessionId": "88bc117a-c873-4d9b-837a-3a875904f78d",
+        "totalCostUsd": "0.005088"
+      }
+    },
+    {
+      "sessionId": "89f1d218-0836-442c-b731-4685982043fd",
+      "cost": {
+        "browserCostUsd": "0.002000",
+        "llmCostUsd": "0.002206",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000619",
+        "proxyUsedMb": "3.170485",
+        "searchCostUsd": "0.000000",
+        "sessionId": "89f1d218-0836-442c-b731-4685982043fd",
+        "totalCostUsd": "0.004825"
+      }
+    },
+    {
+      "sessionId": "8e20e56b-61c6-45c8-b613-63c39f1d173c",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.001917",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000086",
+        "proxyUsedMb": "0.437993",
+        "searchCostUsd": "0.000000",
+        "sessionId": "8e20e56b-61c6-45c8-b613-63c39f1d173c",
+        "totalCostUsd": "0.005003"
+      }
+    },
+    {
+      "sessionId": "8e85b0af-3878-42d8-8b66-ddcf8ca62b58",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.003114",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000529",
+        "proxyUsedMb": "2.707557",
+        "searchCostUsd": "0.000000",
+        "sessionId": "8e85b0af-3878-42d8-8b66-ddcf8ca62b58",
+        "totalCostUsd": "0.007643"
+      }
+    },
+    {
+      "sessionId": "8fb0aa81-f2cc-444e-99db-c99868b2e711",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.003654",
+        "numRuns": 1,
+        "proxyCostUsd": "0.001067",
+        "proxyUsedMb": "5.464794",
+        "searchCostUsd": "0.000000",
+        "sessionId": "8fb0aa81-f2cc-444e-99db-c99868b2e711",
+        "totalCostUsd": "0.008721"
+      }
+    },
+    {
+      "sessionId": "9340d7d8-f7ec-4a33-8098-8ddfe0b46a4f",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.003352",
+        "numRuns": 1,
+        "proxyCostUsd": "0.001023",
+        "proxyUsedMb": "5.236506",
+        "searchCostUsd": "0.000000",
+        "sessionId": "9340d7d8-f7ec-4a33-8098-8ddfe0b46a4f",
+        "totalCostUsd": "0.008375"
+      }
+    },
+    {
+      "sessionId": "92d77728-6d9c-4324-8b3b-27594d4fc9b9",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.002787",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000138",
+        "proxyUsedMb": "0.707325",
+        "searchCostUsd": "0.000000",
+        "sessionId": "92d77728-6d9c-4324-8b3b-27594d4fc9b9",
+        "totalCostUsd": "0.006925"
+      }
+    },
+    {
+      "sessionId": "99b68a26-3b7d-4482-bf0c-e15840a7477a",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.005553",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000383",
+        "proxyUsedMb": "1.959701",
+        "searchCostUsd": "0.000000",
+        "sessionId": "99b68a26-3b7d-4482-bf0c-e15840a7477a",
+        "totalCostUsd": "0.008936"
+      }
+    },
+    {
+      "sessionId": "9b87331b-1b9f-4ad5-9df8-172a320fa9ee",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.004571",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000302",
+        "proxyUsedMb": "1.548440",
+        "searchCostUsd": "0.000000",
+        "sessionId": "9b87331b-1b9f-4ad5-9df8-172a320fa9ee",
+        "totalCostUsd": "0.007873"
+      }
+    },
+    {
+      "sessionId": "a14b70a6-889c-4e45-bda0-ade1300a4b99",
+      "cost": {
+        "browserCostUsd": "0.002000",
+        "llmCostUsd": "0.003907",
+        "numRuns": 1,
+        "proxyCostUsd": "0.004948",
+        "proxyUsedMb": "25.335719",
+        "searchCostUsd": "0.000000",
+        "sessionId": "a14b70a6-889c-4e45-bda0-ade1300a4b99",
+        "totalCostUsd": "0.010855"
+      }
+    },
+    {
+      "sessionId": "a0ad9aca-d5e8-44b6-a072-f1131adaac0b",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.003193",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000806",
+        "proxyUsedMb": "4.129163",
+        "searchCostUsd": "0.000000",
+        "sessionId": "a0ad9aca-d5e8-44b6-a072-f1131adaac0b",
+        "totalCostUsd": "0.006999"
+      }
+    },
+    {
+      "sessionId": "a240a957-0a99-4cdf-8cca-8ea13ccc9e12",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.004253",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000756",
+        "proxyUsedMb": "3.869307",
+        "searchCostUsd": "0.000000",
+        "sessionId": "a240a957-0a99-4cdf-8cca-8ea13ccc9e12",
+        "totalCostUsd": "0.008009"
+      }
+    },
+    {
+      "sessionId": "a38dbad2-3963-427e-8e0d-ec0e98993a37",
+      "cost": {
+        "browserCostUsd": "0.001000",
+        "llmCostUsd": "0.002548",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000964",
+        "proxyUsedMb": "4.933517",
+        "searchCostUsd": "0.000000",
+        "sessionId": "a38dbad2-3963-427e-8e0d-ec0e98993a37",
+        "totalCostUsd": "0.004512"
+      }
+    },
+    {
+      "sessionId": "a5512ea3-9654-4f5b-8ef4-f5f3c73234fc",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.001604",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000002",
+        "proxyUsedMb": "0.008362",
+        "searchCostUsd": "0.000000",
+        "sessionId": "a5512ea3-9654-4f5b-8ef4-f5f3c73234fc",
+        "totalCostUsd": "0.005606"
+      }
+    },
+    {
+      "sessionId": "a5dfa3b4-d49e-4260-8b38-70098bb12042",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.003413",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000353",
+        "proxyUsedMb": "1.807577",
+        "searchCostUsd": "0.000000",
+        "sessionId": "a5dfa3b4-d49e-4260-8b38-70098bb12042",
+        "totalCostUsd": "0.007766"
+      }
+    },
+    {
+      "sessionId": "a7f74ec3-d88e-4394-89c7-97a99daafa9a",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.008345",
+        "numRuns": 1,
+        "proxyCostUsd": "0.001040",
+        "proxyUsedMb": "5.327082",
+        "searchCostUsd": "0.000000",
+        "sessionId": "a7f74ec3-d88e-4394-89c7-97a99daafa9a",
+        "totalCostUsd": "0.012385"
+      }
+    },
+    {
+      "sessionId": "a7574761-1e5f-42fd-b697-ead93f2f832e",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.001886",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000394",
+        "proxyUsedMb": "2.015737",
+        "searchCostUsd": "0.000000",
+        "sessionId": "a7574761-1e5f-42fd-b697-ead93f2f832e",
+        "totalCostUsd": "0.006280"
+      }
+    },
+    {
+      "sessionId": "ace0809a-9709-4bc3-b2fd-0f8f76c6f018",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.005147",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000221",
+        "proxyUsedMb": "1.132000",
+        "searchCostUsd": "0.000000",
+        "sessionId": "ace0809a-9709-4bc3-b2fd-0f8f76c6f018",
+        "totalCostUsd": "0.008368"
+      }
+    },
+    {
+      "sessionId": "af77826d-390d-4414-a0de-27902ef6f146",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.005557",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000268",
+        "proxyUsedMb": "1.370950",
+        "searchCostUsd": "0.000000",
+        "sessionId": "af77826d-390d-4414-a0de-27902ef6f146",
+        "totalCostUsd": "0.008825"
+      }
+    },
+    {
+      "sessionId": "b6fd03d9-57ba-446a-9dbc-c6214064efcb",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.002794",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000161",
+        "proxyUsedMb": "0.822573",
+        "searchCostUsd": "0.000000",
+        "sessionId": "b6fd03d9-57ba-446a-9dbc-c6214064efcb",
+        "totalCostUsd": "0.005955"
+      }
+    },
+    {
+      "sessionId": "b532af05-e7e8-46ee-ad88-db19d103bf6a",
+      "cost": {
+        "browserCostUsd": "0.002000",
+        "llmCostUsd": "0.002718",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000156",
+        "proxyUsedMb": "0.799160",
+        "searchCostUsd": "0.000000",
+        "sessionId": "b532af05-e7e8-46ee-ad88-db19d103bf6a",
+        "totalCostUsd": "0.004874"
+      }
+    },
+    {
+      "sessionId": "b89648ce-7220-4d52-ace9-7610cec18137",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.005837",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000137",
+        "proxyUsedMb": "0.700674",
+        "searchCostUsd": "0.000000",
+        "sessionId": "b89648ce-7220-4d52-ace9-7610cec18137",
+        "totalCostUsd": "0.009974"
+      }
+    },
+    {
+      "sessionId": "b95b8ebf-daf1-4b63-96e1-abb7bfde654c",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.002027",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000042",
+        "proxyUsedMb": "0.215261",
+        "searchCostUsd": "0.000000",
+        "sessionId": "b95b8ebf-daf1-4b63-96e1-abb7bfde654c",
+        "totalCostUsd": "0.005069"
+      }
+    },
+    {
+      "sessionId": "ba5b07b9-95ea-45cb-80ea-9371289fe33e",
+      "cost": {
+        "browserCostUsd": "0.002000",
+        "llmCostUsd": "0.002914",
+        "numRuns": 1,
+        "proxyCostUsd": "0.001712",
+        "proxyUsedMb": "8.766700",
+        "searchCostUsd": "0.000000",
+        "sessionId": "ba5b07b9-95ea-45cb-80ea-9371289fe33e",
+        "totalCostUsd": "0.006626"
+      }
+    },
+    {
+      "sessionId": "b9d8b9b6-e815-438d-83c0-f2e88f4a3f22",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.006339",
+        "numRuns": 1,
+        "proxyCostUsd": "0.005078",
+        "proxyUsedMb": "25.999835",
+        "searchCostUsd": "0.000000",
+        "sessionId": "b9d8b9b6-e815-438d-83c0-f2e88f4a3f22",
+        "totalCostUsd": "0.014417"
+      }
+    },
+    {
+      "sessionId": "c7d48dc0-af02-4bcc-a815-e4120a82dbd6",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.004381",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000037",
+        "proxyUsedMb": "0.191017",
+        "searchCostUsd": "0.000000",
+        "sessionId": "c7d48dc0-af02-4bcc-a815-e4120a82dbd6",
+        "totalCostUsd": "0.007418"
+      }
+    },
+    {
+      "sessionId": "bdacae26-4ac3-448a-ac2b-d963fa755fb5",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.005093",
+        "numRuns": 1,
+        "proxyCostUsd": "0.001056",
+        "proxyUsedMb": "5.407615",
+        "searchCostUsd": "0.000000",
+        "sessionId": "bdacae26-4ac3-448a-ac2b-d963fa755fb5",
+        "totalCostUsd": "0.009149"
+      }
+    },
+    {
+      "sessionId": "c1faa303-b0ef-46b4-80a8-277635bd222c",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.005004",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000535",
+        "proxyUsedMb": "2.740955",
+        "searchCostUsd": "0.000000",
+        "sessionId": "c1faa303-b0ef-46b4-80a8-277635bd222c",
+        "totalCostUsd": "0.009539"
+      }
+    },
+    {
+      "sessionId": "bce41e70-f8fb-4917-b6e4-8d7a2199afdc",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.003446",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000036",
+        "proxyUsedMb": "0.183969",
+        "searchCostUsd": "0.000000",
+        "sessionId": "bce41e70-f8fb-4917-b6e4-8d7a2199afdc",
+        "totalCostUsd": "0.006482"
+      }
+    },
+    {
+      "sessionId": "cd85fec1-4777-43e4-9933-2378d4d8bd97",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.003620",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000064",
+        "proxyUsedMb": "0.326436",
+        "searchCostUsd": "0.000000",
+        "sessionId": "cd85fec1-4777-43e4-9933-2378d4d8bd97",
+        "totalCostUsd": "0.006684"
+      }
+    },
+    {
+      "sessionId": "ce0cf97f-5fa0-44c4-9f21-11304daf439c",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.005666",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000714",
+        "proxyUsedMb": "3.653256",
+        "searchCostUsd": "0.000000",
+        "sessionId": "ce0cf97f-5fa0-44c4-9f21-11304daf439c",
+        "totalCostUsd": "0.010380"
+      }
+    },
+    {
+      "sessionId": "cd397c14-35a0-4903-a2b2-aa01fd72ea02",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.008331",
+        "numRuns": 1,
+        "proxyCostUsd": "0.018983",
+        "proxyUsedMb": "97.194943",
+        "searchCostUsd": "0.000000",
+        "sessionId": "cd397c14-35a0-4903-a2b2-aa01fd72ea02",
+        "totalCostUsd": "0.031314"
+      }
+    },
+    {
+      "sessionId": "cf68b991-4137-41ca-8c16-110a6da91033",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.003186",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000953",
+        "proxyUsedMb": "4.879817",
+        "searchCostUsd": "0.000000",
+        "sessionId": "cf68b991-4137-41ca-8c16-110a6da91033",
+        "totalCostUsd": "0.007139"
+      }
+    },
+    {
+      "sessionId": "d4caceb1-61b2-45d2-843f-1b93a4a17da4",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.001303",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000002",
+        "proxyUsedMb": "0.008361",
+        "searchCostUsd": "0.000000",
+        "sessionId": "d4caceb1-61b2-45d2-843f-1b93a4a17da4",
+        "totalCostUsd": "0.004305"
+      }
+    },
+    {
+      "sessionId": "db675a4d-69e2-40cd-9677-d8ff501b820f",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.002840",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000261",
+        "proxyUsedMb": "1.338264",
+        "searchCostUsd": "0.000000",
+        "sessionId": "db675a4d-69e2-40cd-9677-d8ff501b820f",
+        "totalCostUsd": "0.006101"
+      }
+    },
+    {
+      "sessionId": "e181d9c3-c05a-49b4-acf9-42e087439d17",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.002178",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000040",
+        "proxyUsedMb": "0.204179",
+        "searchCostUsd": "0.000000",
+        "sessionId": "e181d9c3-c05a-49b4-acf9-42e087439d17",
+        "totalCostUsd": "0.005218"
+      }
+    },
+    {
+      "sessionId": "e1b8864e-bf9f-4141-a69c-e084676b8d4d",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.002499",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000174",
+        "proxyUsedMb": "0.892549",
+        "searchCostUsd": "0.000000",
+        "sessionId": "e1b8864e-bf9f-4141-a69c-e084676b8d4d",
+        "totalCostUsd": "0.005673"
+      }
+    },
+    {
+      "sessionId": "e714d157-07a4-437b-b2f4-fd8eeb96d5c0",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.003505",
+        "numRuns": 1,
+        "proxyCostUsd": "0.001995",
+        "proxyUsedMb": "10.212602",
+        "searchCostUsd": "0.000000",
+        "sessionId": "e714d157-07a4-437b-b2f4-fd8eeb96d5c0",
+        "totalCostUsd": "0.009500"
+      }
+    },
+    {
+      "sessionId": "e213b304-0334-4e97-bf8d-f9ce799dd166",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.003404",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000137",
+        "proxyUsedMb": "0.701342",
+        "searchCostUsd": "0.000000",
+        "sessionId": "e213b304-0334-4e97-bf8d-f9ce799dd166",
+        "totalCostUsd": "0.006541"
+      }
+    },
+    {
+      "sessionId": "e3524906-43da-4dca-85ff-17483be23055",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.003127",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000015",
+        "proxyUsedMb": "0.079345",
+        "searchCostUsd": "0.000000",
+        "sessionId": "e3524906-43da-4dca-85ff-17483be23055",
+        "totalCostUsd": "0.006142"
+      }
+    },
+    {
+      "sessionId": "e533855a-364c-472c-8153-0e4adbaeca8a",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.005586",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000089",
+        "proxyUsedMb": "0.457625",
+        "searchCostUsd": "0.000000",
+        "sessionId": "e533855a-364c-472c-8153-0e4adbaeca8a",
+        "totalCostUsd": "0.008675"
+      }
+    },
+    {
+      "sessionId": "e77a051b-16d6-487e-89dc-06ecc5bdf1b6",
+      "cost": {
+        "browserCostUsd": "0.002000",
+        "llmCostUsd": "0.002517",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000561",
+        "proxyUsedMb": "2.872215",
+        "searchCostUsd": "0.000000",
+        "sessionId": "e77a051b-16d6-487e-89dc-06ecc5bdf1b6",
+        "totalCostUsd": "0.005078"
+      }
+    },
+    {
+      "sessionId": "ed0f4f63-e945-4527-a817-b84dd7daf7b1",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.003390",
+        "numRuns": 1,
+        "proxyCostUsd": "0.001363",
+        "proxyUsedMb": "6.976993",
+        "searchCostUsd": "0.000000",
+        "sessionId": "ed0f4f63-e945-4527-a817-b84dd7daf7b1",
+        "totalCostUsd": "0.007753"
+      }
+    },
+    {
+      "sessionId": "ed17e45f-3bb3-4aa0-a47a-440c1aba9683",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.003949",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000741",
+        "proxyUsedMb": "3.796321",
+        "searchCostUsd": "0.000000",
+        "sessionId": "ed17e45f-3bb3-4aa0-a47a-440c1aba9683",
+        "totalCostUsd": "0.008690"
+      }
+    },
+    {
+      "sessionId": "ed41398d-e584-4efb-a7b0-ab9c3a2446bc",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.003181",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000440",
+        "proxyUsedMb": "2.253332",
+        "searchCostUsd": "0.000000",
+        "sessionId": "ed41398d-e584-4efb-a7b0-ab9c3a2446bc",
+        "totalCostUsd": "0.006621"
+      }
+    },
+    {
+      "sessionId": "edf098ba-24c7-43f2-bed6-18fca162726a",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.004261",
+        "numRuns": 1,
+        "proxyCostUsd": "0.001273",
+        "proxyUsedMb": "6.516613",
+        "searchCostUsd": "0.000000",
+        "sessionId": "edf098ba-24c7-43f2-bed6-18fca162726a",
+        "totalCostUsd": "0.009534"
+      }
+    },
+    {
+      "sessionId": "f5cd0e72-accb-41cb-86a2-45393ff9eade",
+      "cost": {
+        "browserCostUsd": "0.003000",
+        "llmCostUsd": "0.001276",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000004",
+        "proxyUsedMb": "0.018807",
+        "searchCostUsd": "0.000000",
+        "sessionId": "f5cd0e72-accb-41cb-86a2-45393ff9eade",
+        "totalCostUsd": "0.004280"
+      }
+    },
+    {
+      "sessionId": "fb00ddb8-0166-4e9e-bb35-d1288d80a263",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.002942",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000591",
+        "proxyUsedMb": "3.024708",
+        "searchCostUsd": "0.000000",
+        "sessionId": "fb00ddb8-0166-4e9e-bb35-d1288d80a263",
+        "totalCostUsd": "0.007533"
+      }
+    },
+    {
+      "sessionId": "f7ebe270-c264-4c62-8c97-67139adae716",
+      "cost": {
+        "browserCostUsd": "0.004000",
+        "llmCostUsd": "0.001970",
+        "numRuns": 1,
+        "proxyCostUsd": "0.000010",
+        "proxyUsedMb": "0.053338",
+        "searchCostUsd": "0.000000",
+        "sessionId": "f7ebe270-c264-4c62-8c97-67139adae716",
+        "totalCostUsd": "0.005980"
+      }
+    }
+  ]
+}

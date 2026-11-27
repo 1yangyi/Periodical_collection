@@ -1,0 +1,94 @@
+{
+  "journal": {
+    "name": "海洋湖沼通报(中英文)",
+    "url": "https://journal32.magtechjournal.com/hyhztb/CN/home",
+    "journal_id": "",
+    "row": 428,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://journal32.magtechjournal.com/hyhztb/CN/home",
+  "collected_at": "2026-11-26T21:01:24+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "journal32.magtechjournal.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://journal32.magtechjournal.com/hyhztb/CN/home",
+      "requested_url": "https://journal32.magtechjournal.com/hyhztb/CN/home",
+      "title": "海洋湖沼通报",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:01:24+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://journal32.magtechjournal.com/hyhztb/CN/column/column8.shtml",
+      "requested_url": "https://journal32.magtechjournal.com/hyhztb/CN/column/column8.shtml",
+      "title": "投稿须知",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T21:01:24+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿须知",
+      "source_url": "https://journal32.magtechjournal.com/hyhztb/CN/column/column8.shtml",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "local_path": "web/投稿须知_bfb51affc7.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "海洋湖沼通报(中英文)投稿格式",
+      "local_path": "海洋湖沼通报(中英文)投稿格式.md",
+      "source_urls": [
+        "https://journal32.magtechjournal.com/hyhztb/CN/column/column8.shtml"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://journal32.magtechjournal.com/hyhztb/CN/home",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://journal32.magtechjournal.com/hyhztb/CN/home",
+      "title": "海洋湖沼通报(中英文)",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

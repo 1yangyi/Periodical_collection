@@ -1,0 +1,64 @@
+{
+  "journal": {
+    "name": "中国现代神经疾病杂志",
+    "url": "https://zgxdsjjbzz.yiigle.com/about.jhtml",
+    "journal_id": "",
+    "row": 70,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://zgxdsjjbzz.yiigle.com/about.jhtml",
+  "collected_at": "2026-11-26T20:47:46+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "zgxdsjjbzz.yiigle.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://zgxdsjjbzz.yiigle.com/about.jhtml",
+      "requested_url": "https://zgxdsjjbzz.yiigle.com/about.jhtml",
+      "title": "关于我们 - 中国现代神经疾病杂志",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:47:46+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://zgxdsjjbzz.yiigle.com/author/1012159.jhtml",
+      "title": "中国现代神经疾病杂志稿约（投稿撰稿要求）",
+      "source_url": "https://zgxdsjjbzz.yiigle.com/about.jhtml",
+      "path": [
+        "关于我们",
+        "中国现代神经疾病杂志稿约"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "跳转到未核实域名：https://casmp.yiigle.com/login?service=https%3A%2F%2Fzgxdsjjbzz.yiigle.com%3A%2Fauthor%2F1012159.jhtml&gateway=true&loginUrl=%2F",
+      "context": ""
+    },
+    {
+      "url": "https://zgxdsjjbzz.yiigle.com/about.jhtml",
+      "title": "中国现代神经疾病杂志",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "index": 48,
+  "journal": "中华危重病急救医学",
+  "url": "https://zhwzbjjyx.yiigle.com/about.jhtml",
+  "source_sheet": "可打开",
+  "source_row": 49,
+  "started_at": "2026-11-26T20:44:57+08:00",
+  "finished_at": "2026-11-26T20:46:10+08:00",
+  "status": "completed",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0048_中华危重病急救医学/manifest.json",
+  "pages": 1,
+  "attachments": [
+    {
+      "title": "中华医学会系列杂志论文投稿介绍信",
+      "format": "docx",
+      "local_path": "0048_中华危重病急救医学/attachments/11094400ao0u_86df12ee60.docx",
+      "sha256": "86df12ee60b2641b0f4c78e370fbad4eb21494b1ffc83a6dea0c88003c0e98b7",
+      "bytes": 21729
+    }
+  ],
+  "original_count": 1,
+  "webpage_text": 0,
+  "pending_count": 2,
+  "pending_reasons": [
+    "page_fetch_failed"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "index": 43,
+  "journal": "中国畜牧杂志",
+  "url": "https://www.zgxmzz.cn/",
+  "source_sheet": "可打开",
+  "source_row": 44,
+  "started_at": "2026-11-26T20:44:16+08:00",
+  "finished_at": "2026-11-26T20:45:34+08:00",
+  "status": "completed",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 1,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0043_中国畜牧杂志/manifest.json",
+  "pages": 3,
+  "attachments": [
+    {
+      "title": "《中国畜牧杂志》论文模板.doc",
+      "format": "doc",
+      "local_path": "0043_中国畜牧杂志/attachments/fe0800db-3d4b-4f7e-8965-8d2d7fe2b4a2_7445d50cb0.doc",
+      "sha256": "7445d50cb09f21f5abf5ae556df04eaaa8dc428444c490049031cb16c40b2ea1",
+      "bytes": 95744
+    }
+  ],
+  "original_count": 1,
+  "webpage_text": 1,
+  "pending_count": 5,
+  "pending_reasons": [
+    "needs_review"
+  ]
+}

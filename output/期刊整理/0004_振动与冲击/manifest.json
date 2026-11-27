@@ -1,0 +1,115 @@
+{
+  "journal": {
+    "name": "振动与冲击",
+    "url": "https://me.sjtu.edu.cn/qkml/77643.html",
+    "journal_id": "",
+    "row": 5,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://me.sjtu.edu.cn/qkml/77643.html",
+  "collected_at": "2026-11-26T20:39:07+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "me.sjtu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://me.sjtu.edu.cn/qkml/77643.html",
+      "requested_url": "https://me.sjtu.edu.cn/qkml/77643.html",
+      "title": "期刊目录",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:39:07+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://me.sjtu.edu.cn/tzgg.html",
+      "requested_url": "https://me.sjtu.edu.cn/tzgg.html",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:39:07+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://me.sjtu.edu.cn/tzgg/p2.html",
+      "requested_url": "https://me.sjtu.edu.cn/tzgg/p2.html",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "下页"
+      ],
+      "visited_at": "2026-11-26T20:39:07+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://me.sjtu.edu.cn/tzgg/p3.html",
+      "requested_url": "https://me.sjtu.edu.cn/tzgg/p3.html",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "下页",
+        "下页"
+      ],
+      "visited_at": "2026-11-26T20:39:07+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://me.sjtu.edu.cn/rs_xzzq.html",
+      "title": "下载专区",
+      "source_url": "https://me.sjtu.edu.cn/qkml/77643.html",
+      "path": [
+        "官网入口",
+        "下载专区"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "跳转到未核实域名：https://jaccount.sjtu.edu.cn/oauth2/authorize?response_type=code&scope=essential&client_id=ky6Fd8ZFm68MDgTE9cuc&redirect_uri=https://me.sjtu.edu.cn/user/jaccount_login_callback/rs_xzzq/0.html",
+      "context": "下载专区"
+    },
+    {
+      "url": "https://me.sjtu.edu.cn/tzgg/p4.html",
+      "title": "下页",
+      "source_url": "https://me.sjtu.edu.cn/tzgg/p3.html",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "下页",
+        "下页",
+        "下页"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "下页"
+    },
+    {
+      "url": "https://me.sjtu.edu.cn/qkml/77643.html",
+      "title": "振动与冲击",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "index": 357,
+  "journal": "图书馆论坛",
+  "url": "http://tsglt.zslib.com.cn/",
+  "source_sheet": "可打开",
+  "source_row": 358,
+  "started_at": "2026-11-26T21:00:08+08:00",
+  "finished_at": "2026-11-26T21:00:17+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST network-policies 返回 HTTP 422"
+  ],
+  "manifest": "0357_图书馆论坛/manifest.json",
+  "pages": 1,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 2,
+  "pending_reasons": [
+    "browser_use_failed",
+    "no_valid_word_or_pdf"
+  ]
+}

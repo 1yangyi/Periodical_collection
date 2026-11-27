@@ -1,0 +1,57 @@
+{
+  "index": 37,
+  "journal": "中国地质灾害与防治学报",
+  "url": "https://www.zgdzzhyfzxb.com/",
+  "source_sheet": "可打开",
+  "source_row": 38,
+  "started_at": "2026-11-26T20:43:02+08:00",
+  "finished_at": "2026-11-26T20:45:19+08:00",
+  "status": "completed",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 2,
+    "artifacts": 0,
+    "pending": 2,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0037_中国地质灾害与防治学报/manifest.json",
+  "pages": 3,
+  "attachments": [
+    {
+      "title": "《中国地质灾害与防治学报》图件要求",
+      "format": "pdf",
+      "local_path": "0037_中国地质灾害与防治学报/attachments/eb31d9f7-9c84-40a6-b0b7-3466f48688a7_0e06ea9487.pdf",
+      "sha256": "0e06ea9487832d25aca87baa9b30a9650943f5f7c432e3378b23a63708aba1eb",
+      "bytes": 244797
+    },
+    {
+      "title": "《中国地质灾害与防治学报》版式要求（2027版）",
+      "format": "pdf",
+      "local_path": "0037_中国地质灾害与防治学报/attachments/a75677b8-bdba-4865-8c2b-53e23da8968f_6d5b15ab22.pdf",
+      "sha256": "6d5b15ab22f084baa2455ad375e2ebf4286efbd74f7dc8e1b6aabb206c2a08b9",
+      "bytes": 305403
+    },
+    {
+      "title": "《中国地质灾害与防治学报》保密及著作权转让声明",
+      "format": "pdf",
+      "local_path": "0037_中国地质灾害与防治学报/attachments/bf24841d-9a78-4191-aab7-fb7457b55128_d5d26eba86.pdf",
+      "sha256": "d5d26eba86d4e160c688c437660d3345add3d1a6d1b900c384dc64a2d6283dce",
+      "bytes": 141973
+    },
+    {
+      "title": "信息与文献 参考文献著录规则 GB/T 7714—2025",
+      "format": "pdf",
+      "local_path": "0037_中国地质灾害与防治学报/attachments/6fbede83-b849-4d6b-8dd3-7e8965c196c3_5c2399001f.pdf",
+      "sha256": "5c2399001f556fa318154b8757dd5a246c78116444e99e1dbc3332be6a6f0c04",
+      "bytes": 1274532
+    }
+  ],
+  "original_count": 4,
+  "webpage_text": 0,
+  "pending_count": 4,
+  "pending_reasons": [
+    "invalid_or_failed_attachment",
+    "needs_review"
+  ]
+}

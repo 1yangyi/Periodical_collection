@@ -1,0 +1,180 @@
+{
+  "journal": {
+    "name": "物理化学学报",
+    "url": "https://www.chemsoc.org.cn/a821.html",
+    "journal_id": "",
+    "row": 155,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.chemsoc.org.cn/a821.html",
+  "collected_at": "2026-11-26T20:57:38+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.chemsoc.org.cn",
+      "www.whxb.pku.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.chemsoc.org.cn/a821.html",
+      "requested_url": "https://www.chemsoc.org.cn/a821.html",
+      "title": "《物理化学学报》创刊三十周年暨第四届编委会学术研讨会召开 发布时间：2015年07月06日",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:57:38+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.whxb.pku.edu.cn/CN/volumn/current.shtml",
+      "requested_url": "http://www.whxb.pku.edu.cn/CN/volumn/current.shtml",
+      "title": "http://www.whxb.pku.edu.cn/CN/volumn/current.shtml",
+      "path": [
+        "官网入口",
+        "http://www.whxb.pku.edu.cn/CN/volumn/current.shtml"
+      ],
+      "visited_at": "2026-11-26T20:57:38+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.chemsoc.org.cn/notice/",
+      "requested_url": "https://www.chemsoc.org.cn/notice/",
+      "title": "学会动态",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:57:38+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.chemsoc.org.cn/notice/?page=2",
+      "requested_url": "https://www.chemsoc.org.cn/notice/?page=2",
+      "title": "学会动态",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2"
+      ],
+      "visited_at": "2026-11-26T20:57:38+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.chemsoc.org.cn/notice/?page=3",
+      "requested_url": "https://www.chemsoc.org.cn/notice/?page=3",
+      "title": "学会动态",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "3"
+      ],
+      "visited_at": "2026-11-26T20:57:38+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.chemsoc.org.cn/notice/?page=4",
+      "requested_url": "https://www.chemsoc.org.cn/notice/?page=4",
+      "title": "学会动态",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "4"
+      ],
+      "visited_at": "2026-11-26T20:57:38+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.chemsoc.org.cn/notice/?page=5",
+      "requested_url": "https://www.chemsoc.org.cn/notice/?page=5",
+      "title": "学会动态",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "5"
+      ],
+      "visited_at": "2026-11-26T20:57:38+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.chemsoc.org.cn/notice/?page=6",
+      "requested_url": "https://www.chemsoc.org.cn/notice/?page=6",
+      "title": "学会动态",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "6"
+      ],
+      "visited_at": "2026-11-26T20:57:38+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.chemsoc.org.cn/notice/?page=7",
+      "requested_url": "https://www.chemsoc.org.cn/notice/?page=7",
+      "title": "学会动态",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "7"
+      ],
+      "visited_at": "2026-11-26T20:57:38+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.chemsoc.org.cn/notice/?page=8",
+      "requested_url": "https://www.chemsoc.org.cn/notice/?page=8",
+      "title": "学会动态",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "8"
+      ],
+      "visited_at": "2026-11-26T20:57:38+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.chemsoc.org.cn/notice/?page=9",
+      "requested_url": "https://www.chemsoc.org.cn/notice/?page=9",
+      "title": "学会动态",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "9"
+      ],
+      "visited_at": "2026-11-26T20:57:38+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.chemsoc.org.cn/a821.html",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://www.chemsoc.org.cn/a821.html",
+      "title": "物理化学学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

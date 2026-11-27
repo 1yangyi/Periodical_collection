@@ -1,0 +1,176 @@
+{
+  "journal": {
+    "name": "当代文坛",
+    "url": "https://www.sczjw.net.cn/service/detail/891173768381382656.html",
+    "journal_id": "",
+    "row": 59,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.sczjw.net.cn/service/detail/891173768381382656.html",
+  "collected_at": "2026-11-26T20:46:30+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.sczjw.net.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.sczjw.net.cn/service/detail/891173768381382656.html",
+      "requested_url": "https://www.sczjw.net.cn/service/detail/891173768381382656.html",
+      "title": "《当代文坛》2025年第1期目录",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:46:30+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.sczjw.net.cn/notice/list/107.html",
+      "requested_url": "https://www.sczjw.net.cn/notice/list/107.html",
+      "title": "征稿启事 - 公告公示 - 四川作家网",
+      "path": [
+        "官网入口",
+        "征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:46:30+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.sczjw.net.cn/notice/detail/1118790101977579520.html",
+      "requested_url": "https://www.sczjw.net.cn/notice/detail/1118790101977579520.html",
+      "title": "四川省作家协会《川上文章》文学公众号征稿启事",
+      "path": [
+        "官网入口",
+        "征稿启事",
+        "四川省作家协会《川上文章》文学公众号征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:46:30+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.sczjw.net.cn/notice/detail/1049564964405690368.html",
+      "requested_url": "https://www.sczjw.net.cn/notice/detail/1049564964405690368.html",
+      "title": "全国青少年儿童诗歌征稿启事",
+      "path": [
+        "官网入口",
+        "征稿启事",
+        "全国青少年儿童诗歌征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:46:30+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.sczjw.net.cn/notice/detail/1030700748220055552.html",
+      "requested_url": "https://www.sczjw.net.cn/notice/detail/1030700748220055552.html",
+      "title": "“时光信笺与文学之心”（暂名）主题文学征稿启事",
+      "path": [
+        "官网入口",
+        "征稿启事",
+        "“时光信笺与文学之心”（暂名）主题文学征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:46:30+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.sczjw.net.cn/notice/detail/1026009021727031296.html",
+      "requested_url": "https://www.sczjw.net.cn/notice/detail/1026009021727031296.html",
+      "title": "“嘉陵江的思念”主题文学作品征稿启事",
+      "path": [
+        "官网入口",
+        "征稿启事",
+        "“嘉陵江的思念”主题文学作品征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:46:30+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "四川省作家协会《川上文章》文学公众号征稿启事",
+      "source_url": "https://www.sczjw.net.cn/notice/detail/1118790101977579520.html",
+      "path": [
+        "官网入口",
+        "征稿启事",
+        "四川省作家协会《川上文章》文学公众号征稿启事"
+      ],
+      "local_path": "web/四川省作家协会《川上文章》文学公众号征稿启事_c1a5cb61e0.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "全国青少年儿童诗歌征稿启事",
+      "source_url": "https://www.sczjw.net.cn/notice/detail/1049564964405690368.html",
+      "path": [
+        "官网入口",
+        "征稿启事",
+        "全国青少年儿童诗歌征稿启事"
+      ],
+      "local_path": "web/全国青少年儿童诗歌征稿启事_2dea513970.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "“时光信笺与文学之心”（暂名）主题文学征稿启事",
+      "source_url": "https://www.sczjw.net.cn/notice/detail/1030700748220055552.html",
+      "path": [
+        "官网入口",
+        "征稿启事",
+        "“时光信笺与文学之心”（暂名）主题文学征稿启事"
+      ],
+      "local_path": "web/“时光信笺与文学之心”（暂名）主题文学征稿启事_46698f8491.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "“嘉陵江的思念”主题文学作品征稿启事",
+      "source_url": "https://www.sczjw.net.cn/notice/detail/1026009021727031296.html",
+      "path": [
+        "官网入口",
+        "征稿启事",
+        "“嘉陵江的思念”主题文学作品征稿启事"
+      ],
+      "local_path": "web/“嘉陵江的思念”主题文学作品征稿启事_13a4178d3a.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "当代文坛投稿格式",
+      "local_path": "当代文坛投稿格式.md",
+      "source_urls": [
+        "https://www.sczjw.net.cn/notice/detail/1118790101977579520.html",
+        "https://www.sczjw.net.cn/notice/detail/1049564964405690368.html",
+        "https://www.sczjw.net.cn/notice/detail/1030700748220055552.html",
+        "https://www.sczjw.net.cn/notice/detail/1026009021727031296.html"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://www.sczjw.net.cn/service/detail/891173768381382656.html",
+      "title": "当代文坛",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

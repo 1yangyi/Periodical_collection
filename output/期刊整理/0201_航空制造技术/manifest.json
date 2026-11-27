@@ -1,0 +1,118 @@
+{
+  "journal": {
+    "name": "航空制造技术",
+    "url": "https://amte.publish.founderss.cn/zh/info/21508/",
+    "journal_id": "",
+    "row": 202,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://amte.publish.founderss.cn/zh/info/21508/",
+  "collected_at": "2026-11-26T20:58:16+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "amte.publish.founderss.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://amte.publish.founderss.cn/zh/info/21508/",
+      "requested_url": "https://amte.publish.founderss.cn/zh/info/21508/",
+      "title": "联系我们 - 航空制造技术",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:58:16+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://amte.publish.founderss.cn/zh/info/25027/",
+      "requested_url": "http://amte.publish.founderss.cn/zh/info/25027/",
+      "title": "投稿须知 - 航空制造技术",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:58:16+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿须知 - 航空制造技术",
+      "source_url": "http://amte.publish.founderss.cn/zh/info/25027/",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "local_path": "web/投稿须知 - 航空制造技术_a935605613.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "航空制造技术投稿格式",
+      "local_path": "航空制造技术投稿格式.md",
+      "source_urls": [
+        "http://amte.publish.founderss.cn/zh/info/25027/"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://amte.publish.founderss.cn/zh/info/21508/",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "http://amte.publish.founderss.cn/download?columnId=22900&columnName=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83&index=6&parentIndex=6&bannerId=null&code=download&newsDataType=&newCompositeId=16835&childId=",
+      "title": "下载中心",
+      "source_url": "http://amte.publish.founderss.cn/zh/info/25027/",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "下载中心"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载中心"
+    },
+    {
+      "url": "https://amte.publish.founderss.cn/zh/info/21508/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://amte.publish.founderss.cn/zh/info/21508/",
+      "title": "航空制造技术",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}
