@@ -1,0 +1,61 @@
+{
+  "journal": {
+    "name": "微生物学杂志",
+    "url": "https://www.csm1952.org.cn/kxpj/kpts/art/2021/art_759ff86254c843179660a73c9a45b9dd.html",
+    "journal_id": "",
+    "row": 211,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.csm1952.org.cn/kxpj/kpts/art/2021/art_759ff86254c843179660a73c9a45b9dd.html",
+  "collected_at": "2026-11-26T20:58:30+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.csm1952.org.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.csm1952.org.cn/kxpj/kpts/art/2021/art_759ff86254c843179660a73c9a45b9dd.html",
+      "requested_url": "https://www.csm1952.org.cn/kxpj/kpts/art/2021/art_759ff86254c843179660a73c9a45b9dd.html",
+      "title": "微生物学杂志",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:58:30+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.csm1952.org.cn/kxpj/kpts/art/2021/art_759ff86254c843179660a73c9a45b9dd.html",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://www.csm1952.org.cn/kxpj/kpts/art/2021/art_759ff86254c843179660a73c9a45b9dd.html",
+      "title": "微生物学杂志",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "journal": {
+    "name": "水利水运工程学报",
+    "url": "http://slsy.nhri.cn",
+    "journal_id": "",
+    "row": 405,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "",
+  "collected_at": "2026-11-26T21:00:59+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "slsy.nhri.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "http://slsy.nhri.cn",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "HTTPConnectionPool(host='slsy.nhri.cn', port=80): Max retries exceeded with url: / (Caused by ReadTimeoutError(\"HTTPConnectionPool(host='slsy.nhri.cn', port=80): Read timed out. (read timeout=15)\"))",
+      "context": ""
+    },
+    {
+      "url": "http://slsy.nhri.cn",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "http://slsy.nhri.cn",
+      "title": "水利水运工程学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

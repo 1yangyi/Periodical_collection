@@ -1,0 +1,199 @@
+{
+  "journal": {
+    "name": "中华全科医师杂志",
+    "url": "https://cs.medjournals.cn/cn/zhqkyszz",
+    "journal_id": "",
+    "row": 94,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://cs.medjournals.cn/cn/zhqkyszz",
+  "collected_at": "2026-11-26T20:52:00+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "cs.medjournals.cn",
+      "zhqkyszz.yiigle.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://cs.medjournals.cn/cn/zhqkyszz",
+      "requested_url": "https://cs.medjournals.cn/cn/zhqkyszz",
+      "title": "编辑部公告",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:52:00+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cs.medjournals.cn/cn/zhqkyszz/authors",
+      "requested_url": "https://cs.medjournals.cn/cn/zhqkyszz/authors",
+      "title": "中华全科医师杂志",
+      "path": [
+        "官网入口",
+        "作者须知"
+      ],
+      "visited_at": "2026-11-26T20:52:00+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cs.medjournals.cn/cn/zhqkyszz/featured-articles",
+      "requested_url": "https://cs.medjournals.cn/cn/zhqkyszz/featured-articles",
+      "title": "编辑推荐",
+      "path": [
+        "官网入口",
+        "查看更多"
+      ],
+      "visited_at": "2026-11-26T20:52:00+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cs.medjournals.cn/cn/zhqkyszz/notice",
+      "requested_url": "https://cs.medjournals.cn/cn/zhqkyszz/notice",
+      "title": "编辑部公告",
+      "path": [
+        "官网入口",
+        "查看更多"
+      ],
+      "visited_at": "2026-11-26T20:52:00+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cs.medjournals.cn/cn/zhqkyszz/collections",
+      "requested_url": "https://cs.medjournals.cn/cn/zhqkyszz/collections",
+      "title": "专题集锦",
+      "path": [
+        "官网入口",
+        "查看更多"
+      ],
+      "visited_at": "2026-11-26T20:52:00+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cs.medjournals.cn/cn/zhqkyszz/multimedia",
+      "requested_url": "https://cs.medjournals.cn/cn/zhqkyszz/multimedia",
+      "title": "多媒体",
+      "path": [
+        "官网入口",
+        "查看更多"
+      ],
+      "visited_at": "2026-11-26T20:52:00+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cs.medjournals.cn/cn/zhqkyszz/events",
+      "requested_url": "https://cs.medjournals.cn/cn/zhqkyszz/events",
+      "title": "学术活动",
+      "path": [
+        "官网入口",
+        "查看更多"
+      ],
+      "visited_at": "2026-11-26T20:52:00+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cs.medjournals.cn/cn/zhqkyszz/popular-articles",
+      "requested_url": "https://cs.medjournals.cn/cn/zhqkyszz/popular-articles",
+      "title": "热门文献",
+      "path": [
+        "官网入口",
+        "查看更多"
+      ],
+      "visited_at": "2026-11-26T20:52:00+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cs.medjournals.cn/cn/zhqkyszz/news",
+      "requested_url": "https://cs.medjournals.cn/cn/zhqkyszz/news",
+      "title": "学术动态",
+      "path": [
+        "官网入口",
+        "查看更多"
+      ],
+      "visited_at": "2026-11-26T20:52:00+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cs.medjournals.cn/cn/zhqkyszz/about/editorial-board",
+      "requested_url": "https://cs.medjournals.cn/cn/zhqkyszz/about/editorial-board",
+      "title": "编委会",
+      "path": [
+        "官网入口",
+        "查看更多"
+      ],
+      "visited_at": "2026-11-26T20:52:00+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "中华全科医师杂志",
+      "source_url": "https://cs.medjournals.cn/cn/zhqkyszz/authors",
+      "path": [
+        "官网入口",
+        "作者须知"
+      ],
+      "local_path": "web/中华全科医师杂志_9ca776dfbb.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "中华全科医师杂志投稿格式",
+      "local_path": "中华全科医师杂志投稿格式.md",
+      "source_urls": [
+        "https://cs.medjournals.cn/cn/zhqkyszz/authors"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://cs.medjournals.cn/cn/zhqkyszz/authors",
+      "title": "作者须知",
+      "source_url": "https://cs.medjournals.cn/cn/zhqkyszz",
+      "path": [
+        "官网入口",
+        "作者须知"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": "作者须知 期刊投稿"
+    },
+    {
+      "url": "http://zhqkyszz.yiigle.com/author/69988.htm",
+      "title": "http//zhqkyszz.yiigle.com/author/69988.htm",
+      "source_url": "https://cs.medjournals.cn/cn/zhqkyszz/authors",
+      "path": [
+        "官网入口",
+        "作者须知",
+        "http//zhqkyszz.yiigle.com/author/69988.htm"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "跳转到未核实域名：https://casmp.yiigle.com/login?service=https%3A%2F%2Fzhqkyszz.yiigle.com%3A%2Fauthor%2F69988.htm&gateway=true&loginUrl=%2F",
+      "context": "稿约电子版可参见《中华全科医师杂志》官方网站： http//zhqkyszz.yiigle.com/author/69988.htm 。"
+    },
+    {
+      "url": "https://cs.medjournals.cn/cn/zhqkyszz",
+      "title": "中华全科医师杂志",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

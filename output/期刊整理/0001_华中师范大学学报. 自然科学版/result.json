@@ -1,0 +1,29 @@
+{
+  "index": 1,
+  "journal": "华中师范大学学报. 自然科学版",
+  "url": "https://journal.ccnu.edu.cn/zk/CN/column/item50.shtml",
+  "source_sheet": "可打开",
+  "source_row": 2,
+  "started_at": "2026-11-26T20:39:07+08:00",
+  "finished_at": "2026-11-26T20:40:15+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 3,
+    "artifacts": 1,
+    "pending": 3,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0001_华中师范大学学报. 自然科学版/manifest.json",
+  "pages": 3,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 1,
+  "pending_count": 7,
+  "pending_reasons": [
+    "invalid_or_failed_attachment",
+    "needs_review",
+    "no_valid_word_or_pdf"
+  ]
+}

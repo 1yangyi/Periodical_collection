@@ -1,0 +1,28 @@
+{
+  "index": 308,
+  "journal": "当代教育论坛",
+  "url": "https://ime.ccnu.edu.cn/virtual_attach_file.vsb?afc=aollPaUmvbMRNDLYRCZL8Mfnln2Lm74bU4AfnNn7oRV7LzU0gihFp2hmCIa0LkyDMYysUShVnzUaUmQkU8Lin7LZnmn2nzNDo7LinzCDLNMFLmLPnNlZMRWFLmT7LmNJv2nto4OeoDTxQShXptQ0g47aLzG0LzL4LYbw6288c&e=.pdf&nid=1333&oid=1327766781&tid=1010",
+  "source_sheet": "可打开",
+  "source_row": 309,
+  "started_at": "2026-11-26T20:59:32+08:00",
+  "finished_at": "2026-11-26T20:59:35+08:00",
+  "status": "completed",
+  "browser_use_invoked": false,
+  "before_fallback": null,
+  "browser_use_errors": [],
+  "manifest": "0308_当代教育论坛/manifest.json",
+  "pages": 0,
+  "attachments": [
+    {
+      "title": "virtual_attach_file.vsb",
+      "format": "pdf",
+      "local_path": "0308_当代教育论坛/attachments/virtual_attach_file.vsb_ae5fb56b1d.pdf",
+      "sha256": "ae5fb56b1d0cd497e68ef5f8517384fa5a8756bb407c75a8c69b18623e658da4",
+      "bytes": 171305
+    }
+  ],
+  "original_count": 1,
+  "webpage_text": 0,
+  "pending_count": 0,
+  "pending_reasons": []
+}

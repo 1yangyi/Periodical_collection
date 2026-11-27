@@ -1,0 +1,968 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+	<TITLE>中国冶金 投稿指南</TITLE>
+	<META http-equiv=Content-Type content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
+
+
+
+
+
+
+<link href="/gyby/js/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="/gyby/develop/static/common/css/css.css">
+<link rel="stylesheet" href="/gyby/js/jqpagination/jqpagination.css" />
+<script src="/gyby/js/jquery/jquery.min.js"></script>
+<script src="/gyby/js/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/gyby/js/jquery/jquery.qrcode.min.js"></script>
+<script src="/gyby/develop/static/common/js/common_cn.js"></script>
+<script src="/gyby/develop/static/common/js/component_cn.js"></script>
+<script language="javascript" src="/gyby/js/store.js"></script>
+<script language="javascript" src="/gyby/develop/static/common/js/download_cn.js"></script>
+<script language="javascript" src="/gyby/js/My97DatePicker/WdatePicker.js"></script>
+<script language="javascript" src="/gyby/develop/static/common/js/xss/xss.js"></script>
+<link rel="stylesheet" href="/gyby/develop/static/common/bootstrap/js/font-awesome.min.css">
+<script language="javascript" src="/gyby/develop/static/common/js/xss/mag-xss.js"></script>
+
+<script>
+	$(document).ready(function(){
+		$("title").text($("title").text().replace(/<\/?[^>]*>/g,""));
+	});
+</script>
+
+
+
+
+
+
+
+
+
+
+<meta name="google-site-verification" content="GqftDyjkbLznCjwJH3xdvsEi1ZnXlVqxWMeQ5H2MD38" />
+<!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+<!--顶部快速导航下拉导航菜单特效css-->
+<link rel="stylesheet" href="https://www.chinamet.cn/gyby/zgyj/images/1006-9356/css/bootsnav.css">
+<!--网站css-->
+<link rel="stylesheet" href="https://www.chinamet.cn/gyby/zgyj/images/1006-9356/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://www.chinamet.cn/gyby/zgyj/images/1006-9356/css/css.css">
+<script src="https://www.chinamet.cn/gyby/zgyj/images/1006-9356/js/indexjs.js"></script>
+
+</HEAD>
+
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+<input type="hidden" id="mag-common-contextPath" value="/gyby"/>
+
+<div id="mag-component-store-div" style="display:none;"></div>
+			
+<!-- 模态框（Modal） -->
+<div class="modal fade" id="magModal" tabindex="-1" role="dialog" data-keyboard=false data-backdrop='static' aria-labelledby="magModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button buttonGroup="0" type="button"  class="close"  aria-hidden="true" onclick="mag_layer_close();">
+					&times;
+				</button>
+				<h4 class="modal-title" id="magModalLabel">
+					模态框（Modal）标题
+				</h4>
+			</div>
+			<div class="modal-body" id="mag-modal-body" style="overflow:auto;">
+				在这里添加一些文本
+			</div>
+			<div id="mag-layer-button-div" class="modal-footer">
+				<button buttonGroup="1" type="button"  class="btn btn-default"  onclick="mag_layer_close();">关闭
+				</button>
+				<button buttonGroup="2" type="button"  class="btn btn-default"  onclick="mag_layer_close();">关闭
+				</button>
+				<button buttonGroup="2" type="button" class="btn btn-primary" onclick="mag_submit()" id="mag_layer_submit_button_2">
+					提交更改
+				</button>
+				<button buttonGroup="3" type="button"  class="btn btn-default"  onclick="mag_layer_close();">取消
+				</button>
+				<button buttonGroup="3" type="button" class="btn btn-primary" onclick="mag_submit()" id="mag_layer_submit_button_3">
+					确定并提交
+				</button>
+				
+			</div>
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal -->
+</div>
+
+<div id="magModal_2" style="display:none;position:fixed;left:0px;top:0px;right:0px;bottom:0px;z-index:1060">
+	<div class="modal-dialog" style="margin-top:60px;">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button buttonGroup="0" type="button" id="mag-madal-close_bt_2"  class="close"  aria-hidden="true" onclick="mag_layer_close_2();">
+					&times;
+				</button>
+				<h4 class="modal-title" id="magModalLabel_2">
+					模态框（Modal）标题
+				</h4>
+			</div>
+			<div id="modal-body_2" class="modal-body"></div>
+		</div>
+	</div>
+</div>
+
+<!-- 模态框-Tab -->
+<div class="modal fade" id="magTabModal" tabindex="-1" role="dialog" data-keyboard=false data-backdrop='static' aria-labelledby="magTabModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header" style="border-bottom:0px;padding:15px 0px;">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true" style="padding-right:15px;">
+					&times;
+				</button>
+				
+<ul id="magTab" class="nav nav-tabs">
+
+</ul>
+			</div>
+			<div class="modal-body">
+				
+<div id="magTabContent" class="tab-content">
+
+</div>
+			</div>
+			<div id="mag-tablayer-button-div" class="modal-footer">
+				
+			</div>
+			
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal -->
+</div>
+
+
+
+<div style="display:none;">
+	<iframe id="mag_sendLongReq_iframe" name="mag_sendLongReq_iframe"></iframe>
+	<iframe id="mag_cma_sso_login_iframe" name="mag_cma_sso_login_iframe"></iframe>
+</div>
+<input type="hidden" id="mag_cma_sso_authorizeUrl" value=""/>
+		
+
+
+
+<!--头部-->
+<script src='https://tongji.journalreport.cn/mstatistics.service.js' ></script><script>recordAdd('7bfc231801e049c48f97fb91d216dddc')</script>
+
+
+<script language="javascript">
+	function tabChange(obj, id) {
+		var arrayli = obj.parentNode.getElementsByTagName("li"); //获取li数组
+		var arrayul = document.getElementById(id).getElementsByTagName("ul"); //获取ul数组
+		for (i = 0; i < arrayul.length; i++) {
+			if (obj == arrayli[i]) {
+				arrayli[i].className = "cli";
+				arrayul[i].className = "";
+			} else {
+				arrayli[i].className = "";
+				arrayul[i].className = "hidden";
+			}
+		}
+	}
+</script>
+<style type="text/css">
+.tabbox {
+	width: 400px;
+	margin-top: 5px;
+	margin-bottom: 5px
+}
+
+.tabmenu {
+	width: 400px;
+	height: 28px;
+	border-left: 1px solid #CCC;
+	border-top: 1px solid #ccc;
+}
+
+.tabmenu ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.tabmenu li {
+	text-align: center;
+	float: left;
+	display: block;
+	width: 99px;
+	overflow: hidden;
+	background-color: #f1f1f1;
+	line-height: 27px;
+	border-right: #ccc 1px solid;
+	border-bottom: #ccc 1px solid;
+	display: inline;
+}
+
+.tabmenu .cli {
+	text-align: center;
+	float: left;
+	display: block;
+	width: 99px;
+	overflow: hidden;
+	background-color: #fff;
+	line-height: 27px;
+	border-right: #ccc 1px solid;
+	border-bottom: #fff 1px solid;
+	display: inline;
+	cursor: pointer;
+	color: #c30000;
+	font-weight: bold
+}
+
+#tabcontent {
+	width: 399px;
+	background-color: #fff;
+	border-left: #CCC 1px solid;
+	border-right: #CCC 1px solid;
+	border-bottom: #CCC 1px solid;
+	height: 65px;
+}
+
+#tabcontent ul {
+	margin: 0;
+	padding: 5px;
+	list-style-type: none;
+}
+
+#tabcontent .hidden {
+	display: none;
+}
+
+img[src*='.traceImg']{
+	width:44px;
+	height:22px;
+}
+</style>
+
+<!--头部-->
+<!--<div class="ding">
+	<div class="ding2">
+		<span class="fl">
+			欢迎访问《中国冶金》官方网站！今天是<script language="JavaScript" type="text/javascript">today=new Date();
+			function initArray(){
+			this.length=initArray.arguments.length
+			for(var i=0;i<this.length;i++)
+			this[i+1]=initArray.arguments[i]  }
+			var d=new initArray(
+			" 星期日",
+			" 星期一",
+			" 星期二",
+			" 星期三",
+			" 星期四",
+			" 星期五",
+			" 星期六");
+			document.write(
+			" ",
+			today.getFullYear(),"年",
+			today.getMonth()+1,"月",
+			today.getDate(),"日",
+			d[today.getDay()+1],
+			"" );
+		   </script>
+		   </span>
+	</div>
+</div>-->
+<div class="header">
+<div class="banner">
+	<div class="zuoc"><img src="https://www.chinamet.cn/gyby/zgyj/images/1006-9356/images/banner.png" class="img-responsive"></div>
+	<div class="youc">
+		<div class="sl">
+			<ul class="imul">
+			<li>百种中国杰出学术期刊</li>
+			<li>中国精品科技期刊</li>
+			<li>“中国科技期刊卓越行动计划二期”领军期刊</li>
+			<li>入选“中国精品科技期刊顶尖学术论文(F5000)”</li>
+			<li>入选《科技期刊世界影响力指数(WJCI) 报告》</li>
+			</ul>	
+			
+			<ul>
+			<li>EI、CA、JST收录期刊</li>
+			<li>中国金属学会会刊</li>
+			<li>中文核心期刊</li>
+			<li>中国科技核心期刊</li>
+			<li>中国科学引文数据库(CSCD)来源期刊</li>
+			</ul>
+		</div>
+		<div class="logo"><img src="https://www.chinamet.cn/gyby/zgyj/images/1006-9356/images/logo.png"></div>
+	</div>		
+</div>
+</div>
+<div class="daohang">
+	<div class="navbar site-nav">
+		<div class="navbar-header">
+		<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+			<span class="sr-only">Toggle navigation</span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		</button>
+		
+		</div>
+		<div class="navbar-collapse collapse" role="navigation">
+			<ul class="nav navbar-nav">
+				<li><a href="https://www.chinamet.cn/gyby/zgyj/CN/home">首页</a></li>
+				<li><a href="https://www.chinamet.cn/gyby/zgyj/CN/column/column77.shtml">期刊简介</a></li>
+				<li role="presentation" class="dropdown">
+				   <a href="#" class="dropdown-toggle" data-toggle="dropdown">编委会<b class="caret"></b></a>
+				   <ul class="dropdown-menu">
+				   <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.chinamet.cn/gyby/zgyj/CN/column/column78.shtml">编委会</a></li>
+				   <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.chinamet.cn/gyby/zgyj/CN/column/column117.shtml">青年编委会</a></li>
+				    </ul>
+				</li>
+				<li><a href="https://www.chinamet.cn/gyby/zgyj/CN/column/column79.shtml">投稿指南</a></li>
+				<li><a href="https://www.chinamet.cn/gyby/zgyj/CN/column/column80.shtml">期刊订阅</a></li>
+				<li role="presentation" class="dropdown">
+				   <a href="#" class="dropdown-toggle" data-toggle="dropdown">期刊在线<b class="caret"></b></a>
+				   <ul class="dropdown-menu">
+					   <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.chinamet.cn/gyby/zgyj/CN/current">当期目录</a></li>
+					   <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.chinamet.cn/gyby/zgyj/CN/just_accepted">最新录用</a></li>
+					   <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.chinamet.cn/gyby/zgyj/CN/online_first">网络首发</a></li>
+					   <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.chinamet.cn/gyby/zgyj/CN/highlights">热点文章</a></li>
+					   <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.chinamet.cn/gyby/zgyj/CN/collections">虚拟专辑</a></li>
+					   <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.chinamet.cn/gyby/zgyj/CN/archive_by_years">过刊浏览</a></li>
+					   <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.chinamet.cn/gyby/zgyj/CN/top_access">阅读排行</a></li>
+					   <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.chinamet.cn/gyby/zgyj/CN/top_download">下载排行</a></li>
+					   <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.chinamet.cn/gyby/zgyj/CN/top_cited">引用排行</a></li>
+					   <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.chinamet.cn/gyby/zgyj/CN/alert/showAlertInfo.do">Email Alert</a></li>
+					</ul>
+				</li>
+				<li role="presentation" class="dropdown">
+				   <a href="#" class="dropdown-toggle" data-toggle="dropdown">业务合作<b class="caret"></b></a>
+				   <ul class="dropdown-menu">
+				   <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.chinamet.cn/gyby/zgyj/CN/column/column81.shtml">广告</a></li>
+				   <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.chinamet.cn/gyby/zgyj/CN/column/column85.shtml">理事会</a></li>
+				    </ul>
+				</li>
+			    <li><a href="https://www.chinamet.cn/gyby/zgyj/CN/suppl/showVideoList.do">视频中心</a></li>
+				<li><a href="https://www.chinamet.cn/gyby/zgyj/CN/column/column82.shtml">联系我们</a></li>
+				<li><a href="https://www.chinamet.cn/gyby/zgyj/EN/home" target="_blank">English</a></li>
+			</ul>
+				
+		</div>
+	</div>		
+</div>    
+
+
+<!--中间-->
+<div class="container">
+<div class="row">
+
+<!--左-->
+
+
+
+
+
+
+<div class="m-center">		
+<section class="content_nr">
+	<h3 class="column">
+		<span> 投稿指南 </span>
+	</h3>
+<div class="item-content">
+<div align="center">
+	<span style="font-size:12pt;"><a href="#Part1"><span><span style="font-size:16px;line-height:2;">第</span><span style="font-size:16px;line-height:2;">1</span><span style="font-size:16px;line-height:2;">部分&nbsp;作者网上投稿指南</span></span></a></span> 
+</div>
+<div align="center">
+	<span style="font-size:12pt;"><a href="#Part2"><span><span style="font-size:16px;line-height:2;">第</span><span style="font-size:16px;line-height:2;">2</span><span style="font-size:16px;line-height:2;">部分&nbsp;专家网上审稿指南</span></span></a></span> 
+</div>
+<div align="center">
+	<span style="font-size:12pt;"><a href="#Part3"><span><span style="font-size:16px;line-height:2;">第</span><span style="font-size:16px;line-height:2;">3</span><span style="font-size:16px;line-height:2;">部分&nbsp;撰写论文注意事项</span></span></a></span> 
+</div>
+<div align="center">
+	<span style="font-size:12pt;"><a href="#Part4"><span><span style="font-size:16px;line-height:2;">第</span><span style="font-size:16px;line-height:2;">4</span><span style="font-size:16px;line-height:2;">部分&nbsp;参考文献著录方法</span></span></a></span> 
+</div>
+<div>
+	<div style="text-align:center;" align="center">
+		<strong><span style="font-size:16px;line-height:2;">&nbsp;</span></strong> 
+	</div>
+</div>
+<div align="center">
+	<strong><span style="font-size:16px;line-height:2;">&nbsp;</span></strong> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">《中国冶金》是由中国科学技术协会主管、中国金属学会主办的学会会刊和冶金行业综合类科技期刊，创刊于1991年，原为双月刊，2003年改为月刊，向国内外公开发行</span><a href="#OLE_LINK1"><span style="font-size:16px;line-height:2;">。</span></a> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">《中国冶金》采用了国内领先的期刊信息化和网络化平台，实行作者网上投稿／查稿、专家网上审稿的新的办刊模式。</span> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">《中国冶金》网站域名：</span><a href="https://www.chinamet.cn/gyby/zgyj/CN/home"><span style="font-size:16px;line-height:2;color:#003399;">https://www.chinamet.cn/gyby/zgyj/CN/home</span></a><span style="font-size:16px;line-height:2;">，请您将域名添加到收藏夹以便访问。</span> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">为使广大作者和审稿专家能尽快熟悉这种新模式，现将有关事项通告如下。</span> 
+</div>
+<div>
+	<div style="text-align:center;" align="center">
+		<p style="line-height:150%">
+			<span style="font-size:16px;line-height:2;">&nbsp;</span> 
+		</p>
+		<p style="line-height:150%">
+			<strong><span style="font-size:16px;line-height:2;">投稿约定 </span></strong> 
+		</p>
+		<div align="left">
+			<span style="font-size:16px;line-height:2;">&nbsp;&nbsp;&nbsp;&nbsp; （1）原稿必须是在中外文正式刊物上未发表的论文。本刊严禁一稿多投、严禁重复内容多次投稿、严禁不同文种重复投稿。北京钢研柏苑出版有限责任公司下属12个刊统一使用《科技期刊学术不端文献检测系统（AMLC）》，各刊在文章正式出版前对已经录用的文章进行学术不端行为检测，对于检测结果中“文字复制比”超过15%的文章，将按照退稿程序处理，已收取的版面费不退还给作者，留待作者下次投稿文章发表使用。</span> 
+		</div>
+		<div align="left">
+			<span style="font-size:16px;line-height:2;">&nbsp;&nbsp;&nbsp;&nbsp; （2）稿件审查结果在3个月内（包括编辑初审、同行专家评审、财务收费等程序）通知作者，在此期间，作者不得将稿件投往其他刊物。个别稿件可能送审时间较长。如果作者决定改投其他刊物或退稿，请通知编辑部后再进行处理。编辑部决定录用稿件后，将及时通知作者；作者可以用投稿产生的用户名和密码随时登陆本刊投稿系统查询稿件进展信息。</span> 
+		</div>
+		<div align="left">
+			<span style="font-size:16px;line-height:2;">&nbsp;&nbsp;&nbsp; （3）在稿件返回作者修改过程中，请作者在15天内将修改稿通过采编系统返回给编辑部；超过15天还未返回的稿件，编辑部将用电子邮件的形式询问1次，对于10天内仍然不能返回的稿件，编辑部有权对稿件做出退稿处理。</span> 
+		</div>
+		<div align="left">
+			<span style="font-size:16px;line-height:2;">&nbsp;&nbsp;&nbsp; （4）为保证文章发表周期，建议作者稿件篇幅控制在10000字（含图、表、参考文献等）以内；本刊将对稿件预估版面超长的文章酌情加收增加版面的费用(基础版面费为2040元)。编辑部有权对稿件做技术性、文字性、规范性修改，在征得作者同意后可以进行实质内容的修改。本刊文中第一页页脚只标明国家级和省部级基金资助项目。请在给编辑部留言中简单描述稿件的创新点和重大推广应用价值。</span> 
+		</div>
+		<div align="left">
+			<span style="font-size:16px;line-height:2;">&nbsp;&nbsp;&nbsp;&nbsp;（5）作者投稿应与编辑部签署版权协议书。本刊已经与多个网络传媒机构有合作关系，凡未来信声明不同意将其论文收入光盘或网络传播者，本刊均视为自投稿之日起将制作光盘和网络传播的权利授予本刊编辑部。</span> 
+		</div>
+		<div align="left">
+			<span style="font-size:16px;line-height:2;">&nbsp;&nbsp;&nbsp; （6）稿件通过编辑初审、同行专家评审、主编终审后，作者应按照编辑部的缴费通知单交纳版面费并提供通信作者的通讯地址；编辑部将在文章正式出版后的30天内把当期期刊邮寄给作者。本刊稿费采用向作者赠送当期期刊以及允许作者免费下载《钢铁》《中国冶金》《连铸》三刊官网电子版全文的形式。如果稿件通过三审录用后，由于作者自己的原因要求撤稿，作者将被纳入编辑部黑名单。</span> 
+		</div>
+		<p style="line-height:150%">
+			<span style="font-size:16px;line-height:2;">&nbsp;</span> 
+		</p>
+	</div>
+</div>
+<div align="center">
+	<strong><span style="font-size:16px;line-height:2;">&nbsp;</span></strong> 
+</div>
+<div style="text-align:center;margin:12pt 0cm;" align="center">
+	<strong><span style="font-size:12pt;"><a name="undefined"></a><span style="font-size:16px;line-height:2;">第 1 部分&nbsp;作者网上投稿指南</span></span></strong> 
+</div>
+<div style="margin:6pt 0cm;">
+	<strong><span style="font-size:16px;line-height:2;">1</span></strong><strong><span style="font-size:16px;line-height:2;">　登录《中国冶金》网站</span></strong> 
+</div>
+<div>
+	<p style="line-height:150%">
+		<span style="font-size:16px;line-height:2;">1）请输入网站域名</span><a href="https://www.chinamet.cn/gyby/zgyj/CN/home"><span style="font-size:16px;line-height:2;color:#003399;">https://www.chinamet.cn/gyby/zgyj/CN/home</span></a><span style="font-size:16px;line-height:2;">，进入本刊主页；或者登录“中国钢铁期刊网”（</span><a href="http://www.chinamet.cn"><span style="font-size:16px;line-height:2;">www.chinamet.cn</span></a><span style="font-size:16px;line-height:2;">），点击“中国冶金”图标进入本刊首页。</span> 
+	</p>
+	<p style="line-height:150%">
+		<span style="font-size:16px;line-height:2;">2）用鼠标左键单击首页左侧“作者投稿中心”按钮，进入作者在线投稿系统。</span> 
+	</p>
+</div>
+<div style="margin:6pt 0cm;">
+	<strong><span style="font-size:16px;line-height:2;">2</span></strong><strong><span style="font-size:16px;line-height:2;">　作者网上注册</span></strong> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">1）第1次在线投稿的新作者请先注册，取得登录的用户名和密码。</span> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">2）点击“注册”按钮，进入注册页面后填写注册信息，填写完毕提交。</span> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">3）本系统会自动将注册成功的信息发送至您提供的E-mail地址，请妥善保存。</span> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">4）如果遗忘密码，输入注册时填写的E-mail，系统将自动把密码发送到您的信箱。</span> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">5）请不要重复注册，否则可能导致您信息查询不完整。</span> 
+</div>
+<div style="margin:6pt 0cm;">
+	<strong><span style="font-size:16px;line-height:2;">3</span></strong><strong><span style="font-size:16px;line-height:2;">　作者网上投稿／查稿</span></strong> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">1）如果您已经注册，请直接登录“作者中心”。本系统的用户名和密码区别大小写。</span> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">2）投稿：点击“投新稿件”按钮进行网上投稿。网上投稿前最好预先打开欲投稿件的电子文档，以便填写稿件信息时将文章标题、摘要、关键词等内容复制并粘贴到投稿系统中，减少录入的工作量。投稿时登录的作者被系统视为通信作者，有关稿件的事宜将与该人联系。</span> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">3）查稿：登录后，您可以查询您的稿件处理流程记录和目前的状态、阅读修改意见并上传修改稿及修改说明、查询文章费用缴纳情况、下载和上传校对清样文件。</span> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">4）修改个人信息：个人信息或通信方式有变化时，请及时更新。</span> 
+</div>
+<div>
+	<div style="text-align:center;" align="center">
+		<strong><span style="font-size:16px;line-height:2;">&nbsp;</span></strong> 
+	</div>
+</div>
+<div align="center">
+	<strong><span style="font-size:16px;line-height:2;">&nbsp;</span></strong> 
+</div>
+<div style="text-align:center;margin:12pt 0cm;" align="center">
+	<strong><span style="font-size:12pt;"><a name="undefined"></a><span style="font-size:16px;line-height:2;">第 2 部分&nbsp;专家网上审稿指南</span></span></strong> 
+</div>
+<div style="margin:6pt 0cm;">
+	<strong><span style="font-size:16px;line-height:2;">1</span></strong><strong><span style="font-size:16px;line-height:2;">　登录《中国冶金》网站</span></strong> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">1）请输入网站域名</span><a href="https://www.chinamet.cn/gyby/zgyj/CN/home"><span style="font-size:16px;line-height:2;color:#003399;">https://www.chinamet.cn/gyby/zgyj/CN/home</span></a><span style="font-size:16px;line-height:2;">，进入本刊主页；或者登录“中国钢铁期刊网”（</span><a href="http://www.chinamet.cn/"><span style="font-size:16px;line-height:2;">www.chinamet.cn</span></a><span style="font-size:16px;line-height:2;">），点击“中国冶金”图标进入本刊首页。</span> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">2）用鼠标左键单击首页左侧“专家在线审稿”按钮，进入专家在线审稿系统。</span> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">3）审稿专家的初始帐号是由编辑部设置，编辑部将登录的用户名和密码发送至专家提供的电子邮箱内。专家登录后可以修改登录密码。</span> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">4）请在登录页面输入邮件中标明的用户名和密码，登录本刊审稿系统.</span> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">5）本系统的用户名和密码区别大小写。</span> 
+</div>
+<div style="margin:6pt 0cm;">
+	<strong><span style="font-size:16px;line-height:2;">2</span></strong><strong><span style="font-size:16px;line-height:2;">　专家网上审稿</span></strong> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">1）专家登录“审稿中心”后，可以审阅编辑部提交评审和复审的稿件。</span> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">2）审稿：点击“新送审稿件”，是编辑部新送审的稿件。点击“在处理稿件”，是正在审阅的稿件。进入审阅稿件列表，可以查看稿件的详细信息和稿件原文。点击稿件右侧的“填写审稿意见”，进入该页面，填写审稿结论、审稿单和具体审稿意见。</span> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">3）复审：点击“待复审稿件”，是作者已经修改完成，编辑部需要专家进行复审的稿件。在复审稿件列表，可以查看稿件的详细信息和修改稿。点击稿件右侧的“填写审稿意见”，进入该页面，填写审稿结论、复审单和具体审稿意见。</span> 
+</div>
+<div>
+	<strong><span style="font-size:16px;line-height:2;">注意：外审专家在审稿或复审时，因为在“填写审稿意见”页面若20</span></strong><strong><span style="font-size:16px;line-height:2;">分钟没有操作，链接将自动断开，您所填写的信息可能丢失，所以建议专家将自己的具体审稿意见在其他地方填写完毕后，再复制粘贴到该栏目中。专家如需对作者原稿进行修改，可将修改后的“审改稿”上传。点击“保存并提交给编辑部”按钮，完成在线审稿或复审。</span></strong> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">4）查询：点击“已处理稿件”，浏览曾经评审过的稿件信息和审稿记录。</span> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">5）修改个人信息：点击页面左侧“修改个人信息”按钮，对专家库中的数据进行核实和修改，个人信息或通信方式有变化时，请及时更新，以便编辑部准确向您提交审阅的稿件、寄送审稿费等。</span> 
+</div>
+<div>
+	<div style="text-align:center;" align="center">
+		<strong><span style="font-size:16px;line-height:2;">&nbsp;</span></strong> 
+	</div>
+</div>
+<div align="center">
+	<strong><span style="font-size:16px;line-height:2;">&nbsp;</span></strong> 
+</div>
+<div style="text-align:center;margin:12pt 0cm;" align="center">
+	<strong><span style="font-size:12pt;"><a name="undefined"></a><span style="font-size:16px;line-height:2;">第 3 部分&nbsp;撰写论文注意事项</span></span></strong> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">论文各项要素的撰写力求按照《中国冶金》的写作规范，参照本刊最新版本。</span> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">请将论文各部分排成通栏，不必分为两栏，分栏工作由排版人员完成。</span> 
+</div>
+<div>
+	<span style="font-size:16px;line-height:2;">书写规范的稿件大大增加了稿件被录用的机会，极大地减轻稿件的初审、复审、终审、作者修改、编校等后续的工作量。对于不符合刊物出版要求的稿件，多次反复退修，很容易丢失重要数据及信息。</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<strong><span style="font-size:16px;line-height:2;">1</span></strong><strong><span style="font-size:16px;line-height:2;">　</span></strong><strong><span style="font-size:16px;line-height:2;">凡向本刊投稿，请按以下顺序组织您的论文结构，各部分的要求、字号和字体如下。</span></strong> 
+</div>
+<div>
+	<strong><span style="font-size:16px;line-height:2;">1</span></strong><strong><span style="font-size:16px;line-height:2;">）中文题名</span></strong><span style="font-size:16px;line-height:2;">：一般不超过20个汉字，不建议以“研究”结尾；3号黑体居中。</span> 
+</div>
+<div>
+	<strong><span style="font-size:16px;line-height:2;">2</span></strong><strong><span style="font-size:16px;line-height:2;">）中文作者姓名</span></strong><span style="font-size:16px;line-height:2;">：一般不超过8个作者；人名之间加逗号后空2格，两字姓名间空2格，不同单位的作者用右上角的数字加以区别；小4号楷体居中。</span> 
+</div>
+<div>
+	<strong><span style="font-size:16px;line-height:2;">3</span></strong><strong><span style="font-size:16px;line-height:2;">）中文作者单位、所在省市和邮政编码</span></strong><span style="font-size:16px;line-height:2;">：单位至二级，××研究院××研究所或××大学××学院；单位名称与省市名之间应以逗号分隔，整个数据项用圆括号括起；不同的作者单位平排用数字加以区别，以分号隔开；小5号宋体居中。</span> 
+</div>
+<div>
+	<strong><span style="font-size:16px;line-height:2;">4</span></strong><strong><span style="font-size:16px;line-height:2;">）中文摘要</span></strong><span style="font-size:16px;line-height:2;">：500字左右；“摘要”两字之间空2格，后加冒号；“摘要”两字用小5号黑体，摘要的内容用小5号宋体。</span> 
+</div>
+<div>
+	<strong><span style="font-size:16px;line-height:2;">5</span></strong><strong><span style="font-size:16px;line-height:2;">）中文关键词</span></strong><span style="font-size:16px;line-height:2;">：5～8个；“关键词”三字与内容之间加冒号，各关键词之间用分号隔开；“关键词”三字用小5号黑体，关键词的内容用小5号宋体。</span> 
+</div>
+<div>
+	<strong><span style="font-size:16px;line-height:2;">6）文献标志码</span></strong><span style="font-size:16px;line-height:2;">：“文献标志码”五字与内容之间加冒号；“文献标志码”五字用小5号黑体，内容用小5号宋体。</span> 
+</div>
+<div>
+	<strong><span style="font-size:16px;line-height:2;">7）文章编号</span></strong><span style="font-size:16px;line-height:2;">：文章编号由本编辑部给定；“文章编号”四字与内容之间加冒号；“文章编号”四字用小5号黑体，内容用小5号宋体。</span> 
+</div>
+<div>
+	<strong><span style="font-size:16px;line-height:2;">8）英文题名</span></strong><span style="font-size:16px;line-height:2;">：标题首字母大写，其余小写；3号Times New Roman加粗，居中。</span> 
+</div>
+<div>
+	<strong><span style="font-size:16px;line-height:2;">9</span></strong><strong><span style="font-size:16px;line-height:2;">）作者姓名的汉语拼音</span></strong><span style="font-size:16px;line-height:2;">：中国作者姓名的汉语拼音应姓在前，名在后，中间空1格；姓氏的全部字母均大写，复姓应连写；名字的首字母大写，双名连写；姓与名均不能缩写；人名之间加逗号后空2格；小4号Times New Roman居中。</span> 
+</div>
+<div>
+	<strong><span style="font-size:16px;line-height:2;">10</span></strong><strong><span style="font-size:16px;line-height:2;">）作者单位、所在省市和邮政编码的英文</span></strong><span style="font-size:16px;line-height:2;">：小5号Times New Roman居中。</span> 
+</div>
+<div>
+	<strong><span style="font-size:16px;line-height:2;">11</span></strong><strong><span style="font-size:16px;line-height:2;">）英文摘要</span></strong><span style="font-size:16px;line-height:2;">：“Abstract”后面加冒号，用小5号Times New Roman加粗；摘要的内容用小5号Times New Roman。</span> 
+</div>
+<div>
+	<strong><span style="font-size:16px;line-height:2;">12</span></strong><strong><span style="font-size:16px;line-height:2;">）英文关键词</span></strong><span style="font-size:16px;line-height:2;">：5～8个；“Key words”两个单词之间空一个字符，与内容之间加冒号，各关键词之间用分号隔开，全部小写；“Key words”用小5号Times New Roman加粗，关键词的内容用小5号Times New Roman。</span> 
+</div>
+<div>
+	<strong><span style="font-size:16px;line-height:2;">13</span></strong><strong><span style="font-size:16px;line-height:2;">）正文</span></strong><span style="font-size:16px;line-height:2;">：5号宋体。各级标题：一级标题，“1…”，4号楷体（上下各空一行）；二级标题，“1．1…”，5号黑体（上下不空行）；三级标题，“1．1．1…”，5号宋体（上下不空行）；标题序号与内容之间空2格。各级列项说明：一级，“1）…”；二级，“① …”；正文结论的层次一律用“1），2），3）…”表示。中文图题和表题用小5号黑体，居中；英文图题和表题用小5号Times New Roman加粗，居中。</span> 
+</div>
+<div>
+	<strong><span style="font-size:16px;line-height:2;">14</span></strong><strong><span style="font-size:16px;line-height:2;">）致谢</span></strong><span style="font-size:16px;line-height:2;">：与正文之间空一行，不加“致谢”两字；5号楷体。</span> 
+</div>
+<div>
+	<strong><span style="font-size:16px;line-height:2;">15</span></strong><strong><span style="font-size:16px;line-height:2;">）参考文献</span></strong><span style="font-size:16px;line-height:2;">：文献引用的数量，学术性文章一般在40篇以上，技术性文章一般在20篇以上，为提高研究的相关性和实时性，请适当引用相关期刊的文献，如《钢铁》《连铸》《轧钢》《中国冶金》等，尽可能选用近2年的论文；“参考文献”四字加冒号，用小5号黑体左对齐排；参考文献的序号亦左对齐排，用数字加方括号表示；著录项目用6号宋体，中文文献需要中英文对照，英文用6号Times New Roman；每一参考文献条目均以“.”结束。</span> 
+</div>
+<div>
+	<strong><span style="font-size:16px;line-height:2;">16</span></strong><strong><span style="font-size:16px;line-height:2;">）基金项目和作者信息</span></strong><span style="font-size:16px;line-height:2;">：在论文首页左下方分两行注明——①此论文属于哪个基金资助项目及项目编号，各基金之间用分号隔开；②该论文第一作者或通信作者简介（包括姓名、出生年、性别、学历和职称）；③E-mail地址。</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<strong><span style="font-size:16px;line-height:2;">2</span></strong><strong><span style="font-size:16px;line-height:2;">　</span></strong><strong><span style="font-size:16px;line-height:2;">图表著录格式</span></strong> 
+</div>
+<div>
+	<strong><span style="font-size:16px;line-height:2;">来稿字数一般不少于5000。</span></strong><span style="font-size:16px;line-height:2;">英文字母应区分大、小写和正、斜体。上、下角标的字母、数码等应位置明显、正确。插图和表格应分别按其在正文中出现的先后次序统一编号。金相照片要注明标尺。表格应尽量采用三线表。图题和表题需给出中英文两种文字，但图中的注释性文字只用中文。图号和表号用阿拉伯数字分别排序。图表中的横纵坐标、栏目名称、单位符号、数据等应清楚、齐全。论文中所用量名称、单位和符号应符合国家标准。</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<strong><span style="font-size:16px;line-height:2;">3</span></strong><strong><span style="font-size:16px;line-height:2;">　</span></strong><strong><span style="font-size:16px;line-height:2;">您的论文若属于某个基金资助项目，请您务必来信说明，本刊将予以优先发表。</span></strong> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<p style="line-height:150%">
+		<strong><span style="font-size:16px;line-height:2;">4　不管录用与否，本编辑部将在收到稿件3个月内将稿件的处理结果通知作者。</span></strong><span style="font-size:16px;line-height:2;">个别稿件时间会稍长。</span> 
+	</p>
+	<p style="line-height:150%">
+		<span style="font-size:16px;line-height:2;">5　本刊与多个光盘制作机构有合作关系，凡未来信声明不同意将其论文收入光盘者均视为自投稿之日起将制作光盘的权利授予本刊编辑部。</span> 
+	</p>
+</div>
+<div>
+	<div style="text-align:center;" align="center">
+		<strong><span style="font-size:16px;line-height:2;">&nbsp;</span></strong> 
+	</div>
+</div>
+<div align="center">
+	<strong><span style="font-size:16px;line-height:2;">&nbsp;</span></strong> 
+</div>
+<div style="text-align:center;margin:12pt 0cm;" align="center">
+	<strong><span style="font-size:12pt;"><a name="undefined"></a><span style="font-size:16px;line-height:2;">第 4 部分&nbsp;参考文献著录方法</span></span></strong> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">全面、合理地引用参考文献，对提高中国科技期刊的影响因子和学术水平、提高论文的有效信息量及保护知识产权具有重要意义。作者在撰写科技论文时要注重参考文献的标引，编辑部有责任在此方面作积极引导。</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">“当引须施引，温故才知新。”科技论文中，参考文献的数量和质量是文章质量和水平的一个有机组成部分，并且参考文献要尽可能选用较新的文献，一般来说近3年内的参考文献的数量至少应该占50%～80%。</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<strong><span style="font-size:16px;line-height:2;">1</span></strong><strong><span style="font-size:16px;line-height:2;">　</span></strong><strong><span style="font-size:16px;line-height:2;">参考文献在正文中的标注方法</span></strong> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">本刊采用顺序编码制。顺序编码制是按正文中引用的文献出现的先后顺序连接编码，并将序号置于方括号中。</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">1）正文各级标题以及图题、表题上不能标注参考文献序号，只能标注在正文中首次提到该文献的位置。</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">2）同一处引用多篇文献时，只须将各篇文献的序号在方括号内全部列出，各序号间用逗号分开。如遇连续序号，可在序号之间标注半字线“-”，如：[3-4]，注意：不要用逗号。</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">示例1：裴伟</span><sup><span style="font-size:16px;line-height:2;">[70,83]</span></sup><span style="font-size:16px;line-height:2;">提出……</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">示例2：莫拉德对稳定区的节理格式的研究</span><sup><span style="font-size:16px;line-height:2;">[255-256]</span></sup><span style="font-size:16px;line-height:2;">……</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">3）多次引用同一作者的同一文献（期刊、报纸等的析出文献除外）时，参考文献表中只编一个首次引用的序号，正文中始终标注首次引用的序号，只不过在这一序号的“[ ]”外加上不同的引文页码。</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">示例：</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">主编靠编辑思想指挥全局已是编辑界的共识</span><sup><span style="font-size:16px;line-height:2;">[1]</span></sup><span style="font-size:16px;line-height:2;">，然而对编辑思想至今没有一个明确的界定，故不妨提出一个构架……参与讨论。由于“思想”的内涵是“客观存在反映在人的意识中经过思维活动而产生的结果”</span><sup><span style="font-size:16px;line-height:2;">[2]1194</span></sup><span style="font-size:16px;line-height:2;">，所以“编辑思想”的内涵就是编辑实践反映在编辑工作者的意识中，“经过思维活动而产生的结果”。……《中国青年》杂志创办人追求的高格调——理性的成熟与热点的凝聚</span><sup><span style="font-size:16px;line-height:2;">[3]</span></sup><span style="font-size:16px;line-height:2;">，表明其读者群的文化的品位的高层次……“方针”指“引导事业前进的方向和目标”</span><sup><span style="font-size:16px;line-height:2;">[2]354</span></sup><span style="font-size:16px;line-height:2;">。</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">参考文献：</span> 
+</div>
+<div style="margin:6pt 0cm 0pt 21pt;">
+	<span style="font-size:16px;line-height:2;">[1] 张忠智.科技书刊的总编（主编）的角色要求[C]//中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编.北京：中国科学技术期刊编辑学会学术委员会，1997:33.</span> 
+</div>
+<div style="margin:6pt 0cm 0pt 21pt;">
+	<span style="font-size:16px;line-height:2;">[2] 中国社会科学院语言研究所词典编辑室.现代汉语词典[M].修订本.北京：商务印书馆，1996.</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">[3] 刘彻东.中国的青年刊物：个性特色为本[J].中国出版，1998（5）：89.</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">…………</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<strong><span style="font-size:16px;line-height:2;">2</span></strong><strong><span style="font-size:16px;line-height:2;">　</span></strong><strong><span style="font-size:16px;line-height:2;">正文后参考文献表的著录方法</span></strong> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">1）文后参考文献表原则上要求用文献本身的文字著录。著录西文文献时，实词和字母多于4个（含4个）的介词，其首字母要大写，如With, About, Between等。此外，用连字符连接的复合名词，两个词的首字母均大写。</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">2）个人作者采用姓在前名在后的著录形式。欧美作者的姓所有字母大写，名可缩写，并省略缩写点；如用中译名可以只著录其姓；同姓不同名的欧美作者，其中译名不仅要著录其姓，还需要著录其名。用汉语拼音书写的中国作者姓字母全大写，名可缩写（大写）。</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">3）文后参考文献表中的卷期号、年月顺序号、页码、出版年、专利文献号等用阿拉伯数字。卷号不必用黑体。页码、专利文献号超过4位数时，不必采用三位分节法。国外专利文献号中原有的分节号“,”在著录参考文献表时删去。</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">4）期刊中析出的文献，其题名不能省略。</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">5）书刊名不加书名号，西文书刊名也不用斜体。西文刊名可参照ISO 4—1984 《</span><a name="undefined"></a><span style="font-size:16px;line-height:2;">文献工作——期刊刊名缩写的国际规则</span><span style="font-size:16px;line-height:2;">》的规定缩写，缩写点可省略。</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">6）参考文献表中的引文页码只写起始页码，不用写终止页码。</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">7）文献类型、电子文献载体类型及其标志代码要著录正确。</span> 
+</div>
+<div style="margin:6pt 0cm 0pt 21pt;">
+	<strong><span style="font-size:16px;line-height:2;">文献类型和标志代码：</span></strong> 
+</div>
+<div style="margin:6pt 0cm 0pt 42pt;">
+	<span style="font-size:16px;line-height:2;">普通图书 M，会议录 C，汇编 G，报纸 N，期刊 J，学位论文 D，报告 R ，标准 S，专利 P，数据库 DB，计算机程序 CP，电子公告 EB。</span> 
+</div>
+<div style="margin:6pt 0cm 0pt 21pt;">
+	<span style="font-size:16px;line-height:2;">电子文献载体和标志代码：</span> 
+</div>
+<div style="margin:6pt 0cm 0pt 42pt;">
+	<span style="font-size:16px;line-height:2;">磁带 MT，磁盘 DK，光盘 CD，联机网络 OL。</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<strong><span style="font-size:16px;line-height:2;">3</span></strong><strong><span style="font-size:16px;line-height:2;">　</span></strong><strong><span style="font-size:16px;line-height:2;">正文后几种主要参考文献的著录格式</span></strong> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<strong><span style="font-size:16px;line-height:2;">1</span></strong><strong><span style="font-size:16px;line-height:2;">）专著</span></strong> 
+</div>
+<div style="margin:6pt 0cm 0pt 31.5pt;">
+	<span style="font-size:16px;line-height:2;">[序号] 主要责任者.题名:其他题名信息[文献类型标志(电子文献必备,其他文献任选)].其他责任者(任选).版本项.出版地:出版者,出版年:引文页码[引用日期](联机文献必备,其他电子文献任选).获取和访问路径(联机文献必备).</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">示例：</span> 
+</div>
+<div style="margin:6pt 0cm 0pt 21pt;">
+	<span style="font-size:16px;line-height:2;">[1] 广西壮族自治区林业厅.广西自然保护区[M].北京：中国林业出版社，1993.</span> 
+</div>
+<div style="margin:6pt 0cm 0pt 21pt;">
+	<span style="font-size:16px;line-height:2;">[2] 霍斯尼.谷物学与工艺学原理[M].李龙，译.2版.北京：中国食品出版社，1989.</span> 
+</div>
+<div style="margin:6pt 0cm 0pt 21pt;">
+	<span style="font-size:16px;line-height:2;">[3] 赵耀东.新时代的工业工程师[M/OL].台北：天下文化出版社, 1998 [1998-09-26]. http://www.ie.nthu.edu.tw/info/ie.newie.htm.</span> 
+</div>
+<div style="margin:6pt 0cm 0pt 21pt;">
+	<span style="font-size:16px;line-height:2;">[4] Peebles P Z, Jr. Probability, Random Variable, and Random Signal Principles[M].4th ed. New York: McGraw Hill,2001.</span> 
+</div>
+<div style="margin:6pt 0cm 0pt 21pt;">
+	<span style="font-size:16px;line-height:2;">[5] 全国文献工作标准化技术委员会第七分委员会.GB/T 5795-1986　中国标准书号[S].北京：中国标准出版社，1986.</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<strong><span style="font-size:16px;line-height:2;">2</span></strong><strong><span style="font-size:16px;line-height:2;">）专著中的析出文献</span></strong> 
+</div>
+<div style="margin:6pt 0cm 0pt 31.5pt;">
+	<span style="font-size:16px;line-height:2;">[序号] 析出文献主要责任者.析出文献题名[文献类型标志].析出其他责任者//专著主要责任者.专著题名.出版地:出版者,出版年:析出文献的页码[引用日期].获取和访问路径.</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">示例：</span> 
+</div>
+<div style="margin:6pt 0cm 0pt 21pt;">
+	<span style="font-size:16px;line-height:2;">[1] 白书农.植物开花研究[M]//李承森.植物科学进展.北京:高等教育出版社,1998: 146.</span> 
+</div>
+<div style="margin:6pt 0cm 0pt 21pt;">
+	<span style="font-size:16px;line-height:2;">[2] 韩吉人.论职工教育的特点[G]//中国职工教育研究会.职工教育研究论文集.北京：人民教育出版社，1985: 90.</span> 
+</div>
+<div style="margin:6pt 0cm 0pt 21pt;">
+	<span style="font-size:16px;line-height:2;">[3] 赵颖力,曹敏,王琳,等.《化工学报》编辑部的人才建设[C]//第3屆中国科技期刊青年编辑学术研讨会论文集.北京：中国科学技术期刊编辑学会青年工作委员会, 2003：86.</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<strong><span style="font-size:16px;line-height:2;">3</span></strong><strong><span style="font-size:16px;line-height:2;">）连续出版物（期刊、报纸）中的析出文献</span></strong> 
+</div>
+<div style="margin:6pt 0cm 0pt 31.5pt;">
+	<span style="font-size:16px;line-height:2;">[序号]析出文献主要责任者.析出文献题名[文献类型标志码].连续出版物题名:其他题名信息,年,卷(期):页码[引用日期].获取和访问路径.</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">注意：“北京师范大学学报：自然科学版”不能写成“北京师范大学学报（自然科学版）”；“年,卷(期)”部分，如果没有卷号，应写成“年（期）”，中间没有逗号。如：1986(5)。</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">示例：</span> 
+</div>
+<div style="margin:6pt 0cm 0pt 21pt;">
+	<span style="font-size:16px;line-height:2;">[1] 张旭,张通和,易钟珍,等. 采用磁过滤MEVVA 源制类金刚石膜的研究[J].北京师范大学学报：自然科学版，2002，38(3/4)：478.</span> 
+</div>
+<div style="margin:6pt 0cm 0pt 21pt;">
+	<span style="font-size:16px;line-height:2;">[2] 傅刚,赵承,李佳路.大风沙过后的思考[N/OL].北京青年报，2000-04-12(14) [2002-03-06]. http://www.bjyouth.com.cn/Bqb/20000412/.</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<strong><span style="font-size:16px;line-height:2;">4</span></strong><strong><span style="font-size:16px;line-height:2;">）专利文献</span></strong> 
+</div>
+<div style="margin:6pt 0cm 0pt 31.5pt;">
+	<span style="font-size:16px;line-height:2;">[序号] 专利申请者或所有者.专利题名:专利国别,专利号[文献类型标志].公告日期或公开日期[引用日期].获取和访问路径.</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">示例：</span> 
+</div>
+<div style="margin:6pt 0cm 0pt 21pt;">
+	<span style="font-size:16px;line-height:2;">[1] 姜锡洲.一种温热外敷药制备方案:中国,88105607.3[P].1989-07-26.</span> 
+</div>
+<div style="margin:6pt 0cm 0pt 21pt;">
+	<span style="font-size:16px;line-height:2;">[2] 西安电子科技大学.光折变自适应光外差探测方法：中国，01128777.2[P/OL]. 2002-03-06[2002-05-28].http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?Recid=01128777.2&amp;leixin=0.</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<strong><span style="font-size:16px;line-height:2;">5</span></strong><strong><span style="font-size:16px;line-height:2;">）电子文献</span></strong> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">电子图书和电子报刊等中的析出文献的著录格式，分别按专著和连续出版物的有关规则处理。除此而外的电子文献的著录格式如下：</span> 
+</div>
+<div style="margin:6pt 0cm 0pt 31.5pt;">
+	<span style="font-size:16px;line-height:2;">[序号] 主要责任者.题名:其他题名信息[文献类型标志/文献载体标志].出版地:出版者,出版年(更新或修改日期)[引用日期].获取和访问路径.</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">示例：</span> 
+</div>
+<div style="margin:6pt 0cm 0pt 21pt;">
+	<span style="font-size:16px;line-height:2;">[1] 萧钰.出版业信息化迈入快车道[EB/OL]. (2001-12-19) [2002-04-15]. http://www.creader.com/news/200112190019.htm.</span> 
+</div>
+<div style="margin:6pt 0cm 0pt 21pt;">
+	<span style="font-size:16px;line-height:2;">[2] Online Computer Library Center, Inc. History of OCLC[EB/OL]. [2000-01-08]. http://www.oclc.org/about/history/default.htm.</span> 
+</div>
+<div style="margin:6pt 0cm 0pt 21.1pt;">
+	<strong><span style="font-size:16px;line-height:2;">6</span></strong><strong><span style="font-size:16px;line-height:2;">）未正式出版的学位论文</span></strong> 
+</div>
+<div style="margin:6pt 0cm 0pt 31.5pt;">
+	<span style="font-size:16px;line-height:2;">[序号] 主要责任者.论文题名[D].保存地：保存单位，保存年.</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">示例：</span> 
+</div>
+<div style="margin:6pt 0cm 0pt 21pt;">
+	<span style="font-size:16px;line-height:2;">[1] 刘洪敏.CVC 轧机冷轧宽带板形控制特性的模拟[D].北京：中国科学院物理研究所，2004.</span> 
+</div>
+<div style="margin:6pt 0cm 0pt 21.1pt;">
+	<strong><span style="font-size:16px;line-height:2;">7</span></strong><strong><span style="font-size:16px;line-height:2;">）未公开出版的论文集 </span></strong> 
+</div>
+<div style="margin:6pt 0cm 0pt 31.5pt;">
+	<span style="font-size:16px;line-height:2;">[序号] 析出文献主要责任者. 析出文献题名[C]//论文集名. 开会地点：开会时间.</span> 
+</div>
+<div style="margin:6pt 0cm 0pt;">
+	<span style="font-size:16px;line-height:2;">示例：</span> 
+</div>
+<div style="margin:6pt 0cm 0pt 21pt;">
+	<span style="font-size:16px;line-height:2;">[1] 王敬宜，郑珍，刘一殖. 关于计算机学科中几个量用法的建议[C] // 2004 科技编辑年会论文集. 北京：1997.</span> 
+</div>
+<div style="margin:0cm 0cm 0pt 63.25pt;">
+	<strong><span style="font-size:16px;line-height:2;">&nbsp;</span></strong> 
+</div>
+<div style="margin:0cm 0cm 0pt 63.25pt;">
+	<strong><span style="font-size:16px;line-height:2;">&nbsp;</span></strong> 
+</div>
+<div align="center" style="text-align:left;">
+	<span style="font-size:16px;line-height:2;">　　感谢您对</span><span style="font-size:16px;line-height:2;">《中国冶金》工作的理解与支持！</span> 
+</div>
+<div align="center">
+	<span style="font-size:16px;line-height:2;">&nbsp;</span> 
+</div>
+<br>
+<div class="text-right">
+发布日期：2016-10-27&nbsp;&nbsp;&nbsp;
+浏览：
+
+
+
+
+65354
+	
+	
+	 
+</div>
+</div>
+</section>
+
+
+<!--右部-->
+
+
+
+
+</div>
+</div>
+
+
+
+
+</div>
+</div>
+<!--底部-->
+
+
+
+<div class="footer">
+<div class="banquan">
+
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 db1">
+月刊，1991年创刊<br>
+ISSN 1006-9356　CN 11-3729/TF<br>
+主　　管：中国科学技术协会<br>
+主　　办：中国金属学会<br>
+　　　　　北京钢研柏苑出版有限责任公司<br>
+主　　编：王新江
+</div>
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 db2">
+		编辑出版：北京钢研柏苑出版有限责任公司<br>
+			国内发行：中国邮政集团有限公司北京市报刊发行局（邮发代号82-843）<br>
+　　　　　北京钢研柏苑出版有限责任公司<br>
+国外发行：中国国际图书贸易集团有限公司（发行代号MO8257）<br>
+			地　　址：北京市海淀区学院南路76号（100081）<br>
+电　　话：010-62181032　E-mail：CM@chinamet.cn<br>
+</div> 
+		<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 db3">
+			<div class="fengxiang">
+					<a target="_blank" href="http://www.facebook.com/sharer.php?u=https://www.chinamet.cn/gyby/zgyj"><img src="https://www.chinamet.cn/gyby/zgyj/images/1006-9356/images/facebook.png"> </a>
+					<a target="_blank" href="http://twitter.com/share?url=https://www.chinamet.cn/gyby/zgyj"><img src="https://www.chinamet.cn/gyby/zgyj/images/1006-9356/images/twitter.png"></a>
+					<a class="btn btn-primary btn-large theme-login" href="javascript:;"> <img src="https://www.chinamet.cn/gyby/zgyj/images/1006-9356/images/wechat.png"></a>
+					<a target="_blank" href="http://service.weibo.com/share/share.php?url=https://www.chinamet.cn/gyby/zgyj&amp;title=分享内容" target="_blank"><img src="https://www.chinamet.cn/gyby/zgyj/images/1006-9356/images/sina.png"></a>
+					<a target="_blank" href="http://connect.qq.com/widget/shareqq/index.html?url=https://www.chinamet.cn/gyby/zgyj&sharesource=qzone&title=你的分享标题"><img src="https://www.chinamet.cn/gyby/zgyj/images/1006-9356/images/qq.png"></a>
+
+					 <div class="theme-popover">
+						 <div class="theme-poptit">
+							  <a href="javascript:;" title="关闭" class="close">×</a>
+							  <h3>扫码分享</h3>
+						 </div>
+						 <div class="theme-popover">
+							     <div class="theme-poptit">
+							          <a href="javascript:;" title="关闭" class="close">×</a>
+							          <h3>扫码分享</h3>
+							     </div>
+							     <div class="theme-popbod dform">
+							           <div id="code"></div>
+							     </div>
+						</div>
+					</div>
+			</div>
+				
+		</div>
+		
+</div>
+<div class="db"><a href="https://beian.miit.gov.cn" target="_blank" class="baise">京ICP备10022112号</a>　版权所有 &copy; 《中国冶金》杂志社有限公司</div>	
+</div>
+
+<script>
+jQuery(document).ready(function($) {
+	$('.theme-login').click(function(){
+		$('.theme-popover-mask').fadeIn(100);
+		$('.theme-popover').slideDown(200);
+	})
+	$('.theme-poptit .close').click(function(){
+		$('.theme-popover-mask').fadeOut(100);
+		$('.theme-popover').slideUp(200);
+	})
+
+})
+</script>
+<script type="text/javascript" src="https://www.chinamet.cn/gyby/zgyj/js/jquery/jquery.qrcode.min.js"></script>
+<script>
+jQuery(function(){
+jQuery('#code').qrcode({ width: 150, height: 150, text: window.location.href });
+})
+</script>
+<!--返回顶部-->
+<div class="top_web" id="backtop" style="display:block;"> <span class="glyphicon glyphicon-menu-up" aria-hidden="true" ></span></div>
+<!--返回顶部end--> 
+
+
+</body>
+</HTML>

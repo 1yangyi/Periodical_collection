@@ -1,0 +1,51 @@
+{
+  "source": "/Users/yangyi/periodical_collection/data/期刊复核_已分类.xlsx",
+  "source_sheet": "成员A",
+  "eligible_count": 523,
+  "sample_size": 5,
+  "seed": 2637348070536573240,
+  "sampling": "Uniform sample without replacement from unique valid name/URL pairs in main sheet; classification tabs excluded to prevent duplicates.",
+  "policy": "requests and BeautifulSoup first; Browser Use Cloud only if no validated doc/docx/pdf; Playwright disabled",
+  "sample": [
+    {
+      "name": "矿物岩石地球化学通报",
+      "url": "https://www.gyig.ac.cn/tzgg_/202506/t20250606_7799141.html",
+      "sheet": "成员A",
+      "row": 220,
+      "level": "第一层",
+      "subject": "地球科学；地质"
+    },
+    {
+      "name": "InfoMat",
+      "url": "https://journal.hep.com.cn/infomat/EN/home",
+      "sheet": "成员A",
+      "row": 321,
+      "level": "第一层",
+      "subject": "工程技术与材料科学"
+    },
+    {
+      "name": "天然气工业",
+      "url": "https://www.cngascn.com/",
+      "sheet": "成员A",
+      "row": 354,
+      "level": "第二层",
+      "subject": "石油与天然气工程；石油天然气"
+    },
+    {
+      "name": "新疆地质",
+      "url": "https://www.scicloudcenter.com/XJG/",
+      "sheet": "成员A",
+      "row": 468,
+      "level": "第三层",
+      "subject": "地球科学"
+    },
+    {
+      "name": "Plant Phenomics",
+      "url": "https://www.sciopen.com/journal/2097-0374",
+      "sheet": "成员A",
+      "row": 372,
+      "level": "第二层",
+      "subject": "生物科学"
+    }
+  ]
+}

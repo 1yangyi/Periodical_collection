@@ -1,0 +1,354 @@
+{
+  "journal": {
+    "name": "世界经济文汇",
+    "url": "https://econ.fudan.edu.cn/kxyj1/xskw2/sjjjwh.htm",
+    "journal_id": "",
+    "row": 349,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://econ.fudan.edu.cn/kxyj1/xskw2/sjjjwh.htm",
+  "collected_at": "2026-11-26T21:00:01+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "econ.fudan.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://econ.fudan.edu.cn/kxyj1/xskw2/sjjjwh.htm",
+      "requested_url": "https://econ.fudan.edu.cn/kxyj1/xskw2/sjjjwh.htm",
+      "title": "世界经济文汇-复旦大学经济学院",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:00:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://econ.fudan.edu.cn/xygk1/xzzx.htm",
+      "requested_url": "https://econ.fudan.edu.cn/xygk1/xzzx.htm",
+      "title": "下载中心-复旦大学经济学院",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "visited_at": "2026-11-26T21:00:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://econ.fudan.edu.cn/xwzx/tzgg.htm",
+      "requested_url": "https://econ.fudan.edu.cn/xwzx/tzgg.htm",
+      "title": "ECON咖啡时光第4期回顾 | 稳定的力量与边界：2026年诺贝尔经...",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T21:00:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://econ.fudan.edu.cn/kxyj1/tzgg.htm",
+      "requested_url": "https://econ.fudan.edu.cn/kxyj1/tzgg.htm",
+      "title": "通知公告-复旦大学经济学院",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T21:00:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://econ.fudan.edu.cn/bkspy/tzgg1.htm",
+      "requested_url": "https://econ.fudan.edu.cn/bkspy/tzgg1.htm",
+      "title": "通知公告-复旦大学经济学院",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T21:00:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://econ.fudan.edu.cn/bkspy/zlxz.htm",
+      "requested_url": "https://econ.fudan.edu.cn/bkspy/zlxz.htm",
+      "title": "资料下载-复旦大学经济学院",
+      "path": [
+        "官网入口",
+        "资料下载"
+      ],
+      "visited_at": "2026-11-26T21:00:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://econ.fudan.edu.cn/gjhz/zlxz.htm",
+      "requested_url": "https://econ.fudan.edu.cn/gjhz/zlxz.htm",
+      "title": "资料下载-复旦大学经济学院",
+      "path": [
+        "官网入口",
+        "资料下载"
+      ],
+      "visited_at": "2026-11-26T21:00:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://econ.fudan.edu.cn/xstd1/tzgg.htm",
+      "requested_url": "https://econ.fudan.edu.cn/xstd1/tzgg.htm",
+      "title": "通知公告-复旦大学经济学院",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T21:00:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://econ.fudan.edu.cn/xstd1/zlxz.htm",
+      "requested_url": "https://econ.fudan.edu.cn/xstd1/zlxz.htm",
+      "title": "资料下载-复旦大学经济学院",
+      "path": [
+        "官网入口",
+        "资料下载"
+      ],
+      "visited_at": "2026-11-26T21:00:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://econ.fudan.edu.cn/bkspy/zyjs.htm",
+      "requested_url": "https://econ.fudan.edu.cn/bkspy/zyjs.htm",
+      "title": "专业介绍-复旦大学经济学院",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "本科生培养方案 Download >"
+      ],
+      "visited_at": "2026-11-26T21:00:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://econ.fudan.edu.cn/xwzx/tzgg/30.htm",
+      "requested_url": "https://econ.fudan.edu.cn/xwzx/tzgg/30.htm",
+      "title": "ECON咖啡时光第4期回顾 | 稳定的力量与边界：2026年诺贝尔经...",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2"
+      ],
+      "visited_at": "2026-11-26T21:00:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://econ.fudan.edu.cn/xwzx/tzgg/29.htm",
+      "requested_url": "https://econ.fudan.edu.cn/xwzx/tzgg/29.htm",
+      "title": "ECON咖啡时光第4期回顾 | 稳定的力量与边界：2026年诺贝尔经...",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "3"
+      ],
+      "visited_at": "2026-11-26T21:00:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://econ.fudan.edu.cn/xwzx/tzgg/28.htm",
+      "requested_url": "https://econ.fudan.edu.cn/xwzx/tzgg/28.htm",
+      "title": "ECON咖啡时光第4期回顾 | 稳定的力量与边界：2026年诺贝尔经...",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "4"
+      ],
+      "visited_at": "2026-11-26T21:00:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://econ.fudan.edu.cn/xwzx/tzgg/27.htm",
+      "requested_url": "https://econ.fudan.edu.cn/xwzx/tzgg/27.htm",
+      "title": "ECON咖啡时光第4期回顾 | 稳定的力量与边界：2026年诺贝尔经...",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "5"
+      ],
+      "visited_at": "2026-11-26T21:00:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://econ.fudan.edu.cn/info/1023/18731.htm",
+      "requested_url": "https://econ.fudan.edu.cn/info/1023/18731.htm",
+      "title": "全国高校社会主义经济理论与实践研讨会（2021） 第35次大会征稿启事",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "5",
+        "全国高校社会主义经济理论与实践研讨会（2021） 第35次大会征稿启事"
+      ],
+      "visited_at": "2026-11-26T21:00:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://econ.fudan.edu.cn/xwzx/tzgg/1.htm",
+      "requested_url": "https://econ.fudan.edu.cn/xwzx/tzgg/1.htm",
+      "title": "ECON咖啡时光第4期回顾 | 稳定的力量与边界：2026年诺贝尔经...",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "31"
+      ],
+      "visited_at": "2026-11-26T21:00:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://econ.fudan.edu.cn/kxyj1/tzgg/1.htm",
+      "requested_url": "https://econ.fudan.edu.cn/kxyj1/tzgg/1.htm",
+      "title": "通知公告-复旦大学经济学院",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2"
+      ],
+      "visited_at": "2026-11-26T21:00:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://econ.fudan.edu.cn/bkspy/tzgg1/4.htm",
+      "requested_url": "https://econ.fudan.edu.cn/bkspy/tzgg1/4.htm",
+      "title": "通知公告-复旦大学经济学院",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2"
+      ],
+      "visited_at": "2026-11-26T21:00:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://econ.fudan.edu.cn/bkspy/tzgg1/3.htm",
+      "requested_url": "https://econ.fudan.edu.cn/bkspy/tzgg1/3.htm",
+      "title": "通知公告-复旦大学经济学院",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "3"
+      ],
+      "visited_at": "2026-11-26T21:00:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://econ.fudan.edu.cn/bkspy/tzgg1/2.htm",
+      "requested_url": "https://econ.fudan.edu.cn/bkspy/tzgg1/2.htm",
+      "title": "通知公告-复旦大学经济学院",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "4"
+      ],
+      "visited_at": "2026-11-26T21:00:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://econ.fudan.edu.cn/bkspy/tzgg1/1.htm",
+      "requested_url": "https://econ.fudan.edu.cn/bkspy/tzgg1/1.htm",
+      "title": "通知公告-复旦大学经济学院",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "5"
+      ],
+      "visited_at": "2026-11-26T21:00:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://econ.fudan.edu.cn/bkspy/zlxz/2.htm",
+      "requested_url": "https://econ.fudan.edu.cn/bkspy/zlxz/2.htm",
+      "title": "资料下载-复旦大学经济学院",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "2"
+      ],
+      "visited_at": "2026-11-26T21:00:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://econ.fudan.edu.cn/bkspy/zlxz/1.htm",
+      "requested_url": "https://econ.fudan.edu.cn/bkspy/zlxz/1.htm",
+      "title": "资料下载-复旦大学经济学院",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "3"
+      ],
+      "visited_at": "2026-11-26T21:00:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://econ.fudan.edu.cn/xstd1/tzgg/1.htm",
+      "requested_url": "https://econ.fudan.edu.cn/xstd1/tzgg/1.htm",
+      "title": "通知公告-复旦大学经济学院",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2"
+      ],
+      "visited_at": "2026-11-26T21:00:01+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "全国高校社会主义经济理论与实践研讨会（2021） 第35次大会征稿启事",
+      "source_url": "https://econ.fudan.edu.cn/info/1023/18731.htm",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "5",
+        "全国高校社会主义经济理论与实践研讨会（2021） 第35次大会征稿启事"
+      ],
+      "local_path": "web/全国高校社会主义经济理论与实践研讨会（2021） 第35次大会征稿启事_1ae0d2b2ff.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "世界经济文汇投稿格式",
+      "local_path": "世界经济文汇投稿格式.md",
+      "source_urls": [
+        "https://econ.fudan.edu.cn/info/1023/18731.htm"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://econ.fudan.edu.cn/kxyj1/xskw2/sjjjwh.htm",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://econ.fudan.edu.cn/kxyj1/xskw2/sjjjwh.htm",
+      "title": "世界经济文汇",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "journal": {
+    "name": "Chinese Journal of Chemical Physics",
+    "url": "https://lib.ahpu.edu.cn/2024/0401/c9683a214635/page.htm",
+    "journal_id": "",
+    "row": 124,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://lib.ahpu.edu.cn/2024/0401/c9683a214635/page.htm",
+  "collected_at": "2026-11-26T20:56:30+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "lib.ahpu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://lib.ahpu.edu.cn/2024/0401/c9683a214635/page.htm",
+      "requested_url": "https://lib.ahpu.edu.cn/2024/0401/c9683a214635/page.htm",
+      "title": "Chinese Journal of Chemical Physics",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:56:30+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://lib.ahpu.edu.cn/2024/0401/c9683a214635/page.htm",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://lib.ahpu.edu.cn/2024/0401/c9683a214635/page.htm",
+      "title": "Chinese Journal of Chemical Physics",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

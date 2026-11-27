@@ -1,0 +1,2183 @@
+2026-11-26 20:39:07,167 INFO [3] 有色金属科学与工程: http
+2026-11-26 20:39:07,167 INFO [2] 新闻大学: http
+2026-11-26 20:39:07,168 INFO [1] 华中师范大学学报. 自然科学版: http
+2026-11-26 20:39:07,168 INFO [5] 中国糖尿病杂志: http
+2026-11-26 20:39:07,168 INFO [4] 振动与冲击: http
+2026-11-26 20:39:07,169 INFO [6] 史学月刊: http
+2026-11-26 20:39:07,169 INFO [7] 青海民族研究: http
+2026-11-26 20:39:07,170 INFO [8] 人口与发展: http
+2026-11-26 20:39:07,170 INFO [9] 外国文学: http
+2026-11-26 20:39:07,170 INFO [10] 科技与出版: http
+2026-11-26 20:39:11,704 INFO [3] 有色金属科学与工程: waiting_for_browser_use
+2026-11-26 20:39:11,754 INFO [3] 有色金属科学与工程: browser_use
+2026-11-26 20:39:12,195 INFO [10] 科技与出版: waiting_for_browser_use
+2026-11-26 20:39:12,196 INFO [10] 科技与出版: browser_use
+2026-11-26 20:39:12,384 INFO [6] 史学月刊: waiting_for_browser_use
+2026-11-26 20:39:12,384 INFO [6] 史学月刊: browser_use
+2026-11-26 20:39:12,417 INFO [9] 外国文学: waiting_for_browser_use
+2026-11-26 20:39:12,417 INFO [9] 外国文学: browser_use
+2026-11-26 20:39:13,723 INFO [8] 人口与发展: waiting_for_browser_use
+2026-11-26 20:39:16,406 INFO [1] 华中师范大学学报. 自然科学版: waiting_for_browser_use
+2026-11-26 20:39:17,854 INFO [4] 振动与冲击: waiting_for_browser_use
+2026-11-26 20:39:18,203 INFO [2] 新闻大学: waiting_for_browser_use
+2026-11-26 20:39:20,858 INFO [5] 中国糖尿病杂志: waiting_for_browser_use
+2026-11-26 20:39:22,480 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='qje.qhmu.edu.cn', port=443): Read timed out. (read timeout=15)")': /
+2026-11-26 20:39:35,410 INFO [8] 人口与发展: browser_use
+2026-11-26 20:39:35,412 INFO [10] 科技与出版: finished
+2026-11-26 20:39:35,412 INFO [10] 科技与出版: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:39:35,415 INFO [11] 戏曲艺术: http
+2026-11-26 20:39:37,492 INFO [7] 青海民族研究: waiting_for_browser_use
+2026-11-26 20:39:38,609 INFO [11] 戏曲艺术: waiting_for_browser_use
+2026-11-26 20:39:48,442 INFO [1] 华中师范大学学报. 自然科学版: browser_use
+2026-11-26 20:39:48,444 INFO [3] 有色金属科学与工程: finished
+2026-11-26 20:39:48,444 INFO [3] 有色金属科学与工程: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:39:48,445 INFO [12] 中央音乐学院学报: http
+2026-11-26 20:39:49,795 INFO [4] 振动与冲击: browser_use
+2026-11-26 20:39:49,797 INFO [6] 史学月刊: finished
+2026-11-26 20:39:49,797 INFO [6] 史学月刊: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:39:49,799 INFO [13] 语言教学与研究: http
+2026-11-26 20:39:51,392 INFO [2] 新闻大学: browser_use
+2026-11-26 20:39:51,393 INFO [9] 外国文学: finished
+2026-11-26 20:39:51,393 INFO [9] 外国文学: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:39:51,395 INFO [14] 德国研究: http
+2026-11-26 20:39:54,445 INFO [12] 中央音乐学院学报: waiting_for_browser_use
+2026-11-26 20:39:56,474 INFO [14] 德国研究: waiting_for_browser_use
+2026-11-26 20:40:15,267 INFO [5] 中国糖尿病杂志: browser_use
+2026-11-26 20:40:15,270 INFO [4] 振动与冲击: finished
+2026-11-26 20:40:15,270 INFO [4] 振动与冲击: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:40:15,273 INFO [15] 现代中文学刊: http
+2026-11-26 20:40:15,277 INFO [7] 青海民族研究: browser_use
+2026-11-26 20:40:15,280 INFO [1] 华中师范大学学报. 自然科学版: finished
+2026-11-26 20:40:15,280 INFO [1] 华中师范大学学报. 自然科学版: uncompleted; originals=0; cloud=True; pending=7
+2026-11-26 20:40:15,283 INFO [16] 民俗研究: http
+2026-11-26 20:40:15,799 INFO [11] 戏曲艺术: browser_use
+2026-11-26 20:40:15,800 INFO [8] 人口与发展: finished
+2026-11-26 20:40:15,800 INFO [8] 人口与发展: uncompleted; originals=0; cloud=True; pending=6
+2026-11-26 20:40:15,802 INFO [17] 求是学刊: http
+2026-11-26 20:40:20,304 INFO [13] 语言教学与研究: waiting_for_browser_use
+2026-11-26 20:40:23,685 INFO [15] 现代中文学刊: waiting_for_browser_use
+2026-11-26 20:40:23,787 INFO [16] 民俗研究: waiting_for_browser_use
+2026-11-26 20:40:26,353 INFO [17] 求是学刊: waiting_for_browser_use
+2026-11-26 20:40:26,912 INFO [12] 中央音乐学院学报: browser_use
+2026-11-26 20:40:26,913 INFO [2] 新闻大学: finished
+2026-11-26 20:40:26,913 INFO [2] 新闻大学: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:40:26,914 INFO [18] 中国青年社会科学: http
+2026-11-26 20:40:35,656 INFO [18] 中国青年社会科学: waiting_for_browser_use
+2026-11-26 20:40:40,908 INFO [14] 德国研究: browser_use
+2026-11-26 20:40:40,910 INFO [11] 戏曲艺术: finished
+2026-11-26 20:40:40,910 INFO [11] 戏曲艺术: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:40:40,914 INFO [19] 上海教育科研: http
+2026-11-26 20:40:43,307 INFO [19] 上海教育科研: waiting_for_browser_use
+2026-11-26 20:40:55,175 INFO [13] 语言教学与研究: browser_use
+2026-11-26 20:40:55,177 INFO [14] 德国研究: finished
+2026-11-26 20:40:55,177 INFO [14] 德国研究: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:40:55,181 INFO [20] 黑龙江高教研究: http
+2026-11-26 20:40:57,721 INFO [15] 现代中文学刊: browser_use
+2026-11-26 20:40:57,723 INFO [5] 中国糖尿病杂志: finished
+2026-11-26 20:40:57,723 INFO [5] 中国糖尿病杂志: completed; originals=2; cloud=True; pending=3
+2026-11-26 20:40:57,727 INFO [21] 西安外国语大学学报: http
+2026-11-26 20:40:58,872 INFO [16] 民俗研究: browser_use
+2026-11-26 20:40:58,873 INFO [12] 中央音乐学院学报: finished
+2026-11-26 20:40:58,873 INFO [12] 中央音乐学院学报: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:40:58,875 INFO [22] 燕山大学学报: http
+2026-11-26 20:41:06,749 INFO [21] 西安外国语大学学报: waiting_for_browser_use
+2026-11-26 20:41:07,047 INFO [17] 求是学刊: browser_use
+2026-11-26 20:41:07,049 INFO [7] 青海民族研究: finished
+2026-11-26 20:41:07,049 INFO [7] 青海民族研究: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:41:07,053 INFO [23] 医学与哲学: http
+2026-11-26 20:41:07,156 INFO [22] 燕山大学学报: waiting_for_browser_use
+2026-11-26 20:41:10,190 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='hljgjyj.hrbnu.edu.cn', port=80): Read timed out. (read timeout=15)")': /
+2026-11-26 20:41:10,191 INFO [23] 医学与哲学: waiting_for_browser_use
+2026-11-26 20:41:22,720 INFO [18] 中国青年社会科学: browser_use
+2026-11-26 20:41:22,722 INFO [13] 语言教学与研究: finished
+2026-11-26 20:41:22,722 INFO [13] 语言教学与研究: uncompleted; originals=0; cloud=True; pending=6
+2026-11-26 20:41:22,725 INFO [24] 河南工业大学学报.自然科学版: http
+2026-11-26 20:41:25,196 INFO [20] 黑龙江高教研究: waiting_for_browser_use
+2026-11-26 20:41:25,694 INFO [19] 上海教育科研: browser_use
+2026-11-26 20:41:25,696 INFO [16] 民俗研究: finished
+2026-11-26 20:41:25,696 INFO [16] 民俗研究: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:41:25,700 INFO [25] 现代化工: http
+2026-11-26 20:41:26,696 INFO [24] 河南工业大学学报.自然科学版: waiting_for_browser_use
+2026-11-26 20:41:27,402 INFO [21] 西安外国语大学学报: browser_use
+2026-11-26 20:41:27,406 INFO [15] 现代中文学刊: finished
+2026-11-26 20:41:27,406 INFO [15] 现代中文学刊: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:41:27,410 INFO [26] 信号处理: http
+2026-11-26 20:41:30,573 INFO [26] 信号处理: waiting_for_browser_use
+2026-11-26 20:41:34,195 INFO [22] 燕山大学学报: browser_use
+2026-11-26 20:41:34,197 INFO [17] 求是学刊: finished
+2026-11-26 20:41:34,197 INFO [17] 求是学刊: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:41:34,200 INFO [27] 畜牧兽医学报: http
+2026-11-26 20:41:34,471 INFO [25] 现代化工: waiting_for_browser_use
+2026-11-26 20:41:34,928 INFO [23] 医学与哲学: browser_use
+2026-11-26 20:41:34,930 INFO [18] 中国青年社会科学: finished
+2026-11-26 20:41:34,930 INFO [18] 中国青年社会科学: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:41:34,934 INFO [28] 岩石学报: http
+2026-11-26 20:41:36,100 INFO [28] 岩石学报: waiting_for_browser_use
+2026-11-26 20:41:36,433 INFO [27] 畜牧兽医学报: waiting_for_browser_use
+2026-11-26 20:41:53,738 INFO [20] 黑龙江高教研究: browser_use
+2026-11-26 20:41:53,739 INFO [19] 上海教育科研: finished
+2026-11-26 20:41:53,740 INFO [19] 上海教育科研: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:41:53,743 INFO [29] 药学学报: http
+2026-11-26 20:41:54,155 INFO [24] 河南工业大学学报.自然科学版: browser_use
+2026-11-26 20:41:54,159 INFO [21] 西安外国语大学学报: finished
+2026-11-26 20:41:54,159 INFO [21] 西安外国语大学学报: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:41:54,162 INFO [30] 应用气象学报: http
+2026-11-26 20:42:00,450 INFO [26] 信号处理: browser_use
+2026-11-26 20:42:00,452 INFO [22] 燕山大学学报: finished
+2026-11-26 20:42:00,452 INFO [22] 燕山大学学报: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:42:00,456 INFO [31] 渔业科学进展: http
+2026-11-26 20:42:03,260 INFO [30] 应用气象学报: waiting_for_browser_use
+2026-11-26 20:42:03,806 INFO [25] 现代化工: browser_use
+2026-11-26 20:42:03,807 INFO [23] 医学与哲学: finished
+2026-11-26 20:42:03,807 INFO [23] 医学与哲学: completed; originals=2; cloud=True; pending=1
+2026-11-26 20:42:03,809 INFO [32] 宇航总体技术: http
+2026-11-26 20:42:04,810 INFO [31] 渔业科学进展: waiting_for_browser_use
+2026-11-26 20:42:04,945 INFO [29] 药学学报: waiting_for_browser_use
+2026-11-26 20:42:07,140 INFO [32] 宇航总体技术: waiting_for_browser_use
+2026-11-26 20:42:22,502 INFO [28] 岩石学报: browser_use
+2026-11-26 20:42:22,504 INFO [24] 河南工业大学学报.自然科学版: finished
+2026-11-26 20:42:22,504 INFO [24] 河南工业大学学报.自然科学版: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:42:22,508 INFO [33] 原子能科学技术: http
+2026-11-26 20:42:34,949 INFO [33] 原子能科学技术: waiting_for_browser_use
+2026-11-26 20:42:35,615 INFO [27] 畜牧兽医学报: browser_use
+2026-11-26 20:42:35,617 INFO [26] 信号处理: finished
+2026-11-26 20:42:35,617 INFO [26] 信号处理: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:42:35,621 INFO [34] 植物科学学报: http
+2026-11-26 20:42:40,214 INFO [30] 应用气象学报: browser_use
+2026-11-26 20:42:40,216 INFO [25] 现代化工: finished
+2026-11-26 20:42:40,216 INFO [25] 现代化工: completed; originals=2; cloud=True; pending=0
+2026-11-26 20:42:40,219 INFO [35] 指挥与控制学报: http
+2026-11-26 20:42:42,965 INFO [34] 植物科学学报: waiting_for_browser_use
+2026-11-26 20:42:49,707 INFO [35] 指挥与控制学报: waiting_for_browser_use
+2026-11-26 20:43:01,622 INFO [31] 渔业科学进展: browser_use
+2026-11-26 20:43:01,624 INFO [28] 岩石学报: finished
+2026-11-26 20:43:01,624 INFO [28] 岩石学报: completed; originals=2; cloud=True; pending=1
+2026-11-26 20:43:01,629 INFO [36] 智能科学与技术学报: http
+2026-11-26 20:43:02,247 INFO [29] 药学学报: browser_use
+2026-11-26 20:43:02,250 INFO [20] 黑龙江高教研究: finished
+2026-11-26 20:43:02,250 INFO [20] 黑龙江高教研究: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:43:02,255 INFO [37] 中国地质灾害与防治学报: http
+2026-11-26 20:43:08,256 INFO [37] 中国地质灾害与防治学报: waiting_for_browser_use
+2026-11-26 20:43:10,747 INFO [32] 宇航总体技术: browser_use
+2026-11-26 20:43:10,749 INFO [27] 畜牧兽医学报: finished
+2026-11-26 20:43:10,750 INFO [27] 畜牧兽医学报: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:43:10,754 INFO [38] 中国航海: http
+2026-11-26 20:43:16,799 INFO [36] 智能科学与技术学报: waiting_for_browser_use
+2026-11-26 20:43:17,306 INFO [38] 中国航海: waiting_for_browser_use
+2026-11-26 20:43:33,583 INFO [33] 原子能科学技术: browser_use
+2026-11-26 20:43:33,585 INFO [32] 宇航总体技术: finished
+2026-11-26 20:43:33,585 INFO [32] 宇航总体技术: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:43:33,590 INFO [39] 中国科学. 化学: http
+2026-11-26 20:43:41,811 INFO [34] 植物科学学报: browser_use
+2026-11-26 20:43:41,813 INFO [30] 应用气象学报: finished
+2026-11-26 20:43:41,813 INFO [30] 应用气象学报: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:43:41,817 INFO [40] 中国农业科技导报(中英文): http
+2026-11-26 20:43:42,917 INFO [35] 指挥与控制学报: browser_use
+2026-11-26 20:43:42,918 INFO [29] 药学学报: finished
+2026-11-26 20:43:42,918 INFO [29] 药学学报: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:43:42,924 INFO [41] 中国实用内科杂志: http
+2026-11-26 20:43:47,017 INFO [40] 中国农业科技导报(中英文): waiting_for_browser_use
+2026-11-26 20:43:49,952 INFO [39] 中国科学. 化学: waiting_for_browser_use
+2026-11-26 20:43:52,194 INFO [37] 中国地质灾害与防治学报: browser_use
+2026-11-26 20:43:52,196 INFO [31] 渔业科学进展: finished
+2026-11-26 20:43:52,196 INFO [31] 渔业科学进展: uncompleted; originals=0; cloud=True; pending=6
+2026-11-26 20:43:52,198 INFO [42] 中国微创外科杂志: http
+2026-11-26 20:43:52,889 INFO [41] 中国实用内科杂志: waiting_for_browser_use
+2026-11-26 20:44:16,631 INFO [36] 智能科学与技术学报: browser_use
+2026-11-26 20:44:16,634 INFO [34] 植物科学学报: finished
+2026-11-26 20:44:16,634 INFO [34] 植物科学学报: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:44:16,639 INFO [43] 中国畜牧杂志: http
+2026-11-26 20:44:19,490 INFO [38] 中国航海: browser_use
+2026-11-26 20:44:19,492 INFO [33] 原子能科学技术: finished
+2026-11-26 20:44:19,492 INFO [33] 原子能科学技术: uncompleted; originals=0; cloud=True; pending=6
+2026-11-26 20:44:19,494 INFO [44] 中国冶金: http
+2026-11-26 20:44:21,032 INFO [43] 中国畜牧杂志: waiting_for_browser_use
+2026-11-26 20:44:26,621 INFO [44] 中国冶金: waiting_for_browser_use
+2026-11-26 20:44:27,497 INFO [40] 中国农业科技导报(中英文): browser_use
+2026-11-26 20:44:27,499 INFO [35] 指挥与控制学报: finished
+2026-11-26 20:44:27,499 INFO [35] 指挥与控制学报: completed; originals=3; cloud=True; pending=0
+2026-11-26 20:44:27,504 INFO [45] 中华妇产科杂志: http
+2026-11-26 20:44:34,825 INFO [45] 中华妇产科杂志: waiting_for_browser_use
+2026-11-26 20:44:46,069 INFO [39] 中国科学. 化学: browser_use
+2026-11-26 20:44:46,071 INFO [36] 智能科学与技术学报: finished
+2026-11-26 20:44:46,071 INFO [36] 智能科学与技术学报: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:44:46,076 INFO [46] 中华急诊医学杂志: http
+2026-11-26 20:44:52,006 INFO [41] 中国实用内科杂志: browser_use
+2026-11-26 20:44:52,008 INFO [40] 中国农业科技导报(中英文): finished
+2026-11-26 20:44:52,008 INFO [40] 中国农业科技导报(中英文): uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:44:52,013 INFO [47] 中华内科杂志: http
+2026-11-26 20:44:53,991 INFO [46] 中华急诊医学杂志: waiting_for_browser_use
+2026-11-26 20:44:57,202 INFO [47] 中华内科杂志: waiting_for_browser_use
+2026-11-26 20:44:57,710 INFO [43] 中国畜牧杂志: browser_use
+2026-11-26 20:44:57,712 INFO [38] 中国航海: finished
+2026-11-26 20:44:57,712 INFO [38] 中国航海: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:44:57,717 INFO [48] 中华危重病急救医学: http
+2026-11-26 20:45:02,416 INFO [48] 中华危重病急救医学: waiting_for_browser_use
+2026-11-26 20:45:19,516 INFO [44] 中国冶金: browser_use
+2026-11-26 20:45:19,518 INFO [37] 中国地质灾害与防治学报: finished
+2026-11-26 20:45:19,518 INFO [37] 中国地质灾害与防治学报: completed; originals=4; cloud=True; pending=4
+2026-11-26 20:45:19,522 INFO [49] 中华重症医学电子杂志: http
+2026-11-26 20:45:27,270 INFO [49] 中华重症医学电子杂志: waiting_for_browser_use
+2026-11-26 20:45:30,575 INFO [45] 中华妇产科杂志: browser_use
+2026-11-26 20:45:30,576 INFO [41] 中国实用内科杂志: finished
+2026-11-26 20:45:30,576 INFO [41] 中国实用内科杂志: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:45:30,578 INFO [50] 自然资源遥感: http
+2026-11-26 20:45:31,518 INFO [46] 中华急诊医学杂志: browser_use
+2026-11-26 20:45:31,519 INFO [39] 中国科学. 化学: finished
+2026-11-26 20:45:31,519 INFO [39] 中国科学. 化学: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:45:31,522 INFO [51] 江汉考古: http
+2026-11-26 20:45:34,065 INFO [50] 自然资源遥感: waiting_for_browser_use
+2026-11-26 20:45:34,746 INFO [47] 中华内科杂志: browser_use
+2026-11-26 20:45:34,748 INFO [43] 中国畜牧杂志: finished
+2026-11-26 20:45:34,749 INFO [43] 中国畜牧杂志: completed; originals=1; cloud=True; pending=5
+2026-11-26 20:45:34,753 INFO [52] 世界历史: http
+2026-11-26 20:45:35,269 INFO [51] 江汉考古: waiting_for_browser_use
+2026-11-26 20:45:38,696 INFO [52] 世界历史: waiting_for_browser_use
+2026-11-26 20:45:50,562 INFO [48] 中华危重病急救医学: browser_use
+2026-11-26 20:45:50,563 INFO [45] 中华妇产科杂志: finished
+2026-11-26 20:45:50,563 INFO [45] 中华妇产科杂志: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:45:50,567 INFO [53] 经济地理: http
+2026-11-26 20:45:50,782 INFO [49] 中华重症医学电子杂志: browser_use
+2026-11-26 20:45:50,784 INFO [47] 中华内科杂志: finished
+2026-11-26 20:45:50,784 INFO [47] 中华内科杂志: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:45:50,787 INFO [54] 新闻与写作: http
+2026-11-26 20:45:52,381 INFO [54] 新闻与写作: waiting_for_browser_use
+2026-11-26 20:45:58,585 INFO [53] 经济地理: waiting_for_browser_use
+2026-11-26 20:46:01,159 INFO [50] 自然资源遥感: browser_use
+2026-11-26 20:46:01,161 INFO [44] 中国冶金: finished
+2026-11-26 20:46:01,161 INFO [44] 中国冶金: completed; originals=3; cloud=True; pending=1
+2026-11-26 20:46:01,165 INFO [55] 中国语文研究: http
+2026-11-26 20:46:02,189 INFO [51] 江汉考古: browser_use
+2026-11-26 20:46:02,190 INFO [46] 中华急诊医学杂志: finished
+2026-11-26 20:46:02,191 INFO [46] 中华急诊医学杂志: uncompleted; originals=0; cloud=True; pending=4
+2026-11-26 20:46:02,196 INFO [56] 国际安全研究: http
+2026-11-26 20:46:03,575 INFO [55] 中国语文研究: waiting_for_browser_use
+2026-11-26 20:46:04,865 INFO [56] 国际安全研究: waiting_for_browser_use
+2026-11-26 20:46:10,752 INFO [52] 世界历史: browser_use
+2026-11-26 20:46:10,754 INFO [48] 中华危重病急救医学: finished
+2026-11-26 20:46:10,754 INFO [48] 中华危重病急救医学: completed; originals=1; cloud=True; pending=2
+2026-11-26 20:46:10,759 INFO [57] 日本学刊: http
+2026-11-26 20:46:13,155 INFO [57] 日本学刊: waiting_for_browser_use
+2026-11-26 20:46:30,066 INFO [54] 新闻与写作: browser_use
+2026-11-26 20:46:30,068 INFO [51] 江汉考古: finished
+2026-11-26 20:46:30,068 INFO [51] 江汉考古: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:46:30,071 INFO [58] 当代文坛: http
+2026-11-26 20:46:37,402 INFO [53] 经济地理: browser_use
+2026-11-26 20:46:37,403 INFO [52] 世界历史: finished
+2026-11-26 20:46:37,404 INFO [52] 世界历史: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:46:37,408 INFO [59] 中国现代文学研究丛刊: http
+2026-11-26 20:46:38,853 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /news/exportNewFile?id=202
+2026-11-26 20:46:43,154 WARNING Failed to parse headers (url=https://www.gtzyyg.com:443/news/exportNewFile?id=202): [NoBoundaryInMultipartDefect()], unparsed data: ''
+Traceback (most recent call last):
+  File "/Users/yangyi/Library/Python/3.9/lib/python/site-packages/urllib3/connection.py", line 574, in getresponse
+    assert_header_parsing(httplib_response.msg)
+  File "/Users/yangyi/Library/Python/3.9/lib/python/site-packages/urllib3/util/response.py", line 88, in assert_header_parsing
+    raise HeaderParsingError(defects=defects, unparsed_data=unparsed_data)
+urllib3.exceptions.HeaderParsingError: [NoBoundaryInMultipartDefect()], unparsed data: ''
+2026-11-26 20:46:49,774 INFO [58] 当代文坛: waiting_for_browser_use
+2026-11-26 20:46:50,624 WARNING Failed to parse headers (url=https://www.gtzyyg.com:443/news/exportNewFile?id=201): [NoBoundaryInMultipartDefect()], unparsed data: ''
+Traceback (most recent call last):
+  File "/Users/yangyi/Library/Python/3.9/lib/python/site-packages/urllib3/connection.py", line 574, in getresponse
+    assert_header_parsing(httplib_response.msg)
+  File "/Users/yangyi/Library/Python/3.9/lib/python/site-packages/urllib3/util/response.py", line 88, in assert_header_parsing
+    raise HeaderParsingError(defects=defects, unparsed_data=unparsed_data)
+urllib3.exceptions.HeaderParsingError: [NoBoundaryInMultipartDefect()], unparsed data: ''
+2026-11-26 20:46:52,635 INFO [55] 中国语文研究: browser_use
+2026-11-26 20:46:52,637 INFO [54] 新闻与写作: finished
+2026-11-26 20:46:52,637 INFO [54] 新闻与写作: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:46:52,642 INFO [60] 南京社会科学: http
+2026-11-26 20:46:53,186 INFO [59] 中国现代文学研究丛刊: waiting_for_browser_use
+2026-11-26 20:46:57,058 INFO [60] 南京社会科学: waiting_for_browser_use
+2026-11-26 20:46:57,204 INFO [56] 国际安全研究: browser_use
+2026-11-26 20:46:57,206 INFO [49] 中华重症医学电子杂志: finished
+2026-11-26 20:46:57,206 INFO [49] 中华重症医学电子杂志: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:46:57,212 INFO [61] 人文杂志: http
+2026-11-26 20:46:57,950 INFO [57] 日本学刊: browser_use
+2026-11-26 20:46:57,951 INFO [50] 自然资源遥感: finished
+2026-11-26 20:46:57,951 INFO [50] 自然资源遥感: completed; originals=2; cloud=True; pending=3
+2026-11-26 20:46:57,954 INFO [62] 浙江社会科学: http
+2026-11-26 20:47:05,926 INFO [61] 人文杂志: waiting_for_browser_use
+2026-11-26 20:47:09,206 INFO [62] 浙江社会科学: waiting_for_browser_use
+2026-11-26 20:47:18,818 INFO [58] 当代文坛: browser_use
+2026-11-26 20:47:18,819 INFO [53] 经济地理: finished
+2026-11-26 20:47:18,819 INFO [53] 经济地理: uncompleted; originals=0; cloud=True; pending=5
+2026-11-26 20:47:18,822 INFO [63] 北京社会科学: http
+2026-11-26 20:47:19,817 INFO [59] 中国现代文学研究丛刊: browser_use
+2026-11-26 20:47:19,818 INFO [55] 中国语文研究: finished
+2026-11-26 20:47:19,818 INFO [55] 中国语文研究: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:47:19,821 INFO [64] 世界民族: http
+2026-11-26 20:47:24,955 INFO [63] 北京社会科学: waiting_for_browser_use
+2026-11-26 20:47:26,230 INFO [60] 南京社会科学: browser_use
+2026-11-26 20:47:26,232 INFO [56] 国际安全研究: finished
+2026-11-26 20:47:26,232 INFO [56] 国际安全研究: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:47:26,238 INFO [65] 区域经济评论: http
+2026-11-26 20:47:27,067 INFO [64] 世界民族: waiting_for_browser_use
+2026-11-26 20:47:29,401 INFO [65] 区域经济评论: waiting_for_browser_use
+2026-11-26 20:47:29,401 INFO [61] 人文杂志: browser_use
+2026-11-26 20:47:29,402 INFO [57] 日本学刊: finished
+2026-11-26 20:47:29,402 INFO [57] 日本学刊: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:47:29,404 INFO [66] 管理案例研究与评论: http
+2026-11-26 20:47:33,502 INFO [66] 管理案例研究与评论: waiting_for_browser_use
+2026-11-26 20:47:44,906 INFO [62] 浙江社会科学: browser_use
+2026-11-26 20:47:44,908 INFO [58] 当代文坛: finished
+2026-11-26 20:47:44,908 INFO [58] 当代文坛: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:47:44,914 INFO [67] 中小学外语教学,中学篇: http
+2026-11-26 20:47:45,161 INFO [63] 北京社会科学: browser_use
+2026-11-26 20:47:45,163 INFO [60] 南京社会科学: finished
+2026-11-26 20:47:45,163 INFO [60] 南京社会科学: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:47:45,168 INFO [68] 中国戏剧: http
+2026-11-26 20:47:46,539 INFO [64] 世界民族: browser_use
+2026-11-26 20:47:46,540 INFO [59] 中国现代文学研究丛刊: finished
+2026-11-26 20:47:46,540 INFO [59] 中国现代文学研究丛刊: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:47:46,542 INFO [69] 中国现代神经疾病杂志: http
+2026-11-26 20:47:47,410 INFO [67] 中小学外语教学,中学篇: waiting_for_browser_use
+2026-11-26 20:47:48,005 INFO [68] 中国戏剧: waiting_for_browser_use
+2026-11-26 20:47:48,570 INFO [69] 中国现代神经疾病杂志: waiting_for_browser_use
+2026-11-26 20:48:06,206 INFO [65] 区域经济评论: browser_use
+2026-11-26 20:48:06,209 INFO [62] 浙江社会科学: finished
+2026-11-26 20:48:06,209 INFO [62] 浙江社会科学: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:48:06,215 INFO [70] 中国药房: http
+2026-11-26 20:48:09,092 INFO [66] 管理案例研究与评论: browser_use
+2026-11-26 20:48:09,094 INFO [61] 人文杂志: finished
+2026-11-26 20:48:09,094 INFO [61] 人文杂志: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:48:09,099 INFO [71] 中国森林病虫: http
+2026-11-26 20:48:11,407 INFO [71] 中国森林病虫: waiting_for_browser_use
+2026-11-26 20:48:12,200 INFO [70] 中国药房: waiting_for_browser_use
+2026-11-26 20:48:12,390 INFO [67] 中小学外语教学,中学篇: browser_use
+2026-11-26 20:48:12,391 INFO [64] 世界民族: finished
+2026-11-26 20:48:12,391 INFO [64] 世界民族: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:48:12,393 INFO [72] 金属矿山: http
+2026-11-26 20:48:14,515 INFO [72] 金属矿山: waiting_for_browser_use
+2026-11-26 20:48:43,776 INFO [68] 中国戏剧: browser_use
+2026-11-26 20:48:43,777 INFO [67] 中小学外语教学,中学篇: finished
+2026-11-26 20:48:43,777 INFO [67] 中小学外语教学,中学篇: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:48:43,780 INFO [73] 油气储运: http
+2026-11-26 20:48:44,109 INFO [69] 中国现代神经疾病杂志: browser_use
+2026-11-26 20:48:44,112 INFO [65] 区域经济评论: finished
+2026-11-26 20:48:44,112 INFO [65] 区域经济评论: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:48:44,120 INFO [74] 冶金分析: http
+2026-11-26 20:48:46,181 INFO [71] 中国森林病虫: browser_use
+2026-11-26 20:48:46,183 INFO [66] 管理案例研究与评论: finished
+2026-11-26 20:48:46,183 INFO [66] 管理案例研究与评论: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:48:46,189 INFO [75] 机械传动: http
+2026-11-26 20:48:47,356 INFO [74] 冶金分析: waiting_for_browser_use
+2026-11-26 20:48:49,479 INFO [70] 中国药房: browser_use
+2026-11-26 20:48:49,483 INFO [63] 北京社会科学: finished
+2026-11-26 20:48:49,483 INFO [63] 北京社会科学: uncompleted; originals=0; cloud=True; pending=7
+2026-11-26 20:48:49,489 INFO [76] 广东电力: http
+2026-11-26 20:48:50,126 INFO [73] 油气储运: waiting_for_browser_use
+2026-11-26 20:49:01,508 INFO [75] 机械传动: waiting_for_browser_use
+2026-11-26 20:49:13,168 INFO [72] 金属矿山: browser_use
+2026-11-26 20:49:13,169 INFO [71] 中国森林病虫: finished
+2026-11-26 20:49:13,169 INFO [71] 中国森林病虫: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:49:13,174 INFO [77] 半导体技术: http
+2026-11-26 20:49:14,746 INFO [74] 冶金分析: browser_use
+2026-11-26 20:49:14,748 INFO [69] 中国现代神经疾病杂志: finished
+2026-11-26 20:49:14,749 INFO [69] 中国现代神经疾病杂志: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:49:14,755 INFO [78] 保鲜与加工: http
+2026-11-26 20:49:15,754 INFO [76] 广东电力: waiting_for_browser_use
+2026-11-26 20:49:16,921 INFO [42] 中国微创外科杂志: waiting_for_browser_use
+2026-11-26 20:49:17,685 INFO [77] 半导体技术: waiting_for_browser_use
+2026-11-26 20:49:20,395 INFO [73] 油气储运: browser_use
+2026-11-26 20:49:20,396 INFO [68] 中国戏剧: finished
+2026-11-26 20:49:20,396 INFO [68] 中国戏剧: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:49:20,398 INFO [79] 铁道标准设计: http
+2026-11-26 20:49:23,565 INFO [78] 保鲜与加工: waiting_for_browser_use
+2026-11-26 20:49:28,859 INFO [79] 铁道标准设计: waiting_for_browser_use
+2026-11-26 20:49:41,546 INFO [75] 机械传动: browser_use
+2026-11-26 20:49:41,550 INFO [70] 中国药房: finished
+2026-11-26 20:49:41,550 INFO [70] 中国药房: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:49:41,556 INFO [80] 中华骨质疏松和骨矿盐疾病杂志: http
+2026-11-26 20:49:49,245 INFO [80] 中华骨质疏松和骨矿盐疾病杂志: waiting_for_browser_use
+2026-11-26 20:50:02,891 INFO [76] 广东电力: browser_use
+2026-11-26 20:50:02,893 INFO [73] 油气储运: finished
+2026-11-26 20:50:02,893 INFO [73] 油气储运: uncompleted; originals=0; cloud=True; pending=4
+2026-11-26 20:50:02,899 INFO [81] 中国流通经济: http
+2026-11-26 20:50:04,422 INFO [42] 中国微创外科杂志: browser_use
+2026-11-26 20:50:04,423 INFO [74] 冶金分析: finished
+2026-11-26 20:50:04,423 INFO [74] 冶金分析: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:50:04,429 INFO [82] 西安体育学院学报: http
+2026-11-26 20:50:06,943 INFO [77] 半导体技术: browser_use
+2026-11-26 20:50:06,945 INFO [72] 金属矿山: finished
+2026-11-26 20:50:06,945 INFO [72] 金属矿山: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:50:06,952 INFO [83] 港澳研究: http
+2026-11-26 20:50:07,508 INFO [81] 中国流通经济: waiting_for_browser_use
+2026-11-26 20:50:13,892 INFO [82] 西安体育学院学报: waiting_for_browser_use
+2026-11-26 20:50:15,606 INFO [78] 保鲜与加工: browser_use
+2026-11-26 20:50:15,609 INFO [75] 机械传动: finished
+2026-11-26 20:50:15,609 INFO [75] 机械传动: uncompleted; originals=0; cloud=True; pending=4
+2026-11-26 20:50:15,616 INFO [84] 东南学术: http
+2026-11-26 20:50:18,567 INFO [83] 港澳研究: waiting_for_browser_use
+2026-11-26 20:50:24,999 INFO [79] 铁道标准设计: browser_use
+2026-11-26 20:50:25,001 INFO [76] 广东电力: finished
+2026-11-26 20:50:25,001 INFO [76] 广东电力: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:50:25,010 INFO [85] 企业经济: http
+2026-11-26 20:50:28,020 INFO [84] 东南学术: waiting_for_browser_use
+2026-11-26 20:50:32,417 INFO [85] 企业经济: waiting_for_browser_use
+2026-11-26 20:50:42,821 INFO [80] 中华骨质疏松和骨矿盐疾病杂志: browser_use
+2026-11-26 20:50:42,823 INFO [78] 保鲜与加工: finished
+2026-11-26 20:50:42,823 INFO [78] 保鲜与加工: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:50:42,829 INFO [86] 外国语文: http
+2026-11-26 20:50:49,196 INFO [86] 外国语文: waiting_for_browser_use
+2026-11-26 20:50:50,956 INFO [81] 中国流通经济: browser_use
+2026-11-26 20:50:50,958 INFO [79] 铁道标准设计: finished
+2026-11-26 20:50:50,958 INFO [79] 铁道标准设计: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:50:50,965 INFO [87] 山东农业科学: http
+2026-11-26 20:50:57,238 INFO [87] 山东农业科学: waiting_for_browser_use
+2026-11-26 20:51:06,874 INFO [82] 西安体育学院学报: browser_use
+2026-11-26 20:51:06,876 INFO [80] 中华骨质疏松和骨矿盐疾病杂志: finished
+2026-11-26 20:51:06,876 INFO [80] 中华骨质疏松和骨矿盐疾病杂志: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:51:06,880 INFO [88] 现代地质: http
+2026-11-26 20:51:09,209 INFO [88] 现代地质: waiting_for_browser_use
+2026-11-26 20:51:10,670 INFO [83] 港澳研究: browser_use
+2026-11-26 20:51:10,672 INFO [81] 中国流通经济: finished
+2026-11-26 20:51:10,672 INFO [81] 中国流通经济: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:51:10,678 INFO [89] 植物保护学报: http
+2026-11-26 20:51:10,767 INFO [84] 东南学术: browser_use
+2026-11-26 20:51:10,768 INFO [77] 半导体技术: finished
+2026-11-26 20:51:10,768 INFO [77] 半导体技术: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:51:10,771 INFO [90] 中国环境科学: http
+2026-11-26 20:51:13,517 INFO [89] 植物保护学报: waiting_for_browser_use
+2026-11-26 20:51:15,271 INFO [90] 中国环境科学: waiting_for_browser_use
+2026-11-26 20:51:29,757 INFO [85] 企业经济: browser_use
+2026-11-26 20:51:29,760 INFO [82] 西安体育学院学报: finished
+2026-11-26 20:51:29,760 INFO [82] 西安体育学院学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:51:29,767 INFO [91] 中国新药杂志: http
+2026-11-26 20:51:36,687 INFO [91] 中国新药杂志: waiting_for_browser_use
+2026-11-26 20:51:39,123 INFO [86] 外国语文: browser_use
+2026-11-26 20:51:39,124 INFO [83] 港澳研究: finished
+2026-11-26 20:51:39,124 INFO [83] 港澳研究: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:51:39,130 INFO [92] 中华超声影像学杂志: http
+2026-11-26 20:51:45,428 INFO [92] 中华超声影像学杂志: waiting_for_browser_use
+2026-11-26 20:52:00,027 INFO [87] 山东农业科学: browser_use
+2026-11-26 20:52:00,028 INFO [85] 企业经济: finished
+2026-11-26 20:52:00,028 INFO [85] 企业经济: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:52:00,033 INFO [93] 中华全科医师杂志: http
+2026-11-26 20:52:08,290 INFO [88] 现代地质: browser_use
+2026-11-26 20:52:08,292 INFO [84] 东南学术: finished
+2026-11-26 20:52:08,292 INFO [84] 东南学术: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:52:08,299 INFO [94] 中华胸心血管外科杂志: http
+2026-11-26 20:52:10,173 INFO [89] 植物保护学报: browser_use
+2026-11-26 20:52:10,176 INFO [86] 外国语文: finished
+2026-11-26 20:52:10,176 INFO [86] 外国语文: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:52:10,183 INFO [95] 语言科学: http
+2026-11-26 20:52:15,494 INFO [95] 语言科学: waiting_for_browser_use
+2026-11-26 20:52:29,738 INFO [90] 中国环境科学: browser_use
+2026-11-26 20:52:29,740 INFO [87] 山东农业科学: finished
+2026-11-26 20:52:29,740 INFO [87] 山东农业科学: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:52:29,745 INFO [96] 科学技术与工程: http
+2026-11-26 20:52:34,946 INFO [91] 中国新药杂志: browser_use
+2026-11-26 20:52:34,948 INFO [88] 现代地质: finished
+2026-11-26 20:52:34,949 INFO [88] 现代地质: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:52:34,956 INFO [97] 首都医科大学学报: http
+2026-11-26 20:52:36,218 INFO [96] 科学技术与工程: waiting_for_browser_use
+2026-11-26 20:52:37,141 INFO [94] 中华胸心血管外科杂志: waiting_for_browser_use
+2026-11-26 20:52:39,092 INFO [93] 中华全科医师杂志: waiting_for_browser_use
+2026-11-26 20:52:39,470 INFO [97] 首都医科大学学报: waiting_for_browser_use
+2026-11-26 20:52:52,077 INFO [92] 中华超声影像学杂志: browser_use
+2026-11-26 20:52:52,078 INFO [89] 植物保护学报: finished
+2026-11-26 20:52:52,078 INFO [89] 植物保护学报: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:52:52,083 INFO [98] 湿法冶金: http
+2026-11-26 20:52:57,854 INFO [98] 湿法冶金: waiting_for_browser_use
+2026-11-26 20:53:01,897 INFO [95] 语言科学: browser_use
+2026-11-26 20:53:01,899 INFO [90] 中国环境科学: finished
+2026-11-26 20:53:01,899 INFO [90] 中国环境科学: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:53:01,907 INFO [99] 电讯技术: http
+2026-11-26 20:53:03,846 INFO [96] 科学技术与工程: browser_use
+2026-11-26 20:53:03,848 INFO [91] 中国新药杂志: finished
+2026-11-26 20:53:03,848 INFO [91] 中国新药杂志: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:53:03,855 INFO [100] 中国水利水电科学研究院学报(中英文): http
+2026-11-26 20:53:05,190 INFO [99] 电讯技术: waiting_for_browser_use
+2026-11-26 20:53:10,389 INFO [100] 中国水利水电科学研究院学报(中英文): waiting_for_browser_use
+2026-11-26 20:53:19,280 INFO [94] 中华胸心血管外科杂志: browser_use
+2026-11-26 20:53:19,282 INFO [92] 中华超声影像学杂志: finished
+2026-11-26 20:53:19,282 INFO [92] 中华超声影像学杂志: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:53:19,289 INFO [101] Asian Journal of Urology: http
+2026-11-26 20:53:26,486 INFO [101] Asian Journal of Urology: waiting_for_browser_use
+2026-11-26 20:53:27,324 INFO [93] 中华全科医师杂志: browser_use
+2026-11-26 20:53:27,326 INFO [95] 语言科学: finished
+2026-11-26 20:53:27,326 INFO [95] 语言科学: completed; originals=1; cloud=True; pending=0
+2026-11-26 20:53:27,333 INFO [102] Journal of Ocean Engineering and Science: http
+2026-11-26 20:53:29,505 INFO [102] Journal of Ocean Engineering and Science: waiting_for_browser_use
+2026-11-26 20:53:31,774 INFO [97] 首都医科大学学报: browser_use
+2026-11-26 20:53:31,776 INFO [96] 科学技术与工程: finished
+2026-11-26 20:53:31,776 INFO [96] 科学技术与工程: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:53:31,783 INFO [103] 肠外与肠内营养: http
+2026-11-26 20:53:33,578 INFO [103] 肠外与肠内营养: waiting_for_browser_use
+2026-11-26 20:53:46,291 INFO [98] 湿法冶金: browser_use
+2026-11-26 20:53:46,292 INFO [99] 电讯技术: browser_use
+2026-11-26 20:53:46,293 INFO [97] 首都医科大学学报: finished
+2026-11-26 20:53:46,293 INFO [97] 首都医科大学学报: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:53:46,295 INFO [94] 中华胸心血管外科杂志: finished
+2026-11-26 20:53:46,298 INFO [94] 中华胸心血管外科杂志: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:53:46,302 INFO [104] 动物营养学报: http
+2026-11-26 20:53:46,303 INFO [105] 江西农业大学学报: http
+2026-11-26 20:53:46,631 INFO [100] 中国水利水电科学研究院学报(中英文): browser_use
+2026-11-26 20:53:46,634 INFO [93] 中华全科医师杂志: finished
+2026-11-26 20:53:46,634 INFO [93] 中华全科医师杂志: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:53:46,641 INFO [106] 信息对抗技术: http
+2026-11-26 20:53:47,562 INFO [105] 江西农业大学学报: waiting_for_browser_use
+2026-11-26 20:53:48,699 WARNING Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2026-11-26 20:53:48,739 INFO [104] 动物营养学报: waiting_for_browser_use
+2026-11-26 20:53:49,003 INFO [106] 信息对抗技术: waiting_for_browser_use
+2026-11-26 20:54:07,648 INFO [101] Asian Journal of Urology: browser_use
+2026-11-26 20:54:07,650 INFO [98] 湿法冶金: finished
+2026-11-26 20:54:07,650 INFO [98] 湿法冶金: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:54:07,658 INFO [107] 中国医学计算机成像杂志: http
+2026-11-26 20:54:10,839 INFO [102] Journal of Ocean Engineering and Science: browser_use
+2026-11-26 20:54:10,840 INFO [99] 电讯技术: finished
+2026-11-26 20:54:10,840 INFO [99] 电讯技术: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:54:10,845 INFO [108] 华南农业大学学报(社会科学版): http
+2026-11-26 20:54:11,390 INFO [103] 肠外与肠内营养: browser_use
+2026-11-26 20:54:11,392 INFO [100] 中国水利水电科学研究院学报(中英文): finished
+2026-11-26 20:54:11,392 INFO [100] 中国水利水电科学研究院学报(中英文): uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:54:11,400 INFO [109] 南京大学学报(哲学·人文科学·社会科学): http
+2026-11-26 20:54:13,434 INFO [108] 华南农业大学学报(社会科学版): waiting_for_browser_use
+2026-11-26 20:54:16,467 INFO [107] 中国医学计算机成像杂志: waiting_for_browser_use
+2026-11-26 20:54:18,754 INFO [109] 南京大学学报(哲学·人文科学·社会科学): waiting_for_browser_use
+2026-11-26 20:54:27,001 INFO [105] 江西农业大学学报: browser_use
+2026-11-26 20:54:27,011 INFO [101] Asian Journal of Urology: finished
+2026-11-26 20:54:27,011 INFO [101] Asian Journal of Urology: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:54:27,020 INFO [110] 上海师范大学学报(哲学社会科学版): http
+2026-11-26 20:54:33,096 INFO [110] 上海师范大学学报(哲学社会科学版): waiting_for_browser_use
+2026-11-26 20:54:39,301 INFO [104] 动物营养学报: browser_use
+2026-11-26 20:54:39,303 INFO [103] 肠外与肠内营养: finished
+2026-11-26 20:54:39,303 INFO [103] 肠外与肠内营养: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:54:39,310 INFO [111] 国际经贸探索: http
+2026-11-26 20:54:43,102 INFO [106] 信息对抗技术: browser_use
+2026-11-26 20:54:43,103 INFO [102] Journal of Ocean Engineering and Science: finished
+2026-11-26 20:54:43,103 INFO [102] Journal of Ocean Engineering and Science: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:54:43,107 INFO [112] 日本侵华南京大屠杀研究: http
+2026-11-26 20:54:45,479 INFO [111] 国际经贸探索: waiting_for_browser_use
+2026-11-26 20:54:54,311 INFO [112] 日本侵华南京大屠杀研究: waiting_for_browser_use
+2026-11-26 20:54:58,703 INFO [108] 华南农业大学学报(社会科学版): browser_use
+2026-11-26 20:54:58,705 INFO [105] 江西农业大学学报: finished
+2026-11-26 20:54:58,705 INFO [105] 江西农业大学学报: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:54:58,713 INFO [113] 民族艺术研究: http
+2026-11-26 20:55:06,536 INFO [113] 民族艺术研究: waiting_for_browser_use
+2026-11-26 20:55:06,977 INFO [107] 中国医学计算机成像杂志: browser_use
+2026-11-26 20:55:06,979 INFO [104] 动物营养学报: finished
+2026-11-26 20:55:06,980 INFO [104] 动物营养学报: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:55:06,987 INFO [114] 装饰: http
+2026-11-26 20:55:12,301 INFO [114] 装饰: waiting_for_browser_use
+2026-11-26 20:55:21,371 INFO [109] 南京大学学报(哲学·人文科学·社会科学): browser_use
+2026-11-26 20:55:21,373 INFO [106] 信息对抗技术: finished
+2026-11-26 20:55:21,373 INFO [106] 信息对抗技术: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:55:21,380 INFO [115] 外语教学: http
+2026-11-26 20:55:23,403 INFO [115] 外语教学: waiting_for_browser_use
+2026-11-26 20:55:26,408 INFO [110] 上海师范大学学报(哲学社会科学版): browser_use
+2026-11-26 20:55:26,410 INFO [108] 华南农业大学学报(社会科学版): finished
+2026-11-26 20:55:26,411 INFO [108] 华南农业大学学报(社会科学版): uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:55:26,418 INFO [116] 公共行政评论: http
+2026-11-26 20:55:28,511 INFO [116] 公共行政评论: waiting_for_browser_use
+2026-11-26 20:55:35,110 INFO [111] 国际经贸探索: browser_use
+2026-11-26 20:55:35,112 INFO [107] 中国医学计算机成像杂志: finished
+2026-11-26 20:55:35,112 INFO [107] 中国医学计算机成像杂志: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:55:35,120 INFO [117] 南洋问题研究: http
+2026-11-26 20:55:39,723 INFO [117] 南洋问题研究: waiting_for_browser_use
+2026-11-26 20:55:40,843 INFO [112] 日本侵华南京大屠杀研究: browser_use
+2026-11-26 20:55:40,845 INFO [109] 南京大学学报(哲学·人文科学·社会科学): finished
+2026-11-26 20:55:40,845 INFO [109] 南京大学学报(哲学·人文科学·社会科学): uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:55:40,852 INFO [118] 文化遗产: http
+2026-11-26 20:55:43,680 INFO [118] 文化遗产: waiting_for_browser_use
+2026-11-26 20:55:52,812 INFO [113] 民族艺术研究: browser_use
+2026-11-26 20:55:52,814 INFO [110] 上海师范大学学报(哲学社会科学版): finished
+2026-11-26 20:55:52,814 INFO [110] 上海师范大学学报(哲学社会科学版): uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:55:52,821 INFO [119] 现代日本经济: http
+2026-11-26 20:55:57,685 INFO [114] 装饰: browser_use
+2026-11-26 20:55:57,687 INFO [111] 国际经贸探索: finished
+2026-11-26 20:55:57,688 INFO [111] 国际经贸探索: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:55:57,696 INFO [120] 华南师范大学学报.自然科学版: http
+2026-11-26 20:56:00,917 INFO [120] 华南师范大学学报.自然科学版: waiting_for_browser_use
+2026-11-26 20:56:01,230 INFO [115] 外语教学: browser_use
+2026-11-26 20:56:01,231 INFO [119] 现代日本经济: waiting_for_browser_use
+2026-11-26 20:56:01,231 INFO [112] 日本侵华南京大屠杀研究: finished
+2026-11-26 20:56:01,231 INFO [112] 日本侵华南京大屠杀研究: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:56:01,235 INFO [121] 西安石油大学学报.自然科学版: http
+2026-11-26 20:56:03,105 INFO [121] 西安石油大学学报.自然科学版: waiting_for_browser_use
+2026-11-26 20:56:17,469 INFO [116] 公共行政评论: browser_use
+2026-11-26 20:56:17,471 INFO [114] 装饰: finished
+2026-11-26 20:56:17,471 INFO [114] 装饰: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:56:17,478 INFO [122] 火灾科学: http
+2026-11-26 20:56:28,813 INFO [122] 火灾科学: waiting_for_browser_use
+2026-11-26 20:56:30,044 INFO [117] 南洋问题研究: browser_use
+2026-11-26 20:56:30,046 INFO [113] 民族艺术研究: finished
+2026-11-26 20:56:30,046 INFO [113] 民族艺术研究: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:56:30,054 INFO [123] Chinese Journal of Chemical Physics: http
+2026-11-26 20:56:32,721 INFO [118] 文化遗产: browser_use
+2026-11-26 20:56:32,724 INFO [42] 中国微创外科杂志: finished
+2026-11-26 20:56:32,724 INFO [42] 中国微创外科杂志: completed; originals=1; cloud=True; pending=16
+2026-11-26 20:56:32,730 INFO [124] Journal of Marine Science and Application: http
+2026-11-26 20:56:34,214 INFO [123] Chinese Journal of Chemical Physics: waiting_for_browser_use
+2026-11-26 20:56:37,724 INFO [120] 华南师范大学学报.自然科学版: browser_use
+2026-11-26 20:56:37,725 INFO [115] 外语教学: finished
+2026-11-26 20:56:37,726 INFO [115] 外语教学: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:56:37,733 INFO [125] 电子科技大学学报: http
+2026-11-26 20:56:41,410 INFO [119] 现代日本经济: browser_use
+2026-11-26 20:56:41,412 INFO [116] 公共行政评论: finished
+2026-11-26 20:56:41,412 INFO [116] 公共行政评论: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:56:41,421 INFO [126] 固体力学学报: http
+2026-11-26 20:56:45,255 INFO [124] Journal of Marine Science and Application: waiting_for_browser_use
+2026-11-26 20:56:47,577 INFO [126] 固体力学学报: waiting_for_browser_use
+2026-11-26 20:56:49,239 INFO [125] 电子科技大学学报: waiting_for_browser_use
+2026-11-26 20:57:05,477 INFO [121] 西安石油大学学报.自然科学版: browser_use
+2026-11-26 20:57:05,482 INFO [117] 南洋问题研究: finished
+2026-11-26 20:57:05,482 INFO [117] 南洋问题研究: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:05,490 INFO [127] 空天防御: http
+2026-11-26 20:57:08,581 INFO [122] 火灾科学: browser_use
+2026-11-26 20:57:08,584 INFO [120] 华南师范大学学报.自然科学版: finished
+2026-11-26 20:57:08,584 INFO [120] 华南师范大学学报.自然科学版: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:57:08,592 INFO [128] 深空探测学报(中英文): http
+2026-11-26 20:57:10,921 INFO [127] 空天防御: waiting_for_browser_use
+2026-11-26 20:57:11,430 INFO [123] Chinese Journal of Chemical Physics: browser_use
+2026-11-26 20:57:11,431 INFO [119] 现代日本经济: finished
+2026-11-26 20:57:11,431 INFO [119] 现代日本经济: uncompleted; originals=0; cloud=True; pending=5
+2026-11-26 20:57:11,435 INFO [129] 水利水电科技进展: http
+2026-11-26 20:57:14,267 INFO [124] Journal of Marine Science and Application: browser_use
+2026-11-26 20:57:14,269 INFO [118] 文化遗产: finished
+2026-11-26 20:57:14,269 INFO [118] 文化遗产: uncompleted; originals=0; cloud=True; pending=1
+2026-11-26 20:57:14,277 INFO [130] 武汉大学学报. 理学版: http
+2026-11-26 20:57:15,493 INFO [126] 固体力学学报: browser_use
+2026-11-26 20:57:15,495 INFO [121] 西安石油大学学报.自然科学版: finished
+2026-11-26 20:57:15,495 INFO [121] 西安石油大学学报.自然科学版: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:15,503 INFO [131] 中国科学技术大学学报: http
+2026-11-26 20:57:18,169 INFO [129] 水利水电科技进展: waiting_for_browser_use
+2026-11-26 20:57:19,909 INFO [125] 电子科技大学学报: browser_use
+2026-11-26 20:57:19,911 INFO [122] 火灾科学: finished
+2026-11-26 20:57:19,912 INFO [122] 火灾科学: uncompleted; originals=0; cloud=True; pending=7
+2026-11-26 20:57:19,920 INFO [132] 南大法学: http
+2026-11-26 20:57:19,928 INFO [127] 空天防御: browser_use
+2026-11-26 20:57:19,929 INFO [123] Chinese Journal of Chemical Physics: finished
+2026-11-26 20:57:19,930 INFO [123] Chinese Journal of Chemical Physics: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:19,935 INFO [133] 华中农业大学学报(社会科学版): http
+2026-11-26 20:57:20,061 INFO [131] 中国科学技术大学学报: waiting_for_browser_use
+2026-11-26 20:57:20,688 INFO [129] 水利水电科技进展: browser_use
+2026-11-26 20:57:20,690 INFO [124] Journal of Marine Science and Application: finished
+2026-11-26 20:57:20,690 INFO [124] Journal of Marine Science and Application: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:20,699 INFO [134] 济南大学学报(社会科学版): http
+2026-11-26 20:57:21,109 INFO [131] 中国科学技术大学学报: browser_use
+2026-11-26 20:57:21,111 INFO [126] 固体力学学报: finished
+2026-11-26 20:57:21,111 INFO [126] 固体力学学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:21,121 INFO [135] 上海交通大学学报(哲学社会科学版): http
+2026-11-26 20:57:22,891 INFO [128] 深空探测学报(中英文): waiting_for_browser_use
+2026-11-26 20:57:25,158 INFO [128] 深空探测学报(中英文): browser_use
+2026-11-26 20:57:25,162 INFO [127] 空天防御: finished
+2026-11-26 20:57:25,162 INFO [127] 空天防御: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:25,170 INFO [136] 新疆师范大学学报(哲学社会科学版): http
+2026-11-26 20:57:26,260 INFO [132] 南大法学: waiting_for_browser_use
+2026-11-26 20:57:26,633 INFO [135] 上海交通大学学报(哲学社会科学版): waiting_for_browser_use
+2026-11-26 20:57:27,485 INFO [132] 南大法学: browser_use
+2026-11-26 20:57:27,487 INFO [131] 中国科学技术大学学报: finished
+2026-11-26 20:57:27,487 INFO [131] 中国科学技术大学学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:27,495 INFO [137] 大学教育科学: http
+2026-11-26 20:57:27,696 INFO [135] 上海交通大学学报(哲学社会科学版): browser_use
+2026-11-26 20:57:27,698 INFO [128] 深空探测学报(中英文): finished
+2026-11-26 20:57:27,698 INFO [128] 深空探测学报(中英文): uncompleted; originals=0; cloud=True; pending=5
+2026-11-26 20:57:27,706 INFO [138] 国家教育行政学院学报: http
+2026-11-26 20:57:27,770 INFO [125] 电子科技大学学报: finished
+2026-11-26 20:57:27,770 INFO [125] 电子科技大学学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:27,777 INFO [139] 中国特殊教育: http
+2026-11-26 20:57:27,909 INFO [136] 新疆师范大学学报(哲学社会科学版): waiting_for_browser_use
+2026-11-26 20:57:27,910 INFO [136] 新疆师范大学学报(哲学社会科学版): browser_use
+2026-11-26 20:57:28,249 INFO [130] 武汉大学学报. 理学版: waiting_for_browser_use
+2026-11-26 20:57:28,250 INFO [129] 水利水电科技进展: finished
+2026-11-26 20:57:28,251 INFO [129] 水利水电科技进展: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:28,252 INFO [130] 武汉大学学报. 理学版: browser_use
+2026-11-26 20:57:28,260 INFO [140] 南开经济研究: http
+2026-11-26 20:57:29,940 INFO [132] 南大法学: finished
+2026-11-26 20:57:29,940 INFO [132] 南大法学: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:29,943 INFO [141] 生物学教学: http
+2026-11-26 20:57:30,030 INFO [135] 上海交通大学学报(哲学社会科学版): finished
+2026-11-26 20:57:30,030 INFO [135] 上海交通大学学报(哲学社会科学版): uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:57:30,035 INFO [142] 物理学进展: http
+2026-11-26 20:57:30,144 INFO [140] 南开经济研究: waiting_for_browser_use
+2026-11-26 20:57:30,145 INFO [140] 南开经济研究: browser_use
+2026-11-26 20:57:30,255 INFO [136] 新疆师范大学学报(哲学社会科学版): finished
+2026-11-26 20:57:30,255 INFO [136] 新疆师范大学学报(哲学社会科学版): uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:30,261 INFO [143] 价格理论与实践: http
+2026-11-26 20:57:30,576 INFO [130] 武汉大学学报. 理学版: finished
+2026-11-26 20:57:30,576 INFO [130] 武汉大学学报. 理学版: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:30,586 INFO [144] Blockchain: Research and Applications: http
+2026-11-26 20:57:31,112 INFO [137] 大学教育科学: waiting_for_browser_use
+2026-11-26 20:57:31,113 INFO [137] 大学教育科学: browser_use
+2026-11-26 20:57:31,573 INFO [141] 生物学教学: waiting_for_browser_use
+2026-11-26 20:57:31,573 INFO [141] 生物学教学: browser_use
+2026-11-26 20:57:31,574 INFO [144] Blockchain: Research and Applications: waiting_for_browser_use
+2026-11-26 20:57:31,575 INFO [144] Blockchain: Research and Applications: browser_use
+2026-11-26 20:57:32,185 INFO [142] 物理学进展: waiting_for_browser_use
+2026-11-26 20:57:32,326 INFO [139] 中国特殊教育: waiting_for_browser_use
+2026-11-26 20:57:32,635 INFO [138] 国家教育行政学院学报: waiting_for_browser_use
+2026-11-26 20:57:32,722 INFO [142] 物理学进展: browser_use
+2026-11-26 20:57:32,723 INFO [140] 南开经济研究: finished
+2026-11-26 20:57:32,723 INFO [140] 南开经济研究: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:32,728 INFO [145] Chinese Optics Letters: http
+2026-11-26 20:57:33,697 INFO [139] 中国特殊教育: browser_use
+2026-11-26 20:57:33,699 INFO [137] 大学教育科学: finished
+2026-11-26 20:57:33,699 INFO [137] 大学教育科学: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:57:33,707 INFO [146] Electromagnetic Science: http
+2026-11-26 20:57:34,686 INFO [138] 国家教育行政学院学报: browser_use
+2026-11-26 20:57:34,688 INFO [141] 生物学教学: finished
+2026-11-26 20:57:34,689 INFO [141] 生物学教学: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:34,697 INFO [147] Journal of Semiconductors: http
+2026-11-26 20:57:34,946 INFO [145] Chinese Optics Letters: waiting_for_browser_use
+2026-11-26 20:57:34,988 INFO [145] Chinese Optics Letters: browser_use
+2026-11-26 20:57:34,989 INFO [144] Blockchain: Research and Applications: finished
+2026-11-26 20:57:34,989 INFO [144] Blockchain: Research and Applications: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:57:34,992 INFO [148] Reproductive and Developmental Medicine: http
+2026-11-26 20:57:35,631 INFO [142] 物理学进展: finished
+2026-11-26 20:57:35,631 INFO [142] 物理学进展: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:35,640 INFO [149] 茶叶科学: http
+2026-11-26 20:57:36,272 INFO [143] 价格理论与实践: waiting_for_browser_use
+2026-11-26 20:57:36,302 INFO [146] Electromagnetic Science: waiting_for_browser_use
+2026-11-26 20:57:36,302 INFO [143] 价格理论与实践: browser_use
+2026-11-26 20:57:36,599 INFO [146] Electromagnetic Science: browser_use
+2026-11-26 20:57:36,603 INFO [139] 中国特殊教育: finished
+2026-11-26 20:57:36,604 INFO [139] 中国特殊教育: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:36,611 INFO [150] 果树学报: http
+2026-11-26 20:57:37,122 INFO [138] 国家教育行政学院学报: finished
+2026-11-26 20:57:37,122 INFO [138] 国家教育行政学院学报: uncompleted; originals=0; cloud=True; pending=4
+2026-11-26 20:57:37,131 INFO [151] 口腔医学研究: http
+2026-11-26 20:57:37,487 INFO [145] Chinese Optics Letters: finished
+2026-11-26 20:57:37,487 INFO [145] Chinese Optics Letters: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:57:37,494 INFO [152] 摩擦学学报(中英文): http
+2026-11-26 20:57:37,715 INFO [149] 茶叶科学: waiting_for_browser_use
+2026-11-26 20:57:37,715 INFO [149] 茶叶科学: browser_use
+2026-11-26 20:57:38,016 INFO [147] Journal of Semiconductors: waiting_for_browser_use
+2026-11-26 20:57:38,017 INFO [147] Journal of Semiconductors: browser_use
+2026-11-26 20:57:38,548 INFO [148] Reproductive and Developmental Medicine: waiting_for_browser_use
+2026-11-26 20:57:38,548 INFO [150] 果树学报: waiting_for_browser_use
+2026-11-26 20:57:38,680 INFO [148] Reproductive and Developmental Medicine: browser_use
+2026-11-26 20:57:38,681 INFO [143] 价格理论与实践: finished
+2026-11-26 20:57:38,681 INFO [143] 价格理论与实践: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:38,687 INFO [153] 食品科学: http
+2026-11-26 20:57:38,952 INFO [150] 果树学报: browser_use
+2026-11-26 20:57:38,955 INFO [146] Electromagnetic Science: finished
+2026-11-26 20:57:38,955 INFO [146] Electromagnetic Science: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:38,963 INFO [154] 物理化学学报: http
+2026-11-26 20:57:39,760 INFO [152] 摩擦学学报(中英文): waiting_for_browser_use
+2026-11-26 20:57:40,070 INFO [152] 摩擦学学报(中英文): browser_use
+2026-11-26 20:57:40,074 INFO [149] 茶叶科学: finished
+2026-11-26 20:57:40,074 INFO [149] 茶叶科学: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:40,081 INFO [155] 医用生物力学: http
+2026-11-26 20:57:40,348 INFO [147] Journal of Semiconductors: finished
+2026-11-26 20:57:40,348 INFO [147] Journal of Semiconductors: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:40,357 INFO [156] 中国农业资源与区划: http
+2026-11-26 20:57:40,810 INFO [151] 口腔医学研究: waiting_for_browser_use
+2026-11-26 20:57:40,811 INFO [151] 口腔医学研究: browser_use
+2026-11-26 20:57:41,008 INFO [148] Reproductive and Developmental Medicine: finished
+2026-11-26 20:57:41,008 INFO [148] Reproductive and Developmental Medicine: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:41,017 INFO [157] 中国土壤与肥料: http
+2026-11-26 20:57:41,358 INFO [150] 果树学报: finished
+2026-11-26 20:57:41,358 INFO [150] 果树学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:41,365 INFO [158] 中国烟草科学: http
+2026-11-26 20:57:42,248 INFO [156] 中国农业资源与区划: waiting_for_browser_use
+2026-11-26 20:57:42,248 INFO [156] 中国农业资源与区划: browser_use
+2026-11-26 20:57:42,448 INFO [152] 摩擦学学报(中英文): finished
+2026-11-26 20:57:42,448 INFO [152] 摩擦学学报(中英文): uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:42,456 INFO [159] 中国中药杂志: http
+2026-11-26 20:57:42,875 INFO [157] 中国土壤与肥料: waiting_for_browser_use
+2026-11-26 20:57:42,876 INFO [157] 中国土壤与肥料: browser_use
+2026-11-26 20:57:43,304 INFO [151] 口腔医学研究: finished
+2026-11-26 20:57:43,304 INFO [151] 口腔医学研究: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:57:43,307 INFO [160] 中华生殖与避孕杂志: http
+2026-11-26 20:57:44,390 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)'))': /SupportDepartments2.html
+2026-11-26 20:57:44,541 INFO [134] 济南大学学报(社会科学版): waiting_for_browser_use
+2026-11-26 20:57:44,542 INFO [134] 济南大学学报(社会科学版): browser_use
+2026-11-26 20:57:44,734 INFO [156] 中国农业资源与区划: finished
+2026-11-26 20:57:44,734 INFO [156] 中国农业资源与区划: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:44,741 INFO [161] 中华眼视光学与视觉科学杂志(中英文): http
+2026-11-26 20:57:44,929 INFO [158] 中国烟草科学: waiting_for_browser_use
+2026-11-26 20:57:44,930 INFO [158] 中国烟草科学: browser_use
+2026-11-26 20:57:45,673 INFO [133] 华中农业大学学报(社会科学版): waiting_for_browser_use
+2026-11-26 20:57:45,674 INFO [133] 华中农业大学学报(社会科学版): browser_use
+2026-11-26 20:57:45,718 INFO [160] 中华生殖与避孕杂志: waiting_for_browser_use
+2026-11-26 20:57:46,080 INFO [160] 中华生殖与避孕杂志: browser_use
+2026-11-26 20:57:46,081 INFO [157] 中国土壤与肥料: finished
+2026-11-26 20:57:46,081 INFO [157] 中国土壤与肥料: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:46,085 INFO [162] 国际经济合作: http
+2026-11-26 20:57:46,192 INFO [153] 食品科学: waiting_for_browser_use
+2026-11-26 20:57:46,245 INFO [155] 医用生物力学: waiting_for_browser_use
+2026-11-26 20:57:47,702 INFO [153] 食品科学: browser_use
+2026-11-26 20:57:47,704 INFO [155] 医用生物力学: browser_use
+2026-11-26 20:57:47,706 INFO [158] 中国烟草科学: finished
+2026-11-26 20:57:47,706 INFO [158] 中国烟草科学: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:47,707 INFO [134] 济南大学学报(社会科学版): finished
+2026-11-26 20:57:47,712 INFO [134] 济南大学学报(社会科学版): uncompleted; originals=0; cloud=True; pending=7
+2026-11-26 20:57:47,716 INFO [163] 经济研究: http
+2026-11-26 20:57:47,717 INFO [164] 中国工业经济: http
+2026-11-26 20:57:48,292 INFO [162] 国际经济合作: waiting_for_browser_use
+2026-11-26 20:57:48,412 INFO [162] 国际经济合作: browser_use
+2026-11-26 20:57:48,430 INFO [160] 中华生殖与避孕杂志: finished
+2026-11-26 20:57:48,430 INFO [160] 中华生殖与避孕杂志: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:57:48,435 INFO [165] 考古: http
+2026-11-26 20:57:48,586 INFO [159] 中国中药杂志: waiting_for_browser_use
+2026-11-26 20:57:49,169 INFO [159] 中国中药杂志: browser_use
+2026-11-26 20:57:49,171 INFO [133] 华中农业大学学报(社会科学版): finished
+2026-11-26 20:57:49,172 INFO [133] 华中农业大学学报(社会科学版): uncompleted; originals=0; cloud=True; pending=13
+2026-11-26 20:57:49,181 INFO [166] 安徽史学: http
+2026-11-26 20:57:49,855 INFO [163] 经济研究: waiting_for_browser_use
+2026-11-26 20:57:50,009 INFO [163] 经济研究: browser_use
+2026-11-26 20:57:50,012 INFO [153] 食品科学: finished
+2026-11-26 20:57:50,012 INFO [153] 食品科学: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:50,020 INFO [167] 历史研究: http
+2026-11-26 20:57:50,137 INFO [155] 医用生物力学: finished
+2026-11-26 20:57:50,138 INFO [155] 医用生物力学: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:50,146 INFO [168] 中国史研究: http
+2026-11-26 20:57:50,293 INFO [154] 物理化学学报: waiting_for_browser_use
+2026-11-26 20:57:50,294 INFO [154] 物理化学学报: browser_use
+2026-11-26 20:57:50,521 INFO [165] 考古: waiting_for_browser_use
+2026-11-26 20:57:50,827 INFO [165] 考古: browser_use
+2026-11-26 20:57:50,829 INFO [162] 国际经济合作: finished
+2026-11-26 20:57:50,829 INFO [162] 国际经济合作: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:50,838 INFO [169] 光明日报·理论版: http
+2026-11-26 20:57:51,456 INFO [169] 光明日报·理论版: waiting_for_browser_use
+2026-11-26 20:57:51,525 INFO [169] 光明日报·理论版: browser_use
+2026-11-26 20:57:51,527 INFO [159] 中国中药杂志: finished
+2026-11-26 20:57:51,527 INFO [159] 中国中药杂志: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:51,536 INFO [170] 科学社会主义: http
+2026-11-26 20:57:51,788 INFO [164] 中国工业经济: waiting_for_browser_use
+2026-11-26 20:57:52,208 INFO [168] 中国史研究: waiting_for_browser_use
+2026-11-26 20:57:52,389 INFO [164] 中国工业经济: browser_use
+2026-11-26 20:57:52,391 INFO [163] 经济研究: finished
+2026-11-26 20:57:52,391 INFO [163] 经济研究: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:52,402 INFO [171] 求是: http
+2026-11-26 20:57:52,703 INFO [168] 中国史研究: browser_use
+2026-11-26 20:57:52,704 INFO [154] 物理化学学报: finished
+2026-11-26 20:57:52,704 INFO [154] 物理化学学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:52,713 INFO [172] 中共党史研究: http
+2026-11-26 20:57:52,730 INFO [167] 历史研究: waiting_for_browser_use
+2026-11-26 20:57:53,229 INFO [167] 历史研究: browser_use
+2026-11-26 20:57:53,230 INFO [165] 考古: finished
+2026-11-26 20:57:53,230 INFO [165] 考古: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:53,237 INFO [173] 社会发展研究: http
+2026-11-26 20:57:54,119 INFO [169] 光明日报·理论版: finished
+2026-11-26 20:57:54,119 INFO [169] 光明日报·理论版: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:54,129 INFO [174] 外国文学评论: http
+2026-11-26 20:57:54,161 INFO [172] 中共党史研究: waiting_for_browser_use
+2026-11-26 20:57:54,162 INFO [172] 中共党史研究: browser_use
+2026-11-26 20:57:54,873 INFO [164] 中国工业经济: finished
+2026-11-26 20:57:54,873 INFO [164] 中国工业经济: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:54,883 INFO [175] 情报学报: http
+2026-11-26 20:57:55,006 INFO [171] 求是: waiting_for_browser_use
+2026-11-26 20:57:55,007 INFO [171] 求是: browser_use
+2026-11-26 20:57:55,349 INFO [168] 中国史研究: finished
+2026-11-26 20:57:55,349 INFO [168] 中国史研究: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:55,358 INFO [176] 书法研究: http
+2026-11-26 20:57:55,398 INFO [170] 科学社会主义: waiting_for_browser_use
+2026-11-26 20:57:55,399 INFO [170] 科学社会主义: browser_use
+2026-11-26 20:57:55,829 INFO [167] 历史研究: finished
+2026-11-26 20:57:55,830 INFO [167] 历史研究: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:55,839 INFO [177] 中国书法: http
+2026-11-26 20:57:56,511 INFO [161] 中华眼视光学与视觉科学杂志(中英文): waiting_for_browser_use
+2026-11-26 20:57:56,511 INFO [161] 中华眼视光学与视觉科学杂志(中英文): browser_use
+2026-11-26 20:57:56,525 INFO [173] 社会发展研究: waiting_for_browser_use
+2026-11-26 20:57:57,191 INFO [174] 外国文学评论: waiting_for_browser_use
+2026-11-26 20:57:57,344 INFO [173] 社会发展研究: browser_use
+2026-11-26 20:57:57,346 INFO [172] 中共党史研究: finished
+2026-11-26 20:57:57,346 INFO [172] 中共党史研究: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:57,355 INFO [178] 方言: http
+2026-11-26 20:57:58,102 INFO [174] 外国文学评论: browser_use
+2026-11-26 20:57:58,105 INFO [171] 求是: finished
+2026-11-26 20:57:58,105 INFO [171] 求是: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:58,115 INFO [179] 北京行政学院学报: http
+2026-11-26 20:57:58,462 INFO [177] 中国书法: waiting_for_browser_use
+2026-11-26 20:57:58,462 INFO [175] 情报学报: waiting_for_browser_use
+2026-11-26 20:57:58,521 INFO [177] 中国书法: browser_use
+2026-11-26 20:57:58,523 INFO [170] 科学社会主义: finished
+2026-11-26 20:57:58,523 INFO [170] 科学社会主义: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:57:58,530 INFO [180] 理论学刊: http
+2026-11-26 20:57:58,849 INFO [175] 情报学报: browser_use
+2026-11-26 20:57:58,851 INFO [161] 中华眼视光学与视觉科学杂志(中英文): finished
+2026-11-26 20:57:58,851 INFO [161] 中华眼视光学与视觉科学杂志(中英文): uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:58,860 INFO [181] 人权: http
+2026-11-26 20:57:59,100 INFO [176] 书法研究: waiting_for_browser_use
+2026-11-26 20:57:59,711 INFO [176] 书法研究: browser_use
+2026-11-26 20:57:59,713 INFO [173] 社会发展研究: finished
+2026-11-26 20:57:59,713 INFO [173] 社会发展研究: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:57:59,722 INFO [182] 中共中央党校(国家行政学院)学报: http
+2026-11-26 20:58:00,213 INFO [179] 北京行政学院学报: waiting_for_browser_use
+2026-11-26 20:58:00,551 INFO [179] 北京行政学院学报: browser_use
+2026-11-26 20:58:00,554 INFO [174] 外国文学评论: finished
+2026-11-26 20:58:00,554 INFO [174] 外国文学评论: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:00,563 INFO [183] 民族文学研究: http
+2026-11-26 20:58:00,683 INFO [180] 理论学刊: waiting_for_browser_use
+2026-11-26 20:58:00,684 INFO [181] 人权: waiting_for_browser_use
+2026-11-26 20:58:00,883 INFO [180] 理论学刊: browser_use
+2026-11-26 20:58:00,886 INFO [177] 中国书法: finished
+2026-11-26 20:58:00,886 INFO [177] 中国书法: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:00,896 INFO [184] 文艺理论与批评: http
+2026-11-26 20:58:01,131 INFO [178] 方言: waiting_for_browser_use
+2026-11-26 20:58:01,682 INFO [181] 人权: browser_use
+2026-11-26 20:58:01,684 INFO [175] 情报学报: finished
+2026-11-26 20:58:01,684 INFO [175] 情报学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:01,697 INFO [185] 河北学刊: http
+2026-11-26 20:58:02,108 INFO [178] 方言: browser_use
+2026-11-26 20:58:02,109 INFO [176] 书法研究: finished
+2026-11-26 20:58:02,109 INFO [176] 书法研究: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:02,120 INFO [186] 学术前沿: http
+2026-11-26 20:58:02,849 INFO [184] 文艺理论与批评: waiting_for_browser_use
+2026-11-26 20:58:02,912 INFO [184] 文艺理论与批评: browser_use
+2026-11-26 20:58:02,913 INFO [179] 北京行政学院学报: finished
+2026-11-26 20:58:02,913 INFO [179] 北京行政学院学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:02,920 INFO [187] 理论月刊: http
+2026-11-26 20:58:03,358 INFO [180] 理论学刊: finished
+2026-11-26 20:58:03,358 INFO [180] 理论学刊: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:58:03,371 INFO [188] 宏观经济管理: http
+2026-11-26 20:58:03,656 INFO [183] 民族文学研究: waiting_for_browser_use
+2026-11-26 20:58:03,657 INFO [183] 民族文学研究: browser_use
+2026-11-26 20:58:03,746 INFO [186] 学术前沿: waiting_for_browser_use
+2026-11-26 20:58:03,835 INFO [182] 中共中央党校(国家行政学院)学报: waiting_for_browser_use
+2026-11-26 20:58:04,190 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.aass.ac.cn', port=443): Read timed out. (read timeout=15)")': /html/ahsx/index.html
+2026-11-26 20:58:04,207 INFO [186] 学术前沿: browser_use
+2026-11-26 20:58:04,210 INFO [181] 人权: finished
+2026-11-26 20:58:04,210 INFO [181] 人权: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:04,219 INFO [189] 中国教育科学(中英文): http
+2026-11-26 20:58:04,447 INFO [187] 理论月刊: waiting_for_browser_use
+2026-11-26 20:58:04,831 INFO [182] 中共中央党校(国家行政学院)学报: browser_use
+2026-11-26 20:58:04,833 INFO [178] 方言: finished
+2026-11-26 20:58:04,833 INFO [178] 方言: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:04,844 INFO [190] 人民文学: http
+2026-11-26 20:58:05,441 INFO [187] 理论月刊: browser_use
+2026-11-26 20:58:05,444 INFO [184] 文艺理论与批评: finished
+2026-11-26 20:58:05,444 INFO [184] 文艺理论与批评: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:05,454 INFO [191] 江苏农业科学: http
+2026-11-26 20:58:06,223 INFO [183] 民族文学研究: finished
+2026-11-26 20:58:06,223 INFO [183] 民族文学研究: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:06,232 INFO [192] 中国稻米: http
+2026-11-26 20:58:06,494 INFO [190] 人民文学: waiting_for_browser_use
+2026-11-26 20:58:06,495 INFO [190] 人民文学: browser_use
+2026-11-26 20:58:06,745 INFO [186] 学术前沿: finished
+2026-11-26 20:58:06,745 INFO [186] 学术前沿: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:06,754 INFO [193] 中兴通讯技术: http
+2026-11-26 20:58:06,972 INFO [188] 宏观经济管理: waiting_for_browser_use
+2026-11-26 20:58:06,973 INFO [188] 宏观经济管理: browser_use
+2026-11-26 20:58:07,584 INFO [182] 中共中央党校(国家行政学院)学报: finished
+2026-11-26 20:58:07,584 INFO [182] 中共中央党校(国家行政学院)学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:07,594 INFO [194] Photonics Research: http
+2026-11-26 20:58:08,583 INFO [187] 理论月刊: finished
+2026-11-26 20:58:08,583 INFO [187] 理论月刊: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:58:08,594 INFO [195] 兵工学报: http
+2026-11-26 20:58:08,765 INFO [194] Photonics Research: waiting_for_browser_use
+2026-11-26 20:58:08,766 INFO [194] Photonics Research: browser_use
+2026-11-26 20:58:09,560 INFO [190] 人民文学: finished
+2026-11-26 20:58:09,560 INFO [190] 人民文学: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:09,566 INFO [196] 草业科学: http
+2026-11-26 20:58:09,852 INFO [188] 宏观经济管理: finished
+2026-11-26 20:58:09,852 INFO [188] 宏观经济管理: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:09,861 INFO [197] 地球与环境: http
+2026-11-26 20:58:11,151 INFO [192] 中国稻米: waiting_for_browser_use
+2026-11-26 20:58:11,213 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)'))': /bkcb/art/2021/art_89243b031870434d95480dbc4f9d694d.html
+2026-11-26 20:58:11,274 INFO [192] 中国稻米: browser_use
+2026-11-26 20:58:11,343 INFO [194] Photonics Research: finished
+2026-11-26 20:58:11,348 INFO [194] Photonics Research: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:58:11,645 INFO [198] 电力系统自动化: http
+2026-11-26 20:58:12,152 INFO [195] 兵工学报: waiting_for_browser_use
+2026-11-26 20:58:12,304 INFO [195] 兵工学报: browser_use
+2026-11-26 20:58:12,395 INFO [197] 地球与环境: waiting_for_browser_use
+2026-11-26 20:58:12,478 INFO [197] 地球与环境: browser_use
+2026-11-26 20:58:13,603 INFO [196] 草业科学: waiting_for_browser_use
+2026-11-26 20:58:13,722 INFO [196] 草业科学: browser_use
+2026-11-26 20:58:14,047 INFO [192] 中国稻米: finished
+2026-11-26 20:58:14,053 INFO [192] 中国稻米: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:58:14,309 INFO [199] 分子催化(中英文): http
+2026-11-26 20:58:15,154 INFO [195] 兵工学报: finished
+2026-11-26 20:58:15,161 INFO [195] 兵工学报: uncompleted; originals=0; cloud=True; pending=4
+2026-11-26 20:58:15,457 INFO [200] 固体火箭技术: http
+2026-11-26 20:58:15,547 INFO [198] 电力系统自动化: waiting_for_browser_use
+2026-11-26 20:58:15,648 INFO [197] 地球与环境: finished
+2026-11-26 20:58:15,654 INFO [197] 地球与环境: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:58:15,733 INFO [198] 电力系统自动化: browser_use
+2026-11-26 20:58:16,004 INFO [201] 航空制造技术: http
+2026-11-26 20:58:16,720 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.hebsky.org.cn', port=443): Read timed out. (read timeout=15)")': /skkw/hbxk/
+2026-11-26 20:58:16,758 INFO [196] 草业科学: finished
+2026-11-26 20:58:16,764 INFO [196] 草业科学: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:17,036 INFO [202] 护理学杂志: http
+2026-11-26 20:58:17,431 INFO [199] 分子催化(中英文): waiting_for_browser_use
+2026-11-26 20:58:17,521 INFO [199] 分子催化(中英文): browser_use
+2026-11-26 20:58:19,240 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.pep.com.cn', port=443): Read timed out. (read timeout=15)")': /bks/zgjykxzyw/
+2026-11-26 20:58:19,342 INFO [166] 安徽史学: waiting_for_browser_use
+2026-11-26 20:58:19,463 INFO [198] 电力系统自动化: finished
+2026-11-26 20:58:19,463 INFO [198] 电力系统自动化: uncompleted; originals=0; cloud=True; pending=4
+2026-11-26 20:58:19,534 INFO [166] 安徽史学: browser_use
+2026-11-26 20:58:19,896 INFO [203] 计算机研究与发展: http
+2026-11-26 20:58:19,970 INFO [201] 航空制造技术: waiting_for_browser_use
+2026-11-26 20:58:20,028 INFO [191] 江苏农业科学: waiting_for_browser_use
+2026-11-26 20:58:20,142 INFO [201] 航空制造技术: browser_use
+2026-11-26 20:58:20,239 INFO [191] 江苏农业科学: browser_use
+2026-11-26 20:58:20,900 INFO [202] 护理学杂志: waiting_for_browser_use
+2026-11-26 20:58:21,203 INFO [202] 护理学杂志: browser_use
+2026-11-26 20:58:21,343 INFO [199] 分子催化(中英文): finished
+2026-11-26 20:58:21,353 INFO [199] 分子催化(中英文): uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:21,597 INFO [204] 建筑结构学报: http
+2026-11-26 20:58:22,437 INFO [166] 安徽史学: finished
+2026-11-26 20:58:22,450 INFO [166] 安徽史学: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:58:22,714 INFO [205] 矿物岩石地球化学通报: http
+2026-11-26 20:58:22,956 INFO [201] 航空制造技术: finished
+2026-11-26 20:58:22,968 INFO [201] 航空制造技术: uncompleted; originals=0; cloud=True; pending=4
+2026-11-26 20:58:23,258 INFO [206] 木材科学与技术: http
+2026-11-26 20:58:23,310 INFO [191] 江苏农业科学: finished
+2026-11-26 20:58:23,316 INFO [191] 江苏农业科学: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:58:23,660 INFO [207] 山地学报: http
+2026-11-26 20:58:23,758 INFO [200] 固体火箭技术: waiting_for_browser_use
+2026-11-26 20:58:23,837 INFO [200] 固体火箭技术: browser_use
+2026-11-26 20:58:24,056 INFO [202] 护理学杂志: finished
+2026-11-26 20:58:24,056 INFO [202] 护理学杂志: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:24,276 INFO [208] 湿地科学: http
+2026-11-26 20:58:26,291 INFO [203] 计算机研究与发展: waiting_for_browser_use
+2026-11-26 20:58:26,488 INFO [203] 计算机研究与发展: browser_use
+2026-11-26 20:58:26,775 INFO [200] 固体火箭技术: finished
+2026-11-26 20:58:26,782 INFO [200] 固体火箭技术: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:27,060 INFO [209] 水土保持学报: http
+2026-11-26 20:58:29,384 INFO [206] 木材科学与技术: waiting_for_browser_use
+2026-11-26 20:58:29,507 INFO [206] 木材科学与技术: browser_use
+2026-11-26 20:58:29,578 INFO [207] 山地学报: waiting_for_browser_use
+2026-11-26 20:58:29,718 INFO [207] 山地学报: browser_use
+2026-11-26 20:58:29,826 INFO [203] 计算机研究与发展: finished
+2026-11-26 20:58:29,834 INFO [203] 计算机研究与发展: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:30,033 INFO [210] 微生物学杂志: http
+2026-11-26 20:58:31,408 INFO [208] 湿地科学: waiting_for_browser_use
+2026-11-26 20:58:31,555 INFO [208] 湿地科学: browser_use
+2026-11-26 20:58:31,959 INFO [185] 河北学刊: waiting_for_browser_use
+2026-11-26 20:58:32,184 INFO [185] 河北学刊: browser_use
+2026-11-26 20:58:32,466 INFO [206] 木材科学与技术: finished
+2026-11-26 20:58:32,471 INFO [206] 木材科学与技术: uncompleted; originals=0; cloud=True; pending=4
+2026-11-26 20:58:32,541 INFO [210] 微生物学杂志: waiting_for_browser_use
+2026-11-26 20:58:32,618 INFO [207] 山地学报: finished
+2026-11-26 20:58:32,627 INFO [207] 山地学报: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:58:32,964 INFO [211] 中国循环杂志: http
+2026-11-26 20:58:33,052 INFO [210] 微生物学杂志: browser_use
+2026-11-26 20:58:33,165 INFO [212] 经济管理: http
+2026-11-26 20:58:34,280 INFO [193] 中兴通讯技术: waiting_for_browser_use
+2026-11-26 20:58:34,328 INFO [208] 湿地科学: finished
+2026-11-26 20:58:34,328 INFO [208] 湿地科学: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:58:34,328 INFO [193] 中兴通讯技术: browser_use
+2026-11-26 20:58:34,329 INFO [189] 中国教育科学(中英文): waiting_for_browser_use
+2026-11-26 20:58:34,333 INFO [213] 科研管理: http
+2026-11-26 20:58:34,334 INFO [189] 中国教育科学(中英文): browser_use
+2026-11-26 20:58:34,710 INFO [185] 河北学刊: finished
+2026-11-26 20:58:34,710 INFO [185] 河北学刊: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:58:34,721 INFO [214] 课程·教材·教法: http
+2026-11-26 20:58:34,877 INFO [211] 中国循环杂志: waiting_for_browser_use
+2026-11-26 20:58:34,879 INFO [211] 中国循环杂志: browser_use
+2026-11-26 20:58:35,538 INFO [210] 微生物学杂志: finished
+2026-11-26 20:58:35,538 INFO [210] 微生物学杂志: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:35,544 INFO [215] 西北人口: http
+2026-11-26 20:58:36,085 INFO [205] 矿物岩石地球化学通报: waiting_for_browser_use
+2026-11-26 20:58:36,086 INFO [205] 矿物岩石地球化学通报: browser_use
+2026-11-26 20:58:36,540 INFO [204] 建筑结构学报: waiting_for_browser_use
+2026-11-26 20:58:36,557 INFO [213] 科研管理: waiting_for_browser_use
+2026-11-26 20:58:36,639 INFO [215] 西北人口: waiting_for_browser_use
+2026-11-26 20:58:36,814 INFO [204] 建筑结构学报: browser_use
+2026-11-26 20:58:36,816 INFO [189] 中国教育科学(中英文): finished
+2026-11-26 20:58:36,816 INFO [189] 中国教育科学(中英文): uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:58:36,826 INFO [216] 南京信息工程大学学报.自然科学版: http
+2026-11-26 20:58:36,848 INFO [213] 科研管理: browser_use
+2026-11-26 20:58:36,849 INFO [193] 中兴通讯技术: finished
+2026-11-26 20:58:36,849 INFO [193] 中兴通讯技术: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:36,858 INFO [217] 水动力学研究与进展. A辑: http
+2026-11-26 20:58:37,164 INFO [212] 经济管理: waiting_for_browser_use
+2026-11-26 20:58:37,428 INFO [215] 西北人口: browser_use
+2026-11-26 20:58:37,433 INFO [211] 中国循环杂志: finished
+2026-11-26 20:58:37,433 INFO [211] 中国循环杂志: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:37,445 INFO [218] 数量经济技术经济研究: http
+2026-11-26 20:58:38,404 INFO [212] 经济管理: browser_use
+2026-11-26 20:58:38,409 INFO [205] 矿物岩石地球化学通报: finished
+2026-11-26 20:58:38,409 INFO [205] 矿物岩石地球化学通报: uncompleted; originals=0; cloud=True; pending=11
+2026-11-26 20:58:38,420 INFO [219] 中央民族大学学报(哲学社会科学版): http
+2026-11-26 20:58:38,660 INFO [209] 水土保持学报: waiting_for_browser_use
+2026-11-26 20:58:38,986 INFO [216] 南京信息工程大学学报.自然科学版: waiting_for_browser_use
+2026-11-26 20:58:39,193 INFO [209] 水土保持学报: browser_use
+2026-11-26 20:58:39,195 INFO [213] 科研管理: finished
+2026-11-26 20:58:39,195 INFO [213] 科研管理: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:39,207 INFO [220] 草原与草坪: http
+2026-11-26 20:58:39,213 INFO [216] 南京信息工程大学学报.自然科学版: browser_use
+2026-11-26 20:58:39,215 INFO [204] 建筑结构学报: finished
+2026-11-26 20:58:39,215 INFO [204] 建筑结构学报: uncompleted; originals=0; cloud=True; pending=13
+2026-11-26 20:58:39,223 INFO [221] 知识产权: http
+2026-11-26 20:58:39,753 INFO [215] 西北人口: finished
+2026-11-26 20:58:39,753 INFO [215] 西北人口: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:39,764 INFO [222] 吉林大学社会科学学报: http
+2026-11-26 20:58:41,935 INFO [217] 水动力学研究与进展. A辑: waiting_for_browser_use
+2026-11-26 20:58:41,936 INFO [217] 水动力学研究与进展. A辑: browser_use
+2026-11-26 20:58:42,490 INFO [212] 经济管理: finished
+2026-11-26 20:58:42,490 INFO [212] 经济管理: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:58:42,501 INFO [223] 宏观质量研究: http
+2026-11-26 20:58:42,623 INFO [221] 知识产权: waiting_for_browser_use
+2026-11-26 20:58:42,624 INFO [221] 知识产权: browser_use
+2026-11-26 20:58:43,000 INFO [218] 数量经济技术经济研究: waiting_for_browser_use
+2026-11-26 20:58:43,112 INFO [218] 数量经济技术经济研究: browser_use
+2026-11-26 20:58:43,173 INFO [209] 水土保持学报: finished
+2026-11-26 20:58:43,173 INFO [209] 水土保持学报: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:58:43,178 INFO [224] 教育与经济: http
+2026-11-26 20:58:43,241 INFO [216] 南京信息工程大学学报.自然科学版: finished
+2026-11-26 20:58:43,241 INFO [216] 南京信息工程大学学报.自然科学版: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:43,278 INFO [225] 外语导刊: http
+2026-11-26 20:58:43,278 INFO [222] 吉林大学社会科学学报: waiting_for_browser_use
+2026-11-26 20:58:43,279 INFO [222] 吉林大学社会科学学报: browser_use
+2026-11-26 20:58:43,542 INFO [219] 中央民族大学学报(哲学社会科学版): waiting_for_browser_use
+2026-11-26 20:58:44,211 INFO [219] 中央民族大学学报(哲学社会科学版): browser_use
+2026-11-26 20:58:44,213 INFO [217] 水动力学研究与进展. A辑: finished
+2026-11-26 20:58:44,213 INFO [217] 水动力学研究与进展. A辑: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:44,224 INFO [226] 中国人民公安大学学报(社会科学版): http
+2026-11-26 20:58:44,327 INFO [218] 数量经济技术经济研究: finished
+2026-11-26 20:58:44,327 INFO [218] 数量经济技术经济研究: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:44,340 INFO [227] 上海金融: http
+2026-11-26 20:58:44,445 INFO [222] 吉林大学社会科学学报: finished
+2026-11-26 20:58:44,445 INFO [222] 吉林大学社会科学学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:44,457 INFO [228] China Geology: http
+2026-11-26 20:58:45,094 INFO [221] 知识产权: finished
+2026-11-26 20:58:45,094 INFO [221] 知识产权: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:45,107 INFO [229] Communications in Transportation Research: http
+2026-11-26 20:58:45,348 INFO [219] 中央民族大学学报(哲学社会科学版): finished
+2026-11-26 20:58:45,348 INFO [219] 中央民族大学学报(哲学社会科学版): uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:45,357 INFO [230] Digital Communications and Networks: http
+2026-11-26 20:58:47,375 INFO [228] China Geology: waiting_for_browser_use
+2026-11-26 20:58:47,375 INFO [228] China Geology: browser_use
+2026-11-26 20:58:47,925 INFO [227] 上海金融: waiting_for_browser_use
+2026-11-26 20:58:47,925 INFO [227] 上海金融: browser_use
+2026-11-26 20:58:48,522 INFO [228] China Geology: finished
+2026-11-26 20:58:48,523 INFO [228] China Geology: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:58:48,534 INFO [231] Frontiers of Mathematics in China: http
+2026-11-26 20:58:49,063 INFO [230] Digital Communications and Networks: waiting_for_browser_use
+2026-11-26 20:58:49,063 INFO [230] Digital Communications and Networks: browser_use
+2026-11-26 20:58:49,068 INFO [227] 上海金融: finished
+2026-11-26 20:58:49,068 INFO [227] 上海金融: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:49,074 INFO [232] Green Chemical Engineering: http
+2026-11-26 20:58:49,799 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.pep.com.cn', port=443): Read timed out. (read timeout=15)")': /bks/kcjcjf/
+2026-11-26 20:58:50,208 INFO [230] Digital Communications and Networks: finished
+2026-11-26 20:58:50,209 INFO [230] Digital Communications and Networks: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:58:50,214 INFO [233] International Journal of Mining Science and Technology: http
+2026-11-26 20:58:52,403 INFO [225] 外语导刊: waiting_for_browser_use
+2026-11-26 20:58:52,404 INFO [225] 外语导刊: browser_use
+2026-11-26 20:58:52,491 INFO [229] Communications in Transportation Research: waiting_for_browser_use
+2026-11-26 20:58:52,492 INFO [229] Communications in Transportation Research: browser_use
+2026-11-26 20:58:53,082 INFO [232] Green Chemical Engineering: waiting_for_browser_use
+2026-11-26 20:58:53,098 INFO [232] Green Chemical Engineering: browser_use
+2026-11-26 20:58:53,099 INFO [233] International Journal of Mining Science and Technology: waiting_for_browser_use
+2026-11-26 20:58:53,099 INFO [233] International Journal of Mining Science and Technology: browser_use
+2026-11-26 20:58:53,605 INFO [225] 外语导刊: finished
+2026-11-26 20:58:53,605 INFO [225] 外语导刊: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:58:53,611 INFO [234] Journal of Intensive Medicine: http
+2026-11-26 20:58:53,627 INFO [229] Communications in Transportation Research: finished
+2026-11-26 20:58:53,627 INFO [229] Communications in Transportation Research: uncompleted; originals=0; cloud=True; pending=5
+2026-11-26 20:58:53,633 INFO [235] PsyCh Journal: http
+2026-11-26 20:58:53,966 INFO [226] 中国人民公安大学学报(社会科学版): waiting_for_browser_use
+2026-11-26 20:58:53,967 INFO [226] 中国人民公安大学学报(社会科学版): browser_use
+2026-11-26 20:58:54,235 INFO [232] Green Chemical Engineering: finished
+2026-11-26 20:58:54,235 INFO [232] Green Chemical Engineering: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:58:54,236 INFO [233] International Journal of Mining Science and Technology: finished
+2026-11-26 20:58:54,243 INFO [233] International Journal of Mining Science and Technology: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:54,247 INFO [236] Science of Traditional Chinese Medicine: http
+2026-11-26 20:58:54,249 INFO [237] 北京大学学报. 医学版: http
+2026-11-26 20:58:54,553 INFO [231] Frontiers of Mathematics in China: waiting_for_browser_use
+2026-11-26 20:58:54,554 INFO [231] Frontiers of Mathematics in China: browser_use
+2026-11-26 20:58:55,130 INFO [226] 中国人民公安大学学报(社会科学版): finished
+2026-11-26 20:58:55,130 INFO [226] 中国人民公安大学学报(社会科学版): uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:58:55,143 INFO [238] 测绘学报: http
+2026-11-26 20:58:55,438 INFO [235] PsyCh Journal: waiting_for_browser_use
+2026-11-26 20:58:55,439 INFO [235] PsyCh Journal: browser_use
+2026-11-26 20:58:55,690 INFO [231] Frontiers of Mathematics in China: finished
+2026-11-26 20:58:55,690 INFO [231] Frontiers of Mathematics in China: uncompleted; originals=0; cloud=True; pending=6
+2026-11-26 20:58:55,698 INFO [239] 大地测量与地球动力学: http
+2026-11-26 20:58:56,672 INFO [235] PsyCh Journal: finished
+2026-11-26 20:58:56,672 INFO [235] PsyCh Journal: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:56,678 INFO [240] 地球科学: http
+2026-11-26 20:58:56,958 INFO [234] Journal of Intensive Medicine: waiting_for_browser_use
+2026-11-26 20:58:56,959 INFO [234] Journal of Intensive Medicine: browser_use
+2026-11-26 20:58:57,237 INFO [238] 测绘学报: waiting_for_browser_use
+2026-11-26 20:58:57,237 INFO [238] 测绘学报: browser_use
+2026-11-26 20:58:57,621 INFO [223] 宏观质量研究: waiting_for_browser_use
+2026-11-26 20:58:57,622 INFO [223] 宏观质量研究: browser_use
+2026-11-26 20:58:57,728 INFO [237] 北京大学学报. 医学版: waiting_for_browser_use
+2026-11-26 20:58:57,728 INFO [237] 北京大学学报. 医学版: browser_use
+2026-11-26 20:58:58,217 INFO [234] Journal of Intensive Medicine: finished
+2026-11-26 20:58:58,217 INFO [234] Journal of Intensive Medicine: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:58,228 INFO [241] 地震工程与工程振动: http
+2026-11-26 20:58:58,298 INFO [236] Science of Traditional Chinese Medicine: waiting_for_browser_use
+2026-11-26 20:58:58,299 INFO [236] Science of Traditional Chinese Medicine: browser_use
+2026-11-26 20:58:58,414 INFO [238] 测绘学报: finished
+2026-11-26 20:58:58,414 INFO [238] 测绘学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:58,425 INFO [242] 东北大学学报. 自然科学版: http
+2026-11-26 20:58:58,782 INFO [223] 宏观质量研究: finished
+2026-11-26 20:58:58,782 INFO [223] 宏观质量研究: uncompleted; originals=0; cloud=True; pending=5
+2026-11-26 20:58:58,793 INFO [243] 干旱地区农业研究: http
+2026-11-26 20:58:59,002 INFO [240] 地球科学: waiting_for_browser_use
+2026-11-26 20:58:59,003 INFO [237] 北京大学学报. 医学版: finished
+2026-11-26 20:58:59,003 INFO [237] 北京大学学报. 医学版: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:58:59,004 INFO [240] 地球科学: browser_use
+2026-11-26 20:58:59,012 INFO [244] 古地理学报: http
+2026-11-26 20:58:59,480 INFO [236] Science of Traditional Chinese Medicine: finished
+2026-11-26 20:58:59,480 INFO [236] Science of Traditional Chinese Medicine: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:58:59,481 INFO [245] 湖南大学学报. 自然科学版: http
+2026-11-26 20:58:59,669 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='jyji.cbpt.cnki.net', port=443): Read timed out. (read timeout=15)")': /portal/journal/portal/client/index
+2026-11-26 20:59:00,220 INFO [240] 地球科学: finished
+2026-11-26 20:59:00,220 INFO [240] 地球科学: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:00,231 INFO [246] 华中农业大学学报: http
+2026-11-26 20:59:00,345 INFO [242] 东北大学学报. 自然科学版: waiting_for_browser_use
+2026-11-26 20:59:00,346 INFO [242] 东北大学学报. 自然科学版: browser_use
+2026-11-26 20:59:00,706 INFO [241] 地震工程与工程振动: waiting_for_browser_use
+2026-11-26 20:59:00,707 INFO [241] 地震工程与工程振动: browser_use
+2026-11-26 20:59:01,082 INFO [244] 古地理学报: waiting_for_browser_use
+2026-11-26 20:59:01,083 INFO [244] 古地理学报: browser_use
+2026-11-26 20:59:01,392 INFO [243] 干旱地区农业研究: waiting_for_browser_use
+2026-11-26 20:59:01,392 INFO [243] 干旱地区农业研究: browser_use
+2026-11-26 20:59:01,569 INFO [242] 东北大学学报. 自然科学版: finished
+2026-11-26 20:59:01,570 INFO [242] 东北大学学报. 自然科学版: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:01,581 INFO [247] 激光技术: http
+2026-11-26 20:59:01,687 INFO [239] 大地测量与地球动力学: waiting_for_browser_use
+2026-11-26 20:59:01,687 INFO [239] 大地测量与地球动力学: browser_use
+2026-11-26 20:59:01,874 INFO [241] 地震工程与工程振动: finished
+2026-11-26 20:59:01,874 INFO [241] 地震工程与工程振动: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:01,887 INFO [248] 吉林大学学报. 工学版: http
+2026-11-26 20:59:02,242 INFO [244] 古地理学报: finished
+2026-11-26 20:59:02,242 INFO [244] 古地理学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:02,255 INFO [249] 兰州大学学报. 自然科学版: http
+2026-11-26 20:59:02,571 INFO [243] 干旱地区农业研究: finished
+2026-11-26 20:59:02,571 INFO [243] 干旱地区农业研究: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:02,584 INFO [250] 麦类作物学报: http
+2026-11-26 20:59:02,742 INFO [246] 华中农业大学学报: waiting_for_browser_use
+2026-11-26 20:59:02,743 INFO [246] 华中农业大学学报: browser_use
+2026-11-26 20:59:02,815 INFO [239] 大地测量与地球动力学: finished
+2026-11-26 20:59:02,815 INFO [239] 大地测量与地球动力学: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:02,824 INFO [251] 南京农业大学学报: http
+2026-11-26 20:59:03,148 INFO [245] 湖南大学学报. 自然科学版: waiting_for_browser_use
+2026-11-26 20:59:03,148 INFO [245] 湖南大学学报. 自然科学版: browser_use
+2026-11-26 20:59:04,546 INFO [246] 华中农业大学学报: finished
+2026-11-26 20:59:04,547 INFO [246] 华中农业大学学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:04,559 INFO [252] 燃烧科学与技术: http
+2026-11-26 20:59:04,571 INFO [247] 激光技术: waiting_for_browser_use
+2026-11-26 20:59:04,572 INFO [247] 激光技术: browser_use
+2026-11-26 20:59:04,576 INFO [245] 湖南大学学报. 自然科学版: finished
+2026-11-26 20:59:04,576 INFO [245] 湖南大学学报. 自然科学版: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:04,584 INFO [253] 水生生物学报: http
+2026-11-26 20:59:04,674 INFO [248] 吉林大学学报. 工学版: waiting_for_browser_use
+2026-11-26 20:59:04,674 INFO [248] 吉林大学学报. 工学版: browser_use
+2026-11-26 20:59:04,810 INFO [214] 课程·教材·教法: waiting_for_browser_use
+2026-11-26 20:59:04,812 INFO [214] 课程·教材·教法: browser_use
+2026-11-26 20:59:04,926 INFO [220] 草原与草坪: waiting_for_browser_use
+2026-11-26 20:59:04,926 INFO [220] 草原与草坪: browser_use
+2026-11-26 20:59:05,149 INFO [250] 麦类作物学报: waiting_for_browser_use
+2026-11-26 20:59:05,493 INFO [249] 兰州大学学报. 自然科学版: waiting_for_browser_use
+2026-11-26 20:59:05,493 INFO [224] 教育与经济: waiting_for_browser_use
+2026-11-26 20:59:05,746 INFO [250] 麦类作物学报: browser_use
+2026-11-26 20:59:05,748 INFO [247] 激光技术: finished
+2026-11-26 20:59:05,748 INFO [247] 激光技术: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:05,761 INFO [254] 西北农林科技大学学报. 自然科学版: http
+2026-11-26 20:59:05,800 INFO [249] 兰州大学学报. 自然科学版: browser_use
+2026-11-26 20:59:05,801 INFO [248] 吉林大学学报. 工学版: finished
+2026-11-26 20:59:05,802 INFO [248] 吉林大学学报. 工学版: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:05,812 INFO [255] 小型微型计算机系统: http
+2026-11-26 20:59:05,962 INFO [251] 南京农业大学学报: waiting_for_browser_use
+2026-11-26 20:59:06,000 INFO [224] 教育与经济: browser_use
+2026-11-26 20:59:06,001 INFO [214] 课程·教材·教法: finished
+2026-11-26 20:59:06,001 INFO [214] 课程·教材·教法: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:59:06,007 INFO [256] 中国表面工程: http
+2026-11-26 20:59:06,073 INFO [251] 南京农业大学学报: browser_use
+2026-11-26 20:59:06,074 INFO [220] 草原与草坪: finished
+2026-11-26 20:59:06,074 INFO [220] 草原与草坪: uncompleted; originals=0; cloud=True; pending=5
+2026-11-26 20:59:06,082 INFO [257] 中国妇产科临床杂志: http
+2026-11-26 20:59:06,564 INFO [252] 燃烧科学与技术: waiting_for_browser_use
+2026-11-26 20:59:06,595 INFO [253] 水生生物学报: waiting_for_browser_use
+2026-11-26 20:59:06,901 INFO [252] 燃烧科学与技术: browser_use
+2026-11-26 20:59:06,903 INFO [250] 麦类作物学报: finished
+2026-11-26 20:59:06,903 INFO [250] 麦类作物学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:06,915 INFO [258] 中国科学院大学学报(中英文): http
+2026-11-26 20:59:07,077 INFO [253] 水生生物学报: browser_use
+2026-11-26 20:59:07,079 INFO [249] 兰州大学学报. 自然科学版: finished
+2026-11-26 20:59:07,079 INFO [249] 兰州大学学报. 自然科学版: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:07,091 INFO [259] 中国临床医学影像杂志: http
+2026-11-26 20:59:07,134 INFO [224] 教育与经济: finished
+2026-11-26 20:59:07,134 INFO [224] 教育与经济: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:07,145 INFO [260] 中国兽医学报: http
+2026-11-26 20:59:07,262 INFO [251] 南京农业大学学报: finished
+2026-11-26 20:59:07,263 INFO [251] 南京农业大学学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:07,275 INFO [261] 中国医学物理学杂志: http
+2026-11-26 20:59:08,298 INFO [255] 小型微型计算机系统: waiting_for_browser_use
+2026-11-26 20:59:08,298 INFO [255] 小型微型计算机系统: browser_use
+2026-11-26 20:59:08,330 INFO [252] 燃烧科学与技术: finished
+2026-11-26 20:59:08,331 INFO [252] 燃烧科学与技术: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:08,339 INFO [262] 自然灾害学报: http
+2026-11-26 20:59:08,418 INFO [253] 水生生物学报: finished
+2026-11-26 20:59:08,418 INFO [253] 水生生物学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:08,427 INFO [263] 贵州师范大学学报.自然科学版: http
+2026-11-26 20:59:08,539 INFO [254] 西北农林科技大学学报. 自然科学版: waiting_for_browser_use
+2026-11-26 20:59:08,539 INFO [254] 西北农林科技大学学报. 自然科学版: browser_use
+2026-11-26 20:59:09,198 INFO [257] 中国妇产科临床杂志: waiting_for_browser_use
+2026-11-26 20:59:09,198 INFO [258] 中国科学院大学学报(中英文): waiting_for_browser_use
+2026-11-26 20:59:09,199 INFO [257] 中国妇产科临床杂志: browser_use
+2026-11-26 20:59:09,199 INFO [258] 中国科学院大学学报(中英文): browser_use
+2026-11-26 20:59:09,400 INFO [261] 中国医学物理学杂志: waiting_for_browser_use
+2026-11-26 20:59:09,596 INFO [261] 中国医学物理学杂志: browser_use
+2026-11-26 20:59:09,598 INFO [255] 小型微型计算机系统: finished
+2026-11-26 20:59:09,598 INFO [255] 小型微型计算机系统: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:09,604 INFO [264] 山东科技大学学报,自然科学版: http
+2026-11-26 20:59:09,663 INFO [260] 中国兽医学报: waiting_for_browser_use
+2026-11-26 20:59:09,701 INFO [260] 中国兽医学报: browser_use
+2026-11-26 20:59:09,702 INFO [254] 西北农林科技大学学报. 自然科学版: finished
+2026-11-26 20:59:09,702 INFO [254] 西北农林科技大学学报. 自然科学版: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:09,707 INFO [265] 河南师范大学学报.自然科学版: http
+2026-11-26 20:59:09,727 INFO [259] 中国临床医学影像杂志: waiting_for_browser_use
+2026-11-26 20:59:10,316 INFO [259] 中国临床医学影像杂志: browser_use
+2026-11-26 20:59:10,318 INFO [258] 中国科学院大学学报(中英文): finished
+2026-11-26 20:59:10,318 INFO [258] 中国科学院大学学报(中英文): uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:10,326 INFO [266] 河北科技大学学报: http
+2026-11-26 20:59:10,420 INFO [257] 中国妇产科临床杂志: finished
+2026-11-26 20:59:10,420 INFO [257] 中国妇产科临床杂志: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:10,430 INFO [267] 内蒙古农业大学学报.自然科学版: http
+2026-11-26 20:59:10,461 INFO [263] 贵州师范大学学报.自然科学版: waiting_for_browser_use
+2026-11-26 20:59:10,462 INFO [263] 贵州师范大学学报.自然科学版: browser_use
+2026-11-26 20:59:10,657 INFO [262] 自然灾害学报: waiting_for_browser_use
+2026-11-26 20:59:10,724 INFO [262] 自然灾害学报: browser_use
+2026-11-26 20:59:10,725 INFO [261] 中国医学物理学杂志: finished
+2026-11-26 20:59:10,725 INFO [261] 中国医学物理学杂志: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:10,733 INFO [268] 东北师大学报.自然科学版: http
+2026-11-26 20:59:10,842 INFO [260] 中国兽医学报: finished
+2026-11-26 20:59:10,842 INFO [260] 中国兽医学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:10,852 INFO [269] 光散射学报: http
+2026-11-26 20:59:11,595 INFO [259] 中国临床医学影像杂志: finished
+2026-11-26 20:59:11,595 INFO [259] 中国临床医学影像杂志: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:11,612 INFO [270] 中国比较医学杂志: http
+2026-11-26 20:59:11,613 INFO [263] 贵州师范大学学报.自然科学版: finished
+2026-11-26 20:59:11,613 INFO [263] 贵州师范大学学报.自然科学版: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:11,623 INFO [271] 现代预防医学: http
+2026-11-26 20:59:11,859 INFO [265] 河南师范大学学报.自然科学版: waiting_for_browser_use
+2026-11-26 20:59:11,860 INFO [262] 自然灾害学报: finished
+2026-11-26 20:59:11,860 INFO [262] 自然灾害学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:11,861 INFO [265] 河南师范大学学报.自然科学版: browser_use
+2026-11-26 20:59:11,869 INFO [272] 中国南方果树: http
+2026-11-26 20:59:12,121 INFO [264] 山东科技大学学报,自然科学版: waiting_for_browser_use
+2026-11-26 20:59:12,122 INFO [264] 山东科技大学学报,自然科学版: browser_use
+2026-11-26 20:59:12,610 INFO [267] 内蒙古农业大学学报.自然科学版: waiting_for_browser_use
+2026-11-26 20:59:12,610 INFO [267] 内蒙古农业大学学报.自然科学版: browser_use
+2026-11-26 20:59:12,705 INFO [266] 河北科技大学学报: waiting_for_browser_use
+2026-11-26 20:59:12,706 INFO [266] 河北科技大学学报: browser_use
+2026-11-26 20:59:12,847 INFO [268] 东北师大学报.自然科学版: waiting_for_browser_use
+2026-11-26 20:59:13,063 INFO [268] 东北师大学报.自然科学版: browser_use
+2026-11-26 20:59:13,065 INFO [265] 河南师范大学学报.自然科学版: finished
+2026-11-26 20:59:13,065 INFO [265] 河南师范大学学报.自然科学版: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:13,078 INFO [273] 矿业研究与开发: http
+2026-11-26 20:59:13,169 INFO [269] 光散射学报: waiting_for_browser_use
+2026-11-26 20:59:13,328 INFO [269] 光散射学报: browser_use
+2026-11-26 20:59:13,329 INFO [264] 山东科技大学学报,自然科学版: finished
+2026-11-26 20:59:13,330 INFO [264] 山东科技大学学报,自然科学版: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:13,336 INFO [274] 电镀与涂饰: http
+2026-11-26 20:59:13,778 INFO [267] 内蒙古农业大学学报.自然科学版: finished
+2026-11-26 20:59:13,778 INFO [267] 内蒙古农业大学学报.自然科学版: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:13,792 INFO [275] 世界地震工程: http
+2026-11-26 20:59:13,911 INFO [266] 河北科技大学学报: finished
+2026-11-26 20:59:13,911 INFO [266] 河北科技大学学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:13,925 INFO [276] Acta Geologica Sinica: http
+2026-11-26 20:59:14,570 INFO [270] 中国比较医学杂志: waiting_for_browser_use
+2026-11-26 20:59:14,570 INFO [270] 中国比较医学杂志: browser_use
+2026-11-26 20:59:14,975 INFO [268] 东北师大学报.自然科学版: finished
+2026-11-26 20:59:14,975 INFO [268] 东北师大学报.自然科学版: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:14,988 INFO [277] Animal Models and Experimental Medicine: http
+2026-11-26 20:59:15,170 INFO [271] 现代预防医学: waiting_for_browser_use
+2026-11-26 20:59:15,171 INFO [273] 矿业研究与开发: waiting_for_browser_use
+2026-11-26 20:59:15,171 INFO [271] 现代预防医学: browser_use
+2026-11-26 20:59:15,172 INFO [273] 矿业研究与开发: browser_use
+2026-11-26 20:59:15,247 INFO [269] 光散射学报: finished
+2026-11-26 20:59:15,247 INFO [269] 光散射学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:15,252 INFO [278] Blood Science: http
+2026-11-26 20:59:15,512 INFO [272] 中国南方果树: waiting_for_browser_use
+2026-11-26 20:59:15,512 INFO [272] 中国南方果树: browser_use
+2026-11-26 20:59:15,752 INFO [270] 中国比较医学杂志: finished
+2026-11-26 20:59:15,753 INFO [270] 中国比较医学杂志: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:15,767 INFO [279] Cardiology Discovery: http
+2026-11-26 20:59:16,350 INFO [274] 电镀与涂饰: waiting_for_browser_use
+2026-11-26 20:59:16,350 INFO [273] 矿业研究与开发: finished
+2026-11-26 20:59:16,350 INFO [273] 矿业研究与开发: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:16,351 INFO [271] 现代预防医学: finished
+2026-11-26 20:59:16,351 INFO [271] 现代预防医学: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:16,352 INFO [274] 电镀与涂饰: browser_use
+2026-11-26 20:59:16,359 INFO [280] Chinese Journal of Aeronautics: http
+2026-11-26 20:59:16,360 INFO [281] Chinese Journal of Electronics: http
+2026-11-26 20:59:16,693 INFO [272] 中国南方果树: finished
+2026-11-26 20:59:16,693 INFO [272] 中国南方果树: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:16,706 INFO [282] Environmental Science and Ecotechnology: http
+2026-11-26 20:59:17,131 INFO [275] 世界地震工程: waiting_for_browser_use
+2026-11-26 20:59:17,131 INFO [275] 世界地震工程: browser_use
+2026-11-26 20:59:17,580 INFO [274] 电镀与涂饰: finished
+2026-11-26 20:59:17,580 INFO [274] 电镀与涂饰: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:17,592 INFO [283] InfoMat: http
+2026-11-26 20:59:18,055 INFO [278] Blood Science: waiting_for_browser_use
+2026-11-26 20:59:18,074 INFO [278] Blood Science: browser_use
+2026-11-26 20:59:18,075 INFO [277] Animal Models and Experimental Medicine: waiting_for_browser_use
+2026-11-26 20:59:18,075 INFO [277] Animal Models and Experimental Medicine: browser_use
+2026-11-26 20:59:18,328 INFO [275] 世界地震工程: finished
+2026-11-26 20:59:18,328 INFO [275] 世界地震工程: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:18,383 INFO [284] Journal of Advanced Ceramics: http
+2026-11-26 20:59:18,383 INFO [276] Acta Geologica Sinica: waiting_for_browser_use
+2026-11-26 20:59:18,384 INFO [276] Acta Geologica Sinica: browser_use
+2026-11-26 20:59:18,869 INFO [256] 中国表面工程: waiting_for_browser_use
+2026-11-26 20:59:18,869 INFO [256] 中国表面工程: browser_use
+2026-11-26 20:59:19,368 INFO [279] Cardiology Discovery: waiting_for_browser_use
+2026-11-26 20:59:19,392 INFO [279] Cardiology Discovery: browser_use
+2026-11-26 20:59:19,393 INFO [277] Animal Models and Experimental Medicine: finished
+2026-11-26 20:59:19,393 INFO [277] Animal Models and Experimental Medicine: uncompleted; originals=0; cloud=True; pending=5
+2026-11-26 20:59:19,399 INFO [285] Journal of Rock Mechanics and Geotechnical Engineering: http
+2026-11-26 20:59:19,424 INFO [278] Blood Science: finished
+2026-11-26 20:59:19,424 INFO [278] Blood Science: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:19,429 INFO [286] Liver Research: http
+2026-11-26 20:59:19,652 INFO [276] Acta Geologica Sinica: finished
+2026-11-26 20:59:19,652 INFO [276] Acta Geologica Sinica: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:59:19,658 INFO [287] Nano Materials Science: http
+2026-11-26 20:59:20,020 INFO [256] 中国表面工程: finished
+2026-11-26 20:59:20,021 INFO [256] 中国表面工程: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:20,035 INFO [288] Research in Cold and Arid Regions: http
+2026-11-26 20:59:20,662 INFO [279] Cardiology Discovery: finished
+2026-11-26 20:59:20,662 INFO [279] Cardiology Discovery: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:20,668 INFO [289] Theoretical and Applied Mechanics Letters: http
+2026-11-26 20:59:21,683 INFO [286] Liver Research: waiting_for_browser_use
+2026-11-26 20:59:21,684 INFO [286] Liver Research: browser_use
+2026-11-26 20:59:22,188 INFO [288] Research in Cold and Arid Regions: waiting_for_browser_use
+2026-11-26 20:59:22,188 INFO [288] Research in Cold and Arid Regions: browser_use
+2026-11-26 20:59:22,232 INFO [282] Environmental Science and Ecotechnology: finished
+2026-11-26 20:59:22,232 INFO [282] Environmental Science and Ecotechnology: completed; originals=1; cloud=False; pending=1
+2026-11-26 20:59:22,237 INFO [290] Virologica Sinica: http
+2026-11-26 20:59:22,840 INFO [286] Liver Research: finished
+2026-11-26 20:59:22,840 INFO [286] Liver Research: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:59:22,852 INFO [291] 导弹与航天运载技术(中英文): http
+2026-11-26 20:59:22,879 INFO [281] Chinese Journal of Electronics: waiting_for_browser_use
+2026-11-26 20:59:22,880 INFO [281] Chinese Journal of Electronics: browser_use
+2026-11-26 20:59:23,391 INFO [288] Research in Cold and Arid Regions: finished
+2026-11-26 20:59:23,391 INFO [288] Research in Cold and Arid Regions: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:59:23,403 INFO [292] 机械工程学报: http
+2026-11-26 20:59:23,658 INFO [287] Nano Materials Science: waiting_for_browser_use
+2026-11-26 20:59:23,659 INFO [287] Nano Materials Science: browser_use
+2026-11-26 20:59:23,659 INFO [283] InfoMat: finished
+2026-11-26 20:59:23,659 INFO [283] InfoMat: completed; originals=2; cloud=False; pending=7
+2026-11-26 20:59:23,664 INFO [293] 建筑钢结构进展: http
+2026-11-26 20:59:23,975 INFO [289] Theoretical and Applied Mechanics Letters: waiting_for_browser_use
+2026-11-26 20:59:23,975 INFO [289] Theoretical and Applied Mechanics Letters: browser_use
+2026-11-26 20:59:24,010 INFO [281] Chinese Journal of Electronics: finished
+2026-11-26 20:59:24,010 INFO [281] Chinese Journal of Electronics: uncompleted; originals=0; cloud=True; pending=5
+2026-11-26 20:59:24,016 INFO [294] 上海口腔医学: http
+2026-11-26 20:59:24,329 INFO [290] Virologica Sinica: waiting_for_browser_use
+2026-11-26 20:59:24,329 INFO [290] Virologica Sinica: browser_use
+2026-11-26 20:59:24,823 INFO [287] Nano Materials Science: finished
+2026-11-26 20:59:24,823 INFO [287] Nano Materials Science: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:59:24,835 INFO [295] 微生物学报: http
+2026-11-26 20:59:25,508 INFO [285] Journal of Rock Mechanics and Geotechnical Engineering: waiting_for_browser_use
+2026-11-26 20:59:25,509 INFO [285] Journal of Rock Mechanics and Geotechnical Engineering: browser_use
+2026-11-26 20:59:25,619 INFO [289] Theoretical and Applied Mechanics Letters: finished
+2026-11-26 20:59:25,620 INFO [289] Theoretical and Applied Mechanics Letters: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:25,760 INFO [296] 中华高血压杂志(中英文): http
+2026-11-26 20:59:25,760 INFO [284] Journal of Advanced Ceramics: waiting_for_browser_use
+2026-11-26 20:59:25,761 INFO [284] Journal of Advanced Ceramics: browser_use
+2026-11-26 20:59:26,113 INFO [293] 建筑钢结构进展: waiting_for_browser_use
+2026-11-26 20:59:26,113 INFO [293] 建筑钢结构进展: browser_use
+2026-11-26 20:59:26,634 INFO [290] Virologica Sinica: finished
+2026-11-26 20:59:26,634 INFO [290] Virologica Sinica: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:59:26,642 INFO [297] 山西农业大学学报.自然科学版: http
+2026-11-26 20:59:26,660 INFO [285] Journal of Rock Mechanics and Geotechnical Engineering: finished
+2026-11-26 20:59:26,660 INFO [285] Journal of Rock Mechanics and Geotechnical Engineering: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:59:26,667 INFO [298] Journal of Zhejiang University. Science A, Applied Physics & Engineering: http
+2026-11-26 20:59:26,946 INFO [284] Journal of Advanced Ceramics: finished
+2026-11-26 20:59:26,947 INFO [284] Journal of Advanced Ceramics: uncompleted; originals=0; cloud=True; pending=4
+2026-11-26 20:59:26,960 INFO [299] 无机化学学报: http
+2026-11-26 20:59:27,168 INFO [294] 上海口腔医学: waiting_for_browser_use
+2026-11-26 20:59:27,168 INFO [294] 上海口腔医学: browser_use
+2026-11-26 20:59:27,395 INFO [293] 建筑钢结构进展: finished
+2026-11-26 20:59:27,395 INFO [293] 建筑钢结构进展: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:27,409 INFO [300] 噪声与振动控制: http
+2026-11-26 20:59:27,831 INFO [291] 导弹与航天运载技术(中英文): waiting_for_browser_use
+2026-11-26 20:59:27,831 INFO [291] 导弹与航天运载技术(中英文): browser_use
+2026-11-26 20:59:28,103 INFO [295] 微生物学报: waiting_for_browser_use
+2026-11-26 20:59:28,103 INFO [295] 微生物学报: browser_use
+2026-11-26 20:59:28,294 INFO [294] 上海口腔医学: finished
+2026-11-26 20:59:28,294 INFO [294] 上海口腔医学: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:28,306 INFO [301] 中国当代儿科杂志: http
+2026-11-26 20:59:28,628 INFO [297] 山西农业大学学报.自然科学版: waiting_for_browser_use
+2026-11-26 20:59:28,629 INFO [297] 山西农业大学学报.自然科学版: browser_use
+2026-11-26 20:59:29,214 INFO [291] 导弹与航天运载技术(中英文): finished
+2026-11-26 20:59:29,214 INFO [291] 导弹与航天运载技术(中英文): uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:29,228 INFO [302] 中国循证医学杂志: http
+2026-11-26 20:59:29,842 INFO [296] 中华高血压杂志(中英文): waiting_for_browser_use
+2026-11-26 20:59:29,843 INFO [296] 中华高血压杂志(中英文): browser_use
+2026-11-26 20:59:30,065 INFO [299] 无机化学学报: waiting_for_browser_use
+2026-11-26 20:59:30,066 INFO [297] 山西农业大学学报.自然科学版: finished
+2026-11-26 20:59:30,066 INFO [297] 山西农业大学学报.自然科学版: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:30,066 INFO [299] 无机化学学报: browser_use
+2026-11-26 20:59:30,074 INFO [303] 中华医学遗传学杂志: http
+2026-11-26 20:59:30,138 INFO [295] 微生物学报: finished
+2026-11-26 20:59:30,139 INFO [295] 微生物学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:30,147 INFO [304] 复旦学报(社会科学版): http
+2026-11-26 20:59:31,125 INFO [280] Chinese Journal of Aeronautics: waiting_for_browser_use
+2026-11-26 20:59:31,125 INFO [280] Chinese Journal of Aeronautics: browser_use
+2026-11-26 20:59:31,223 INFO [296] 中华高血压杂志(中英文): finished
+2026-11-26 20:59:31,223 INFO [296] 中华高血压杂志(中英文): uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:31,232 INFO [305] 西安交通大学学报(社会科学版): http
+2026-11-26 20:59:31,381 INFO [301] 中国当代儿科杂志: waiting_for_browser_use
+2026-11-26 20:59:31,381 INFO [301] 中国当代儿科杂志: browser_use
+2026-11-26 20:59:31,396 INFO [298] Journal of Zhejiang University. Science A, Applied Physics & Engineering: finished
+2026-11-26 20:59:31,396 INFO [298] Journal of Zhejiang University. Science A, Applied Physics & Engineering: completed; originals=1; cloud=False; pending=0
+2026-11-26 20:59:31,402 INFO [306] 贵州财经大学学报: http
+2026-11-26 20:59:31,952 INFO [292] 机械工程学报: waiting_for_browser_use
+2026-11-26 20:59:31,953 INFO [292] 机械工程学报: browser_use
+2026-11-26 20:59:32,232 INFO [299] 无机化学学报: finished
+2026-11-26 20:59:32,232 INFO [299] 无机化学学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:32,238 INFO [307] 外语界: http
+2026-11-26 20:59:32,313 INFO [280] Chinese Journal of Aeronautics: finished
+2026-11-26 20:59:32,313 INFO [280] Chinese Journal of Aeronautics: uncompleted; originals=0; cloud=True; pending=6
+2026-11-26 20:59:32,321 INFO [308] 当代教育论坛: http
+2026-11-26 20:59:32,530 INFO [301] 中国当代儿科杂志: finished
+2026-11-26 20:59:32,530 INFO [301] 中国当代儿科杂志: uncompleted; originals=0; cloud=True; pending=27
+2026-11-26 20:59:32,544 INFO [309] 中国医学伦理学: http
+2026-11-26 20:59:32,741 INFO [302] 中国循证医学杂志: waiting_for_browser_use
+2026-11-26 20:59:32,742 INFO [302] 中国循证医学杂志: browser_use
+2026-11-26 20:59:32,770 INFO [303] 中华医学遗传学杂志: waiting_for_browser_use
+2026-11-26 20:59:32,771 INFO [303] 中华医学遗传学杂志: browser_use
+2026-11-26 20:59:33,202 INFO [305] 西安交通大学学报(社会科学版): waiting_for_browser_use
+2026-11-26 20:59:33,203 INFO [292] 机械工程学报: finished
+2026-11-26 20:59:33,203 INFO [292] 机械工程学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:33,203 INFO [305] 西安交通大学学报(社会科学版): browser_use
+2026-11-26 20:59:33,217 INFO [310] Neuroscience Bulletin: http
+2026-11-26 20:59:33,309 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /
+2026-11-26 20:59:33,901 INFO [302] 中国循证医学杂志: finished
+2026-11-26 20:59:33,901 INFO [302] 中国循证医学杂志: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:33,914 INFO [311] 电子与信息学报: http
+2026-11-26 20:59:33,957 INFO [303] 中华医学遗传学杂志: finished
+2026-11-26 20:59:33,957 INFO [303] 中华医学遗传学杂志: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:34,044 INFO [312] 工程热物理学报: http
+2026-11-26 20:59:34,044 INFO [306] 贵州财经大学学报: waiting_for_browser_use
+2026-11-26 20:59:34,044 INFO [306] 贵州财经大学学报: browser_use
+2026-11-26 20:59:34,369 INFO [305] 西安交通大学学报(社会科学版): finished
+2026-11-26 20:59:34,369 INFO [305] 西安交通大学学报(社会科学版): uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:59:34,386 INFO [313] 红外与毫米波学报: http
+2026-11-26 20:59:34,533 INFO [300] 噪声与振动控制: finished
+2026-11-26 20:59:34,533 INFO [300] 噪声与振动控制: completed; originals=3; cloud=False; pending=5
+2026-11-26 20:59:34,538 INFO [314] 空间科学学报: http
+2026-11-26 20:59:34,627 INFO [307] 外语界: waiting_for_browser_use
+2026-11-26 20:59:34,628 INFO [307] 外语界: browser_use
+2026-11-26 20:59:34,720 INFO [309] 中国医学伦理学: waiting_for_browser_use
+2026-11-26 20:59:34,720 INFO [309] 中国医学伦理学: browser_use
+2026-11-26 20:59:35,300 INFO [306] 贵州财经大学学报: finished
+2026-11-26 20:59:35,300 INFO [306] 贵州财经大学学报: uncompleted; originals=0; cloud=True; pending=4
+2026-11-26 20:59:35,343 INFO [315] 天然气工业: http
+2026-11-26 20:59:35,564 INFO [310] Neuroscience Bulletin: waiting_for_browser_use
+2026-11-26 20:59:35,564 INFO [310] Neuroscience Bulletin: browser_use
+2026-11-26 20:59:35,565 INFO [308] 当代教育论坛: finished
+2026-11-26 20:59:35,565 INFO [308] 当代教育论坛: completed; originals=1; cloud=False; pending=0
+2026-11-26 20:59:35,570 INFO [316] 针刺研究: http
+2026-11-26 20:59:35,764 INFO [307] 外语界: finished
+2026-11-26 20:59:35,764 INFO [307] 外语界: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:35,775 INFO [317] 中国实用儿科杂志: http
+2026-11-26 20:59:35,866 INFO [309] 中国医学伦理学: finished
+2026-11-26 20:59:35,866 INFO [309] 中国医学伦理学: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:59:35,876 INFO [318] 中华放射医学与防护杂志: http
+2026-11-26 20:59:37,497 INFO [310] Neuroscience Bulletin: finished
+2026-11-26 20:59:37,498 INFO [310] Neuroscience Bulletin: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:37,507 INFO [319] 民族语文: http
+2026-11-26 20:59:38,363 INFO [313] 红外与毫米波学报: waiting_for_browser_use
+2026-11-26 20:59:38,364 INFO [313] 红外与毫米波学报: browser_use
+2026-11-26 20:59:38,868 INFO [317] 中国实用儿科杂志: waiting_for_browser_use
+2026-11-26 20:59:38,868 INFO [318] 中华放射医学与防护杂志: waiting_for_browser_use
+2026-11-26 20:59:38,869 INFO [317] 中国实用儿科杂志: browser_use
+2026-11-26 20:59:38,869 INFO [318] 中华放射医学与防护杂志: browser_use
+2026-11-26 20:59:39,244 INFO [304] 复旦学报(社会科学版): waiting_for_browser_use
+2026-11-26 20:59:39,245 INFO [304] 复旦学报(社会科学版): browser_use
+2026-11-26 20:59:39,682 INFO [313] 红外与毫米波学报: finished
+2026-11-26 20:59:39,682 INFO [313] 红外与毫米波学报: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:59:39,698 INFO [320] 探索: http
+2026-11-26 20:59:40,197 INFO [318] 中华放射医学与防护杂志: finished
+2026-11-26 20:59:40,197 INFO [318] 中华放射医学与防护杂志: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:40,348 INFO [321] 钻井液与完井液: http
+2026-11-26 20:59:40,348 INFO [317] 中国实用儿科杂志: finished
+2026-11-26 20:59:40,348 INFO [317] 中国实用儿科杂志: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:59:40,354 INFO [322] 北京大学学报(哲学社会科学版): http
+2026-11-26 20:59:40,571 INFO [304] 复旦学报(社会科学版): finished
+2026-11-26 20:59:40,571 INFO [304] 复旦学报(社会科学版): uncompleted; originals=0; cloud=True; pending=10
+2026-11-26 20:59:40,588 INFO [323] 农业技术经济: http
+2026-11-26 20:59:40,812 INFO [315] 天然气工业: finished
+2026-11-26 20:59:40,812 INFO [315] 天然气工业: completed; originals=2; cloud=False; pending=6
+2026-11-26 20:59:40,818 INFO [324] 新疆大学学报.哲学社会科学版: http
+2026-11-26 20:59:41,856 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': http://www.cjss.ac.cn%ef%bc%89%e6%8a%95%e7%a8%bf%e3%80%82/
+2026-11-26 20:59:41,883 INFO [311] 电子与信息学报: waiting_for_browser_use
+2026-11-26 20:59:41,883 INFO [311] 电子与信息学报: browser_use
+2026-11-26 20:59:42,271 INFO [316] 针刺研究: waiting_for_browser_use
+2026-11-26 20:59:42,271 INFO [316] 针刺研究: browser_use
+2026-11-26 20:59:42,841 INFO [314] 空间科学学报: waiting_for_browser_use
+2026-11-26 20:59:42,842 INFO [314] 空间科学学报: browser_use
+2026-11-26 20:59:43,055 INFO [311] 电子与信息学报: finished
+2026-11-26 20:59:43,055 INFO [311] 电子与信息学报: uncompleted; originals=0; cloud=True; pending=9
+2026-11-26 20:59:43,064 INFO [325] 经济学报: http
+2026-11-26 20:59:43,554 INFO [319] 民族语文: waiting_for_browser_use
+2026-11-26 20:59:43,555 INFO [316] 针刺研究: finished
+2026-11-26 20:59:43,555 INFO [316] 针刺研究: uncompleted; originals=0; cloud=True; pending=9
+2026-11-26 20:59:43,555 INFO [319] 民族语文: browser_use
+2026-11-26 20:59:43,556 INFO [326] 生态经济: http
+2026-11-26 20:59:43,919 INFO [321] 钻井液与完井液: waiting_for_browser_use
+2026-11-26 20:59:43,920 INFO [321] 钻井液与完井液: browser_use
+2026-11-26 20:59:43,964 INFO [314] 空间科学学报: finished
+2026-11-26 20:59:43,964 INFO [314] 空间科学学报: uncompleted; originals=0; cloud=True; pending=26
+2026-11-26 20:59:43,972 INFO [327] 康复学报: http
+2026-11-26 20:59:44,706 INFO [319] 民族语文: finished
+2026-11-26 20:59:44,706 INFO [319] 民族语文: uncompleted; originals=0; cloud=True; pending=4
+2026-11-26 20:59:44,723 INFO [328] Emerging Contaminants: http
+2026-11-26 20:59:45,183 INFO [321] 钻井液与完井液: finished
+2026-11-26 20:59:45,183 INFO [321] 钻井液与完井液: uncompleted; originals=0; cloud=True; pending=8
+2026-11-26 20:59:45,199 INFO [329] Biomimetic Intelligence and Robotics: http
+2026-11-26 20:59:46,752 INFO [327] 康复学报: waiting_for_browser_use
+2026-11-26 20:59:46,753 INFO [327] 康复学报: browser_use
+2026-11-26 20:59:46,820 INFO [328] Emerging Contaminants: waiting_for_browser_use
+2026-11-26 20:59:46,821 INFO [328] Emerging Contaminants: browser_use
+2026-11-26 20:59:47,370 INFO [329] Biomimetic Intelligence and Robotics: waiting_for_browser_use
+2026-11-26 20:59:47,371 INFO [329] Biomimetic Intelligence and Robotics: browser_use
+2026-11-26 20:59:48,801 INFO [327] 康复学报: finished
+2026-11-26 20:59:48,801 INFO [327] 康复学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:48,814 INFO [330] Defence Technology: http
+2026-11-26 20:59:48,818 INFO [328] Emerging Contaminants: finished
+2026-11-26 20:59:48,818 INFO [328] Emerging Contaminants: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:59:48,825 INFO [331] Forest Ecosystems: http
+2026-11-26 20:59:48,826 INFO [329] Biomimetic Intelligence and Robotics: finished
+2026-11-26 20:59:48,826 INFO [329] Biomimetic Intelligence and Robotics: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:59:48,832 INFO [332] Global Health Research and Policy: http
+2026-11-26 20:59:48,901 INFO [325] 经济学报: waiting_for_browser_use
+2026-11-26 20:59:48,901 INFO [325] 经济学报: browser_use
+2026-11-26 20:59:49,051 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.cset.org.cn', port=443): Read timed out. (read timeout=15)")': /a349.html
+2026-11-26 20:59:50,053 INFO [326] 生态经济: waiting_for_browser_use
+2026-11-26 20:59:50,053 INFO [326] 生态经济: browser_use
+2026-11-26 20:59:50,135 INFO [325] 经济学报: finished
+2026-11-26 20:59:50,136 INFO [325] 经济学报: uncompleted; originals=0; cloud=True; pending=4
+2026-11-26 20:59:50,152 INFO [333] Plant Phenomics: http
+2026-11-26 20:59:51,194 INFO [332] Global Health Research and Policy: waiting_for_browser_use
+2026-11-26 20:59:51,194 INFO [331] Forest Ecosystems: waiting_for_browser_use
+2026-11-26 20:59:51,195 INFO [330] Defence Technology: waiting_for_browser_use
+2026-11-26 20:59:51,195 INFO [332] Global Health Research and Policy: browser_use
+2026-11-26 20:59:51,196 INFO [331] Forest Ecosystems: browser_use
+2026-11-26 20:59:51,196 INFO [330] Defence Technology: browser_use
+2026-11-26 20:59:51,210 INFO [323] 农业技术经济: finished
+2026-11-26 20:59:51,210 INFO [323] 农业技术经济: completed; originals=1; cloud=False; pending=0
+2026-11-26 20:59:51,215 INFO [334] 量子光学学报: http
+2026-11-26 20:59:51,400 INFO [324] 新疆大学学报.哲学社会科学版: finished
+2026-11-26 20:59:51,400 INFO [324] 新疆大学学报.哲学社会科学版: completed; originals=1; cloud=False; pending=0
+2026-11-26 20:59:51,411 INFO [335] 中国教育学刊: http
+2026-11-26 20:59:51,411 INFO [326] 生态经济: finished
+2026-11-26 20:59:51,411 INFO [326] 生态经济: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:51,419 INFO [336] 空气动力学学报: http
+2026-11-26 20:59:52,377 INFO [332] Global Health Research and Policy: finished
+2026-11-26 20:59:52,377 INFO [332] Global Health Research and Policy: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:59:52,392 INFO [337] 山东体育学院学报: http
+2026-11-26 20:59:52,407 INFO [331] Forest Ecosystems: finished
+2026-11-26 20:59:52,407 INFO [331] Forest Ecosystems: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:59:52,418 INFO [338] 中国科学基金: http
+2026-11-26 20:59:52,454 INFO [330] Defence Technology: finished
+2026-11-26 20:59:52,454 INFO [330] Defence Technology: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:59:52,463 INFO [339] 中国临床心理学杂志: http
+2026-11-26 20:59:53,510 INFO [334] 量子光学学报: waiting_for_browser_use
+2026-11-26 20:59:53,510 INFO [334] 量子光学学报: browser_use
+2026-11-26 20:59:54,664 INFO [334] 量子光学学报: finished
+2026-11-26 20:59:54,664 INFO [334] 量子光学学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:54,680 INFO [340] 力学季刊: http
+2026-11-26 20:59:54,911 INFO [335] 中国教育学刊: waiting_for_browser_use
+2026-11-26 20:59:54,911 INFO [335] 中国教育学刊: browser_use
+2026-11-26 20:59:55,024 INFO [339] 中国临床心理学杂志: waiting_for_browser_use
+2026-11-26 20:59:55,024 INFO [339] 中国临床心理学杂志: browser_use
+2026-11-26 20:59:55,623 INFO [333] Plant Phenomics: finished
+2026-11-26 20:59:55,623 INFO [333] Plant Phenomics: completed; originals=1; cloud=False; pending=6
+2026-11-26 20:59:55,636 INFO [341] Journal of Traditional Chinese Medicine: http
+2026-11-26 20:59:55,660 INFO [336] 空气动力学学报: waiting_for_browser_use
+2026-11-26 20:59:55,660 INFO [336] 空气动力学学报: browser_use
+2026-11-26 20:59:55,998 INFO [337] 山东体育学院学报: waiting_for_browser_use
+2026-11-26 20:59:55,999 INFO [337] 山东体育学院学报: browser_use
+2026-11-26 20:59:56,070 INFO [335] 中国教育学刊: finished
+2026-11-26 20:59:56,070 INFO [335] 中国教育学刊: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:59:56,086 INFO [342] 肾脏病与透析肾移植杂志: http
+2026-11-26 20:59:56,174 INFO [339] 中国临床心理学杂志: finished
+2026-11-26 20:59:56,174 INFO [339] 中国临床心理学杂志: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:56,190 INFO [343] 美术研究: http
+2026-11-26 20:59:56,595 INFO [340] 力学季刊: waiting_for_browser_use
+2026-11-26 20:59:56,596 INFO [340] 力学季刊: browser_use
+2026-11-26 20:59:56,678 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='www.tszzs.net', port=80): Read timed out. (read timeout=15)")': /wkg/WebPublication/index.aspx?mid=suta
+2026-11-26 20:59:56,780 INFO [336] 空气动力学学报: finished
+2026-11-26 20:59:56,781 INFO [336] 空气动力学学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:56,797 INFO [344] 国际政治研究: http
+2026-11-26 20:59:56,825 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='bdzk.cbpt.cnki.net', port=443): Read timed out. (read timeout=15)")': /portal/journal/portal/client/index
+2026-11-26 20:59:57,216 INFO [337] 山东体育学院学报: finished
+2026-11-26 20:59:57,216 INFO [337] 山东体育学院学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 20:59:57,233 INFO [345] 上海财经大学学报.哲学社会科学版: http
+2026-11-26 20:59:57,767 INFO [340] 力学季刊: finished
+2026-11-26 20:59:57,767 INFO [340] 力学季刊: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:59:57,784 INFO [346] 经济学(季刊): http
+2026-11-26 20:59:57,804 INFO [338] 中国科学基金: waiting_for_browser_use
+2026-11-26 20:59:57,805 INFO [338] 中国科学基金: browser_use
+2026-11-26 20:59:59,703 INFO [343] 美术研究: waiting_for_browser_use
+2026-11-26 20:59:59,704 INFO [343] 美术研究: browser_use
+2026-11-26 20:59:59,797 INFO [338] 中国科学基金: finished
+2026-11-26 20:59:59,797 INFO [338] 中国科学基金: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 20:59:59,809 INFO [347] 档案学通讯: http
+2026-11-26 21:00:00,939 INFO [345] 上海财经大学学报.哲学社会科学版: waiting_for_browser_use
+2026-11-26 21:00:01,146 INFO [345] 上海财经大学学报.哲学社会科学版: browser_use
+2026-11-26 21:00:01,299 INFO [342] 肾脏病与透析肾移植杂志: waiting_for_browser_use
+2026-11-26 21:00:01,427 INFO [343] 美术研究: finished
+2026-11-26 21:00:01,428 INFO [343] 美术研究: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:01,428 INFO [342] 肾脏病与透析肾移植杂志: browser_use
+2026-11-26 21:00:01,429 INFO [341] Journal of Traditional Chinese Medicine: waiting_for_browser_use
+2026-11-26 21:00:01,434 INFO [348] 世界经济文汇: http
+2026-11-26 21:00:01,435 INFO [341] Journal of Traditional Chinese Medicine: browser_use
+2026-11-26 21:00:01,837 INFO [344] 国际政治研究: waiting_for_browser_use
+2026-11-26 21:00:01,837 INFO [344] 国际政治研究: browser_use
+2026-11-26 21:00:01,931 INFO [347] 档案学通讯: waiting_for_browser_use
+2026-11-26 21:00:02,546 INFO [347] 档案学通讯: browser_use
+2026-11-26 21:00:02,548 INFO [342] 肾脏病与透析肾移植杂志: finished
+2026-11-26 21:00:02,548 INFO [342] 肾脏病与透析肾移植杂志: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:02,567 INFO [349] 河南理工大学学报.自然科学版: http
+2026-11-26 21:00:02,569 INFO [341] Journal of Traditional Chinese Medicine: finished
+2026-11-26 21:00:02,570 INFO [341] Journal of Traditional Chinese Medicine: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:00:02,581 INFO [350] 航空发动机: http
+2026-11-26 21:00:02,604 INFO [345] 上海财经大学学报.哲学社会科学版: finished
+2026-11-26 21:00:02,604 INFO [345] 上海财经大学学报.哲学社会科学版: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:00:02,611 INFO [351] Communications on Pure and Applied Analysis: http
+2026-11-26 21:00:03,032 INFO [344] 国际政治研究: finished
+2026-11-26 21:00:03,032 INFO [344] 国际政治研究: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:03,049 INFO [352] 电测与仪表: http
+2026-11-26 21:00:03,792 INFO [347] 档案学通讯: finished
+2026-11-26 21:00:03,792 INFO [347] 档案学通讯: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:03,807 INFO [353] 南方电网技术: http
+2026-11-26 21:00:04,085 INFO [312] 工程热物理学报: waiting_for_browser_use
+2026-11-26 21:00:04,086 INFO [312] 工程热物理学报: browser_use
+2026-11-26 21:00:04,368 INFO [351] Communications on Pure and Applied Analysis: waiting_for_browser_use
+2026-11-26 21:00:04,368 INFO [351] Communications on Pure and Applied Analysis: browser_use
+2026-11-26 21:00:04,949 INFO [352] 电测与仪表: waiting_for_browser_use
+2026-11-26 21:00:04,950 INFO [352] 电测与仪表: browser_use
+2026-11-26 21:00:05,290 INFO [312] 工程热物理学报: finished
+2026-11-26 21:00:05,290 INFO [312] 工程热物理学报: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:00:05,366 INFO [354] 上海针灸杂志: http
+2026-11-26 21:00:05,743 INFO [351] Communications on Pure and Applied Analysis: finished
+2026-11-26 21:00:05,744 INFO [351] Communications on Pure and Applied Analysis: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:00:05,750 INFO [355] 中国卫生政策研究: http
+2026-11-26 21:00:06,227 INFO [352] 电测与仪表: finished
+2026-11-26 21:00:06,227 INFO [352] 电测与仪表: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:06,233 INFO [356] 上海经济研究: http
+2026-11-26 21:00:06,367 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)'))': /home.html
+2026-11-26 21:00:06,820 INFO [346] 经济学(季刊): waiting_for_browser_use
+2026-11-26 21:00:06,820 INFO [346] 经济学(季刊): browser_use
+2026-11-26 21:00:07,284 INFO [354] 上海针灸杂志: waiting_for_browser_use
+2026-11-26 21:00:07,285 INFO [354] 上海针灸杂志: browser_use
+2026-11-26 21:00:08,020 INFO [346] 经济学(季刊): finished
+2026-11-26 21:00:08,026 INFO [346] 经济学(季刊): uncompleted; originals=0; cloud=True; pending=4
+2026-11-26 21:00:08,082 INFO [357] 图书馆论坛: http
+2026-11-26 21:00:08,548 INFO [354] 上海针灸杂志: finished
+2026-11-26 21:00:08,548 INFO [354] 上海针灸杂志: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:00:08,554 INFO [358] 社会科学家: http
+2026-11-26 21:00:08,837 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /index.phps=/index/view/id/3477.html
+2026-11-26 21:00:10,269 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /
+2026-11-26 21:00:10,332 INFO [355] 中国卫生政策研究: waiting_for_browser_use
+2026-11-26 21:00:10,333 INFO [350] 航空发动机: waiting_for_browser_use
+2026-11-26 21:00:10,333 INFO [355] 中国卫生政策研究: browser_use
+2026-11-26 21:00:10,334 INFO [350] 航空发动机: browser_use
+2026-11-26 21:00:11,519 INFO [356] 上海经济研究: waiting_for_browser_use
+2026-11-26 21:00:11,520 INFO [356] 上海经济研究: browser_use
+2026-11-26 21:00:11,731 INFO [350] 航空发动机: finished
+2026-11-26 21:00:11,731 INFO [350] 航空发动机: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:00:11,732 INFO [355] 中国卫生政策研究: finished
+2026-11-26 21:00:11,739 INFO [355] 中国卫生政策研究: uncompleted; originals=0; cloud=True; pending=4
+2026-11-26 21:00:11,748 INFO [359] 中学语文教学: http
+2026-11-26 21:00:11,749 INFO [360] 地域研究与开发: http
+2026-11-26 21:00:12,767 INFO [356] 上海经济研究: finished
+2026-11-26 21:00:12,767 INFO [356] 上海经济研究: uncompleted; originals=0; cloud=True; pending=4
+2026-11-26 21:00:12,775 INFO [361] 中国卒中杂志: http
+2026-11-26 21:00:13,087 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /
+2026-11-26 21:00:13,087 INFO [322] 北京大学学报(哲学社会科学版): waiting_for_browser_use
+2026-11-26 21:00:13,088 INFO [322] 北京大学学报(哲学社会科学版): browser_use
+2026-11-26 21:00:14,006 INFO [349] 河南理工大学学报.自然科学版: waiting_for_browser_use
+2026-11-26 21:00:14,006 INFO [349] 河南理工大学学报.自然科学版: browser_use
+2026-11-26 21:00:14,251 INFO [322] 北京大学学报(哲学社会科学版): finished
+2026-11-26 21:00:14,251 INFO [322] 北京大学学报(哲学社会科学版): uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:00:14,267 INFO [362] 特种铸造及有色合金: http
+2026-11-26 21:00:14,458 INFO [320] 探索: waiting_for_browser_use
+2026-11-26 21:00:14,459 INFO [320] 探索: browser_use
+2026-11-26 21:00:15,174 INFO [349] 河南理工大学学报.自然科学版: finished
+2026-11-26 21:00:15,174 INFO [349] 河南理工大学学报.自然科学版: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:00:15,189 INFO [363] 锅炉技术: http
+2026-11-26 21:00:15,541 INFO [348] 世界经济文汇: waiting_for_browser_use
+2026-11-26 21:00:15,541 INFO [348] 世界经济文汇: browser_use
+2026-11-26 21:00:15,609 INFO [320] 探索: finished
+2026-11-26 21:00:15,609 INFO [320] 探索: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:00:15,618 INFO [364] 服装学报: http
+2026-11-26 21:00:15,691 INFO [361] 中国卒中杂志: waiting_for_browser_use
+2026-11-26 21:00:15,692 INFO [361] 中国卒中杂志: browser_use
+2026-11-26 21:00:15,802 INFO [357] 图书馆论坛: waiting_for_browser_use
+2026-11-26 21:00:15,804 INFO [357] 图书馆论坛: browser_use
+2026-11-26 21:00:16,709 INFO [348] 世界经济文汇: finished
+2026-11-26 21:00:16,709 INFO [348] 世界经济文汇: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:16,714 INFO [365] Food Production, Processing and Nutrition: http
+2026-11-26 21:00:16,834 INFO [361] 中国卒中杂志: finished
+2026-11-26 21:00:16,834 INFO [361] 中国卒中杂志: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:16,844 INFO [366] 中华神经医学杂志: http
+2026-11-26 21:00:17,006 INFO [357] 图书馆论坛: finished
+2026-11-26 21:00:17,007 INFO [357] 图书馆论坛: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:17,024 INFO [367] 中华消化杂志: http
+2026-11-26 21:00:17,905 INFO [365] Food Production, Processing and Nutrition: waiting_for_browser_use
+2026-11-26 21:00:17,906 INFO [365] Food Production, Processing and Nutrition: browser_use
+2026-11-26 21:00:18,221 INFO [362] 特种铸造及有色合金: waiting_for_browser_use
+2026-11-26 21:00:18,221 INFO [362] 特种铸造及有色合金: browser_use
+2026-11-26 21:00:18,449 INFO [363] 锅炉技术: waiting_for_browser_use
+2026-11-26 21:00:18,450 INFO [363] 锅炉技术: browser_use
+2026-11-26 21:00:19,031 INFO [353] 南方电网技术: waiting_for_browser_use
+2026-11-26 21:00:19,031 INFO [353] 南方电网技术: browser_use
+2026-11-26 21:00:19,053 INFO [365] Food Production, Processing and Nutrition: finished
+2026-11-26 21:00:19,053 INFO [365] Food Production, Processing and Nutrition: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:00:19,059 INFO [368] 润滑与密封: http
+2026-11-26 21:00:19,230 INFO [366] 中华神经医学杂志: waiting_for_browser_use
+2026-11-26 21:00:19,230 INFO [366] 中华神经医学杂志: browser_use
+2026-11-26 21:00:19,387 INFO [362] 特种铸造及有色合金: finished
+2026-11-26 21:00:19,387 INFO [362] 特种铸造及有色合金: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:00:19,403 INFO [369] 计算机辅助设计与图形学学报: http
+2026-11-26 21:00:19,520 INFO [367] 中华消化杂志: waiting_for_browser_use
+2026-11-26 21:00:19,558 INFO [367] 中华消化杂志: browser_use
+2026-11-26 21:00:19,641 INFO [363] 锅炉技术: finished
+2026-11-26 21:00:19,641 INFO [363] 锅炉技术: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:19,653 INFO [370] 铁道学报: http
+2026-11-26 21:00:19,995 INFO [364] 服装学报: finished
+2026-11-26 21:00:19,995 INFO [364] 服装学报: completed; originals=1; cloud=False; pending=2
+2026-11-26 21:00:20,006 INFO [371] 理论与改革: http
+2026-11-26 21:00:20,193 INFO [353] 南方电网技术: finished
+2026-11-26 21:00:20,193 INFO [353] 南方电网技术: uncompleted; originals=0; cloud=True; pending=7
+2026-11-26 21:00:20,210 INFO [372] 机床与液压: http
+2026-11-26 21:00:20,854 INFO [366] 中华神经医学杂志: finished
+2026-11-26 21:00:20,854 INFO [366] 中华神经医学杂志: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:20,874 INFO [373] Mechanobiology in Medicine: http
+2026-11-26 21:00:21,453 INFO [368] 润滑与密封: waiting_for_browser_use
+2026-11-26 21:00:21,453 INFO [360] 地域研究与开发: waiting_for_browser_use
+2026-11-26 21:00:21,454 INFO [368] 润滑与密封: browser_use
+2026-11-26 21:00:21,455 INFO [360] 地域研究与开发: browser_use
+2026-11-26 21:00:21,578 INFO [367] 中华消化杂志: finished
+2026-11-26 21:00:21,578 INFO [367] 中华消化杂志: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:00:21,590 INFO [374] 法律科学(西北政法大学学报): http
+2026-11-26 21:00:22,806 INFO [368] 润滑与密封: finished
+2026-11-26 21:00:22,806 INFO [368] 润滑与密封: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:00:22,807 INFO [360] 地域研究与开发: finished
+2026-11-26 21:00:22,818 INFO [360] 地域研究与开发: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:00:22,822 INFO [375] 西藏大学学报(藏文版): http
+2026-11-26 21:00:22,824 INFO [376] 大学图书馆学报: http
+2026-11-26 21:00:23,558 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='www.glkxj.com', port=80): Read timed out. (read timeout=15)")': /
+2026-11-26 21:00:23,618 INFO [373] Mechanobiology in Medicine: waiting_for_browser_use
+2026-11-26 21:00:23,618 INFO [373] Mechanobiology in Medicine: browser_use
+2026-11-26 21:00:23,988 INFO [369] 计算机辅助设计与图形学学报: waiting_for_browser_use
+2026-11-26 21:00:23,988 INFO [369] 计算机辅助设计与图形学学报: browser_use
+2026-11-26 21:00:24,708 INFO [376] 大学图书馆学报: waiting_for_browser_use
+2026-11-26 21:00:24,708 INFO [376] 大学图书馆学报: browser_use
+2026-11-26 21:00:24,753 INFO [373] Mechanobiology in Medicine: finished
+2026-11-26 21:00:24,753 INFO [373] Mechanobiology in Medicine: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:00:24,764 INFO [377] 中国生物化学与分子生物学报: http
+2026-11-26 21:00:25,148 INFO [369] 计算机辅助设计与图形学学报: finished
+2026-11-26 21:00:25,148 INFO [369] 计算机辅助设计与图形学学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:25,155 INFO [378] 清史研究: http
+2026-11-26 21:00:25,859 INFO [374] 法律科学(西北政法大学学报): waiting_for_browser_use
+2026-11-26 21:00:25,859 INFO [374] 法律科学(西北政法大学学报): browser_use
+2026-11-26 21:00:25,969 INFO [376] 大学图书馆学报: finished
+2026-11-26 21:00:25,969 INFO [376] 大学图书馆学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:25,980 INFO [379] 湘潭大学学报(哲学社会科学版): http
+2026-11-26 21:00:26,796 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.snupg.com', port=443): Read timed out. (read timeout=15)")': /yw
+2026-11-26 21:00:28,645 INFO [375] 西藏大学学报(藏文版): waiting_for_browser_use
+2026-11-26 21:00:28,646 INFO [375] 西藏大学学报(藏文版): browser_use
+2026-11-26 21:00:29,160 INFO [377] 中国生物化学与分子生物学报: waiting_for_browser_use
+2026-11-26 21:00:29,161 INFO [377] 中国生物化学与分子生物学报: browser_use
+2026-11-26 21:00:29,269 INFO [378] 清史研究: waiting_for_browser_use
+2026-11-26 21:00:29,270 INFO [378] 清史研究: browser_use
+2026-11-26 21:00:29,534 INFO [374] 法律科学(西北政法大学学报): finished
+2026-11-26 21:00:29,534 INFO [374] 法律科学(西北政法大学学报): uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:29,549 INFO [380] Nanotechnology and Precision Engineering: http
+2026-11-26 21:00:30,669 INFO [375] 西藏大学学报(藏文版): finished
+2026-11-26 21:00:30,669 INFO [375] 西藏大学学报(藏文版): uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:30,686 INFO [381] 水文地质工程地质: http
+2026-11-26 21:00:31,165 INFO [378] 清史研究: finished
+2026-11-26 21:00:31,165 INFO [378] 清史研究: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:31,182 INFO [382] Journal of Modern Power Systems and Clean Energy: http
+2026-11-26 21:00:31,598 INFO [371] 理论与改革: waiting_for_browser_use
+2026-11-26 21:00:31,599 INFO [371] 理论与改革: browser_use
+2026-11-26 21:00:32,555 INFO [377] 中国生物化学与分子生物学报: finished
+2026-11-26 21:00:32,555 INFO [377] 中国生物化学与分子生物学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:32,573 INFO [383] Journal of Systems Engineering and Electronics: http
+2026-11-26 21:00:33,810 INFO [380] Nanotechnology and Precision Engineering: waiting_for_browser_use
+2026-11-26 21:00:33,811 INFO [380] Nanotechnology and Precision Engineering: browser_use
+2026-11-26 21:00:34,197 INFO [371] 理论与改革: finished
+2026-11-26 21:00:34,197 INFO [371] 理论与改革: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:34,210 INFO [384] 发光学报: http
+2026-11-26 21:00:36,290 INFO [380] Nanotechnology and Precision Engineering: finished
+2026-11-26 21:00:36,290 INFO [380] Nanotechnology and Precision Engineering: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:00:36,308 INFO [385] 红外技术: http
+2026-11-26 21:00:37,883 INFO [382] Journal of Modern Power Systems and Clean Energy: waiting_for_browser_use
+2026-11-26 21:00:37,883 INFO [382] Journal of Modern Power Systems and Clean Energy: browser_use
+2026-11-26 21:00:38,263 INFO [381] 水文地质工程地质: waiting_for_browser_use
+2026-11-26 21:00:38,263 INFO [381] 水文地质工程地质: browser_use
+2026-11-26 21:00:38,565 INFO [358] 社会科学家: waiting_for_browser_use
+2026-11-26 21:00:38,566 INFO [358] 社会科学家: browser_use
+2026-11-26 21:00:41,423 INFO [379] 湘潭大学学报(哲学社会科学版): waiting_for_browser_use
+2026-11-26 21:00:41,424 INFO [379] 湘潭大学学报(哲学社会科学版): browser_use
+2026-11-26 21:00:41,811 INFO [359] 中学语文教学: waiting_for_browser_use
+2026-11-26 21:00:41,813 INFO [358] 社会科学家: finished
+2026-11-26 21:00:41,813 INFO [358] 社会科学家: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:00:41,815 INFO [359] 中学语文教学: browser_use
+2026-11-26 21:00:41,817 INFO [386] 煤炭学报: http
+2026-11-26 21:00:41,894 INFO [381] 水文地质工程地质: finished
+2026-11-26 21:00:41,894 INFO [381] 水文地质工程地质: uncompleted; originals=0; cloud=True; pending=4
+2026-11-26 21:00:41,908 INFO [387] 生物多样性: http
+2026-11-26 21:00:43,100 INFO [379] 湘潭大学学报(哲学社会科学版): finished
+2026-11-26 21:00:43,100 INFO [379] 湘潭大学学报(哲学社会科学版): uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:00:43,117 INFO [388] 世界林业研究: http
+2026-11-26 21:00:43,265 INFO [370] 铁道学报: finished
+2026-11-26 21:00:43,265 INFO [370] 铁道学报: completed; originals=2; cloud=False; pending=1
+2026-11-26 21:00:43,284 INFO [389] 土木与环境工程学报(中英文): http
+2026-11-26 21:00:44,664 INFO [387] 生物多样性: waiting_for_browser_use
+2026-11-26 21:00:44,665 INFO [387] 生物多样性: browser_use
+2026-11-26 21:00:45,348 INFO [382] Journal of Modern Power Systems and Clean Energy: finished
+2026-11-26 21:00:45,349 INFO [382] Journal of Modern Power Systems and Clean Energy: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:45,366 INFO [390] 新疆地质: http
+2026-11-26 21:00:46,411 INFO [385] 红外技术: waiting_for_browser_use
+2026-11-26 21:00:46,411 INFO [385] 红外技术: browser_use
+2026-11-26 21:00:46,524 INFO [372] 机床与液压: waiting_for_browser_use
+2026-11-26 21:00:46,525 INFO [372] 机床与液压: browser_use
+2026-11-26 21:00:46,842 INFO [359] 中学语文教学: finished
+2026-11-26 21:00:46,842 INFO [359] 中学语文教学: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:00:46,859 INFO [391] 中国细胞生物学学报: http
+2026-11-26 21:00:47,515 INFO [387] 生物多样性: finished
+2026-11-26 21:00:47,515 INFO [387] 生物多样性: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:47,531 INFO [392] 中国特色社会主义研究: http
+2026-11-26 21:00:48,589 INFO [372] 机床与液压: finished
+2026-11-26 21:00:48,590 INFO [372] 机床与液压: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:48,606 INFO [393] 孔子研究: http
+2026-11-26 21:00:49,518 INFO [385] 红外技术: finished
+2026-11-26 21:00:49,518 INFO [385] 红外技术: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:49,527 INFO [394] 成人教育: http
+2026-11-26 21:00:50,407 INFO [384] 发光学报: waiting_for_browser_use
+2026-11-26 21:00:50,408 INFO [384] 发光学报: browser_use
+2026-11-26 21:00:51,092 INFO [383] Journal of Systems Engineering and Electronics: finished
+2026-11-26 21:00:51,092 INFO [383] Journal of Systems Engineering and Electronics: completed; originals=1; cloud=False; pending=10
+2026-11-26 21:00:51,109 INFO [395] Chinese Journal of Cancer Research: http
+2026-11-26 21:00:52,214 INFO [393] 孔子研究: waiting_for_browser_use
+2026-11-26 21:00:52,215 INFO [393] 孔子研究: browser_use
+2026-11-26 21:00:52,591 INFO [390] 新疆地质: waiting_for_browser_use
+2026-11-26 21:00:52,592 INFO [390] 新疆地质: browser_use
+2026-11-26 21:00:54,690 INFO [388] 世界林业研究: waiting_for_browser_use
+2026-11-26 21:00:54,691 INFO [388] 世界林业研究: browser_use
+2026-11-26 21:00:55,135 INFO [386] 煤炭学报: waiting_for_browser_use
+2026-11-26 21:00:55,341 INFO [386] 煤炭学报: browser_use
+2026-11-26 21:00:55,343 INFO [390] 新疆地质: finished
+2026-11-26 21:00:55,343 INFO [390] 新疆地质: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:00:55,360 INFO [396] 蚕业科学: http
+2026-11-26 21:00:55,367 INFO [393] 孔子研究: finished
+2026-11-26 21:00:55,367 INFO [393] 孔子研究: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:55,379 INFO [397] 大气与环境光学学报: http
+2026-11-26 21:00:55,495 INFO [389] 土木与环境工程学报(中英文): waiting_for_browser_use
+2026-11-26 21:00:55,495 INFO [389] 土木与环境工程学报(中英文): browser_use
+2026-11-26 21:00:55,540 INFO [384] 发光学报: finished
+2026-11-26 21:00:55,540 INFO [384] 发光学报: uncompleted; originals=0; cloud=True; pending=6
+2026-11-26 21:00:55,548 INFO [398] 地球物理学进展: http
+2026-11-26 21:00:56,076 INFO [392] 中国特色社会主义研究: waiting_for_browser_use
+2026-11-26 21:00:56,077 INFO [392] 中国特色社会主义研究: browser_use
+2026-11-26 21:00:56,511 INFO [391] 中国细胞生物学学报: waiting_for_browser_use
+2026-11-26 21:00:57,052 INFO [391] 中国细胞生物学学报: browser_use
+2026-11-26 21:00:57,054 INFO [386] 煤炭学报: finished
+2026-11-26 21:00:57,054 INFO [386] 煤炭学报: uncompleted; originals=0; cloud=True; pending=6
+2026-11-26 21:00:57,071 INFO [399] 干旱区研究: http
+2026-11-26 21:00:57,179 INFO [389] 土木与环境工程学报(中英文): finished
+2026-11-26 21:00:57,179 INFO [389] 土木与环境工程学报(中英文): uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:00:57,197 INFO [397] 大气与环境光学学报: waiting_for_browser_use
+2026-11-26 21:00:57,198 INFO [400] 环境污染与防治: http
+2026-11-26 21:00:57,199 INFO [397] 大气与环境光学学报: browser_use
+2026-11-26 21:00:57,565 INFO [394] 成人教育: waiting_for_browser_use
+2026-11-26 21:00:57,749 INFO [398] 地球物理学进展: waiting_for_browser_use
+2026-11-26 21:00:57,933 INFO [394] 成人教育: browser_use
+2026-11-26 21:00:57,935 INFO [392] 中国特色社会主义研究: finished
+2026-11-26 21:00:57,935 INFO [392] 中国特色社会主义研究: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:57,953 INFO [401] 南方农业学报: http
+2026-11-26 21:00:58,358 INFO [398] 地球物理学进展: browser_use
+2026-11-26 21:00:58,360 INFO [388] 世界林业研究: finished
+2026-11-26 21:00:58,361 INFO [388] 世界林业研究: uncompleted; originals=0; cloud=True; pending=5
+2026-11-26 21:00:58,378 INFO [402] 全球定位系统: http
+2026-11-26 21:00:58,479 INFO [400] 环境污染与防治: waiting_for_browser_use
+2026-11-26 21:00:58,543 INFO [399] 干旱区研究: waiting_for_browser_use
+2026-11-26 21:00:59,429 INFO [400] 环境污染与防治: browser_use
+2026-11-26 21:00:59,430 INFO [391] 中国细胞生物学学报: finished
+2026-11-26 21:00:59,431 INFO [391] 中国细胞生物学学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:59,440 INFO [403] 声学学报: http
+2026-11-26 21:00:59,825 INFO [399] 干旱区研究: browser_use
+2026-11-26 21:00:59,827 INFO [394] 成人教育: finished
+2026-11-26 21:00:59,827 INFO [394] 成人教育: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:00:59,844 INFO [404] 水利水运工程学报: http
+2026-11-26 21:00:59,984 INFO [395] Chinese Journal of Cancer Research: waiting_for_browser_use
+2026-11-26 21:01:00,051 INFO [396] 蚕业科学: waiting_for_browser_use
+2026-11-26 21:01:01,258 INFO [395] Chinese Journal of Cancer Research: browser_use
+2026-11-26 21:01:01,260 INFO [397] 大气与环境光学学报: finished
+2026-11-26 21:01:01,260 INFO [397] 大气与环境光学学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:01:01,278 INFO [405] 新发传染病电子杂志: http
+2026-11-26 21:01:02,030 INFO [401] 南方农业学报: waiting_for_browser_use
+2026-11-26 21:01:02,211 INFO [396] 蚕业科学: browser_use
+2026-11-26 21:01:02,213 INFO [400] 环境污染与防治: finished
+2026-11-26 21:01:02,213 INFO [400] 环境污染与防治: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:01:02,231 INFO [406] 仪表技术与传感器: http
+2026-11-26 21:01:02,792 INFO [405] 新发传染病电子杂志: waiting_for_browser_use
+2026-11-26 21:01:02,994 INFO [401] 南方农业学报: browser_use
+2026-11-26 21:01:02,996 INFO [398] 地球物理学进展: finished
+2026-11-26 21:01:02,996 INFO [398] 地球物理学进展: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:01:03,014 INFO [407] 中国海上油气: http
+2026-11-26 21:01:03,255 INFO [405] 新发传染病电子杂志: browser_use
+2026-11-26 21:01:03,257 INFO [395] Chinese Journal of Cancer Research: finished
+2026-11-26 21:01:03,257 INFO [395] Chinese Journal of Cancer Research: uncompleted; originals=0; cloud=True; pending=9
+2026-11-26 21:01:03,275 INFO [408] 西北农林科技大学学报(社会科学版): http
+2026-11-26 21:01:03,750 INFO [406] 仪表技术与传感器: waiting_for_browser_use
+2026-11-26 21:01:03,962 INFO [406] 仪表技术与传感器: browser_use
+2026-11-26 21:01:03,964 INFO [399] 干旱区研究: finished
+2026-11-26 21:01:03,964 INFO [399] 干旱区研究: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:01:03,981 INFO [409] 中国科技论坛: http
+2026-11-26 21:01:04,350 INFO [396] 蚕业科学: finished
+2026-11-26 21:01:04,350 INFO [396] 蚕业科学: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:01:04,350 INFO [403] 声学学报: waiting_for_browser_use
+2026-11-26 21:01:04,357 INFO [410] 财经理论与实践: http
+2026-11-26 21:01:04,357 INFO [403] 声学学报: browser_use
+2026-11-26 21:01:06,833 INFO [401] 南方农业学报: finished
+2026-11-26 21:01:06,834 INFO [401] 南方农业学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:01:06,853 INFO [411] 情报理论与实践: http
+2026-11-26 21:01:07,972 INFO [402] 全球定位系统: waiting_for_browser_use
+2026-11-26 21:01:07,973 INFO [402] 全球定位系统: browser_use
+2026-11-26 21:01:08,323 INFO [409] 中国科技论坛: waiting_for_browser_use
+2026-11-26 21:01:08,324 INFO [407] 中国海上油气: waiting_for_browser_use
+2026-11-26 21:01:08,785 INFO [409] 中国科技论坛: browser_use
+2026-11-26 21:01:08,786 INFO [406] 仪表技术与传感器: finished
+2026-11-26 21:01:08,787 INFO [406] 仪表技术与传感器: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:01:08,806 INFO [412] 北方园艺: http
+2026-11-26 21:01:08,833 INFO [411] 情报理论与实践: waiting_for_browser_use
+2026-11-26 21:01:09,029 INFO [407] 中国海上油气: browser_use
+2026-11-26 21:01:09,030 INFO [403] 声学学报: finished
+2026-11-26 21:01:09,030 INFO [403] 声学学报: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:01:09,049 INFO [413] 放射学实践: http
+2026-11-26 21:01:09,423 INFO [411] 情报理论与实践: browser_use
+2026-11-26 21:01:09,425 INFO [405] 新发传染病电子杂志: finished
+2026-11-26 21:01:09,425 INFO [405] 新发传染病电子杂志: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:01:09,435 INFO [414] Artificial Intelligence in Agriculture: http
+2026-11-26 21:01:09,662 INFO [402] 全球定位系统: finished
+2026-11-26 21:01:09,662 INFO [402] 全球定位系统: uncompleted; originals=0; cloud=True; pending=5
+2026-11-26 21:01:09,679 INFO [415] Bioactive Materials: http
+2026-11-26 21:01:10,877 INFO [407] 中国海上油气: finished
+2026-11-26 21:01:10,877 INFO [407] 中国海上油气: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:01:10,899 INFO [416] Chinese Journal of Population, Resources and Environment: http
+2026-11-26 21:01:10,901 INFO [409] 中国科技论坛: finished
+2026-11-26 21:01:10,901 INFO [409] 中国科技论坛: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:01:10,914 INFO [417] Earthquake Research Advances: http
+2026-11-26 21:01:11,592 INFO [412] 北方园艺: waiting_for_browser_use
+2026-11-26 21:01:11,593 INFO [412] 北方园艺: browser_use
+2026-11-26 21:01:11,966 INFO [411] 情报理论与实践: finished
+2026-11-26 21:01:11,967 INFO [411] 情报理论与实践: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:01:11,986 INFO [418] Engineering Microbiology: http
+2026-11-26 21:01:12,910 INFO [410] 财经理论与实践: waiting_for_browser_use
+2026-11-26 21:01:12,911 INFO [410] 财经理论与实践: browser_use
+2026-11-26 21:01:13,846 INFO [414] Artificial Intelligence in Agriculture: waiting_for_browser_use
+2026-11-26 21:01:13,846 INFO [414] Artificial Intelligence in Agriculture: browser_use
+2026-11-26 21:01:14,673 INFO [408] 西北农林科技大学学报(社会科学版): waiting_for_browser_use
+2026-11-26 21:01:14,673 INFO [415] Bioactive Materials: waiting_for_browser_use
+2026-11-26 21:01:14,674 INFO [408] 西北农林科技大学学报(社会科学版): browser_use
+2026-11-26 21:01:14,849 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='slsy.nhri.cn', port=80): Read timed out. (read timeout=15)")': /
+2026-11-26 21:01:15,654 INFO [415] Bioactive Materials: browser_use
+2026-11-26 21:01:15,656 INFO [412] 北方园艺: finished
+2026-11-26 21:01:15,656 INFO [412] 北方园艺: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:01:15,673 INFO [419] Green Energy & Environment: http
+2026-11-26 21:01:15,826 INFO [417] Earthquake Research Advances: waiting_for_browser_use
+2026-11-26 21:01:15,932 INFO [416] Chinese Journal of Population, Resources and Environment: waiting_for_browser_use
+2026-11-26 21:01:15,991 INFO [417] Earthquake Research Advances: browser_use
+2026-11-26 21:01:15,992 INFO [410] 财经理论与实践: finished
+2026-11-26 21:01:15,992 INFO [410] 财经理论与实践: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:01:16,002 INFO [420] Infectious Disease Modelling: http
+2026-11-26 21:01:16,074 INFO [418] Engineering Microbiology: waiting_for_browser_use
+2026-11-26 21:01:16,425 INFO [416] Chinese Journal of Population, Resources and Environment: browser_use
+2026-11-26 21:01:16,427 INFO [414] Artificial Intelligence in Agriculture: finished
+2026-11-26 21:01:16,427 INFO [414] Artificial Intelligence in Agriculture: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:01:16,446 INFO [421] Journal of Automation and Intelligence: http
+2026-11-26 21:01:17,393 INFO [418] Engineering Microbiology: browser_use
+2026-11-26 21:01:17,395 INFO [415] Bioactive Materials: finished
+2026-11-26 21:01:17,395 INFO [415] Bioactive Materials: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:01:17,414 INFO [422] Journal of Future Foods: http
+2026-11-26 21:01:17,676 INFO [417] Earthquake Research Advances: finished
+2026-11-26 21:01:17,676 INFO [417] Earthquake Research Advances: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:01:17,693 INFO [423] Petroleum Research: http
+2026-11-26 21:01:18,081 INFO [408] 西北农林科技大学学报(社会科学版): finished
+2026-11-26 21:01:18,082 INFO [408] 西北农林科技大学学报(社会科学版): uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:01:18,101 INFO [424] Plant Diversity: http
+2026-11-26 21:01:20,192 INFO [416] Chinese Journal of Population, Resources and Environment: finished
+2026-11-26 21:01:20,192 INFO [416] Chinese Journal of Population, Resources and Environment: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:01:20,210 INFO [425] The Crop Journal: http
+2026-11-26 21:01:21,982 INFO [418] Engineering Microbiology: finished
+2026-11-26 21:01:21,982 INFO [418] Engineering Microbiology: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:01:22,001 INFO [426] 光谱学与光谱分析: http
+2026-11-26 21:01:22,528 INFO [420] Infectious Disease Modelling: waiting_for_browser_use
+2026-11-26 21:01:22,529 INFO [419] Green Energy & Environment: waiting_for_browser_use
+2026-11-26 21:01:22,529 INFO [420] Infectious Disease Modelling: browser_use
+2026-11-26 21:01:22,529 INFO [419] Green Energy & Environment: browser_use
+2026-11-26 21:01:23,802 INFO [422] Journal of Future Foods: waiting_for_browser_use
+2026-11-26 21:01:23,802 INFO [422] Journal of Future Foods: browser_use
+2026-11-26 21:01:24,056 INFO [421] Journal of Automation and Intelligence: waiting_for_browser_use
+2026-11-26 21:01:24,056 INFO [423] Petroleum Research: waiting_for_browser_use
+2026-11-26 21:01:24,057 INFO [421] Journal of Automation and Intelligence: browser_use
+2026-11-26 21:01:24,490 INFO [423] Petroleum Research: browser_use
+2026-11-26 21:01:24,493 INFO [420] Infectious Disease Modelling: finished
+2026-11-26 21:01:24,493 INFO [420] Infectious Disease Modelling: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:01:24,512 INFO [427] 海洋湖沼通报(中英文): http
+2026-11-26 21:01:25,208 INFO [425] The Crop Journal: waiting_for_browser_use
+2026-11-26 21:01:25,898 INFO [425] The Crop Journal: browser_use
+2026-11-26 21:01:25,899 INFO [419] Green Energy & Environment: finished
+2026-11-26 21:01:25,899 INFO [419] Green Energy & Environment: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:01:25,907 INFO [428] 中国舰船研究: http
+2026-11-26 21:01:25,997 INFO [422] Journal of Future Foods: finished
+2026-11-26 21:01:25,997 INFO [422] Journal of Future Foods: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:01:26,008 INFO [429] 中国实验动物学报: http
+2026-11-26 21:01:26,252 INFO [423] Petroleum Research: finished
+2026-11-26 21:01:26,252 INFO [423] Petroleum Research: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:01:26,271 INFO [430] 应用光学: http
+2026-11-26 21:01:26,379 INFO [424] Plant Diversity: waiting_for_browser_use
+2026-11-26 21:01:26,379 INFO [424] Plant Diversity: browser_use
+2026-11-26 21:01:26,849 INFO [426] 光谱学与光谱分析: waiting_for_browser_use
+2026-11-26 21:01:26,850 INFO [426] 光谱学与光谱分析: browser_use
+2026-11-26 21:01:26,902 INFO [421] Journal of Automation and Intelligence: finished
+2026-11-26 21:01:26,902 INFO [421] Journal of Automation and Intelligence: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:01:26,914 INFO [431] 微电子学: http
+2026-11-26 21:01:27,658 INFO [413] 放射学实践: waiting_for_browser_use
+2026-11-26 21:01:27,659 INFO [413] 放射学实践: browser_use
+2026-11-26 21:01:28,922 INFO [427] 海洋湖沼通报(中英文): waiting_for_browser_use
+2026-11-26 21:01:28,923 INFO [429] 中国实验动物学报: waiting_for_browser_use
+2026-11-26 21:01:28,923 INFO [424] Plant Diversity: finished
+2026-11-26 21:01:28,923 INFO [424] Plant Diversity: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:01:28,924 INFO [427] 海洋湖沼通报(中英文): browser_use
+2026-11-26 21:01:28,930 INFO [432] 硅酸盐通报: http
+2026-11-26 21:01:28,960 INFO [429] 中国实验动物学报: browser_use
+2026-11-26 21:01:28,961 INFO [425] The Crop Journal: finished
+2026-11-26 21:01:28,961 INFO [425] The Crop Journal: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:01:28,967 INFO [433] 植物病理学报: http
+2026-11-26 21:01:29,266 INFO [426] 光谱学与光谱分析: finished
+2026-11-26 21:01:29,266 INFO [426] 光谱学与光谱分析: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:01:29,286 INFO [434] 编辑之友: http
+2026-11-26 21:01:29,856 INFO [404] 水利水运工程学报: waiting_for_browser_use
+2026-11-26 21:01:29,857 INFO [404] 水利水运工程学报: browser_use
+2026-11-26 21:01:30,254 INFO [428] 中国舰船研究: waiting_for_browser_use
+2026-11-26 21:01:30,446 INFO [433] 植物病理学报: waiting_for_browser_use
+2026-11-26 21:01:31,447 INFO [430] 应用光学: waiting_for_browser_use
+2026-11-26 21:01:31,691 INFO [428] 中国舰船研究: browser_use
+2026-11-26 21:01:31,693 INFO [413] 放射学实践: finished
+2026-11-26 21:01:31,693 INFO [413] 放射学实践: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:01:32,189 INFO [431] 微电子学: waiting_for_browser_use
+2026-11-26 21:01:32,737 INFO [433] 植物病理学报: browser_use
+2026-11-26 21:01:32,739 INFO [429] 中国实验动物学报: finished
+2026-11-26 21:01:32,739 INFO [429] 中国实验动物学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:01:33,340 INFO [430] 应用光学: browser_use
+2026-11-26 21:01:33,344 INFO [427] 海洋湖沼通报(中英文): finished
+2026-11-26 21:01:33,344 INFO [427] 海洋湖沼通报(中英文): uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:01:33,718 INFO [432] 硅酸盐通报: waiting_for_browser_use
+2026-11-26 21:01:33,722 INFO [431] 微电子学: browser_use
+2026-11-26 21:01:33,723 INFO [404] 水利水运工程学报: finished
+2026-11-26 21:01:33,723 INFO [404] 水利水运工程学报: uncompleted; originals=0; cloud=True; pending=3
+2026-11-26 21:01:34,068 INFO [434] 编辑之友: waiting_for_browser_use
+2026-11-26 21:01:34,079 INFO [432] 硅酸盐通报: browser_use
+2026-11-26 21:01:34,080 INFO [428] 中国舰船研究: finished
+2026-11-26 21:01:34,080 INFO [428] 中国舰船研究: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:01:34,493 INFO [434] 编辑之友: browser_use
+2026-11-26 21:01:34,495 INFO [433] 植物病理学报: finished
+2026-11-26 21:01:34,495 INFO [433] 植物病理学报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:01:35,490 INFO [430] 应用光学: finished
+2026-11-26 21:01:35,490 INFO [430] 应用光学: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:01:35,885 INFO [431] 微电子学: finished
+2026-11-26 21:01:35,885 INFO [431] 微电子学: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:01:35,905 INFO [432] 硅酸盐通报: finished
+2026-11-26 21:01:35,905 INFO [432] 硅酸盐通报: uncompleted; originals=0; cloud=True; pending=2
+2026-11-26 21:01:36,490 INFO [434] 编辑之友: finished
+2026-11-26 21:01:36,490 INFO [434] 编辑之友: uncompleted; originals=0; cloud=True; pending=2

@@ -1,0 +1,76 @@
+{
+  "journal": {
+    "name": "中华妇产科杂志",
+    "url": "https://www.cmaph.org/zyqk/890596.jhtml",
+    "journal_id": "",
+    "row": 46,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.cmaph.org/zyqk/890596.jhtml",
+  "collected_at": "2026-11-26T20:44:27+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.cmaph.org",
+      "zhfckzz.yiigle.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.cmaph.org/zyqk/890596.jhtml",
+      "requested_url": "https://www.cmaph.org/zyqk/890596.jhtml",
+      "title": "中华妇产科杂志",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:44:27+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cmaph.org/tzgg/index.htm",
+      "requested_url": "https://www.cmaph.org/tzgg/index.htm",
+      "title": "中华医学杂志社公司官网",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:44:27+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://zhfckzz.yiigle.com/",
+      "title": "https://zhfckzz.yiigle.com/",
+      "source_url": "https://www.cmaph.org/zyqk/890596.jhtml",
+      "path": [
+        "官网入口",
+        "https://zhfckzz.yiigle.com/"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "跳转到未核实域名：https://casmp.yiigle.com/login?service=https%3A%2F%2Fzhfckzz.yiigle.com%3A%2F&gateway=true&loginUrl=%2F",
+      "context": "官方网站: https://zhfckzz.yiigle.com/"
+    },
+    {
+      "url": "https://www.cmaph.org/zyqk/890596.jhtml",
+      "title": "中华妇产科杂志",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

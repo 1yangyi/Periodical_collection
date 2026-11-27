@@ -1,0 +1,30 @@
+{
+  "index": 372,
+  "journal": "机床与液压",
+  "url": "https://qikan.cmes.org/jcyyy/CN/home",
+  "source_sheet": "可打开",
+  "source_row": 373,
+  "started_at": "2026-11-26T21:00:20+08:00",
+  "finished_at": "2026-11-26T21:00:48+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 8,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST network-policies 返回 HTTP 422"
+  ],
+  "manifest": "0372_机床与液压/manifest.json",
+  "pages": 8,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 2,
+  "pending_reasons": [
+    "browser_use_failed",
+    "no_valid_word_or_pdf"
+  ]
+}

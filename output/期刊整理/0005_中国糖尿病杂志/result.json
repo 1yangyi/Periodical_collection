@@ -1,0 +1,43 @@
+{
+  "index": 5,
+  "journal": "中国糖尿病杂志",
+  "url": "https://chyb.bjmu.edu.cn/qygl/qyjj/f6c5f805aaef46388c94a6cf833abda2.htm",
+  "source_sheet": "可打开",
+  "source_row": 6,
+  "started_at": "2026-11-26T20:39:07+08:00",
+  "finished_at": "2026-11-26T20:40:57+08:00",
+  "status": "completed",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 4,
+    "artifacts": 1,
+    "pending": 3,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0005_中国糖尿病杂志/manifest.json",
+  "pages": 4,
+  "attachments": [
+    {
+      "title": "著作授权书下载",
+      "format": "pdf",
+      "local_path": "0005_中国糖尿病杂志/attachments/æåèä½æè®¸å¯ä½¿ç¨åè®®_f3f7db07ee.pdf",
+      "sha256": "f3f7db07eec6f97be6db695deeb4530c61f557f214c065bc819b500c8241a94e",
+      "bytes": 112062
+    },
+    {
+      "title": "《中国糖尿病杂志》常用词略语表",
+      "format": "pdf",
+      "local_path": "0005_中国糖尿病杂志/attachments/suolvye_da399a9bae.pdf",
+      "sha256": "da399a9bae6e54638a57bc11cfbe4cc76ea0c830e0a854ffcf02aa9ff5e172e0",
+      "bytes": 172904
+    }
+  ],
+  "original_count": 2,
+  "webpage_text": 1,
+  "pending_count": 3,
+  "pending_reasons": [
+    "needs_review",
+    "page_fetch_failed"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "journal": {
+    "name": "宇航总体技术",
+    "url": "https://yhztjs.spacejournal.cn/",
+    "journal_id": "",
+    "row": 33,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "",
+  "collected_at": "2026-11-26T20:42:03+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "yhztjs.spacejournal.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://yhztjs.spacejournal.cn/",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "420 Client Error:  for url: https://yhztjs.spacejournal.cn/",
+      "context": ""
+    },
+    {
+      "url": "https://yhztjs.spacejournal.cn/",
+      "title": "宇航总体技术",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

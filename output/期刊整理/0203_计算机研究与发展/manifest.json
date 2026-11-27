@@ -1,0 +1,83 @@
+{
+  "journal": {
+    "name": "计算机研究与发展",
+    "url": "https://crad.ict.ac.cn/",
+    "journal_id": "",
+    "row": 204,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://crad.ict.ac.cn/",
+  "collected_at": "2026-11-26T20:58:19+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "crad.ict.ac.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://crad.ict.ac.cn/",
+      "requested_url": "https://crad.ict.ac.cn/",
+      "title": "导出文件",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:58:19+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://crad.ict.ac.cn/tougaozhinan",
+      "requested_url": "https://crad.ict.ac.cn/tougaozhinan",
+      "title": "投稿须知",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:58:19+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://crad.ict.ac.cn/ziliaoxiazai",
+      "requested_url": "https://crad.ict.ac.cn/ziliaoxiazai",
+      "title": "导出文件",
+      "path": [
+        "官网入口",
+        "资料下载"
+      ],
+      "visited_at": "2026-11-26T20:58:19+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://crad.ict.ac.cn/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://crad.ict.ac.cn/",
+      "title": "计算机研究与发展",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

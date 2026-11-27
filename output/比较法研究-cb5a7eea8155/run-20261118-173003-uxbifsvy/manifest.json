@@ -1,0 +1,63 @@
+{
+  "journal": {
+    "name": "比较法研究",
+    "url": "https://bjfy.cbpt.cnki.net/WKI/WebPublication/index.aspx?mid=bjfy",
+    "journal_id": "CSSCI-2025-0001",
+    "row": 2,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "",
+  "collected_at": "2026-11-18T17:30:03+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "bjfy.cbpt.cnki.net"
+    ],
+    "limits": {
+      "max_pages": 18,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 10.0,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": true,
+      "use_browser_use": false
+    }
+  },
+  "pages": [],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://bjfy.cbpt.cnki.net/WKI/WebPublication/index.aspx?mid=bjfy",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "playwright_failed",
+      "detail": "Page.goto: Timeout 10000ms exceeded.\nCall log:\n  - navigating to \"https://bjfy.cbpt.cnki.net/WKI/WebPublication/index.aspx?mid=bjfy\", waiting until \"domcontentloaded\"\n",
+      "context": ""
+    },
+    {
+      "url": "https://bjfy.cbpt.cnki.net/WKI/WebPublication/index.aspx?mid=bjfy",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "HTTPSConnectionPool(host='bjfy.cbpt.cnki.net', port=443): Max retries exceeded with url: /WKI/WebPublication/index.aspx?mid=bjfy (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='bjfy.cbpt.cnki.net', port=443): Read timed out. (read timeout=10.0)\"))",
+      "context": ""
+    },
+    {
+      "url": "https://bjfy.cbpt.cnki.net/WKI/WebPublication/index.aspx?mid=bjfy",
+      "title": "比较法研究",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "index": 51,
+  "journal": "江汉考古",
+  "url": "https://www.hbkgy.com/jhkg/index.html",
+  "source_sheet": "可打开",
+  "source_row": 52,
+  "started_at": "2026-11-26T20:45:31+08:00",
+  "finished_at": "2026-11-26T20:46:30+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 1,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0051_江汉考古/manifest.json",
+  "pages": 3,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 2,
+  "pending_reasons": [
+    "no_valid_word_or_pdf",
+    "page_fetch_failed"
+  ]
+}

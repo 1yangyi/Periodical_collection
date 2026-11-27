@@ -1,0 +1,100 @@
+{
+  "journal": {
+    "name": "农业技术经济",
+    "url": "https://nyjs.cbpt.cnki.net/portal/journal/portal/client/index",
+    "journal_id": "",
+    "row": 324,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "completed",
+  "homepage_resolved": "https://nyjs.cbpt.cnki.net/portal/journal/portal/client/index",
+  "collected_at": "2026-11-26T20:59:40+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "nyjs.cbpt.cnki.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://nyjs.cbpt.cnki.net/portal/journal/portal/client/index",
+      "requested_url": "https://nyjs.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "农业技术经济",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:40+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://nyjs.cbpt.cnki.net/portal/journal/portal/client/news/nyjs_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "requested_url": "https://nyjs.cbpt.cnki.net/portal/journal/portal/client/news/nyjs_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "title": "投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:59:40+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "农业技术经济",
+      "source_url": "https://nyjs.cbpt.cnki.net/portal/journal/portal/client/index",
+      "path": [
+        "官网入口"
+      ],
+      "local_path": "web/农业技术经济_97f87773c7.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "attachment",
+      "format": "docx",
+      "title": "投稿须知",
+      "local_path": "attachments/f46a6a09-27e7-4200-9f59-49d30ec68143_711728db92.docx",
+      "sha256": "711728db928a14e449a4731acdde22a372dc2a103d0b67bf3e9bc91203349148",
+      "bytes": 11680,
+      "sources": [
+        {
+          "source_url": "https://nyjs.cbpt.cnki.net/portal/journal/portal/client/index",
+          "download_url": "https://publishmedia.cbpt.cnki.net/portal/minio/webs/Editor/2014/1027/vip0a/f46a6a09-27e7-4200-9f59-49d30ec68143.docx",
+          "resolved_url": "https://publishmedia.cbpt.cnki.net/portal/minio/webs/Editor/2014/1027/vip0a/f46a6a09-27e7-4200-9f59-49d30ec68143.docx",
+          "path": [
+            "官网入口",
+            "投稿须知"
+          ],
+          "label": "投稿须知",
+          "context": "投稿须知 论文模板 著作权转让声明",
+          "source_published_at": ""
+        },
+        {
+          "source_url": "https://nyjs.cbpt.cnki.net/portal/journal/portal/client/index",
+          "download_url": "https://publishmedia.cbpt.cnki.net/portal/minio/webs/Editor/2014/1027/vip0a/504d79b5-e30e-47d6-b7fe-979d548e06fa.docx",
+          "resolved_url": "https://publishmedia.cbpt.cnki.net/portal/minio/webs/Editor/2014/1027/vip0a/504d79b5-e30e-47d6-b7fe-979d548e06fa.docx",
+          "path": [
+            "官网入口",
+            "论文模板"
+          ],
+          "label": "论文模板",
+          "context": "投稿须知 论文模板 著作权转让声明",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": []
+}

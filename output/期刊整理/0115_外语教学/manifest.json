@@ -1,0 +1,52 @@
+{
+  "journal": {
+    "name": "外语教学",
+    "url": "https://xwxb.xisu.edu.cn/xisu_wyjx_ml/wyjx_ml.htm",
+    "journal_id": "",
+    "row": 116,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://xwxb.xisu.edu.cn/xisu_wyjx_ml/wyjx_ml.htm",
+  "collected_at": "2026-11-26T20:55:21+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "xwxb.xisu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://xwxb.xisu.edu.cn/xisu_wyjx_ml/wyjx_ml.htm",
+      "requested_url": "https://xwxb.xisu.edu.cn/xisu_wyjx_ml/wyjx_ml.htm",
+      "title": "《外语教学》目录-西安外国语大学学报编辑部官网主页,网站制作技术支持：新势力网络",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:55:21+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://xwxb.xisu.edu.cn/xisu_wyjx_ml/wyjx_ml.htm",
+      "title": "外语教学",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

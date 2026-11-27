@@ -1,0 +1,31 @@
+{
+  "index": 187,
+  "journal": "理论月刊",
+  "url": "http://llyk.portal.founderss.cn",
+  "source_sheet": "可打开",
+  "source_row": 188,
+  "started_at": "2026-11-26T20:58:02+08:00",
+  "finished_at": "2026-11-26T20:58:08+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 0,
+    "artifacts": 0,
+    "pending": 1,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST runs 返回 HTTP 402"
+  ],
+  "manifest": "0187_理论月刊/manifest.json",
+  "pages": 0,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 3,
+  "pending_reasons": [
+    "browser_use_failed",
+    "no_valid_word_or_pdf",
+    "page_fetch_failed"
+  ]
+}

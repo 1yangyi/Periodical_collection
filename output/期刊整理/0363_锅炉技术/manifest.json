@@ -1,0 +1,94 @@
+{
+  "journal": {
+    "name": "锅炉技术",
+    "url": "https://www.guolujishuzz.cn/",
+    "journal_id": "",
+    "row": 364,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.guolujishuzz.cn/",
+  "collected_at": "2026-11-26T21:00:15+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.guolujishuzz.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.guolujishuzz.cn/",
+      "requested_url": "https://www.guolujishuzz.cn/",
+      "title": "《锅炉技术》锅炉技术杂志社投稿_期刊论文发表|版面费|电话|编辑部|论文发表",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:00:15+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.guolujishuzz.cn/tougaozhinan/",
+      "requested_url": "http://www.guolujishuzz.cn/tougaozhinan/",
+      "title": "投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T21:00:15+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿指南",
+      "source_url": "https://www.guolujishuzz.cn/tougaozhinan/",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "local_path": "web/投稿指南_3fe3abe6c0.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "锅炉技术投稿格式",
+      "local_path": "锅炉技术投稿格式.md",
+      "source_urls": [
+        "https://www.guolujishuzz.cn/tougaozhinan/"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://www.guolujishuzz.cn/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://www.guolujishuzz.cn/",
+      "title": "锅炉技术",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

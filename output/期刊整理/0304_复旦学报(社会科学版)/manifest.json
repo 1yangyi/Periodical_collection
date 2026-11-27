@@ -1,0 +1,234 @@
+{
+  "journal": {
+    "name": "复旦学报(社会科学版)",
+    "url": "https://wkkyc.fudan.edu.cn/xsqk/list.htm",
+    "journal_id": "",
+    "row": 305,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://wkkyc.fudan.edu.cn/xsqk/list.htm",
+  "collected_at": "2026-11-26T20:59:30+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "wkkyc.fudan.edu.cn",
+      "www.fef.fudan.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://wkkyc.fudan.edu.cn/xsqk/list.htm",
+      "requested_url": "https://wkkyc.fudan.edu.cn/xsqk/list.htm",
+      "title": "学术期刊",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:30+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://wkkyc.fudan.edu.cn/1234/list.htm",
+      "requested_url": "https://wkkyc.fudan.edu.cn/1234/list.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:59:30+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://wkkyc.fudan.edu.cn/1237/list.htm",
+      "requested_url": "https://wkkyc.fudan.edu.cn/1237/list.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:59:30+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://wkkyc.fudan.edu.cn/16073/list.htm",
+      "requested_url": "https://wkkyc.fudan.edu.cn/16073/list.htm",
+      "title": "资料下载",
+      "path": [
+        "官网入口",
+        "资料下载"
+      ],
+      "visited_at": "2026-11-26T20:59:30+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://wkkyc.fudan.edu.cn/1234/list16.psp",
+      "requested_url": "https://wkkyc.fudan.edu.cn/1234/list16.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "尾页"
+      ],
+      "visited_at": "2026-11-26T20:59:30+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://wkkyc.fudan.edu.cn/1237/list16.psp",
+      "requested_url": "https://wkkyc.fudan.edu.cn/1237/list16.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "尾页"
+      ],
+      "visited_at": "2026-11-26T20:59:30+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://wkkyc.fudan.edu.cn/16073/list2.htm",
+      "requested_url": "https://wkkyc.fudan.edu.cn/16073/list2.htm",
+      "title": "资料下载",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "尾页"
+      ],
+      "visited_at": "2026-11-26T20:59:30+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "http://www.fef.fudan.edu.cn/",
+      "title": "www.fef.fudan.edu.cn",
+      "source_url": "https://wkkyc.fudan.edu.cn/xsqk/list.htm",
+      "path": [
+        "官网入口",
+        "www.fef.fudan.edu.cn"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "HTTPConnectionPool(host='www.fef.fudan.edu.cn', port=80): Max retries exceeded with url: / (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
+      "context": "期刊网站： www.fef.fudan.edu.cn"
+    },
+    {
+      "url": "https://wkkyc.fudan.edu.cn/_upload/article/files/1a/ae/3564f2b34cffacc614c08561ed8e/6ef26495-ec09-4d56-97ac-27b7bfc543e6.doc",
+      "title": "关于开展第十届教育部科学研究优秀成果奖（人文社会科学）申报工作的通知",
+      "source_url": "https://wkkyc.fudan.edu.cn/1234/list.htm",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "关于开展第十届教育部科学研究优秀成果奖（人文社会科学）申报工作的通知"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "关于开展第十届教育部科学研究优秀成果奖（人文社会科学）申报工作的通知 2025-10-23"
+    },
+    {
+      "url": "https://wkkyc.fudan.edu.cn/_upload/article/files/1a/ae/3564f2b34cffacc614c08561ed8e/6ef26495-ec09-4d56-97ac-27b7bfc543e6.doc",
+      "title": "关于开展第十届教育部科学研究优秀成果奖（人文社会科学）申报工作的通知",
+      "source_url": "https://wkkyc.fudan.edu.cn/1237/list.htm",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "关于开展第十届教育部科学研究优秀成果奖（人文社会科学）申报工作的通知"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "关于开展第十届教育部科学研究优秀成果奖（人文社会科学）申报工作的通知 2025-10-23"
+    },
+    {
+      "url": "https://wkkyc.fudan.edu.cn/_upload/article/files/7e/25/15a7dde34f03a12a95c6f3b49a0c/58d82839-3c24-40bd-89a8-c3a1e3718fdc.doc",
+      "title": "复旦大学文科虚体科研机构重要事项变更申请表",
+      "source_url": "https://wkkyc.fudan.edu.cn/16073/list.htm",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "复旦大学文科虚体科研机构重要事项变更申请表"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "复旦大学文科虚体科研机构重要事项变更申请表 2026-07-06"
+    },
+    {
+      "url": "https://wkkyc.fudan.edu.cn/_upload/article/files/fc/b3/825b3ce94925af573c5f9ea193f2/9bff3a69-2a77-42e4-8fb8-81fe98b2ccdd.xls",
+      "title": "复旦大学文科虚体科研机构拟聘负责人基本信息表",
+      "source_url": "https://wkkyc.fudan.edu.cn/16073/list.htm",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "复旦大学文科虚体科研机构拟聘负责人基本信息表"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "复旦大学文科虚体科研机构拟聘负责人基本信息表 2026-06-01"
+    },
+    {
+      "url": "https://wkkyc.fudan.edu.cn/_upload/article/files/a9/9f/3b421c7647f3a39abf7336d01e14/c2397260-932f-4110-a673-f42c6b656fc2.doc",
+      "title": "复旦大学文科虚体科研机构申请表",
+      "source_url": "https://wkkyc.fudan.edu.cn/16073/list.htm",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "复旦大学文科虚体科研机构申请表"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "复旦大学文科虚体科研机构申请表 2026-06-01"
+    },
+    {
+      "url": "https://wkkyc.fudan.edu.cn/_upload/article/files/7c/2d/c8a8096648e4af187d409cf65710/de60c9ba-442a-42f7-be26-8772e7c483ae.docx",
+      "title": "复旦大学文科“包干制”项目负责人科研诚信承诺书",
+      "source_url": "https://wkkyc.fudan.edu.cn/16073/list.htm",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "复旦大学文科“包干制”项目负责人科研诚信承诺书"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "复旦大学文科“包干制”项目负责人科研诚信承诺书 2023-04-04"
+    },
+    {
+      "url": "https://wkkyc.fudan.edu.cn/_upload/article/files/ee/42/b709870b4f69b9c9b956e50f8666/38fa0bc4-d719-4519-94c4-be8c19c30a75.docx",
+      "title": "关于调增国家社科项目间接费比例的申请",
+      "source_url": "https://wkkyc.fudan.edu.cn/16073/list.htm",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "关于调增国家社科项目间接费比例的申请"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "关于调增国家社科项目间接费比例的申请 2022-12-05"
+    },
+    {
+      "url": "https://wkkyc.fudan.edu.cn/xsqk/list.htm",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://wkkyc.fudan.edu.cn/xsqk/list.htm",
+      "title": "复旦学报(社会科学版)",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

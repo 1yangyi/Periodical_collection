@@ -1,0 +1,52 @@
+{
+  "journal": {
+    "name": "首都医科大学学报",
+    "url": "https://cjournal.hep.com.cn/1006-7795/CN/qkjs",
+    "journal_id": "",
+    "row": 98,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://cjournal.hep.com.cn/1006-7795/CN/qkjs",
+  "collected_at": "2026-11-26T20:52:34+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "cjournal.hep.com.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://cjournal.hep.com.cn/1006-7795/CN/qkjs",
+      "requested_url": "https://cjournal.hep.com.cn/1006-7795/CN/qkjs",
+      "title": "首都医科大学学报",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:52:34+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://cjournal.hep.com.cn/1006-7795/CN/qkjs",
+      "title": "首都医科大学学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

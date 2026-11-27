@@ -1,0 +1,109 @@
+{
+  "journal": {
+    "name": "外国语文",
+    "url": "https://scwy.cbpt.cnki.net/WKG/WebPublication/index.aspx",
+    "journal_id": "",
+    "row": 87,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://scwy.cbpt.cnki.net/WKG/WebPublication/index.aspx",
+  "collected_at": "2026-11-26T20:50:42+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "scwy.cbpt.cnki.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://scwy.cbpt.cnki.net/WKG/WebPublication/index.aspx",
+      "requested_url": "https://scwy.cbpt.cnki.net/WKG/WebPublication/index.aspx",
+      "title": "特稿",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:50:42+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://scwy.cbpt.cnki.net/WKG/WebPublication/wkTextContent.aspx?navigationContentID=05605a54-cb10-439a-9f63-b17b13310286&mid=scwy",
+      "requested_url": "https://scwy.cbpt.cnki.net/WKG/WebPublication/wkTextContent.aspx?navigationContentID=05605a54-cb10-439a-9f63-b17b13310286&mid=scwy",
+      "title": "外国语文",
+      "path": [
+        "官网入口",
+        "征稿简则"
+      ],
+      "visited_at": "2026-11-26T20:50:42+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://scwy.cbpt.cnki.net/WKG/WebPublication/wkTextContent.aspx?contentID=3a4ffa77-084c-46a8-9582-002d66be0ca5&mid=scwy",
+      "requested_url": "https://scwy.cbpt.cnki.net/WKG/WebPublication/wkTextContent.aspx?contentID=3a4ffa77-084c-46a8-9582-002d66be0ca5&mid=scwy",
+      "title": "外国语文",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:50:42+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "外国语文",
+      "source_url": "https://scwy.cbpt.cnki.net/WKG/WebPublication/wkTextContent.aspx?navigationContentID=05605a54-cb10-439a-9f63-b17b13310286&mid=scwy",
+      "path": [
+        "官网入口",
+        "征稿简则"
+      ],
+      "local_path": "web/外国语文_8e62676226.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "外国语文",
+      "source_url": "https://scwy.cbpt.cnki.net/WKG/WebPublication/wkTextContent.aspx?contentID=3a4ffa77-084c-46a8-9582-002d66be0ca5&mid=scwy",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "local_path": "web/外国语文_66573a0ff2.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "外国语文投稿格式",
+      "local_path": "外国语文投稿格式.md",
+      "source_urls": [
+        "https://scwy.cbpt.cnki.net/WKG/WebPublication/wkTextContent.aspx?navigationContentID=05605a54-cb10-439a-9f63-b17b13310286&mid=scwy",
+        "https://scwy.cbpt.cnki.net/WKG/WebPublication/wkTextContent.aspx?contentID=3a4ffa77-084c-46a8-9582-002d66be0ca5&mid=scwy"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://scwy.cbpt.cnki.net/WKG/WebPublication/index.aspx",
+      "title": "外国语文",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

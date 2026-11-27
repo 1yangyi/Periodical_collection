@@ -1,0 +1,30 @@
+{
+  "index": 130,
+  "journal": "武汉大学学报. 理学版",
+  "url": "https://xblx.whu.edu.cn/",
+  "source_sheet": "可打开",
+  "source_row": 131,
+  "started_at": "2026-11-26T20:57:14+08:00",
+  "finished_at": "2026-11-26T20:57:30+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 3,
+    "artifacts": 1,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST runs 返回 HTTP 402"
+  ],
+  "manifest": "0130_武汉大学学报. 理学版/manifest.json",
+  "pages": 3,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 1,
+  "pending_count": 2,
+  "pending_reasons": [
+    "browser_use_failed",
+    "no_valid_word_or_pdf"
+  ]
+}

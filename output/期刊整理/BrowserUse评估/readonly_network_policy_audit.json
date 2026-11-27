@@ -1,0 +1,1516 @@
+{
+  "read_only": true,
+  "no_policies_modified": true,
+  "totalItems": 100,
+  "collector_named_policies_on_page": 100,
+  "collector_policies_created_during_batch": 99,
+  "policies": [
+    {
+      "id": "e9d12562-6308-4a17-8dd0-d726577154b4",
+      "name": "periodical-collector-b5c65074c81f4b5cbe393d6dd4ecf90f",
+      "createdAt": "2026-11-26T12:58:45.296168Z",
+      "updatedAt": "2026-11-26T12:58:45.296168Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "zscq.cbpt.cnki.net"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "088cd6c8-a0b7-47ed-8385-eceda3c75216",
+      "name": "periodical-collector-7884d8595fbb4f8f85b1716cc4945aea",
+      "createdAt": "2026-11-26T12:58:44.489229Z",
+      "updatedAt": "2026-11-26T12:58:44.489229Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "sdlj.cbpt.cnki.net"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "37b95e42-4c18-4ab6-a5a0-e9c8f3665af5",
+      "name": "periodical-collector-c9aea86db70c4b3f88bdfd2226868b1b",
+      "createdAt": "2026-11-26T12:58:43.357400Z",
+      "updatedAt": "2026-11-26T12:58:43.357400Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "njxxgcdxxb.bowenkj.com"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "0fec4aa5-9a71-4f33-8ac2-44f0a3a46612",
+      "name": "periodical-collector-c4d2b55877b94c6ab97887e301f0b609",
+      "createdAt": "2026-11-26T12:58:42.891976Z",
+      "updatedAt": "2026-11-26T12:58:42.891976Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "stbcxb.com.cn",
+          "www.stbcxb.com.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "471b07d5-67a4-4a8b-ab70-6605f20490ad",
+      "name": "periodical-collector-ecac8ca36d5447b5a9e087bcfa0ea7e0",
+      "createdAt": "2026-11-26T12:58:41.002375Z",
+      "updatedAt": "2026-11-26T12:58:41.002375Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "jjgl.ajcass.com"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "65f51bd8-e0f3-4a52-8c70-488d84530dbe",
+      "name": "periodical-collector-0b8c4d472af646a7968bfa1260a342d3",
+      "createdAt": "2026-11-26T12:58:39.988200Z",
+      "updatedAt": "2026-11-26T12:58:39.988200Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "xbrka.publish.founderss.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "b8e0af9b-331a-47cf-b69b-8312ea0fe9b3",
+      "name": "periodical-collector-98e9723828a94b93a7ee42ea08ba86ee",
+      "createdAt": "2026-11-26T12:58:39.437570Z",
+      "updatedAt": "2026-11-26T12:58:39.437570Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "casisd.cas.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "584a1379-1db0-4ec9-b274-292997e88d61",
+      "name": "periodical-collector-139b144d412042878e8b6d79ca24cfbc",
+      "createdAt": "2026-11-26T12:58:39.431248Z",
+      "updatedAt": "2026-11-26T12:58:39.431248Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.chinaasc.org.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "0dda073e-52f2-40d8-a2ca-745891efdc58",
+      "name": "periodical-collector-512df18a39d74b9da76384bce0b9c97f",
+      "createdAt": "2026-11-26T12:58:38.652097Z",
+      "updatedAt": "2026-11-26T12:58:38.652097Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.gyig.ac.cn",
+          "www.sciengine.com"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "631613da-29d6-4f81-bd40-e7125058bdb2",
+      "name": "periodical-collector-32174d6d967e4de9b2aafc62b289e55c",
+      "createdAt": "2026-11-26T12:58:37.494696Z",
+      "updatedAt": "2026-11-26T12:58:37.494696Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.chinacirculation.org"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "710880ac-0181-4e29-be16-f2b9f97e9b47",
+      "name": "periodical-collector-109f5f94eaf04e89867ddc723ae5c62b",
+      "createdAt": "2026-11-26T12:58:36.895547Z",
+      "updatedAt": "2026-11-26T12:58:36.895547Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.zte.com.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "53b23339-53b6-4b75-b5c4-33d938b72901",
+      "name": "periodical-collector-a31776c675f548f8a0047704b7672d39",
+      "createdAt": "2026-11-26T12:58:36.875468Z",
+      "updatedAt": "2026-11-26T12:58:36.875468Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.pep.com.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "18ec856e-f246-43fd-bd93-99981147cd10",
+      "name": "periodical-collector-8168b82f6b124953bc1cd7139c0766e6",
+      "createdAt": "2026-11-26T12:58:35.774426Z",
+      "updatedAt": "2026-11-26T12:58:35.774426Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.csm1952.org.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "eeb12b93-f245-48bf-a2ed-cf27090d3f4a",
+      "name": "periodical-collector-40011fe93cea4f418a2c49a4fbb58969",
+      "createdAt": "2026-11-26T12:58:34.810044Z",
+      "updatedAt": "2026-11-26T12:58:34.810044Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.hebsky.org.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "87edc004-aced-4f24-94e0-bdf4111c7cec",
+      "name": "periodical-collector-889849f5fee74d378076bc7ae871a4d9",
+      "createdAt": "2026-11-26T12:58:34.286567Z",
+      "updatedAt": "2026-11-26T12:58:34.286567Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.geores.com.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "49b2e5a6-2d2b-4d83-8f22-4cc2fe736c2a",
+      "name": "periodical-collector-91fb2fbeba79429e9aa3c91e0162b4d1",
+      "createdAt": "2026-11-26T12:58:32.345327Z",
+      "updatedAt": "2026-11-26T12:58:32.345327Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.geores.com.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "61a6bd13-4d8d-4ace-af29-5d5979ccd0a8",
+      "name": "periodical-collector-aa9f299c2e0949c09d69af94d941f7b2",
+      "createdAt": "2026-11-26T12:58:32.237317Z",
+      "updatedAt": "2026-11-26T12:58:32.237317Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.mckx.net"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "d7cabb7c-6670-4e4b-9e94-eba5e0848a18",
+      "name": "periodical-collector-9a17b9597a934226b25a4dae1f20c575",
+      "createdAt": "2026-11-26T12:58:29.233315Z",
+      "updatedAt": "2026-11-26T12:58:29.233315Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "crad.ict.ac.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "b02b8c68-e926-4782-8a92-02533dd8abf5",
+      "name": "periodical-collector-6ecf455d7414422594d6a3ac9be2f01d",
+      "createdAt": "2026-11-26T12:58:26.531708Z",
+      "updatedAt": "2026-11-26T12:58:26.531708Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "gthjjs.spacejournal.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "448aab52-205e-4494-9d32-c8eaa96738aa",
+      "name": "periodical-collector-66d5b3ffd191485cabe611f9f3c0e80e",
+      "createdAt": "2026-11-26T12:58:23.973312Z",
+      "updatedAt": "2026-11-26T12:58:23.973312Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "hlxzz.tjh.com.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "d8c157c7-0f3e-44de-a8ee-7cbbe1b4f6e7",
+      "name": "periodical-collector-6902656c16db454b90c92c57cc0982cb",
+      "createdAt": "2026-11-26T12:58:22.954408Z",
+      "updatedAt": "2026-11-26T12:58:22.954408Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "nkcm.jaas.ac.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "35198bec-7689-492c-9721-c4c7dd5017c1",
+      "name": "periodical-collector-83ecb1151f5045eeb7660805e86d28ea",
+      "createdAt": "2026-11-26T12:58:22.812163Z",
+      "updatedAt": "2026-11-26T12:58:22.812163Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "amte.publish.founderss.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "788184c5-6470-4942-80d7-e3c7d217df90",
+      "name": "periodical-collector-e4bd95d2ffa14257b741441f55915623",
+      "createdAt": "2026-11-26T12:58:22.306184Z",
+      "updatedAt": "2026-11-26T12:58:22.306184Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.aass.ac.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "6fadcb2e-50c3-4d3f-aa93-1224d320c28e",
+      "name": "periodical-collector-69e5ac490be14a3289dfb254e3ba4674",
+      "createdAt": "2026-11-26T12:58:21.066020Z",
+      "updatedAt": "2026-11-26T12:58:21.066020Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "licp.cas.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "b9d7132b-db5b-4358-a17e-0fbd6ba89042",
+      "name": "periodical-collector-d5f4af102b924cc7a871908333a2b7a2",
+      "createdAt": "2026-11-26T12:58:18.496954Z",
+      "updatedAt": "2026-11-26T12:58:18.496954Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "dlxt1.publish.founderss.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "de0651b6-f409-4d1e-9e4f-3e75bceddd57",
+      "name": "periodical-collector-3df2b4d4e0a44b93bbec9ca09cbe2196",
+      "createdAt": "2026-11-26T12:58:16.520931Z",
+      "updatedAt": "2026-11-26T12:58:16.520931Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.integrativebiology.ac.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "636cb0d3-3634-48e6-a041-95b50fc037ac",
+      "name": "periodical-collector-237f3159043e4aac847b465f1cbc84fb",
+      "createdAt": "2026-11-26T12:58:15.159340Z",
+      "updatedAt": "2026-11-26T12:58:15.159340Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.gyig.ac.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "ff4475b1-8713-4700-8853-d6e73de5690f",
+      "name": "periodical-collector-4099b6a28bbf4b9a9d44b6be166b3f5c",
+      "createdAt": "2026-11-26T12:58:14.985123Z",
+      "updatedAt": "2026-11-26T12:58:14.985123Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "bigo.publish.founderss.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "69567718-2bc0-4798-963a-88e7caf75163",
+      "name": "periodical-collector-17a23818a99f4742b96fc12016f26586",
+      "createdAt": "2026-11-26T12:58:13.975992Z",
+      "updatedAt": "2026-11-26T12:58:13.975992Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "cnrri.caas.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "96bc2fc9-e03a-4288-a9ee-9943d03d59e1",
+      "name": "periodical-collector-754c78ba0e574f2d85bb51547a593564",
+      "createdAt": "2026-11-26T12:58:11.382889Z",
+      "updatedAt": "2026-11-26T12:58:11.382890Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "opg.optica.org"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "e2c4a6c8-bc20-4727-a31b-4c21427c9250",
+      "name": "periodical-collector-1890506e6c0b4eb4a01c9826b2836bed",
+      "createdAt": "2026-11-26T12:58:10.055726Z",
+      "updatedAt": "2026-11-26T12:58:10.055726Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.amr.org.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "9c2563d5-9450-42e6-9680-c5b7dcfb12ce",
+      "name": "periodical-collector-fd9b5d297a6c4fce862270dc01f41f2d",
+      "createdAt": "2026-11-26T12:58:09.792213Z",
+      "updatedAt": "2026-11-26T12:58:09.792213Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "wyb.chinawriter.com.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "cfe6d556-348c-4e46-b040-d3b800e736da",
+      "name": "periodical-collector-8e20a2c7dc694118991a1f879e9729bc",
+      "createdAt": "2026-11-26T12:58:08.094755Z",
+      "updatedAt": "2026-11-26T12:58:08.094755Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "llyk.portal.founderss.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "e97e3e4b-a24c-4b60-88aa-fde80bf8760e",
+      "name": "periodical-collector-d75f1b3b2cd947fc907a166e668f043f",
+      "createdAt": "2026-11-26T12:58:07.410251Z",
+      "updatedAt": "2026-11-26T12:58:07.410251Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.theorychina.org.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "92d07dee-52ee-4140-b4c1-e0b54019f6a1",
+      "name": "periodical-collector-cde50681e1b64e359e5a64d88841ebca",
+      "createdAt": "2026-11-26T12:58:06.836785Z",
+      "updatedAt": "2026-11-26T12:58:06.836786Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.rmlt.com.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "33f73248-94ff-465e-ab63-d79b893f3d63",
+      "name": "periodical-collector-1bc1750e5c4b47159192b61f0cf5d2a3",
+      "createdAt": "2026-11-26T12:58:06.418349Z",
+      "updatedAt": "2026-11-26T12:58:06.418349Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "mzwxyj.ajcass.com"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "71c93c53-ed1e-4171-8a79-c3ab52dc7d69",
+      "name": "periodical-collector-9915363005f942bf9f84472d0a546bc0",
+      "createdAt": "2026-11-26T12:58:05.467854Z",
+      "updatedAt": "2026-11-26T12:58:05.467854Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.mct.gov.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "dc72fb95-3bff-4acd-9a7d-40a91d7486a7",
+      "name": "periodical-collector-c809a840c91a40c083ff8ad118034df8",
+      "createdAt": "2026-11-26T12:58:04.767597Z",
+      "updatedAt": "2026-11-26T12:58:04.767597Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "fangyan.ajcass.com"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "f5051c68-2eb5-40cb-a136-54f8f8718821",
+      "name": "periodical-collector-427ef0ffbb9e4801b17f3269d0de36c3",
+      "createdAt": "2026-11-26T12:58:04.229002Z",
+      "updatedAt": "2026-11-26T12:58:04.229002Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.humanrights.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "86757785-606c-44df-bcef-3a9e0b640de4",
+      "name": "periodical-collector-baec208baa254ef38ba5f1dcc2236448",
+      "createdAt": "2026-11-26T12:58:03.464468Z",
+      "updatedAt": "2026-11-26T12:58:03.464468Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "llsj.portal.founderss.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "48608a11-4e7d-4e6b-a588-8e646135007e",
+      "name": "periodical-collector-6466efc953a84d2ea5f823c1475e7b6d",
+      "createdAt": "2026-11-26T12:58:03.107481Z",
+      "updatedAt": "2026-11-26T12:58:03.107481Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.bai.gov.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "c3ca0f3f-822f-45ea-a6fc-bf10599f1289",
+      "name": "periodical-collector-3ad2e9de599048d2a9c4b1a67d735a05",
+      "createdAt": "2026-11-26T12:58:02.311779Z",
+      "updatedAt": "2026-11-26T12:58:02.311779Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.shshuhua.com"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "3ce28734-8eca-448e-908e-c039b3247708",
+      "name": "periodical-collector-45d54dad47324b069108dc603878dd05",
+      "createdAt": "2026-11-26T12:58:01.467217Z",
+      "updatedAt": "2026-11-26T12:58:01.467217Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "qbxb.istic.ac.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "1718c6c2-78fc-4897-9031-bb5e2f83d17b",
+      "name": "periodical-collector-cfb52a034c4d48bdb662fe35283634aa",
+      "createdAt": "2026-11-26T12:58:01.095873Z",
+      "updatedAt": "2026-11-26T12:58:01.095873Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "cabaolai.com"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "fc222e63-3827-478d-94fc-50216ea15d7a",
+      "name": "periodical-collector-227cadebd3ae4cb69c886d74d4fd08ea",
+      "createdAt": "2026-11-26T12:58:00.672642Z",
+      "updatedAt": "2026-11-26T12:58:00.672642Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "literarycritik.ajcass.com"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "598e82eb-8bce-4a1b-8b3d-3fce886ad493",
+      "name": "periodical-collector-2746367de4e441878b92286b367ceec5",
+      "createdAt": "2026-11-26T12:57:59.943556Z",
+      "updatedAt": "2026-11-26T12:57:59.943556Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "shfzyj.ajcass.com"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "4ad62b4a-33e0-4f35-b70a-973c8d383b2b",
+      "name": "periodical-collector-0a6d29dce97349b7b8902b67945edacf",
+      "createdAt": "2026-11-26T12:57:59.071987Z",
+      "updatedAt": "2026-11-26T12:57:59.071987Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.cjoovs.com",
+          "www.wzeye.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "087c3cf6-6ee0-4466-aa45-cc3e1f6a0a08",
+      "name": "periodical-collector-43d8e10f19524cfc9d5c3f7e7c06ad5f",
+      "createdAt": "2026-11-26T12:57:58.727402Z",
+      "updatedAt": "2026-11-26T12:57:58.727402Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.ccps.gov.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "0ae7546c-fc3a-4f6a-b31a-9e14604c7d4f",
+      "name": "periodical-collector-a3fe48289c474780aa955658c56e3105",
+      "createdAt": "2026-11-26T12:57:57.997163Z",
+      "updatedAt": "2026-11-26T12:57:57.997163Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.qstheory.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "3ef267ad-e521-4e56-b4b9-b46c6811e3b1",
+      "name": "periodical-collector-c23bdee74bda4129911aabbf7faeab2e",
+      "createdAt": "2026-11-26T12:57:56.779059Z",
+      "updatedAt": "2026-11-26T12:57:56.779059Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.dswxyjy.org.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "2a8e4fdb-1445-40a6-a2c5-11d814841ecf",
+      "name": "periodical-collector-51ef8d4ea43b4369a444dc6c4a0ae21a",
+      "createdAt": "2026-11-26T12:57:56.051607Z",
+      "updatedAt": "2026-11-26T12:57:56.051607Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "lsyj.ajcass.com"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "f94e0cee-40ca-4d97-9d38-a506b82401e1",
+      "name": "periodical-collector-4c6eb7fbf3a5423d85d5fb8155e3948d",
+      "createdAt": "2026-11-26T12:57:55.495111Z",
+      "updatedAt": "2026-11-26T12:57:55.495112Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "zgsyj.ajcass.com"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "fc34c3e4-392f-42f7-8df9-421739eb9fdf",
+      "name": "periodical-collector-22b8b3a776fd4bfeb6e4a3a19155f786",
+      "createdAt": "2026-11-26T12:57:54.972624Z",
+      "updatedAt": "2026-11-26T12:57:54.972624Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "ciejournal.ajcass.com"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "ce4efa58-c30d-4f0f-8765-08546bab1413",
+      "name": "periodical-collector-151cc473d2184b08849c260bec7cfaa7",
+      "createdAt": "2026-11-26T12:57:54.130594Z",
+      "updatedAt": "2026-11-26T12:57:54.130594Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "epaper.gmw.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "850c0b73-c8a7-4955-b77b-a83e5d2e307d",
+      "name": "periodical-collector-a71b3593d24b47c3a3c93daca6055daa",
+      "createdAt": "2026-11-26T12:57:53.374926Z",
+      "updatedAt": "2026-11-26T12:57:53.374926Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "kgzzs.ajcass.com"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "19cfb4d1-3989-4d71-b316-57419f8c3d98",
+      "name": "periodical-collector-099108192fe243e98e692e85256e8155",
+      "createdAt": "2026-11-26T12:57:52.879375Z",
+      "updatedAt": "2026-11-26T12:57:52.879375Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.chemsoc.org.cn",
+          "www.whxb.pku.edu.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "564924eb-48e6-4d96-8ca1-d1d088f1ed15",
+      "name": "periodical-collector-ae76344690a44bd0b87581d6bcb8da7f",
+      "createdAt": "2026-11-26T12:57:52.561056Z",
+      "updatedAt": "2026-11-26T12:57:52.561056Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "erj.ajcass.com"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "99c5966d-107c-486a-be0b-027c3558b71c",
+      "name": "periodical-collector-b035a45232514efba220a35b1a1cd372",
+      "createdAt": "2026-11-26T12:57:51.751945Z",
+      "updatedAt": "2026-11-26T12:57:51.751945Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.cpa.org.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "e5b6aefe-23a9-442d-a03d-e4dfdb3b37e1",
+      "name": "periodical-collector-b0c010d6130b41479366aad87f62a20c",
+      "createdAt": "2026-11-26T12:57:51.059736Z",
+      "updatedAt": "2026-11-26T12:57:51.059736Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.caitec.org.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "b3391094-5fa9-43b0-befd-bc9abf090f0c",
+      "name": "periodical-collector-c24d1c3979e54626aaa373d38b31fe21",
+      "createdAt": "2026-11-26T12:57:50.274982Z",
+      "updatedAt": "2026-11-26T12:57:50.274982Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "academic.orthonline.com.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "b4aa8dcf-4e7e-4115-a2d0-57be31a406e2",
+      "name": "periodical-collector-10593b4891be496bbe3a3b3322e178f7",
+      "createdAt": "2026-11-26T12:57:50.265082Z",
+      "updatedAt": "2026-11-26T12:57:50.265082Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.spkx.net.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "85d60ffb-025b-4e98-ba8c-83d48d2f87fc",
+      "name": "periodical-collector-d33b58d09dfe4bf2ae1c0215c6499c68",
+      "createdAt": "2026-11-26T12:57:48.633765Z",
+      "updatedAt": "2026-11-26T12:57:48.633765Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "sibpt.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "b10ea04b-d724-40a6-8a51-3d3d16ef1e54",
+      "name": "periodical-collector-637b82d18f5347a9b81cee5f347085b1",
+      "createdAt": "2026-11-26T12:57:48.334795Z",
+      "updatedAt": "2026-11-26T12:57:48.334795Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "hnxbl.cnjournals.net",
+          "qks.hzau.edu.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "faf63ab7-6da6-4fcd-a29e-5e2b43fa34a2",
+      "name": "periodical-collector-acc2100a9f8b4f08aae55cc30bea7604",
+      "createdAt": "2026-11-26T12:57:47.949949Z",
+      "updatedAt": "2026-11-26T12:57:47.949949Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "tric.caas.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "d1ca6f00-59a8-4252-9ed4-3fa5cb82b277",
+      "name": "periodical-collector-33d09c52195642e4af756929d01e16ae",
+      "createdAt": "2026-11-26T12:57:47.810169Z",
+      "updatedAt": "2026-11-26T12:57:47.810170Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "founder-rc-product.oss-cn-zhangjiakou.aliyuncs.com",
+          "journal.ujn.edu.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "1f4ccf98-1f16-466b-a51c-aa7d71719584",
+      "name": "periodical-collector-70214a0c85d346b3bb16ce5735fbb502",
+      "createdAt": "2026-11-26T12:57:45.616487Z",
+      "updatedAt": "2026-11-26T12:57:45.616488Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "caas.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "d16210b6-59f5-4ec7-bb37-bc94d8488fc4",
+      "name": "periodical-collector-cf3a6fbeafc6412193d4154336f3f9b7",
+      "createdAt": "2026-11-26T12:57:44.939323Z",
+      "updatedAt": "2026-11-26T12:57:44.939323Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "caas.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "2aca4356-c0a8-439e-9125-5c559070f9aa",
+      "name": "periodical-collector-e24d8b19cc2444a19c0bc3276222d3a2",
+      "createdAt": "2026-11-26T12:57:43.404146Z",
+      "updatedAt": "2026-11-26T12:57:43.404147Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.cndent.com",
+          "www.kqyxyj.com"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "3938c500-d84e-4442-ab16-cbb2fa606624",
+      "name": "periodical-collector-889d50b9809a4678abf7fbae7de969a4",
+      "createdAt": "2026-11-26T12:57:42.630670Z",
+      "updatedAt": "2026-11-26T12:57:42.630670Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "ebook.xml-journal.net"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "99a4fcd1-e5d4-4a68-a451-1c74ba649aac",
+      "name": "periodical-collector-52307f464d0543748c7c63fd1c348a03",
+      "createdAt": "2026-11-26T12:57:41.600898Z",
+      "updatedAt": "2026-11-26T12:57:41.600898Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "caas.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "c1ea52f0-e5e8-4539-841f-85be022d2c5a",
+      "name": "periodical-collector-1085ddd793ee4c52ae6a53203d3679ce",
+      "createdAt": "2026-11-26T12:57:41.223773Z",
+      "updatedAt": "2026-11-26T12:57:41.223773Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "rdm.yiigle.com"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "ce1e9dc4-dd62-423a-83fa-33df759fb09e",
+      "name": "periodical-collector-7795baac079e4c75b969e4038467be7f",
+      "createdAt": "2026-11-26T12:57:40.605677Z",
+      "updatedAt": "2026-11-26T12:57:40.605677Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.jos.ac.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "d1d52395-2146-4c11-8b25-e7b042b6a175",
+      "name": "periodical-collector-9dc57dea5bab42b9860a657cca0ee026",
+      "createdAt": "2026-11-26T12:57:40.315085Z",
+      "updatedAt": "2026-11-26T12:57:40.315085Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "caas.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "369ad99d-32d2-4258-a0b4-3117940a56c1",
+      "name": "periodical-collector-341f30e879dd41eab2e89a0730a092fa",
+      "createdAt": "2026-11-26T12:57:39.184453Z",
+      "updatedAt": "2026-11-26T12:57:39.184453Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "emscience.org"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "a53e5c36-c622-468d-836c-ef4387813cf8",
+      "name": "periodical-collector-61e337152fdf4204a339587dde6dd711",
+      "createdAt": "2026-11-26T12:57:38.885464Z",
+      "updatedAt": "2026-11-26T12:57:38.885464Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "price-world.com.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "f8ab99da-226d-46d6-be24-dbeb9d17e115",
+      "name": "periodical-collector-35f753e0f39b46fd9d34502661697b82",
+      "createdAt": "2026-11-26T12:57:37.656501Z",
+      "updatedAt": "2026-11-26T12:57:37.656501Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "opg.optica.org"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "90959c1f-698c-4a30-af1c-34def9609e20",
+      "name": "periodical-collector-9a20f2b14ec4442b9c945a08230eacaa",
+      "createdAt": "2026-11-26T12:57:37.291545Z",
+      "updatedAt": "2026-11-26T12:57:37.291545Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.naea.edu.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "4aed9047-b319-4c07-ba84-20f659abe9d6",
+      "name": "periodical-collector-11ed81d962e24295bd62baab34aadf5a",
+      "createdAt": "2026-11-26T12:57:36.808418Z",
+      "updatedAt": "2026-11-26T12:57:36.808418Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "zgtsjy.cnaes.edu.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "82ac3d6a-3857-4295-a754-c50facd50f95",
+      "name": "periodical-collector-c9f9aefd14574e13aa42087f100911c8",
+      "createdAt": "2026-11-26T12:57:35.515394Z",
+      "updatedAt": "2026-11-26T12:57:35.515394Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "pip.nju.edu.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "6c489f9c-b898-4788-a4f2-83174fd59b48",
+      "name": "periodical-collector-4cc5c5b0379440a3be96ae9d92ec04db",
+      "createdAt": "2026-11-26T12:57:34.328812Z",
+      "updatedAt": "2026-11-26T12:57:34.328812Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.zjujournals.com"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "a103438d-2814-43ee-ada4-4bbe53b24669",
+      "name": "periodical-collector-fc173d28548c4eb890b50933bedd4c4b",
+      "createdAt": "2026-11-26T12:57:34.311394Z",
+      "updatedAt": "2026-11-26T12:57:34.311394Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "swxjx.ecnu.edu.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "f836d62e-14fe-4dad-89bf-85494a9e135f",
+      "name": "periodical-collector-9addc00e96ec4f5aaea97c231f17429f",
+      "createdAt": "2026-11-26T12:57:33.682769Z",
+      "updatedAt": "2026-11-26T12:57:33.682769Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "edu.hnu.edu.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "e42b0024-3bb5-45a9-8496-5bc812d17f14",
+      "name": "periodical-collector-1140d3284de6478086a14ae224fb2b17",
+      "createdAt": "2026-11-26T12:57:32.760578Z",
+      "updatedAt": "2026-11-26T12:57:32.760578Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "nkes.nankai.edu.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "b87c019b-fafc-4c2a-878a-8c315e4771d2",
+      "name": "periodical-collector-3da6a46351cf41299be5e2d9393f5480",
+      "createdAt": "2026-11-26T12:57:30.814042Z",
+      "updatedAt": "2026-11-26T12:57:30.814042Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "xblx.whu.edu.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "7b662ead-d566-4bc1-9ff8-6c6a05af0da1",
+      "name": "periodical-collector-9881ed5d040a42bc9b6fb8fe00ca839e",
+      "createdAt": "2026-11-26T12:57:30.460591Z",
+      "updatedAt": "2026-11-26T12:57:30.460591Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "xbbj.xjnu.edu.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "328c3b21-7a72-43e5-b972-7ef778e8c7e7",
+      "name": "periodical-collector-993045d32798418c86d863df4e84101e",
+      "createdAt": "2026-11-26T12:57:30.287069Z",
+      "updatedAt": "2026-11-26T12:57:30.287069Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.qk.sjtu.edu.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "ecf6dda0-e132-4951-979f-de3fa1b7e9ed",
+      "name": "periodical-collector-715b80c20baf43739adfd15bfcfaa1b0",
+      "createdAt": "2026-11-26T12:57:30.093240Z",
+      "updatedAt": "2026-11-26T12:57:30.093241Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "law.nju.edu.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "3a0c2415-1c02-481b-87ae-d1a8194c806d",
+      "name": "periodical-collector-d1133885e4b04ad49d2bd0fbe28b0eb0",
+      "createdAt": "2026-11-26T12:57:27.837309Z",
+      "updatedAt": "2026-11-26T12:57:27.837309Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "jdse.bit.edu.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "cbb9928f-f019-443a-bc1f-cf2d357e2156",
+      "name": "periodical-collector-46f659f4e27d42ff8f9ced87b4c702d0",
+      "createdAt": "2026-11-26T12:57:27.753989Z",
+      "updatedAt": "2026-11-26T12:57:27.753989Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "jour.hhu.edu.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "c70277d1-5eec-41dc-a4d9-d214e525b745",
+      "name": "periodical-collector-6d37faf78d414186af354d64ff368e9a",
+      "createdAt": "2026-11-26T12:57:24.648358Z",
+      "updatedAt": "2026-11-26T12:57:24.648358Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "justc.ustc.edu.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "9b9fdea3-d610-41de-ac57-583931366ea9",
+      "name": "periodical-collector-ac2bc48b18264834968dead1f06e8929",
+      "createdAt": "2026-11-26T12:57:24.103846Z",
+      "updatedAt": "2026-11-26T12:57:24.103846Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.qk.sjtu.edu.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "5d52a429-8fa4-421d-8adc-26c8a566f291",
+      "name": "periodical-collector-3bd8551bb0cc4da08377d5aa6044cf2e",
+      "createdAt": "2026-11-26T12:57:23.257683Z",
+      "updatedAt": "2026-11-26T12:57:23.257683Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.juestc.uestc.edu.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "d45424e0-e2ca-4ec8-a16b-dc3a7c9dabf4",
+      "name": "periodical-collector-c41943e03b7946f4995a7330631e9469",
+      "createdAt": "2026-11-26T12:57:19.182403Z",
+      "updatedAt": "2026-11-26T12:57:19.182403Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "amss.hust.edu.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "bab25bc7-6faa-43a9-9dd4-2f621c709e71",
+      "name": "periodical-collector-f3575fcfcac54052a069c99f88ffe90c",
+      "createdAt": "2026-11-26T12:57:18.583526Z",
+      "updatedAt": "2026-11-26T12:57:18.583526Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "jmsa.hrbeu.edu.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "0eb08a56-21dd-47ee-a42c-e91484f144fa",
+      "name": "periodical-collector-99dc8b5d5b314104928886b7ca8ec4ef",
+      "createdAt": "2026-11-26T12:57:17.214064Z",
+      "updatedAt": "2026-11-26T12:57:17.214065Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "lib.ahpu.edu.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "6aff2ff4-c5dc-47ff-af37-12a1521df66b",
+      "name": "periodical-collector-2fd9cb63710e45c69896882a9273bb4b",
+      "createdAt": "2026-11-26T12:57:15.755875Z",
+      "updatedAt": "2026-11-26T12:57:15.755875Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "safetyse.ustc.edu.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "9bc0388c-e79c-480f-aba8-78ea9ffd85a9",
+      "name": "periodical-collector-079e8141d2094c529206da0b8f71618c",
+      "createdAt": "2026-11-26T12:57:11.645803Z",
+      "updatedAt": "2026-11-26T12:57:11.645803Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "qkzx.xsyu.edu.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "686c7e74-07f8-4dd5-af98-00ae4a1c29c8",
+      "name": "periodical-collector-9f04dead41a741f0882d4d9bfaf12130",
+      "createdAt": "2026-11-26T12:54:10.250958Z",
+      "updatedAt": "2026-11-26T12:54:10.250958Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "kyy.tongji.edu.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "4078125b-e444-4ab6-a4dd-3f10ff4e8522",
+      "name": "periodical-collector-3db587dda6344336bd52580a2a7320dc",
+      "createdAt": "2026-11-26T12:44:24.016943Z",
+      "updatedAt": "2026-11-26T12:44:24.016943Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "zghh.cinnet.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    },
+    {
+      "id": "f418d8c8-f335-4254-b7a9-3df1467f130f",
+      "name": "periodical-collector-6a4b89348c77491492621b54f48fe32f",
+      "createdAt": "2026-11-18T09:53:30.790818Z",
+      "updatedAt": "2026-11-18T09:53:30.790818Z",
+      "defaultAction": "block",
+      "allow": {
+        "domains": [
+          "www.sdsfxh.org.cn"
+        ]
+      },
+      "block": {
+        "domains": []
+      }
+    }
+  ]
+}

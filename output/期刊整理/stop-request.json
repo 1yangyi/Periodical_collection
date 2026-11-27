@@ -1,0 +1,5 @@
+{
+  "user_requested_pause": true,
+  "signal": "SIGTERM",
+  "process_ids": []
+}

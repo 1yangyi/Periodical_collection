@@ -1,0 +1,175 @@
+{
+  "journal": {
+    "name": "Chinese Journal of Aeronautics",
+    "url": "https://www.sciopen.com/journal/1000-9361",
+    "journal_id": "",
+    "row": 281,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.sciopen.com/journal/1000-9361",
+  "collected_at": "2026-11-26T20:59:16+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.sciopen.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.sciopen.com/journal/1000-9361",
+      "requested_url": "https://www.sciopen.com/journal/1000-9361",
+      "title": "Chinese Journal of Aeronautics | SciOpen",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:16+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1808700965752745985&issn=1000-9361",
+      "requested_url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1808700965752745985&issn=1000-9361",
+      "title": "Submission Guidelines - SciOpen",
+      "path": [
+        "官网入口",
+        "Submission Guidelines"
+      ],
+      "visited_at": "2026-11-26T20:59:16+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.sciopen.com/journal/1998-0124",
+      "requested_url": "https://www.sciopen.com/journal/1998-0124",
+      "title": "Nano Research | SciOpen",
+      "path": [
+        "官网入口",
+        "Submission Guidelines",
+        "Submission Guidelines"
+      ],
+      "visited_at": "2026-11-26T20:59:16+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1400285564990251009&issn=1998-0124",
+      "requested_url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1400285564990251009&issn=1998-0124",
+      "title": "Submission Guidelines - SciOpen",
+      "path": [
+        "官网入口",
+        "Submission Guidelines",
+        "Submission Guidelines",
+        "Submission Guidelines"
+      ],
+      "visited_at": "2026-11-26T20:59:16+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.sciopen.com/journal/message_news/view_more?id=1400285564990251009&issn=1998-0124&type=0",
+      "requested_url": "https://www.sciopen.com/journal/message_news/view_more?id=1400285564990251009&issn=1998-0124&type=0",
+      "title": "Notice - SciOpen",
+      "path": [
+        "官网入口",
+        "Submission Guidelines",
+        "Submission Guidelines",
+        "Announcements and Events"
+      ],
+      "visited_at": "2026-11-26T20:59:16+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.sciopen.com/journal/message_news/get_by_id?id=1947217554247827457&issn=1998-0124",
+      "requested_url": "https://www.sciopen.com/journal/message_news/get_by_id?id=1947217554247827457&issn=1998-0124",
+      "title": "Notice Detail - SciOpen",
+      "path": [
+        "官网入口",
+        "Submission Guidelines",
+        "Submission Guidelines",
+        "21 July 2025 The announcement of the twelfth Nano Research Award winner"
+      ],
+      "visited_at": "2026-11-26T20:59:16+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.sciopen.com/journal/1000-9361",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "https://www.sciopen.com/journal/1998-0124",
+      "title": "Submission Guidelines",
+      "source_url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1808700965752745985&issn=1000-9361",
+      "path": [
+        "官网入口",
+        "Submission Guidelines",
+        "Submission Guidelines"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": "Submission Guidelines"
+    },
+    {
+      "url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1400285564990251009&issn=1998-0124",
+      "title": "Submission Guidelines",
+      "source_url": "https://www.sciopen.com/journal/1998-0124",
+      "path": [
+        "官网入口",
+        "Submission Guidelines",
+        "Submission Guidelines",
+        "Submission Guidelines"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": "Submission Guidelines Submit Manuscript"
+    },
+    {
+      "url": "https://www.sciopen.com/journal/message_news/view_more?id=1400285564990251009&issn=1998-0124&type=0",
+      "title": "Announcements and Events",
+      "source_url": "https://www.sciopen.com/journal/1998-0124",
+      "path": [
+        "官网入口",
+        "Submission Guidelines",
+        "Submission Guidelines",
+        "Announcements and Events"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": "Announcements and Events"
+    },
+    {
+      "url": "https://www.sciopen.com/journal/1000-9361",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://www.sciopen.com/journal/1000-9361",
+      "title": "Chinese Journal of Aeronautics",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

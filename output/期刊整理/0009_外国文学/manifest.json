@@ -1,0 +1,125 @@
+{
+  "journal": {
+    "name": "外国文学",
+    "url": "https://wxs.bfsu.edu.cn/info/1163/1515.htm",
+    "journal_id": "",
+    "row": 10,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://wxs.bfsu.edu.cn/info/1163/1515.htm",
+  "collected_at": "2026-11-26T20:39:07+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "wxs.bfsu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://wxs.bfsu.edu.cn/info/1163/1515.htm",
+      "requested_url": "https://wxs.bfsu.edu.cn/info/1163/1515.htm",
+      "title": "《外国文学》简介",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:39:07+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://wxs.bfsu.edu.cn/wgwx/tgyq.htm",
+      "requested_url": "https://wxs.bfsu.edu.cn/wgwx/tgyq.htm",
+      "title": "《外国文学》投稿须知",
+      "path": [
+        "官网入口",
+        "投稿要求"
+      ],
+      "visited_at": "2026-11-26T20:39:07+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://wxs.bfsu.edu.cn/info/1123/1124.htm",
+      "requested_url": "https://wxs.bfsu.edu.cn/info/1123/1124.htm",
+      "title": "《外国文学》体例说明",
+      "path": [
+        "《外国文学》简介（起始页面）",
+        "期刊",
+        "《外国文学》体例说明"
+      ],
+      "visited_at": "2026-11-26T20:39:07+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://wxs.bfsu.edu.cn/info/1123/1127.htm",
+      "requested_url": "https://wxs.bfsu.edu.cn/info/1123/1127.htm",
+      "title": "《外国文学》投稿须知",
+      "path": [
+        "《外国文学》简介（起始页面）",
+        "期刊",
+        "《外国文学》体例说明",
+        "《外国文学》投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:39:07+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "《外国文学》投稿须知",
+      "source_url": "https://wxs.bfsu.edu.cn/wgwx/tgyq.htm",
+      "path": [
+        "官网入口",
+        "投稿要求"
+      ],
+      "local_path": "web/《外国文学》投稿须知_3699077347.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "《外国文学》投稿须知",
+      "source_url": "https://wxs.bfsu.edu.cn/info/1123/1127.htm",
+      "path": [
+        "《外国文学》简介（起始页面）",
+        "期刊",
+        "《外国文学》体例说明",
+        "《外国文学》投稿须知"
+      ],
+      "local_path": "web/《外国文学》投稿须知_7c8a2b75c6.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "外国文学投稿格式",
+      "local_path": "外国文学投稿格式.md",
+      "source_urls": [
+        "https://wxs.bfsu.edu.cn/wgwx/tgyq.htm",
+        "https://wxs.bfsu.edu.cn/info/1123/1127.htm"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://wxs.bfsu.edu.cn/info/1163/1515.htm",
+      "title": "外国文学",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

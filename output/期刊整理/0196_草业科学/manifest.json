@@ -1,0 +1,94 @@
+{
+  "journal": {
+    "name": "草业科学",
+    "url": "https://www.integrativebiology.ac.cn/cykx/CN/home",
+    "journal_id": "",
+    "row": 197,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.integrativebiology.ac.cn/cykx/CN/home",
+  "collected_at": "2026-11-26T20:58:09+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.integrativebiology.ac.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.integrativebiology.ac.cn/cykx/CN/home",
+      "requested_url": "https://www.integrativebiology.ac.cn/cykx/CN/home",
+      "title": "草业科学",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:58:09+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.integrativebiology.ac.cn/cykx/CN/column/column373.shtml",
+      "requested_url": "https://www.integrativebiology.ac.cn/cykx/CN/column/column373.shtml",
+      "title": "草业科学 投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:58:09+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "草业科学 投稿指南",
+      "source_url": "https://www.integrativebiology.ac.cn/cykx/CN/column/column373.shtml",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "local_path": "web/草业科学 投稿指南_0818fd2bb3.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "草业科学投稿格式",
+      "local_path": "草业科学投稿格式.md",
+      "source_urls": [
+        "https://www.integrativebiology.ac.cn/cykx/CN/column/column373.shtml"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://www.integrativebiology.ac.cn/cykx/CN/home",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://www.integrativebiology.ac.cn/cykx/CN/home",
+      "title": "草业科学",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

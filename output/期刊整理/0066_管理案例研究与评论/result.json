@@ -1,0 +1,27 @@
+{
+  "index": 66,
+  "journal": "管理案例研究与评论",
+  "url": "https://www.dutp.cn/jmcs/periodical/index.html",
+  "source_sheet": "可打开",
+  "source_row": 67,
+  "started_at": "2026-11-26T20:47:29+08:00",
+  "finished_at": "2026-11-26T20:48:46+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0066_管理案例研究与评论/manifest.json",
+  "pages": 1,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 1,
+  "pending_reasons": [
+    "no_valid_word_or_pdf"
+  ]
+}

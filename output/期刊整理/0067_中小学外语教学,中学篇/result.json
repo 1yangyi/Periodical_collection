@@ -1,0 +1,27 @@
+{
+  "index": 67,
+  "journal": "中小学外语教学,中学篇",
+  "url": "https://paper.i21st.cn/m/story/37409.html",
+  "source_sheet": "可打开",
+  "source_row": 68,
+  "started_at": "2026-11-26T20:47:44+08:00",
+  "finished_at": "2026-11-26T20:48:43+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 1,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0067_中小学外语教学,中学篇/manifest.json",
+  "pages": 2,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 1,
+  "pending_count": 1,
+  "pending_reasons": [
+    "no_valid_word_or_pdf"
+  ]
+}

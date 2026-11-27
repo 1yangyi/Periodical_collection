@@ -1,0 +1,3107 @@
+{
+  "read_only": true,
+  "no_paid_runs_created": true,
+  "window_start": "2026-11-26T20:39:02+08:00",
+  "window_end": "2026-11-26T21:03:36+08:00",
+  "list_pages_read": 3,
+  "matching_runs": [
+    {
+      "id": "0dfac720-2687-49d5-9173-ea819346c3e5",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "26648b38-1f0b-4293-9cd9-39b580c16c99",
+      "totalInputTokens": 31608,
+      "totalOutputTokens": 474,
+      "totalCostUsd": "0.004018",
+      "createdAt": "2026-11-26T12:56:49.080796Z",
+      "updatedAt": "2026-11-26T12:57:05.861632Z",
+      "journal": "现代日本经济",
+      "candidates": []
+    },
+    {
+      "id": "2d74fd4f-6d59-4934-b046-f72aa26af27f",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "88bc117a-c873-4d9b-837a-3a875904f78d",
+      "totalInputTokens": 28455,
+      "totalOutputTokens": 413,
+      "totalCostUsd": "0.003625",
+      "createdAt": "2026-11-26T12:56:42.601231Z",
+      "updatedAt": "2026-11-26T12:56:58.159369Z",
+      "journal": "华南师范大学学报.自然科学版",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "投稿指南（导航名称：投稿须知）",
+          "path": [
+            "首页",
+            "投稿须知"
+          ],
+          "source_url": "https://journal-n.scnu.edu.cn/",
+          "url": "https://journal-n.scnu.edu.cn/tougaoxuzhi_cn"
+        }
+      ]
+    },
+    {
+      "id": "1f4ef8f7-798f-4414-bd8f-dc57202d25dd",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "7fbf902b-4fc0-4bbe-a64d-c25ef356e7a0",
+      "totalInputTokens": 41889,
+      "totalOutputTokens": 404,
+      "totalCostUsd": "0.003583",
+      "createdAt": "2026-11-26T12:56:40.192020Z",
+      "updatedAt": "2026-11-26T12:57:02.782638Z",
+      "journal": "文化遗产",
+      "candidates": []
+    },
+    {
+      "id": "4781ed33-3841-475d-bce7-09a98888574d",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "a38dbad2-3963-427e-8e0d-ec0e98993a37",
+      "totalInputTokens": 19031,
+      "totalOutputTokens": 358,
+      "totalCostUsd": "0.002548",
+      "createdAt": "2026-11-26T12:56:39.666010Z",
+      "updatedAt": "2026-11-26T12:56:55.839479Z",
+      "journal": "南洋问题研究",
+      "candidates": []
+    },
+    {
+      "id": "03b0cb54-2e26-4e35-b8a2-776f158af01d",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "5eea6993-c2fa-44c1-bbda-31f6587de83a",
+      "totalInputTokens": 30663,
+      "totalOutputTokens": 404,
+      "totalCostUsd": "0.003146",
+      "createdAt": "2026-11-26T12:56:21.360741Z",
+      "updatedAt": "2026-11-26T12:56:35.758248Z",
+      "journal": "公共行政评论",
+      "candidates": []
+    },
+    {
+      "id": "960354b6-2d67-4c75-8220-17ad0be7b54e",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "ba5b07b9-95ea-45cb-80ea-9371289fe33e",
+      "totalInputTokens": 26330,
+      "totalOutputTokens": 433,
+      "totalCostUsd": "0.002914",
+      "createdAt": "2026-11-26T12:56:04.964378Z",
+      "updatedAt": "2026-11-26T12:56:23.518373Z",
+      "journal": "外语教学",
+      "candidates": []
+    },
+    {
+      "id": "1b34d1f7-4f55-48f6-8f56-691e93f29bb5",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "e77a051b-16d6-487e-89dc-06ecc5bdf1b6",
+      "totalInputTokens": 21999,
+      "totalOutputTokens": 314,
+      "totalCostUsd": "0.002517",
+      "createdAt": "2026-11-26T12:56:01.816108Z",
+      "updatedAt": "2026-11-26T12:56:14.640677Z",
+      "journal": "装饰",
+      "candidates": []
+    },
+    {
+      "id": "f2a2319c-7180-48c2-a3eb-39673d59a0c4",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "b532af05-e7e8-46ee-ad88-db19d103bf6a",
+      "totalInputTokens": 22094,
+      "totalOutputTokens": 335,
+      "totalCostUsd": "0.002718",
+      "createdAt": "2026-11-26T12:55:57.027525Z",
+      "updatedAt": "2026-11-26T12:56:22.488038Z",
+      "journal": "民族艺术研究",
+      "candidates": []
+    },
+    {
+      "id": "12294374-330b-4ba0-87de-103c81f06a3a",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "61ccfbc6-2703-4858-a1b8-821a90269460",
+      "totalInputTokens": 13543,
+      "totalOutputTokens": 318,
+      "totalCostUsd": "0.001942",
+      "createdAt": "2026-11-26T12:55:45.593656Z",
+      "updatedAt": "2026-11-26T12:55:58.145542Z",
+      "journal": "日本侵华南京大屠杀研究",
+      "candidates": []
+    },
+    {
+      "id": "73c2c143-8bb9-4159-b11b-ce7b60c75112",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "89f1d218-0836-442c-b731-4685982043fd",
+      "totalInputTokens": 16170,
+      "totalOutputTokens": 273,
+      "totalCostUsd": "0.002206",
+      "createdAt": "2026-11-26T12:55:39.132442Z",
+      "updatedAt": "2026-11-26T12:55:56.605026Z",
+      "journal": "国际经贸探索",
+      "candidates": []
+    },
+    {
+      "id": "2c0e1575-fee1-45b8-93ca-aae9be77f3bf",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "a14b70a6-889c-4e45-bda0-ade1300a4b99",
+      "totalInputTokens": 42815,
+      "totalOutputTokens": 432,
+      "totalCostUsd": "0.003907",
+      "createdAt": "2026-11-26T12:55:30.412371Z",
+      "updatedAt": "2026-11-26T12:55:49.915046Z",
+      "journal": "上海师范大学学报(哲学社会科学版)",
+      "candidates": []
+    },
+    {
+      "id": "429b46fd-7556-4598-81ca-36dffa620bec",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "27c23ea4-da12-4fd9-a271-01a9a7d93ac9",
+      "totalInputTokens": 13552,
+      "totalOutputTokens": 311,
+      "totalCostUsd": "0.001949",
+      "createdAt": "2026-11-26T12:55:25.152750Z",
+      "updatedAt": "2026-11-26T12:55:37.870727Z",
+      "journal": "南京大学学报(哲学·人文科学·社会科学)",
+      "candidates": []
+    },
+    {
+      "id": "7c974ca8-e975-4668-897a-d22867b0e4ad",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "0d9ae986-eec2-4e65-9c5c-208ee6dad3ff",
+      "totalInputTokens": 53808,
+      "totalOutputTokens": 535,
+      "totalCostUsd": "0.004602",
+      "createdAt": "2026-11-26T12:55:12.930205Z",
+      "updatedAt": "2026-11-26T12:55:32.662037Z",
+      "journal": "中国医学计算机成像杂志",
+      "candidates": []
+    },
+    {
+      "id": "9f9c4875-7386-4c6e-923a-f8d7e31efea0",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "c7d48dc0-af02-4bcc-a815-e4120a82dbd6",
+      "totalInputTokens": 53097,
+      "totalOutputTokens": 440,
+      "totalCostUsd": "0.004381",
+      "createdAt": "2026-11-26T12:55:06.450474Z",
+      "updatedAt": "2026-11-26T12:55:21.204216Z",
+      "journal": "华南农业大学学报(社会科学版)",
+      "candidates": []
+    },
+    {
+      "id": "dfebf36f-b077-46cf-a899-5e3cb984795f",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "2dbe6429-4e13-4919-acfb-860ed1a922ca",
+      "totalInputTokens": 42357,
+      "totalOutputTokens": 421,
+      "totalCostUsd": "0.003780",
+      "createdAt": "2026-11-26T12:54:49.068510Z",
+      "updatedAt": "2026-11-26T12:55:10.507275Z",
+      "journal": "信息对抗技术",
+      "candidates": []
+    },
+    {
+      "id": "3bb3e50c-c1be-4f60-a99e-2997ec8fd5f0",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "cd85fec1-4777-43e4-9933-2378d4d8bd97",
+      "totalInputTokens": 42692,
+      "totalOutputTokens": 377,
+      "totalCostUsd": "0.003620",
+      "createdAt": "2026-11-26T12:54:46.209577Z",
+      "updatedAt": "2026-11-26T12:55:00.688569Z",
+      "journal": "动物营养学报",
+      "candidates": []
+    },
+    {
+      "id": "3f92d718-8bd5-4a88-a841-d99752efbb82",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "687e6fea-bd17-48fa-8309-06da5a07d521",
+      "totalInputTokens": 18894,
+      "totalOutputTokens": 285,
+      "totalCostUsd": "0.002646",
+      "createdAt": "2026-11-26T12:54:32.896149Z",
+      "updatedAt": "2026-11-26T12:54:49.417846Z",
+      "journal": "江西农业大学学报",
+      "candidates": []
+    },
+    {
+      "id": "dcf81c51-f0a0-453d-86d6-e054f83e3052",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "79550c44-c31a-4e83-9637-b07170fd4c8c",
+      "totalInputTokens": 24934,
+      "totalOutputTokens": 456,
+      "totalCostUsd": "0.002617",
+      "createdAt": "2026-11-26T12:54:17.363488Z",
+      "updatedAt": "2026-11-26T12:54:30.408000Z",
+      "journal": "Journal of Ocean Engineering and Science",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "Guide for Authors（作者指南；页面未显示具体格式规范或模板内容）",
+          "path": [
+            "RSS 页面",
+            "Guide for Authors"
+          ],
+          "source_url": "https://www.qk.sjtu.edu.cn/joes/EN/rss/showRssInfo.do",
+          "url": "https://www.qk.sjtu.edu.cn/joes/EN/column/column2272.shtml"
+        }
+      ]
+    },
+    {
+      "id": "2b48f20f-72bb-4317-82a7-b1b8894f5f3d",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "6e0faa61-effa-406e-9b4f-95f6a6054bd5",
+      "totalInputTokens": 13059,
+      "totalOutputTokens": 230,
+      "totalCostUsd": "0.002441",
+      "createdAt": "2026-11-26T12:54:16.739502Z",
+      "updatedAt": "2026-11-26T12:54:26.189480Z",
+      "journal": "肠外与肠内营养",
+      "candidates": []
+    },
+    {
+      "id": "691d2651-d84f-45da-86e6-4ce0cb1622ef",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "f5cd0e72-accb-41cb-86a2-45393ff9eade",
+      "totalInputTokens": 8702,
+      "totalOutputTokens": 178,
+      "totalCostUsd": "0.001276",
+      "createdAt": "2026-11-26T12:54:11.661002Z",
+      "updatedAt": "2026-11-26T12:54:20.882040Z",
+      "journal": "Asian Journal of Urology",
+      "candidates": []
+    },
+    {
+      "id": "d844e052-6430-4ecb-b333-8ca81a1d6566",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "ed41398d-e584-4efb-a7b0-ab9c3a2446bc",
+      "totalInputTokens": 32989,
+      "totalOutputTokens": 342,
+      "totalCostUsd": "0.003181",
+      "createdAt": "2026-11-26T12:53:50.517205Z",
+      "updatedAt": "2026-11-26T12:54:08.578822Z",
+      "journal": "电讯技术",
+      "candidates": []
+    },
+    {
+      "id": "59bd2fc9-c423-41e8-a8bb-ae2250ccca0a",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "cf68b991-4137-41ca-8c16-110a6da91033",
+      "totalInputTokens": 26276,
+      "totalOutputTokens": 353,
+      "totalCostUsd": "0.003186",
+      "createdAt": "2026-11-26T12:53:50.347414Z",
+      "updatedAt": "2026-11-26T12:54:08.264723Z",
+      "journal": "中国水利水电科学研究院学报(中英文)",
+      "candidates": []
+    },
+    {
+      "id": "f3a6a07e-bd13-40bd-a6f9-bc037f653132",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "154008cc-5894-4c38-82fd-2a51f8579cfd",
+      "totalInputTokens": 53570,
+      "totalOutputTokens": 493,
+      "totalCostUsd": "0.004940",
+      "createdAt": "2026-11-26T12:53:50.097009Z",
+      "updatedAt": "2026-11-26T12:54:05.025339Z",
+      "journal": "湿法冶金",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "投稿网址（期刊介绍中列出）",
+          "path": [
+            "湿法冶金期刊首页",
+            "期刊介绍"
+          ],
+          "source_url": "https://castjournals.cast.org.cn/joweb/sfyj/CN/journal",
+          "url": "https://sfyj.cbpt.cnki.net"
+        }
+      ]
+    },
+    {
+      "id": "6ef07955-4036-49cb-9e86-b97d2e274f95",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "3ab61ca1-8028-4bda-a239-f8f4d1f6551d",
+      "totalInputTokens": 16613,
+      "totalOutputTokens": 246,
+      "totalCostUsd": "0.002250",
+      "createdAt": "2026-11-26T12:53:35.639942Z",
+      "updatedAt": "2026-11-26T12:53:42.884906Z",
+      "journal": "首都医科大学学报",
+      "candidates": []
+    },
+    {
+      "id": "38f1f703-ae04-46d8-a394-11b0b9d9d4e7",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "155be932-f86d-40b9-93bd-a374194f6660",
+      "totalInputTokens": 18505,
+      "totalOutputTokens": 479,
+      "totalCostUsd": "0.002530",
+      "createdAt": "2026-11-26T12:53:31.879188Z",
+      "updatedAt": "2026-11-26T12:53:43.085821Z",
+      "journal": "中华全科医师杂志",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "《中华全科医师杂志》稿约（作者须知）",
+          "path": [
+            "中华全科医师杂志",
+            "作者/专家服务",
+            "作者须知"
+          ],
+          "source_url": "https://cs.medjournals.cn/cn/zhqkyszz/authors",
+          "url": "https://cs.medjournals.cn/cn/zhqkyszz/authors"
+        }
+      ]
+    },
+    {
+      "id": "bedc647d-5df0-4186-8b74-844313b65932",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "213164b7-7bc8-4625-a4a0-4b0f56e6a630",
+      "totalInputTokens": 29452,
+      "totalOutputTokens": 519,
+      "totalCostUsd": "0.003188",
+      "createdAt": "2026-11-26T12:53:26.193757Z",
+      "updatedAt": "2026-11-26T12:53:41.489567Z",
+      "journal": "中华胸心血管外科杂志",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "作者须知",
+          "path": [
+            "中华胸心血管外科杂志首页",
+            "作者/专家服务",
+            "作者须知"
+          ],
+          "source_url": "https://cs.medjournals.cn/cn/zhxxxgwkzz/authors",
+          "url": "https://cs.medjournals.cn/cn/zhxxxgwkzz/authors"
+        }
+      ]
+    },
+    {
+      "id": "8a0ae00e-a73f-415b-8cb7-175d208a2667",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "75af3bf1-c264-424b-b2be-48b2609dacb4",
+      "totalInputTokens": 39129,
+      "totalOutputTokens": 380,
+      "totalCostUsd": "0.003720",
+      "createdAt": "2026-11-26T12:53:12.094615Z",
+      "updatedAt": "2026-11-26T12:53:28.635329Z",
+      "journal": "科学技术与工程",
+      "candidates": []
+    },
+    {
+      "id": "7101c4a3-9bbd-4c20-acc4-db624f9d711c",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "4878a061-de15-496c-be8d-0a7eaedbe791",
+      "totalInputTokens": 23031,
+      "totalOutputTokens": 401,
+      "totalCostUsd": "0.002731",
+      "createdAt": "2026-11-26T12:53:07.051725Z",
+      "updatedAt": "2026-11-26T12:53:22.253838Z",
+      "journal": "语言科学",
+      "candidates": [
+        {
+          "kind": "attachment",
+          "label": "《语言科学》最新稿例（2017年）",
+          "path": [
+            "首页",
+            "下载中心",
+            "《语言科学》最新稿例（2017年）"
+          ],
+          "source_url": "https://journal15.magtechjournal.com/Jwk_yykx/CN/home",
+          "url": "https://journal15.magtechjournal.com/Jwk_yykx/CN/item/downloadFile.do?id=21"
+        }
+      ]
+    },
+    {
+      "id": "e8e50811-d829-4a5a-bcc7-3e82392edf2e",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "84a758ef-8e3e-4f69-a5ba-beede1bbdbf5",
+      "totalInputTokens": 12338,
+      "totalOutputTokens": 216,
+      "totalCostUsd": "0.001494",
+      "createdAt": "2026-11-26T12:53:00.450496Z",
+      "updatedAt": "2026-11-26T12:53:08.208997Z",
+      "journal": "中华超声影像学杂志",
+      "candidates": []
+    },
+    {
+      "id": "0fec3c2d-6e7a-4b4d-9809-bc4305c412bf",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "4b2bb40e-f36d-43b1-9018-3f406ca05483",
+      "totalInputTokens": 23747,
+      "totalOutputTokens": 381,
+      "totalCostUsd": "0.002644",
+      "createdAt": "2026-11-26T12:52:42.595204Z",
+      "updatedAt": "2026-11-26T12:52:55.948690Z",
+      "journal": "中国新药杂志",
+      "candidates": []
+    },
+    {
+      "id": "80b09bdd-5f65-43df-bdc5-4069768354b7",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "1cab66de-6d36-41b1-8a62-768aefb132a6",
+      "totalInputTokens": 24606,
+      "totalOutputTokens": 285,
+      "totalCostUsd": "0.002963",
+      "createdAt": "2026-11-26T12:52:37.088755Z",
+      "updatedAt": "2026-11-26T12:52:50.652686Z",
+      "journal": "中国环境科学",
+      "candidates": []
+    },
+    {
+      "id": "b63c207f-1d0e-44bd-8c6b-b5db46653cbe",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "3c98beb9-e3e9-421e-a649-c638e1355551",
+      "totalInputTokens": 70751,
+      "totalOutputTokens": 566,
+      "totalCostUsd": "0.006574",
+      "createdAt": "2026-11-26T12:52:20.863399Z",
+      "updatedAt": "2026-11-26T12:52:35.740510Z",
+      "journal": "植物保护学报",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "投稿指南（《植物保护学报》征稿简介及格式要求）",
+          "path": [
+            "首页",
+            "投稿指南"
+          ],
+          "source_url": "https://zwbhxb.ijournals.cn/ch/index.aspx",
+          "url": "https://zwbhxb.ijournals.cn/ch/first_menu.aspx?parent_id=20081122190830001"
+        },
+        {
+          "kind": "page",
+          "label": "最新参考文献格式",
+          "path": [
+            "首页",
+            "相关下载",
+            "最新参考文献格式"
+          ],
+          "source_url": "https://zwbhxb.ijournals.cn/ch/index.aspx",
+          "url": "https://zwbhxb.ijournals.cn/ch/reader/view_news.aspx?id=20161226091014150"
+        }
+      ]
+    },
+    {
+      "id": "0b908a11-8678-41a6-80f3-2927849ce038",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "090d7761-9599-4eed-a95b-f6a965126bb2",
+      "totalInputTokens": 23212,
+      "totalOutputTokens": 291,
+      "totalCostUsd": "0.002645",
+      "createdAt": "2026-11-26T12:52:15.539763Z",
+      "updatedAt": "2026-11-26T12:52:27.053272Z",
+      "journal": "现代地质",
+      "candidates": []
+    },
+    {
+      "id": "9ad9c5d4-45b8-497f-b55e-679d2b810bae",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "47e1d15d-bef6-4fa5-99b7-4f57f6c20bea",
+      "totalInputTokens": 21445,
+      "totalOutputTokens": 554,
+      "totalCostUsd": "0.003174",
+      "createdAt": "2026-11-26T12:52:04.977914Z",
+      "updatedAt": "2026-11-26T12:52:14.165381Z",
+      "journal": "山东农业科学",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "下载中心（页面显示“暂无数据”，未见模板或附件）",
+          "path": [
+            "首页",
+            "下载中心"
+          ],
+          "source_url": "https://agri.cbpt.cnki.net/portal/journal/portal/client/index",
+          "url": "https://agri.cbpt.cnki.net/portal/journal/portal/client/download/AGRI_54253c13-816a-4cda-85b4-048f7444fa78?title=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83"
+        },
+        {
+          "kind": "page",
+          "label": "投稿指南（已发现资料；本次未重复检查正文）",
+          "path": [
+            "首页",
+            "投稿指南"
+          ],
+          "source_url": "https://agri.cbpt.cnki.net/portal/journal/portal/client/index",
+          "url": "https://agri.cbpt.cnki.net/portal/journal/portal/client/news/AGRI_b7620c1d-2548-49b2-92fc-7d76367918f6"
+        }
+      ]
+    },
+    {
+      "id": "f0061159-0874-4579-b247-0132313844bc",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "70196c25-7cf6-4905-9438-296e36372cad",
+      "totalInputTokens": 49807,
+      "totalOutputTokens": 445,
+      "totalCostUsd": "0.004649",
+      "createdAt": "2026-11-26T12:51:47.672801Z",
+      "updatedAt": "2026-11-26T12:52:02.714785Z",
+      "journal": "外国语文",
+      "candidates": []
+    },
+    {
+      "id": "0b07802a-ce30-4e9b-a659-cef864f7089a",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "58b343b1-dcd9-46a6-89c6-98505297878a",
+      "totalInputTokens": 26716,
+      "totalOutputTokens": 684,
+      "totalCostUsd": "0.003424",
+      "createdAt": "2026-11-26T12:51:35.952632Z",
+      "updatedAt": "2026-11-26T12:51:47.376806Z",
+      "journal": "企业经济",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "投稿指南（含论文格式规范）",
+          "path": [
+            "首页",
+            "投稿指南"
+          ],
+          "source_url": "https://quit.cbpt.cnki.net/portal/journal/portal/client/index",
+          "url": "https://quit.cbpt.cnki.net/portal/journal/portal/client/news/quit_2fce6e50-50ac-48de-a475-a2ddb5b1f91d"
+        },
+        {
+          "kind": "page",
+          "label": "下载中心（页面显示暂无数据）",
+          "path": [
+            "首页",
+            "下载中心"
+          ],
+          "source_url": "https://quit.cbpt.cnki.net/portal/journal/portal/client/index",
+          "url": "https://quit.cbpt.cnki.net/portal/journal/portal/client/download/quit_54253c13-816a-4cda-85b4-048f7444fa78?title=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83"
+        }
+      ]
+    },
+    {
+      "id": "71c383d9-389c-4119-9e08-c0cddbbbd8b2",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "4ccdfe8b-f548-447d-9b3c-12a81233ac46",
+      "totalInputTokens": 23646,
+      "totalOutputTokens": 461,
+      "totalCostUsd": "0.002381",
+      "createdAt": "2026-11-26T12:51:14.741136Z",
+      "updatedAt": "2026-11-26T12:51:47.057922Z",
+      "journal": "东南学术",
+      "candidates": [
+        {
+          "kind": "attachment",
+          "label": "《东南学术》写作体例",
+          "path": [
+            "《东南学术》投稿须知",
+            "附件：《东南学术》写作体例"
+          ],
+          "source_url": "https://dnxsh.cbpt.cnki.net/EditorGN/PromptPageInfo.aspx?c=1&t=v",
+          "url": "https://dnxsh.cbpt.cnki.net/WKD3/WebPublication/wkDownFileByLink.aspx?fid=fde0ebf3-d45f-402e-aa72-6fda01495092&mid=dlxs&nid=54253c13-816a-4cda-85b4-048f7444fa78"
+        }
+      ]
+    },
+    {
+      "id": "28aa5e1d-57ab-44d4-a7d5-042d89da7729",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "75f422e9-38ec-482c-b0fa-412bd9496017",
+      "totalInputTokens": 34730,
+      "totalOutputTokens": 470,
+      "totalCostUsd": "0.003439",
+      "createdAt": "2026-11-26T12:51:14.618802Z",
+      "updatedAt": "2026-11-26T12:51:25.806834Z",
+      "journal": "港澳研究",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "投稿指南（页面显示“建设中...”）",
+          "path": [
+            "首页",
+            "投稿指南"
+          ],
+          "source_url": "https://yjga.cbpt.cnki.net/portal/journal/portal/client/index",
+          "url": "https://yjga.cbpt.cnki.net/portal/journal/portal/client/news/yjga_0a96be87-490b-49ff-90aa-bee7b5d1b2cc"
+        },
+        {
+          "kind": "page",
+          "label": "期刊介绍（页面显示“建设中...”）",
+          "path": [
+            "首页",
+            "期刊介绍"
+          ],
+          "source_url": "https://yjga.cbpt.cnki.net/portal/journal/portal/client/index",
+          "url": "https://yjga.cbpt.cnki.net/portal/journal/portal/client/news/yjga_db922688-adf9-430b-94cd-def1f4845b4d"
+        }
+      ]
+    },
+    {
+      "id": "c741e74d-edf4-46b9-b18f-42333fb01f51",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "35b4b72e-6e48-420e-8dd1-e8974da16855",
+      "totalInputTokens": 18508,
+      "totalOutputTokens": 323,
+      "totalCostUsd": "0.002032",
+      "createdAt": "2026-11-26T12:51:10.768734Z",
+      "updatedAt": "2026-11-26T12:51:19.280568Z",
+      "journal": "西安体育学院学报",
+      "candidates": []
+    },
+    {
+      "id": "20b827d6-a6b7-4841-8b32-3ca3a78c4b5a",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "3873c9d4-1513-4c24-97b7-65afc7de6c2d",
+      "totalInputTokens": 25893,
+      "totalOutputTokens": 444,
+      "totalCostUsd": "0.003265",
+      "createdAt": "2026-11-26T12:50:54.959011Z",
+      "updatedAt": "2026-11-26T12:51:06.385588Z",
+      "journal": "中国流通经济",
+      "candidates": []
+    },
+    {
+      "id": "a76dde4b-871e-41a8-8746-74d8d7dbe58c",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "5bdab836-c4cb-43c6-82f9-d146b42e63ff",
+      "totalInputTokens": 41419,
+      "totalOutputTokens": 588,
+      "totalCostUsd": "0.004486",
+      "createdAt": "2026-11-26T12:50:47.143419Z",
+      "updatedAt": "2026-11-26T12:51:00.640786Z",
+      "journal": "中华骨质疏松和骨矿盐疾病杂志",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "杂志稿约（含稿件格式规范、摘要/关键词、图表、参考文献及投稿注意事项）",
+          "path": [
+            "首页",
+            "杂志稿约"
+          ],
+          "source_url": "https://guss.cbpt.cnki.net/portal/journal/portal/client/index",
+          "url": "https://guss.cbpt.cnki.net/portal/journal/portal/client/news/guss_0a96be87-490b-49ff-90aa-bee7b5d1b2cc"
+        },
+        {
+          "kind": "page",
+          "label": "投稿流程",
+          "path": [
+            "首页",
+            "投稿流程"
+          ],
+          "source_url": "https://guss.cbpt.cnki.net/portal/journal/portal/client/index",
+          "url": "https://guss.cbpt.cnki.net/portal/journal/portal/client/news/guss_b7eef0de-6d7f-4eb5-b9bb-4851cb831f4c"
+        }
+      ]
+    },
+    {
+      "id": "b3595a5f-ab90-43c9-a1b5-afab00b3316c",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "a7f74ec3-d88e-4394-89c7-97a99daafa9a",
+      "totalInputTokens": 120770,
+      "totalOutputTokens": 724,
+      "totalCostUsd": "0.008345",
+      "createdAt": "2026-11-26T12:50:28.910235Z",
+      "updatedAt": "2026-11-26T12:50:47.710273Z",
+      "journal": "铁道标准设计",
+      "candidates": []
+    },
+    {
+      "id": "bd3faa38-9316-4880-9d62-1a5d5a9672e9",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "53096e30-4766-4606-bc9e-10e739ebab32",
+      "totalInputTokens": 27490,
+      "totalOutputTokens": 457,
+      "totalCostUsd": "0.002894",
+      "createdAt": "2026-11-26T12:50:20.254064Z",
+      "updatedAt": "2026-11-26T12:50:40.179568Z",
+      "journal": "保鲜与加工",
+      "candidates": []
+    },
+    {
+      "id": "b776df7e-6ea7-4489-a6a9-b711d72b5d01",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "b89648ce-7220-4d52-ace9-7610cec18137",
+      "totalInputTokens": 53247,
+      "totalOutputTokens": 772,
+      "totalCostUsd": "0.005837",
+      "createdAt": "2026-11-26T12:50:15.837784Z",
+      "updatedAt": "2026-11-26T12:51:05.241924Z",
+      "journal": "半导体技术",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "《半导体技术》投稿指南",
+          "path": [
+            "期刊杂志",
+            "投稿征文",
+            "《半导体技术》投稿指南"
+          ],
+          "source_url": "https://www.cetc13.cn/13/385525/387839/index.html",
+          "url": "https://www.cetc13.cn/13/385525/387839/1772508/index.html"
+        },
+        {
+          "kind": "page",
+          "label": "投稿征文（含《半导体技术》投稿指南入口）",
+          "path": [
+            "期刊杂志",
+            "投稿征文"
+          ],
+          "source_url": "https://www.cetc13.cn/13/385525/385529/index.html",
+          "url": "https://www.cetc13.cn/13/385525/387839/index.html"
+        }
+      ]
+    },
+    {
+      "id": "4a5c6ead-d0a9-4106-8b5e-99004c9bf9ab",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "2e8e7415-6735-4c34-b910-e0f518b39475",
+      "totalInputTokens": 49554,
+      "totalOutputTokens": 1408,
+      "totalCostUsd": "0.005803",
+      "createdAt": "2026-11-26T12:50:12.823524Z",
+      "updatedAt": "2026-11-26T12:50:47.007394Z",
+      "journal": "中国微创外科杂志",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "作者投稿注意事项（作者指南）",
+          "path": [
+            "首页",
+            "作者园地",
+            "作者投稿注意事项"
+          ],
+          "source_url": "http://zgwcwk.paperopen.com/",
+          "url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=145&Nid=56E91D4E-06B0-448B-B3C4-3166416E780A"
+        },
+        {
+          "kind": "attachment",
+          "label": "介绍信和版权转让协议（模板/附件链接；未验证文件可用性）",
+          "path": [
+            "首页",
+            "作者园地",
+            "介绍信和版权转让协议"
+          ],
+          "source_url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=145&Nid=56E91D4E-06B0-448B-B3C4-3166416E780A",
+          "url": "http://zgwcwk.paperopen.com/Upload/Park/4ecc6286-588a-48c1-b211-5a2ab9ea816b.doc"
+        },
+        {
+          "kind": "attachment",
+          "label": "我刊对比较性研究的基本要求（附件链接；未验证文件可用性）",
+          "path": [
+            "首页",
+            "作者园地",
+            "我刊对比较性研究的基本要求…"
+          ],
+          "source_url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=145&Nid=56E91D4E-06B0-448B-B3C4-3166416E780A",
+          "url": "http://zgwcwk.paperopen.com/Upload/Park/eb7db1a8-720d-4221-ba6c-2b5101d79173.pdf"
+        },
+        {
+          "kind": "page",
+          "label": "参考文献著录格式",
+          "path": [
+            "首页",
+            "作者园地",
+            "参考文献著录格式"
+          ],
+          "source_url": "http://zgwcwk.paperopen.com/",
+          "url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=146&Nid=DF458C19-0C67-4BD5-8C74-06FAE04C5384"
+        },
+        {
+          "kind": "attachment",
+          "label": "稿约（PDF链接已观察；打开后未显示内容，附件可用性未确认）",
+          "path": [
+            "首页",
+            "作者园地",
+            "稿约"
+          ],
+          "source_url": "http://zgwcwk.paperopen.com/",
+          "url": "http://zgwcwk.paperopen.com/Upload/Park/bb1c2a6e-17db-45c1-afdd-d82d88195bee.pdf"
+        },
+        {
+          "kind": "attachment",
+          "label": "投稿须知（点击后仅到达空白PDF页，内容无法核验）",
+          "path": [
+            "首页",
+            "投稿须知"
+          ],
+          "source_url": "http://zgwcwk.paperopen.com/",
+          "url": "http://zgwcwk.paperopen.com/Upload/Park/bb1c2a6e-17db-45c1-afdd-d82d88195bee.pdf"
+        },
+        {
+          "kind": "page",
+          "label": "作者指南页面（页面说明可在作者园地下载介绍信模板；投稿 Word 格式要求）",
+          "path": [
+            "首页",
+            "作者园地",
+            "作者投稿注意事项"
+          ],
+          "source_url": "http://zgwcwk.paperopen.com/",
+          "url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=145&Nid=56E91D4E-06B0-448B-B3C4-3166416E780A"
+        },
+        {
+          "kind": "attachment",
+          "label": "介绍信模板（页面正文提及需下载介绍信；附件链接未验证可用性）",
+          "path": [
+            "首页",
+            "作者园地",
+            "介绍信和版权转让协议"
+          ],
+          "source_url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=145&Nid=56E91D4E-06B0-448B-B3C4-3166416E780A",
+          "url": "http://zgwcwk.paperopen.com/Upload/Park/4ecc6286-588a-48c1-b211-5a2ab9ea816b.doc"
+        }
+      ]
+    },
+    {
+      "id": "adb15510-d534-4dc9-91e7-b17322957e4f",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "8e20e56b-61c6-45c8-b613-63c39f1d173c",
+      "totalInputTokens": 10392,
+      "totalOutputTokens": 341,
+      "totalCostUsd": "0.001917",
+      "createdAt": "2026-11-26T12:50:08.204485Z",
+      "updatedAt": "2026-11-26T12:50:22.272571Z",
+      "journal": "广东电力",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "广东电力（含投稿须知）",
+          "path": [
+            "起始页面",
+            "学术交流",
+            "刊物出版",
+            "广东电力"
+          ],
+          "source_url": "https://gdsee.cn/html/kanwuchuban/224.html",
+          "url": "https://gdsee.cn/html/kanwuchuban/224.html"
+        }
+      ]
+    },
+    {
+      "id": "982c296b-21a7-4f35-a71d-ad03628b78ab",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "bdacae26-4ac3-448a-ac2b-d963fa755fb5",
+      "totalInputTokens": 44217,
+      "totalOutputTokens": 640,
+      "totalCostUsd": "0.005093",
+      "createdAt": "2026-11-26T12:49:48.855453Z",
+      "updatedAt": "2026-11-26T12:50:09.442819Z",
+      "journal": "机械传动",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "下载中心",
+          "path": [
+            "首页",
+            "投稿指南",
+            "下载中心"
+          ],
+          "source_url": "https://www.jxcd.net.cn/zh/home/",
+          "url": "https://www.jxcd.net.cn/download?columnId=6574&columnName=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83&index=3&parentIndex=3&bannerId=null&code=download&newsDataType=&newCompositeId=8723&childId="
+        }
+      ]
+    },
+    {
+      "id": "9cdc4ea6-bcf2-4817-91b5-795422ef4215",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "b9d8b9b6-e815-438d-83c0-f2e88f4a3f22",
+      "totalInputTokens": 64191,
+      "totalOutputTokens": 541,
+      "totalCostUsd": "0.006339",
+      "createdAt": "2026-11-26T12:49:27.322600Z",
+      "updatedAt": "2026-11-26T12:49:59.874486Z",
+      "journal": "油气储运",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "《油气储运》投稿须知",
+          "path": [
+            "首页",
+            "作者指南",
+            "投稿须知"
+          ],
+          "source_url": "https://yqcy.pipechina.com.cn/index.htm",
+          "url": "https://yqcy.pipechina.com.cn/submission-guidelines"
+        }
+      ]
+    },
+    {
+      "id": "3200673b-c685-417c-91a6-e074c4668103",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "edf098ba-24c7-43f2-bed6-18fca162726a",
+      "totalInputTokens": 48435,
+      "totalOutputTokens": 472,
+      "totalCostUsd": "0.004261",
+      "createdAt": "2026-11-26T12:49:21.510398Z",
+      "updatedAt": "2026-11-26T12:49:56.338146Z",
+      "journal": "冶金分析",
+      "candidates": []
+    },
+    {
+      "id": "e287c842-0047-4fe2-b419-b4f9e0508ad5",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "10f06f50-3096-48bc-b418-619f3abd0011",
+      "totalInputTokens": 64168,
+      "totalOutputTokens": 481,
+      "totalCostUsd": "0.005297",
+      "createdAt": "2026-11-26T12:49:21.497290Z",
+      "updatedAt": "2026-11-26T12:50:00.647528Z",
+      "journal": "金属矿山",
+      "candidates": []
+    },
+    {
+      "id": "6f62ffa9-5a29-4a1a-8f39-337692986dfe",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "74cfa1f2-a12a-4a38-9922-068b5c77bdb4",
+      "totalInputTokens": 50981,
+      "totalOutputTokens": 1005,
+      "totalCostUsd": "0.004562",
+      "createdAt": "2026-11-26T12:49:00.638453Z",
+      "updatedAt": "2026-11-26T12:49:32.401606Z",
+      "journal": "中国药房",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "投稿须知（《中国药房》杂志稿约）—作者投稿格式与撰写规范",
+          "path": [
+            "中国药房首页",
+            "投稿助手",
+            "投稿须知"
+          ],
+          "source_url": "https://journal.china-pharmacy.com/zh/info/9840/",
+          "url": "https://journal.china-pharmacy.com/zh/info/9840/"
+        },
+        {
+          "kind": "page",
+          "label": "作者下载（链接已在站内页面确认；打开后页面内容为空，未确认具体模板或附件）",
+          "path": [
+            "中国药房首页",
+            "投稿助手",
+            "作者下载"
+          ],
+          "source_url": "https://journal.china-pharmacy.com/zh/info/9840/",
+          "url": "http://journal.china-pharmacy.com/download?columnId=7954&columnName=%E4%BD%9C%E8%80%85%E4%B8%8B%E8%BD%BD&index=3&parentIndex=3&bannerId=null&code=download&newsDataType=&newCompositeId=9796&childId="
+        }
+      ]
+    },
+    {
+      "id": "26049f91-8806-423c-a0c9-6b9107911c1f",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "e213b304-0334-4e97-bf8d-f9ce799dd166",
+      "totalInputTokens": 36513,
+      "totalOutputTokens": 459,
+      "totalCostUsd": "0.003404",
+      "createdAt": "2026-11-26T12:48:53.393338Z",
+      "updatedAt": "2026-11-26T12:49:06.505359Z",
+      "journal": "中国现代神经疾病杂志",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "中国现代神经疾病杂志稿约（投稿撰稿要求）",
+          "path": [
+            "关于我们",
+            "中国现代神经疾病杂志稿约"
+          ],
+          "source_url": "https://zgxdsjjbzz.yiigle.com/about.jhtml",
+          "url": "https://zgxdsjjbzz.yiigle.com/author/1012159.jhtml"
+        }
+      ]
+    },
+    {
+      "id": "10428400-579e-4f99-b3dd-e3c5b530356e",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "68091e28-0640-47d2-85e6-4e19c128392d",
+      "totalInputTokens": 16344,
+      "totalOutputTokens": 353,
+      "totalCostUsd": "0.001913",
+      "createdAt": "2026-11-26T12:48:51.515198Z",
+      "updatedAt": "2026-11-26T12:49:09.561109Z",
+      "journal": "中国森林病虫",
+      "candidates": []
+    },
+    {
+      "id": "a3b2d641-3355-4d6a-920c-744c9f543b64",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "164a3a68-34c5-42e4-b281-4b2d116ceb45",
+      "totalInputTokens": 19469,
+      "totalOutputTokens": 342,
+      "totalCostUsd": "0.002702",
+      "createdAt": "2026-11-26T12:48:48.756086Z",
+      "updatedAt": "2026-11-26T12:49:05.394501Z",
+      "journal": "中国戏剧",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "《中国戏剧》（月刊）简介（介绍刊物与刊载内容；未见投稿格式规范、作者指南或模板）",
+          "path": [
+            "首页",
+            "刊物出版",
+            "中国戏剧",
+            "《中国戏剧》（月刊）简介"
+          ],
+          "source_url": "https://www.chinatheatre.org.cn/",
+          "url": "https://www.chinatheatre.org.cn/kwcb/zgxj/201802/t20180211_396390.html"
+        }
+      ]
+    },
+    {
+      "id": "600a1836-9b31-4734-a0f4-e1baae464a1f",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "7efc6107-6b50-4ca6-878d-4dd3e483b02a",
+      "totalInputTokens": 37117,
+      "totalOutputTokens": 784,
+      "totalCostUsd": "0.003977",
+      "createdAt": "2026-11-26T12:48:16.700307Z",
+      "updatedAt": "2026-11-26T12:48:31.799386Z",
+      "journal": "中小学外语教学,中学篇",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "《中小学外语教学》(中学篇）征稿启事（征稿说明；含投稿方式、封面信息及格式提示）",
+          "path": [
+            "《中小学外语教学》(中学篇）征稿启事"
+          ],
+          "source_url": "https://paper.i21st.cn/m/story/37409.html",
+          "url": "https://paper.i21st.cn/m/story/37409.html"
+        },
+        {
+          "kind": "page",
+          "label": "2007年教研版论文投稿要求（相关教研版投稿规范；非明确标注为《中学篇》专属）",
+          "path": [
+            "第104期",
+            "2007年教研版论文投稿要求"
+          ],
+          "source_url": "https://paper.i21st.cn/m/index_21jx_issue_104.html",
+          "url": "https://paper.i21st.cn/m/story/37407.html"
+        }
+      ]
+    },
+    {
+      "id": "42f535b7-849a-4a72-b67c-1ea0f49d12c8",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "ed17e45f-3bb3-4aa0-a47a-440c1aba9683",
+      "totalInputTokens": 45270,
+      "totalOutputTokens": 590,
+      "totalCostUsd": "0.003949",
+      "createdAt": "2026-11-26T12:48:13.124677Z",
+      "updatedAt": "2026-11-26T12:48:36.924770Z",
+      "journal": "管理案例研究与评论",
+      "candidates": []
+    },
+    {
+      "id": "ef8eea1e-18f8-4d0c-a828-7ac759008d28",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "2a214522-cbb3-4bd4-8068-a1ae82ade08c",
+      "totalInputTokens": 37201,
+      "totalOutputTokens": 692,
+      "totalCostUsd": "0.003846",
+      "createdAt": "2026-11-26T12:48:10.454306Z",
+      "updatedAt": "2026-11-26T12:48:35.273868Z",
+      "journal": "区域经济评论",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "投稿指南",
+          "path": [
+            "首页",
+            "新闻公告",
+            "投稿指南"
+          ],
+          "source_url": "https://www.qyjjpl.cn/Article/index/cid/69/lid/71.html",
+          "url": "https://www.qyjjpl.cn/Article/index/cid/69/lid/71/id/103.html"
+        }
+      ]
+    },
+    {
+      "id": "91a1226d-00a9-4bbe-aae8-5c2e67b8beb2",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "24582b5a-eb04-4c11-ab75-141b80734f1c",
+      "totalInputTokens": 39875,
+      "totalOutputTokens": 646,
+      "totalCostUsd": "0.003563",
+      "createdAt": "2026-11-26T12:47:50.394291Z",
+      "updatedAt": "2026-11-26T12:48:06.216313Z",
+      "journal": "世界民族",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "《世界民族》来稿须知（作者投稿指南）",
+          "path": [
+            "网站首页",
+            "投稿须知",
+            "《世界民族》来稿须知"
+          ],
+          "source_url": "https://sjmz.ajcass.com/Home/List/?ChannelID=11873",
+          "url": "https://sjmz.ajcass.com/Home/Show/?itemid=157517&ChannelID=11873"
+        },
+        {
+          "kind": "page",
+          "label": "《世界民族》行文规范和体例（格式规范）",
+          "path": [
+            "网站首页",
+            "投稿须知",
+            "《世界民族》行文规范和体例"
+          ],
+          "source_url": "https://sjmz.ajcass.com/Home/List/?ChannelID=11873",
+          "url": "https://sjmz.ajcass.com/Home/Show/?itemid=148437&ChannelID=11873"
+        }
+      ]
+    },
+    {
+      "id": "0a31f05e-1020-4476-8bb2-82ad8d32f901",
+      "model": "bu-ultrafast",
+      "status": "cancelled",
+      "error": "cancelled by user",
+      "sessionId": "70feda19-53e2-4ad7-a014-d6348628a68c",
+      "totalInputTokens": 25271,
+      "totalOutputTokens": 281,
+      "totalCostUsd": "0.002405",
+      "createdAt": "2026-11-26T12:47:49.450059Z",
+      "updatedAt": "2026-11-26T12:48:50.143040Z",
+      "journal": "北京社会科学",
+      "candidates": null
+    },
+    {
+      "id": "3371b5e7-e90a-4d3e-8712-dd7621a837cd",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "bce41e70-f8fb-4917-b6e4-8d7a2199afdc",
+      "totalInputTokens": 30842,
+      "totalOutputTokens": 430,
+      "totalCostUsd": "0.003446",
+      "createdAt": "2026-11-26T12:47:49.216445Z",
+      "updatedAt": "2026-11-26T12:48:04.454767Z",
+      "journal": "浙江社会科学",
+      "candidates": []
+    },
+    {
+      "id": "dd383ecc-c472-4f62-b3ed-cef2db8515e5",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "4f8d5aab-d7e4-4733-a7c5-ce42ad66766f",
+      "totalInputTokens": 54426,
+      "totalOutputTokens": 387,
+      "totalCostUsd": "0.004274",
+      "createdAt": "2026-11-26T12:47:33.394820Z",
+      "updatedAt": "2026-11-26T12:48:06.812808Z",
+      "journal": "人文杂志",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "投稿须知 - 《人文杂志》",
+          "path": [
+            "首页",
+            "投稿指南",
+            "投稿须知"
+          ],
+          "source_url": "http://www.rwzz177.com/",
+          "url": "http://www.rwzz177.com/Corp/1700.aspx"
+        },
+        {
+          "kind": "page",
+          "label": "用稿编排规范 - 《人文杂志》",
+          "path": [
+            "首页",
+            "投稿指南",
+            "用稿编排规范"
+          ],
+          "source_url": "http://www.rwzz177.com/",
+          "url": "http://www.rwzz177.com/Corp/30.aspx"
+        }
+      ]
+    },
+    {
+      "id": "dee9b131-c949-41c7-9f31-4ce810353c85",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "e1b8864e-bf9f-4141-a69c-e084676b8d4d",
+      "totalInputTokens": 29391,
+      "totalOutputTokens": 363,
+      "totalCostUsd": "0.002499",
+      "createdAt": "2026-11-26T12:47:30.173238Z",
+      "updatedAt": "2026-11-26T12:47:42.610054Z",
+      "journal": "南京社会科学",
+      "candidates": []
+    },
+    {
+      "id": "78760606-1d95-4ef6-9070-17bbceb0e4b5",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "92d77728-6d9c-4324-8b3b-27594d4fc9b9",
+      "totalInputTokens": 20066,
+      "totalOutputTokens": 414,
+      "totalCostUsd": "0.002787",
+      "createdAt": "2026-11-26T12:47:23.736469Z",
+      "updatedAt": "2026-11-26T12:47:40.317676Z",
+      "journal": "中国现代文学研究丛刊",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "投稿须知（含稿件范围、投稿方式及格式相关规范）",
+          "path": [
+            "中国现代文学研究丛刊",
+            "投稿须知"
+          ],
+          "source_url": "https://www.wxg.org.cn/dqym/index.jhtml",
+          "url": "http://www.wxg.org.cn/tgxz.jhtml"
+        }
+      ]
+    },
+    {
+      "id": "d4e17138-34d0-4897-9fb9-ffd885e621e2",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "c1faa303-b0ef-46b4-80a8-277635bd222c",
+      "totalInputTokens": 51350,
+      "totalOutputTokens": 665,
+      "totalCostUsd": "0.005004",
+      "createdAt": "2026-11-26T12:47:22.756341Z",
+      "updatedAt": "2026-11-26T12:47:41.056573Z",
+      "journal": "当代文坛",
+      "candidates": []
+    },
+    {
+      "id": "ece1f2fc-bfa7-41ce-8386-3f24e1a6261c",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "0a93f4ae-3951-481b-b798-d3ff0de66950",
+      "totalInputTokens": 26273,
+      "totalOutputTokens": 439,
+      "totalCostUsd": "0.003326",
+      "createdAt": "2026-11-26T12:47:10.516266Z",
+      "updatedAt": "2026-11-26T12:47:24.299033Z",
+      "journal": "日本学刊",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "《日本学刊》论文写作规范和注释体例",
+          "path": [
+            "起始页面",
+            "体例规范"
+          ],
+          "source_url": "https://rbxk.ajcass.com/Magazine/GetIssueContentList?jumpnotice=201607190002",
+          "url": "https://rbxk.ajcass.com/html/tlgf.html"
+        },
+        {
+          "kind": "page",
+          "label": "投稿须知（《日本学刊》征稿及启用“在线投稿”平台启事）",
+          "path": [
+            "起始页面",
+            "征稿征订",
+            "投稿须知"
+          ],
+          "source_url": "https://rbxk.ajcass.com/Magazine/GetIssueContentList?jumpnotice=201607190002",
+          "url": "https://rbxk.ajcass.com/Show/1414?itemID=11463"
+        }
+      ]
+    },
+    {
+      "id": "f316deb6-46ac-411e-8ad3-29b4925072a3",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "e533855a-364c-472c-8153-0e4adbaeca8a",
+      "totalInputTokens": 53939,
+      "totalOutputTokens": 738,
+      "totalCostUsd": "0.005586",
+      "createdAt": "2026-11-26T12:47:04.969719Z",
+      "updatedAt": "2026-11-26T12:47:24.181582Z",
+      "journal": "国际安全研究",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "投稿指南（含《国际安全研究》注释体例）",
+          "path": [
+            "首页",
+            "投稿指南"
+          ],
+          "source_url": "http://gjaqyj.cnjournals.com/gjaqyj/ch/index.aspx",
+          "url": "http://gjaqyj.cnjournals.com/gjaqyj/ch/first_menu.aspx?parent_id=20130701085855001"
+        }
+      ]
+    },
+    {
+      "id": "22e619c4-aaa4-4a87-98b7-03afbef0be40",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "a0ad9aca-d5e8-44b6-a072-f1131adaac0b",
+      "totalInputTokens": 22536,
+      "totalOutputTokens": 489,
+      "totalCostUsd": "0.003193",
+      "createdAt": "2026-11-26T12:46:58.500428Z",
+      "updatedAt": "2026-11-26T12:47:13.620795Z",
+      "journal": "中国语文研究",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "期刊介绍（含稿件形式与投稿要求）",
+          "path": [
+            "首页",
+            "期刊介绍"
+          ],
+          "source_url": "https://scl.ojhhk.com/CN/home",
+          "url": "https://scl.ojhhk.com/CN/column/column23.shtml"
+        },
+        {
+          "kind": "page",
+          "label": "投稿指南",
+          "path": [
+            "首页",
+            "投稿指南"
+          ],
+          "source_url": "https://scl.ojhhk.com/CN/home",
+          "url": "https://scl.ojhhk.com/CN/column/column25.shtml"
+        }
+      ]
+    },
+    {
+      "id": "4caf35e3-6b8f-4525-8641-962304c6f08d",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "ace0809a-9709-4bc3-b2fd-0f8f76c6f018",
+      "totalInputTokens": 49766,
+      "totalOutputTokens": 800,
+      "totalCostUsd": "0.005147",
+      "createdAt": "2026-11-26T12:46:42.178009Z",
+      "updatedAt": "2026-11-26T12:47:00.965598Z",
+      "journal": "经济地理",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "投稿指南：《经济地理》投稿须知（2025年版）",
+          "path": [
+            "经济地理期刊介绍（起始页面）",
+            "投稿指南"
+          ],
+          "source_url": "https://www.jjdl.com.cn/CN/column/column141.shtml",
+          "url": "https://www.jjdl.com.cn/CN/column/column146.shtml"
+        },
+        {
+          "kind": "page",
+          "label": "下载中心（页面可访问，但未显示可用资料条目）",
+          "path": [
+            "经济地理期刊介绍（起始页面）",
+            "下载中心"
+          ],
+          "source_url": "https://www.jjdl.com.cn/CN/column/column141.shtml",
+          "url": "https://www.jjdl.com.cn/CN/column/147/items"
+        }
+      ]
+    },
+    {
+      "id": "2e3864c6-aa8d-4ac0-9e44-89599c400c38",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "45b60d8d-c458-446d-a26f-c563c32dc1d5",
+      "totalInputTokens": 27337,
+      "totalOutputTokens": 518,
+      "totalCostUsd": "0.003974",
+      "createdAt": "2026-11-26T12:46:39.987101Z",
+      "updatedAt": "2026-11-26T12:46:47.319163Z",
+      "journal": "新闻与写作",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "《新闻与写作》投稿须知与论文格式规范",
+          "path": [
+            "https://www.bjd.com.cn/common/writing.html",
+            "《新闻与写作》唯一官方投稿入口"
+          ],
+          "source_url": "https://www.bjd.com.cn/common/writing.html",
+          "url": "https://www.bjd.com.cn/common/writing.html#jbydcm"
+        }
+      ]
+    },
+    {
+      "id": "b4034710-2d08-4ee6-9a94-806cd617020e",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "8e85b0af-3878-42d8-8b66-ddcf8ca62b58",
+      "totalInputTokens": 31947,
+      "totalOutputTokens": 404,
+      "totalCostUsd": "0.003114",
+      "createdAt": "2026-11-26T12:46:15.685911Z",
+      "updatedAt": "2026-11-26T12:46:28.145674Z",
+      "journal": "世界历史",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "《世界历史》投稿须知",
+          "path": [
+            "网站首页",
+            "投稿指南"
+          ],
+          "source_url": "https://sjls.ajcass.com/",
+          "url": "https://sjls.ajcass.com/Home/Show/?ChannelID=11733"
+        },
+        {
+          "kind": "page",
+          "label": "《世界历史》注释规范",
+          "path": [
+            "网站首页",
+            "技术规范"
+          ],
+          "source_url": "https://sjls.ajcass.com/",
+          "url": "https://sjls.ajcass.com/Home/Show/?ChannelID=11735"
+        }
+      ]
+    },
+    {
+      "id": "55c86c83-8247-4adc-9dc9-0a4a6f742f16",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "e3524906-43da-4dca-85ff-17483be23055",
+      "totalInputTokens": 24892,
+      "totalOutputTokens": 563,
+      "totalCostUsd": "0.003127",
+      "createdAt": "2026-11-26T12:46:05.979138Z",
+      "updatedAt": "2026-11-26T12:46:18.187489Z",
+      "journal": "江汉考古",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "《江汉考古》关于引文注释的规定",
+          "path": [
+            "https://www.hbkgy.com/jhkg/index.html",
+            "首页页脚「相关规范」",
+            "《江汉考古》关于引文注释的规定"
+          ],
+          "source_url": "https://www.hbkgy.com/jhkg/index.html",
+          "url": "https://www.hbkgy.com/xggf/p/5714.html"
+        },
+        {
+          "kind": "page",
+          "label": "《江汉考古》关于引文注释的规定（测试版）",
+          "path": [
+            "https://www.hbkgy.com/jhkg/index.html",
+            "首页页脚「相关规范」",
+            "《江汉考古》关于引文注释的规定（测试版）"
+          ],
+          "source_url": "https://www.hbkgy.com/jhkg/index.html",
+          "url": "https://www.hbkgy.com/xggf/p/7957.html"
+        }
+      ]
+    },
+    {
+      "id": "7e5b9169-e628-45c4-b0d3-24ef73d96ea8",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "5c7c8e30-f85a-4877-b228-1365a5339e6c",
+      "totalInputTokens": 70921,
+      "totalOutputTokens": 723,
+      "totalCostUsd": "0.005702",
+      "createdAt": "2026-11-26T12:46:04.952262Z",
+      "updatedAt": "2026-11-26T12:46:32.734657Z",
+      "journal": "自然资源遥感",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "投稿须知（含投稿步骤与稿件要求）",
+          "path": [
+            "首页",
+            "投稿指南",
+            "投稿须知"
+          ],
+          "source_url": "https://www.gtzyyg.com/",
+          "url": "https://www.gtzyyg.com/submission-guidelines"
+        },
+        {
+          "kind": "attachment",
+          "label": "《自然资源遥感》撰稿须知 PDF",
+          "path": [
+            "首页",
+            "投稿指南",
+            "投稿须知",
+            "稿件要求"
+          ],
+          "source_url": "https://www.gtzyyg.com/submission-guidelines",
+          "url": "https://www.gtzyyg.com/news/exportNewFile?id=202"
+        },
+        {
+          "kind": "attachment",
+          "label": "《自然资源遥感》论文模板 Word",
+          "path": [
+            "首页",
+            "投稿指南",
+            "投稿须知",
+            "稿件要求"
+          ],
+          "source_url": "https://www.gtzyyg.com/submission-guidelines",
+          "url": "https://www.gtzyyg.com/news/exportNewFile?id=201"
+        },
+        {
+          "kind": "page",
+          "label": "投稿资料",
+          "path": [
+            "首页",
+            "投稿指南",
+            "投稿资料"
+          ],
+          "source_url": "https://www.gtzyyg.com/",
+          "url": "https://www.gtzyyg.com/submission-materials"
+        }
+      ]
+    },
+    {
+      "id": "74294287-9968-494a-a4d2-3a1c961958b3",
+      "model": "bu-ultrafast",
+      "status": "cancelled",
+      "error": "cancelled by user",
+      "sessionId": "683c95aa-2761-40cd-891e-7fe97cc57b57",
+      "totalInputTokens": 27464,
+      "totalOutputTokens": 590,
+      "totalCostUsd": "0.002557",
+      "createdAt": "2026-11-26T12:45:54.551480Z",
+      "updatedAt": "2026-11-26T12:46:55.203239Z",
+      "journal": "中华重症医学电子杂志",
+      "candidates": null
+    },
+    {
+      "id": "81ea350b-b158-4536-8966-13634f73bc7d",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "33382139-f9d6-4faa-9f12-b4e8ac45a5af",
+      "totalInputTokens": 31887,
+      "totalOutputTokens": 714,
+      "totalCostUsd": "0.003190",
+      "createdAt": "2026-11-26T12:45:54.378934Z",
+      "updatedAt": "2026-11-26T12:46:04.965089Z",
+      "journal": "中华危重病急救医学",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "稿约",
+          "path": [
+            "关于我们",
+            "稿约"
+          ],
+          "source_url": "https://zhwzbjjyx.yiigle.com/about.jhtml",
+          "url": "https://zhwzbjjyx.yiigle.com/author/596297.jhtml"
+        },
+        {
+          "kind": "attachment",
+          "label": "中华医学会系列杂志论文投稿介绍信",
+          "path": [
+            "关于我们",
+            "中华医学会系列杂志论文投稿介绍信"
+          ],
+          "source_url": "https://zhwzbjjyx.yiigle.com/about.jhtml",
+          "url": "https://zhwzbjjyx.yiigle.com/downloadusource.jspx?u=/u/cms/zgwzbjjyx/202605/11094400ao0u.docx"
+        },
+        {
+          "kind": "page",
+          "label": "中华医学会系列杂志论文授权书",
+          "path": [
+            "关于我们",
+            "中华医学会系列杂志论文授权书"
+          ],
+          "source_url": "https://zhwzbjjyx.yiigle.com/about.jhtml",
+          "url": "https://zhwzbjjyx.yiigle.com/author/495113.jhtml"
+        }
+      ]
+    },
+    {
+      "id": "23a57c07-91c4-45e2-9a58-d56393e42fb4",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "b95b8ebf-daf1-4b63-96e1-abb7bfde654c",
+      "totalInputTokens": 19028,
+      "totalOutputTokens": 305,
+      "totalCostUsd": "0.002027",
+      "createdAt": "2026-11-26T12:45:38.794002Z",
+      "updatedAt": "2026-11-26T12:45:48.622725Z",
+      "journal": "中华内科杂志",
+      "candidates": []
+    },
+    {
+      "id": "3ae1be18-60cc-43b2-b6ff-41b51709f0fc",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "70636508-a5ca-4f4e-abb3-519fdbaed7c7",
+      "totalInputTokens": 26032,
+      "totalOutputTokens": 789,
+      "totalCostUsd": "0.002884",
+      "createdAt": "2026-11-26T12:45:36.299281Z",
+      "updatedAt": "2026-11-26T12:45:50.651920Z",
+      "journal": "中华急诊医学杂志",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "稿约",
+          "path": [
+            "For Author",
+            "稿约"
+          ],
+          "source_url": "https://zhjzyxzz.yiigle.com/forAuthorEN/",
+          "url": "https://zhjzyxzz.yiigle.com/author/595363.jhtml"
+        },
+        {
+          "kind": "page",
+          "label": "版权转让协议书",
+          "path": [
+            "For Author",
+            "版权转让协议书"
+          ],
+          "source_url": "https://zhjzyxzz.yiigle.com/forAuthorEN/",
+          "url": "https://zhjzyxzz.yiigle.com/author/500940.jhtml"
+        },
+        {
+          "kind": "page",
+          "label": "Instructions to authors",
+          "path": [
+            "For Author",
+            "Instructions to authors"
+          ],
+          "source_url": "https://zhjzyxzz.yiigle.com/forAuthorEN/",
+          "url": "https://zhjzyxzz.yiigle.com/forAuthorEN/1004696.jhtml"
+        }
+      ]
+    },
+    {
+      "id": "fdff2990-3042-404a-9744-af35d4272d6d",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "db675a4d-69e2-40cd-9677-d8ff501b820f",
+      "totalInputTokens": 28447,
+      "totalOutputTokens": 437,
+      "totalCostUsd": "0.002840",
+      "createdAt": "2026-11-26T12:45:35.315086Z",
+      "updatedAt": "2026-11-26T12:45:48.299932Z",
+      "journal": "中华妇产科杂志",
+      "candidates": []
+    },
+    {
+      "id": "c8c3eacb-7efb-4a05-8192-f0e18bbf885b",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "66c2b9fe-f5e0-41eb-8938-629e4d9f6bb6",
+      "totalInputTokens": 40523,
+      "totalOutputTokens": 788,
+      "totalCostUsd": "0.004351",
+      "createdAt": "2026-11-26T12:45:25.062532Z",
+      "updatedAt": "2026-11-26T12:45:47.680141Z",
+      "journal": "中国冶金",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "投稿指南（含撰写论文注意事项、参考文献著录方法）",
+          "path": [
+            "中国冶金主页",
+            "下载中心页面",
+            "投稿指南"
+          ],
+          "source_url": "https://www.chinamet.cn/gyby/zgyj/CN/column/83/items",
+          "url": "https://www.chinamet.cn/gyby/zgyj/CN/column/column79.shtml"
+        },
+        {
+          "kind": "attachment",
+          "label": "投稿指南",
+          "path": [
+            "中国冶金主页",
+            "下载中心页面",
+            "投稿指南"
+          ],
+          "source_url": "https://www.chinamet.cn/gyby/zgyj/CN/column/83/items",
+          "url": "https://www.chinamet.cn/gyby/zgyj/CN/item/downloadFile.do?id=45"
+        },
+        {
+          "kind": "attachment",
+          "label": "论文模板",
+          "path": [
+            "中国冶金主页",
+            "下载中心页面",
+            "论文模板"
+          ],
+          "source_url": "https://www.chinamet.cn/gyby/zgyj/CN/column/83/items",
+          "url": "https://www.chinamet.cn/gyby/zgyj/CN/item/downloadFile.do?id=30"
+        },
+        {
+          "kind": "attachment",
+          "label": "《中国冶金》著作权转让协议",
+          "path": [
+            "中国冶金主页",
+            "下载中心页面",
+            "《中国冶金》著作权转让协议"
+          ],
+          "source_url": "https://www.chinamet.cn/gyby/zgyj/CN/column/83/items",
+          "url": "https://www.chinamet.cn/gyby/zgyj/CN/item/downloadFile.do?id=44"
+        }
+      ]
+    },
+    {
+      "id": "cc859c65-ee23-4248-a45f-8e669d8d7168",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "442ca0a6-9a82-4985-8dae-053af617696b",
+      "totalInputTokens": 45769,
+      "totalOutputTokens": 760,
+      "totalCostUsd": "0.004515",
+      "createdAt": "2026-11-26T12:45:07.034149Z",
+      "updatedAt": "2026-11-26T12:45:26.295362Z",
+      "journal": "中国畜牧杂志",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "投稿须知（作者指南、稿件要求与投稿说明）",
+          "path": [
+            "首页",
+            "投稿指南",
+            "投稿须知"
+          ],
+          "source_url": "https://www.zgxmzz.cn/",
+          "url": "https://www.zgxmzz.cn/contribute/guide"
+        },
+        {
+          "kind": "page",
+          "label": "格式规范（论文格式要求）",
+          "path": [
+            "首页",
+            "投稿指南",
+            "格式示范"
+          ],
+          "source_url": "https://www.zgxmzz.cn/",
+          "url": "https://www.zgxmzz.cn/contribute/format"
+        },
+        {
+          "kind": "attachment",
+          "label": "《中国畜牧杂志》论文模板.doc",
+          "path": [
+            "首页",
+            "投稿指南",
+            "格式示范",
+            "《中国畜牧杂志》论文模板.doc"
+          ],
+          "source_url": "https://www.zgxmzz.cn/contribute/format",
+          "url": "https://zgxmzz.oss-cn-beijing.aliyuncs.com/upload/editor/attach/202609/fe0800db-3d4b-4f7e-8965-8d2d7fe2b4a2.doc"
+        }
+      ]
+    },
+    {
+      "id": "5535e5aa-add5-457b-b55a-7d2af0d6057f",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "9340d7d8-f7ec-4a33-8098-8ddfe0b46a4f",
+      "totalInputTokens": 27073,
+      "totalOutputTokens": 517,
+      "totalCostUsd": "0.003352",
+      "createdAt": "2026-11-26T12:44:59.477455Z",
+      "updatedAt": "2026-11-26T12:45:28.734924Z",
+      "journal": "中国科学. 化学",
+      "candidates": []
+    },
+    {
+      "id": "0d24f257-afcd-4631-8910-b5b900d31ffa",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "632435a3-2b5b-4078-b5ff-62f241683de7",
+      "totalInputTokens": 50389,
+      "totalOutputTokens": 955,
+      "totalCostUsd": "0.004797",
+      "createdAt": "2026-11-26T12:44:58.222476Z",
+      "updatedAt": "2026-11-26T12:45:24.469357Z",
+      "journal": "中国实用内科杂志",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "投稿须知（稿件格式与投稿要求）",
+          "path": [
+            "起始页面：通知公告",
+            "顶部导航：投稿指南",
+            "投稿指南列表：投稿须知"
+          ],
+          "source_url": "https://www.zgsyz.com/zgsynk/CN/column/column6.shtml",
+          "url": "https://www.zgsyz.com/zgsynk/CN/column/item11.shtml"
+        },
+        {
+          "kind": "page",
+          "label": "投稿指南（网上投稿步骤）",
+          "path": [
+            "起始页面：通知公告",
+            "顶部导航：投稿指南",
+            "投稿指南列表：投稿指南"
+          ],
+          "source_url": "https://www.zgsyz.com/zgsynk/CN/column/column6.shtml",
+          "url": "https://www.zgsyz.com/zgsynk/CN/column/item6.shtml"
+        },
+        {
+          "kind": "page",
+          "label": "版权转让协议",
+          "path": [
+            "起始页面：通知公告",
+            "顶部导航：投稿指南",
+            "投稿指南列表：版权转让协议"
+          ],
+          "source_url": "https://www.zgsyz.com/zgsynk/CN/column/column6.shtml",
+          "url": "https://www.zgsyz.com/zgsynk/CN/column/item12.shtml"
+        }
+      ]
+    },
+    {
+      "id": "bf2dd210-8b4c-4c28-acd0-974f5b1a6383",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "3c3e6f3a-400a-4f63-a704-d444a981a36a",
+      "totalInputTokens": 15750,
+      "totalOutputTokens": 275,
+      "totalCostUsd": "0.002722",
+      "createdAt": "2026-11-26T12:44:32.544553Z",
+      "updatedAt": "2026-11-26T12:44:42.482713Z",
+      "journal": "中国农业科技导报(中英文)",
+      "candidates": []
+    },
+    {
+      "id": "d6a4d6b2-3258-4275-a5f7-5f005a8a5b65",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "337f95d7-6278-433d-97c7-237484e68df7",
+      "totalInputTokens": 57187,
+      "totalOutputTokens": 763,
+      "totalCostUsd": "0.005017",
+      "createdAt": "2026-11-26T12:44:27.419834Z",
+      "updatedAt": "2026-11-26T12:44:46.913162Z",
+      "journal": "中国航海",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "投稿指南",
+          "path": [
+            "首页",
+            "投稿指南"
+          ],
+          "source_url": "https://zghh.cinnet.cn/",
+          "url": "https://zghh.cinnet.cn/submission-guidelines"
+        }
+      ]
+    },
+    {
+      "id": "6fe921d6-467d-4a4b-bac6-37163fe6ba2f",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "8fb0aa81-f2cc-444e-99db-c99868b2e711",
+      "totalInputTokens": 29560,
+      "totalOutputTokens": 461,
+      "totalCostUsd": "0.003654",
+      "createdAt": "2026-11-26T12:44:22.690594Z",
+      "updatedAt": "2026-11-26T12:44:42.553809Z",
+      "journal": "智能科学与技术学报",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "投稿须知",
+          "path": [
+            "起始页",
+            "投稿指南",
+            "投稿须知"
+          ],
+          "source_url": "https://www.cjist.com.cn/zh/home/",
+          "url": "https://www.cjist.com.cn/zh/info/15454/"
+        },
+        {
+          "kind": "page",
+          "label": "投稿格式要求",
+          "path": [
+            "起始页",
+            "投稿指南",
+            "投稿格式要求"
+          ],
+          "source_url": "https://www.cjist.com.cn/zh/home/",
+          "url": "https://www.cjist.com.cn/zh/info/15455/"
+        }
+      ]
+    },
+    {
+      "id": "e34df815-492a-4cbf-99a2-37c9558af685",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "62b98e7b-e55f-440a-bbcd-2c5107261478",
+      "totalInputTokens": 58071,
+      "totalOutputTokens": 1357,
+      "totalCostUsd": "0.006016",
+      "createdAt": "2026-11-26T12:43:57.057453Z",
+      "updatedAt": "2026-11-26T12:44:30.132606Z",
+      "journal": "中国地质灾害与防治学报",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "《中国地质灾害与防治学报》征稿简则（2022版）",
+          "path": [
+            "首页",
+            "作者园地",
+            "《中国地质灾害与防治学报》征稿简则（2022版）"
+          ],
+          "source_url": "https://www.zgdzzhyfzxb.com/aigjsyyq",
+          "url": "https://www.zgdzzhyfzxb.com/news/49"
+        },
+        {
+          "kind": "attachment",
+          "label": "《中国地质灾害与防治学报》结构要求（2022版）",
+          "path": [
+            "首页",
+            "作者园地",
+            "《中国地质灾害与防治学报》结构要求（2022版）"
+          ],
+          "source_url": "https://www.zgdzzhyfzxb.com/aigjsyyq",
+          "url": "https://www.zgdzzhyfzxb.com/fileZGDZZHYFZXB/cms/news/info/2022/08/77916e0d-e030-4e4d-8077-310b3b06f7b3.pdf"
+        },
+        {
+          "kind": "attachment",
+          "label": "《中国地质灾害与防治学报》图件要求",
+          "path": [
+            "首页",
+            "作者园地",
+            "《中国地质灾害与防治学报》图件要求"
+          ],
+          "source_url": "https://www.zgdzzhyfzxb.com/aigjsyyq",
+          "url": "https://www.zgdzzhyfzxb.com/fileZGDZZHYFZXB/cms/news/info/2022/08/b4f0eaa1dfc342daa06ee453feca1adb/eb31d9f7-9c84-40a6-b0b7-3466f48688a7.pdf"
+        },
+        {
+          "kind": "attachment",
+          "label": "《中国地质灾害与防治学报》版式要求（2027版）",
+          "path": [
+            "首页",
+            "作者园地",
+            "《中国地质灾害与防治学报》版式要求（2027版）"
+          ],
+          "source_url": "https://www.zgdzzhyfzxb.com/aigjsyyq",
+          "url": "https://www.zgdzzhyfzxb.com/fileZGDZZHYFZXB/news/zgdzzhyfzxb/a75677b8-bdba-4865-8c2b-53e23da8968f.pdf"
+        },
+        {
+          "kind": "attachment",
+          "label": "《中国地质灾害与防治学报》保密及著作权转让声明",
+          "path": [
+            "首页",
+            "作者园地",
+            "《中国地质灾害与防治学报》保密及著作权转让声明"
+          ],
+          "source_url": "https://www.zgdzzhyfzxb.com/aigjsyyq",
+          "url": "https://www.zgdzzhyfzxb.com/fileZGDZZHYFZXB/news/zgdzzhyfzxb/bf24841d-9a78-4191-aab7-fb7457b55128.pdf"
+        },
+        {
+          "kind": "attachment",
+          "label": "信息与文献 参考文献著录规则 GB/T 7714—2025",
+          "path": [
+            "首页",
+            "作者园地",
+            "信息与文献 参考文献著录规则 GB/T 7714—2025"
+          ],
+          "source_url": "https://www.zgdzzhyfzxb.com/aigjsyyq",
+          "url": "https://www.zgdzzhyfzxb.com/fileZGDZZHYFZXB/news/zgdzzhyfzxb/6fbede83-b849-4d6b-8dd3-7e8965c196c3.pdf"
+        }
+      ]
+    },
+    {
+      "id": "d8e41beb-cdfb-424f-b19c-c5bf7ed465ea",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "2a076a6b-5648-4dba-acd2-d12e2d1d1b3d",
+      "totalInputTokens": 46632,
+      "totalOutputTokens": 709,
+      "totalCostUsd": "0.004282",
+      "createdAt": "2026-11-26T12:43:50.916656Z",
+      "updatedAt": "2026-11-26T12:44:06.602342Z",
+      "journal": "植物科学学报",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "作者指南（已访问；页面正文未显示指南内容）",
+          "path": [
+            "首页",
+            "作者指南"
+          ],
+          "source_url": "https://plantscience.cn/",
+          "url": "https://plantscience.cn/zuozhezhinan"
+        }
+      ]
+    },
+    {
+      "id": "5d7f79c3-9fdc-4ae2-99b9-e8124d807176",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "4ff91aeb-a7c4-4160-ac29-f63df2f2f6cf",
+      "totalInputTokens": 33904,
+      "totalOutputTokens": 794,
+      "totalCostUsd": "0.004168",
+      "createdAt": "2026-11-26T12:43:50.533092Z",
+      "updatedAt": "2026-11-26T12:44:15.369684Z",
+      "journal": "指挥与控制学报",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "投稿指南（作者投稿要求、格式及附件说明）",
+          "path": [
+            "首页",
+            "投稿指南"
+          ],
+          "source_url": "https://jc2.org.cn/",
+          "url": "https://jc2.org.cn/tgzn"
+        },
+        {
+          "kind": "attachment",
+          "label": "word模板",
+          "path": [
+            "首页",
+            "投稿指南",
+            "word模板"
+          ],
+          "source_url": "https://jc2.org.cn/tgzn",
+          "url": "https://jc2.org.cn/supplement/preview/bab1d730-b752-4b0a-a1b1-9f33a44b703d"
+        },
+        {
+          "kind": "attachment",
+          "label": "版权转让协议",
+          "path": [
+            "首页",
+            "投稿指南",
+            "版权转让协议"
+          ],
+          "source_url": "https://jc2.org.cn/tgzn",
+          "url": "https://jc2.org.cn/supplement/preview/32e60d5a-d2c6-494e-a52c-2b71be29b0ef"
+        },
+        {
+          "kind": "attachment",
+          "label": "不涉密证明",
+          "path": [
+            "首页",
+            "投稿指南",
+            "不涉密证明"
+          ],
+          "source_url": "https://jc2.org.cn/tgzn",
+          "url": "https://jc2.org.cn/supplement/preview/af20902a-b53a-4331-a3fc-26eeceaedb04"
+        }
+      ]
+    },
+    {
+      "id": "7a568c44-be10-4bfe-951b-be31302a0ae8",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "6a8078fe-1f9c-4122-b2dd-939542eafecf",
+      "totalInputTokens": 62296,
+      "totalOutputTokens": 940,
+      "totalCostUsd": "0.005503",
+      "createdAt": "2026-11-26T12:43:39.019696Z",
+      "updatedAt": "2026-11-26T12:44:13.655053Z",
+      "journal": "原子能科学技术",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "论文模版",
+          "path": [
+            "起始页「原子能科学技术」",
+            "投稿指南",
+            "论文模版"
+          ],
+          "source_url": "https://yznkxjs.xml-journal.net/cn/",
+          "url": "https://yznkxjs.xml-journal.net/lunwnemoban"
+        },
+        {
+          "kind": "page",
+          "label": "《原子能科学技术》投稿须知",
+          "path": [
+            "起始页「原子能科学技术」",
+            "投稿指南",
+            "投稿须知"
+          ],
+          "source_url": "https://yznkxjs.xml-journal.net/cn/",
+          "url": "https://yznkxjs.xml-journal.net/tougaoxuzhi"
+        },
+        {
+          "kind": "page",
+          "label": "《原子能科学技术》征稿简则",
+          "path": [
+            "起始页「原子能科学技术」",
+            "投稿指南",
+            "征稿简则"
+          ],
+          "source_url": "https://yznkxjs.xml-journal.net/cn/",
+          "url": "https://yznkxjs.xml-journal.net/zhenggaojianze"
+        },
+        {
+          "kind": "page",
+          "label": "下载中心（列有投稿须知、论文模板、参考文献著录格式、征稿简则等下载项）",
+          "path": [
+            "起始页「原子能科学技术」",
+            "下载中心"
+          ],
+          "source_url": "https://yznkxjs.xml-journal.net/cn/",
+          "url": "https://yznkxjs.xml-journal.net/xiazaizhongxin"
+        }
+      ]
+    },
+    {
+      "id": "747aa521-cc4c-46aa-80a4-3cfbe44f2ac0",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "f7ebe270-c264-4c62-8c97-67139adae716",
+      "totalInputTokens": 18640,
+      "totalOutputTokens": 241,
+      "totalCostUsd": "0.001970",
+      "createdAt": "2026-11-26T12:43:17.954390Z",
+      "updatedAt": "2026-11-26T12:43:26.666010Z",
+      "journal": "宇航总体技术",
+      "candidates": []
+    },
+    {
+      "id": "1d43859a-0e98-413f-b3f4-8a27cd370180",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "cd397c14-35a0-4903-a2b2-aa01fd72ea02",
+      "totalInputTokens": 101960,
+      "totalOutputTokens": 775,
+      "totalCostUsd": "0.008331",
+      "createdAt": "2026-11-26T12:43:10.897413Z",
+      "updatedAt": "2026-11-26T12:43:38.962437Z",
+      "journal": "渔业科学进展",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "★投稿指南",
+          "path": [
+            "首页",
+            "★作者指南",
+            "★投稿指南"
+          ],
+          "source_url": "https://journal.yykxjz.cn/",
+          "url": "https://journal.yykxjz.cn/yykxjz/site/menus/20140411100844001"
+        },
+        {
+          "kind": "page",
+          "label": "作者使用系统的说明",
+          "path": [
+            "首页",
+            "★作者指南",
+            "作者使用系统的说明"
+          ],
+          "source_url": "https://journal.yykxjz.cn/",
+          "url": "https://journal.yykxjz.cn/yykxjz/site/menus/20140411101420001"
+        },
+        {
+          "kind": "page",
+          "label": "稿件处理流程",
+          "path": [
+            "首页",
+            "★作者指南",
+            "稿件处理流程"
+          ],
+          "source_url": "https://journal.yykxjz.cn/",
+          "url": "https://journal.yykxjz.cn/yykxjz/site/menus/20140411111711001"
+        }
+      ]
+    },
+    {
+      "id": "d68a1b68-190d-435b-8775-67610284d1c2",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "467a1e74-8d56-4560-9506-902f060ac320",
+      "totalInputTokens": 67005,
+      "totalOutputTokens": 1096,
+      "totalCostUsd": "0.005235",
+      "createdAt": "2026-11-26T12:43:10.221281Z",
+      "updatedAt": "2026-11-26T12:43:34.786379Z",
+      "journal": "药学学报",
+      "candidates": []
+    },
+    {
+      "id": "5c72d4f5-8a3a-4819-9c69-4f89bc07c86e",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "562c5b59-ba06-48e8-b789-820406e82a4e",
+      "totalInputTokens": 28148,
+      "totalOutputTokens": 667,
+      "totalCostUsd": "0.003345",
+      "createdAt": "2026-11-26T12:42:47.284052Z",
+      "updatedAt": "2026-11-26T12:43:31.137403Z",
+      "journal": "应用气象学报",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "征稿简则",
+          "path": [
+            "首页",
+            "征稿简则"
+          ],
+          "source_url": "https://qikan.camscma.cn/",
+          "url": "https://qikan.camscma.cn/tougaozhinan"
+        },
+        {
+          "kind": "page",
+          "label": "投稿指南",
+          "path": [
+            "首页",
+            "关于本刊",
+            "投稿指南"
+          ],
+          "source_url": "https://qikan.camscma.cn/",
+          "url": "https://qikan.camscma.cn/tougaozhinan_cn"
+        }
+      ]
+    },
+    {
+      "id": "09848699-892b-4f8d-bc42-a7ed92b5597a",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "2766fbe2-b09c-473a-a211-77aa75a7ea74",
+      "totalInputTokens": 20251,
+      "totalOutputTokens": 309,
+      "totalCostUsd": "0.002871",
+      "createdAt": "2026-11-26T12:42:41.044808Z",
+      "updatedAt": "2026-11-26T12:43:00.762619Z",
+      "journal": "畜牧兽医学报",
+      "candidates": []
+    },
+    {
+      "id": "d9930d6c-2074-4eb6-9ca7-1627ea7af83d",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "99b68a26-3b7d-4482-bf0c-e15840a7477a",
+      "totalInputTokens": 56118,
+      "totalOutputTokens": 688,
+      "totalCostUsd": "0.005553",
+      "createdAt": "2026-11-26T12:42:30.882450Z",
+      "updatedAt": "2026-11-26T12:42:50.445462Z",
+      "journal": "岩石学报",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "《岩石学报》 投稿须知",
+          "path": [
+            "起始页面",
+            "作者中心（页面区块）",
+            "投稿指南"
+          ],
+          "source_url": "http://www.ysxb.ac.cn/",
+          "url": "http://www.ysxb.ac.cn/aps/tgzn"
+        },
+        {
+          "kind": "attachment",
+          "label": "科研诚信协议书-《岩石学报》",
+          "path": [
+            "起始页面",
+            "作者中心（页面区块）",
+            "下载中心",
+            "科研诚信协议书-《岩石学报》"
+          ],
+          "source_url": "http://www.ysxb.ac.cn/aps/list/download",
+          "url": "http://www.ysxb.ac.cn/dzdqs-upload/news/aps/20241015102548468.docx"
+        },
+        {
+          "kind": "attachment",
+          "label": "版权转让声明及保密审查证明-《岩石学报》",
+          "path": [
+            "起始页面",
+            "作者中心（页面区块）",
+            "下载中心",
+            "版权转让声明及保密审查证明-《岩石学报》"
+          ],
+          "source_url": "http://www.ysxb.ac.cn/aps/list/download",
+          "url": "http://www.ysxb.ac.cn/dzdqs-upload/news/aps/20241015102533594.docx"
+        }
+      ]
+    },
+    {
+      "id": "75afd970-84f3-48d0-9281-801521dd0b61",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "ce0cf97f-5fa0-44c4-9f21-11304daf439c",
+      "totalInputTokens": 50978,
+      "totalOutputTokens": 981,
+      "totalCostUsd": "0.005666",
+      "createdAt": "2026-11-26T12:42:07.577888Z",
+      "updatedAt": "2026-11-26T12:42:28.810187Z",
+      "journal": "现代化工",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "投稿指南（投稿须知与稿件要求）",
+          "path": [
+            "首页",
+            "投稿须知",
+            "投稿指南"
+          ],
+          "source_url": "https://www.xdhg.com.cn/joweb/xdhg/CN/home",
+          "url": "https://www.xdhg.com.cn/joweb/xdhg/CN/tgxz"
+        },
+        {
+          "kind": "page",
+          "label": "论文模板页面",
+          "path": [
+            "首页",
+            "投稿须知",
+            "论文模板"
+          ],
+          "source_url": "https://www.xdhg.com.cn/joweb/xdhg/CN/home",
+          "url": "https://www.xdhg.com.cn/joweb/xdhg/CN/lwmb"
+        },
+        {
+          "kind": "attachment",
+          "label": "《现代化工》论文模板（DOCX）",
+          "path": [
+            "首页",
+            "下载中心",
+            "《现代化工》论文模板"
+          ],
+          "source_url": "https://www.xdhg.com.cn/joweb/xdhg/CN/home",
+          "url": "https://www.xdhg.com.cn/joweb/xdhg/CN/file/download/?fileId=13nGjso00fsuqhoVwAy07Q==&type=file&fileName=20250829091551.docx"
+        },
+        {
+          "kind": "attachment",
+          "label": "《现代化工》参考文献著录格式（DOC）",
+          "path": [
+            "首页",
+            "下载中心",
+            "《现代化工》参考文献著录格式"
+          ],
+          "source_url": "https://www.xdhg.com.cn/joweb/xdhg/CN/home",
+          "url": "https://www.xdhg.com.cn/joweb/xdhg/CN/file/download/?fileId=MMzMLisps6YtO0ANRmKsDw==&type=file&fileName=20220225162421.doc"
+        }
+      ]
+    },
+    {
+      "id": "febbb4eb-b299-4dbb-8fa5-d1bc5fdfd68c",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "e714d157-07a4-437b-b2f4-fd8eeb96d5c0",
+      "totalInputTokens": 35204,
+      "totalOutputTokens": 349,
+      "totalCostUsd": "0.003505",
+      "createdAt": "2026-11-26T12:42:04.782022Z",
+      "updatedAt": "2026-11-26T12:42:30.502799Z",
+      "journal": "信号处理",
+      "candidates": []
+    },
+    {
+      "id": "74ce61de-fd6f-4948-a803-3b40897be648",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "10db3024-c09f-4fb8-afbc-0431a978d021",
+      "totalInputTokens": 37598,
+      "totalOutputTokens": 358,
+      "totalCostUsd": "0.003749",
+      "createdAt": "2026-11-26T12:41:57.872199Z",
+      "updatedAt": "2026-11-26T12:42:16.539258Z",
+      "journal": "河南工业大学学报.自然科学版",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "征稿简则（含投稿须知）",
+          "path": [
+            "征稿简则"
+          ],
+          "source_url": "https://xuebaozk.haut.edu.cn/zenggaojianze",
+          "url": "https://xuebaozk.haut.edu.cn/zenggaojianze"
+        }
+      ]
+    },
+    {
+      "id": "e122b3b9-ca1a-4fea-ada2-c6b05f9eef58",
+      "model": "bu-ultrafast",
+      "status": "cancelled",
+      "error": "cancelled by user",
+      "sessionId": "a5512ea3-9654-4f5b-8ef4-f5f3c73234fc",
+      "totalInputTokens": 15249,
+      "totalOutputTokens": 240,
+      "totalCostUsd": "0.001604",
+      "createdAt": "2026-11-26T12:41:57.484266Z",
+      "updatedAt": "2026-11-26T12:43:01.141921Z",
+      "journal": "黑龙江高教研究",
+      "candidates": null
+    },
+    {
+      "id": "0742af9e-a55e-4d46-a527-aeef4cec8ea0",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "28bcf5fd-694d-400e-8289-78250ffd8fd5",
+      "totalInputTokens": 34418,
+      "totalOutputTokens": 654,
+      "totalCostUsd": "0.004456",
+      "createdAt": "2026-11-26T12:41:38.873786Z",
+      "updatedAt": "2026-11-26T12:41:56.707714Z",
+      "journal": "医学与哲学",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "投稿说明（投稿方式、用稿原则；指出格式要求参考下载中心《稿约》《论文模版》）",
+          "path": [
+            "首页",
+            "投稿指南",
+            "投稿说明"
+          ],
+          "source_url": "https://yizhe.dmu.edu.cn/",
+          "url": "https://yizhe.dmu.edu.cn/yxyzx/tougaoshuoming"
+        },
+        {
+          "kind": "attachment",
+          "label": "稿约（PDF）",
+          "path": [
+            "首页",
+            "下载中心",
+            "稿约"
+          ],
+          "source_url": "https://yizhe.dmu.edu.cn/",
+          "url": "https://yizhe.dmu.edu.cn/dlykdx-upload/news/yxyzx/202282311720234.pdf"
+        },
+        {
+          "kind": "attachment",
+          "label": "论文模板（DOCX）",
+          "path": [
+            "首页",
+            "下载中心",
+            "论文模板"
+          ],
+          "source_url": "https://yizhe.dmu.edu.cn/",
+          "url": "https://yizhe.dmu.edu.cn/dlykdx-upload/news/yxyzx/202448131956641.docx"
+        }
+      ]
+    },
+    {
+      "id": "a5c338ab-118f-4f79-b860-79a18af01e61",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "9b87331b-1b9f-4ad5-9df8-172a320fa9ee",
+      "totalInputTokens": 48664,
+      "totalOutputTokens": 597,
+      "totalCostUsd": "0.004571",
+      "createdAt": "2026-11-26T12:41:38.063739Z",
+      "updatedAt": "2026-11-26T12:41:57.848360Z",
+      "journal": "燕山大学学报",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "下载中心（含《燕山大学学报撰写及编排要求》《燕山大学学报模板》）",
+          "path": [
+            "首页",
+            "下载中心"
+          ],
+          "source_url": "https://xuebao.ysu.edu.cn/download-center",
+          "url": "https://xuebao.ysu.edu.cn/download-center"
+        },
+        {
+          "kind": "page",
+          "label": "投稿须知（提及按模板投稿，模板从下载中心下载）",
+          "path": [
+            "首页",
+            "投稿须知"
+          ],
+          "source_url": "https://xuebao.ysu.edu.cn/submission-guidelines",
+          "url": "https://xuebao.ysu.edu.cn/submission-guidelines"
+        }
+      ]
+    },
+    {
+      "id": "0fb2860d-80a3-4c60-8097-046d59defc89",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "ed0f4f63-e945-4527-a817-b84dd7daf7b1",
+      "totalInputTokens": 28139,
+      "totalOutputTokens": 483,
+      "totalCostUsd": "0.003390",
+      "createdAt": "2026-11-26T12:41:31.782956Z",
+      "updatedAt": "2026-11-26T12:41:50.292341Z",
+      "journal": "西安外国语大学学报",
+      "candidates": []
+    },
+    {
+      "id": "9baa94e4-ba5e-41f0-9871-1a0b2d33eaf7",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "88ba23a4-d013-45d2-83ce-9b03b3caf25b",
+      "totalInputTokens": 35021,
+      "totalOutputTokens": 417,
+      "totalCostUsd": "0.003757",
+      "createdAt": "2026-11-26T12:41:30.351092Z",
+      "updatedAt": "2026-11-26T12:41:51.317195Z",
+      "journal": "上海教育科研",
+      "candidates": []
+    },
+    {
+      "id": "4f3910bc-4f1c-42e7-90ae-40ff59b90efa",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "4fa10746-8fb4-4f94-859f-26f9bef77df4",
+      "totalInputTokens": 8463,
+      "totalOutputTokens": 137,
+      "totalCostUsd": "0.001180",
+      "createdAt": "2026-11-26T12:41:26.422519Z",
+      "updatedAt": "2026-11-26T12:41:33.482549Z",
+      "journal": "中国青年社会科学",
+      "candidates": []
+    },
+    {
+      "id": "cc4eaf5d-d6e1-4fa8-a606-aa7048d54342",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "fb00ddb8-0166-4e9e-bb35-d1288d80a263",
+      "totalInputTokens": 32495,
+      "totalOutputTokens": 453,
+      "totalCostUsd": "0.002942",
+      "createdAt": "2026-11-26T12:41:11.596796Z",
+      "updatedAt": "2026-11-26T12:41:31.165219Z",
+      "journal": "求是学刊",
+      "candidates": []
+    },
+    {
+      "id": "39dda0eb-d9a9-4202-a9b6-e98cb096e66f",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "27cb4a53-47a5-4fc8-82d4-f61e1d244c36",
+      "totalInputTokens": 27864,
+      "totalOutputTokens": 518,
+      "totalCostUsd": "0.002715",
+      "createdAt": "2026-11-26T12:41:09.841372Z",
+      "updatedAt": "2026-11-26T12:41:24.335506Z",
+      "journal": "民俗研究",
+      "candidates": []
+    },
+    {
+      "id": "d4f36fbf-0321-4e13-b467-c2e3f60a64fe",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "b6fd03d9-57ba-446a-9dbc-c6214064efcb",
+      "totalInputTokens": 23342,
+      "totalOutputTokens": 445,
+      "totalCostUsd": "0.002794",
+      "createdAt": "2026-11-26T12:41:07.928148Z",
+      "updatedAt": "2026-11-26T12:41:23.687725Z",
+      "journal": "现代中文学刊",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "现代中文学刊 投稿指南（投稿格式与作者要求）",
+          "path": [
+            "起始页面（首页）",
+            "投稿指南"
+          ],
+          "source_url": "https://xdzwxk.ecnu.edu.cn/CN/current",
+          "url": "https://xdzwxk.ecnu.edu.cn/CN/column/column3.shtml"
+        }
+      ]
+    },
+    {
+      "id": "81839269-948c-4701-94d0-73c8ddd446ca",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "af77826d-390d-4414-a0de-27902ef6f146",
+      "totalInputTokens": 48249,
+      "totalOutputTokens": 954,
+      "totalCostUsd": "0.005557",
+      "createdAt": "2026-11-26T12:40:59.497872Z",
+      "updatedAt": "2026-11-26T12:41:19.279817Z",
+      "journal": "语言教学与研究",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "投稿指南（含稿件结构、序次及格式、正文格式要求与文末参考文献体例说明；并指向投稿系统“下载中心”的《语言教学与研究》用稿说明）",
+          "path": [
+            "https://yyjx.blcu.edu.cn/",
+            "投稿指南"
+          ],
+          "source_url": "https://yyjx.blcu.edu.cn/tgzn.htm",
+          "url": "https://yyjx.blcu.edu.cn/tgzn.htm"
+        }
+      ]
+    },
+    {
+      "id": "a854d6dc-406c-447b-9b47-20050a9d44c6",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "d4caceb1-61b2-45d2-843f-1b93a4a17da4",
+      "totalInputTokens": 11574,
+      "totalOutputTokens": 130,
+      "totalCostUsd": "0.001303",
+      "createdAt": "2026-11-26T12:40:45.773702Z",
+      "updatedAt": "2026-11-26T12:40:51.111019Z",
+      "journal": "德国研究",
+      "candidates": []
+    },
+    {
+      "id": "e6cb3321-22c9-4ae3-8756-b0256120a8a7",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "4907b1d6-d850-4703-a304-f687652797ce",
+      "totalInputTokens": 54494,
+      "totalOutputTokens": 600,
+      "totalCostUsd": "0.004750",
+      "createdAt": "2026-11-26T12:40:31.296552Z",
+      "updatedAt": "2026-11-26T12:40:51.286163Z",
+      "journal": "中央音乐学院学报",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "《中央音乐学院学报》投稿须知及著录规范",
+          "path": [
+            "起始页面",
+            "首页",
+            "作者投稿区",
+            "著录规范"
+          ],
+          "source_url": "https://xuebao.ccom.edu.cn/CN/column/column7.shtml",
+          "url": "https://xuebao.ccom.edu.cn/CN/column/column7.shtml"
+        }
+      ]
+    },
+    {
+      "id": "4cac2ec3-3f5a-44bd-863c-f6f4772db1ba",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "6ae1e058-6f5f-427a-b625-4a2284036cba",
+      "totalInputTokens": 46862,
+      "totalOutputTokens": 830,
+      "totalCostUsd": "0.004690",
+      "createdAt": "2026-11-26T12:40:24.193981Z",
+      "updatedAt": "2026-11-26T12:40:45.281398Z",
+      "journal": "中国糖尿病杂志",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "投稿须知（《中国糖尿病杂志》稿约）",
+          "path": [
+            "《中国糖尿病杂志》官方网站",
+            "投稿须知"
+          ],
+          "source_url": "http://www.cds.org.cn/tgxz/",
+          "url": "http://www.cds.org.cn/tgxz/"
+        },
+        {
+          "kind": "page",
+          "label": "著作授权书下载",
+          "path": [
+            "《中国糖尿病杂志》官方网站",
+            "投稿须知",
+            "编辑部在线",
+            "著作授权书下载"
+          ],
+          "source_url": "http://www.cds.org.cn/tgxz/",
+          "url": "http://www.cds.org.cn/xiazai.php"
+        },
+        {
+          "kind": "attachment",
+          "label": "《中国糖尿病杂志》常用词略语表",
+          "path": [
+            "《中国糖尿病杂志》官方网站",
+            "投稿须知",
+            "编辑部在线",
+            "《中国糖尿病杂志》常用词略语表"
+          ],
+          "source_url": "http://www.cds.org.cn/tgxz/",
+          "url": "http://www.cds.org.cn/suolvye.pdf"
+        }
+      ]
+    },
+    {
+      "id": "825fabcc-6bcf-46d6-a664-d8fdecc49d19",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "4eaa6f1f-7160-4d95-9796-74611005b3ca",
+      "totalInputTokens": 12528,
+      "totalOutputTokens": 157,
+      "totalCostUsd": "0.001540",
+      "createdAt": "2026-11-26T12:40:24.193428Z",
+      "updatedAt": "2026-11-26T12:40:57.010085Z",
+      "journal": "青海民族研究",
+      "candidates": []
+    },
+    {
+      "id": "b0fb6ce4-ae42-4846-b090-36065081975d",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "e181d9c3-c05a-49b4-acf9-42e087439d17",
+      "totalInputTokens": 17227,
+      "totalOutputTokens": 237,
+      "totalCostUsd": "0.002178",
+      "createdAt": "2026-11-26T12:40:24.177373Z",
+      "updatedAt": "2026-11-26T12:40:33.772060Z",
+      "journal": "戏曲艺术",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "《戏曲艺术》—投稿须知（页面正文）",
+          "path": [
+            "指定起始页面《戏曲艺术》"
+          ],
+          "source_url": "https://www.nacta.edu.cn/kycz/xqyz/index.htm",
+          "url": "https://www.nacta.edu.cn/kycz/xqyz/index.htm"
+        }
+      ]
+    },
+    {
+      "id": "f78a3ffb-5626-47c6-9825-6e2a6845d7ff",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "3ae64bef-d2a6-4e5c-9a1c-2fe14702f449",
+      "totalInputTokens": 46927,
+      "totalOutputTokens": 576,
+      "totalCostUsd": "0.004652",
+      "createdAt": "2026-11-26T12:40:00.091162Z",
+      "updatedAt": "2026-11-26T12:40:16.497550Z",
+      "journal": "新闻大学",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "《新闻大学》在线投稿须知（含稿件格式范例及引注规范）",
+          "path": [
+            "起始页面：https://xwxy.fudan.edu.cn/51869/list.htm",
+            "学术学科",
+            "学术期刊",
+            "新闻大学",
+            "《新闻大学》在线投稿须知"
+          ],
+          "source_url": "https://xwxy.fudan.edu.cn/xwdxw/list.htm",
+          "url": "https://xwxy.fudan.edu.cn/ab/9f/c51869a502687/page.htm"
+        }
+      ]
+    },
+    {
+      "id": "89aa894f-9106-4188-a8f8-08699bed5924",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "6e8ee080-202e-4a74-848d-11d646889b60",
+      "totalInputTokens": 35650,
+      "totalOutputTokens": 452,
+      "totalCostUsd": "0.003294",
+      "createdAt": "2026-11-26T12:39:56.461487Z",
+      "updatedAt": "2026-11-26T12:40:11.705514Z",
+      "journal": "振动与冲击",
+      "candidates": []
+    },
+    {
+      "id": "3eb35a19-ed0b-4b8b-8990-0eccd592bdd2",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "1c774f1c-02aa-4e47-ba7e-6237182b36e0",
+      "totalInputTokens": 19114,
+      "totalOutputTokens": 645,
+      "totalCostUsd": "0.002931",
+      "createdAt": "2026-11-26T12:39:53.378132Z",
+      "updatedAt": "2026-11-26T12:40:06.766976Z",
+      "journal": "华中师范大学学报. 自然科学版",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "投稿指南（含投稿须知、稿件组成与排版要求、参考文献格式）",
+          "path": [
+            "起始页面",
+            "投稿指南"
+          ],
+          "source_url": "https://journal.ccnu.edu.cn/zk/CN/column/item50.shtml",
+          "url": "https://journal.ccnu.edu.cn/zk/CN/column/column107.shtml"
+        },
+        {
+          "kind": "attachment",
+          "label": "版权授权协议（DOCX）",
+          "path": [
+            "起始页面",
+            "投稿指南",
+            "版权授权协议"
+          ],
+          "source_url": "https://journal.ccnu.edu.cn/zk/CN/column/column107.shtml",
+          "url": "http://journal.ccnu.edu.cn/zk/CN/item/downloadFile.jsp?filedisplay=20190305145434.docx"
+        },
+        {
+          "kind": "attachment",
+          "label": "学术诚信声明（DOCX）",
+          "path": [
+            "起始页面",
+            "投稿指南",
+            "学术诚信声明"
+          ],
+          "source_url": "https://journal.ccnu.edu.cn/zk/CN/column/column107.shtml",
+          "url": "http://journal.ccnu.edu.cn/zk/CN/item/downloadFile.jsp?filedisplay=20190305145448.docx"
+        },
+        {
+          "kind": "attachment",
+          "label": "华中师范大学学报版权授权书（DOC）",
+          "path": [
+            "起始页面",
+            "投稿指南",
+            "附件",
+            "华中师范大学学报版权授权书"
+          ],
+          "source_url": "https://journal.ccnu.edu.cn/zk/CN/column/column107.shtml",
+          "url": "http://journal.ccnu.edu.cn/zk//CN/item/downloadFile.jsp?filedisplay=20221013112519.doc"
+        }
+      ]
+    },
+    {
+      "id": "d13bb44c-e59e-480c-a0b3-e9773dd69172",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "a240a957-0a99-4cdf-8cca-8ea13ccc9e12",
+      "totalInputTokens": 46697,
+      "totalOutputTokens": 745,
+      "totalCostUsd": "0.004253",
+      "createdAt": "2026-11-26T12:39:41.609337Z",
+      "updatedAt": "2026-11-26T12:40:06.950281Z",
+      "journal": "人口与发展",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "Instructions for Authors（含投稿须知及文稿格式规范）",
+          "path": [
+            "起始页面《人口与发展》投稿须知",
+            "点击“Instructions for Authors”"
+          ],
+          "source_url": "https://ccj.pku.edu.cn/article/info?aid=392189638",
+          "url": "https://ccj.pku.edu.cn/journal/SubmissionInstructions?jid=99049"
+        }
+      ]
+    },
+    {
+      "id": "7a63a740-8faa-496c-9a31-fb28d284899c",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "614509fb-197c-4940-baf8-e7bbc5ac3f48",
+      "totalInputTokens": 17760,
+      "totalOutputTokens": 460,
+      "totalCostUsd": "0.002294",
+      "createdAt": "2026-11-26T12:39:20.608923Z",
+      "updatedAt": "2026-11-26T12:39:42.159680Z",
+      "journal": "史学月刊",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "敬告作者和读者（作者投稿要求与稿件格式说明）",
+          "path": [
+            "投稿指南",
+            "敬告作者和读者"
+          ],
+          "source_url": "https://sxyk.henu.edu.cn/tgzn1/tgzn.htm",
+          "url": "https://sxyk.henu.edu.cn/info/1017/1903.htm"
+        },
+        {
+          "kind": "page",
+          "label": "《史学月刊》中外文文献注释规则说明",
+          "path": [
+            "投稿指南",
+            "《史学月刊》中外文文献注释规则说明"
+          ],
+          "source_url": "https://sxyk.henu.edu.cn/tgzn1/tgzn.htm",
+          "url": "https://sxyk.henu.edu.cn/info/1017/1904.htm"
+        }
+      ]
+    },
+    {
+      "id": "01ed6b11-aa1d-4838-bb7a-e485bc65e6b7",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "a5dfa3b4-d49e-4260-8b38-70098bb12042",
+      "totalInputTokens": 31662,
+      "totalOutputTokens": 502,
+      "totalCostUsd": "0.003413",
+      "createdAt": "2026-11-26T12:39:19.994487Z",
+      "updatedAt": "2026-11-26T12:39:42.181637Z",
+      "journal": "外国文学",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "《外国文学》体例说明",
+          "path": [
+            "《外国文学》简介（起始页面）",
+            "期刊",
+            "《外国文学》体例说明"
+          ],
+          "source_url": "https://wxs.bfsu.edu.cn/wgwx.htm",
+          "url": "https://wxs.bfsu.edu.cn/info/1123/1124.htm"
+        }
+      ]
+    },
+    {
+      "id": "c79f584b-4adf-40a9-bebb-660edb01dc3a",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "a7574761-1e5f-42fd-b697-ead93f2f832e",
+      "totalInputTokens": 12043,
+      "totalOutputTokens": 240,
+      "totalCostUsd": "0.001886",
+      "createdAt": "2026-11-26T12:39:19.435395Z",
+      "updatedAt": "2026-11-26T12:39:27.018922Z",
+      "journal": "科技与出版",
+      "candidates": []
+    },
+    {
+      "id": "369881b1-e8bd-4b37-b85e-3d172bd613d4",
+      "model": "bu-ultrafast",
+      "status": "completed",
+      "error": null,
+      "sessionId": "4e117737-f5fb-4467-97dc-69c083633714",
+      "totalInputTokens": 48422,
+      "totalOutputTokens": 861,
+      "totalCostUsd": "0.005102",
+      "createdAt": "2026-11-26T12:39:19.389914Z",
+      "updatedAt": "2026-11-26T12:39:36.882576Z",
+      "journal": "有色金属科学与工程",
+      "candidates": [
+        {
+          "kind": "page",
+          "label": "投稿流程（含《有色金属科学与工程》投稿说明）",
+          "path": [
+            "期刊中心首页",
+            "投稿流程"
+          ],
+          "source_url": "https://qks.jxust.edu.cn/qk/ysjskxygc.htm",
+          "url": "https://qks.jxust.edu.cn/tglc.htm"
+        }
+      ]
+    }
+  ]
+}

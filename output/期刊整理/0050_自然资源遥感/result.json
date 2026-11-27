@@ -1,0 +1,42 @@
+{
+  "index": 50,
+  "journal": "自然资源遥感",
+  "url": "https://www.gtzyyg.com/",
+  "source_sheet": "可打开",
+  "source_row": 51,
+  "started_at": "2026-11-26T20:45:30+08:00",
+  "finished_at": "2026-11-26T20:46:57+08:00",
+  "status": "completed",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 2,
+    "artifacts": 0,
+    "pending": 2,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0050_自然资源遥感/manifest.json",
+  "pages": 3,
+  "attachments": [
+    {
+      "title": "《自然资源遥感》撰稿须知 PDF",
+      "format": "pdf",
+      "local_path": "0050_自然资源遥感/attachments/20250616100034_bd13110b57.pdf",
+      "sha256": "bd13110b574f57a788ad46d4a240d8a7ba3ef85c6b8590517e38a6d8c2b9ef42",
+      "bytes": 215578
+    },
+    {
+      "title": "《自然资源遥感》论文模板 Word",
+      "format": "pdf",
+      "local_path": "0050_自然资源遥感/attachments/20230711113214_bc70af7d93.pdf",
+      "sha256": "bc70af7d939375998e0519377cc082f174fff8e47a42b00d9ad508e36fbd8e47",
+      "bytes": 561496
+    }
+  ],
+  "original_count": 2,
+  "webpage_text": 0,
+  "pending_count": 3,
+  "pending_reasons": [
+    "needs_review"
+  ]
+}

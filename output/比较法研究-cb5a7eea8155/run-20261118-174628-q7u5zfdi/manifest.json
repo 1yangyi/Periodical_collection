@@ -1,0 +1,109 @@
+{
+  "journal": {
+    "name": "比较法研究",
+    "url": "https://bjfy.cbpt.cnki.net/WKI/WebPublication/index.aspx?mid=bjfy",
+    "journal_id": "CSSCI-2025-0001",
+    "row": 2,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://bjfy.cbpt.cnki.net/WKI/WebPublication/index.aspx?mid=bjfy",
+  "collected_at": "2026-11-18T17:46:28+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "bjfy.cbpt.cnki.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://bjfy.cbpt.cnki.net/WKI/WebPublication/index.aspx?mid=bjfy",
+      "requested_url": "https://bjfy.cbpt.cnki.net/WKI/WebPublication/index.aspx?mid=bjfy",
+      "title": "比较法研究",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-18T17:46:28+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://bjfy.cbpt.cnki.net/WKI/WebPublication/wkTextContent.aspx?navigationContentID=2eafad03-376b-44d5-b294-b65098412bda&mid=bjfy",
+      "requested_url": "https://bjfy.cbpt.cnki.net/WKI/WebPublication/wkTextContent.aspx?navigationContentID=2eafad03-376b-44d5-b294-b65098412bda&mid=bjfy",
+      "title": "比较法研究",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-18T17:46:28+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://bjfy.cbpt.cnki.net/WKI/WebPublication/wkTextContent.aspx?navigationContentID=2374b53a-65b2-4759-8863-86759c31cc9f&mid=bjfy",
+      "requested_url": "https://bjfy.cbpt.cnki.net/WKI/WebPublication/wkTextContent.aspx?navigationContentID=2374b53a-65b2-4759-8863-86759c31cc9f&mid=bjfy",
+      "title": "比较法研究",
+      "path": [
+        "官网入口",
+        "注释体例"
+      ],
+      "visited_at": "2026-11-18T17:46:28+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "比较法研究",
+      "source_url": "https://bjfy.cbpt.cnki.net/WKI/WebPublication/wkTextContent.aspx?navigationContentID=2eafad03-376b-44d5-b294-b65098412bda&mid=bjfy",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "local_path": "web/比较法研究_c8a944f27c.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "比较法研究",
+      "source_url": "https://bjfy.cbpt.cnki.net/WKI/WebPublication/wkTextContent.aspx?navigationContentID=2374b53a-65b2-4759-8863-86759c31cc9f&mid=bjfy",
+      "path": [
+        "官网入口",
+        "注释体例"
+      ],
+      "local_path": "web/比较法研究_34703e5455.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "比较法研究投稿格式",
+      "local_path": "比较法研究投稿格式.md",
+      "source_urls": [
+        "https://bjfy.cbpt.cnki.net/WKI/WebPublication/wkTextContent.aspx?navigationContentID=2eafad03-376b-44d5-b294-b65098412bda&mid=bjfy",
+        "https://bjfy.cbpt.cnki.net/WKI/WebPublication/wkTextContent.aspx?navigationContentID=2374b53a-65b2-4759-8863-86759c31cc9f&mid=bjfy"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://bjfy.cbpt.cnki.net/WKI/WebPublication/index.aspx?mid=bjfy",
+      "title": "比较法研究",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

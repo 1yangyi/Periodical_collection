@@ -1,0 +1,109 @@
+{
+  "journal": {
+    "name": "Frontiers of Mathematics in China",
+    "url": "https://journal.hep.com.cn/fmc/EN/home",
+    "journal_id": "",
+    "row": 232,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://journal.hep.com.cn/fmc/EN/home",
+  "collected_at": "2026-11-26T20:58:48+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "journal.hep.com.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://journal.hep.com.cn/fmc/EN/home",
+      "requested_url": "https://journal.hep.com.cn/fmc/EN/home",
+      "title": "Higher Education Press",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:58:48+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://journal.hep.com.cn/fmc/EN/PDF/10.3868/s140-DDD-026-0006-x",
+      "title": "Download PDF",
+      "source_url": "https://journal.hep.com.cn/fmc/EN/home",
+      "path": [
+        "官网入口",
+        "Download PDF"
+      ],
+      "reason": "unrecognized_response",
+      "detail": "application/json",
+      "context": "Download PDF"
+    },
+    {
+      "url": "https://journal.hep.com.cn/fmc/EN/PDF/10.3868/s140-DDD-026-0007-x",
+      "title": "Download PDF",
+      "source_url": "https://journal.hep.com.cn/fmc/EN/home",
+      "path": [
+        "官网入口",
+        "Download PDF"
+      ],
+      "reason": "unrecognized_response",
+      "detail": "application/json",
+      "context": "Download PDF"
+    },
+    {
+      "url": "https://journal.hep.com.cn/fmc/EN/PDF/10.3868/s140-DDD-026-0008-x",
+      "title": "Download PDF",
+      "source_url": "https://journal.hep.com.cn/fmc/EN/home",
+      "path": [
+        "官网入口",
+        "Download PDF"
+      ],
+      "reason": "unrecognized_response",
+      "detail": "application/json",
+      "context": "Download PDF"
+    },
+    {
+      "url": "https://journal.hep.com.cn/fmc/EN/PDF/10.3868/s140-DDD-026-0010-x",
+      "title": "Download PDF",
+      "source_url": "https://journal.hep.com.cn/fmc/EN/home",
+      "path": [
+        "官网入口",
+        "Download PDF"
+      ],
+      "reason": "unrecognized_response",
+      "detail": "application/json",
+      "context": "Download PDF"
+    },
+    {
+      "url": "https://journal.hep.com.cn/fmc/EN/home",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://journal.hep.com.cn/fmc/EN/home",
+      "title": "Frontiers of Mathematics in China",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

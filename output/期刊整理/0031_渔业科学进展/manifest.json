@@ -1,0 +1,183 @@
+{
+  "journal": {
+    "name": "渔业科学进展",
+    "url": "https://journal.yykxjz.cn/",
+    "journal_id": "",
+    "row": 32,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://journal.yykxjz.cn/",
+  "collected_at": "2026-11-26T20:42:00+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "journal.yykxjz.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://journal.yykxjz.cn/",
+      "requested_url": "https://journal.yykxjz.cn/",
+      "title": "微信公众号",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:42:00+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://journal.yykxjz.cn/yykxjz/site/menus/20140411100844001",
+      "requested_url": "https://journal.yykxjz.cn/yykxjz/site/menus/20140411100844001",
+      "title": "★投稿指南",
+      "path": [
+        "官网入口",
+        "★投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:42:00+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://journal.yykxjz.cn/yykxjz/site/menus/yykxjz/site/menus/20140411100844001",
+      "requested_url": "https://journal.yykxjz.cn/yykxjz/site/menus/yykxjz/site/menus/20140411100844001",
+      "title": "★投稿指南",
+      "path": [
+        "官网入口",
+        "★投稿指南",
+        "★投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:42:00+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://journal.yykxjz.cn/yykxjz/site/menus/20140411101420001",
+      "requested_url": "https://journal.yykxjz.cn/yykxjz/site/menus/20140411101420001",
+      "title": "最新目录",
+      "path": [
+        "首页",
+        "★作者指南",
+        "作者使用系统的说明"
+      ],
+      "visited_at": "2026-11-26T20:42:00+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://journal.yykxjz.cn/yykxjz/site/menus/20140411111711001",
+      "requested_url": "https://journal.yykxjz.cn/yykxjz/site/menus/20140411111711001",
+      "title": "最新目录",
+      "path": [
+        "首页",
+        "★作者指南",
+        "稿件处理流程"
+      ],
+      "visited_at": "2026-11-26T20:42:00+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "★投稿指南",
+      "source_url": "https://journal.yykxjz.cn/yykxjz/site/menus/20140411100844001",
+      "path": [
+        "官网入口",
+        "★投稿指南"
+      ],
+      "local_path": "web/★投稿指南_44010f47de.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "渔业科学进展投稿格式",
+      "local_path": "渔业科学进展投稿格式.md",
+      "source_urls": [
+        "https://journal.yykxjz.cn/yykxjz/site/menus/20140411100844001"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://journal.yykxjz.cn/",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "https://journal.yykxjz.cn/yykxjz/site/menus/yykxjz/article/top_download",
+      "title": "更多+",
+      "source_url": "https://journal.yykxjz.cn/yykxjz/site/menus/20140411100844001",
+      "path": [
+        "官网入口",
+        "★投稿指南",
+        "更多+"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "更多+"
+    },
+    {
+      "url": "https://journal.yykxjz.cn/yykxjz/site/menus/20140411100844001",
+      "title": "★投稿指南",
+      "source_url": "https://journal.yykxjz.cn/",
+      "path": [
+        "官网入口",
+        "★投稿指南"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": "★投稿指南"
+    },
+    {
+      "url": "https://journal.yykxjz.cn/yykxjz/site/menus/20140411101420001",
+      "title": "作者使用系统的说明",
+      "source_url": "https://journal.yykxjz.cn/",
+      "path": [
+        "首页",
+        "★作者指南",
+        "作者使用系统的说明"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "https://journal.yykxjz.cn/yykxjz/site/menus/20140411111711001",
+      "title": "稿件处理流程",
+      "source_url": "https://journal.yykxjz.cn/",
+      "path": [
+        "首页",
+        "★作者指南",
+        "稿件处理流程"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "https://journal.yykxjz.cn/",
+      "title": "渔业科学进展",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

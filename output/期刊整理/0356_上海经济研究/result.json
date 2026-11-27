@@ -1,0 +1,31 @@
+{
+  "index": 356,
+  "journal": "上海经济研究",
+  "url": "https://ie.sass.org.cn/2016/0121/c2029a84360/page.htm",
+  "source_sheet": "可打开",
+  "source_row": 357,
+  "started_at": "2026-11-26T21:00:06+08:00",
+  "finished_at": "2026-11-26T21:00:12+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 2,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST network-policies 返回 HTTP 422"
+  ],
+  "manifest": "0356_上海经济研究/manifest.json",
+  "pages": 1,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 4,
+  "pending_reasons": [
+    "browser_use_failed",
+    "no_valid_word_or_pdf",
+    "page_fetch_failed"
+  ]
+}

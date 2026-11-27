@@ -1,0 +1,37 @@
+{
+  "index": 42,
+  "journal": "中国微创外科杂志",
+  "url": "http://zgwcwk.paperopen.com/",
+  "source_sheet": "可打开",
+  "source_row": 43,
+  "started_at": "2026-11-26T20:43:52+08:00",
+  "finished_at": "2026-11-26T20:56:32+08:00",
+  "status": "completed",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 2,
+    "artifacts": 2,
+    "pending": 7,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0042_中国微创外科杂志/manifest.json",
+  "pages": 3,
+  "attachments": [
+    {
+      "title": "介绍信和版权转让协议（模板/附件链接；未验证文件可用性）",
+      "format": "doc",
+      "local_path": "0042_中国微创外科杂志/attachments/4ecc6286-588a-48c1-b211-5a2ab9ea816b_4dae05f4f5.doc",
+      "sha256": "4dae05f4f556a891374304dc889ef12a1dc2fec3f35ef94d2bfdac2c8f2978bb",
+      "bytes": 15360
+    }
+  ],
+  "original_count": 1,
+  "webpage_text": 0,
+  "pending_count": 16,
+  "pending_reasons": [
+    "attachment_unavailable",
+    "invalid_or_failed_attachment",
+    "needs_review"
+  ]
+}

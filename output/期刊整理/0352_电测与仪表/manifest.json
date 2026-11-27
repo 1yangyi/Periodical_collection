@@ -1,0 +1,61 @@
+{
+  "journal": {
+    "name": "电测与仪表",
+    "url": "https://www.zgwszcyjzz.cn/",
+    "journal_id": "",
+    "row": 353,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.zgwszcyjzz.cn/",
+  "collected_at": "2026-11-26T21:00:03+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.zgwszcyjzz.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.zgwszcyjzz.cn/",
+      "requested_url": "https://www.zgwszcyjzz.cn/",
+      "title": "《电测与仪表》电测与仪表杂志社投稿_期刊论文发表|版面费|电话|编辑部|论文发表",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:00:03+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.zgwszcyjzz.cn/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://www.zgwszcyjzz.cn/",
+      "title": "电测与仪表",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

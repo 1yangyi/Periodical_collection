@@ -1,0 +1,86 @@
+{
+  "journal": {
+    "name": "法律适用",
+    "url": "https://flsy.cbpt.cnki.net/portal/journal/portal/client/index",
+    "journal_id": "CSSCI-2025-0006",
+    "row": 7,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "",
+  "collected_at": "2026-11-18T17:49:31+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "flsy.cbpt.cnki.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://flsy.cbpt.cnki.net/portal/journal/portal/client/news/FLSY_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "requested_url": "https://flsy.cbpt.cnki.net/portal/journal/portal/client/news/FLSY_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "title": "投稿须知",
+      "path": [
+        "起始页面：首页",
+        "顶部导航：投稿须知"
+      ],
+      "visited_at": "2026-11-18T17:49:31+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿须知",
+      "source_url": "https://flsy.cbpt.cnki.net/portal/journal/portal/client/news/FLSY_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "path": [
+        "起始页面：首页",
+        "顶部导航：投稿须知"
+      ],
+      "local_path": "web/投稿须知_ee3c20d4db.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "法律适用投稿格式",
+      "local_path": "法律适用投稿格式.md",
+      "source_urls": [
+        "https://flsy.cbpt.cnki.net/portal/journal/portal/client/news/FLSY_0a96be87-490b-49ff-90aa-bee7b5d1b2cc"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://flsy.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "HTTPSConnectionPool(host='flsy.cbpt.cnki.net', port=443): Max retries exceeded with url: /portal/journal/portal/client/index (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='flsy.cbpt.cnki.net', port=443): Read timed out. (read timeout=15)\"))",
+      "context": ""
+    },
+    {
+      "url": "https://flsy.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "法律适用",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

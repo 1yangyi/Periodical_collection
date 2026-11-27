@@ -1,0 +1,169 @@
+{
+  "journal": {
+    "name": "现代化工",
+    "url": "https://www.xdhg.com.cn/joweb/xdhg/CN/home",
+    "journal_id": "",
+    "row": 26,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "completed",
+  "homepage_resolved": "https://www.xdhg.com.cn/joweb/xdhg/CN/home",
+  "collected_at": "2026-11-26T20:41:25+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.xdhg.com.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.xdhg.com.cn/joweb/xdhg/CN/home",
+      "requested_url": "https://www.xdhg.com.cn/joweb/xdhg/CN/home",
+      "title": "现代化工",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:41:25+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.xdhg.com.cn/joweb/xdhg/CN",
+      "requested_url": "https://www.xdhg.com.cn/joweb/xdhg/CN",
+      "title": "现代化工",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:41:25+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.xdhg.com.cn/joweb/xdhg/CN/tgxz",
+      "requested_url": "https://www.xdhg.com.cn/joweb/xdhg/CN/tgxz",
+      "title": "现代化工",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:41:25+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.xdhg.com.cn/joweb/xdhg/CN/lwmb",
+      "requested_url": "https://www.xdhg.com.cn/joweb/xdhg/CN/lwmb",
+      "title": "现代化工",
+      "path": [
+        "官网入口",
+        "论文模板"
+      ],
+      "visited_at": "2026-11-26T20:41:25+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.xdhg.com.cn/joweb/xdhg/CN/downloads",
+      "requested_url": "https://www.xdhg.com.cn/joweb/xdhg/CN/downloads",
+      "title": "现代化工",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "visited_at": "2026-11-26T20:41:25+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "现代化工",
+      "source_url": "https://www.xdhg.com.cn/joweb/xdhg/CN",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "local_path": "web/现代化工_156e7ef303.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "现代化工",
+      "source_url": "https://www.xdhg.com.cn/joweb/xdhg/CN/tgxz",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "local_path": "web/现代化工_ce628acf94.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "attachment",
+      "format": "docx",
+      "title": "《现代化工》论文模板（DOCX）",
+      "local_path": "attachments/20250829091551_3d35e695fc.docx",
+      "sha256": "3d35e695fc086fae8d72fdca7edc3e62e6f1f4613ca1aaab04f601c50e18c2f2",
+      "bytes": 84607,
+      "sources": [
+        {
+          "source_url": "https://www.xdhg.com.cn/joweb/xdhg/CN/home",
+          "download_url": "https://www.xdhg.com.cn/joweb/xdhg/CN/file/download/?fileId=13nGjso00fsuqhoVwAy07Q==&type=file&fileName=20250829091551.docx",
+          "resolved_url": "https://www.xdhg.com.cn/joweb/xdhg/CN/file/download/?fileId=13nGjso00fsuqhoVwAy07Q==&type=file&fileName=20250829091551.docx",
+          "path": [
+            "首页",
+            "下载中心",
+            "《现代化工》论文模板"
+          ],
+          "label": "《现代化工》论文模板（DOCX）",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "attachment",
+      "format": "doc",
+      "title": "《现代化工》参考文献著录格式（DOC）",
+      "local_path": "attachments/20220225162421_b8775ef411.doc",
+      "sha256": "b8775ef41157d058a2fe0a4956bb6750f214837d52381956b6743f32d0f3aa8b",
+      "bytes": 41472,
+      "sources": [
+        {
+          "source_url": "https://www.xdhg.com.cn/joweb/xdhg/CN/home",
+          "download_url": "https://www.xdhg.com.cn/joweb/xdhg/CN/file/download/?fileId=MMzMLisps6YtO0ANRmKsDw==&type=file&fileName=20220225162421.doc",
+          "resolved_url": "https://www.xdhg.com.cn/joweb/xdhg/CN/file/download/?fileId=MMzMLisps6YtO0ANRmKsDw==&type=file&fileName=20220225162421.doc",
+          "path": [
+            "首页",
+            "下载中心",
+            "《现代化工》参考文献著录格式"
+          ],
+          "label": "《现代化工》参考文献著录格式（DOC）",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "webpage_text",
+      "title": "现代化工投稿格式",
+      "local_path": "现代化工投稿格式.md",
+      "source_urls": [
+        "https://www.xdhg.com.cn/joweb/xdhg/CN",
+        "https://www.xdhg.com.cn/joweb/xdhg/CN/tgxz"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": []
+}

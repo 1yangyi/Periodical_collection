@@ -1,0 +1,28 @@
+{
+  "index": 117,
+  "journal": "南洋问题研究",
+  "url": "https://nanyang.xmu.edu.cn/jdqk/_nywtyj_.htm",
+  "source_sheet": "可打开",
+  "source_row": 118,
+  "started_at": "2026-11-26T20:55:35+08:00",
+  "finished_at": "2026-11-26T20:57:05+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 6,
+    "artifacts": 1,
+    "pending": 1,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0117_南洋问题研究/manifest.json",
+  "pages": 6,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 1,
+  "pending_count": 2,
+  "pending_reasons": [
+    "depth_limit",
+    "no_valid_word_or_pdf"
+  ]
+}

@@ -1,0 +1,447 @@
+<!DOCTYPE html><HTML>
+<HEAD>
+	<TITLE>语言科学 投稿指南</TITLE>
+	<META http-equiv=Content-Type content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
+
+
+
+
+
+
+<link href="/Jwk_yykx/js/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="/Jwk_yykx/develop/static/common/css/css.css">
+<link rel="stylesheet" href="/Jwk_yykx/js/jqpagination/jqpagination.css" />
+<script src="/Jwk_yykx/js/jquery/jquery.min.js"></script>
+<script src="/Jwk_yykx/js/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/Jwk_yykx/js/jquery/jquery.qrcode.min.js"></script>
+<script src="/Jwk_yykx/develop/static/common/js/common_cn.js"></script>
+<script src="/Jwk_yykx/develop/static/common/js/component_cn.js"></script>
+<script language="javascript" src="/Jwk_yykx/js/store.js"></script>
+<script language="javascript" src="/Jwk_yykx/develop/static/common/js/download_cn.js"></script>
+<script language="javascript" src="/Jwk_yykx/js/My97DatePicker/WdatePicker.js"></script>
+
+<script>
+	$(document).ready(function(){
+		$("title").text($("title").text().replace(/<\/?[^>]*>/g,""));
+	});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!--顶部快速导航下拉导航菜单特效css-->
+<!--<link rel="stylesheet" href="https://journal15.magtechjournal.com/Jwk_yykx/images/1671-9484/css/bootsnav.css"> -->
+<!--网站css-->
+<link rel="stylesheet" href="https://journal15.magtechjournal.com/Jwk_yykx/images/1671-9484/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://journal15.magtechjournal.com/Jwk_yykx/images/1671-9484/css/css.css">
+<script src="https://journal15.magtechjournal.com/Jwk_yykx/images/1671-9484/js/indexjs.js"></script>
+
+
+</HEAD>
+<body>
+
+
+
+
+
+
+
+
+
+
+
+<input type="hidden" id="mag-common-contextPath" value="/Jwk_yykx"/>
+
+<div id="mag-component-store-div" style="display:none;"></div>
+			
+<!-- 模态框（Modal） -->
+<div class="modal fade" id="magModal" tabindex="-1" role="dialog" data-keyboard=false data-backdrop='static' aria-labelledby="magModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button buttonGroup="0" type="button"  class="close"  aria-hidden="true" onclick="mag_layer_close();">
+					&times;
+				</button>
+				<h4 class="modal-title" id="magModalLabel">
+					模态框（Modal）标题
+				</h4>
+			</div>
+			<div class="modal-body" id="mag-modal-body" style="overflow:auto;">
+				在这里添加一些文本
+			</div>
+			<div id="mag-layer-button-div" class="modal-footer">
+				<button buttonGroup="1" type="button"  class="btn btn-default"  onclick="mag_layer_close();">关闭
+				</button>
+				<button buttonGroup="2" type="button"  class="btn btn-default"  onclick="mag_layer_close();">关闭
+				</button>
+				<button buttonGroup="2" type="button" class="btn btn-primary" onclick="mag_submit()">
+					提交更改
+				</button>
+				<button buttonGroup="3" type="button"  class="btn btn-default"  onclick="mag_layer_close();">取消
+				</button>
+				<button buttonGroup="3" type="button" class="btn btn-primary" onclick="mag_submit()">
+					确定并提交
+				</button>
+				
+			</div>
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal -->
+</div>
+
+<div class="modal fade" id="magModal_2" tabindex="-1" role="dialog" data-keyboard=false data-backdrop='static' aria-labelledby="magModalLabel_2" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" name="mag-modal-close" class="close" data-dismiss="modal" aria-hidden="true" onclick="mag_close_2();">
+					&times;
+				</button>
+				<h4 class="modal-title" id="magModalLabel_2">
+					模态框（Modal）标题
+				</h4>
+			</div>
+			<div class="modal-body" id="mag-modal-body_2" style="overflow:auto;">
+				在这里添加一些文本
+			</div>
+			<div id="mag-layer-button-div_2" class="modal-footer">
+				<button type="button" name="mag-modal-close" class="btn btn-default" data-dismiss="modal" onclick="mag_close_2();">关闭
+				</button>
+			</div>
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal -->
+</div>
+
+<!-- 模态框-Tab -->
+<div class="modal fade" id="magTabModal" tabindex="-1" role="dialog" data-keyboard=false data-backdrop='static' aria-labelledby="magTabModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header" style="border-bottom:0px;padding:15px 0px;">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true" style="padding-right:15px;">
+					&times;
+				</button>
+				
+<ul id="magTab" class="nav nav-tabs">
+
+</ul>
+			</div>
+			<div class="modal-body">
+				
+<div id="magTabContent" class="tab-content">
+
+</div>
+			</div>
+			<div id="mag-tablayer-button-div" class="modal-footer">
+				
+			</div>
+			
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal -->
+</div>
+
+
+		
+
+
+
+<!--头部-->
+
+
+<script language="javascript">
+	function tabChange(obj, id) {
+		var arrayli = obj.parentNode.getElementsByTagName("li"); //获取li数组
+		var arrayul = document.getElementById(id).getElementsByTagName("ul"); //获取ul数组
+		for (i = 0; i < arrayul.length; i++) {
+			if (obj == arrayli[i]) {
+				arrayli[i].className = "cli";
+				arrayul[i].className = "";
+			} else {
+				arrayli[i].className = "";
+				arrayul[i].className = "hidden";
+			}
+		}
+	}
+</script>
+<style type="text/css">
+.tabbox {
+	width: 400px;
+	margin-top: 5px;
+	margin-bottom: 5px
+}
+
+.tabmenu {
+	width: 400px;
+	height: 28px;
+	border-left: 1px solid #CCC;
+	border-top: 1px solid #ccc;
+}
+
+.tabmenu ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.tabmenu li {
+	text-align: center;
+	float: left;
+	display: block;
+	width: 99px;
+	overflow: hidden;
+	background-color: #f1f1f1;
+	line-height: 27px;
+	border-right: #ccc 1px solid;
+	border-bottom: #ccc 1px solid;
+	display: inline;
+}
+
+.tabmenu .cli {
+	text-align: center;
+	float: left;
+	display: block;
+	width: 99px;
+	overflow: hidden;
+	background-color: #fff;
+	line-height: 27px;
+	border-right: #ccc 1px solid;
+	border-bottom: #fff 1px solid;
+	display: inline;
+	cursor: pointer;
+	color: #c30000;
+	font-weight: bold
+}
+
+#tabcontent {
+	width: 399px;
+	background-color: #fff;
+	border-left: #CCC 1px solid;
+	border-right: #CCC 1px solid;
+	border-bottom: #CCC 1px solid;
+	height: 65px;
+}
+
+#tabcontent ul {
+	margin: 0;
+	padding: 5px;
+	list-style-type: none;
+}
+
+#tabcontent .hidden {
+	display: none;
+}
+</style>
+
+<div class="container" style="background:transparent">
+<div class="row">
+<div class="journal-head">
+		<img src="https://journal15.magtechjournal.com/Jwk_yykx/images/1671-9484/images/banner.jpg" class="img-responsive">
+</div>
+</div>
+</div>
+
+<!--导航-->
+<div class="container">
+<div class="row">
+<div class="navbar site-nav whitebg">
+
+
+    <div class="navbar-header">
+      <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">导航切换</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+      <a class="navbar-brand visible-xs" href="">语言科学</a> </div>
+    <div class="navbar-collapse collapse" role="navigation">
+		<ul class="nav navbar-nav">
+      	<li style="width:190px;font-size:15px;line-height: 34px;text-align: center;color:#fff;">
+			<script language="JavaScript" type="text/javascript">today=new Date();
+			function initArray(){
+			this.length=initArray.arguments.length
+			for(var i=0;i<this.length;i++)
+			this[i+1]=initArray.arguments[i]  }
+			var d=new initArray(
+			" 星期日",
+			" 星期一",
+			" 星期二",
+			" 星期三",
+			" 星期四",
+			" 星期五",
+			" 星期六");
+			document.write(
+			"",
+			today.getFullYear(),"年",
+			today.getMonth()+1,"月",
+			today.getDate(),"日",
+			d[today.getDay()+1],
+			"" );
+		   </script>
+	    </li>
+        <li><a href="https://journal15.magtechjournal.com/Jwk_yykx/CN/home">首页</a></li>
+                                    
+                        <li><a href="https://journal15.magtechjournal.com/Jwk_yykx/CN/column/column1.shtml">期刊介绍</a></li>
+			           
+                                                
+                        <li><a href="https://journal15.magtechjournal.com/Jwk_yykx/CN/column/column3.shtml">编委会</a></li>
+			           
+                                                
+                        <li><a href="https://journal15.magtechjournal.com/Jwk_yykx/CN/column/column6.shtml">投稿指南</a></li>
+			           
+                                                
+                        <li><a href="https://journal15.magtechjournal.com/Jwk_yykx/CN/column/column8.shtml">期刊订阅</a></li>
+			           
+                                                
+                        <li><a href="https://journal15.magtechjournal.com/Jwk_yykx/CN/column/column9.shtml">广告服务</a></li>
+			           
+                                                
+                        <li><a href="https://journal15.magtechjournal.com/Jwk_yykx/CN/column/column12.shtml">联系我们</a></li>
+			           
+                                    <li><a href="https://journal15.magtechjournal.com/Jwk_yykx/EN/home">English</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+</div>
+<!--导航 End-->
+
+<!--导航 End-->
+<div class="container" style="height: 10px"></div>
+<script src='https://tongji.journalreport.cn/mstatistics.service.js'></script><script>recordAdd('17bbe2adf5204641a493b71170503125')</script>
+<!--头部 End-->
+
+<!--中间-->
+<div class="container">
+<div class="row">
+<div class="col-md-9 m-center">
+		
+<section class="content_nr">
+	<h3 class="column">
+		<span>投稿指南</span>
+	</h3>
+<div class="item-content">
+<p style="line-height: 150%">&nbsp;</p>
+<div style="line-height: 150%">一、投稿方式</div>
+<div style="line-height: 150%">1.投稿地址</div>
+<div style="line-height: 150%">从2012年10月起，本刊采用网上投稿（网址：<a href="http://www.linsci.com/">www.linsci.com</a> 从中文入口进入）。特殊字体稿件难以通过网上投稿系统处理的，请寄打印纸本和（或）电子本两种。如无法使用系统投稿的作者，请联系编辑部！</div>
+<div style="line-height: 150%">
+<p style="line-height:150%">打印本请寄到：</p>
+<p style="line-height:150%">江苏省徐州市云龙区和平路57号215信箱</p>
+</div>
+<div style="line-height: 150%">江苏师范大学语言科学与艺术学院&nbsp; 《语言科学》编辑部</div>
+<div style="line-height: 150%">邮编：221009</div>
+<div style="line-height: 150%">电子稿请寄到：</div>
+<div style="line-height: 150%"><a href="mailto:yykx@vip.163.com">yykx@vip.163.com</a></div>
+<div style="line-height: 150%">2. 稿件格式</div>
+<div style="line-height: 150%">通过网上投稿系统投稿，注册登录后，请按系统要求投稿。电子稿请提供WORD版和PDF版格式，如果文章用到特殊字体，请用附件形式把相应的字体文件发送过来。</div>
+<div style="line-height: 150%">
+<p style="line-height: 150%">二、稿件体例（请在下载中心查看）</p>
+</div>
+<div style="line-height: 150%">三、审稿过程</div>
+<div style="line-height: 150%">本刊实行同行专家匿名审稿制度，按照国际标准编辑出版，稿件从收稿之日起3个月内将审稿结果通知作者。本刊对作者的重大原始创新学术成果的时效性负责，特设“特快通道”，作者在投稿时注明“特快通道”，本刊若认定为重大原始创新学术成果，会在50天之内告知作者审稿结果。</div>
+<div style="line-height: 150%">&nbsp;</div>
+<div style="line-height: 150%">四、稿件有关事宜</div>
+<div style="line-height: 150%">请勿一稿两投，如发现一稿两投现象，本刊将作相应处理。</div>
+<div style="line-height: 150%">来稿文责自负。根据《著作权法》的有关规定，本刊可以对来稿作文字上的修改、删节。作者如不同意修改，请予以注明。</div>
+<div style="line-height: 150%">限于人力，本刊不予退稿，请作者自留底稿。</div>
+<div style="line-height: 150%">&nbsp;</div>
+<div style="line-height: 150%">五、稿件版权</div>
+<div style="line-height: 150%">稿件一经录用，文章的著作版权（包括光盘版版权、网络版版权）即属本刊所有，如不同意请在投稿时注明。</div>
+<div style="line-height: 150%">&nbsp;</div>
+<br>
+<div class="text-right">
+发布日期：2012-09-12&nbsp;&nbsp;&nbsp;
+浏览：
+
+
+
+
+13409
+	
+	
+	 
+</div>
+
+</div>
+</section>
+</div>
+<!--右部-->
+
+
+<div class="col-md-3 m-left">
+
+			<aside class="aside">
+                <div class="column">
+                    <span>在线办公</span>
+                </div>
+				
+			    <ul class="office-menu">
+				<a href="http://journal17.magtechjournal.com/Journalx_yykx/authorLogOn.action" target="_blank"><img src="https://journal15.magtechjournal.com/Jwk_yykx/images/1671-9484/images/zzzx.jpg"></a>
+				<a href="http://journal17.magtechjournal.com/Journalx_yykx/authorLogOn.action" target="_blank"><img src="https://journal15.magtechjournal.com/Jwk_yykx/images/1671-9484/images/zzcg.jpg"></a>
+				<a href="http://journal17.magtechjournal.com/Journalx_yykx/editorLogOn.action" target="_blank"><img src="https://journal15.magtechjournal.com/Jwk_yykx/images/1671-9484/images/bjbg.jpg"></a>
+				<a href="http://journal17.magtechjournal.com/Journalx_yykx/expertLogOn.action" target="_blank"><img src="https://journal15.magtechjournal.com/Jwk_yykx/images/1671-9484/images/zjzx.jpg"></a>
+				<a href="http://journal17.magtechjournal.com/Journalx_yykx/editorLogOn.action" target="_blank"><img src="https://journal15.magtechjournal.com/Jwk_yykx/images/1671-9484/images/bwsg.jpg"></a>
+				<a href="http://journal17.magtechjournal.com/Journalx_yykx/editorInChiefLogOn.action" target="_blank"><img src="https://journal15.magtechjournal.com/Jwk_yykx/images/1671-9484/images/zbbg.jpg"></a>
+			    </ul>
+			</aside>
+			
+            <aside class="aside">
+                <div class="column">
+                    <span>在线期刊</span>
+                </div>
+                <ul class="wangkan-list">
+                	<li><a href="https://journal15.magtechjournal.com/Jwk_yykx/CN/just_accepted"><i class="fa fa-check-square-o"></i>最新录用</a></li>
+					<li><a href="https://journal15.magtechjournal.com/Jwk_yykx/CN/current"><i class="fa fa-file-text-o"></i>当期目录</a></li>
+					<li><a href="https://journal15.magtechjournal.com/Jwk_yykx/CN/archive_by_years"><i class="fa fa-server"></i>过刊浏览</a></li>
+					<li><a href="https://journal15.magtechjournal.com/Jwk_yykx/CN/top_access"><i class="fa fa-sort-amount-asc"></i>摘要阅读排行</a></li>
+					<li><a href="https://journal15.magtechjournal.com/Jwk_yykx/CN/top_download"><i class="fa fa-signal"></i>全文下载排行</a></li>
+					<li><a href="https://journal15.magtechjournal.com/Jwk_yykx/CN/top_cited"><i class="fa fa-server"></i>文章引用排行</a></li>
+					<li><a href="https://journal15.magtechjournal.com/Jwk_yykx/CN/alert/showAlertInfo.do"><i class="fa fa-envelope" aria-hidden="true"></i>E-mail alert</a></li>
+					<li><a href="https://journal15.magtechjournal.com/Jwk_yykx/CN/rss/showRssInfo.do"><i class="fa fa-feed" aria-hidden="true"></i>RSS</a></li>
+                </ul>
+            </aside>
+			
+			<aside>
+				<div class="links">
+				  <ul>
+			<script>record('17bbe2adf5204641a493b71170503125')</script>   
+			总访问量：<span id="ipVisitsSum"></span><br>
+			今日访问：<span id="ipDaySum"></span><br>
+			在线人数：<span id="currentOnLine"></span>
+					</ul>
+				</div>
+			</aside>
+
+
+    </div>
+
+</div>
+</div>
+<!--底部-->
+
+
+
+
+<div class="container">
+	<div class="row">
+	<footer class="footer">
+			<div class="footer-info">
+				
+	                  版权所有 &copy; 《语言科学》编辑部<br>
+	                  <a href="https://beian.miit.gov.cn" target="_blank">苏ICP备05007135号</a><br>	                  <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32031202000303"><img src="https://journal15.magtechjournal.com/Jwk_yykx/images/1671-9484/images/gwab.png" width="15" height="15"> 苏公网安备 32031202000303号</a><br>
+															本系统由<a href="https://www.magtech.com.cn/" target="_blank">北京玛格泰克科技发展有限公司</a>设计开发
+			</div>
+
+	</footer>
+	</div>
+</div>
+<!--返回顶部-->
+<div class="top_web" id="backtop" style="display:block;"> <span class="glyphicon glyphicon-menu-up"></span></div>
+<!--返回顶部end--> 
+
+</body>
+</HTML>

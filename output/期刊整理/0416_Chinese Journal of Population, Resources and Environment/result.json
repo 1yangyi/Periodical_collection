@@ -1,0 +1,31 @@
+{
+  "index": 416,
+  "journal": "Chinese Journal of Population, Resources and Environment",
+  "url": "https://www.keaipublishing.com/en/journals/chinese-journal-of-population-resources-and-environment/",
+  "source_sheet": "可打开",
+  "source_row": 417,
+  "started_at": "2026-11-26T21:01:10+08:00",
+  "finished_at": "2026-11-26T21:01:20+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 1,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST network-policies 返回 HTTP 422"
+  ],
+  "manifest": "0416_Chinese Journal of Population, Resources and Environment/manifest.json",
+  "pages": 1,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 3,
+  "pending_reasons": [
+    "browser_use_failed",
+    "needs_review",
+    "no_valid_word_or_pdf"
+  ]
+}

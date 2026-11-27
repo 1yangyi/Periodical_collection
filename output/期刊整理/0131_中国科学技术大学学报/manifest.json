@@ -1,0 +1,61 @@
+{
+  "journal": {
+    "name": "中国科学技术大学学报",
+    "url": "http://justc.ustc.edu.cn/",
+    "journal_id": "",
+    "row": 132,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "http://justc.ustc.edu.cn/",
+  "collected_at": "2026-11-26T20:57:15+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "justc.ustc.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "http://justc.ustc.edu.cn/",
+      "requested_url": "http://justc.ustc.edu.cn/",
+      "title": "Current Issue View more >>",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:57:15+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "http://justc.ustc.edu.cn/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "http://justc.ustc.edu.cn/",
+      "title": "中国科学技术大学学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

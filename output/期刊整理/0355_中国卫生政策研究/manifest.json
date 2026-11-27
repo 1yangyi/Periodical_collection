@@ -1,0 +1,142 @@
+{
+  "journal": {
+    "name": "中国卫生政策研究",
+    "url": "https://journal.healthpolicy.cn/ch/index.aspx",
+    "journal_id": "",
+    "row": 356,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://journal.healthpolicy.cn/ch/index.aspx",
+  "collected_at": "2026-11-26T21:00:05+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "journal.healthpolicy.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://journal.healthpolicy.cn/ch/index.aspx",
+      "requested_url": "https://journal.healthpolicy.cn/ch/index.aspx",
+      "title": "信息动态",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:00:05+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://journal.healthpolicy.cn/ch/common_item.aspx?parent_id=20130514104239001&menu_id=20130514104825001",
+      "requested_url": "https://journal.healthpolicy.cn/ch/common_item.aspx?parent_id=20130514104239001&menu_id=20130514104825001",
+      "title": "中国卫生政策研究编辑部",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T21:00:05+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://journal.healthpolicy.cn/ch/reader/view_news.aspx?id=20230410160948001",
+      "requested_url": "https://journal.healthpolicy.cn/ch/reader/view_news.aspx?id=20230410160948001",
+      "title": "中国卫生政策研究编辑部",
+      "path": [
+        "官网入口",
+        "《信息学与健康（英文）》征稿启事"
+      ],
+      "visited_at": "2026-11-26T21:00:05+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://journal.healthpolicy.cn/ch/first_menu.aspx?parent_id=20200604141208001",
+      "requested_url": "https://journal.healthpolicy.cn/ch/first_menu.aspx?parent_id=20200604141208001",
+      "title": "中国卫生政策研究编辑部",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "visited_at": "2026-11-26T21:00:05+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "中国卫生政策研究编辑部",
+      "source_url": "https://journal.healthpolicy.cn/ch/common_item.aspx?parent_id=20130514104239001&menu_id=20130514104825001",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "local_path": "web/中国卫生政策研究编辑部_06c6ad8bfc.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "中国卫生政策研究投稿格式",
+      "local_path": "中国卫生政策研究投稿格式.md",
+      "source_urls": [
+        "https://journal.healthpolicy.cn/ch/common_item.aspx?parent_id=20130514104239001&menu_id=20130514104825001"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://journal.healthpolicy.cn/download_upload_file.aspx?file_name=/uploadfile/wszc/20240521/%E4%B8%AD%E5%9B%BD%E5%8D%AB%E7%94%9F%E6%94%BF%E7%AD%96%E7%A0%94%E7%A9%B6_%E8%91%97%E4%BD%9C%E6%9D%83%E4%B8%93%E6%9C%89%E8%AE%B8%E5%8F%AF%E4%BD%BF%E7%94%A8%E6%8E%88%E6%9D%83%E4%B9%A6.pdf",
+      "title": "中国卫生政策研究_著作权专有许可使用授权书",
+      "source_url": "https://journal.healthpolicy.cn/ch/first_menu.aspx?parent_id=20200604141208001",
+      "path": [
+        "官网入口",
+        "下载中心",
+        "中国卫生政策研究_著作权专有许可使用授权书"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "中国卫生政策研究_著作权专有许可使用授权书"
+    },
+    {
+      "url": "https://journal.healthpolicy.cn/download_upload_file.aspx?file_name=/uploadfile/wszc/20200604/%E5%88%A9%E7%9B%8A%E5%86%B2%E7%AA%81%E8%AF%B4%E6%98%8E.pdf",
+      "title": "利益冲突说明",
+      "source_url": "https://journal.healthpolicy.cn/ch/first_menu.aspx?parent_id=20200604141208001",
+      "path": [
+        "官网入口",
+        "下载中心",
+        "利益冲突说明"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "利益冲突说明"
+    },
+    {
+      "url": "https://journal.healthpolicy.cn/ch/index.aspx",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://journal.healthpolicy.cn/ch/index.aspx",
+      "title": "中国卫生政策研究",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

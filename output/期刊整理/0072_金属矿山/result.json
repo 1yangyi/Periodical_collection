@@ -1,0 +1,27 @@
+{
+  "index": 72,
+  "journal": "金属矿山",
+  "url": "https://www.chinamet.cn/jsks/",
+  "source_sheet": "可打开",
+  "source_row": 73,
+  "started_at": "2026-11-26T20:48:12+08:00",
+  "finished_at": "2026-11-26T20:50:06+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0072_金属矿山/manifest.json",
+  "pages": 1,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 1,
+  "pending_reasons": [
+    "no_valid_word_or_pdf"
+  ]
+}

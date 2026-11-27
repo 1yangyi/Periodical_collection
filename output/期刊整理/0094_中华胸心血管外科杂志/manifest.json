@@ -1,0 +1,185 @@
+{
+  "journal": {
+    "name": "中华胸心血管外科杂志",
+    "url": "https://cs.medjournals.cn/cn/zhxxxgwkzz",
+    "journal_id": "",
+    "row": 95,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://cs.medjournals.cn/cn/zhxxxgwkzz",
+  "collected_at": "2026-11-26T20:52:08+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "cs.medjournals.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://cs.medjournals.cn/cn/zhxxxgwkzz",
+      "requested_url": "https://cs.medjournals.cn/cn/zhxxxgwkzz",
+      "title": "编辑部公告",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:52:08+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cs.medjournals.cn/cn/zhxxxgwkzz/authors",
+      "requested_url": "https://cs.medjournals.cn/cn/zhxxxgwkzz/authors",
+      "title": "中华胸心血管外科杂志",
+      "path": [
+        "官网入口",
+        "作者须知"
+      ],
+      "visited_at": "2026-11-26T20:52:08+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cs.medjournals.cn/cn/zhxxxgwkzz/featured-articles",
+      "requested_url": "https://cs.medjournals.cn/cn/zhxxxgwkzz/featured-articles",
+      "title": "编辑推荐",
+      "path": [
+        "官网入口",
+        "查看更多"
+      ],
+      "visited_at": "2026-11-26T20:52:08+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cs.medjournals.cn/cn/zhxxxgwkzz/notice",
+      "requested_url": "https://cs.medjournals.cn/cn/zhxxxgwkzz/notice",
+      "title": "编辑部公告",
+      "path": [
+        "官网入口",
+        "查看更多"
+      ],
+      "visited_at": "2026-11-26T20:52:08+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cs.medjournals.cn/cn/zhxxxgwkzz/collections",
+      "requested_url": "https://cs.medjournals.cn/cn/zhxxxgwkzz/collections",
+      "title": "专题集锦",
+      "path": [
+        "官网入口",
+        "查看更多"
+      ],
+      "visited_at": "2026-11-26T20:52:08+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cs.medjournals.cn/cn/zhxxxgwkzz/multimedia",
+      "requested_url": "https://cs.medjournals.cn/cn/zhxxxgwkzz/multimedia",
+      "title": "多媒体",
+      "path": [
+        "官网入口",
+        "查看更多"
+      ],
+      "visited_at": "2026-11-26T20:52:08+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cs.medjournals.cn/cn/zhxxxgwkzz/events",
+      "requested_url": "https://cs.medjournals.cn/cn/zhxxxgwkzz/events",
+      "title": "学术活动",
+      "path": [
+        "官网入口",
+        "查看更多"
+      ],
+      "visited_at": "2026-11-26T20:52:08+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cs.medjournals.cn/cn/zhxxxgwkzz/popular-articles",
+      "requested_url": "https://cs.medjournals.cn/cn/zhxxxgwkzz/popular-articles",
+      "title": "热门文献",
+      "path": [
+        "官网入口",
+        "查看更多"
+      ],
+      "visited_at": "2026-11-26T20:52:08+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cs.medjournals.cn/cn/zhxxxgwkzz/news",
+      "requested_url": "https://cs.medjournals.cn/cn/zhxxxgwkzz/news",
+      "title": "学术动态",
+      "path": [
+        "官网入口",
+        "查看更多"
+      ],
+      "visited_at": "2026-11-26T20:52:08+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cs.medjournals.cn/cn/zhxxxgwkzz/about/editorial-board",
+      "requested_url": "https://cs.medjournals.cn/cn/zhxxxgwkzz/about/editorial-board",
+      "title": "编委会",
+      "path": [
+        "官网入口",
+        "查看更多"
+      ],
+      "visited_at": "2026-11-26T20:52:08+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "中华胸心血管外科杂志",
+      "source_url": "https://cs.medjournals.cn/cn/zhxxxgwkzz/authors",
+      "path": [
+        "官网入口",
+        "作者须知"
+      ],
+      "local_path": "web/中华胸心血管外科杂志_1d8ff69a97.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "中华胸心血管外科杂志投稿格式",
+      "local_path": "中华胸心血管外科杂志投稿格式.md",
+      "source_urls": [
+        "https://cs.medjournals.cn/cn/zhxxxgwkzz/authors"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://cs.medjournals.cn/cn/zhxxxgwkzz/authors",
+      "title": "作者须知",
+      "source_url": "https://cs.medjournals.cn/cn/zhxxxgwkzz",
+      "path": [
+        "官网入口",
+        "作者须知"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": "作者须知 期刊投稿"
+    },
+    {
+      "url": "https://cs.medjournals.cn/cn/zhxxxgwkzz",
+      "title": "中华胸心血管外科杂志",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

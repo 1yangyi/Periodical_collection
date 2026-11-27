@@ -1,0 +1,73 @@
+{
+  "journal": {
+    "name": "红外与毫米波学报",
+    "url": "https://journal.sitp.ac.cn/hwyhmb/hwyhmbcn/home",
+    "journal_id": "",
+    "row": 314,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://journal.sitp.ac.cn/hwyhmb/hwyhmbcn/home",
+  "collected_at": "2026-11-26T20:59:34+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "journal.sitp.ac.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://journal.sitp.ac.cn/hwyhmb/hwyhmbcn/home",
+      "requested_url": "https://journal.sitp.ac.cn/hwyhmb/hwyhmbcn/home",
+      "title": "欢迎访问《红外与毫米波学报》官方主页！",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:34+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://journal.sitp.ac.cn/hwyhmb/hwyhmbcn/hwyhmbcn/site/menu/20090104132528001",
+      "title": "征稿简则",
+      "source_url": "https://journal.sitp.ac.cn/hwyhmb/hwyhmbcn/home",
+      "path": [
+        "官网入口",
+        "征稿简则"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "404 Client Error: Not Found for url: https://journal.sitp.ac.cn/hwyhmb/hwyhmbcn/hwyhmbcn/site/menu/20090104132528001",
+      "context": "征稿简则"
+    },
+    {
+      "url": "https://journal.sitp.ac.cn/hwyhmb/hwyhmbcn/home",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://journal.sitp.ac.cn/hwyhmb/hwyhmbcn/home",
+      "title": "红外与毫米波学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

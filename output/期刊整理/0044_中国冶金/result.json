@@ -1,0 +1,49 @@
+{
+  "index": 44,
+  "journal": "中国冶金",
+  "url": "https://www.chinamet.cn/zgyj/",
+  "source_sheet": "可打开",
+  "source_row": 45,
+  "started_at": "2026-11-26T20:44:19+08:00",
+  "finished_at": "2026-11-26T20:46:01+08:00",
+  "status": "completed",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0044_中国冶金/manifest.json",
+  "pages": 2,
+  "attachments": [
+    {
+      "title": "投稿指南",
+      "format": "docx",
+      "local_path": "0044_中国冶金/attachments/20230914100713_7ad24020f9.docx",
+      "sha256": "7ad24020f9f8eea895abc1130ba44be10e694c10591421f23b0eec084be1c258",
+      "bytes": 46813
+    },
+    {
+      "title": "论文模板",
+      "format": "docx",
+      "local_path": "0044_中国冶金/attachments/20240301153037_8d6600a646.docx",
+      "sha256": "8d6600a6468e14e2d6b8ce16fbaefdc6508e3986eb7bc8fa5dba68be78f93d4b",
+      "bytes": 58924
+    },
+    {
+      "title": "《中国冶金》著作权转让协议",
+      "format": "docx",
+      "local_path": "0044_中国冶金/attachments/20220428121516_dbf8c21d38.docx",
+      "sha256": "dbf8c21d38cfb830c0708c93d2791d072bd4cb9fe62bf50563545b46dcfb8446",
+      "bytes": 20072
+    }
+  ],
+  "original_count": 3,
+  "webpage_text": 1,
+  "pending_count": 1,
+  "pending_reasons": [
+    "needs_review"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "index": 19,
+  "journal": "上海教育科研",
+  "url": "https://ed.ecnu.edu.cn/b8/6c/c46000a637036/page.htm",
+  "source_sheet": "可打开",
+  "source_row": 20,
+  "started_at": "2026-11-26T20:40:40+08:00",
+  "finished_at": "2026-11-26T20:41:53+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0019_上海教育科研/manifest.json",
+  "pages": 1,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 1,
+  "pending_reasons": [
+    "no_valid_word_or_pdf"
+  ]
+}

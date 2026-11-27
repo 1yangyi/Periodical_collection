@@ -1,0 +1,40 @@
+{
+  "index": 25,
+  "journal": "现代化工",
+  "url": "https://www.xdhg.com.cn/joweb/xdhg/CN/home",
+  "source_sheet": "可打开",
+  "source_row": 26,
+  "started_at": "2026-11-26T20:41:25+08:00",
+  "finished_at": "2026-11-26T20:42:40+08:00",
+  "status": "completed",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 5,
+    "artifacts": 2,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0025_现代化工/manifest.json",
+  "pages": 5,
+  "attachments": [
+    {
+      "title": "《现代化工》论文模板（DOCX）",
+      "format": "docx",
+      "local_path": "0025_现代化工/attachments/20250829091551_3d35e695fc.docx",
+      "sha256": "3d35e695fc086fae8d72fdca7edc3e62e6f1f4613ca1aaab04f601c50e18c2f2",
+      "bytes": 84607
+    },
+    {
+      "title": "《现代化工》参考文献著录格式（DOC）",
+      "format": "doc",
+      "local_path": "0025_现代化工/attachments/20220225162421_b8775ef411.doc",
+      "sha256": "b8775ef41157d058a2fe0a4956bb6750f214837d52381956b6743f32d0f3aa8b",
+      "bytes": 41472
+    }
+  ],
+  "original_count": 2,
+  "webpage_text": 1,
+  "pending_count": 0,
+  "pending_reasons": []
+}

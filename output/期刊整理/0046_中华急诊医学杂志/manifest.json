@@ -1,0 +1,88 @@
+{
+  "journal": {
+    "name": "中华急诊医学杂志",
+    "url": "https://zhjzyxzz.yiigle.com/forAuthorEN/",
+    "journal_id": "",
+    "row": 47,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://zhjzyxzz.yiigle.com/forAuthorEN/",
+  "collected_at": "2026-11-26T20:44:46+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "zhjzyxzz.yiigle.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://zhjzyxzz.yiigle.com/forAuthorEN/",
+      "requested_url": "https://zhjzyxzz.yiigle.com/forAuthorEN/",
+      "title": "For Author - 中华急诊医学杂志",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:44:46+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://zhjzyxzz.yiigle.com/author/595363.jhtml",
+      "title": "稿约",
+      "source_url": "https://zhjzyxzz.yiigle.com/forAuthorEN/",
+      "path": [
+        "For Author",
+        "稿约"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "跳转到未核实域名：https://casmp.yiigle.com/login?service=https%3A%2F%2Fzhjzyxzz.yiigle.com%3A%2Fauthor%2F595363.jhtml&gateway=true&loginUrl=%2F",
+      "context": ""
+    },
+    {
+      "url": "https://zhjzyxzz.yiigle.com/author/500940.jhtml",
+      "title": "版权转让协议书",
+      "source_url": "https://zhjzyxzz.yiigle.com/forAuthorEN/",
+      "path": [
+        "For Author",
+        "版权转让协议书"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "404 Client Error:  for url: https://zhjzyxzz.yiigle.com/author/500940.jhtml",
+      "context": ""
+    },
+    {
+      "url": "https://zhjzyxzz.yiigle.com/forAuthorEN/1004696.jhtml",
+      "title": "Instructions to authors",
+      "source_url": "https://zhjzyxzz.yiigle.com/forAuthorEN/",
+      "path": [
+        "For Author",
+        "Instructions to authors"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "跳转到未核实域名：https://casmp.yiigle.com/login?service=https%3A%2F%2Fzhjzyxzz.yiigle.com%3A%2FforAuthorEN%2F1004696.jhtml&gateway=true&loginUrl=%2F",
+      "context": ""
+    },
+    {
+      "url": "https://zhjzyxzz.yiigle.com/forAuthorEN/",
+      "title": "中华急诊医学杂志",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

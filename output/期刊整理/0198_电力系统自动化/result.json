@@ -1,0 +1,31 @@
+{
+  "index": 198,
+  "journal": "电力系统自动化",
+  "url": "https://dlxt1.publish.founderss.cn/zh/home/",
+  "source_sheet": "可打开",
+  "source_row": 199,
+  "started_at": "2026-11-26T20:58:11+08:00",
+  "finished_at": "2026-11-26T20:58:19+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 2,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST runs 返回 HTTP 402"
+  ],
+  "manifest": "0198_电力系统自动化/manifest.json",
+  "pages": 1,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 4,
+  "pending_reasons": [
+    "browser_use_failed",
+    "no_valid_word_or_pdf",
+    "unverified_host"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "index": 137,
+  "journal": "大学教育科学",
+  "url": "https://edu.hnu.edu.cn/dxjykx/qkjj.htm",
+  "source_sheet": "可打开",
+  "source_row": 138,
+  "started_at": "2026-11-26T20:57:27+08:00",
+  "finished_at": "2026-11-26T20:57:33+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 2,
+    "artifacts": 1,
+    "pending": 1,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST runs 返回 HTTP 402"
+  ],
+  "manifest": "0137_大学教育科学/manifest.json",
+  "pages": 2,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 3,
+  "pending_reasons": [
+    "browser_use_failed",
+    "invalid_or_failed_attachment",
+    "no_valid_word_or_pdf"
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "journal": {
+    "name": "InfoMat",
+    "url": "https://journal.hep.com.cn/infomat/EN/home",
+    "journal_id": "",
+    "row": 284,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "completed",
+  "homepage_resolved": "https://journal.hep.com.cn/infomat/EN/home",
+  "collected_at": "2026-11-26T20:59:17+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "journal.hep.com.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://journal.hep.com.cn/infomat/EN/home",
+      "requested_url": "https://journal.hep.com.cn/infomat/EN/home",
+      "title": "Journal updates",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:17+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://journal.hep.com.cn/infomat/EN/guidelines",
+      "requested_url": "https://journal.hep.com.cn/infomat/EN/guidelines",
+      "title": "Journal updates",
+      "path": [
+        "官网入口",
+        "Author guidelines"
+      ],
+      "visited_at": "2026-11-26T20:59:17+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "Journal updates",
+      "source_url": "https://journal.hep.com.cn/infomat/EN/guidelines",
+      "path": [
+        "官网入口",
+        "Author guidelines"
+      ],
+      "local_path": "web/Journal updates_1c822f621e.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "attachment",
+      "format": "docx",
+      "title": "Research Article Template (MS word)",
+      "local_path": "attachments/Research+Article+Template11.10_3d38949d9f.docx",
+      "sha256": "3d38949d9f0e7aadba07b6fd451fd1541c683aff71117d36e9e3dff8ed0a0ea8",
+      "bytes": 248202,
+      "sources": [
+        {
+          "source_url": "https://journal.hep.com.cn/infomat/EN/guidelines",
+          "download_url": "https://onlinelibrary.wiley.com/pb-assets/assets/25673165/Contribute/Research%20Article%20Template11.10-1636526422797.docx",
+          "resolved_url": "https://onlinelibrary.wiley.com/pb-assets/assets/25673165/Contribute/Research%20Article%20Template11.10-1636526422797.docx",
+          "path": [
+            "官网入口",
+            "Author guidelines",
+            "Research Article Template (MS word)"
+          ],
+          "label": "Research Article Template (MS word)",
+          "context": "Research Article Template (MS word)",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "attachment",
+      "format": "docx",
+      "title": "Review Template (MS word)",
+      "local_path": "attachments/Review+Article+Template11.12_cf1f33f56e.docx",
+      "sha256": "cf1f33f56e4c666d377b572365c4293b60ebcb606ff4e838d6279f412f9a5b39",
+      "bytes": 207144,
+      "sources": [
+        {
+          "source_url": "https://journal.hep.com.cn/infomat/EN/guidelines",
+          "download_url": "https://onlinelibrary.wiley.com/pb-assets/assets/25673165/Contribute/Review%20Article%20Template11.12-1636704800897.docx",
+          "resolved_url": "https://onlinelibrary.wiley.com/pb-assets/assets/25673165/Contribute/Review%20Article%20Template11.12-1636704800897.docx",
+          "path": [
+            "官网入口",
+            "Author guidelines",
+            "Review Template (MS word)"
+          ],
+          "label": "Review Template (MS word)",
+          "context": "Review Template (MS word)",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://journal.hep.com.cn/pb-assets/25673173/Guidelines%20for%20the%20Preparation%20of%20Figures-1573182704117.pdf",
+      "title": "Guidelines for the Preparation of Figures",
+      "source_url": "https://journal.hep.com.cn/infomat/EN/guidelines",
+      "path": [
+        "官网入口",
+        "Author guidelines",
+        "Guidelines for the Preparation of Figures"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Guidelines for the Preparation of Figures"
+    },
+    {
+      "url": "https://journal.hep.com.cn/pb-assets/25673165/Graphic%20TOC-1577161100207.pdf",
+      "title": "Guidlines for Graphic in Table of Contents (TOC)",
+      "source_url": "https://journal.hep.com.cn/infomat/EN/guidelines",
+      "path": [
+        "官网入口",
+        "Author guidelines",
+        "Guidlines for Graphic in Table of Contents (TOC)"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Guidlines for Graphic in Table of Contents (TOC)"
+    },
+    {
+      "url": "https://journal.hep.com.cn/pb-assets/25673165/Cover%20guideline-1581321993697.pdf",
+      "title": "Guidelines for the Preparation of Front/Inside Cover",
+      "source_url": "https://journal.hep.com.cn/infomat/EN/guidelines",
+      "path": [
+        "官网入口",
+        "Author guidelines",
+        "Guidelines for the Preparation of Front/Inside Cover"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Guidelines for the Preparation of Front/Inside Cover (Copyright permission form is here )"
+    },
+    {
+      "url": "https://onlinelibrary.wiley.com/pb-assets/26379368/FORM%20-%20Permissions%20Request-1580903739340.pdf",
+      "title": "here",
+      "source_url": "https://journal.hep.com.cn/infomat/EN/guidelines",
+      "path": [
+        "官网入口",
+        "Author guidelines",
+        "here"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Guidelines for the Preparation of Front/Inside Cover (Copyright permission form is here )"
+    },
+    {
+      "url": "http://media.wiley.com/assets/7323/92/electronic_artwork_guidelines.pdf",
+      "title": "here",
+      "source_url": "https://journal.hep.com.cn/infomat/EN/guidelines",
+      "path": [
+        "官网入口",
+        "Author guidelines",
+        "here"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "here"
+    },
+    {
+      "url": "https://authorservices.wiley.com/asset/photos/electronic_artwork_guidelines.pdf",
+      "title": "basic figure requirements",
+      "source_url": "https://journal.hep.com.cn/infomat/EN/guidelines",
+      "path": [
+        "官网入口",
+        "Author guidelines",
+        "basic figure requirements"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "You should review the basic figure requirements for manuscripts for peer review, as well as the more detailed post-acceptance figure requirements."
+    },
+    {
+      "url": "https://authorservices.wiley.com/asset/Authorship-change-form_AS.pdf",
+      "title": "Request for Changes to a Journal Article Author List Form",
+      "source_url": "https://journal.hep.com.cn/infomat/EN/guidelines",
+      "path": [
+        "官网入口",
+        "Author guidelines",
+        "Request for Changes to a Journal Article Author List Form"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Request for Changes to a Journal Article Author List Form"
+    }
+  ]
+}

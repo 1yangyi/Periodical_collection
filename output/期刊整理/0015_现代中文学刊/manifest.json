@@ -1,0 +1,97 @@
+{
+  "journal": {
+    "name": "现代中文学刊",
+    "url": "https://xdzwxk.ecnu.edu.cn/CN/current",
+    "journal_id": "",
+    "row": 16,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://xdzwxk.ecnu.edu.cn/CN/current",
+  "collected_at": "2026-11-26T20:40:15+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "xdzwxk.ecnu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://xdzwxk.ecnu.edu.cn/CN/current",
+      "requested_url": "https://xdzwxk.ecnu.edu.cn/CN/current",
+      "title": "现代中文学刊",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:40:15+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://xdzwxk.ecnu.edu.cn/CN/column/column3.shtml",
+      "requested_url": "https://xdzwxk.ecnu.edu.cn/CN/column/column3.shtml",
+      "title": "现代中文学刊 投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:40:15+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://xdzwxk.ecnu.edu.cn/CN/folder/2/news",
+      "requested_url": "https://xdzwxk.ecnu.edu.cn/CN/folder/2/news",
+      "title": "敬告读者",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "更多"
+      ],
+      "visited_at": "2026-11-26T20:40:15+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "现代中文学刊 投稿指南",
+      "source_url": "https://xdzwxk.ecnu.edu.cn/CN/column/column3.shtml",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "local_path": "web/现代中文学刊 投稿指南_829805882d.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "现代中文学刊投稿格式",
+      "local_path": "现代中文学刊投稿格式.md",
+      "source_urls": [
+        "https://xdzwxk.ecnu.edu.cn/CN/column/column3.shtml"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://xdzwxk.ecnu.edu.cn/CN/current",
+      "title": "现代中文学刊",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

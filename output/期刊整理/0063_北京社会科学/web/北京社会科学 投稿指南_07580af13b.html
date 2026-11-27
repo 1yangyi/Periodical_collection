@@ -1,0 +1,616 @@
+<!DOCTYPE html><HTML>
+<HEAD>
+	<TITLE>北京社会科学 投稿指南</TITLE>
+	<META http-equiv=Content-Type content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
+
+
+
+
+
+
+<link href="/js/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="/develop/static/common/css/css.css">
+<link rel="stylesheet" href="/js/jqpagination/jqpagination.css" />
+<script src="/js/jquery/jquery.min.js"></script>
+<script src="/js/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.qrcode.min.js"></script>
+<script src="/develop/static/common/js/common_cn.js"></script>
+<script src="/develop/static/common/js/component_cn.js"></script>
+<script language="javascript" src="/js/store.js"></script>
+<script language="javascript" src="/develop/static/common/js/download_cn.js"></script>
+<script language="javascript" src="/js/My97DatePicker/WdatePicker.js"></script>
+<script language="javascript" src="/develop/static/common/js/xss/xss.js"></script>
+<link rel="stylesheet" href="/develop/static/common/bootstrap/js/font-awesome.min.css">
+<script language="javascript" src="/develop/static/common/js/xss/mag-xss.js"></script>
+
+<script>
+	$(document).ready(function(){
+		$("title").text($("title").text().replace(/<\/?[^>]*>/g,""));
+	});
+</script>
+
+<style>
+      svg.markmap {
+        width: 100%;
+        height:100%;
+      }
+      .markmap {
+        width: 100%;
+        height:400px;
+      }
+.circle-border {
+	background-color: #CCCCCC; /* 可选，如果想要看到背景 */
+	border: 2px solid #fff; /* 边框宽度和颜色 */
+	border-radius: 50%; /* 将四个角设置为50%，形成圆形 */
+	padding:3px 8px;
+}
+#soin-summary-div img {
+    max-width: 100%;
+}
+</style>
+
+
+
+
+
+
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!--顶部快速导航下拉导航菜单特效css-->
+<!--<link rel="stylesheet" href="https://tg.bass.org.cn/images/1002-3054/css/bootsnav.css"> -->
+<!--网站css-->
+<link rel="stylesheet" href="https://tg.bass.org.cn/images/1002-3054/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://tg.bass.org.cn/images/1002-3054/css/css.css">
+<script src="https://tg.bass.org.cn/images/1002-3054/js/indexjs.js"></script>
+
+
+</HEAD>
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+<input type="hidden" id="mag-common-contextPath" value=""/>
+
+<div id="mag-component-store-div" style="display:none;"></div>
+			
+<!-- 模态框（Modal） -->
+<div class="modal fade" id="magModal" tabindex="-1" role="dialog" data-keyboard=false data-backdrop='static' aria-labelledby="magModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button buttonGroup="0" type="button"  class="close"  aria-hidden="true" onclick="mag_layer_close();">
+					&times;
+				</button>
+				<h4 class="modal-title" id="magModalLabel">
+					模态框（Modal）标题
+				</h4>
+			</div>
+			<div class="modal-body" id="mag-modal-body" style="overflow:auto;">
+				在这里添加一些文本
+			</div>
+			<div id="mag-layer-button-div" class="modal-footer">
+				<button buttonGroup="1" type="button"  class="btn btn-default"  onclick="mag_layer_close();">关闭
+				</button>
+				<button buttonGroup="2" type="button"  class="btn btn-default"  onclick="mag_layer_close();">关闭
+				</button>
+				<button buttonGroup="2" type="button" class="btn btn-primary" onclick="mag_submit()" id="mag_layer_submit_button_2">
+					提交更改
+				</button>
+				<button buttonGroup="3" type="button"  class="btn btn-default"  onclick="mag_layer_close();">取消
+				</button>
+				<button buttonGroup="3" type="button" class="btn btn-primary" onclick="mag_submit()" id="mag_layer_submit_button_3">
+					确定并提交
+				</button>
+				
+			</div>
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal -->
+</div>
+
+<div id="magModal_2" style="display:none;position:fixed;left:0px;top:0px;right:0px;bottom:0px;z-index:1060">
+	<div class="modal-dialog" style="margin-top:60px;">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button buttonGroup="0" type="button" id="mag-madal-close_bt_2"  class="close"  aria-hidden="true" onclick="mag_layer_close_2();">
+					&times;
+				</button>
+				<h4 class="modal-title" id="magModalLabel_2">
+					模态框（Modal）标题
+				</h4>
+			</div>
+			<div id="modal-body_2" class="modal-body"></div>
+		</div>
+	</div>
+</div>
+
+<!-- 模态框-Tab -->
+<div class="modal fade" id="magTabModal" tabindex="-1" role="dialog" data-keyboard=false data-backdrop='static' aria-labelledby="magTabModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header" style="border-bottom:0px;padding:15px 0px;">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true" style="padding-right:15px;">
+					&times;
+				</button>
+				
+<ul id="magTab" class="nav nav-tabs">
+
+</ul>
+			</div>
+			<div class="modal-body">
+				
+<div id="magTabContent" class="tab-content">
+
+</div>
+			</div>
+			<div id="mag-tablayer-button-div" class="modal-footer">
+				
+			</div>
+			
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal -->
+</div>
+
+
+
+<div style="display:none;">
+	<iframe id="mag_sendLongReq_iframe" name="mag_sendLongReq_iframe"></iframe>
+	<iframe id="mag_cma_sso_login_iframe" name="mag_cma_sso_login_iframe"></iframe>
+</div>
+<input type="hidden" id="mag_cma_sso_authorizeUrl" value=""/>
+		
+
+
+
+<!--头部-->
+
+
+<script language="javascript">
+	function tabChange(obj, id) {
+		var arrayli = obj.parentNode.getElementsByTagName("li"); //获取li数组
+		var arrayul = document.getElementById(id).getElementsByTagName("ul"); //获取ul数组
+		for (i = 0; i < arrayul.length; i++) {
+			if (obj == arrayli[i]) {
+				arrayli[i].className = "cli";
+				arrayul[i].className = "";
+			} else {
+				arrayli[i].className = "";
+				arrayul[i].className = "hidden";
+			}
+		}
+	}
+</script>
+<style type="text/css">
+.tabbox {
+	width: 400px;
+	margin-top: 5px;
+	margin-bottom: 5px
+}
+
+.tabmenu {
+	width: 400px;
+	height: 28px;
+	border-left: 1px solid #CCC;
+	border-top: 1px solid #ccc;
+}
+
+.tabmenu ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.tabmenu li {
+	text-align: center;
+	float: left;
+	display: block;
+	width: 99px;
+	overflow: hidden;
+	background-color: #f1f1f1;
+	line-height: 27px;
+	border-right: #ccc 1px solid;
+	border-bottom: #ccc 1px solid;
+	display: inline;
+}
+
+.tabmenu .cli {
+	text-align: center;
+	float: left;
+	display: block;
+	width: 99px;
+	overflow: hidden;
+	background-color: #fff;
+	line-height: 27px;
+	border-right: #ccc 1px solid;
+	border-bottom: #fff 1px solid;
+	display: inline;
+	cursor: pointer;
+	color: #c30000;
+	font-weight: bold
+}
+
+#tabcontent {
+	width: 399px;
+	background-color: #fff;
+	border-left: #CCC 1px solid;
+	border-right: #CCC 1px solid;
+	border-bottom: #CCC 1px solid;
+	height: 65px;
+}
+
+#tabcontent ul {
+	margin: 0;
+	padding: 5px;
+	list-style-type: none;
+}
+
+#tabcontent .hidden {
+	display: none;
+}
+
+img[src*='.traceImg']{
+	width:44px;
+	height:22px;
+}
+</style>
+<div class="journal-head">
+<div class="container">
+
+    <div class="col-md-7 logo">
+		<h1><a href="https://tg.bass.org.cn/CN/home"><img src="https://tg.bass.org.cn/images/1002-3054/images/logo.png" class="img-responsive" alt=""></a></h1>
+    </div>
+	<div class="col-md-5 logo hidden-sm hidden-xs">
+		<h1><img src="https://tg.bass.org.cn/images/1002-3054/images/wz.png" class="img-responsive" style="float:right;"></h1>
+    </div>  
+    
+
+</div>
+
+</div>
+
+<!--导航-->
+
+<!--导航-->
+<div class="navbar site-nav whitebg">
+<div class="container">
+<div class="row">
+
+
+    <div class="navbar-header">
+      <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">导航切换</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+      <a class="navbar-brand visible-xs" href="">北京社会科学</a> </div>
+    <div class="navbar-collapse collapse" role="navigation">
+		<ul class="nav navbar-nav">
+      	<li style="width:236px;font-size:16px;line-height: 42px;text-align: center;color:#fff;">
+			<script language="JavaScript" type="text/javascript">today=new Date();
+			function initArray(){
+			this.length=initArray.arguments.length
+			for(var i=0;i<this.length;i++)
+			this[i+1]=initArray.arguments[i]  }
+			var d=new initArray(
+			" 星期日",
+			" 星期一",
+			" 星期二",
+			" 星期三",
+			" 星期四",
+			" 星期五",
+			" 星期六");
+			document.write(
+			"",
+			today.getFullYear(),"年",
+			today.getMonth()+1,"月",
+			today.getDate(),"日",
+			d[today.getDay()+1],
+			"" );
+		   </script>
+	    </li>
+        <li><a href="https://tg.bass.org.cn/CN/home">首页</a></li>
+                                    
+                        <li><a href="https://tg.bass.org.cn/CN/column/column1.shtml">期刊介绍</a></li>
+			           
+                                                
+                        <li><a href="https://tg.bass.org.cn/CN/column/column3.shtml">编委会</a></li>
+			           
+                                                
+                        <li><a href="https://tg.bass.org.cn/CN/column/column6.shtml">投稿指南</a></li>
+			           
+                                                
+                        <li><a href="https://tg.bass.org.cn/CN/column/column9.shtml">格式规范</a></li>
+			           
+                                                
+                        <li><a href="https://tg.bass.org.cn/CN/column/column8.shtml">期刊订阅</a></li>
+			           
+                                                
+                        <li><a href="https://tg.bass.org.cn/CN/column/column12.shtml">联系我们</a></li>
+			           
+                                    <li><a href="https://tg.bass.org.cn/EN/home">English</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+</div>
+<!--导航 End-->
+
+<!--导航 End-->
+<div class="container" style="height: 20px"></div>
+<script src='https://tongji.journalreport.cn/mstatistics.service.js'></script><script>recordAdd('5993b0d443a6417b9c71dfef8b45c933')</script>
+<!--头部 End-->
+
+<!--中间-->
+<div class="container">
+<div class="row">
+<div class="col-md-9 m-center">
+		
+<section class="content_nr">
+	<h3 class="column">
+		<span>投稿指南</span>
+	</h3>
+<div class="item-content">
+<p class="MsoNormal">
+	<strong>一、摘要的撰写</strong>
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	<span><strong>（一）摘要必须包括以下内容</strong>：</span><span>1. </span><span>研究的目的及意义（为什么要写本论文）；</span><span>2. </span><span>研究过程中采用的数据、方法（论证的过程或方法）；</span><span>3. </span><span>研究的结果或得出的结论（结论）。</span>
+</p>
+<p class="MsoNormal">
+	<strong>（二）摘要撰写的基本要求</strong>
+</p>
+<p class="MsoNormal">
+	<span><strong>1. </strong></span><span><strong>信息量大。</strong>摘要包括的信息量应与论文基本相符，使读者即使不阅读全文，通过摘要也能基本了解文章的观点和研究的基本结论。</span>
+</p>
+<p class="MsoNormal">
+	<span><strong>2. </strong></span><span><strong>结构完整。</strong>摘要应具有独立性，应该是可以被引用的完整短文，先写什么，后写什么，应有逻辑顺序，句子之间要上下连贯，互相呼应，句型应力求简单，少用或不用长句。</span>
+</p>
+<p class="MsoNormal">
+	<span><strong>3. </strong></span><span><strong>言简意赅。</strong>摘要的长度应在</span><span>300</span><span>—</span><span>400</span><span>字，直接明了地阐述论文的创新之处或主要观点，每句话要表意明白，无空泛、笼统、含混之词。摘要不分段。</span>
+</p>
+<p class="MsoNormal">
+	<span><strong>4. </strong></span><span><strong>避免套话。</strong>不应出现作者所从事的研究领域里的常识性内容，不应把应在引言中出现的内容写入摘要，也不要对论文的内容做解释和评论（尤其是自我评价）。比如，不要出现“城市规划是一项重要的政府职能”，“……具有很高的学术价值”，“抛砖引玉”……之类的句子。</span>
+</p>
+<p class="MsoNormal">
+	<strong>（三）撰写摘要时须避免以下情况出现</strong>
+</p>
+<p class="MsoNormal">
+	<span><strong>1. </strong></span><span><strong>重复文章题名中已有的信息。</strong>比如一篇文章的题名是《中国城市交通问题的研究》，其摘要的开头就不要再写：“为了……，对中国城市交通问题进行了研究”。</span>
+</p>
+<p class="MsoNormal">
+	<span><strong>2. </strong></span><span><strong>摘要应具有自明性。</strong>不必使用“本文”、“作者”、“文章”等作为主语。本刊建议采用“对……进行了研究”、“报告了……现状”、“进行了……调查”、“提出了……”等句型。</span>
+</p>
+<p class="MsoNormal">
+	<span><strong>3. </strong></span><span><strong>出现引文或图表。</strong></span>
+</p>
+<p class="MsoNormal">
+	<span><strong>4. </strong></span><span><strong>用语不规范。</strong>摘要中不要出现生僻、主观杜撰的名词、术语或符号等。</span>
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	<strong>二、关键词的选取</strong>
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	（一）关键词应选择那些最具有检索意义的术语，通过这些术语反映论文所涉及的内容或领域，便于读者检索到该论文。
+</p>
+<p class="MsoNormal">
+	<span>（二）关键词的确定应按</span><span>GB/T3860</span><span>的原则和方法，参照各种词表和工具书选取；未被词表收录的新学科、新技术中的重要术语以及文章中的人名、地名也可作为关键词标出。</span>
+</p>
+<p class="MsoNormal">
+	（三）关键词一般应该为名词或词组，不得以段句作为关键词。
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	<strong>三、文中数字与计量单位使用注意事项</strong>
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	<span>文章中数字的使用请执行国家标准（</span><span>GB/T15835</span><span>—</span><span>1995</span><span>）。</span>
+</p>
+<p class="MsoNormal">
+	<strong>（一）以下情况必须使用阿拉伯数字</strong>
+</p>
+<p class="MsoNormal">
+	<span><strong>1. </strong></span><span><strong>计数的数字。</strong>（整数、小数、百分数、比例，等。例：</span><span>125</span><span>；</span><span>3.14</span><span>；</span><span>25%</span><span>；</span><span>1</span><span>：</span><span>5000</span><span>）</span>
+</p>
+<p class="MsoNormal">
+	<span><strong>2. </strong></span><span><strong>世纪、年代、年、月、日、时刻。</strong>（例：</span><span>21</span><span>世纪</span><span>80</span><span>年代；</span><span>1990</span><span>年代；</span><span>2003</span><span>年</span><span>2</span><span>月</span><span>21</span><span>日</span><span>19</span><span>点</span><span>21</span><span>分）</span>
+</p>
+<p class="MsoNormal">
+	<span><strong>3. </strong></span><span><strong>计数单位前面的数字。</strong>（例：</span><span>9</span><span>条道路；</span><span>3</span><span>座污水处理厂；</span><span>25</span><span>片历史保护区）</span>
+</p>
+<p class="MsoNormal">
+	<span><strong>4. </strong></span><span><strong>型号、编号、序号、标准代号、参考文献著录中的数字等。</strong></span>
+</p>
+<p class="MsoNormal">
+	<strong>（二）以下情况一般使用汉字数字表示</strong>
+</p>
+<p class="MsoNormal">
+	<span><strong>1. </strong></span><span><strong>固定搭配。</strong>例：三届二次理事会；十字路口；相差十万八千里；第二届。</span>
+</p>
+<p class="MsoNormal">
+	<span><strong>2. </strong></span><span><strong>约略词。</strong>例：四五拾万元 ；七八十岁；十几；几十万；七八年。</span>
+</p>
+<p class="MsoNormal">
+	<span><strong>3. </strong></span><span><strong>非公历纪年。</strong>例：正月十五；清咸丰十年九月二十五日；藏历阳木龙年八月二十六日；法国共和八年。</span>
+</p>
+<p class="MsoNormal">
+	<span><strong>4. </strong></span><span><strong>分数。</strong>例：三分之二；十分之三。</span>
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	<strong>特别声明</strong>
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	<span>一、本刊所发文章由清华大学</span><span>“</span><span>CNKI</span><span>知识信息资源系列产品之一——《中国学术期刊（光盘版）》”、国家科技部“万方数据——数字化期刊群”、南京大学中国社会科学研究评价中心</span><span>CSSCI</span><span>来源期刊、超星等数据库全文收录。</span>
+</p>
+<p class="MsoNormal">
+	二、本刊对所发文章享有中文专有出版权，含电子出版权。
+</p>
+<p class="MsoNormal">
+	三、对未按本刊要求书写的注释和参考文献条目，本刊将做删除处理。
+</p>
+<p class="MsoNormal">
+	四、本刊保留对作者所来稿件进行修改的权利。
+</p>
+<p class="MsoNormal">
+	五、作者在本刊发表文章须同意本特别声明之第一、二、三、四条。对此如有异议，请予声明。本刊对不同意本特别声明之第一、二、三、四条之作者的文章，在接到文章作者的声明之后，将做撤稿处理。
+</p>
+<p class="MsoNormal">
+	六、作者在返回修改后的电子版文章时，如未附不同意本特别声明之声明，则本刊视同作者同意本特别声明，作者的文章将进入编辑出版程序。
+</p>
+<br>
+<div class="text-right">
+发布日期：2022-07-18&nbsp;&nbsp;&nbsp;
+浏览：
+
+
+
+
+32720
+	
+	
+	 
+</div>
+
+</div>
+</section>
+</div>
+<!--右部-->
+
+
+<div class="col-md-3 m-right">
+           
+			    <ul class="office-menu">
+					<li><a href="https://tg.bass.org.cn/Journalx_bjshkx/authorLogOn.action" target="_blank">
+					<button class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-user"></span> 作者投稿查稿</button>
+					</a></li>
+					<li><a href="https://tg.bass.org.cn/Journalx_bjshkx/expertLogOn.action" target="_blank">
+					<button class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-education"></span> 专家在线审稿</button>
+					</a></li>
+					<li><a href="https://tg.bass.org.cn/Journalx_bjshkx/editorInChiefLogOn.action" target="_blank">
+					<button class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-pencil"></span> 主编在线办公</button>
+					</a></li>
+					<li><a href="https://tg.bass.org.cn/Journalx_bjshkx/editorCommitteeLogOn.action" target="_blank">
+					<button class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-eye-open"></span> 编委在线办公</button>
+					</a></li>
+					<li><a href="https://tg.bass.org.cn/Journalx_bjshkx/editorLogOn.action" target="_blank">
+					<button class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-edit"></span> 编辑在线办公</button>
+					</a></li>
+					
+			    </ul>
+			<aside class="aside">
+        <div class="column"> <span class="pull-left"><i class="glyphicon glyphicon-volume-up"></i> 通知公告</span> <a href="https://tg.bass.org.cn/CN/news/folder.do?folderId=3" class="more">更多</a></div>
+        <ul class="news-list">
+        <marquee onmouseover="this.stop()" onmouseout="this.start()" behavior="scroll" direction="up" scrollamount="1" scrolldelay="70" style="width: 98%; height: 200px;">
+          <div mag-component-type="ajaxPage" mag-page-url="https://tg.bass.org.cn/CN/1002-3054/model/tongzhi.htm"></div>
+        </marquee>
+        </ul>
+      </aside>
+            <aside class="aside">
+                <div class="column">
+                    <span class="pull-left"><i class="fa fa-book"></i> 在线期刊</span>
+                </div>
+                <ul class="wangkan-list">
+					<li><a href="https://tg.bass.org.cn/CN/current"><i class="fa fa-file-text-o"></i>当期目录</a></li>
+					<li><a href="https://tg.bass.org.cn/CN/just_accepted"><i class="fa fa-check-square-o"></i>最新录用</a></li>
+					<li><a href="https://tg.bass.org.cn/CN/archive_by_years"><i class="fa fa-server"></i>过刊浏览</a></li>
+					<li><a href="https://tg.bass.org.cn/CN/top_access"><i class="fa fa-sort-amount-asc"></i>阅读排行</a></li>
+					<li><a href="https://tg.bass.org.cn/CN/top_download"><i class="fa fa-signal"></i>下载排行</a></li>
+					<li><a href="https://tg.bass.org.cn/CN/top_cited"><i class="fa fa-server"></i>引用排行</a></li>
+					
+					<li><a href="https://tg.bass.org.cn/CN/rss/showRssInfo.do"><i class="fa fa-feed" aria-hidden="true"></i>RSS</a></li>
+                </ul>
+            </aside>
+	
+
+	<aside class="aside">
+        <div class="column"> <span class="pull-left"><i class="fa fa-download"></i> 下载中心</span> <a href="https://tg.bass.org.cn/CN/column/7/items" class="more">更多</a></div>
+          <ul class="news-list">
+				        	        	        			<li><a href="" class="news-title" target="_blank">下载中心</a></li>
+	        	        	                  </ul>
+      </aside>
+
+	<aside class="aside">
+        <div class="column"> <span class="pull-left"><i class="glyphicon glyphicon-link"></i> 友情链接</span> <a href="https://tg.bass.org.cn/CN/column/10/items" class="more">更多</a></div>
+          <ul class="news-list">
+			                                    			<li><a href="" class="news-title" target="_blank">友情链接</a></li>
+                                              </ul>
+      </aside>
+		      <aside class="aside">
+                <div class="column">
+                    <span class="pull-left"><i class="fa fa-wechat"></i> 微信公众号</span>
+                </div>
+                <ul class="news-list">
+				<img src="https://tg.bass.org.cn/images/1002-3054/images/wechat.png" class="img-responsive" style="width:200px;margin:0 auto;">
+                </ul>
+            </aside>
+		<aside>
+			<div class="links">
+			  <ul>
+		<script>record('5993b0d443a6417b9c71dfef8b45c933')</script>   
+		总访问量：<span id="ipVisitsSum"></span><br>
+		今日访问：<span id="ipDaySum"></span><br>
+		在线人数：<span id="currentOnLine"></span>
+				</ul>
+			</div>
+		</aside>
+
+    </div>
+
+</div>
+</div>
+<!--底部-->
+
+
+
+<footer class="footer">
+<div class="container">
+	<div class="row">
+			<div class="footer-info">
+				<p>
+					                  版权所有 &copy; 《北京社会科学》编辑部<br>
+					地址：北京市北四环中路33号　<br class="visible-xs">邮编：100101　<br class="visible-xs">					电话：010-64870591，84097289　<br class="visible-xs">E-mail：sg@bjshkx.net<br>					本系统由<a href="https://www.magtech.com.cn/" target="_blank">北京玛格泰克科技发展有限公司</a>设计开发<br>	
+					<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript  src='https://dcs.conac.cn/js/01/000/0000/60714951/CA010000000607149510003.js' type='text/javascript'%3E%3C/script%3E"));</script>
+					
+
+				</p>
+			</div>
+
+	</div>
+</div>
+</footer>
+<!--返回顶部-->
+<div class="top_web" id="backtop" style="display:block;"> <span class="glyphicon glyphicon-menu-up"></span></div>
+<!--返回顶部end--> 
+
+</body>
+</HTML>

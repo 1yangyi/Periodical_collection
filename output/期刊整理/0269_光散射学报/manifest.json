@@ -1,0 +1,72 @@
+{
+  "journal": {
+    "name": "光散射学报",
+    "url": "https://m.opticsjournal.net/J/gssxb/Issues.html",
+    "journal_id": "",
+    "row": 270,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://m.opticsjournal.net/J/gssxb/Issues.html",
+  "collected_at": "2026-11-26T20:59:10+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "m.opticsjournal.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://m.opticsjournal.net/J/gssxb/Issues.html",
+      "requested_url": "https://m.opticsjournal.net/J/gssxb/Issues.html",
+      "title": "安全提示",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:10+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://m.opticsjournal.net/journal/gssxb/news/pt21111900062fbiek.cshtml",
+      "requested_url": "https://m.opticsjournal.net/journal/gssxb/news/pt21111900062fbiek.cshtml",
+      "title": "投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:59:10+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://m.opticsjournal.net/J/gssxb/Issues.html",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://m.opticsjournal.net/J/gssxb/Issues.html",
+      "title": "光散射学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

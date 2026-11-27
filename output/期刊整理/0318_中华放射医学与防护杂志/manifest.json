@@ -1,0 +1,72 @@
+{
+  "journal": {
+    "name": "中华放射医学与防护杂志",
+    "url": "https://nirp.chinacdc.cn/",
+    "journal_id": "",
+    "row": 319,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://nirp.chinacdc.cn/",
+  "collected_at": "2026-11-26T20:59:35+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "nirp.chinacdc.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://nirp.chinacdc.cn/",
+      "requested_url": "https://nirp.chinacdc.cn/",
+      "title": "中国疾病预防控制中心辐射防护与核安全医学所",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:35+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://nirp.chinacdc.cn/tzgg/",
+      "requested_url": "https://nirp.chinacdc.cn/tzgg/",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:59:35+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://nirp.chinacdc.cn/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://nirp.chinacdc.cn/",
+      "title": "中华放射医学与防护杂志",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

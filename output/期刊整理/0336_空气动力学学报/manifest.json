@@ -1,0 +1,83 @@
+{
+  "journal": {
+    "name": "空气动力学学报",
+    "url": "https://kqdlxxb.xml-journal.net/",
+    "journal_id": "",
+    "row": 337,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://kqdlxxb.xml-journal.net/",
+  "collected_at": "2026-11-26T20:59:51+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "kqdlxxb.xml-journal.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://kqdlxxb.xml-journal.net/",
+      "requested_url": "https://kqdlxxb.xml-journal.net/",
+      "title": "导出文件",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:51+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://kqdlxxb.xml-journal.net/tougaozhinan",
+      "requested_url": "https://kqdlxxb.xml-journal.net/tougaozhinan",
+      "title": "《空气动力学学报》投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:59:51+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://kqdlxxb.xml-journal.net/xiazaizhongxin",
+      "requested_url": "https://kqdlxxb.xml-journal.net/xiazaizhongxin",
+      "title": "导出文件",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "visited_at": "2026-11-26T20:59:51+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://kqdlxxb.xml-journal.net/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://kqdlxxb.xml-journal.net/",
+      "title": "空气动力学学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

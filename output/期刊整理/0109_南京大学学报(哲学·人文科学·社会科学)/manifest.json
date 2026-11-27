@@ -1,0 +1,75 @@
+{
+  "journal": {
+    "name": "南京大学学报(哲学·人文科学·社会科学)",
+    "url": "https://skch.nju.edu.cn/0d/a4/c63424a789924/page.htm",
+    "journal_id": "",
+    "row": 110,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://skch.nju.edu.cn/0d/a4/c63424a789924/page.htm",
+  "collected_at": "2026-11-26T20:54:11+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "skch.nju.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://skch.nju.edu.cn/0d/a4/c63424a789924/page.htm",
+      "requested_url": "https://skch.nju.edu.cn/0d/a4/c63424a789924/page.htm",
+      "title": "南京大学学报(哲学·人文科学·社会科学)",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:54:11+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://skch.nju.edu.cn/21884/list.htm",
+      "requested_url": "https://skch.nju.edu.cn/21884/list.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:54:11+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://skch.nju.edu.cn/21884/list20.psp",
+      "requested_url": "https://skch.nju.edu.cn/21884/list20.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "尾页"
+      ],
+      "visited_at": "2026-11-26T20:54:11+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://skch.nju.edu.cn/0d/a4/c63424a789924/page.htm",
+      "title": "南京大学学报(哲学·人文科学·社会科学)",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

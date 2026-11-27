@@ -1,0 +1,105 @@
+{
+  "journal": {
+    "name": "空天防御",
+    "url": "https://www.qk.sjtu.edu.cn/ktfy/CN/folder/folder130.shtml",
+    "journal_id": "",
+    "row": 128,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.qk.sjtu.edu.cn/ktfy/CN/folder/folder130.shtml",
+  "collected_at": "2026-11-26T20:57:05+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.qk.sjtu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.qk.sjtu.edu.cn/ktfy/CN/folder/folder130.shtml",
+      "requested_url": "https://www.qk.sjtu.edu.cn/ktfy/CN/folder/folder130.shtml",
+      "title": "空天防御",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:57:05+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.qk.sjtu.edu.cn/ktfy/CN/column/column379.shtml",
+      "requested_url": "https://www.qk.sjtu.edu.cn/ktfy/CN/column/column379.shtml",
+      "title": "空天防御 征稿启事",
+      "path": [
+        "官网入口",
+        "征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:57:05+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.qk.sjtu.edu.cn/ktfy/CN/column/column2118.shtml",
+      "requested_url": "https://www.qk.sjtu.edu.cn/ktfy/CN/column/column2118.shtml",
+      "title": "HTTP404 无法找到页面",
+      "path": [
+        "官网入口",
+        "论文模板"
+      ],
+      "visited_at": "2026-11-26T20:57:05+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "空天防御 征稿启事",
+      "source_url": "https://www.qk.sjtu.edu.cn/ktfy/CN/column/column379.shtml",
+      "path": [
+        "官网入口",
+        "征稿启事"
+      ],
+      "local_path": "web/空天防御 征稿启事_5c803a4375.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "空天防御投稿格式",
+      "local_path": "空天防御投稿格式.md",
+      "source_urls": [
+        "https://www.qk.sjtu.edu.cn/ktfy/CN/column/column379.shtml"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://www.qk.sjtu.edu.cn/ktfy/CN/folder/folder130.shtml",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://www.qk.sjtu.edu.cn/ktfy/CN/folder/folder130.shtml",
+      "title": "空天防御",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

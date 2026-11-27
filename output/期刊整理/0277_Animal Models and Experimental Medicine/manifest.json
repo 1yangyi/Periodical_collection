@@ -1,0 +1,133 @@
+{
+  "journal": {
+    "name": "Animal Models and Experimental Medicine",
+    "url": "https://journal.hep.com.cn/amem/EN/",
+    "journal_id": "",
+    "row": 278,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://journal.hep.com.cn/amem/EN/",
+  "collected_at": "2026-11-26T20:59:14+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "journal.hep.com.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://journal.hep.com.cn/amem/EN/",
+      "requested_url": "https://journal.hep.com.cn/amem/EN/",
+      "title": "Journal updates",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:14+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://journal.hep.com.cn/amem/EN/guidelines",
+      "requested_url": "https://journal.hep.com.cn/amem/EN/guidelines",
+      "title": "Journal updates",
+      "path": [
+        "官网入口",
+        "Author guidelines"
+      ],
+      "visited_at": "2026-11-26T20:59:14+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "Journal updates",
+      "source_url": "https://journal.hep.com.cn/amem/EN/guidelines",
+      "path": [
+        "官网入口",
+        "Author guidelines"
+      ],
+      "local_path": "web/Journal updates_205dcdbcbe.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "Animal Models and Experimental Medicine投稿格式",
+      "local_path": "Animal Models and Experimental Medicine投稿格式.md",
+      "source_urls": [
+        "https://journal.hep.com.cn/amem/EN/guidelines"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "http://media.wiley.com/assets/7323/92/electronic_artwork_guidelines.pdf",
+      "title": "here",
+      "source_url": "https://journal.hep.com.cn/amem/EN/guidelines",
+      "path": [
+        "官网入口",
+        "Author guidelines",
+        "here"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Click here for the basic figure requirements for figures submitted with manuscripts for initial peer review, as well as the more detailed post-acceptance figure requirements."
+    },
+    {
+      "url": "https://authorservices.wiley.com/asset/photos/licensing-and-open-access-photos/Patient-Consent-Form.pdf",
+      "title": "a standard patient consent form available for use",
+      "source_url": "https://journal.hep.com.cn/amem/EN/guidelines",
+      "path": [
+        "官网入口",
+        "Author guidelines",
+        "a standard patient consent form available for use"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "a standard patient consent form available for use"
+    },
+    {
+      "url": "https://grants.nih.gov/grants/olaw/Guide-for-the-Care-and-Use-of-Laboratory-Animals.pdf",
+      "title": "Guide for the Care and Use of Laboratory Animals",
+      "source_url": "https://journal.hep.com.cn/amem/EN/guidelines",
+      "path": [
+        "官网入口",
+        "Author guidelines",
+        "Guide for the Care and Use of Laboratory Animals"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Guide for the Care and Use of Laboratory Animals"
+    },
+    {
+      "url": "https://journal.hep.com.cn/amem/EN/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://journal.hep.com.cn/amem/EN/",
+      "title": "Animal Models and Experimental Medicine",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

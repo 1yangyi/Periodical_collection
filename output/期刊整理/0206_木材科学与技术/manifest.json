@@ -1,0 +1,131 @@
+{
+  "journal": {
+    "name": "木材科学与技术",
+    "url": "https://www.mckx.net/zh/home/",
+    "journal_id": "",
+    "row": 207,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.mckx.net/zh/home/",
+  "collected_at": "2026-11-26T20:58:23+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.mckx.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.mckx.net/zh/home/",
+      "requested_url": "https://www.mckx.net/zh/home/",
+      "title": "快捷入口",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:58:23+08:00",
+      "published_at": "2026-10-26"
+    },
+    {
+      "url": "https://www.mckx.net/zh/info/7525/",
+      "requested_url": "http://www.mckx.net/zh/info/7525/",
+      "title": "作者指南 - 木材科学与技术",
+      "path": [
+        "官网入口",
+        "作者指南"
+      ],
+      "visited_at": "2026-11-26T20:58:23+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.mckx.net/academicDetail?columnId=605&columnName=%E8%B5%84%E8%AE%AF&lang=zh",
+      "requested_url": "http://www.mckx.net/academicDetail?columnId=605&columnName=%E8%B5%84%E8%AE%AF&lang=zh",
+      "title": "论文写作格式",
+      "path": [
+        "官网入口",
+        "作者指南",
+        "论文写作格式"
+      ],
+      "visited_at": "2026-11-26T20:58:23+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "作者指南 - 木材科学与技术",
+      "source_url": "https://www.mckx.net/zh/info/7525/",
+      "path": [
+        "官网入口",
+        "作者指南"
+      ],
+      "local_path": "web/作者指南 - 木材科学与技术_ea05bf8a0d.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "木材科学与技术投稿格式",
+      "local_path": "木材科学与技术投稿格式.md",
+      "source_urls": [
+        "https://www.mckx.net/zh/info/7525/"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "http://www.mckx.nethttp://www.mckx.net/academicDetail?columnId=605&columnName=%E8%B5%84%E8%AE%AF&lang=zh",
+      "title": "论文写作格式",
+      "source_url": "https://www.mckx.net/zh/home/",
+      "path": [
+        "官网入口",
+        "论文写作格式"
+      ],
+      "reason": "unverified_host",
+      "detail": "",
+      "context": "论文写作格式"
+    },
+    {
+      "url": "http://www.mckx.net/articleRankList?rankType=download&cycle=6&columnName=%E4%B8%8B%E8%BD%BD%E6%8E%92%E8%A1%8C&columnEnName=Most%20Download",
+      "title": "最高下载",
+      "source_url": "https://www.mckx.net/zh/info/7525/",
+      "path": [
+        "官网入口",
+        "作者指南",
+        "最高下载"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "最高下载"
+    },
+    {
+      "url": "https://www.mckx.net/zh/home/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://www.mckx.net/zh/home/",
+      "title": "木材科学与技术",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "journal": {
+    "name": "国家教育行政学院学报",
+    "url": "https://www.naea.edu.cn/naea/zbqk/dzqk20/gjjyxzxyxb/index.html",
+    "journal_id": "",
+    "row": 139,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.naea.edu.cn/naea/zbqk/dzqk20/gjjyxzxyxb/index.html",
+  "collected_at": "2026-11-26T20:57:27+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.naea.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.naea.edu.cn/naea/zbqk/dzqk20/gjjyxzxyxb/index.html",
+      "requested_url": "https://www.naea.edu.cn/naea/zbqk/dzqk20/gjjyxzxyxb/index.html",
+      "title": "《国家教育行政学院学报》",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:57:27+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.naea.edu.cn/naea/zbqk/tgzn/index.html",
+      "requested_url": "https://www.naea.edu.cn/naea/zbqk/tgzn/index.html",
+      "title": "投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:57:27+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.naea.edu.cn/naea/pcxw/gg/index.html",
+      "requested_url": "https://www.naea.edu.cn/naea/pcxw/gg/index.html",
+      "title": "公告声明",
+      "path": [
+        "官网入口",
+        "公告"
+      ],
+      "visited_at": "2026-11-26T20:57:27+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://gjjyxzxyxbauthor.manuscriptcloud.com/login",
+      "title": "《国家教育行政学院学报》投稿指南",
+      "source_url": "https://www.naea.edu.cn/naea/zbqk/tgzn/index.html",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "《国家教育行政学院学报》投稿指南"
+      ],
+      "reason": "unverified_host",
+      "detail": "",
+      "context": "《国家教育行政学院学报》投稿指南 2025-03-09"
+    },
+    {
+      "url": "https://zxxxzauthor.manuscriptcloud.com/login",
+      "title": "《中小学校长》投稿指南",
+      "source_url": "https://www.naea.edu.cn/naea/zbqk/tgzn/index.html",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "《中小学校长》投稿指南"
+      ],
+      "reason": "unverified_host",
+      "detail": "",
+      "context": "《中小学校长》投稿指南 2025-03-09"
+    },
+    {
+      "url": "https://www.naea.edu.cn/naea/zbqk/dzqk20/gjjyxzxyxb/index.html",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://www.naea.edu.cn/naea/zbqk/dzqk20/gjjyxzxyxb/index.html",
+      "title": "国家教育行政学院学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

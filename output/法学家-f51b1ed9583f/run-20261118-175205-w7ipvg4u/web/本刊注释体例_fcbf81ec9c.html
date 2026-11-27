@@ -1,0 +1,507 @@
+<!DOCTYPE html><HTML>
+<HEAD>
+	<TITLE>法学家</TITLE>
+	<META http-equiv=Content-Type content="text/html; charset=utf-8">
+	
+
+
+
+
+
+
+<link href="/js/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="/develop/static/common/css/css.css">
+<link rel="stylesheet" href="/js/jqpagination/jqpagination.css" />
+<script src="/js/jquery/jquery.min.js"></script>
+<script src="/js/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.qrcode.min.js"></script>
+<script src="/develop/static/common/js/common_cn.js"></script>
+<script src="/develop/static/common/js/component_cn.js"></script>
+<script language="javascript" src="/js/store.js"></script>
+<script language="javascript" src="/develop/static/common/js/download_cn.js"></script>
+<script language="javascript" src="/js/My97DatePicker/WdatePicker.js"></script>
+<link rel="stylesheet" href="/develop/static/common/bootstrap/js/font-awesome.min.css">
+
+<script>
+	$(document).ready(function(){
+		$("title").text($("title").text().replace(/<\/?[^>]*>/g,""));
+	});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!--顶部快速导航下拉导航菜单特效css-->
+<!--<link rel="stylesheet" href="https://faxuejia.ruc.edu.cn/images/1005-0221/css/bootsnav.css"> -->
+<!--网站css-->
+<link rel="stylesheet" href="https://faxuejia.ruc.edu.cn/images/1005-0221/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://faxuejia.ruc.edu.cn/images/1005-0221/css/css.css">
+<script src="https://faxuejia.ruc.edu.cn/images/1005-0221/js/indexjs.js"></script>
+
+
+</HEAD>
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+<input type="hidden" id="mag-common-contextPath" value=""/>
+
+<div id="mag-component-store-div" style="display:none;"></div>
+			
+<!-- 模态框（Modal） -->
+<div class="modal fade" id="magModal" tabindex="-1" role="dialog" data-keyboard=false data-backdrop='static' aria-labelledby="magModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button buttonGroup="0" type="button"  class="close"  aria-hidden="true" onclick="mag_layer_close();">
+					&times;
+				</button>
+				<h4 class="modal-title" id="magModalLabel">
+					模态框（Modal）标题
+				</h4>
+			</div>
+			<div class="modal-body" id="mag-modal-body" style="overflow:auto;">
+				在这里添加一些文本
+			</div>
+			<div id="mag-layer-button-div" class="modal-footer">
+				<button buttonGroup="1" type="button"  class="btn btn-default"  onclick="mag_layer_close();">关闭
+				</button>
+				<button buttonGroup="2" type="button"  class="btn btn-default"  onclick="mag_layer_close();">关闭
+				</button>
+				<button buttonGroup="2" type="button" class="btn btn-primary" onclick="mag_submit()" id="mag_layer_submit_button_2">
+					提交更改
+				</button>
+				<button buttonGroup="3" type="button"  class="btn btn-default"  onclick="mag_layer_close();">取消
+				</button>
+				<button buttonGroup="3" type="button" class="btn btn-primary" onclick="mag_submit()" id="mag_layer_submit_button_3">
+					确定并提交
+				</button>
+				
+			</div>
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal -->
+</div>
+
+<div id="magModal_2" style="display:none;position:fixed;left:0px;top:0px;right:0px;bottom:0px;z-index:1060">
+	<div class="modal-dialog" style="margin-top:60px;">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button buttonGroup="0" type="button" id="mag-madal-close_bt_2"  class="close"  aria-hidden="true" onclick="mag_layer_close_2();">
+					&times;
+				</button>
+				<h4 class="modal-title" id="magModalLabel_2">
+					模态框（Modal）标题
+				</h4>
+			</div>
+			<div id="modal-body_2" class="modal-body"></div>
+		</div>
+	</div>
+</div>
+
+<!-- 模态框-Tab -->
+<div class="modal fade" id="magTabModal" tabindex="-1" role="dialog" data-keyboard=false data-backdrop='static' aria-labelledby="magTabModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header" style="border-bottom:0px;padding:15px 0px;">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true" style="padding-right:15px;">
+					&times;
+				</button>
+				
+<ul id="magTab" class="nav nav-tabs">
+
+</ul>
+			</div>
+			<div class="modal-body">
+				
+<div id="magTabContent" class="tab-content">
+
+</div>
+			</div>
+			<div id="mag-tablayer-button-div" class="modal-footer">
+				
+			</div>
+			
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal -->
+</div>
+
+
+
+<div style="display:none;">
+	<iframe id="mag_sendLongReq_iframe" name="mag_sendLongReq_iframe"></iframe>
+	<iframe id="mag_cma_sso_login_iframe" name="mag_cma_sso_login_iframe"></iframe>
+</div>
+<input type="hidden" id="mag_cma_sso_authorizeUrl" value=""/>
+		
+
+
+
+<!--头部-->
+
+
+<script language="javascript">
+	function tabChange(obj, id) {
+		var arrayli = obj.parentNode.getElementsByTagName("li"); //获取li数组
+		var arrayul = document.getElementById(id).getElementsByTagName("ul"); //获取ul数组
+		for (i = 0; i < arrayul.length; i++) {
+			if (obj == arrayli[i]) {
+				arrayli[i].className = "cli";
+				arrayul[i].className = "";
+			} else {
+				arrayli[i].className = "";
+				arrayul[i].className = "hidden";
+			}
+		}
+	}
+</script>
+<style type="text/css">
+.tabbox {
+	width: 400px;
+	margin-top: 5px;
+	margin-bottom: 5px
+}
+
+.tabmenu {
+	width: 400px;
+	height: 28px;
+	border-left: 1px solid #CCC;
+	border-top: 1px solid #ccc;
+}
+
+.tabmenu ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.tabmenu li {
+	text-align: center;
+	float: left;
+	display: block;
+	width: 99px;
+	overflow: hidden;
+	background-color: #f1f1f1;
+	line-height: 27px;
+	border-right: #ccc 1px solid;
+	border-bottom: #ccc 1px solid;
+	display: inline;
+}
+
+.tabmenu .cli {
+	text-align: center;
+	float: left;
+	display: block;
+	width: 99px;
+	overflow: hidden;
+	background-color: #fff;
+	line-height: 27px;
+	border-right: #ccc 1px solid;
+	border-bottom: #fff 1px solid;
+	display: inline;
+	cursor: pointer;
+	color: #c30000;
+	font-weight: bold
+}
+
+#tabcontent {
+	width: 399px;
+	background-color: #fff;
+	border-left: #CCC 1px solid;
+	border-right: #CCC 1px solid;
+	border-bottom: #CCC 1px solid;
+	height: 65px;
+}
+
+#tabcontent ul {
+	margin: 0;
+	padding: 5px;
+	list-style-type: none;
+}
+
+#tabcontent .hidden {
+	display: none;
+}
+
+img[src*='.traceImg']{
+	width:44px;
+	height:22px;
+}
+</style>
+<div class="journal-head">
+<div class="container" style="background:transparent">
+<div class="row">
+    <div class="col-md-7 logo">
+		<h1><a href="https://faxuejia.ruc.edu.cn/CN/home"><img src="https://faxuejia.ruc.edu.cn/images/1005-0221/images/logo.png" class="img-responsive" alt=""></a></h1>
+    </div>
+	<div class="col-md-5 logo hidden-sm hidden-xs">
+		<h1><img src="https://faxuejia.ruc.edu.cn/images/1005-0221/images/wz.png" class="img-responsive" style="float:right;"></h1>
+    </div>
+</div>
+</div>
+</div>
+
+<!--导航-->
+<div class="navbar site-nav whitebg">
+<div class="container" style="background:transparent">
+<div class="row">
+
+
+    <div class="navbar-header">
+      <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">导航切换</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+      <a class="navbar-brand visible-xs" href="">法学家</a> </div>
+    <div class="navbar-collapse collapse" role="navigation">
+		<ul class="nav navbar-nav">
+			<li style="width:236px;font-size:16px;line-height: 42px;text-align: center;color:#fff;">
+				<script language="JavaScript" type="text/javascript">today=new Date();
+				function initArray(){
+				this.length=initArray.arguments.length
+				for(var i=0;i<this.length;i++)
+				this[i+1]=initArray.arguments[i]  }
+				var d=new initArray(
+				" 星期日",
+				" 星期一",
+				" 星期二",
+				" 星期三",
+				" 星期四",
+				" 星期五",
+				" 星期六");
+				document.write(
+				"",
+				today.getFullYear(),"年",
+				today.getMonth()+1,"月",
+				today.getDate(),"日",
+				d[today.getDay()+1],
+				"" );
+			   </script>
+			</li>
+			<li><a href="https://faxuejia.ruc.edu.cn/CN/home">首页</a></li>
+									
+						<li><a href="https://faxuejia.ruc.edu.cn/CN/column/column1.shtml">期刊简介</a></li>
+					   
+												
+						<li><a href="https://faxuejia.ruc.edu.cn/CN/column/column3.shtml">编 委 会</a></li>
+					   
+												
+						<li role="presentation" class="dropdown">
+			   <a href="#" class="dropdown-toggle" data-toggle="dropdown">在线期刊 <b class="caret"></b></a>
+			   <ul class="dropdown-menu">
+					<li><a href="https://faxuejia.ruc.edu.cn/CN/current">当期目录</a></li>
+					<li><a href="https://faxuejia.ruc.edu.cn/CN/archive_by_issues">过刊浏览</a></li>
+					<li><a href="https://qikan.chaoxing.com/mag/shelf?mags=9f5f61eb554c5077cb41aff61ac6e1b3">电子书</a></li>
+					<li><a href="https://faxuejia.ruc.edu.cn/CN/top_download">下载排行</a></li>
+					<li><a href="https://faxuejia.ruc.edu.cn/CN/top_access">阅读排行</a></li>
+					<li><a href="https://faxuejia.ruc.edu.cn/CN/alert/showAlertInfo.do">E-mail Alert</a></li>
+					<li><a href="https://faxuejia.ruc.edu.cn/CN/rss/showRssInfo.do">RSS</a></li>
+				</ul>
+			</li>
+					   
+												
+						<li><a href="https://faxuejia.ruc.edu.cn/CN/column/column12.shtml">投稿指南</a></li>
+					   
+												
+						<li><a href="https://faxuejia.ruc.edu.cn/CN/column/column19.shtml">期刊订阅</a></li>
+					   
+												
+						<li><a href="https://faxuejia.ruc.edu.cn/CN/column/column16.shtml">联系我们</a></li>
+					   
+									<!--<li><a href="https://faxuejia.ruc.edu.cn/EN/home">English</a></li>-->
+      </ul>
+    </div>
+  </div>
+</div>
+</div>
+<!--导航 End-->
+
+<!--导航 End-->
+<div class="container" style="height: 20px"></div>
+<script src='https://tongji.journalreport.cn/mstatistics.service.js'></script><script>recordAdd('24340e1f526e49679f772ee3b6353137')</script>
+<!--头部 End-->
+
+<!--中间-->
+<div class="container">
+<div class="row">
+<div class="col-md-9 m-center">
+		
+<section class="content_nr">
+	<h3 class="column">
+		<span>通知公告</span>
+	</h3>
+<div class="news-content">
+<div class="newstitle">
+	“构建中国特色法学知识体系、话语体系和法治体系”2020年度学术研讨会征稿启事
+</div>
+<p class="MsoNormal" style="text-align: center; margin: 0cm 0cm 0pt" align="center"><strong style="mso-bidi-font-weight: normal"><span style="font-size: 18pt; font-family: 方正粗黑宋简体; mso-bidi-font-size: 11.0pt"><span lang="EN-US"><o:p></o:p></span></span></strong></p>
+<p class="MsoNormal" style="text-align: center; margin: 0cm 0cm 0pt" align="center"><span lang="EN-US"><o:p><font size="3" face="Calibri">&nbsp;</font></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%"><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">尊敬的</span><u><span lang="EN-US" style="font-size: 12pt; line-height: 150%; mso-bidi-font-size: 11.0pt"><span style="mso-spacerun: yes"><font face="Calibri">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></span></span></u><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">先生</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%; mso-bidi-font-size: 11.0pt"><font face="Calibri">/</font></span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">女士：</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%; mso-bidi-font-size: 11.0pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">党的十九大报告提出要&ldquo;加快构建中国特色哲学社会科学&rdquo;，&ldquo;发展中国特色社会主义法治理论&rdquo;，《中共中央关于全面推进依法治国若干重大问题的决定》提出要&ldquo;加强法学基础理论研究，形成完善的中国特色社会主义法学理论体系、学科体系、课程体系&rdquo;的要求。为推动这一时代性问题的深入学术讨论</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">，中国人民大</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">学法学院与《法学家》杂志社以&ldquo;构建中国特色法学知识体系、话语体系和法治体系&rdquo;为主题，先后于</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">2018</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">年</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">5</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">月</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">6</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">日</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">、</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">2019</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-ascii-font-family: &quot;Times New Roman&quot;">年</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">4</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-ascii-font-family: &quot;Times New Roman&quot;">月</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">21</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-ascii-font-family: &quot;Times New Roman&quot;">日</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">组织召开年度学术研讨会，精选的一部分会议论文经修改完善后在《法学家</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">》</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">2018</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">年第</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">5</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">期、</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">2018</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">年第</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">6</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">期、</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri">2019</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">年第</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri">5</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">期、</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri">2019</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">年第</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri">6</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">期组成专题刊</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">出，产生了良好的学术反响。</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%; mso-bidi-font-size: 11.0pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24pt; mso-char-indent-count: 2.0"><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri">2020</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">年适逢中国人民大学法学院</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri">70</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">周年院庆，</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">今拟庚续其事，并响应党的十九届四中全会报告提出的&ldquo;坚持和完善中国特色社会主义法治体系，提高党依法治国、依法执政能力&rdquo;之号召，再次以&ldquo;构建中国特色法学知识体系、话语体系和法治体系&rdquo;为主题，组织</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">召开</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">2020</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">年度学术研</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">讨会，向学界公开征稿。现就有关事项说明如下：</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%; mso-bidi-font-size: 11.0pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24.1pt; mso-char-indent-count: 2.0"><strong style="mso-bidi-font-weight: normal"><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">一、时间与地点</span></strong><strong style="mso-bidi-font-weight: normal"><span style="font-size: 12pt; line-height: 150%; mso-bidi-font-size: 11.0pt"><font face="Calibri"> <span lang="EN-US"><o:p></o:p></span></font></span></strong></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">本次学术研讨会的召开时间</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">为</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">2020</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">年</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">5</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">月</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">17</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">日</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">（周日）全天，地点为中国人民大学校内（具体地点另行通知）。</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%; mso-bidi-font-size: 11.0pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24.1pt; mso-char-indent-count: 2.0"><strong style="mso-bidi-font-weight: normal"><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">二、研讨议题</span></strong><strong style="mso-bidi-font-weight: normal"><span style="font-size: 12pt; line-height: 150%; mso-bidi-font-size: 11.0pt"><font face="Calibri"> <span lang="EN-US"><o:p></o:p></span></font></span></strong></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">本次学</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-ascii-font-family: &quot;Times New Roman&quot;">术研讨会的大主题为&ldquo;构建中国特色法学知识体系、话语体系和法治体系&rdquo;。拟投稿</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">参加者可在此大主题之下，自拟具体题目撰文，论文篇幅以</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">1.8</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-ascii-font-family: &quot;Times New Roman&quot;">－</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">2.2</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">万字之间为宜。</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%; mso-bidi-font-size: 11.0pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">倡导结合法学各个子学科、领域中的具体问题和知识脉络进行言之有物的深入讨论，而非泛泛而谈。本年度研讨会可选择的具体议题包括但不限于：法治体系建设与<span style="mso-bidi-font-weight: bold">国家治理体系和治理能力现代化之间的关系</span>；具体法制移植、国外学说引进与法治体系建构的本土性；当代中国法学知识体系与法治体系的具体契合度审视；中国法学知识生产中具体的&ldquo;特色学说&rdquo;与&ldquo;普遍学理&rdquo;之间的关系；全球化背景下中国法学知识体系、话语体系和法治体系的具体建构。</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%; mso-bidi-font-size: 11.0pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24.1pt; mso-char-indent-count: 2.0"><strong style="mso-bidi-font-weight: normal"><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">三、会议费用</span></strong><strong style="mso-bidi-font-weight: normal"><span lang="EN-US" style="font-size: 12pt; line-height: 150%; mso-bidi-font-size: 11.0pt"><o:p></o:p></span></strong></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">本次学术研讨会不收会务费。</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%; mso-bidi-font-size: 11.0pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">凡获主办方正式邀请的京外学者，其在京参会期</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">间的住宿（</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">5</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">月</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">16</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-bidi-font-family: 宋体">－</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">17</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">日两</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">晚）和餐食由主办方统一安排并承担费用，往返路费敬请自理。正式受邀的京内学者在参会期间的餐食，由主办方统一安排并承担费用，交通费敬请自理。</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%; mso-bidi-font-size: 11.0pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24.1pt; mso-char-indent-count: 2.0"><strong style="mso-bidi-font-weight: normal"><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">四、论文提交</span></strong><strong style="mso-bidi-font-weight: normal"><span lang="EN-US" style="font-size: 12pt; line-height: 150%; mso-bidi-font-size: 11.0pt"><o:p></o:p></span></strong></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">请有意参会的学者在</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt"> 2020</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">年</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">4</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">月</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">20</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">日前将会议论文投至</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">yuanping@ruc.edu.cn</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-ascii-font-family: &quot;Times New Roman&quot;">，</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">并</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">以&ldquo;作</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">者名称＋</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">2020</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">年度</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">学术研讨会投稿&rdquo;作为邮件标题，以利识别。</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%; mso-bidi-font-size: 11.0pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">投稿论</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">文请采用</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">WORD</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">格式（请勿采用</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">PDF</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">格式），并</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">参照《法学家》的注释体例。</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%; mso-bidi-font-size: 11.0pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">主办方将组织专家对所有投稿论文进行</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">遴选，在</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">2020</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">年</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">5</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">月</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">8</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">日之前通</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">知正式受邀代表，并将从受邀在研讨会上做报告的论文中择优在《法学家》刊登。</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%; mso-bidi-font-size: 11.0pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24.1pt; mso-char-indent-count: 2.0"><strong style="mso-bidi-font-weight: normal"><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">五、会议联系人</span></strong><strong style="mso-bidi-font-weight: normal"><span lang="EN-US" style="font-size: 12pt; line-height: 150%; mso-bidi-font-size: 11.0pt"><o:p></o:p></span></strong></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24pt; mso-char-indent-count: 2.0"><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">龚元平（《法学家》杂志社副社长），办</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">公电话：</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri">010-</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">62514451</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">，电子邮箱：</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">yuanping@ruc.edu.cn</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">。</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%; mso-bidi-font-size: 11.0pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24pt; mso-char-indent-count: 2.0"><span lang="EN-US" style="font-size: 12pt; line-height: 150%; mso-bidi-font-size: 11.0pt"><font face="Calibri"><span style="mso-spacerun: yes">&nbsp;</span><o:p></o:p></font></span></p>
+<p class="MsoNormal" style="text-align: right; margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24pt; mso-char-indent-count: 2.0" align="right"><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">中国人民大学法学院</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%; mso-bidi-font-size: 11.0pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: right; margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24pt; mso-char-indent-count: 2.0" align="right"><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: Calibri">《法学家》杂志社</span><span lang="EN-US" style="font-size: 12pt; line-height: 150%; mso-bidi-font-size: 11.0pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: right; margin: 0cm 0cm 0pt; line-height: 150%; text-indent: 24pt; mso-char-indent-count: 2.0" align="right"><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">2020</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">年</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">1</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">月</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt">16</span><span style="font-size: 12pt; font-family: 宋体; line-height: 150%; mso-bidi-font-size: 11.0pt; mso-hansi-font-family: Calibri; mso-ascii-font-family: &quot;Times New Roman&quot;">日</span><span lang="EN-US" style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; line-height: 150%; mso-bidi-font-size: 11.0pt"><o:p></o:p></span></p>
+<br><br>
+<div class="text-right">
+Pubdate: 2020-01-17&nbsp;&nbsp;&nbsp;
+Viewed: 
+
+
+
+
+2856
+
+</div>
+
+</div>
+</section>
+</div>
+<!--右部-->
+
+
+<div class="col-md-3 m-right">
+
+	<ul class="office-menu">
+		<li><a href="http://faxuejia.ruc.edu.cn/journalx_fxj/authorLogOn.action" target="_blank">
+		<div class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-user"></span> 作者投稿查稿　</div>
+		</a></li>
+		<li><a href="http://faxuejia.ruc.edu.cn/journalx_fxj/editorLogOn.action" target="_blank">
+		<div class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-eye-open"></span> 责编审稿系统　</div>
+		</a></li>
+		<li><a href="http://faxuejia.ruc.edu.cn/journalx_fxj/editorLogOn.action" target="_blank">
+		<div class="btn btn-shadow journal-btn"><span class="fa fa-user-circle-o"></span> 副主编审稿系统</div>
+		</a></li>
+		<li><a href="http://faxuejia.ruc.edu.cn/journalx_fxj/editorInChiefLogOn.action" target="_blank">
+		<div class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-pencil"></span> 主编审稿系统　</div>
+		</a></li>
+		<li><a href="http://faxuejia.ruc.edu.cn/journalx_fxj/expertLogOn.action" target="_blank">
+		<div class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-education"></span> 专家审稿系统　</div>
+		</a></li>
+		<li><a href="http://faxuejia.ruc.edu.cn/journalx_fxj/editorLogOn.action" target="_blank">
+		<div class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-edit"></span> 编辑办公系统　</div>
+		</a></li>
+	</ul>
+	<aside class="aside">
+        <div class="column"><span class="pull-left"><i class="fa fa-volume-up"></i> 通知公告</span> <a href="https://faxuejia.ruc.edu.cn/CN/news/folder.do?folderId=3" class="more">更多</a></div>
+        <ul class="news-list">
+        <marquee onmouseover="this.stop()" onmouseout="this.start()" behavior="scroll" direction="up" scrollamount="1" scrolldelay="70" style="width: 98%; height: 200px;">
+          <div mag-component-type="ajaxPage" mag-page-url="https://faxuejia.ruc.edu.cn/CN/1005-0221/model/tongzhi.htm"></div>
+        </marquee>
+        </ul>
+    </aside>
+	<aside class="aside">
+        <div class="column">
+            <span class="pull-left"><i class="fa fa-book"></i> 版权信息</span>
+        </div>
+			<div style="text-align: left;padding:10px 15px;">
+				刊　　期：双月刊，1986创刊<br>
+				主管单位：中华人民共和国教育部<br>
+				主办单位：中国人民大学<br>
+				主　　编：王利明<br>
+				编辑出版：《法学家》杂志社<br>
+				ISSN 1005-0221<br>
+				CN 11-3212/D
+			</div>
+	</aside>
+    <aside class="aside">
+        <div class="column">
+            <span class="pull-left"><i class="fa fa-download"></i> 下载中心</span>
+            <a href="https://faxuejia.ruc.edu.cn/CN/column/7/items" class="more">更多</a>
+        </div>
+        <ul class="news-list">
+		                        		<li><a href="https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5" class="news-title" target="_blank">本刊注释体例</a></li>
+                                </ul>
+    </aside>
+    
+    <aside class="aside">
+        <div class="column">
+            <span class="pull-left"><i class="fa fa-link"></i> 友情链接</span>
+            <a href="https://faxuejia.ruc.edu.cn/CN/column/10/items" class="more">更多</a>
+        </div>
+        <ul class="news-list">
+		                        		<li><a href="http://www.law.ruc.edu.cn/" class="news-title" target="_blank">中国人民大学法学院</a></li>
+                                        		<li><a href="http://www.fxcxw.org.cn/" class="news-title" target="_blank">中国法学创新网</a></li>
+                                        		<li><a href="http://www.cnki.net/" class="news-title" target="_blank">中国知网</a></li>
+                                        		<li><a href="http://www.pkulaw.cn" class="news-title" target="_blank">北大法宝</a></li>
+                                        		<li><a href="http://www.ruc.edu.cn/" class="news-title" target="_blank">中国人民大学</a></li>
+                                </ul>
+    </aside>
+	<aside class="aside">
+		<div class="column">
+			<span class="pull-left"><i class="fa fa-wechat"></i> 微信公众号</span>
+		</div>
+		<ul class="news-list">
+		<img src="https://faxuejia.ruc.edu.cn/images/1005-0221/images/wechat.png" class="img-responsive" style="width:200px;margin:0 auto;">
+        </ul>
+	</aside>
+	<aside>
+	<div class="column">
+        <span class="pull-left"><i class="fa fa-tasks"></i> 访问统计</span>
+    </div>
+	<ul class="news-list">
+	<script>record('24340e1f526e49679f772ee3b6353137')</script>   
+	总访问量：<span id="ipVisitsSum"></span><br>
+	今日访问：<span id="ipDaySum"></span><br>
+	在线人数：<span id="currentOnLine"></span>
+			</ul>
+	</aside>
+	
+</div>
+
+</div>
+</div>
+<!--底部-->
+
+
+
+<footer class="footer">
+<div class="container">
+	<div class="row">
+			<div class="footer-info">
+				<p>
+				<a href="https://beian.miit.gov.cn" target="_blank">京ICP备05066828号</a><br>	                  版权所有 &copy; 《法学家》编辑部<br>
+					地址：北京市海淀区中关村大街59号中国人民大学明德法学楼503室　<br class="visible-xs">邮编：100872　<br>					电话：010 - 62514551/82509250　<br class="visible-xs">E-mail：faxuejiaruc@vip.163.com<br>					本系统由<a href="https://www.magtech.com.cn/" target="_blank">北京玛格泰克科技发展有限公司</a>设计开发
+
+				</p>
+			</div>
+
+	</div>
+</div>
+</footer>
+<!--返回顶部-->
+<div class="top_web" id="backtop" style="display:block;"> <span class="glyphicon glyphicon-menu-up"></span></div>
+<!--返回顶部end--> 
+
+</body>
+</HTML>

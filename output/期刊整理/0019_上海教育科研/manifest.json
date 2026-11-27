@@ -1,0 +1,52 @@
+{
+  "journal": {
+    "name": "上海教育科研",
+    "url": "https://ed.ecnu.edu.cn/b8/6c/c46000a637036/page.htm",
+    "journal_id": "",
+    "row": 20,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://ed.ecnu.edu.cn/b8/6c/c46000a637036/page.htm",
+  "collected_at": "2026-11-26T20:40:40+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "ed.ecnu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://ed.ecnu.edu.cn/b8/6c/c46000a637036/page.htm",
+      "requested_url": "https://ed.ecnu.edu.cn/b8/6c/c46000a637036/page.htm",
+      "title": "《上海教育科研》期刊组稿会顺利举行",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:40:40+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://ed.ecnu.edu.cn/b8/6c/c46000a637036/page.htm",
+      "title": "上海教育科研",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "index": 61,
+  "journal": "人文杂志",
+  "url": "http://www.rwzz177.com",
+  "source_sheet": "可打开",
+  "source_row": 62,
+  "started_at": "2026-11-26T20:46:57+08:00",
+  "finished_at": "2026-11-26T20:48:09+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 3,
+    "artifacts": 2,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0061_人文杂志/manifest.json",
+  "pages": 3,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 1,
+  "pending_count": 1,
+  "pending_reasons": [
+    "no_valid_word_or_pdf"
+  ]
+}

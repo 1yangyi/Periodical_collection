@@ -1,0 +1,31 @@
+{
+  "index": 379,
+  "journal": "湘潭大学学报(哲学社会科学版)",
+  "url": "https://qks.xtu.edu.cn/info/1495/1077.htm",
+  "source_sheet": "可打开",
+  "source_row": 380,
+  "started_at": "2026-11-26T21:00:25+08:00",
+  "finished_at": "2026-11-26T21:00:43+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 7,
+    "artifacts": 2,
+    "pending": 1,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST network-policies 返回 HTTP 422"
+  ],
+  "manifest": "0379_湘潭大学学报(哲学社会科学版)/manifest.json",
+  "pages": 7,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 1,
+  "pending_count": 3,
+  "pending_reasons": [
+    "browser_use_failed",
+    "invalid_or_failed_attachment",
+    "no_valid_word_or_pdf"
+  ]
+}

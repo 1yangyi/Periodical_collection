@@ -1,0 +1,1264 @@
+<!doctype html>
+<html>
+ <head>
+  <link rel="shortcut icon" href="https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/favicon.ico" type="image/x-icon"><meta name = "description" content = "" / >
+  <meta charset="utf-8">
+  <title>经济学报</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+  <script src="https://publishmedia.cbpt.cnki.net/portal/minio/webs/tsjj/template/green_muban3_20240201/base/jquery-3.4.1.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="https://publishmedia.cbpt.cnki.net/portal/minio/webs/tsjj/template/green_muban3_20240201/base/jquery-migrate-3.1.0.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="https://publishmedia.cbpt.cnki.net/portal/minio/webs/tsjj/template/green_muban3_20240201/base/base.js" type="text/javascript" charset="utf-8"></script>
+  <link rel="stylesheet" type="text/css" href="https://publishmedia.cbpt.cnki.net/portal/minio/webs/tsjj/template/green_muban3_20240201/base/base.css">
+  <link rel="stylesheet" type="text/css" href="https://publishmedia.cbpt.cnki.net/portal/minio/webs/tsjj/template/green_muban3_20240201/base/common.css">
+  <link rel="stylesheet" type="text/css" href="https://publishmedia.cbpt.cnki.net/portal/minio/webs/tsjj/template/green_muban3_20240201/base/color_green.css"> <!-- <link rel="stylesheet" type="text/css" href="base/color_gray.css"> --> <!--<link rel="stylesheet" type="text/css" href="base/color_purple.css" />--> 
+
+ 
+	
+    <style>
+
+    	* { 
+		    font-family: Verdana, Arial, Microsoft YaHei, PingFang SC, sans-serif; 
+		}
+
+    	/* ================= 账号修改 */
+	.login_zone{position: absolute; top:0;  left: 50%;  margin: 0 0 0 240px; background:linear-gradient(360deg, #010101c7, transparent); border-radius: 0 0 10px 10px ;padding: 0 20px; font-size: 14px; line-height: 28px; z-index: 9999; color: #ccc ; }
+
+	/* .login_zone::before{    content: " "; display: inline-block; position: absolute;top: -11px; left: -39px; width: 28px; height: 15px;border: 11px solid #ffffff00;border-radius: 0 28px 0 0;border-right: 11px solid #ffffff; border-top: 11px solid #ffffff;}
+	.login_zone::after{    content: " "; display: inline-block; position: absolute;top: -11px; right: -39px; width: 28px; height: 15px;border: 11px solid #ffffff00;border-radius: 28px 0 0 0;border-left: 11px solid #ffffff; border-top: 11px solid #ffffff;} */
+
+	.login_zone a{color:#ff9604;margin: 0 5px;}
+	.login_zone a:hover{color:#c37201}
+	.list_star {background: url(img/list_star.png) no-repeat center center;width: 17px; height: 50px;display: inline-block; margin: 0 10px 0 0;float: left; background-size: contain;}
+	.list_star_2 {background: url(img/list_star_2.png) no-repeat center center;width: 17px; height: 50px;display: inline-block; margin: 0 10px 0 0;float: left; background-size: contain;}
+	.list_col{color: #feae4c !important;}
+	/*.col{ color: #666 !important; background: #f5f5f5 !important;}*/
+	.col{  background-size:contain !important; color: #f3bf83 !important;padding: 0 0 0 20px !important;margin: 0 10px 0 10px !important;font-weight: bold;}
+	.col_ed{  background-size:contain !important; color: #f3bf83 !important;padding: 0 0 0 20px !important;margin: 0 10px 0 10px !important;font-weight: bold;}
+	a:hover.col,a:hover.col_ed{color: #e49d4c !important;}
+	.collect { position: absolute; top: 28px; right: 0px;}
+	.collect a{    color: #f3bf83; font-size: 14px;   height: 24px; line-height: 24px;  display: inline-block; background: #ffffff  url(img/list_star.png) no-repeat 5px center ;background-size:20px !important;  border-radius: 5px; border: 1px solid #f3bf83; padding: 0 10px 0 30px; }
+	.collect a.collected{ background: #ffffff  url(img/list_star_2.png) no-repeat 5px center ;}
+	.collect a:hover{ color: #e49d4c; }
+	.fow{}
+	.login_zone a.fowed{ color:#cccccc}
+	.login_zone a:hover.fowed{ color:#999999}
+	.paperNow_tt a.col,.paperNow_tt a.col_ed{ width: 70px;text-align: center; }
+
+	/*AI智能问答*/
+	.x_open{ display: inline-block;position: fixed;  bottom: 200px; right:60px;  background: url(img/x_open2.png); font-size: 16px; width: 70px;height:83px;  background-size: cover;  color: #fff; text-align: center; line-height:126px;border-radius: 12px; z-index: 9999}
+	a:hover.x_open{box-shadow: 8px 8px 1px #30bde242;font-weight: bold; }
+	.x{ position: fixed; top: 0; right: 0; height: 100vh; width: 450px; background: #ffffff;z-index: 9999; border-radius: 15px;display: none;box-shadow: 0  0 10px #ccc; transform: translateX(-10px);}
+	.x_inner{padding: 20px 20px 0 20px;}
+	h4.x_inner_tt{font-size: 24px;font-weight: bold;background: linear-gradient(to right,#e093eb, #d4a3ff, #08feff); background-clip: text; -webkit-text-fill-color: transparent; width:auto; float: left;position: relative;padding: 0 0 0 44px;margin: 0 0 10px 0;}
+	/*
+	.x_inner h4::before{content: " "; background-image: url(img/AI_intro_tt.png); width: 30px;height: 30px;background-size: cover; display: inline-block;position: absolute;top:3px; left: 8px;}
+	*/
+	h4.x_inner_tt::before {content: " "; background-image: url(img/x_open_robot.png); width: 70px; height: 70px; background-size: cover;display: inline-block; position: absolute;top: -11px; left: -39px; transform: rotate(335deg);}
+	.made_intro{display: inline-block;   width: 100px; height: 20px; line-height: 20px;text-align: center;font-size: 15px !important; color: #fff !important; border: 1px solid;border-image: linear-gradient(to right,#e093eb, #d4a3ff, #08feff) 1 ;background: linear-gradient(to right,#e093eb, #d4a3ff, #08feff); background-clip: text; -webkit-text-fill-color: transparent; position: absolute;  top: 3px; right: 26px;}
+	.x_close{ width: 20px; height: 20px; background: url(img/x_close.png) no-repeat; background-size: cover; display: inline-block;   cursor: pointer; float: right; margin: 8px 0 0 0;}
+	.x_main{clear: both;margin: 20px 0 0 0; background: #f5f5f5;border-radius: 10px 10px 0 0; height:calc(100vh - 410px);padding: 100px 20px 20px 20px; position: relative;  }
+	.x_chat, .reg_chat{ overflow-y: scroll;height:100%;}
+	.reg_chat_zone { height:calc(100vh - 80px) }
+	.x_ask{ padding: 10px ; background: #898989; border-radius: 10px; color:#fff;display: inline-block; float: right;clear: both;margin: 0 0 20px 0; line-height: 24px;}
+	.x_answer{ clear: both;padding: 10px ;  background: #e9e8e8;border-radius: 10px; line-height: 24px; margin: 0 0 20px 0;}
+	.x_answer_main{ padding: 0 0 10px 0; }
+	.x_answer_foot{border-top: 1px solid #dbdada; padding: 10px 0 0 0;}
+	.x_answer_foot a{font-size: 12px; color: #a5a5a5;  }
+	.x_answer_foot a:hover{color:#666}
+	a.x_answer_foot_btn_2{float: right;}
+	a.x_answer_foot_btn_1::before{content: ""; width: 14px; height: 14px; background: url(img/x_answer_foot_btn_1.png) no-repeat; background-size: cover; display: inline-block;  margin: 0 5px 0 0;vertical-align: -3px;}
+	a.x_answer_foot_btn_2::before{content: ""; width: 14px; height: 14px; background: url(img/x_answer_foot_btn_2.png) no-repeat; background-size: cover; display: inline-block;   margin: 0 5px 0 0;vertical-align: -3px;}
+	a.x_answer_foot_btn_3::before{content: ""; width: 14px; height: 14px; background: url(img/x_answer_foot_btn_3.png) no-repeat; background-size: cover; display: inline-block;   margin: 0 5px 0 0;vertical-align: -3px;}
+	a.x_answer_foot_btn_4::before{content: ""; width: 14px; height: 14px; background: url(img/x_answer_foot_btn_4.png) no-repeat; background-size: cover; display: inline-block;   margin: 0 5px 0 0;vertical-align: -3px;}
+	.x_clear{font-size: 12px; color: #a5a5a5; margin: 0 0 5px 5px; display: inline-block; }
+	a.x_clear:hover{color:#666}
+	.x_input{background: #f5f5f5;border-radius: 0 0 10px 10px; border-top: 1px solid #ddd; padding:10px 20px;  position: relative;}
+	.x_input textarea{width: 100%;border: none;resize: none; border-radius: 10px; padding: 10px;background: #fff;box-sizing: border-box;min-height:120px;max-height: calc(72vh); font-size: 14px}
+	.intro_tips{padding: 0 20px ;font-size: 12px;}
+	.x_tips{ position: absolute; top:10px; color: #555;}
+	.x_holder {position: absolute; top: 35px; }
+	.x_holder a{  background: #096cbe; color: #fff;   padding: 2px 10px; display: inline-block; border-radius: 5px; margin:2px 5px; width:90px;text-align: center; font-size: 12px;}
+	.x_holder a:hover{background: linear-gradient(to right, #e093eb, #d4a3ff, #08feff);}
+	.x_push{ display: inline-block; background:#ffffffeb  url(img/x_ask.png) no-repeat; width: 36px; height: 36px; background-size: cover; position: absolute; bottom: 20px; right: 30px; cursor: pointer; border-radius: 8px;}     
+	.made_intro_loading{color: #999;  animation: blink 1s infinite;}
+	.x_answer_main_think_title {color: #a5a5a5; margin-bottom: 5px}
+	.x_answer_main_think {border-left: 1px solid #a5a5a5; color: #a5a5a5; padding-left: 10px; line-height: 20px}
+	.x_loading{ position: absolute; top: 10px; left: 50%; transform: translateX(-50%); color:#069ba1; width: 380px; z-index: 9999; text-align: center; padding: 5px 0; background: linear-gradient(to right,#0ffcff00, #0ffcff, #0ffcff00);}
+	.x_stop{ display: inline-block; background:#ffffffeb  url(img/x_stop.png) no-repeat; width: 36px; height: 36px; background-size: cover; position: absolute; bottom: 20px; right: 30px; cursor: pointer; border-radius: 8px;}
+	a.made_intro{background: linear-gradient(to right, #e093eb, #d4a3ff, #08feff) ; color: #ffffff !important;-webkit-text-fill-color:initial}
+	.x_cut{ position: absolute; top: 10px; left: 50%; transform: translateX(-50%); color:#069ba1; width: 300px; z-index: 9999; text-align: center; padding: 5px 0; background:#eef8e8; color: #5cba33; border-radius: 3px; box-shadow: 0 0 10px #ccc; animation: hide 2s forwards;}
+
+	.x_answer ol { list-style: decimal; padding-left: 20px;}
+	.x_answer ol li { list-style: decimal;}
+	.x_answer ul li { list-style: initial;}
+
+
+	.login_zone{z-index:1;    transform: translateX(240px); margin:0;}
+	.searchDiv {z-index: 1;width: 280px;}
+
+	/* ================= 翻译部分 */
+	.x_open2{ display: inline-block;position: fixed;  bottom: 115px; right:60px;  background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_open3.png') !important;  font-size: 16px; width: 70px;height:67px;  background-size: cover;  color: #fff; text-align: center; line-height:106px;border-radius: 12px; background-size: cover !important; z-index: 9999}
+	a:hover.x_open2{box-shadow: 8px 8px 1px #30bde242;font-weight: bold; }
+	.x2 { display: none; position: fixed; bottom: 116px; right: 130px; height: auto; width: 380px; background:#ffffffc7; backdrop-filter: blur(5px); z-index: 9999; border-radius: 15px; box-shadow: 0 0 10px #9a9a9a;transform: translateX(-10px); padding: 20px;}
+	.x2 h4{ font-size: 1.3rem;font-weight: bold; color: #1c66e6; background: linear-gradient(to right, #95b8f0, #ffffff00);-webkit-background-clip: text; -webkit-text-fill-color: transparent; border-bottom: 3px solid #cccccc;margin: 0 0 20px 0; border-image: linear-gradient(to right, #95b8f0, #ffffff00 60%) 1; width: 50%;}
+	.form-group { margin-bottom: 20px; overflow: hidden; display: flex; align-items: center;}
+	.form-group label { display: block;width: 100px;font-weight: bold;color: #333;}
+	.btn-group { display: flex; gap: 8px;flex-wrap: wrap;}
+	.btn-check{ opacity: 0;width: 0;height: 0;}
+	.btn-group{ display:flex; gap:8px; flex-wrap:wrap; }
+	.btn{align-items: center; justify-content: center; padding: 5px 20px;border: 1px solid #aed0f7; border-radius: 5px; background: #fff; color: #aed0f7 !important; cursor: pointer; user-select: none;transition: background .2s, color .2s, border-color .2s, box-shadow .2s; width: auto !important; font-size: 0.9rem; font-weight: 400 !important; font-size: 12px}
+	.btn:hover{ background:#f9fafb; }
+	.btn-check:checked + .btn { background: #5093dc;color: #ffffff !important; border-color: #267ad6; box-shadow: 0 0 0 2px rgb(70 144 229 / 20%);}
+	.hotkey-item { display: inline-flex; align-items: center;margin: 5px 10px;gap: 8px; }
+	.hotkey-input { width: 40px !important; height: 40px;font-family: monospace; font-size: 16px;font-weight: bold;text-align: center; color: #5093dc !important;background: #fff;border: 2px solid #ccc; border-radius: 6px; box-shadow: 0 2px 3px rgba(0,0,0,0.1); transition: all 0.2s;}
+	.hotkey-input:hover {border-color: #cccccc;box-shadow: 0 0 0 2px rgba(70,70,70,.2);}
+	.hotkey-input:focus { outline: none;border-color: #cccccc; box-shadow: 0 0 0 2px rgba(70,70,70,.2);}
+	.hotkey-label {font-size: 14px;color: #666;}
+	.color-picker{width: 80px !important; height: 36px; border-radius: 5px; border: 1px solid #d4d4d4; padding: 3px; background: #ffffffa6; margin: 0 10px 0 0;cursor: pointer;}
+	.color-picker-name{width: 80px !important; height: 28px; border-radius: 5px; border: 1px solid #d4d4d4; padding: 3px;  background: #ffffffa6; font-size: 12px}
+	.submit-btn { display: block; width: 80%; padding: 10px; background: linear-gradient(to bottom, #a2c8f3, #4189d7); color: #fff; border: none; border-radius: 4px; font-size: 1rem; cursor: pointer; margin: 20px auto 0 auto;text-align: center; font-size: 12px}
+	.translate-tip {margin-top: 5px; width: 100%; text-align: center; display: inline-block; color: #666;}
+
+	@media (max-width: 800px) {
+	    .x2{   width: 80%; background: #ffffffcc;z-index: 9999; border-radius: 15px;display: none;  position: fixed; bottom: 200px; left: 50%; transform: translateX(-50%);}
+	    .x_open2{ display:none; }
+	}
+
+	a.x_answer_foot_btn_5::before { content: "";width: 14px;height: 14px;background: url(img/x_answer_foot_btn_5.png) no-repeat;background-size: cover;display: inline-block;margin: 0 5px 0 0;vertical-align: -3px;}
+
+	a.x_answer_foot_btn_5 {float: right; margin-right: 10px}
+	.trace{position: fixed;right: 0; height: 100vh; width: 400px; background: #ffffffd4; backdrop-filter: blur(5px); z-index: 10002; border-radius: 15px; box-shadow: 0 0 10px #ccc;transform: translateX(-10px);padding: 0 20px;display: none;}
+	.trace h3{font-size: 18px;margin: 0 0 20px 0;color:#333; margin: 20px 0}
+	.trace_item{ background:#f1f1f1;border-radius: 5px; margin: 0 0 30px 0;padding: 10px;box-shadow: 0 0 5px #cccccc;}
+	.trace_tt{ border-bottom: 1px solid #eee;font-size: 14px; line-height: 24px;color: #666;padding: 5px 0;}
+	.trace_journal{ display: inline-block;font-weight: bold; color: #333;}
+	a:hover.trace_journal{color: #1867a7;}
+	.trace_tt b{color:#e59538;}
+	.trace_item span{margin: 10px 0;font-size: 14px;display: block;background: #ffffff; border-radius: 5px;color: #333333;}
+	.trace_item span em{font-style: normal;}
+	.trace_close{width: 20px; height: 20px;background: url(img/x_close.png) no-repeat; background-size: cover; display: inline-block; cursor: pointer;float: right; margin: 8px 0 0 0;}
+	.trace{position: fixed;top: 50%;right: 0; height: 95vh; width: 400px; background: #ffffffd4; backdrop-filter: blur(5px); z-index: 10002; border-radius: 5px; box-shadow: 0 0 10px #ccc;transform: translateY(-50%);padding: 20px;display: none;}
+	.trace h3{font-size: 18px;margin: 0 0 20px 0;color:#333;}
+	.trace_item{ background:#f1f1f1;border-radius: 5px; margin: 0 0 30px 0;padding: 10px;box-shadow: 0 0 5px #cccccc;}
+	.trace_tt{ border-bottom: 1px solid #eee;font-size: 14px; line-height: 24px;color: #666;padding: 5px 0;}
+	.trace_journal{ display: inline-block;font-weight: bold; color: #333;}
+	a:hover.trace_journal{color: #1867a7;}
+	.trace_tt b{color:#e59538;}
+	.trace_main{margin: 10px 0;font-size: 14px;background: #ffffff; border-radius: 5px;padding: 0 5px;color: #333333; padding: 5px; }
+
+	.trace_close{width: 20px; height: 20px;background: url(img/x_close.png) no-repeat; background-size: cover; display: inline-block; cursor: pointer;float: right; margin: 8px 0 0 0;}
+	.trace_main span.clamp-2 {display: -webkit-box;-webkit-line-clamp: 2;     -webkit-box-orient: vertical;overflow: hidden;}
+	.trace_main span.expanded {display: block;-webkit-line-clamp: unset;-webkit-box-orient: unset; overflow: visible;}
+	.trace-toggle {display: block; margin: 5px 5px 0 0;font-size: 12px;color: #999;cursor: pointer; user-select: none; text-decoration: none;text-align: right;}
+	.reg_empty_zone { text-align: center;width: 100%;display: block;font-size: 16px;color: #666;margin-top: 60px; }
+
+
+	@media (max-width: 800px) {
+	    .x, .trace{ position: fixed; top: 0; right: 0; height: 100vh; width: 100%; background: #ffffffcc;z-index: 9999; border-radius: 15px;display: none;box-shadow: none; transform: translateX(0px);}
+	    .trace { margin: 0px; width:auto; padding: 20px}
+	    .x_open{opacity: 0.8;right: 10px; z-index: 9999;}
+	    .x_inner h4{padding: 0 0 10px 44px;}
+	    .x_holder{ left: 0; text-align: center;}
+	    .x_holder a { width: 90px; padding: 2px; margin: 2px;}
+	    .made_intro{  width: 60px; right: 15px;}
+	    .login_zone {position: absolute;top: 0; right: 0;background: linear-gradient(270deg, #010101c7, transparent) !important;border-radius: 0;left: initial !important;margin: 0 !important;border-radius: 0 !important; transform: translateX(0px) !important;}
+
+	    .trace_main a, .x_answer_foot a, .trace_tt a { -webkit-tap-highlight-color: transparent; }
+	}
+
+    	
+    	/* 检索区域 */
+		.findZone{margin: 0 0 30px 0;position: relative; box-shadow: 0px 0px 10px #cacaca; border-radius: 3px; overflow: hidden;}
+		.findZone_tt{margin: 0;overflow: hidden;background: #ffffff;line-height: 40px;position: relative; display: flex;}
+		.findZone_tt span{background:#a67308;mask-image: url(img/find.png); mask-size: 70%;mask-repeat: no-repeat;mask-position: center center;background-size: 24px;display: block;height:40px; width: 40px;}
+		.findZone_tt h3 { color: #333;font-size: 16px; }
+		.findZone_main{ padding:15px;text-align: center; }
+		.findZone_main a{box-sizing: border-box;display: inline-block;height: 33px;line-height: 33px;padding: 0 10px;border-radius: 3px; margin: 0 5px;}
+		.find_text{box-sizing: border-box;  height: 33px;line-height: 33px;  border-radius: 3px;border: 1px solid #ccc;padding: 0 3px; color: #333; display: block;width: 90%; margin: 0 auto 10px auto; font-size: 14px;}
+		input:focus.find_text{ border: 1px solid #ddd; box-shadow: 0 0 5px #cacaca;}
+		.find_btn{ background: #a67308;color: #ffffff;}
+		.find_adv{background: #ffffff;color: #900;border: 1px solid #900;}
+		@media (max-width: 800px){
+		.findZone{width: 90%;margin: 0 auto 30px auto; }
+		}
+		.findZone_tt span{ mask-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/find.png');}
+
+
+		/* 飘窗 */
+		.drift{margin: 0;left: 0;top: 0;width: 30%; max-width: 30%; border-radius: 8px;box-shadow: 0 0 3px #ccc;backdrop-filter: blur(5px);position: fixed;z-index: 9999; background: #ffffff8f; padding: 5px;}
+		.drift::before{content: ""; position: absolute; top:0; left:0;  width: 44px; height: 44px;background:#ffffff url(img/drift.png) center center no-repeat; background-size:80%;border-radius: 50%;border: 8px solid  #cde0fe; transform: translate(-20%,-20%) rotate(330deg);}
+		.drift_inner{padding:30px 20px 20px 20px; background:linear-gradient(to bottom, #cde0fe 1%, #ffffffc2);border-radius: 8px;}
+		.drift_close { width: 30px; height: 30px; position: absolute; top: 10px; right: 10px;transition: transform .2s;}
+		.drift h2{ line-height: 30px; font-size: 18px;text-align: center;box-sizing: border-box; padding: 0 20px;}
+		.drift article{line-height: 24px;}
+		.drift_close::before,.drift_close::after {content: '';position: absolute;height: 3px;width: 18px;top: 15px;left: 7px;margin-top: -1px;background:#ffffff;}
+		.drift_close::before {transform: rotate(45deg);}
+		.drift_close::after {transform: rotate(-45deg);}
+		a:hover.drift_close { transform: rotate(90deg);}
+		.drift::before{content: ""; position: absolute; top:0; left:0;  width: 44px; height: 44px;background:#ffffff url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/drift.png') center center no-repeat; background-size:80%;border-radius: 50%;border: 8px solid  #cde0fe; transform: translate(-20%,-20%) rotate(330deg);}
+		.drift_inner a{color:inherit;}
+
+		@media(max-width: 800px){
+			.drift {
+			    width: 80% !important;
+			    max-width: 80% !important;
+			    left:50% !important;
+			    top:50% !important;
+			    transform: translateX(-50%) translateY(-50%)  !important;
+			}
+		}
+
+
+		/* 期刊列表-智能导读 */
+		.ai_intro::before {  background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/AI_intro.png'); }
+		.video_intro::before {  background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/video_intro.png'); }
+		.intro h4::before { background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/AI_intro_tt.png'); }
+		.ai_summary::before { background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/AI_summary.png'); }
+
+		/* 期刊列表-收藏 */
+		.x_close { background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_close.png') !important; background-size: cover !important; }
+		.list_star_2 { background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/list_star_2.png') no-repeat center center !important; background-size: contain !important;}
+		.col { background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/list_star.png') no-repeat left center !important;     background-size: contain !important}
+		.list_star { background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/list_star.png') no-repeat center center !important; background-size: contain !important;}
+		.col_ed{ background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/list_star_2.png') no-repeat left center !important; background-size: contain !important };
+		a.x_open2 { background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_open3.png') !important; background-size: cover !important; }
+	    .inline-translation { -webkit-text-fill-color: initial; float: initial !important; margin-left: 8px; padding: 2px 6px; border-radius: 6px; font-size: 1em; display: inline-flex !important; align-items: center; color: #03a9f4 !important;  font-weight: bold; user-select: none; /* 防止误选 */}
+	    .inline-translation span { color: #03a9f4; }
+	    .inline-translation button { background: rgb(228, 57, 200); background-size: cover; border: none; width: 20px; height:20px; margin-left: 10px; mask-size: cover; mask-repeat: no-repeat; mask-position: center; }
+
+	    /* 知识库 */
+	    .x_close, .trace_close{ background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_close.png') !important; background-size: cover !important; }
+	    a.x_answer_foot_btn_1::before{ background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_answer_foot_btn_1.png') no-repeat !important; background-size: cover !important; }
+	    a.x_answer_foot_btn_2::before{ background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_answer_foot_btn_2.png') no-repeat !important; background-size: cover !important; }
+	    .x_push{ background:#ffffffeb  url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_ask.png') no-repeat !important; background-size:cover !important; }
+	    a.x_answer_foot_btn_3::before{background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_answer_foot_btn_3.png') no-repeat !important;background-size: cover !important;}
+	    a.x_answer_foot_btn_4::before{background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_answer_foot_btn_4.png') no-repeat !important;background-size: cover !important;}  
+	    a.x_answer_foot_btn_5::before{background: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_answer_foot_btn_5.png') no-repeat !important;background-size: cover !important;}  
+	    h4.x_inner_tt::before{background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_open_robot.png') !important; background-size: cover !important;}
+	    .x_inner_tt::before{background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_open_robot.png') !important; background-size: cover !important;}
+	    .x_open { background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_open2.png') !important; background-size: cover !important;}
+	    .x_stop{ display: inline-block; background:#ffffffeb  url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/x_stop.png') no-repeat !important; background-size: cover !important; }
+
+		.shareStyle {font-size: 12px;color: #666;}
+		.shareStyle a { display: inline-block;width: 20px;height: 20px;background-size: cover;margin: 0 5px 0 0;background-repeat: no-repeat;vertical-align: -4px; }
+		.wechat_window {display:none; position: fixed; width: 320px;height: 365px;left: 0;top: 0;right: 0;bottom: 0;margin: auto; background: white; box-shadow: 0px 0px 5px #e5e5e5;}
+		.wechat_window p {background: #f5f5f5; height: 50px; line-height: 50px; color: #333; text-align: left; padding-left: 15px; font-size: 14px}
+		.wechat_window a {top: 10px}
+		.wechat_box {padding: 20px 35px 40px; border-top: 1px solid #e8e8e8;}
+		.wechat_box h5 {line-height: 15px; margin-top: 10px; color: #bbb; text-align: center;}
+
+		.albumZone_up_r { overflow: scroll; }
+
+		.share_link,a:hover.share_link{background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/share_link.png');}
+		.share_qq,a:hover.share_qq{background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/share_qq.png');}
+		.share_qzone,a:hover.share_qzone{background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/share_qzone.png');}
+		.share_wechat,a:hover.share_wechat{background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/share_wechat.png');}
+		.share_weibo,a:hover.share_weibo{background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/share_weibo.png');}
+		.share_mail,a:hover.share_mail{background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/share_mail.png'); }
+		.share_facebook,a:hover.share_facebook{background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common//share_facebook.png');}
+		.share_x,a:hover.share_x{background-image: url('https://publishmedia.cbpt.cnki.net/portal/minio/webs/common//share_x.png');}
+
+		.t2_nav {border-radius: 5px;border: 1px solid #eee;padding: 10px 20px;display: block;margin: 60px 0 0 0;box-shadow: 0px 0px 3px #eee;}
+
+		.t2_nav a {display: block;line-height: 24px;color: var(--pcolor);font-size: 14px;}
+		.t2_nav a:hover { color: var(--dcolor); }
+
+		.paperDetail{ position: relative; }
+		.paper_wechat{ width: 120px; box-sizing: border-box;display: flex;flex-direction: column;align-items: center;gap: 5px;position: absolute;right: 20px;bottom: 20px; }
+
+		/* 下拉框 */
+		.paper_select{ width: 100px;height: 20px;padding: 0 14px;margin: 0 10px 0 0;border-radius: 3px;border: 1px solid #dcdcdc; background: #f8f8f8;font-size: 12px;color: #333;outline: none;cursor: pointer;transition: .3s; float: right}
+		select:hover.paper_select{border-color: #3b82f6;background: #fff;}
+
+		/* 二维码区域 */
+		.qrCode_box{width: 100px;padding: 5px;background: #fff;box-shadow:0 4px 12px rgba(0,0,0,.04),inset 0 0 0 1px rgba(0,0,0,.04);}
+		.qrCode_box img{display: block;width: 100%;}
+
+		/* 文字 */
+		.paper_wechat span{ font-size: 14px;color: #666;letter-spacing: 1px; }
+
+		@media (max-width: 800px){
+		.paper_wechat{display: none;}
+		}
+
+
+    </style>
+
+		<style>
+			.top_tip{display: flex;align-items: center;line-height: 20px; padding: 0px 0px 10px 30px;gap: 10px;color: #bbb; }
+			.top_tip a{color:#bbb}
+			.top_tip a:hover{color:#999}
+			.paperDetailZone{margin:0 auto 20px auto;}
+			.paperDetailZone .mainL{    padding: 10px 0 0 0 !important;}
+			.paperDetailZone .mainR {  padding: 10px 0 0 0 !important; }
+			.mainZone .top_tip{  padding: 0 0 20px 0;}
+			.top_tip span:last-child{ overflow: hidden;white-space: nowrap;text-overflow: ellipsis;flex: 1;}
+
+			@media (max-width: 800px) {
+			  .top_tip{display: none;}
+			}
+		</style>
+
+
+
+
+
+	<link rel="stylesheet" type="text/css" href="https://publishmedia.cbpt.cnki.net/portal/minio/webs/tsjj/template/green_muban3_20240201/base/common.css?v=20261126205949">
+
+	        <script src="https://publishmedia.cbpt.cnki.net/portal/minio/webs/tsjj/template/green_muban3_20240201/base/common/setting.js" type="text/javascript" charset="utf-8"></script>
+	    
+
+
+
+
+	         <link rel="stylesheet" type="text/css" href="https://publishmedia.cbpt.cnki.net/portal/minio/webs/tsjj/template/green_muban3_20240201/base/common/green.css">
+
+     	<link rel="stylesheet" type="text/css" href="https://publishmedia.cbpt.cnki.net/portal/minio/webs/tsjj/template/green_muban3_20240201/base/common/mobile.css">
+
+    <script src="https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/qrcode.min.js" type="text/javascript" charset="utf-8"></script> 
+    <script src="https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/fingerprintjs/dist/fp.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="https://publishmedia.cbpt.cnki.net/portal/minio/webs/common/marked.min.js" type="text/javascript" charset="utf-8"></script>
+
+<macros style="display:none">
+	<macroName>nav</macroName>
+	<macroName>emailalert</macroName>
+	<macroName>searchbtn</macroName>
+	<macroName>searchbox</macroName>
+	<macroName>tablepage</macroName>
+	<macroName>yinyongbenwen</macroName>
+	<macroName>piczone</macroName>
+	<macroName>journalimg</macroName>
+	<macroName>journalInfo</macroName>
+	<macroName>journalinfonormal</macroName>
+
+	<macroName>searchdiv</macroName>
+	<macroName>searchzone</macroName>
+
+	<macroName>qikanlogo</macroName>
+	<macroName>popupnotification</macroName>
+</macros>
+
+
+
+
+<div class="videoPlayLayerBox" style="display: none;">
+	<div class="videoPlayLayer" id="videoPlayLayerBox">
+		<div class="videoPlayLayer_inner">
+			<a href="javascript:;" class="closebtn"></a>
+			<script>
+				$(function(){
+					$(".closebtn").click(function(){
+						$(".videoPlayLayerBox").fadeOut(50, function() {
+						    $(".videoPlayLayer").fadeOut();
+					  	});
+						var video = document.getElementById('myVideo');
+	  					video.pause();
+					});
+				});
+			</script>
+      		<div class="videoPlayLayer_main">
+				<video id="myVideo" controls class="video_player" width="100%" height="100%">
+				  	Your browser does not support the video tag. 
+				</video>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="pdfDownloadLayer pdfbox" style="display: none;">
+      	<div class="maskEle"></div>
+      	<div class="layerEle_box">
+        	<h2>请选择需要下载的pdf数据</h2>
+        	<a href="javascript:;" class="pdfboxclose"></a>
+	        <div class="layerEle_box_main">
+	          	<a href="javascript:;" id="chinesepdf" class="pdfbtn">中文数据</a>
+			    <a href="javascript:;" id="englishpdf" class="pdfbtn trans">英文数据</a>
+	    	</div>
+		  	<div class="transZone">
+			  	<span class="progress">正在翻译英文数据</span>
+			  	<span class="dots">...</span>
+		  	</div>
+		</div>
+    </div>
+
+<!-- 翻译狗下载 -->
+<script>
+
+
+  $(".pdfboxclose").click(function() {
+    $(".pdfDownloadLayer").fadeOut(100);
+    $(".layerEle_box_main").show();
+    $(".transZone").hide();
+  });
+
+	// $(".trans").click(function(){
+	//   	$(".layerEle_box_main").hide();
+	// 	$(".transZone").fadeIn();
+	// });
+
+	    // 下载中文原文
+    function downloadPdfChinese(id, webId,title, type) {
+        var url = "https://tsjj.cbpt.cnki.net/portal/journal/portal/client/updateDownLoadNumber/" + id + "/" + type;
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", url);
+        xhr.setRequestHeader("web_id", webId);
+        xhr.responseType = "blob";
+        xhr.onload = function () {
+            if (xhr.status === 200) {
+                var blob = this.response;
+                var reader = new FileReader();
+                reader.readAsDataURL(blob);
+                var filename = decodeURI(this.getResponseHeader('filename'));
+                reader.onload = function (e) {
+                    var a = document.createElement('a');
+                    a.download = title + ".pdf";
+                    a.href = e.target.result;
+                    //兼容firefox
+                    $('body').append(a);
+                    a.click();
+                    $(a).remove();
+                }
+            }
+        };
+        xhr.send();
+    };
+
+    function downloadPDFAction(id, webId,title, pdfUrl) {
+
+    	$(".pdfDownloadLayer").fadeIn(100);
+    	// 这里需要弹出弹框，让用户选择下载原文还英文
+
+    // 给标签重新绑定事件
+    	var pdfChineseLink = document.getElementById('chinesepdf');
+    	pdfChineseLink.onclick = function() { 
+		    getChinesePreviewUrl(id, webId, title);
+		};  
+
+    	var pdfEnglishLink = document.getElementById('englishpdf');
+    	pdfEnglishLink.onclick = function() {  
+		    downloadPdfEnglishBegin(id, title);  
+		};  
+    }	
+
+    function getChinesePreviewUrl(paperId, webId, title) {
+    	var baseUrl = 'https://tsjj.cbpt.cnki.net/portal/journal/portal/journal/api/getPaperDownloadInfo?paperId='+paperId;
+		$.ajax({          
+			url: baseUrl,
+			contentType:"application/json; charset=utf-8",		
+            dataType:"json",			
+			type: "POST", 	
+            async: "true",		
+			success: function(res){
+				let previewPdfUrl = res.data.previewPdfUrl;
+
+				var isPhone = /mobile/i.test(navigator.userAgent);
+				if (isPhone) {
+					downloadFull(paperId,'1', webId, title);
+				}else {
+					window.open(previewPdfUrl, '_blank');
+				}
+				
+			    $(".pdfDownloadLayer").fadeOut(100);
+				$(".layerEle_box_main").show();
+				$(".transZone").hide();
+			}
+		});
+    }
+
+    // 1、请求下载英文原文接口，开始翻译
+    function downloadPdfEnglishBegin(itemID, title) {
+    	$(".layerEle_box_main").hide();
+		$(".transZone").fadeIn();
+
+    	console.log("1、请求下载英文原文接口，开始翻译");
+    
+        var baseUrl = "https://tsjj.cbpt.cnki.net/portal/journal/portal/client/uploadTranslatePaper/" + itemID + "/1";
+		$.ajax({          
+			url: baseUrl,
+			contentType:"application/json; charset=utf-8",		
+            dataType:"json",			
+			type: "GET", 	
+            async: "true",		
+			success: function(res){
+				if (res.success == true) {
+					downloadPdfEnglishGetProgress(itemID, title);
+				}else {
+					$(".pdfDownloadLayer").fadeOut(100, function() {  
+				      	$(".layerEle_box_main").show();
+			    		$(".progress").text("正在翻译英文数据");
+	                    $(".transZone").hide();
+
+	                    alert(res.message);
+				    });  
+					
+				}
+			},
+			error:function(res){                                   
+				console.log(res);
+				
+				$(".pdfDownloadLayer").fadeOut(100, function() {  
+			      	$(".layerEle_box_main").show();
+		    		$(".progress").text("正在翻译英文数据");
+                    $(".transZone").hide();
+
+                    alert(res.message);
+			    }); 
+			}
+		});
+
+    }
+
+	// 2、查询翻译进度
+    function downloadPdfEnglishGetProgress(itemID, title) {
+    	console.log("2、查询翻译进度，刷新进度条进度");
+    	var baseUrl = "https://tsjj.cbpt.cnki.net/portal/journal/portal/client/queryTranslateProgress/" + itemID + "/1";
+		$.ajax({          
+			url: baseUrl,
+			contentType:"application/json; charset=utf-8",		
+	        dataType:"json",			
+			type: "GET", 	
+	        async: "true",		
+			success: function(res){
+				
+	            let progress = res.data.percent;
+	        	let text = "正在翻译英文数据" + progress + "%"
+			    $(".progress").text(text);
+
+			    // 下载完成后要开始下载
+			    if (progress === '100.00') {
+			    	downloadPdfEnglishEnd(itemID, title);
+			    }else {
+			    	reDownloadPdfEnglishGetProgress(itemID, title);
+			    }
+			},      
+			error:function(res){                                   
+				console.log(res);
+
+				$(".pdfDownloadLayer").fadeOut(100, function() {  
+			      	$(".layerEle_box_main").show();
+		    		$(".progress").text("正在翻译英文数据");
+                    $(".transZone").hide();
+
+                    alert(res.message);
+			    }); 
+			}
+		});
+    }
+
+    function reDownloadPdfEnglishGetProgress(itemID, title) {
+    	console.log("2、查询翻译进度，刷新进度条进度");
+    	var baseUrl = "https://tsjj.cbpt.cnki.net/portal/journal/portal/client/queryTranslateProgress/" + itemID + "/1";
+		$.ajax({          
+			url: baseUrl,
+			contentType:"application/json; charset=utf-8",		
+	        dataType:"json",			
+			type: "GET", 	
+	        async: "true",		
+			success: function(res){
+				
+	            let progress = res.data.percent;
+	        	let text = "正在翻译英文数据" + progress + "%"
+			    console.log("进度是",text);
+			    $(".progress").text(text);
+
+			    // 下载完成后要开始下载
+			    if (progress === '100.00') {
+			    	downloadPdfEnglishEnd(itemID, title);
+			    }else {
+			    	downloadPdfEnglishGetProgress(itemID, title);
+			    }
+			},      
+			error:function(res){                                   
+				console.log(res);
+				$(".pdfDownloadLayer").fadeOut(100, function() {  
+			      	$(".layerEle_box_main").show();
+		    		$(".progress").text("正在翻译英文数据");
+                    $(".transZone").hide();
+
+                    alert(res.message);
+			    }); 
+			}
+		});
+    }
+
+    // 3、翻译完成后开始下载文件
+    function downloadPdfEnglishEnd(itemID, title) {
+    	console.log("翻译完成，开始下载了");
+
+    	var baseUrl = "https://tsjj.cbpt.cnki.net/portal/journal/portal/client/downloadTranslatePaper/" + itemID + "/1";
+
+    	$.ajax({          
+			url: baseUrl,
+			contentType:"application/json; charset=utf-8",		
+	        dataType:"json",			
+			type: "GET", 	
+	        async: "true",		
+			success: function(res){
+				let englishUrl = res.data;
+				window.open(englishUrl, '_blank');
+
+				$(".pdfDownloadLayer").fadeOut(100, function() {  
+			      	$(".layerEle_box_main").show();
+		    		$(".progress").text("正在翻译英文数据");
+                    $(".transZone").hide();
+			    });  
+			},      
+			error:function(res){                                   
+				$(".pdfDownloadLayer").fadeOut(100, function() {  
+			      	$(".layerEle_box_main").show();
+		    		$(".progress").text("正在翻译英文数据");
+                    $(".transZone").hide();
+			    });  
+			}
+		});
+    }
+
+</script>
+
+<!-- 智能导读视频播放 -->
+<script>
+
+	function canPlayVideo(url, callback) {
+	  var video = document.createElement('video');
+	 
+	  video.addEventListener('canplay', function() {
+	    callback(true);
+	  }, { once: true });
+	 
+	  video.addEventListener('error', function() {
+	    callback(false);
+	  }, { once: true });
+	 
+	  video.src = url;
+	}
+
+	aivideo=function(videoUrl, videoId) {
+		// 使用方法
+		canPlayVideo(videoUrl, function(canPlay) {
+		  if (canPlay) {
+		    $(".videoPlayLayerBox").fadeIn(100, function() {
+			    $(".videoPlayLayer").fadeIn(50);
+		  	});
+		  	countPlayback(videoId);
+	        console.log("这里需要弹出一个窗口播放视频", videoUrl);
+	        playVideo(videoUrl);
+		  } else {
+		    console.log('视频无法播放');
+		    window.open(videoUrl, '_blank');
+		  }
+		});
+    }
+
+    function countPlayback(videoId) {
+	 	var baseUrl = "https://tsjj.cbpt.cnki.net/portal/journal/portal/client/updateVideoViewNum?videoContentId=" + videoId;
+		$.ajax({          
+			url: baseUrl,
+			contentType:"application/json; charset=utf-8",		
+            dataType:"json",			
+			type: "GET", 	
+            async: "true",		
+			success: function(res){
+				
+			},
+			error:function(res){                                   
+				console.log(res);
+			}
+		});
+    }
+
+		// 播放视频
+	function playVideo(videoUrl) {
+		var video = document.getElementById('myVideo');
+		video.src = videoUrl;
+		video.load();
+	  	video.play();
+	}
+	 
+	// 暂停视频
+	function pauseVideo() {
+		var video = document.getElementById('myVideo');
+	  	video.pause();
+	}
+
+	var dragItem = document.getElementById('videoPlayLayerBox');
+	var active = false;
+	 
+	dragItem.addEventListener('mousedown', function(e) {
+	    active = true;
+	    currentX = e.clientX - dragItem.offsetLeft;
+	    currentY = e.clientY - dragItem.offsetTop;
+	});
+	 
+	document.addEventListener('mouseup', function() {
+	    active = false;
+	});
+	 
+	document.addEventListener('mousemove', function(e) {
+	    if (active) {
+	        dragItem.style.left = (e.clientX - currentX) + 'px';
+	        dragItem.style.top = (e.clientY - currentY) + 'px';
+	    }
+	});
+
+</script>
+
+
+<!-- 分享box -->
+<script>
+	function cancelWechatWindow(){
+		// $(".wechatModal").fadeOut();
+		document.getElementById('wechatModal').style.display = 'none';
+	};
+
+	function shareweb(type) {
+	    //获取文章标题
+	    var title = document.title;
+	    //获取当前网页url
+	    var url = document.location.href;
+	    var userAgent = navigator.userAgent; //取得浏览器的userAgent字符串
+	    var isIE = userAgent.indexOf("compatible") > -1 && userAgent.indexOf("MSIE") > -1; //判断是否IE<11浏览器
+
+
+	    //1、复制链接
+	    if(type == 'copy') {
+        	const input = document.createElement('input');
+        	input.setAttribute('readonly','readonly');
+        	input.setAttribute('value', url);
+        	document.body.appendChild(input);
+        	input.select();
+        	if(document.execCommand('copy')){
+        		document.execCommand('copy');
+        		alert('链接已复制');
+        	}
+        	document.body.removeChild(input);
+        	return;
+        }
+
+		//2、qq好友接口的传参
+        if(type == 'qq'){
+            if(isIE){
+                //如果为IE 构造一个虚拟的a标签 以便于跳转到对应的URL
+                var gotolink = document.createElement('a');
+                gotolink.href = 'http://connect.qq.com/widget/shareqq/index.html?url=' + url + '&title=' + title
+                gotolink.setAttribute("target", "_blank");
+                document.body.appendChild(gotolink);
+                gotolink.click();
+            }
+            else {
+                window.open('http://connect.qq.com/widget/shareqq/index.html?url=' + url + '&title=' + title);
+            }
+            return;
+        } 
+
+        //3、qq空间
+        if(type=='qzone'){
+            if(isIE){
+                 //如果为IE 构造一个虚拟的a标签 以便于跳转到对应的URL
+                var gotolink = document.createElement('a');
+                gotolink.href = 'https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=' + url + '&sharesource=qzone&title=' + title;
+                gotolink.setAttribute("target", "_blank");
+                document.body.appendChild(gotolink);
+                gotolink.click();
+            }
+            else {
+                window.open('https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=' + url + '&sharesource=qzone&title=' + title);
+            }
+            return;
+        };
+
+
+
+        //4、微信分享
+        if(type == 'wechat'){
+			handleWechatShare();
+		    return;
+        }
+
+        //5、邮件
+        if (type == 'email') {
+	        if(isIE){
+	            //如果为IE 构造一个虚拟的a标签 以便于跳转到对应的URL
+
+	            var gotolink = document.createElement('a');
+	            gotolink.href = 'http://mail.qq.com/cgi-bin/qm_share?url=' + url + '&to=qqmail'
+	            gotolink.setAttribute("target", "_blank");
+	            document.body.appendChild(gotolink);
+	            gotolink.click();
+	        }
+	        else {
+	            window.open('http://mail.qq.com/cgi-bin/qm_share?url=' + url + '&to=qqmail');
+	        }
+	        return;
+	    }
+
+
+        //6、新浪微博
+        if(type=='sina'){
+        	 //新浪微博接口的传参
+            if(isIE){
+                //如果为IE 构造一个虚拟的a标签 以便于跳转到对应的URL
+                var gotolink = document.createElement('a');
+                gotolink.href = 'http://service.weibo.com/share/share.php?url=' + url + '&sharesource=weibo&title=' + title + '&appkey=2706825840';
+                gotolink.setAttribute("target", "_blank");
+                document.body.appendChild(gotolink);
+                gotolink.click();
+            }
+            else {
+                window.open('http://service.weibo.com/share/share.php?url=' + url + '&sharesource=weibo&title=' + title + '&appkey=2706825840');
+            }
+            return;
+        }
+
+		//7、Facebook
+		if (type == 'facebook') {
+			window.open(
+                `https://www.facebook.com/sharer/sharer.php?u=`+url,
+                'facebook-share-dialog',
+                'width=626,height=436'
+            );
+            return;
+		}
+
+		//8、twitter
+		if (type = 'twitter') {
+			window.open(
+                `https://twitter.com/intent/tweet?url=`+url + `&text=` + title,
+                'twitter-share-dialog',
+                'width=550,height=420'
+            );
+            return;
+		}
+	}
+
+	function handleWechatShare() {
+	    const modal = document.getElementById('wechatModal');
+	    const qrContainer = document.getElementById('qrcode');
+	    
+	    // 清除旧二维码
+	    qrContainer.innerHTML = '';
+	    
+	    // 生成新二维码
+	    new QRCode(qrContainer, {
+	      text: window.location.href,
+	      width: 240,
+	      height: 240,
+	      colorDark: "#000000",
+	      colorLight: "#ffffff",
+	      correctLevel: QRCode.CorrectLevel.H
+	    });
+	    
+	    modal.style.display = 'block';
+	}
+</script>
+
+<script>
+	    
+    function getSpecialHtmlUrl(paperIdSource, year, doi, issue, volnum, contentid, wkpaperid) {
+        var url = "https://tsjj.cbpt.cnki.net/portal/journal/portal/journal/api/gotoSpecialHtmlUrl";
+
+        var queryVO = {
+            paperIdSource: paperIdSource,
+            year: year,
+            doi: doi,
+            issue: issue,
+            volnum: volnum,
+            contentId: contentid,
+            wkPaperID: wkpaperid
+        }
+        
+        $.ajax({          
+            url: url,
+            contentType:"application/json; charset=utf-8",
+            dataType: "json",  
+            type: "post", 
+            async: "true",
+            data: JSON.stringify(queryVO),
+            success: function(res){
+                var responseUrl = res.data;
+                console.log('-----' + responseUrl);
+                window.open(responseUrl, "_blank");
+            },
+            error:function(res){
+                  console.log(res);
+            }
+        });
+    }
+
+    function getChineseHtmlUrl(id) {
+    	var url = "https://tsjj.cbpt.cnki.net/portal/journal/portal/journal/api/getChinesDownloadInfoByEnglishPaper?contentId=" + id;
+        $.ajax({       
+        type: "post",
+        url: url , 
+        dataType: "json",       
+        success:  function (data) {
+            var responseHtmlUrl = data.data.htmlUrl;
+            // 调用下载接口
+            if (responseHtmlUrl != null) {
+                window.open(responseHtmlUrl, "_blank");
+            }else {
+                var cnkiNodeUrl = data.data.cnkiNodeUrl;
+                window.open(cnkiNodeUrl, "_blank")
+            }
+        }});
+    }
+
+    function getSpecialPDFUrl(id, webId,title){
+        var url = "https://tsjj.cbpt.cnki.net/portal/journal/portal/journal/api/getChinesDownloadInfoByEnglishPaper?contentId=" + id;
+        $.ajax({       
+        type: "post",
+        url: url , 
+        dataType: "json",       
+        success:  function (data) {
+            var responsePdfUrl = data.data.pdfUrl;
+            // 调用下载接口
+            if (responsePdfUrl != null) {
+                var responseWebId = data.data.relationWebId;
+                // var responseContentId = data.data.relationContentId;
+                downloadFullNew(responsePdfUrl, responseWebId, title);
+            }else {
+                var cnkiNodeUrl = data.data.cnkiNodeUrl;
+                window.open(cnkiNodeUrl, "_blank")
+            }
+        }});
+    }
+
+    downloadFullNew=function(pdfUrl, webId, title) {
+       	var url = pdfUrl;
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", url);
+        xhr.setRequestHeader("web_id", webId);
+        xhr.responseType = "blob";
+        xhr.onload = function () {
+            if (xhr.status === 200) {
+                var blob = this.response;
+            	// 获取 `Content-Disposition` 头
+	            var contentDisposition = xhr.getResponseHeader("Content-Disposition");
+	           // 兼容不同浏览器的下载方式
+	            if (window.navigator.msSaveBlob) {
+	                // IE 兼容处理
+	                window.navigator.msSaveBlob(blob, filename);
+	            } else {
+	                var blobUrl = URL.createObjectURL(blob);
+	                var a = document.createElement("a");
+	                a.href = blobUrl;
+	                a.download = title + ".pdf";
+	                document.body.appendChild(a);
+
+	                // 兼容不同浏览器触发下载
+	                var evt = new MouseEvent("click", { bubbles: true, cancelable: true, view: window });
+	                a.dispatchEvent(evt);
+	                document.body.removeChild(a);
+	                URL.revokeObjectURL(blobUrl);
+	            }
+            }
+        };
+        xhr.send();
+    };
+
+    // const iframe = document.createElement('iframe');
+	// iframe.style.display = 'none';
+	// iframe.src = ' https://' + "tsjj" + '.cbpt.cnki.net/editor/#/login'; 
+	// console.log('----' + iframe.src);
+	// document.body.appendChild(iframe);
+	// iframe.onload = function() {
+	//   iframe.contentWindow.navigator.serviceWorker.getRegistrations()
+	//     .then(registrations => {
+	//       registrations.forEach(registration => {
+	//         console.log('Unregistering:', registration.scope);
+	//         registration.unregister();
+	//       });
+	//       document.body.removeChild(iframe);
+	//       console.log('Service Worker 已清理');
+	//     });
+	// };
+
+	$(function () {
+        getFingerprint();
+    });
+
+    var fpPromise;
+
+	async function getFingerprint(){
+		let localFP = '';
+	  	if (localFP == null || localFP.length == 0) {
+ 			if (!fpPromise) {
+		    	fpPromise = FingerprintJS.load()
+		  	}
+		  
+		  	const fp = await fpPromise
+		  	const result = await fp.get();
+		  	
+		  	console.log('=== 指纹组件对比 ===');
+			Object.keys(result.components).forEach(key => {
+			  console.log(key +`:`, JSON.stringify(result.components[key].value));
+			});
+
+			// 保存到全局变量以便对比
+			window.fingerprintComponents = result.components;
+
+		  	var customcomponents = [
+				result.components.fonts,
+				result.components.domBlockers,
+				// result.components.fontPreferences,
+				result.components.audio,
+				result.components.screenFrame,
+				result.components.osCpu,
+				result.components.languages,
+				result.components.colorDepth,
+				result.components.screenResolution,
+				result.components.hardwareConcurrency,
+				result.components.timezone,
+				result.components.sessionStorage,
+				result.components.localStorage,
+				result.components.indexedDB,
+				result.components.openDatabase,
+				result.components.cpuClass,
+				result.components.platform,
+				result.components.plugins,
+				result.components.touchSupport,
+				result.components.vendor,
+				result.components.vendorFlavors,
+				result.components.colorGamut,
+				result.components.invertedColors,
+				result.components.forcedColors,
+				result.components.monochrome,
+				result.components.contrast,
+				result.components.reducedMotion,
+				result.components.reducedTransparency,
+				result.components.hdr,
+				result.components.math,
+				result.components.pdfViewerEnabled,
+				result.components.architecture,
+				result.components.applePay,
+				result.components.privateClickMeasurement,
+				result.components.audioBaseLatency,
+				result.components.dateTimeLocale,
+				result.components.webGlBasics,
+				result.components.webGlExtensions
+			];
+		  	const hash2 = FingerprintJS.hashComponents(customcomponents); 
+		  	console.log('2、自定义生成的浏览器指纹是：' + hash2)
+			localFP = hash2; 
+			// localStorage.setItem("fp", localFP);
+			setDeviceIdCookie(localFP);
+		}else {
+			console.log('1、从缓存里取的浏览器指纹是：' + localFP)
+		}
+
+		if("" == '1') {
+			var visitUserInfoValue = "";
+			var match = visitUserInfoValue.match(/userId=([^,)]+)/);
+			var userId = match ? match[1] : null;
+			var userIdValue = userId === "null" ? null : userId;
+			if (userIdValue == null || userIdValue.length == 0) {
+				getVisitorTokenWithFP(localFP);	
+			}
+		}
+
+	}
+
+    function setDeviceIdCookie(deviceID) {
+    	const expires = new Date();
+		expires.setDate(expires.getDate() + 30); // 7天后过期
+		let dateString = expires.toUTCString();
+
+		var tokenCookieString = "deviceId=" + deviceID + ";" + dateString + " ;path=/"; 
+		document.cookie = tokenCookieString;
+    }
+</script>
+
+
+
+<macros style="display:none">
+	<macroName>xinwenxiangqing</macroName>
+	<macroName>xinwenxiangqingnew</macroName>
+</macros>
+
+
+ </head>
+ <body>
+  <div class="container">
+   <div class="header">
+    <div class="logo">
+     <div class="inner">
+      <div name="qikanlogo" journallogo="" class="logo_tt cnki-compont" showlogoimage="false" logoimagesrc="base/img/logo.png" journalname="">
+
+
+			<h1  class="journaltitle">经济学报</h1>
+
+
+
+      </div>
+      <div class="logo_honor"><!--<span>EI收录</span>
+							<span>scopus收录</span>-->
+      </div>
+      <div name="searchbtn" class="searchOuterDiv">
+	<a href="javascript:;" class="search_btn"></a>
+      </div>
+     </div>
+    </div>
+    <div class="nav">
+     <div class="inner">
+      <div class="nav-inner cnki-compont" name="nav" navcomponentlist="" menutype="top" shownewwindow="true">
+
+
+
+		<a class="navNow" href="https://tsjj.cbpt.cnki.net/portal/journal/portal/client/index">首页</a>
+							<a href="https://tsjj.cbpt.cnki.net/portal/journal/portal/client/news/TSJJ_6587bbe4-b61f-4371-8b5e-cedb673e264e" target="_blank">期刊简介</a>
+
+							<a href="https://tsjj.cbpt.cnki.net/portal/journal/portal/client/news/TSJJ_37afd469-828f-45e3-8425-9dbc97f6b2be" target="_blank">征稿简则</a>
+
+							<a href="https://tsjj.cbpt.cnki.net/portal/journal/portal/client/news/TSJJ_36f4a9d1-c0d6-4ae5-8256-48b221f65294" target="_blank">版权协议</a>
+
+							<a href="https://tsjj.cbpt.cnki.net/portal/journal/portal/client/news/TSJJ_00c24cb1-4f9e-4ffd-a7e7-bf847ba78d2b" target="_blank">编委会</a>
+
+							<a href="https://tsjj.cbpt.cnki.net/portal/journal/portal/client/news/tsjj_3415029b-8665-4cea-8bba-138f5493fb75" target="_blank">投稿重要提示</a>
+
+							<a href="https://tsjj.cbpt.cnki.net/portal/journal/portal/client/download/TSJJ_54253c13-816a-4cda-85b4-048f7444fa78?title=下载中心" target="_blank">下载中心</a>
+
+							<a href="https://tsjj.cbpt.cnki.net/portal/journal/portal/client/download/tsjj_a1208a4f-3f9e-4faa-bb61-4904897ec273?title=文章附录索引" target="_blank">文章附录索引</a>
+
+					<a href="javascript:;" class="slideUp" >专栏征稿函</a>
+					<p>
+						<span>
+											<a href="https://tsjj.cbpt.cnki.net/portal/journal/portal/client/news/b3208be4ae2f48c4ecaad6bb00a0881a" target="_blank">“新时代结构变化背景下的宏观经济基础理论”专栏</a>
+											<a href="https://tsjj.cbpt.cnki.net/portal/journal/portal/client/news/8157434ca89b83203cf5b18c43d03d4b" target="_blank">“基于我国数字经济实践，围绕数字经济生态系统征集原创理论建模”专栏</a>
+											<a href="https://tsjj.cbpt.cnki.net/portal/journal/portal/client/news/41b6491b664b14a1215d5c4fd286da08" target="_blank">国际金融栏目</a>
+						</span>
+					</p>
+							<a href="https://tsjje.cbpt.cnki.net/" target="_blank">English</a>
+
+      </div> <b>|</b>
+      <div name="emailalert" class="emailAlert cnki-compont">
+	<a href="https://tsjj.cbpt.cnki.net/portal/journal/portal/client/email_alert" class="specialNav" target="_blank">Email-Alert</a>
+      </div> <a href="#" class="redNav" style="display:none;">进入后台管理系统</a>
+     </div>
+    </div>
+   </div>
+   <div class="main">
+    <div class="mainZone">
+     <div class="mainC">
+      <div name="xinwenxiangqing" class="txtZone t2 cnki-compont" xinwenxiangqingcomponentlist="" showtitle="true" showlittletitle="true" showabstract="true" showdate="true" showauthor="true">
+
+
+
+		<!-- <div class="t2_tt_car">首页 > 行业动态</div> -->
+				<div class="t2_tt">征稿简则</div>
+
+		<div class="t2_tt_art">
+					<span class="t2_tt_art_date">2024-02-21</span>
+			&nbsp;&nbsp;&nbsp;&nbsp;
+					<span class="t2_tt_art_author"></span>
+
+	        <div class="shareStyle">分享至：
+				<a href="javascript:;" onclick="shareweb('copy')" class="share_link" title="复制链接"></a>
+	          	<a href="javascript:;" onclick="shareweb('qq')" class="share_qq" title="分享至QQ"></a>
+	          	<a href="javascript:;" onclick="shareweb('qzone')" class="share_qzone" title="分享至QQ空间"></a>
+	          	<a href="javascript:;" onclick="shareweb('wechat')" class="share_wechat" title="分享至微信"></a>
+	          	<a href="javascript:;" onclick="shareweb('sina')" class="share_weibo" title="分享至微博"></a>
+	          	<a href="javascript:;" onclick="shareweb('email')" class="share_mail" title="分享至邮箱"></a>
+	          	<a href="javascript:;" onclick="shareweb('facebook')" class="share_facebook" title="分享至facebook"></a>
+	          	<a href="javascript:;" onclick="shareweb('twitter')" class="share_x" title="分享至twitter"></a>
+			</div>
+
+			<div id="wechatModal" class="wechat_window">
+			  	<p>扫码分享到微信或朋友圈</p>
+			  	<a href="javascript:;" class="closebtn" onclick="cancelWechatWindow()"></a>
+			  	<div class="wechat_box">
+			  		<div id="qrcode"></div>
+			  		<h5>使用微信"扫一扫"功能。<br>将此内容分享给您的微信好友或者朋友圈</h5>
+			  	</div>
+			</div>
+		</div>
+			<div class="t2_main">
+				<p style="text-align: center;">《经济学报》征稿简则</p>
+
+<p>&nbsp;1. 征稿范围：《经济学报》涵盖经济学科的所有学科领域，发表原创性的学术研究成果以及综述和评论性的研究论文。本刊秉承学术、公正的原则，倡导独立、客观的研究，提倡严谨、规范的方法。&nbsp;</p>
+
+<p>2. 投稿要求 ：<br />
+1)投稿论文应详细录入文章标题、摘要、关键词、 JEL (Journal of Economic Literature) 分类号以及作者详细信息（包括邮寄通信地址、邮编、电话、电子邮箱、传真、作者工作单位、职称、研究方向等信息），以方便审稿人浏览和编辑部的工作。多名作者署名的论文，请标明通讯作者。&nbsp;</p>
+
+<p>2)论文的正文格式按下面的顺序录入：中文标题&rarr;中文作者姓名（多位作者姓名间用&ldquo;逗号&rdquo;分隔）&rarr;中文摘要&rarr;中文关键词（关键词之间用&ldquo;分号&rdquo;分隔）&rarr;正文（正文中的层次用阿拉伯数字编号，从 0开始，层次标题左对齐）&rarr;附录&rarr;参考文献&rarr;英文标题&rarr;英文作者姓名和工作单位&rarr;英文摘要&rarr; JEL Classification。&nbsp;</p>
+
+<p>3)文章中的数学公式按出现的先后顺序统一编号。数学公式的标号放入圆括号内（例如 (1))，并标注在公式行的右边。表或图按在文中出现的先后顺序统一编号（例如图 1、图 2&hellip;&hellip;)。表的标号和标题放在相应表格上方，图的标号和标题放在相应图的下方，每张图必须达到出版质量。另外，尽可能不要使用脚注或尾注。&nbsp;</p>
+
+<p>4)英文参考文献在文中出现标注在圆括号中，如（ Wensley，1981），如果作者名需在正文中出现，标注成 Wensley (1981)；多个参考文献出现的顺序按照第一作者的英文字母顺序排列，如（Donnelly, 1981；Iacobucci，1994; Nevin，1981）；两个作者时用&ldquo; and&rdquo;写出，如（ Little and Rubin，1987）；三个及以上作者的参考文献只需写出第一个作者，后加&ldquo; et al.&rdquo;如（Rust et al.，1999）。中文参考文献在文中的标注原则相同，形式如（胡晓云， 2003；郭艳红和邓贵仕， 2008；王海忠等， 2006）。&nbsp;</p>
+
+<p>5)文后参考文献条目先列中文文献，再列英文文献，接着列其他语种参考文献，如果参考文献引自中文期刊则要翻译成英文对应的条目。参考文献的作者要写全姓和名，三人以上的只列出三人即可；期刊要写明出版卷（期）。参考文献的格式及示例见表 1和表 2。请注意：表 2中的空格、点号，全部使用西文标点。<br />
+表 1主要参考文献的格式<br />
+类别代码、文献类别何著录格式 &nbsp;<br />
+M 专著或译著原作者 . 出版年 . 译著名 [M].译者，译 . 出版地 : 出版者 : 页码. &nbsp;<br />
+C 文集析出作者. 出版年. 文题 [C] // 编者. 文集名 . 出版地: 出版者 , 起始页码－终止页码 . &nbsp;<br />
+J 期刊析出作者. 年. 文题 [J]. 刊名, 卷 (期):起始页码－终止页码 . &nbsp;<br />
+D 学位论文作者. 发布年份 . 文题 [D].所在城市 : 保存单位 . &nbsp;<br />
+P 专利文献申请者 . 发布日期 . 专利名 : 国名, 专利号 [P]. &nbsp;<br />
+S 技术标准技术标准代号 . 发布年份 . 技术标准名称 [S].地名: 责任单位 . &nbsp;<br />
+R 科技报告作者. 发布年份 . 文题[R].地名: 责任单位 : 报告代码及编号 . &nbsp;<br />
+N 报纸析出作者. 出版日期 (版次). 文题 [N].报纸名. &nbsp;<br />
+Z 其他作者. 出版日期 . 文题 [Z].出版地: 出版者. &nbsp;<br />
+OL 网络版作者. [引证日期 ]. 文题 [文献类别 /OL]. (上传日期) http://网址. &nbsp;</p>
+
+<p>表 2部分参考文献的示例&nbsp;</p>
+
+<p>蔡昉, 王德文 , 曲玥. 2009.中国产业升级的大国雁阵模型分析 [J].经济研究 , (9): 4-14. Cai F, Wang D W, Qu Y. 2009. Flying geese within borders: How China sustains its labor-intensive industries[J]. Economic Research Journal, (9): 4-14. (in Chinese)<br />
+郑开青 . 1987.通讯系统模拟及软件 [D].北京: 清华大学 ,&nbsp;<br />
+Petrowski A. 1996. A clearing procedure as a niching method for genetic algorithms [C]// Proc 3rd IEEE Conf Evolutionary Computation. Piscataway, NJ: IEEE Press, 798-803.&nbsp;</p>
+
+<p>3. 特别声明 ：<br />
+1) 作者保证论文不泄漏国家秘密。若发生泄密问题，一切责任由作者承担。论文如果为涉密科研项目资助产出论文，作者须提交所在单位的保密审批意见。&nbsp;</p>
+
+<p>2) 来稿录用与否，本刊都会通知作者。若来稿未被录用，本刊限于人力不予退稿，请作者自留底稿。&nbsp;</p>
+
+<p>4. 通信地址：北京市海淀区清华大学经济管理学院《经济学报》编辑部<br />
+&nbsp; &nbsp; &nbsp; 联系电话：(010) 62797503 邮政编码：100084<br />
+&nbsp; &nbsp; &nbsp; 电子邮件:cje@sem.tsinghua.edu.cn<br />
+&nbsp; &nbsp; &nbsp; 网站：http://www.cje.sem.tsinghua.edu.cn/</p>
+
+			</div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="footer">
+    <div class="inner">
+     <p>本系统由中国知网提供技术支持 使用说明 技术支持: cb@cnki.net http://find.cb.cnki.net<br> 建议采用IE 10.0以上版本，1024*768分辨率浏览本页面<br></p>
+    </div>
+   </div>
+  </div><!-- ===================== 遮罩层搜索 ==================== -->
+  <div name="searchbox">
+
+
+
+		<div class="layerEle">
+		<div class="maskEle"></div>
+		<div class="layerEle_box">
+			<a href="javascript:;" class="closebtn"></a>
+			<div class="layerEle_box_main">
+				<div class="searchZone">
+					<input type="text" name="" value="" id="searchBoxTxtIpt" class="searchTxt" placeholder="请输入关键词" />
+					<!-- <a href="https://tsjj.cbpt.cnki.net/portal/journal/portal/client/searchResult" class="searchZone_btn" onclick="searchCon()" target="_blank">检 索</a>
+					<a href="https://tsjj.cbpt.cnki.net/portal/journal/portal/client/advSearchResult" class="searchZone_advbtn" target="_blank">高级检索</a> -->
+
+					<a href="javascript:;" class="searchZone_btn" onclick="searchBoxCon()">检 索</a>
+					<a href="https://tsjj.cbpt.cnki.net/portal/journal/portal/client/advSearchResult" class="searchZone_advbtn" target="_blank">高级检索</a>
+
+					<script>
+						$("#searchBoxTxtIpt").on("keyup", function (e) {
+							if (e.which == 13) {
+								//执行方法
+								searchBoxCon();
+							}
+						});
+                        function searchBoxCon() {
+                           var url = "https://tsjj.cbpt.cnki.net/portal/journal/portal/client/searchResult?content=" + encodeURI($('#searchBoxTxtIpt').val()) ;
+			window.open(url, "_blank");
+ 
+                        }
+                    </script>
+				</div>
+			</div>
+		</div>
+	</div>
+  </div>
+ </body>
+</html>

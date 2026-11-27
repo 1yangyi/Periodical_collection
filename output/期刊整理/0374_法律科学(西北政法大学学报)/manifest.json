@@ -1,0 +1,117 @@
+{
+  "journal": {
+    "name": "法律科学(西北政法大学学报)",
+    "url": "https://flkx.nwupl.edu.cn/",
+    "journal_id": "",
+    "row": 375,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://flkx.nwupl.edu.cn/",
+  "collected_at": "2026-11-26T21:00:21+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "flkx.nwupl.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://flkx.nwupl.edu.cn/",
+      "requested_url": "https://flkx.nwupl.edu.cn/",
+      "title": "期刊动态",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:00:21+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://flkx.nwupl.edu.cn/info/iList.jsp?cat_id=11199",
+      "requested_url": "https://flkx.nwupl.edu.cn/info/iList.jsp?cat_id=11199",
+      "title": "投稿须知",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T21:00:21+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://flkx.nwupl.edu.cn/zzwd/146783.htm",
+      "requested_url": "https://flkx.nwupl.edu.cn/zzwd/146783.htm",
+      "title": "《法律科学》注释体例",
+      "path": [
+        "官网入口",
+        "《法律科学》注释体例"
+      ],
+      "visited_at": "2026-11-26T21:00:21+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://flkx.nwupl.edu.cn/info/iList.jsp?cat_id=11199&cur_page=1",
+      "requested_url": "https://flkx.nwupl.edu.cn/info/iList.jsp?cat_id=11199&cur_page=1",
+      "title": "投稿须知",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        ">"
+      ],
+      "visited_at": "2026-11-26T21:00:21+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "《法律科学》注释体例",
+      "source_url": "https://flkx.nwupl.edu.cn/zzwd/146783.htm",
+      "path": [
+        "官网入口",
+        "《法律科学》注释体例"
+      ],
+      "local_path": "web/《法律科学》注释体例_e42c0fb46f.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "法律科学(西北政法大学学报)投稿格式",
+      "local_path": "法律科学(西北政法大学学报)投稿格式.md",
+      "source_urls": [
+        "https://flkx.nwupl.edu.cn/zzwd/146783.htm"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://flkx.nwupl.edu.cn/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://flkx.nwupl.edu.cn/",
+      "title": "法律科学(西北政法大学学报)",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "journal": {
+    "name": "全球定位系统",
+    "url": "http://www.qqdwxt.cn/",
+    "journal_id": "",
+    "row": 403,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "http://www.qqdwxt.cn/",
+  "collected_at": "2026-11-26T21:00:58+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.qqdwxt.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "http://www.qqdwxt.cn/",
+      "requested_url": "http://www.qqdwxt.cn/",
+      "title": "导出文件",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:00:58+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.qqdwxt.cn/tougaozhinan",
+      "requested_url": "http://www.qqdwxt.cn/tougaozhinan",
+      "title": "《全球定位系统》征稿简则",
+      "path": [
+        "官网入口",
+        "征稿简则"
+      ],
+      "visited_at": "2026-11-26T21:00:58+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.qqdwxt.cn/xiazaizhongxin",
+      "requested_url": "http://www.qqdwxt.cn/xiazaizhongxin",
+      "title": "导出文件",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "visited_at": "2026-11-26T21:00:58+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "http://www.qqdwxt.cn/",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "http://www.qqdwxt.cn/tougaozhinan",
+      "title": "征稿简则",
+      "source_url": "http://www.qqdwxt.cn/",
+      "path": [
+        "官网入口",
+        "征稿简则"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": "征稿简则"
+    },
+    {
+      "url": "http://www.qqdwxt.cn/xiazaizhongxin",
+      "title": "下载中心",
+      "source_url": "http://www.qqdwxt.cn/",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": "下载中心"
+    },
+    {
+      "url": "http://www.qqdwxt.cn/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "http://www.qqdwxt.cn/",
+      "title": "全球定位系统",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

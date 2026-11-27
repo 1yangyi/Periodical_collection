@@ -1,0 +1,30 @@
+{
+  "index": 375,
+  "journal": "西藏大学学报(藏文版)",
+  "url": "https://xuebao.xzu.edu.cn/index/jbxx/zwb.htm",
+  "source_sheet": "可打开",
+  "source_row": 376,
+  "started_at": "2026-11-26T21:00:22+08:00",
+  "finished_at": "2026-11-26T21:00:30+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 6,
+    "artifacts": 2,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST network-policies 返回 HTTP 422"
+  ],
+  "manifest": "0375_西藏大学学报(藏文版)/manifest.json",
+  "pages": 6,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 1,
+  "pending_count": 2,
+  "pending_reasons": [
+    "browser_use_failed",
+    "no_valid_word_or_pdf"
+  ]
+}

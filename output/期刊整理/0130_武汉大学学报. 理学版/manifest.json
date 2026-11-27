@@ -1,0 +1,105 @@
+{
+  "journal": {
+    "name": "武汉大学学报. 理学版",
+    "url": "https://xblx.whu.edu.cn/",
+    "journal_id": "",
+    "row": 131,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://xblx.whu.edu.cn/zh/home/",
+  "collected_at": "2026-11-26T20:57:14+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "xblx.whu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://xblx.whu.edu.cn/zh/home/",
+      "requested_url": "https://xblx.whu.edu.cn/",
+      "title": "武汉大学学报（理学版）",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:57:14+08:00",
+      "published_at": "2026-10-29"
+    },
+    {
+      "url": "https://xblx.whu.edu.cn/zh/info/2913/",
+      "requested_url": "http://xblx.whu.edu.cn/zh/info/2913/",
+      "title": "投稿指南 - 武汉大学学报（理学版）",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:57:14+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://xblx.whu.edu.cn/newFile?columnId=721&columnName=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83&index=6&parentIndex=6&bannerId=0&code=newFile&newsDataType=news&newCompositeId=2942&childId=",
+      "requested_url": "http://xblx.whu.edu.cn/newFile?columnId=721&columnName=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83&index=6&parentIndex=6&bannerId=0&code=newFile&newsDataType=news&newCompositeId=2942&childId=",
+      "title": "下载中心",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "visited_at": "2026-11-26T20:57:14+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿指南 - 武汉大学学报（理学版）",
+      "source_url": "https://xblx.whu.edu.cn/zh/info/2913/",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "local_path": "web/投稿指南 - 武汉大学学报（理学版）_fa2ebeafa8.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "武汉大学学报. 理学版投稿格式",
+      "local_path": "武汉大学学报. 理学版投稿格式.md",
+      "source_urls": [
+        "https://xblx.whu.edu.cn/zh/info/2913/"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://xblx.whu.edu.cn/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://xblx.whu.edu.cn/",
+      "title": "武汉大学学报. 理学版",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

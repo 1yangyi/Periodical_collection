@@ -1,0 +1,52 @@
+{
+  "journal": {
+    "name": "中国森林病虫",
+    "url": "https://www.forestry.gov.cn/c/www/lcdt/589616.jhtml",
+    "journal_id": "",
+    "row": 72,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.forestry.gov.cn/c/www/lcdt/589616.jhtml",
+  "collected_at": "2026-11-26T20:48:09+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.forestry.gov.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.forestry.gov.cn/c/www/lcdt/589616.jhtml",
+      "requested_url": "https://www.forestry.gov.cn/c/www/lcdt/589616.jhtml",
+      "title": "《中国森林病虫》影响力持续提升",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:48:09+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.forestry.gov.cn/c/www/lcdt/589616.jhtml",
+      "title": "中国森林病虫",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

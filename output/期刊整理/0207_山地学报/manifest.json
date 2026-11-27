@@ -1,0 +1,85 @@
+{
+  "journal": {
+    "name": "山地学报",
+    "url": "https://www.geores.com.cn/sdxb/CN/home",
+    "journal_id": "",
+    "row": 208,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.geores.com.cn/sdxb/CN/home",
+  "collected_at": "2026-11-26T20:58:23+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.geores.com.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.geores.com.cn/sdxb/CN/home",
+      "requested_url": "https://www.geores.com.cn/sdxb/CN/home",
+      "title": "山地学报",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:58:23+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.geores.com.cn/sdxb/CN/column/column1723.shtml",
+      "requested_url": "https://www.geores.com.cn/sdxb/CN/column/column1723.shtml",
+      "title": "山地学报 | 投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:58:23+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.geores.com.cn/sdxb/CN/top_download",
+      "title": "下载排行",
+      "source_url": "https://www.geores.com.cn/sdxb/CN/column/column1723.shtml",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    },
+    {
+      "url": "https://www.geores.com.cn/sdxb/CN/home",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://www.geores.com.cn/sdxb/CN/home",
+      "title": "山地学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

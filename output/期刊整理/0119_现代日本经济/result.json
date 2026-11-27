@@ -1,0 +1,28 @@
+{
+  "index": 119,
+  "journal": "现代日本经济",
+  "url": "https://hssra.jlu.edu.cn/xsqk/xdrbjj.htm",
+  "source_sheet": "可打开",
+  "source_row": 120,
+  "started_at": "2026-11-26T20:55:52+08:00",
+  "finished_at": "2026-11-26T20:57:11+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 14,
+    "artifacts": 0,
+    "pending": 4,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0119_现代日本经济/manifest.json",
+  "pages": 14,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 5,
+  "pending_reasons": [
+    "depth_limit",
+    "no_valid_word_or_pdf"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "journal": {
+    "name": "管理案例研究与评论",
+    "url": "https://www.dutp.cn/jmcs/periodical/index.html",
+    "journal_id": "",
+    "row": 67,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.dutp.cn/jmcs/periodical/index.html",
+  "collected_at": "2026-11-26T20:47:29+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.dutp.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.dutp.cn/jmcs/periodical/index.html",
+      "requested_url": "https://www.dutp.cn/jmcs/periodical/index.html",
+      "title": "期刊 推荐",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:47:29+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.dutp.cn/jmcs/periodical/index.html",
+      "title": "管理案例研究与评论",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

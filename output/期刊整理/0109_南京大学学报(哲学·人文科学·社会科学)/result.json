@@ -1,0 +1,27 @@
+{
+  "index": 109,
+  "journal": "南京大学学报(哲学·人文科学·社会科学)",
+  "url": "https://skch.nju.edu.cn/0d/a4/c63424a789924/page.htm",
+  "source_sheet": "可打开",
+  "source_row": 110,
+  "started_at": "2026-11-26T20:54:11+08:00",
+  "finished_at": "2026-11-26T20:55:40+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 3,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0109_南京大学学报(哲学·人文科学·社会科学)/manifest.json",
+  "pages": 3,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 1,
+  "pending_reasons": [
+    "no_valid_word_or_pdf"
+  ]
+}

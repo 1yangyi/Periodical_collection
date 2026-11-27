@@ -1,0 +1,109 @@
+{
+  "journal": {
+    "name": "人文杂志",
+    "url": "http://www.rwzz177.com",
+    "journal_id": "",
+    "row": 62,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "http://www.rwzz177.com/",
+  "collected_at": "2026-11-26T20:46:57+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.rwzz177.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "http://www.rwzz177.com/",
+      "requested_url": "http://www.rwzz177.com",
+      "title": "《人文杂志》",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:46:57+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.rwzz177.com/Corp/1700.aspx",
+      "requested_url": "http://www.rwzz177.com/Corp/1700.aspx",
+      "title": "投稿须知 - 《人文杂志》",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:46:57+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.rwzz177.com/Corp/30.aspx",
+      "requested_url": "http://www.rwzz177.com/Corp/30.aspx",
+      "title": "用稿编排规范 - 《人文杂志》",
+      "path": [
+        "官网入口",
+        "用稿编排规范"
+      ],
+      "visited_at": "2026-11-26T20:46:57+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿须知 - 《人文杂志》",
+      "source_url": "http://www.rwzz177.com/Corp/1700.aspx",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "local_path": "web/投稿须知 - 《人文杂志》_7672a98e34.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "用稿编排规范 - 《人文杂志》",
+      "source_url": "http://www.rwzz177.com/Corp/30.aspx",
+      "path": [
+        "官网入口",
+        "用稿编排规范"
+      ],
+      "local_path": "web/用稿编排规范 - 《人文杂志》_c8e9fc98db.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "人文杂志投稿格式",
+      "local_path": "人文杂志投稿格式.md",
+      "source_urls": [
+        "http://www.rwzz177.com/Corp/1700.aspx",
+        "http://www.rwzz177.com/Corp/30.aspx"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "http://www.rwzz177.com",
+      "title": "人文杂志",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "index": 45,
+  "journal": "中华妇产科杂志",
+  "url": "https://www.cmaph.org/zyqk/890596.jhtml",
+  "source_sheet": "可打开",
+  "source_row": 46,
+  "started_at": "2026-11-26T20:44:27+08:00",
+  "finished_at": "2026-11-26T20:45:50+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 2,
+    "artifacts": 0,
+    "pending": 1,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0045_中华妇产科杂志/manifest.json",
+  "pages": 2,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 2,
+  "pending_reasons": [
+    "no_valid_word_or_pdf",
+    "page_fetch_failed"
+  ]
+}

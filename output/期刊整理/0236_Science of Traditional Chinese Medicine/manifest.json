@@ -1,0 +1,73 @@
+{
+  "journal": {
+    "name": "Science of Traditional Chinese Medicine",
+    "url": "https://castjournals.cast.org.cn/joweb/stcm/EN/current",
+    "journal_id": "",
+    "row": 237,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://castjournals.cast.org.cn/joweb/stcm/EN/current",
+  "collected_at": "2026-11-26T20:58:54+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "castjournals.cast.org.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://castjournals.cast.org.cn/joweb/stcm/EN/current",
+      "requested_url": "https://castjournals.cast.org.cn/joweb/stcm/EN/current",
+      "title": "Science of Traditional Chinese Medicine",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:58:54+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://castjournals.cast.org.cn/joweb/stcm/EN/file/pic?fileId=QlRdkxSQ+13ZCTmIYqg2nA==",
+      "title": "Download Cover",
+      "source_url": "https://castjournals.cast.org.cn/joweb/stcm/EN/current",
+      "path": [
+        "官网入口",
+        "Download Cover"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "跳转到未核实域名：https://kxjo.oss.bj-dx-dzqywjd-hlw-icp.inspurcloudoss.com:6063/b5cd4c3997bb457bbd06114d38f3c6f4.jpg?response-content-disposition=attachment%3B%20filename%3D%22b5cd4c3997bb457bbd06114d38f3c6f4.jpg%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20261126T125859Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Credential=NjRlNmUzOGMtM2Y3OC00MDQ3LThkMmYtN2JkODRmYmI3MTgw%2F20261126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=828caf388594a2fbad4eab536b87737157658a7575a5959d67e9de2a05b5cf04",
+      "context": "Download Cover"
+    },
+    {
+      "url": "https://castjournals.cast.org.cn/joweb/stcm/EN/current",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://castjournals.cast.org.cn/joweb/stcm/EN/current",
+      "title": "Science of Traditional Chinese Medicine",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "journal": {
+    "name": "经济学报",
+    "url": "https://tsjj.cbpt.cnki.net/portal/journal/portal/client/index",
+    "journal_id": "",
+    "row": 326,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://tsjj.cbpt.cnki.net/portal/journal/portal/client/index",
+  "collected_at": "2026-11-26T20:59:43+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "tsjj.cbpt.cnki.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://tsjj.cbpt.cnki.net/portal/journal/portal/client/index",
+      "requested_url": "https://tsjj.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "经济学报",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:43+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://tsjj.cbpt.cnki.net/portal/journal/portal/client/news/TSJJ_37afd469-828f-45e3-8425-9dbc97f6b2be",
+      "requested_url": "https://tsjj.cbpt.cnki.net/portal/journal/portal/client/news/TSJJ_37afd469-828f-45e3-8425-9dbc97f6b2be",
+      "title": "征稿简则",
+      "path": [
+        "官网入口",
+        "征稿简则"
+      ],
+      "visited_at": "2026-11-26T20:59:43+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "征稿简则",
+      "source_url": "https://tsjj.cbpt.cnki.net/portal/journal/portal/client/news/TSJJ_37afd469-828f-45e3-8425-9dbc97f6b2be",
+      "path": [
+        "官网入口",
+        "征稿简则"
+      ],
+      "local_path": "web/征稿简则_904c4d7152.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "经济学报投稿格式",
+      "local_path": "经济学报投稿格式.md",
+      "source_urls": [
+        "https://tsjj.cbpt.cnki.net/portal/journal/portal/client/news/TSJJ_37afd469-828f-45e3-8425-9dbc97f6b2be"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://tsjj.cbpt.cnki.net/portal/journal/portal/client/download/TSJJ_54253c13-816a-4cda-85b4-048f7444fa78?title=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83",
+      "title": "下载中心",
+      "source_url": "https://tsjj.cbpt.cnki.net/portal/journal/portal/client/news/TSJJ_37afd469-828f-45e3-8425-9dbc97f6b2be",
+      "path": [
+        "官网入口",
+        "征稿简则",
+        "下载中心"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载中心"
+    },
+    {
+      "url": "https://tsjj.cbpt.cnki.net/portal/journal/portal/client/download/tsjj_a1208a4f-3f9e-4faa-bb61-4904897ec273?title=%E6%96%87%E7%AB%A0%E9%99%84%E5%BD%95%E7%B4%A2%E5%BC%95",
+      "title": "文章附录索引",
+      "source_url": "https://tsjj.cbpt.cnki.net/portal/journal/portal/client/news/TSJJ_37afd469-828f-45e3-8425-9dbc97f6b2be",
+      "path": [
+        "官网入口",
+        "征稿简则",
+        "文章附录索引"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "文章附录索引"
+    },
+    {
+      "url": "https://tsjj.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://tsjj.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "经济学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

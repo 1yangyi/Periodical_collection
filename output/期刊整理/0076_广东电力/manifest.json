@@ -1,0 +1,173 @@
+{
+  "journal": {
+    "name": "广东电力",
+    "url": "https://gdsee.cn/html/kanwuchuban/224.html",
+    "journal_id": "",
+    "row": 77,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://gdsee.cn/html/kanwuchuban/224.html",
+  "collected_at": "2026-11-26T20:48:49+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "gdsee.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://gdsee.cn/html/kanwuchuban/224.html",
+      "requested_url": "https://gdsee.cn/html/kanwuchuban/224.html",
+      "title": "广东电力",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:48:49+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://gdsee.cn/html/tongzhigonggao/",
+      "requested_url": "https://gdsee.cn/html/tongzhigonggao/",
+      "title": "通知公告_广东省电机工程学会",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:48:49+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://gdsee.cn/html/tongzhigonggao/index_2.html",
+      "requested_url": "https://gdsee.cn/html/tongzhigonggao/index_2.html",
+      "title": "通知公告_第2页_广东省电机工程学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2"
+      ],
+      "visited_at": "2026-11-26T20:48:49+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://gdsee.cn/html/tongzhigonggao/index_3.html",
+      "requested_url": "https://gdsee.cn/html/tongzhigonggao/index_3.html",
+      "title": "通知公告_第3页_广东省电机工程学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "3"
+      ],
+      "visited_at": "2026-11-26T20:48:49+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://gdsee.cn/html/tongzhigonggao/index_4.html",
+      "requested_url": "https://gdsee.cn/html/tongzhigonggao/index_4.html",
+      "title": "通知公告_第4页_广东省电机工程学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "4"
+      ],
+      "visited_at": "2026-11-26T20:48:49+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://gdsee.cn/html/tongzhigonggao/index_5.html",
+      "requested_url": "https://gdsee.cn/html/tongzhigonggao/index_5.html",
+      "title": "通知公告_第5页_广东省电机工程学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "5"
+      ],
+      "visited_at": "2026-11-26T20:48:49+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://gdsee.cn/html/tongzhigonggao/index_6.html",
+      "requested_url": "https://gdsee.cn/html/tongzhigonggao/index_6.html",
+      "title": "通知公告_第6页_广东省电机工程学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "6"
+      ],
+      "visited_at": "2026-11-26T20:48:49+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://gdsee.cn/html/tongzhigonggao/index_7.html",
+      "requested_url": "https://gdsee.cn/html/tongzhigonggao/index_7.html",
+      "title": "通知公告_第7页_广东省电机工程学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "7"
+      ],
+      "visited_at": "2026-11-26T20:48:49+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://gdsee.cn/html/tongzhigonggao/index_8.html",
+      "requested_url": "https://gdsee.cn/html/tongzhigonggao/index_8.html",
+      "title": "通知公告_第8页_广东省电机工程学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "8"
+      ],
+      "visited_at": "2026-11-26T20:48:49+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://gdsee.cn/html/tongzhigonggao/index_9.html",
+      "requested_url": "https://gdsee.cn/html/tongzhigonggao/index_9.html",
+      "title": "通知公告_第9页_广东省电机工程学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "6",
+        "9"
+      ],
+      "visited_at": "2026-11-26T20:48:49+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://gdsee.cn/html/tongzhigonggao/index_10.html",
+      "requested_url": "https://gdsee.cn/html/tongzhigonggao/index_10.html",
+      "title": "通知公告_第10页_广东省电机工程学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "7",
+        "10"
+      ],
+      "visited_at": "2026-11-26T20:48:49+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://gdsee.cn/html/kanwuchuban/224.html",
+      "title": "广东电力",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

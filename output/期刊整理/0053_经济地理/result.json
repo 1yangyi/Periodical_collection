@@ -1,0 +1,29 @@
+{
+  "index": 53,
+  "journal": "经济地理",
+  "url": "https://www.jjdl.com.cn/CN/column/column141.shtml",
+  "source_sheet": "可打开",
+  "source_row": 54,
+  "started_at": "2026-11-26T20:45:50+08:00",
+  "finished_at": "2026-11-26T20:47:18+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 0,
+    "artifacts": 0,
+    "pending": 1,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0053_经济地理/manifest.json",
+  "pages": 3,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 1,
+  "pending_count": 5,
+  "pending_reasons": [
+    "needs_review",
+    "no_valid_word_or_pdf",
+    "page_fetch_failed"
+  ]
+}

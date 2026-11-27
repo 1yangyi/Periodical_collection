@@ -1,0 +1,99 @@
+{
+  "journal": {
+    "name": "语言科学",
+    "url": "https://journal15.magtechjournal.com/Jwk_yykx/CN/top_access",
+    "journal_id": "",
+    "row": 96,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "completed",
+  "homepage_resolved": "https://journal15.magtechjournal.com/Jwk_yykx/CN/top_access",
+  "collected_at": "2026-11-26T20:52:10+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "journal15.magtechjournal.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://journal15.magtechjournal.com/Jwk_yykx/CN/top_access",
+      "requested_url": "https://journal15.magtechjournal.com/Jwk_yykx/CN/top_access",
+      "title": "语言科学",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:52:10+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://journal15.magtechjournal.com/Jwk_yykx/CN/column/column6.shtml",
+      "requested_url": "https://journal15.magtechjournal.com/Jwk_yykx/CN/column/column6.shtml",
+      "title": "语言科学 投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:52:10+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "语言科学 投稿指南",
+      "source_url": "https://journal15.magtechjournal.com/Jwk_yykx/CN/column/column6.shtml",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "local_path": "web/语言科学 投稿指南_6abca54f7c.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "attachment",
+      "format": "pdf",
+      "title": "《语言科学》最新稿例（2017年）",
+      "local_path": "attachments/20170327151845_becb98b54a.pdf",
+      "sha256": "becb98b54a759a9160a44a09f70f00b2fbb9ad0f5375ae420aeb71ade18f2c36",
+      "bytes": 255561,
+      "sources": [
+        {
+          "source_url": "https://journal15.magtechjournal.com/Jwk_yykx/CN/home",
+          "download_url": "https://journal15.magtechjournal.com/Jwk_yykx/CN/item/downloadFile.do?id=21",
+          "resolved_url": "https://journal15.magtechjournal.com/Jwk_yykx/CN/item/downloadFile.do?id=21",
+          "path": [
+            "首页",
+            "下载中心",
+            "《语言科学》最新稿例（2017年）"
+          ],
+          "label": "《语言科学》最新稿例（2017年）",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "webpage_text",
+      "title": "语言科学投稿格式",
+      "local_path": "语言科学投稿格式.md",
+      "source_urls": [
+        "https://journal15.magtechjournal.com/Jwk_yykx/CN/column/column6.shtml"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": []
+}

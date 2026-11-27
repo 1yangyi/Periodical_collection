@@ -1,0 +1,61 @@
+{
+  "journal": {
+    "name": "新疆师范大学学报(哲学社会科学版)",
+    "url": "https://xbbj.xjnu.edu.cn/",
+    "journal_id": "",
+    "row": 137,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://xbbj.xjnu.edu.cn/",
+  "collected_at": "2026-11-26T20:57:25+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "xbbj.xjnu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://xbbj.xjnu.edu.cn/",
+      "requested_url": "https://xbbj.xjnu.edu.cn/",
+      "title": "期刊社“石榴花开·编坛传薪”编辑素养提升系列活动之九暨十月主题党日活动顺利举办：守正创新，深耕特色——昌吉学院学报编辑部王恩春主编一行来期刊社讲座",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:57:25+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://xbbj.xjnu.edu.cn/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://xbbj.xjnu.edu.cn/",
+      "title": "新疆师范大学学报(哲学社会科学版)",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "index": 120,
+  "journal": "华南师范大学学报.自然科学版",
+  "url": "https://journal-n.scnu.edu.cn/",
+  "source_sheet": "可打开",
+  "source_row": 121,
+  "started_at": "2026-11-26T20:55:57+08:00",
+  "finished_at": "2026-11-26T20:57:08+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 2,
+    "artifacts": 0,
+    "pending": 2,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0120_华南师范大学学报.自然科学版/manifest.json",
+  "pages": 2,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 3,
+  "pending_reasons": [
+    "needs_review",
+    "no_valid_word_or_pdf"
+  ]
+}

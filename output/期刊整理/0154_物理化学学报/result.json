@@ -1,0 +1,30 @@
+{
+  "index": 154,
+  "journal": "物理化学学报",
+  "url": "https://www.chemsoc.org.cn/a821.html",
+  "source_sheet": "可打开",
+  "source_row": 155,
+  "started_at": "2026-11-26T20:57:38+08:00",
+  "finished_at": "2026-11-26T20:57:52+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 11,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST runs 返回 HTTP 402"
+  ],
+  "manifest": "0154_物理化学学报/manifest.json",
+  "pages": 11,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 2,
+  "pending_reasons": [
+    "browser_use_failed",
+    "no_valid_word_or_pdf"
+  ]
+}

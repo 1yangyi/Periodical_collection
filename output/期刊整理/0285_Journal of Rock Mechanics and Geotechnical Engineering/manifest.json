@@ -1,0 +1,73 @@
+{
+  "journal": {
+    "name": "Journal of Rock Mechanics and Geotechnical Engineering",
+    "url": "https://castjournals.cast.org.cn/joweb/jrmge/EN/current",
+    "journal_id": "",
+    "row": 286,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://castjournals.cast.org.cn/joweb/jrmge/EN/current",
+  "collected_at": "2026-11-26T20:59:19+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "castjournals.cast.org.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://castjournals.cast.org.cn/joweb/jrmge/EN/current",
+      "requested_url": "https://castjournals.cast.org.cn/joweb/jrmge/EN/current",
+      "title": "Journal of Rock Mechanics and Geotechnical Engineering",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:19+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://castjournals.cast.org.cn/joweb/jrmge/EN/file/pic?fileId=0VIdrV1YWMwi9FY/5hmHxQ==",
+      "title": "Download Cover",
+      "source_url": "https://castjournals.cast.org.cn/joweb/jrmge/EN/current",
+      "path": [
+        "官网入口",
+        "Download Cover"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "跳转到未核实域名：https://kxjo.oss.bj-dx-dzqywjd-hlw-icp.inspurcloudoss.com:6063/d307251ea8284959919100b60db3d54e.jpg?response-content-disposition=attachment%3B%20filename%3D%22d307251ea8284959919100b60db3d54e.jpg%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20261126T125926Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Credential=NjRlNmUzOGMtM2Y3OC00MDQ3LThkMmYtN2JkODRmYmI3MTgw%2F20261126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=cc46f773761ca09023b3bd6f041c8810457a3ba9b1719c7d10a568a58f45f331",
+      "context": "Download Cover"
+    },
+    {
+      "url": "https://castjournals.cast.org.cn/joweb/jrmge/EN/current",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://castjournals.cast.org.cn/joweb/jrmge/EN/current",
+      "title": "Journal of Rock Mechanics and Geotechnical Engineering",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

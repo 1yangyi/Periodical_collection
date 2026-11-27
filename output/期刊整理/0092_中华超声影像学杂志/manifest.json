@@ -1,0 +1,52 @@
+{
+  "journal": {
+    "name": "中华超声影像学杂志",
+    "url": "https://medjournals.cn/journalContribute/getJournalInfo.do?journalId=67",
+    "journal_id": "",
+    "row": 93,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "",
+  "collected_at": "2026-11-26T20:51:39+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "medjournals.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://medjournals.cn/journalContribute/getJournalInfo.do?journalId=67",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "跳转到未核实域名：http://casmp.yiigle.com/login?service=https%3A%2F%2Fwww.medjournals.cn%2FjournalContribute%2FgetJournalInfo.do%3FjournalId%3D67&gateway=true",
+      "context": ""
+    },
+    {
+      "url": "https://medjournals.cn/journalContribute/getJournalInfo.do?journalId=67",
+      "title": "中华超声影像学杂志",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

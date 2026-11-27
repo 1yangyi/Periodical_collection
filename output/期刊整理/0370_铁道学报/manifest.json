@@ -1,0 +1,137 @@
+{
+  "journal": {
+    "name": "铁道学报",
+    "url": "http://tdxb.cbpt.cnki.net/portal/journal/portal/client/index",
+    "journal_id": "",
+    "row": 371,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "completed",
+  "homepage_resolved": "https://tdxb.cbpt.cnki.net/portal/journal/portal/client/index",
+  "collected_at": "2026-11-26T21:00:19+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "tdxb.cbpt.cnki.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://tdxb.cbpt.cnki.net/portal/journal/portal/client/index",
+      "requested_url": "http://tdxb.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "铁道学报",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:00:19+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://tdxb.cbpt.cnki.net/portal/journal/portal/client/news/TDXB_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "requested_url": "https://tdxb.cbpt.cnki.net/portal/journal/portal/client/news/TDXB_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "title": "投稿须知",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T21:00:19+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "铁道学报",
+      "source_url": "https://tdxb.cbpt.cnki.net/portal/journal/portal/client/index",
+      "path": [
+        "官网入口"
+      ],
+      "local_path": "web/铁道学报_8968875e98.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "attachment",
+      "format": "pdf",
+      "title": "2026-08-24 置顶 《铁道学报》稿件排版格式要求",
+      "local_path": "attachments/4b78f4ae-2f5c-416d-abf7-c6a1532358f8_7f12677876.pdf",
+      "sha256": "7f1267787626b042c1d9931e30bf728cc976b9a54d4b5486d7aa9c6a2cc20e0c",
+      "bytes": 137770,
+      "sources": [
+        {
+          "source_url": "https://tdxb.cbpt.cnki.net/portal/journal/portal/client/index",
+          "download_url": "https://publishmedia.cbpt.cnki.net/portal/minio/webs/Editor/2021/0115/tdxb/4b78f4ae-2f5c-416d-abf7-c6a1532358f8.pdf",
+          "resolved_url": "https://publishmedia.cbpt.cnki.net/portal/minio/webs/Editor/2021/0115/tdxb/4b78f4ae-2f5c-416d-abf7-c6a1532358f8.pdf",
+          "path": [
+            "官网入口",
+            "2026-08-24 置顶 《铁道学报》稿件排版格式要求"
+          ],
+          "label": "2026-08-24 置顶 《铁道学报》稿件排版格式要求",
+          "context": "2026-08-24 置顶 《铁道学报》稿件排版格式要求",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "attachment",
+      "format": "docx",
+      "title": "2026-08-24 置顶 参考文献著录格式要求",
+      "local_path": "attachments/d3a3d80d-c987-4af4-a404-25a08975055b_14d3cc80fd.docx",
+      "sha256": "14d3cc80fd58463ced1fb3d2c35437b534e9a35daed4c14c969933e2cd9c35aa",
+      "bytes": 22653,
+      "sources": [
+        {
+          "source_url": "https://tdxb.cbpt.cnki.net/portal/journal/portal/client/index",
+          "download_url": "https://publishmedia.cbpt.cnki.net/portal/minio/webs/Editor/2018/1206/tdxb/d3a3d80d-c987-4af4-a404-25a08975055b.docx",
+          "resolved_url": "https://publishmedia.cbpt.cnki.net/portal/minio/webs/Editor/2018/1206/tdxb/d3a3d80d-c987-4af4-a404-25a08975055b.docx",
+          "path": [
+            "官网入口",
+            "2026-08-24 置顶 参考文献著录格式要求"
+          ],
+          "label": "2026-08-24 置顶 参考文献著录格式要求",
+          "context": "2026-08-24 置顶 参考文献著录格式要求",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "webpage",
+      "title": "投稿须知",
+      "source_url": "https://tdxb.cbpt.cnki.net/portal/journal/portal/client/news/TDXB_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "local_path": "web/投稿须知_1c43c6f7ca.html",
+      "status": "saved",
+      "published_at": ""
+    }
+  ],
+  "pending": [
+    {
+      "url": "http://cbimg.cnki.net/Editor/2018/1206/tdxb/596bb94c-e367-4302-aca2-1bfb987de4fe.docx",
+      "title": "请下载投稿须知.docx",
+      "source_url": "https://tdxb.cbpt.cnki.net/portal/journal/portal/client/news/TDXB_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "请下载投稿须知.docx"
+      ],
+      "reason": "invalid_or_failed_attachment",
+      "detail": "418 Client Error: I'm a Teapot for url: http://cbimg.cnki.net/Editor/2018/1206/tdxb/596bb94c-e367-4302-aca2-1bfb987de4fe.docx",
+      "context": "请下载投稿须知.docx"
+    }
+  ]
+}

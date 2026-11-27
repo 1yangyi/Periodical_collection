@@ -1,0 +1,63 @@
+{
+  "journal": {
+    "name": "信号处理",
+    "url": "https://signal.ejournal.org.cn/",
+    "journal_id": "",
+    "row": 27,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://signal.ejournal.org.cn/",
+  "collected_at": "2026-11-26T20:41:27+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "signal.ejournal.org.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://signal.ejournal.org.cn/",
+      "requested_url": "https://signal.ejournal.org.cn/",
+      "title": "导出文件",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:41:27+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://signal.ejournal.org.cn/tougaozhinan",
+      "requested_url": "https://signal.ejournal.org.cn/tougaozhinan",
+      "title": "投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:41:27+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://signal.ejournal.org.cn/",
+      "title": "信号处理",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

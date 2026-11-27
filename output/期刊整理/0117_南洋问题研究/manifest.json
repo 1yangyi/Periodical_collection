@@ -1,0 +1,150 @@
+{
+  "journal": {
+    "name": "南洋问题研究",
+    "url": "https://nanyang.xmu.edu.cn/jdqk/_nywtyj_.htm",
+    "journal_id": "",
+    "row": 118,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://nanyang.xmu.edu.cn/jdqk/_nywtyj_.htm",
+  "collected_at": "2026-11-26T20:55:35+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "nanyang.xmu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://nanyang.xmu.edu.cn/jdqk/_nywtyj_.htm",
+      "requested_url": "https://nanyang.xmu.edu.cn/jdqk/_nywtyj_.htm",
+      "title": "《南洋问题研究》-厦门大学东南亚研究中心",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:55:35+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://nanyang.xmu.edu.cn/jxyd/xzzq.htm",
+      "requested_url": "https://nanyang.xmu.edu.cn/jxyd/xzzq.htm",
+      "title": "下载专区-厦门大学东南亚研究中心",
+      "path": [
+        "官网入口",
+        "下载专区"
+      ],
+      "visited_at": "2026-11-26T20:55:35+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://nanyang.xmu.edu.cn/xsyd/xzzq.htm",
+      "requested_url": "https://nanyang.xmu.edu.cn/xsyd/xzzq.htm",
+      "title": "下载专区-厦门大学东南亚研究中心",
+      "path": [
+        "官网入口",
+        "下载专区"
+      ],
+      "visited_at": "2026-11-26T20:55:35+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://nanyang.xmu.edu.cn/xsyd/xzzq/2.htm",
+      "requested_url": "https://nanyang.xmu.edu.cn/xsyd/xzzq/2.htm",
+      "title": "下载专区-厦门大学东南亚研究中心",
+      "path": [
+        "官网入口",
+        "下载专区",
+        "2"
+      ],
+      "visited_at": "2026-11-26T20:55:35+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://nanyang.xmu.edu.cn/info/1034/1765.htm",
+      "requested_url": "https://nanyang.xmu.edu.cn/info/1034/1765.htm",
+      "title": "学位论文原创性声明、使用说明及论文规范格式-厦门大学东南亚研究中心",
+      "path": [
+        "官网入口",
+        "下载专区",
+        "2",
+        "学位论文原创性声明、使用说明及论文规范格式"
+      ],
+      "visited_at": "2026-11-26T20:55:35+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://nanyang.xmu.edu.cn/xsyd/xzzq/1.htm",
+      "requested_url": "https://nanyang.xmu.edu.cn/xsyd/xzzq/1.htm",
+      "title": "下载专区-厦门大学东南亚研究中心",
+      "path": [
+        "官网入口",
+        "下载专区",
+        "3"
+      ],
+      "visited_at": "2026-11-26T20:55:35+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "学位论文原创性声明、使用说明及论文规范格式-厦门大学东南亚研究中心",
+      "source_url": "https://nanyang.xmu.edu.cn/info/1034/1765.htm",
+      "path": [
+        "官网入口",
+        "下载专区",
+        "2",
+        "学位论文原创性声明、使用说明及论文规范格式"
+      ],
+      "local_path": "web/学位论文原创性声明、使用说明及论文规范格式-厦门大学东南亚研究中心_eb9fcc9989.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "南洋问题研究投稿格式",
+      "local_path": "南洋问题研究投稿格式.md",
+      "source_urls": [
+        "https://nanyang.xmu.edu.cn/info/1034/1765.htm"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://nanyang.xmu.edu.cn/_vsl/B189B1A9B2696EE82BF1E1836CD951AC/92A20726/C200?e=.doc",
+      "title": "厦门大学研究生学位论文规范.doc",
+      "source_url": "https://nanyang.xmu.edu.cn/info/1034/1765.htm",
+      "path": [
+        "官网入口",
+        "下载专区",
+        "2",
+        "学位论文原创性声明、使用说明及论文规范格式",
+        "厦门大学研究生学位论文规范.doc"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "附件3： 厦门大学研究生学位论文规范.doc"
+    },
+    {
+      "url": "https://nanyang.xmu.edu.cn/jdqk/_nywtyj_.htm",
+      "title": "南洋问题研究",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

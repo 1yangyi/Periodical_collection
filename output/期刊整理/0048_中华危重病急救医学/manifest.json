@@ -1,0 +1,91 @@
+{
+  "journal": {
+    "name": "中华危重病急救医学",
+    "url": "https://zhwzbjjyx.yiigle.com/about.jhtml",
+    "journal_id": "",
+    "row": 49,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "completed",
+  "homepage_resolved": "https://zhwzbjjyx.yiigle.com/about.jhtml",
+  "collected_at": "2026-11-26T20:44:57+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "zhwzbjjyx.yiigle.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://zhwzbjjyx.yiigle.com/about.jhtml",
+      "requested_url": "https://zhwzbjjyx.yiigle.com/about.jhtml",
+      "title": "关于我们 - 中华危重病急救医学",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:44:57+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "attachment",
+      "format": "docx",
+      "title": "中华医学会系列杂志论文投稿介绍信",
+      "local_path": "attachments/11094400ao0u_86df12ee60.docx",
+      "sha256": "86df12ee60b2641b0f4c78e370fbad4eb21494b1ffc83a6dea0c88003c0e98b7",
+      "bytes": 21729,
+      "sources": [
+        {
+          "source_url": "https://zhwzbjjyx.yiigle.com/about.jhtml",
+          "download_url": "https://zhwzbjjyx.yiigle.com/downloadusource.jspx?u=/u/cms/zgwzbjjyx/202605/11094400ao0u.docx",
+          "resolved_url": "https://zhwzbjjyx.yiigle.com/downloadusource.jspx?u=/u/cms/zgwzbjjyx/202605/11094400ao0u.docx",
+          "path": [
+            "关于我们",
+            "中华医学会系列杂志论文投稿介绍信"
+          ],
+          "label": "中华医学会系列杂志论文投稿介绍信",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://zhwzbjjyx.yiigle.com/author/596297.jhtml",
+      "title": "稿约",
+      "source_url": "https://zhwzbjjyx.yiigle.com/about.jhtml",
+      "path": [
+        "关于我们",
+        "稿约"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "跳转到未核实域名：https://casmp.yiigle.com/login?service=https%3A%2F%2Fzhwzbjjyx.yiigle.com%3A%2Fauthor%2F596297.jhtml&gateway=true&loginUrl=%2F",
+      "context": ""
+    },
+    {
+      "url": "https://zhwzbjjyx.yiigle.com/author/495113.jhtml",
+      "title": "中华医学会系列杂志论文授权书",
+      "source_url": "https://zhwzbjjyx.yiigle.com/about.jhtml",
+      "path": [
+        "关于我们",
+        "中华医学会系列杂志论文授权书"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "跳转到未核实域名：https://casmp.yiigle.com/login?service=https%3A%2F%2Fzhwzbjjyx.yiigle.com%3A%2Fauthor%2F495113.jhtml&gateway=true&loginUrl=%2F",
+      "context": ""
+    }
+  ]
+}

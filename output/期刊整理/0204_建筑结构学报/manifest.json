@@ -1,0 +1,461 @@
+{
+  "journal": {
+    "name": "建筑结构学报",
+    "url": "https://www.chinaasc.org.cn/news/86643.html",
+    "journal_id": "",
+    "row": 205,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.chinaasc.org.cn/news/86643.html",
+  "collected_at": "2026-11-26T20:58:21+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.chinaasc.org.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.chinaasc.org.cn/news/86643.html",
+      "requested_url": "https://www.chinaasc.org.cn/news/86643.html",
+      "title": "建筑结构学报",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:58:21+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/tongzhigonggao/",
+      "requested_url": "http://www.chinaasc.org.cn/news/tongzhigonggao/",
+      "title": "新闻动态 / 通知公告_中国建筑学会",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:58:21+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_2.html",
+      "requested_url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_2.html",
+      "title": "新闻动态 / 通知公告_中国建筑学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2"
+      ],
+      "visited_at": "2026-11-26T20:58:21+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_3.html",
+      "requested_url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_3.html",
+      "title": "新闻动态 / 通知公告_中国建筑学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "3"
+      ],
+      "visited_at": "2026-11-26T20:58:21+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_4.html",
+      "requested_url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_4.html",
+      "title": "新闻动态 / 通知公告_中国建筑学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "4"
+      ],
+      "visited_at": "2026-11-26T20:58:21+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_5.html",
+      "requested_url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_5.html",
+      "title": "新闻动态 / 通知公告_中国建筑学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "5"
+      ],
+      "visited_at": "2026-11-26T20:58:21+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_6.html",
+      "requested_url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_6.html",
+      "title": "新闻动态 / 通知公告_中国建筑学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "6"
+      ],
+      "visited_at": "2026-11-26T20:58:21+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/129477.html",
+      "requested_url": "http://www.chinaasc.org.cn/news/129477.html",
+      "title": "《乌鲁木齐市红山中心区实施性城市设计》国际方案征集公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "6",
+        "《乌鲁木齐市红山中心区实施性城市设计》国际方案征集公告 发布时间：2025-05-07 08:29:24 《乌鲁木齐市红山中心区实施性城市设计》国际方案征集公告 Announcement on International Solicitation for Implementation-Oriented Urban Design for Hongshan Central District of Urumqi 中国城市规划学会（组织单位）受乌鲁木齐市自然资源局（主办单位）委托，面..."
+      ],
+      "visited_at": "2026-11-26T20:58:21+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_7.html",
+      "requested_url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_7.html",
+      "title": "新闻动态 / 通知公告_中国建筑学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "7"
+      ],
+      "visited_at": "2026-11-26T20:58:21+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_8.html",
+      "requested_url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_8.html",
+      "title": "新闻动态 / 通知公告_中国建筑学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "8"
+      ],
+      "visited_at": "2026-11-26T20:58:21+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_9.html",
+      "requested_url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_9.html",
+      "title": "新闻动态 / 通知公告_中国建筑学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "9"
+      ],
+      "visited_at": "2026-11-26T20:58:21+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_10.html",
+      "requested_url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_10.html",
+      "title": "新闻动态 / 通知公告_中国建筑学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "10"
+      ],
+      "visited_at": "2026-11-26T20:58:21+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/129154.html",
+      "requested_url": "http://www.chinaasc.org.cn/news/129154.html",
+      "title": "义乌（苏溪）国际枢纽港规划与重点地段城市设计国际方案征集公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "10",
+        "义乌（苏溪）国际枢纽港规划与重点地段城市设计国际方案征集公告 发布时间：2024-03-19 12:56:20 义乌（苏溪）国际枢纽港规划与重点地段城市设计国际方案征集公告 Announcement of International Solicitation for Planning and Key Area Urban Design of Yiwu (Suxi) International Hub Port 中国城市规划学会（组织策划单位）受义乌自由贸易发展区管理委员会、义乌..."
+      ],
+      "visited_at": "2026-11-26T20:58:21+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_11.html",
+      "requested_url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_11.html",
+      "title": "新闻动态 / 通知公告_中国建筑学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "11"
+      ],
+      "visited_at": "2026-11-26T20:58:21+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_1.html",
+      "requested_url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_1.html",
+      "title": "新闻动态 / 通知公告_中国建筑学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2",
+        "1"
+      ],
+      "visited_at": "2026-11-26T20:58:21+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_12.html",
+      "requested_url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_12.html",
+      "title": "新闻动态 / 通知公告_中国建筑学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "11",
+        "12"
+      ],
+      "visited_at": "2026-11-26T20:58:21+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_13.html",
+      "requested_url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_13.html",
+      "title": "新闻动态 / 通知公告_中国建筑学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "11",
+        "13"
+      ],
+      "visited_at": "2026-11-26T20:58:21+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_14.html",
+      "requested_url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_14.html",
+      "title": "新闻动态 / 通知公告_中国建筑学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "11",
+        "14"
+      ],
+      "visited_at": "2026-11-26T20:58:21+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_15.html",
+      "requested_url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_15.html",
+      "title": "新闻动态 / 通知公告_中国建筑学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "11",
+        "15"
+      ],
+      "visited_at": "2026-11-26T20:58:21+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_16.html",
+      "requested_url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_16.html",
+      "title": "新闻动态 / 通知公告_中国建筑学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "11",
+        "16"
+      ],
+      "visited_at": "2026-11-26T20:58:21+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.planning.org.cn/uploads/ueditor/php/upload/file/20250429/1745921205154920.docx",
+      "title": "《乌鲁木齐市红山中心区实施性城市设计》国际方案征集应征机构申请表.docx",
+      "source_url": "http://www.chinaasc.org.cn/news/129477.html",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "6",
+        "《乌鲁木齐市红山中心区实施性城市设计》国际方案征集公告 发布时间：2025-05-07 08:29:24 《乌鲁木齐市红山中心区实施性城市设计》国际方案征集公告 Announcement on International Solicitation for Implementation-Oriented Urban Design for Hongshan Central District of Urumqi 中国城市规划学会（组织单位）受乌鲁木齐市自然资源局（主办单位）委托，面...",
+        "《乌鲁木齐市红山中心区实施性城市设计》国际方案征集应征机构申请表.docx"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "《乌鲁木齐市红山中心区实施性城市设计》国际方案征集应征机构申请表.docx"
+    },
+    {
+      "url": "https://www.planning.org.cn/uploads/ueditor/php/upload/file/20250429/1745921442591280.zip",
+      "title": "附图.zip",
+      "source_url": "http://www.chinaasc.org.cn/news/129477.html",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "6",
+        "《乌鲁木齐市红山中心区实施性城市设计》国际方案征集公告 发布时间：2025-05-07 08:29:24 《乌鲁木齐市红山中心区实施性城市设计》国际方案征集公告 Announcement on International Solicitation for Implementation-Oriented Urban Design for Hongshan Central District of Urumqi 中国城市规划学会（组织单位）受乌鲁木齐市自然资源局（主办单位）委托，面...",
+        "附图.zip"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "附图.zip"
+    },
+    {
+      "url": "http://www.planning.org.cn/uploads/ueditor/php/upload/file/20240318/1710765395647873.docx",
+      "title": "应征机构申请表.docx",
+      "source_url": "http://www.chinaasc.org.cn/news/129154.html",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "10",
+        "义乌（苏溪）国际枢纽港规划与重点地段城市设计国际方案征集公告 发布时间：2024-03-19 12:56:20 义乌（苏溪）国际枢纽港规划与重点地段城市设计国际方案征集公告 Announcement of International Solicitation for Planning and Key Area Urban Design of Yiwu (Suxi) International Hub Port 中国城市规划学会（组织策划单位）受义乌自由贸易发展区管理委员会、义乌...",
+        "应征机构申请表.docx"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "1. 应征机构申请表.docx"
+    },
+    {
+      "url": "http://www.planning.org.cn/uploads/ueditor/php/upload/file/20240318/1710765530659796.docx",
+      "title": "附图.docx",
+      "source_url": "http://www.chinaasc.org.cn/news/129154.html",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "10",
+        "义乌（苏溪）国际枢纽港规划与重点地段城市设计国际方案征集公告 发布时间：2024-03-19 12:56:20 义乌（苏溪）国际枢纽港规划与重点地段城市设计国际方案征集公告 Announcement of International Solicitation for Planning and Key Area Urban Design of Yiwu (Suxi) International Hub Port 中国城市规划学会（组织策划单位）受义乌自由贸易发展区管理委员会、义乌...",
+        "附图.docx"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "2. 附图.docx"
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/129049.html",
+      "title": "《义乌市双江湖新区概念规划及城市设计》国际方案征集公告 发布时间：2023-07-25 20:33:08 《义乌市双江湖新区概念规划及城市设计》 国际方案征集公告 Announcement on International Solicitation for Conceptual Planning and Urban Design of Shuangjiang Lake New Area in Yiwu 中国城市规划学会（组织策划单位）受义乌市自然资源和规划局、义乌市双江湖新...",
+      "source_url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_12.html",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "11",
+        "12",
+        "《义乌市双江湖新区概念规划及城市设计》国际方案征集公告 发布时间：2023-07-25 20:33:08 《义乌市双江湖新区概念规划及城市设计》 国际方案征集公告 Announcement on International Solicitation for Conceptual Planning and Urban Design of Shuangjiang Lake New Area in Yiwu 中国城市规划学会（组织策划单位）受义乌市自然资源和规划局、义乌市双江湖新..."
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "《义乌市双江湖新区概念规划及城市设计》国际方案征集公告 发布时间：2023-07-25 20:33:08 《义乌市双江湖新区概念规划及城市设计》 国际方案征集公告 Announcement on International Solicitation for Conceptual Planning and Urban Design of Shuangjiang Lake New Area in Yiwu 中国城市规划学会（组织策划单位）受义乌市自然资源和规划局、义乌市双江湖新..."
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/128940.html",
+      "title": "衢江区姑蔑古国考古遗址公园博物馆和展示馆概念性建筑设计方案国际征集公告 发布时间：2022-09-24 18:36:06 衢江区姑蔑古国考古遗址公园博物馆和展示馆概念性建筑设计方案国际征集公告 Announcement on International Collection of Conceptual Architectural Design Schemes for Museum and Exhibition Hall of Archaeological Site Park of Gumie in Qujiang 项目背景 1.Proje...",
+      "source_url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_15.html",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "11",
+        "15",
+        "衢江区姑蔑古国考古遗址公园博物馆和展示馆概念性建筑设计方案国际征集公告 发布时间：2022-09-24 18:36:06 衢江区姑蔑古国考古遗址公园博物馆和展示馆概念性建筑设计方案国际征集公告 Announcement on International Collection of Conceptual Architectural Design Schemes for Museum and Exhibition Hall of Archaeological Site Park of Gumie in Qujiang 项目背景 1.Proje..."
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "衢江区姑蔑古国考古遗址公园博物馆和展示馆概念性建筑设计方案国际征集公告 发布时间：2022-09-24 18:36:06 衢江区姑蔑古国考古遗址公园博物馆和展示馆概念性建筑设计方案国际征集公告 Announcement on International Collection of Conceptual Architectural Design Schemes for Museum and Exhibition Hall of Archaeological Site Park of Gumie in Qujiang 项目背景 1.Proje..."
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_17.html",
+      "title": "17",
+      "source_url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_12.html",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "11",
+        "12",
+        "17"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "17"
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_18.html",
+      "title": "18",
+      "source_url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_13.html",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "11",
+        "13",
+        "18"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "18"
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_19.html",
+      "title": "19",
+      "source_url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_14.html",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "11",
+        "14",
+        "19"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "19"
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_20.html",
+      "title": "20",
+      "source_url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_15.html",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "11",
+        "15",
+        "20"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "20"
+    },
+    {
+      "url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_21.html",
+      "title": "21",
+      "source_url": "http://www.chinaasc.org.cn/news/tongzhigonggao/list_127_16.html",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "11",
+        "16",
+        "21"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "21"
+    },
+    {
+      "url": "https://www.chinaasc.org.cn/news/86643.html",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://www.chinaasc.org.cn/news/86643.html",
+      "title": "建筑结构学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

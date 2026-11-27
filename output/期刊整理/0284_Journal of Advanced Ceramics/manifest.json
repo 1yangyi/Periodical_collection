@@ -1,0 +1,95 @@
+{
+  "journal": {
+    "name": "Journal of Advanced Ceramics",
+    "url": "https://www.sciopen.com/journal/2226-4108",
+    "journal_id": "",
+    "row": 285,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.sciopen.com/journal/2226-4108",
+  "collected_at": "2026-11-26T20:59:18+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.sciopen.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.sciopen.com/journal/2226-4108",
+      "requested_url": "https://www.sciopen.com/journal/2226-4108",
+      "title": "Journal of Advanced Ceramics | SciOpen",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:18+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1396776045425197058&issn=2226-4108",
+      "requested_url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1396776045425197058&issn=2226-4108",
+      "title": "Submission Guidelines - SciOpen",
+      "path": [
+        "官网入口",
+        "Submission Guidelines"
+      ],
+      "visited_at": "2026-11-26T20:59:18+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.sciopen.com/journal/2226-4108",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1396776045425197058&issn=2226-4108",
+      "title": "Submission Guidelines",
+      "source_url": "https://www.sciopen.com/journal/2226-4108",
+      "path": [
+        "官网入口",
+        "Submission Guidelines"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": "Submission Guidelines Submit Manuscript"
+    },
+    {
+      "url": "https://www.sciopen.com/journal/2226-4108",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://www.sciopen.com/journal/2226-4108",
+      "title": "Journal of Advanced Ceramics",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

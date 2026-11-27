@@ -1,0 +1,85 @@
+{
+  "journal": {
+    "name": "口腔医学研究",
+    "url": "https://www.cndent.com/archives/76449",
+    "journal_id": "",
+    "row": 152,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.cndent.com/archives/76449",
+  "collected_at": "2026-11-26T20:57:37+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.cndent.com",
+      "www.kqyxyj.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.cndent.com/archives/76449",
+      "requested_url": "https://www.cndent.com/archives/76449",
+      "title": "口腔医学研究",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:57:37+08:00",
+      "published_at": "2020-12-16"
+    },
+    {
+      "url": "https://www.cndent.com/archives/category/%E5%8F%A3%E8%85%94%E8%B5%84%E8%AE%AF/%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A",
+      "requested_url": "https://www.cndent.com/archives/category/%e5%8f%a3%e8%85%94%e8%b5%84%e8%ae%af/%e9%80%9a%e7%9f%a5%e5%85%ac%e5%91%8a",
+      "title": "中华口腔医学会",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:57:37+08:00",
+      "published_at": "2026-11-25"
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "http://www.kqyxyj.com/",
+      "title": "www.kqyxyj.com",
+      "source_url": "https://www.cndent.com/archives/76449",
+      "path": [
+        "官网入口",
+        "www.kqyxyj.com"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "跳转到未核实域名：http://manu45.magtech.com.cn/Jwk_kqyxyj/",
+      "context": "期刊网址： www.kqyxyj.com"
+    },
+    {
+      "url": "https://www.cndent.com/archives/76449",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://www.cndent.com/archives/76449",
+      "title": "口腔医学研究",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

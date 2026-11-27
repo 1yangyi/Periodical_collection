@@ -1,0 +1,94 @@
+{
+  "journal": {
+    "name": "光谱学与光谱分析",
+    "url": "https://w.opticsjournal.net/J/gpxygpfx/Issues.html",
+    "journal_id": "",
+    "row": 427,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://w.opticsjournal.net/J/gpxygpfx/Issues.html",
+  "collected_at": "2026-11-26T21:01:22+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "w.opticsjournal.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://w.opticsjournal.net/J/gpxygpfx/Issues.html",
+      "requested_url": "https://w.opticsjournal.net/J/gpxygpfx/Issues.html",
+      "title": "安全提示",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:01:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://w.opticsjournal.net/journal/gpxygpfx/news/pt21111900038x4a7d.cshtml",
+      "requested_url": "https://w.opticsjournal.net/journal/gpxygpfx/news/pt21111900038x4a7d.cshtml",
+      "title": "投稿须知",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T21:01:22+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿须知",
+      "source_url": "https://w.opticsjournal.net/journal/gpxygpfx/news/pt21111900038x4a7d.cshtml",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "local_path": "web/投稿须知_be3d8ca636.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "光谱学与光谱分析投稿格式",
+      "local_path": "光谱学与光谱分析投稿格式.md",
+      "source_urls": [
+        "https://w.opticsjournal.net/journal/gpxygpfx/news/pt21111900038x4a7d.cshtml"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://w.opticsjournal.net/J/gpxygpfx/Issues.html",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://w.opticsjournal.net/J/gpxygpfx/Issues.html",
+      "title": "光谱学与光谱分析",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

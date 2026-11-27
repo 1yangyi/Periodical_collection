@@ -1,0 +1,28 @@
+{
+  "index": 101,
+  "journal": "Asian Journal of Urology",
+  "url": "https://kyy.tongji.edu.cn/info/1148/2862.htm",
+  "source_sheet": "可打开",
+  "source_row": 102,
+  "started_at": "2026-11-26T20:53:19+08:00",
+  "finished_at": "2026-11-26T20:54:27+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 0,
+    "artifacts": 0,
+    "pending": 1,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0101_Asian Journal of Urology/manifest.json",
+  "pages": 0,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 2,
+  "pending_reasons": [
+    "no_valid_word_or_pdf",
+    "page_fetch_failed"
+  ]
+}

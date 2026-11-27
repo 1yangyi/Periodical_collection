@@ -1,0 +1,87 @@
+{
+  "journal": {
+    "name": "上海经济研究",
+    "url": "https://ie.sass.org.cn/2016/0121/c2029a84360/page.htm",
+    "journal_id": "",
+    "row": 357,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://ie.sass.org.cn/2016/0121/c2029a84360/page.htm",
+  "collected_at": "2026-11-26T21:00:06+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "ie.sass.org.cn",
+      "www.sh-erj.org",
+      "www.zgqkwh.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://ie.sass.org.cn/2016/0121/c2029a84360/page.htm",
+      "requested_url": "https://ie.sass.org.cn/2016/0121/c2029a84360/page.htm",
+      "title": "《上海经济研究》投稿声明公告",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:00:06+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "http://www.zgqkwh.com/index.phps=/index/view/id/3477.html",
+      "title": "http://www.zgqkwh.com/index.phps=/index/view/id/3477.html",
+      "source_url": "https://ie.sass.org.cn/2016/0121/c2029a84360/page.htm",
+      "path": [
+        "官网入口",
+        "http://www.zgqkwh.com/index.phps=/index/view/id/3477.html"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "HTTPConnectionPool(host='www.zgqkwh.com', port=80): Max retries exceeded with url: /index.phps=/index/view/id/3477.html (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
+      "context": "近日百度搜索引擎上出现一个盗版上海经济研究投稿系统的网站，名为期刊文汇网上海经济研究，网址： http://www.zgqkwh.com/index.phps=/index/view/id/3477.html 。该网站完全是子虚乌有，相关信息漏洞百出，并非《上海经济研究》期刊授权的正规网站。敬请广大作者务必小心谨慎以免上当受骗。 如投稿请登陆官方网站：上海经济研究投审稿系统 http://www.sh-erj.org/ 。"
+    },
+    {
+      "url": "http://www.sh-erj.org/",
+      "title": "http://www.sh-erj.org/",
+      "source_url": "https://ie.sass.org.cn/2016/0121/c2029a84360/page.htm",
+      "path": [
+        "官网入口",
+        "http://www.sh-erj.org/"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "456 Client Error:  for url: http://www.sh-erj.org/",
+      "context": "近日百度搜索引擎上出现一个盗版上海经济研究投稿系统的网站，名为期刊文汇网上海经济研究，网址： http://www.zgqkwh.com/index.phps=/index/view/id/3477.html 。该网站完全是子虚乌有，相关信息漏洞百出，并非《上海经济研究》期刊授权的正规网站。敬请广大作者务必小心谨慎以免上当受骗。 如投稿请登陆官方网站：上海经济研究投审稿系统 http://www.sh-erj.org/ 。"
+    },
+    {
+      "url": "https://ie.sass.org.cn/2016/0121/c2029a84360/page.htm",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://ie.sass.org.cn/2016/0121/c2029a84360/page.htm",
+      "title": "上海经济研究",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

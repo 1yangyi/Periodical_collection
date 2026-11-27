@@ -1,0 +1,94 @@
+{
+  "journal": {
+    "name": "固体火箭技术",
+    "url": "https://gthjjs.spacejournal.cn/",
+    "journal_id": "",
+    "row": 201,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://gthjjs.spacejournal.cn/",
+  "collected_at": "2026-11-26T20:58:15+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "gthjjs.spacejournal.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://gthjjs.spacejournal.cn/",
+      "requested_url": "https://gthjjs.spacejournal.cn/",
+      "title": "导出文件",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:58:15+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://gthjjs.spacejournal.cn/submission-guidelines",
+      "requested_url": "https://gthjjs.spacejournal.cn/submission-guidelines",
+      "title": "投稿须知",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:58:15+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://gthjjs.spacejournal.cn/writing-requirements",
+      "requested_url": "https://gthjjs.spacejournal.cn/writing-requirements",
+      "title": "写作要求",
+      "path": [
+        "官网入口",
+        "写作要求"
+      ],
+      "visited_at": "2026-11-26T20:58:15+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://gthjjs.spacejournal.cn/download-center",
+      "requested_url": "https://gthjjs.spacejournal.cn/download-center",
+      "title": "导出文件",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "visited_at": "2026-11-26T20:58:15+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://gthjjs.spacejournal.cn/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://gthjjs.spacejournal.cn/",
+      "title": "固体火箭技术",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

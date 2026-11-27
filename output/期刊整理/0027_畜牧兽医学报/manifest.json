@@ -1,0 +1,52 @@
+{
+  "journal": {
+    "name": "畜牧兽医学报",
+    "url": "https://ias.caas.cn/qklm/xsqk/b854342fe47f4fb0bc0127e48f0bc47f.htm",
+    "journal_id": "",
+    "row": 28,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://ias.caas.cn/qklm/xsqk/b854342fe47f4fb0bc0127e48f0bc47f.htm",
+  "collected_at": "2026-11-26T20:41:34+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "ias.caas.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://ias.caas.cn/qklm/xsqk/b854342fe47f4fb0bc0127e48f0bc47f.htm",
+      "requested_url": "https://ias.caas.cn/qklm/xsqk/b854342fe47f4fb0bc0127e48f0bc47f.htm",
+      "title": "畜牧兽医学报-学术期刊-北京畜牧兽医研究所",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:41:34+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://ias.caas.cn/qklm/xsqk/b854342fe47f4fb0bc0127e48f0bc47f.htm",
+      "title": "畜牧兽医学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

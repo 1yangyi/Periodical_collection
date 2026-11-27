@@ -1,0 +1,213 @@
+{
+  "journal": {
+    "name": "北京社会科学",
+    "url": "https://tg.bass.org.cn/CN/news/folder.do?folderId=1",
+    "journal_id": "",
+    "row": 64,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://tg.bass.org.cn/CN/news/folder.do?folderId=1",
+  "collected_at": "2026-11-26T20:47:18+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "tg.bass.org.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://tg.bass.org.cn/CN/news/folder.do?folderId=1",
+      "requested_url": "https://tg.bass.org.cn/CN/news/folder.do?folderId=1",
+      "title": "“纪念中国工农红军长征胜利90周年暨深入学习贯彻党的二十届五中全会精神,奋力谱写美丽中国建设贵州篇章”学术研讨会成功举办",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:47:18+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://tg.bass.org.cn/CN/column/column6.shtml",
+      "requested_url": "https://tg.bass.org.cn/CN/column/column6.shtml",
+      "title": "北京社会科学 投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:47:18+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://tg.bass.org.cn/CN/news/folder.do?folderId=3",
+      "requested_url": "https://tg.bass.org.cn/CN/news/folder.do?folderId=3",
+      "title": "征稿启事 | 《北京社会科学》“研究阐释党的二十届四中全会精神”专题",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "更多"
+      ],
+      "visited_at": "2026-11-26T20:47:18+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://tg.bass.org.cn/CN/news/news97.shtml",
+      "requested_url": "https://tg.bass.org.cn/CN/news/news97.shtml",
+      "title": "下载中心",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "更多",
+        "09 2025-11 征稿启事 | 《北京社会科学》“研究阐释党的二十届四中全会精神”专题"
+      ],
+      "visited_at": "2026-11-26T20:47:18+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://tg.bass.org.cn/CN/column/7/items",
+      "requested_url": "https://tg.bass.org.cn/CN/column/7/items",
+      "title": "下载中心",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "更多"
+      ],
+      "visited_at": "2026-11-26T20:47:18+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://tg.bass.org.cn/CN/column/10/items",
+      "requested_url": "https://tg.bass.org.cn/CN/column/10/items",
+      "title": "下载中心",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "更多"
+      ],
+      "visited_at": "2026-11-26T20:47:18+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "北京社会科学 投稿指南",
+      "source_url": "https://tg.bass.org.cn/CN/column/column6.shtml",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "local_path": "web/北京社会科学 投稿指南_07580af13b.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "北京社会科学投稿格式",
+      "local_path": "北京社会科学投稿格式.md",
+      "source_urls": [
+        "https://tg.bass.org.cn/CN/column/column6.shtml"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://tg.bass.org.cn/CN/top_download",
+      "title": "下载排行",
+      "source_url": "https://tg.bass.org.cn/CN/column/column6.shtml",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    },
+    {
+      "url": "https://tg.bass.org.cn/CN/top_download",
+      "title": "下载排行",
+      "source_url": "https://tg.bass.org.cn/CN/news/folder.do?folderId=3",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "更多",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    },
+    {
+      "url": "https://tg.bass.org.cn/CN/top_download",
+      "title": "下载排行",
+      "source_url": "https://tg.bass.org.cn/CN/news/news97.shtml",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "更多",
+        "09 2025-11 征稿启事 | 《北京社会科学》“研究阐释党的二十届四中全会精神”专题",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    },
+    {
+      "url": "https://tg.bass.org.cn/CN/top_download",
+      "title": "下载排行",
+      "source_url": "https://tg.bass.org.cn/CN/column/7/items",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "更多",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    },
+    {
+      "url": "https://tg.bass.org.cn/CN/top_download",
+      "title": "下载排行",
+      "source_url": "https://tg.bass.org.cn/CN/column/10/items",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "更多",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    },
+    {
+      "url": "https://tg.bass.org.cn/CN/news/folder.do?folderId=1",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "HTTPSConnectionPool(host='api.browser-use.com', port=443): Read timed out. (read timeout=1.6445612080000274)",
+      "context": ""
+    },
+    {
+      "url": "https://tg.bass.org.cn/CN/news/folder.do?folderId=1",
+      "title": "北京社会科学",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

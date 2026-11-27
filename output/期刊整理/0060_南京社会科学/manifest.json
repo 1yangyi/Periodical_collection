@@ -1,0 +1,52 @@
+{
+  "journal": {
+    "name": "南京社会科学",
+    "url": "https://ass.nanjing.gov.cn/lyxw/zdxw/202201/t20220107_3255991.html",
+    "journal_id": "",
+    "row": 61,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://ass.nanjing.gov.cn/lyxw/zdxw/202201/t20220107_3255991.html",
+  "collected_at": "2026-11-26T20:46:52+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "ass.nanjing.gov.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://ass.nanjing.gov.cn/lyxw/zdxw/202201/t20220107_3255991.html",
+      "requested_url": "https://ass.nanjing.gov.cn/lyxw/zdxw/202201/t20220107_3255991.html",
+      "title": "《南京社会科学》重要提醒：谨防投稿陷阱和审稿骗局",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:46:52+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://ass.nanjing.gov.cn/lyxw/zdxw/202201/t20220107_3255991.html",
+      "title": "南京社会科学",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "index": 23,
+  "journal": "医学与哲学",
+  "url": "https://yizhe.dmu.edu.cn/",
+  "source_sheet": "可打开",
+  "source_row": 24,
+  "started_at": "2026-11-26T20:41:07+08:00",
+  "finished_at": "2026-11-26T20:42:03+08:00",
+  "status": "completed",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0023_医学与哲学/manifest.json",
+  "pages": 2,
+  "attachments": [
+    {
+      "title": "稿约（PDF）",
+      "format": "pdf",
+      "local_path": "0023_医学与哲学/attachments/202282311720234_aeb709ec13.pdf",
+      "sha256": "aeb709ec13efbe13cde40c1eb47060b05744b763a5aa82feb0b79a4bc8bfa4d8",
+      "bytes": 270066
+    },
+    {
+      "title": "论文模板（DOCX）",
+      "format": "docx",
+      "local_path": "0023_医学与哲学/attachments/202448131956641_d2678ef88b.docx",
+      "sha256": "d2678ef88b6b51bed283cab41591e22d28ca4d9f34a7cb2db79cc271c3ab9e44",
+      "bytes": 56849
+    }
+  ],
+  "original_count": 2,
+  "webpage_text": 0,
+  "pending_count": 1,
+  "pending_reasons": [
+    "needs_review"
+  ]
+}

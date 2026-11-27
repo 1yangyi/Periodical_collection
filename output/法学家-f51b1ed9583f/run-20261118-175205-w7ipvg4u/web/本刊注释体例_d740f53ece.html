@@ -1,0 +1,546 @@
+<!DOCTYPE html><HTML>
+<HEAD>
+	<TITLE>法学家 投稿指南</TITLE>
+	<META http-equiv=Content-Type content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
+
+
+
+
+
+
+<link href="/js/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="/develop/static/common/css/css.css">
+<link rel="stylesheet" href="/js/jqpagination/jqpagination.css" />
+<script src="/js/jquery/jquery.min.js"></script>
+<script src="/js/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.qrcode.min.js"></script>
+<script src="/develop/static/common/js/common_cn.js"></script>
+<script src="/develop/static/common/js/component_cn.js"></script>
+<script language="javascript" src="/js/store.js"></script>
+<script language="javascript" src="/develop/static/common/js/download_cn.js"></script>
+<script language="javascript" src="/js/My97DatePicker/WdatePicker.js"></script>
+<link rel="stylesheet" href="/develop/static/common/bootstrap/js/font-awesome.min.css">
+
+<script>
+	$(document).ready(function(){
+		$("title").text($("title").text().replace(/<\/?[^>]*>/g,""));
+	});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!--顶部快速导航下拉导航菜单特效css-->
+<!--<link rel="stylesheet" href="https://faxuejia.ruc.edu.cn/images/1005-0221/css/bootsnav.css"> -->
+<!--网站css-->
+<link rel="stylesheet" href="https://faxuejia.ruc.edu.cn/images/1005-0221/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://faxuejia.ruc.edu.cn/images/1005-0221/css/css.css">
+<script src="https://faxuejia.ruc.edu.cn/images/1005-0221/js/indexjs.js"></script>
+
+
+</HEAD>
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+<input type="hidden" id="mag-common-contextPath" value=""/>
+
+<div id="mag-component-store-div" style="display:none;"></div>
+			
+<!-- 模态框（Modal） -->
+<div class="modal fade" id="magModal" tabindex="-1" role="dialog" data-keyboard=false data-backdrop='static' aria-labelledby="magModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button buttonGroup="0" type="button"  class="close"  aria-hidden="true" onclick="mag_layer_close();">
+					&times;
+				</button>
+				<h4 class="modal-title" id="magModalLabel">
+					模态框（Modal）标题
+				</h4>
+			</div>
+			<div class="modal-body" id="mag-modal-body" style="overflow:auto;">
+				在这里添加一些文本
+			</div>
+			<div id="mag-layer-button-div" class="modal-footer">
+				<button buttonGroup="1" type="button"  class="btn btn-default"  onclick="mag_layer_close();">关闭
+				</button>
+				<button buttonGroup="2" type="button"  class="btn btn-default"  onclick="mag_layer_close();">关闭
+				</button>
+				<button buttonGroup="2" type="button" class="btn btn-primary" onclick="mag_submit()" id="mag_layer_submit_button_2">
+					提交更改
+				</button>
+				<button buttonGroup="3" type="button"  class="btn btn-default"  onclick="mag_layer_close();">取消
+				</button>
+				<button buttonGroup="3" type="button" class="btn btn-primary" onclick="mag_submit()" id="mag_layer_submit_button_3">
+					确定并提交
+				</button>
+				
+			</div>
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal -->
+</div>
+
+<div id="magModal_2" style="display:none;position:fixed;left:0px;top:0px;right:0px;bottom:0px;z-index:1060">
+	<div class="modal-dialog" style="margin-top:60px;">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button buttonGroup="0" type="button" id="mag-madal-close_bt_2"  class="close"  aria-hidden="true" onclick="mag_layer_close_2();">
+					&times;
+				</button>
+				<h4 class="modal-title" id="magModalLabel_2">
+					模态框（Modal）标题
+				</h4>
+			</div>
+			<div id="modal-body_2" class="modal-body"></div>
+		</div>
+	</div>
+</div>
+
+<!-- 模态框-Tab -->
+<div class="modal fade" id="magTabModal" tabindex="-1" role="dialog" data-keyboard=false data-backdrop='static' aria-labelledby="magTabModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header" style="border-bottom:0px;padding:15px 0px;">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true" style="padding-right:15px;">
+					&times;
+				</button>
+				
+<ul id="magTab" class="nav nav-tabs">
+
+</ul>
+			</div>
+			<div class="modal-body">
+				
+<div id="magTabContent" class="tab-content">
+
+</div>
+			</div>
+			<div id="mag-tablayer-button-div" class="modal-footer">
+				
+			</div>
+			
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal -->
+</div>
+
+
+
+<div style="display:none;">
+	<iframe id="mag_sendLongReq_iframe" name="mag_sendLongReq_iframe"></iframe>
+	<iframe id="mag_cma_sso_login_iframe" name="mag_cma_sso_login_iframe"></iframe>
+</div>
+<input type="hidden" id="mag_cma_sso_authorizeUrl" value=""/>
+		
+
+
+
+<!--头部-->
+
+
+<script language="javascript">
+	function tabChange(obj, id) {
+		var arrayli = obj.parentNode.getElementsByTagName("li"); //获取li数组
+		var arrayul = document.getElementById(id).getElementsByTagName("ul"); //获取ul数组
+		for (i = 0; i < arrayul.length; i++) {
+			if (obj == arrayli[i]) {
+				arrayli[i].className = "cli";
+				arrayul[i].className = "";
+			} else {
+				arrayli[i].className = "";
+				arrayul[i].className = "hidden";
+			}
+		}
+	}
+</script>
+<style type="text/css">
+.tabbox {
+	width: 400px;
+	margin-top: 5px;
+	margin-bottom: 5px
+}
+
+.tabmenu {
+	width: 400px;
+	height: 28px;
+	border-left: 1px solid #CCC;
+	border-top: 1px solid #ccc;
+}
+
+.tabmenu ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.tabmenu li {
+	text-align: center;
+	float: left;
+	display: block;
+	width: 99px;
+	overflow: hidden;
+	background-color: #f1f1f1;
+	line-height: 27px;
+	border-right: #ccc 1px solid;
+	border-bottom: #ccc 1px solid;
+	display: inline;
+}
+
+.tabmenu .cli {
+	text-align: center;
+	float: left;
+	display: block;
+	width: 99px;
+	overflow: hidden;
+	background-color: #fff;
+	line-height: 27px;
+	border-right: #ccc 1px solid;
+	border-bottom: #fff 1px solid;
+	display: inline;
+	cursor: pointer;
+	color: #c30000;
+	font-weight: bold
+}
+
+#tabcontent {
+	width: 399px;
+	background-color: #fff;
+	border-left: #CCC 1px solid;
+	border-right: #CCC 1px solid;
+	border-bottom: #CCC 1px solid;
+	height: 65px;
+}
+
+#tabcontent ul {
+	margin: 0;
+	padding: 5px;
+	list-style-type: none;
+}
+
+#tabcontent .hidden {
+	display: none;
+}
+
+img[src*='.traceImg']{
+	width:44px;
+	height:22px;
+}
+</style>
+<div class="journal-head">
+<div class="container" style="background:transparent">
+<div class="row">
+    <div class="col-md-7 logo">
+		<h1><a href="https://faxuejia.ruc.edu.cn/CN/home"><img src="https://faxuejia.ruc.edu.cn/images/1005-0221/images/logo.png" class="img-responsive" alt=""></a></h1>
+    </div>
+	<div class="col-md-5 logo hidden-sm hidden-xs">
+		<h1><img src="https://faxuejia.ruc.edu.cn/images/1005-0221/images/wz.png" class="img-responsive" style="float:right;"></h1>
+    </div>
+</div>
+</div>
+</div>
+
+<!--导航-->
+<div class="navbar site-nav whitebg">
+<div class="container" style="background:transparent">
+<div class="row">
+
+
+    <div class="navbar-header">
+      <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">导航切换</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+      <a class="navbar-brand visible-xs" href="">法学家</a> </div>
+    <div class="navbar-collapse collapse" role="navigation">
+		<ul class="nav navbar-nav">
+			<li style="width:236px;font-size:16px;line-height: 42px;text-align: center;color:#fff;">
+				<script language="JavaScript" type="text/javascript">today=new Date();
+				function initArray(){
+				this.length=initArray.arguments.length
+				for(var i=0;i<this.length;i++)
+				this[i+1]=initArray.arguments[i]  }
+				var d=new initArray(
+				" 星期日",
+				" 星期一",
+				" 星期二",
+				" 星期三",
+				" 星期四",
+				" 星期五",
+				" 星期六");
+				document.write(
+				"",
+				today.getFullYear(),"年",
+				today.getMonth()+1,"月",
+				today.getDate(),"日",
+				d[today.getDay()+1],
+				"" );
+			   </script>
+			</li>
+			<li><a href="https://faxuejia.ruc.edu.cn/CN/home">首页</a></li>
+									
+						<li><a href="https://faxuejia.ruc.edu.cn/CN/column/column1.shtml">期刊简介</a></li>
+					   
+												
+						<li><a href="https://faxuejia.ruc.edu.cn/CN/column/column3.shtml">编 委 会</a></li>
+					   
+												
+						<li role="presentation" class="dropdown">
+			   <a href="#" class="dropdown-toggle" data-toggle="dropdown">在线期刊 <b class="caret"></b></a>
+			   <ul class="dropdown-menu">
+					<li><a href="https://faxuejia.ruc.edu.cn/CN/current">当期目录</a></li>
+					<li><a href="https://faxuejia.ruc.edu.cn/CN/archive_by_issues">过刊浏览</a></li>
+					<li><a href="https://qikan.chaoxing.com/mag/shelf?mags=9f5f61eb554c5077cb41aff61ac6e1b3">电子书</a></li>
+					<li><a href="https://faxuejia.ruc.edu.cn/CN/top_download">下载排行</a></li>
+					<li><a href="https://faxuejia.ruc.edu.cn/CN/top_access">阅读排行</a></li>
+					<li><a href="https://faxuejia.ruc.edu.cn/CN/alert/showAlertInfo.do">E-mail Alert</a></li>
+					<li><a href="https://faxuejia.ruc.edu.cn/CN/rss/showRssInfo.do">RSS</a></li>
+				</ul>
+			</li>
+					   
+												
+						<li><a href="https://faxuejia.ruc.edu.cn/CN/column/column12.shtml">投稿指南</a></li>
+					   
+												
+						<li><a href="https://faxuejia.ruc.edu.cn/CN/column/column19.shtml">期刊订阅</a></li>
+					   
+												
+						<li><a href="https://faxuejia.ruc.edu.cn/CN/column/column16.shtml">联系我们</a></li>
+					   
+									<!--<li><a href="https://faxuejia.ruc.edu.cn/EN/home">English</a></li>-->
+      </ul>
+    </div>
+  </div>
+</div>
+</div>
+<!--导航 End-->
+
+<!--导航 End-->
+<div class="container" style="height: 20px"></div>
+<script src='https://tongji.journalreport.cn/mstatistics.service.js'></script><script>recordAdd('24340e1f526e49679f772ee3b6353137')</script>
+<!--头部 End-->
+
+<!--中间-->
+<div class="container">
+<div class="row">
+<div class="col-md-9 m-center">
+		
+<section class="content_nr">
+	<h3 class="column">
+		<span>投稿指南</span>
+	</h3>
+<div class="item-content">
+<p style="line-height:150%">
+	<span style="font-family:SimSun;font-size:14px;"><strong>1. 征稿范围</strong></span><br>
+<span style="font-family:SimSun;font-size:14px;"> 　　本刊秉承“尚理明德，情系社稷，笃信法意，挥洒正义”的宗旨，以严谨、求实、开放、公正的姿态，首推具有原创思想、关注现实的精品之作，高度重视有关重大主题、具有重大价值或可能产生重大影响的研究，鼓励厚积薄发的研究，力求反映我国法学研究的学科前沿问题，推动法学繁荣发展。</span><br>
+<span style="font-family:SimSun;font-size:14px;"> 　　本刊坚持学术上的形式规范与实质规范的统一，重视问题意识强、文献综述扎实、观点论证充分、资料引证得当、语言表达精准的论文；要求来稿遵守本刊注释体例，文中的标点符号、数字、文字等使用请遵守国家有关规定。</span> 
+</p>
+<p style="line-height:150%">
+	<span style="font-family:SimSun;font-size:14px;"><strong>2. 投稿要求和注意事项</strong></span><br>
+<span style="font-family:SimSun;font-size:14px;">&nbsp; (1)投稿请登录本刊网站https://faxuejia.ruc.edu.cn。文题、摘要（限300字以内）、关键词（限5个以内）均需中英文对照，并提供作者的姓名、单位、职务或职称、学位、地址、电话、电子邮件。论文如果获得有关研究基金或课题资助，需提供基金名称及编号（亦需中英文对照）。</span><br>
+<span style="font-family:SimSun;font-size:14px;">&nbsp; (2)稿件具体格式、体例请参考近期出版的本刊杂志。</span> 
+</p>
+<p style="line-height:150%">
+	<span style="font-family:SimSun;font-size:14px;"><strong>3. 投稿约定<br>
+</strong></span><span style="font-family:SimSun;font-size:14px;">&nbsp; (1)原稿必须是在中外文正式刊物上未发表的论文。本刊反对一稿多投、重复内容多次投稿、不同文种重复投稿。一旦发现上述情况，稿件将按退稿处理，作者本人的稿件今后将不被录用。</span><br>
+<span style="font-family:SimSun;font-size:14px;">&nbsp; (2)本刊用稿实行匿名评审制度，稿件采用后编辑部会及时与作者联系。作者投稿后三个月未获用稿通知可自行处理。查询稿件处理情况及用稿规范可登陆本刊网站https://faxuejia.ruc.edu.cn。<br>
+</span><span style="font-family:SimSun;font-size:14px;">&nbsp; (3)文责自负，编辑部有权对稿件做技术性、文字性修改 , 在征得作者同意后可以进行实质内容的修改。<br>
+</span><span style="font-family:SimSun;font-size:14px;">&nbsp; (4)论文发表后，版权即属于编辑部所有（包括网络版权）。<br>
+</span><span style="font-family:SimSun;font-size:14px;">&nbsp; (5)稿件一经刊用，即向作者酌致稿费，本刊不收审稿费及版面费，也不接受以发稿为目的的任何其他赞助。</span> 
+</p>
+<p style="line-height:150%">
+	<span style="font-family:SimSun;font-size:14px;"><strong>4. 注释及参考文献体例</strong></span><br>
+<span style="font-family:SimSun;font-size:14px;"> <span style="font-family:SimSun;font-size:14px;">　　</span>来稿注释请遵循以下体例：</span><br>
+<span style="font-family:SimSun;font-size:14px;"> <span style="font-family:SimSun;font-size:14px;">　　</span>一、文中注释一律采用页下脚注的形式，每页脚注重新连续注码，样式为：①②③等。</span><br>
+<span style="font-family:SimSun;font-size:14px;"> <span style="font-family:SimSun;font-size:14px;">　　</span>二、非直接引用原文时，相应注释前加“参见”；确有必要引用非原始资料时，请注明“转引自”。</span><br>
+<span style="font-family:SimSun;font-size:14px;"> <span style="font-family:SimSun;font-size:14px;">　　</span>三、多次引用同一文献的，每次引用时，皆在相应脚注当中保留该文献著录项目的完整信息。</span><br>
+<span style="font-family:SimSun;font-size:14px;"> <span style="font-family:SimSun;font-size:14px;">　　</span>四、引用自己的作品时，直接标出作者姓名，请毋使用“拙著”“拙文”之类的表述。</span><br>
+<span style="font-family:SimSun;font-size:14px;"> <span style="font-family:SimSun;font-size:14px;">　　</span>五、请规范数字用法。凡用阿拉伯数字并无不妥的，不用汉字表示数字；非直接引用法条的序号，请用阿拉伯数字（包括正文）。</span><br>
+<span style="font-family:SimSun;font-size:14px;"> <span style="font-family:SimSun;font-size:14px;">　　</span>六、引注范例： </span><br>
+<span style="font-family:SimSun;font-size:14px;"> <span style="font-family:SimSun;font-size:14px;">　　</span>1.著作、教材类：①《马克思恩格斯文集》（第1卷），人民出版社2009年版，第460页。</span><br>
+<span style="font-family:SimSun;font-size:14px;"> <span style="font-family:SimSun;font-size:14px;">　　</span>②韩大元：《亚洲立宪主义研究》（第2版），中国人民公安大学出版社2008年版，第277-278页。</span><br>
+<span style="font-family:SimSun;font-size:14px;"> <span style="font-family:SimSun;font-size:14px;">　　</span>③胡鸿烈、钟期荣：《香港的婚姻与继承法》，香港南天书业公司1957年版，第115页。</span><br>
+<span style="font-family:SimSun;font-size:14px;"> <span style="font-family:SimSun;font-size:14px;">　　</span>④佟柔主编：《中国民法》，法律出版社1990年版，第67页。</span><br>
+<span style="font-family:SimSun;font-size:14px;"> <span style="font-family:SimSun;font-size:14px;">　　</span>2.论文类：① 张文显：《法治与国家治理现代化》，载《中国法学》2014年第4期，第25页。</span><br>
+<span style="font-family:SimSun;font-size:14px;"> <span style="font-family:SimSun;font-size:14px;">　　</span>②王利明：《隐私权的新发展》，载《人大法律评论》（2009年卷），法律出版社2009年版，第14页。</span><br>
+<span style="font-family:SimSun;font-size:14px;"> <span style="font-family:SimSun;font-size:14px;">　　</span>③[德]格哈特·瓦格纳：《当代侵权法比较研究》，高圣平、熊丙万译，载《法学家》2010年第2期，第103-127页。</span><br>
+<span style="font-family:SimSun;font-size:14px;"> <span style="font-family:SimSun;font-size:14px;">　　</span>3.文集类：①王轶：《诉讼时效制度三论》，载崔建远主编：《民法九人行》（第7卷），法律出版社2014年版，第98页。</span><br>
+<span style="font-family:SimSun;font-size:14px;"> <span style="font-family:SimSun;font-size:14px;">　　</span>4.译著类：① [德]卡尔•拉伦茨：《法学方法论》（全本·第6版），黄家镇译，商务印书馆2020年版，第159页。</span><br>
+<span style="font-family:SimSun;font-size:14px;"> <span style="font-family:SimSun;font-size:14px;">　　</span>5.报纸类：① 史际春：《以法治保障供给侧结构性改革》，载《人民日报》2016年11月2日。</span><br>
+<span style="font-family:SimSun;font-size:14px;"> <span style="font-family:SimSun;font-size:14px;">　　</span>6.古籍类：① （清）方大湜：《平平言》，清光绪十八年（1892）资州官廨刊本，卷三，“斗殴先下手者宜重治”，第43页a。</span><br>
+<span style="font-family:SimSun;font-size:14px;"> <span style="font-family:SimSun;font-size:14px;">　　</span>7.辞书类：①《元照英美法词典》，法律出版社2003年版，第9页。</span><br>
+<span style="font-family:SimSun;font-size:14px;"> <span style="font-family:SimSun;font-size:14px;">　　</span>8.网络资料类：① 郑成思：《“入世”、知识产权保护与民商法的现代化》，载中国法学网，http://www.iolaw.org.cn/showNews.asp?id=243，2007年4月29日访问。</span>
+</p>
+<p style="line-height:150%">
+	<span><span style="font-size:14px;"></span></span>
+</p>
+<p class="MsoNormal" style="font-family:SimSun;font-size:14px;text-indent:20pt;">
+	<span style="line-height:1;">9.</span><span style="line-height:1;">英文类：</span><span style="line-height:1;">①&nbsp;L. Fuller,&nbsp;</span><i><span style="line-height:1;">The Morality of Law,</span></i><span style="line-height:1;">&nbsp;revised edition, New Haven: Yale University Press, 1969, p.143.</span>
+</p>
+<p class="MsoNormal" style="margin-left:1.8pt;font-family:SimSun;font-size:14px;text-indent:20pt;">
+	<span style="line-height:1;">②See Tom Ginsburg,“East Asian Constitutionalism in Comparative Perspective”, in Albert H. Y. Chen, ed.,&nbsp;</span><i><span style="line-height:1;">Constitutionalism in Asia in the Early Twenty-First Century,</span></i><span style="line-height:1;">&nbsp;Cambridge: Cambridge University Press, 2014, p.39.</span>
+</p>
+<p class="MsoNormal" style="margin-left:2pt;font-family:SimSun;font-size:14px;text-indent:20pt;">
+	<span style="line-height:1;">③Richard A. Posner,“The Decline of Law as an Autonomous Discipline: 1962-1987”,&nbsp;</span><i><span style="line-height:1;">Harvard Law Review</span></i><span style="line-height:1;">, Vol.100, No.4 (1987), pp.761-780.</span><span style="line-height:1;">（英文期刊名称不要缩写）<br>
+</span>&nbsp; 10. 引用英文以外的外文文种：西文体例比照英文，日文体例比照中文。
+</p>
+<p style="line-height:150%">
+	<br>
+</p>
+<p style="line-height:150%">
+	<span style="font-family:SimSun;font-size:14px;"><strong>5. 稿件流程</strong></span><br>
+<span style="font-family:SimSun;font-size:14px;"> 　　(1)投稿：网络远程投稿，请登录本刊网站；投稿成功后email回执。</span><br>
+<span style="font-family:SimSun;font-size:14px;"> 　　(2)审稿：匿名评审。</span><br>
+<span style="font-family:SimSun;font-size:14px;"> <span style="font-family:SimSun;font-size:14px;">　　</span>欲对投稿事宜进一步了解者, 可向编辑部询问。</span> 
+</p>
+<br>
+<div class="text-right">
+发布日期：2020-01-13&nbsp;&nbsp;&nbsp;
+浏览：
+
+
+
+
+46720
+	
+	
+	 
+</div>
+
+</div>
+</section>
+</div>
+<!--右部-->
+
+
+<div class="col-md-3 m-right">
+
+	<ul class="office-menu">
+		<li><a href="http://faxuejia.ruc.edu.cn/journalx_fxj/authorLogOn.action" target="_blank">
+		<div class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-user"></span> 作者投稿查稿　</div>
+		</a></li>
+		<li><a href="http://faxuejia.ruc.edu.cn/journalx_fxj/editorLogOn.action" target="_blank">
+		<div class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-eye-open"></span> 责编审稿系统　</div>
+		</a></li>
+		<li><a href="http://faxuejia.ruc.edu.cn/journalx_fxj/editorLogOn.action" target="_blank">
+		<div class="btn btn-shadow journal-btn"><span class="fa fa-user-circle-o"></span> 副主编审稿系统</div>
+		</a></li>
+		<li><a href="http://faxuejia.ruc.edu.cn/journalx_fxj/editorInChiefLogOn.action" target="_blank">
+		<div class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-pencil"></span> 主编审稿系统　</div>
+		</a></li>
+		<li><a href="http://faxuejia.ruc.edu.cn/journalx_fxj/expertLogOn.action" target="_blank">
+		<div class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-education"></span> 专家审稿系统　</div>
+		</a></li>
+		<li><a href="http://faxuejia.ruc.edu.cn/journalx_fxj/editorLogOn.action" target="_blank">
+		<div class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-edit"></span> 编辑办公系统　</div>
+		</a></li>
+	</ul>
+	<aside class="aside">
+        <div class="column"><span class="pull-left"><i class="fa fa-volume-up"></i> 通知公告</span> <a href="https://faxuejia.ruc.edu.cn/CN/news/folder.do?folderId=3" class="more">更多</a></div>
+        <ul class="news-list">
+        <marquee onmouseover="this.stop()" onmouseout="this.start()" behavior="scroll" direction="up" scrollamount="1" scrolldelay="70" style="width: 98%; height: 200px;">
+          <div mag-component-type="ajaxPage" mag-page-url="https://faxuejia.ruc.edu.cn/CN/1005-0221/model/tongzhi.htm"></div>
+        </marquee>
+        </ul>
+    </aside>
+	<aside class="aside">
+        <div class="column">
+            <span class="pull-left"><i class="fa fa-book"></i> 版权信息</span>
+        </div>
+			<div style="text-align: left;padding:10px 15px;">
+				刊　　期：双月刊，1986创刊<br>
+				主管单位：中华人民共和国教育部<br>
+				主办单位：中国人民大学<br>
+				主　　编：王利明<br>
+				编辑出版：《法学家》杂志社<br>
+				ISSN 1005-0221<br>
+				CN 11-3212/D
+			</div>
+	</aside>
+    <aside class="aside">
+        <div class="column">
+            <span class="pull-left"><i class="fa fa-download"></i> 下载中心</span>
+            <a href="https://faxuejia.ruc.edu.cn/CN/column/7/items" class="more">更多</a>
+        </div>
+        <ul class="news-list">
+		                        		<li><a href="https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5" class="news-title" target="_blank">本刊注释体例</a></li>
+                                </ul>
+    </aside>
+    
+    <aside class="aside">
+        <div class="column">
+            <span class="pull-left"><i class="fa fa-link"></i> 友情链接</span>
+            <a href="https://faxuejia.ruc.edu.cn/CN/column/10/items" class="more">更多</a>
+        </div>
+        <ul class="news-list">
+		                        		<li><a href="http://www.law.ruc.edu.cn/" class="news-title" target="_blank">中国人民大学法学院</a></li>
+                                        		<li><a href="http://www.fxcxw.org.cn/" class="news-title" target="_blank">中国法学创新网</a></li>
+                                        		<li><a href="http://www.cnki.net/" class="news-title" target="_blank">中国知网</a></li>
+                                        		<li><a href="http://www.pkulaw.cn" class="news-title" target="_blank">北大法宝</a></li>
+                                        		<li><a href="http://www.ruc.edu.cn/" class="news-title" target="_blank">中国人民大学</a></li>
+                                </ul>
+    </aside>
+	<aside class="aside">
+		<div class="column">
+			<span class="pull-left"><i class="fa fa-wechat"></i> 微信公众号</span>
+		</div>
+		<ul class="news-list">
+		<img src="https://faxuejia.ruc.edu.cn/images/1005-0221/images/wechat.png" class="img-responsive" style="width:200px;margin:0 auto;">
+        </ul>
+	</aside>
+	<aside>
+	<div class="column">
+        <span class="pull-left"><i class="fa fa-tasks"></i> 访问统计</span>
+    </div>
+	<ul class="news-list">
+	<script>record('24340e1f526e49679f772ee3b6353137')</script>   
+	总访问量：<span id="ipVisitsSum"></span><br>
+	今日访问：<span id="ipDaySum"></span><br>
+	在线人数：<span id="currentOnLine"></span>
+			</ul>
+	</aside>
+	
+</div>
+
+</div>
+</div>
+<!--底部-->
+
+
+
+<footer class="footer">
+<div class="container">
+	<div class="row">
+			<div class="footer-info">
+				<p>
+				<a href="https://beian.miit.gov.cn" target="_blank">京ICP备05066828号</a><br>	                  版权所有 &copy; 《法学家》编辑部<br>
+					地址：北京市海淀区中关村大街59号中国人民大学明德法学楼503室　<br class="visible-xs">邮编：100872　<br>					电话：010 - 62514551/82509250　<br class="visible-xs">E-mail：faxuejiaruc@vip.163.com<br>					本系统由<a href="https://www.magtech.com.cn/" target="_blank">北京玛格泰克科技发展有限公司</a>设计开发
+
+				</p>
+			</div>
+
+	</div>
+</div>
+</footer>
+<!--返回顶部-->
+<div class="top_web" id="backtop" style="display:block;"> <span class="glyphicon glyphicon-menu-up"></span></div>
+<!--返回顶部end--> 
+
+</body>
+</HTML>

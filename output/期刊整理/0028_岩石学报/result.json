@@ -1,0 +1,42 @@
+{
+  "index": 28,
+  "journal": "岩石学报",
+  "url": "http://www.ysxb.ac.cn",
+  "source_sheet": "可打开",
+  "source_row": 29,
+  "started_at": "2026-11-26T20:41:34+08:00",
+  "finished_at": "2026-11-26T20:43:01+08:00",
+  "status": "completed",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0028_岩石学报/manifest.json",
+  "pages": 2,
+  "attachments": [
+    {
+      "title": "科研诚信协议书-《岩石学报》",
+      "format": "docx",
+      "local_path": "0028_岩石学报/attachments/20241015102548468_500064bc33.docx",
+      "sha256": "500064bc3306dd549a88162cf0cc99175c6f01b5f13c6a015099227acce879e4",
+      "bytes": 18203
+    },
+    {
+      "title": "版权转让声明及保密审查证明-《岩石学报》",
+      "format": "docx",
+      "local_path": "0028_岩石学报/attachments/20241015102533594_56b7687683.docx",
+      "sha256": "56b76876832c41e14c44d6c748cf1439b27f445f34c952f61d185f6245ef0347",
+      "bytes": 16749
+    }
+  ],
+  "original_count": 2,
+  "webpage_text": 0,
+  "pending_count": 1,
+  "pending_reasons": [
+    "needs_review"
+  ]
+}

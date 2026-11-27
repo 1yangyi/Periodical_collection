@@ -1,0 +1,37 @@
+{
+  "index": 283,
+  "journal": "InfoMat",
+  "url": "https://journal.hep.com.cn/infomat/EN/home",
+  "source_sheet": "可打开",
+  "source_row": 284,
+  "started_at": "2026-11-26T20:59:17+08:00",
+  "finished_at": "2026-11-26T20:59:23+08:00",
+  "status": "completed",
+  "browser_use_invoked": false,
+  "before_fallback": null,
+  "browser_use_errors": [],
+  "manifest": "0283_InfoMat/manifest.json",
+  "pages": 2,
+  "attachments": [
+    {
+      "title": "Research Article Template (MS word)",
+      "format": "docx",
+      "local_path": "0283_InfoMat/attachments/Research+Article+Template11.10_3d38949d9f.docx",
+      "sha256": "3d38949d9f0e7aadba07b6fd451fd1541c683aff71117d36e9e3dff8ed0a0ea8",
+      "bytes": 248202
+    },
+    {
+      "title": "Review Template (MS word)",
+      "format": "docx",
+      "local_path": "0283_InfoMat/attachments/Review+Article+Template11.12_cf1f33f56e.docx",
+      "sha256": "cf1f33f56e4c666d377b572365c4293b60ebcb606ff4e838d6279f412f9a5b39",
+      "bytes": 207144
+    }
+  ],
+  "original_count": 2,
+  "webpage_text": 0,
+  "pending_count": 7,
+  "pending_reasons": [
+    "needs_review"
+  ]
+}

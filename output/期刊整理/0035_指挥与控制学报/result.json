@@ -1,0 +1,47 @@
+{
+  "index": 35,
+  "journal": "指挥与控制学报",
+  "url": "http://jc2.org.cn/",
+  "source_sheet": "可打开",
+  "source_row": 36,
+  "started_at": "2026-11-26T20:42:40+08:00",
+  "finished_at": "2026-11-26T20:44:27+08:00",
+  "status": "completed",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 2,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0035_指挥与控制学报/manifest.json",
+  "pages": 2,
+  "attachments": [
+    {
+      "title": "word模板",
+      "format": "docx",
+      "local_path": "0035_指挥与控制学报/attachments/JC2 è®ºææ¨¡æ¿_b9bc23f25a.docx",
+      "sha256": "b9bc23f25afd3bc11d823cff12badbf311a56af73b9a64e2866a2d140af18bb1",
+      "bytes": 145318
+    },
+    {
+      "title": "版权转让协议",
+      "format": "doc",
+      "local_path": "0035_指挥与控制学报/attachments/ææ¥ä¸æ§å¶å­¦æ¥çæè½¬è®©åè®®-ä¿®æ¹å_641425a6fc.doc",
+      "sha256": "641425a6fc786d0c513c496665c1c2d7a7ed6d71d9dd1287f344ecf5b4738663",
+      "bytes": 25600
+    },
+    {
+      "title": "不涉密证明",
+      "format": "doc",
+      "local_path": "0035_指挥与控制学报/attachments/ä¿å¯å®¡æ¥_a7eae368e7.doc",
+      "sha256": "a7eae368e7159c1310268872521575d40dc6d2b1eb6f587bb48df814c4b28f2b",
+      "bytes": 28160
+    }
+  ],
+  "original_count": 3,
+  "webpage_text": 0,
+  "pending_count": 0,
+  "pending_reasons": []
+}

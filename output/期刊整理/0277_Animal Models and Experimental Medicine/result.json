@@ -1,0 +1,31 @@
+{
+  "index": 277,
+  "journal": "Animal Models and Experimental Medicine",
+  "url": "https://journal.hep.com.cn/amem/EN/",
+  "source_sheet": "可打开",
+  "source_row": 278,
+  "started_at": "2026-11-26T20:59:14+08:00",
+  "finished_at": "2026-11-26T20:59:19+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 2,
+    "artifacts": 1,
+    "pending": 3,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST network-policies 返回 HTTP 422"
+  ],
+  "manifest": "0277_Animal Models and Experimental Medicine/manifest.json",
+  "pages": 2,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 1,
+  "pending_count": 5,
+  "pending_reasons": [
+    "browser_use_failed",
+    "needs_review",
+    "no_valid_word_or_pdf"
+  ]
+}

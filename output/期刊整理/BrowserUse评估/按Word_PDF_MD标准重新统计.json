@@ -1,0 +1,150 @@
+{
+  "evaluated_at": "2026-11-26T21:33:36+08:00",
+  "criterion": "A journal qualifies if it has a saved DOC/DOCX/PDF, or a Markdown copy with substantive submission-format text for that target journal. Administrative Word/PDF files count under this requested broad criterion.",
+  "cohort": "Browser Use fallback completed without API errors; compare separately including three timeouts.",
+  "normal_completed": 117,
+  "timeouts": 3,
+  "created_runs": 120,
+  "api_402_excluded": 97,
+  "api_422_excluded": 205,
+  "word_pdf_journals": 12,
+  "markdown_file_journals": 39,
+  "both": 5,
+  "file_presence_union": 46,
+  "file_presence_success_rate_completed": 0.39316239316239315,
+  "file_presence_success_rate_all_created": 0.38333333333333336,
+  "invalid_markdown_only_journals": 6,
+  "verified_markdown_journals": 33,
+  "success_journals": 40,
+  "word_pdf_only": 7,
+  "valid_markdown_only": 28,
+  "both_valid": 5,
+  "verified_success_rate_completed": 0.3418803418803419,
+  "verified_success_rate_all_created": 0.3333333333333333,
+  "excluded_markdown_records": [
+    {
+      "index": 3,
+      "journal": "有色金属科学与工程",
+      "reason": "正文属于《江西理工大学学报》，不是《有色金属科学与工程》。",
+      "manifest": "0003_有色金属科学与工程/manifest.json"
+    },
+    {
+      "index": 16,
+      "journal": "民俗研究",
+      "reason": "正文属于《新文科理论与实践》，不是《民俗研究》。",
+      "manifest": "0016_民俗研究/manifest.json"
+    },
+    {
+      "index": 21,
+      "journal": "西安外国语大学学报",
+      "reason": "正文属于英文辑刊Translation and International Communication，不是目标《西安外国语大学学报》。",
+      "manifest": "0021_西安外国语大学学报/manifest.json"
+    },
+    {
+      "index": 33,
+      "journal": "原子能科学技术",
+      "reason": "保存内容只有导航菜单，未保存实质投稿格式正文。",
+      "manifest": "0033_原子能科学技术/manifest.json"
+    },
+    {
+      "index": 58,
+      "journal": "当代文坛",
+      "reason": "正文为其他文学征稿、公众号和活动通知，不是《当代文坛》投稿格式。",
+      "manifest": "0058_当代文坛/manifest.json"
+    },
+    {
+      "index": 117,
+      "journal": "南洋问题研究",
+      "reason": "正文为厦门大学学位论文规范，不是《南洋问题研究》投稿格式。",
+      "manifest": "0117_南洋问题研究/manifest.json"
+    }
+  ],
+  "attribution_note": "Counts measure final artifacts among journals that received Browser Use. Some Markdown content was already fetched by the ordinary HTTP stage; the rate is not an incremental success rate attributable solely to the Agent.",
+  "random_sample": {
+    "seed": 7681508252098708277,
+    "method": "Stratified random sample: three successful Markdown-only journals and two journals with saved originals; order shuffled.",
+    "examples": [
+      {
+        "journal": "自然资源遥感",
+        "index": 50,
+        "artifacts": [
+          {
+            "type": "attachment",
+            "title": "《自然资源遥感》撰稿须知 PDF",
+            "format": "pdf",
+            "absolute_path": "/Users/yangyi/periodical_collection/output/期刊整理/0050_自然资源遥感/attachments/20250616100034_bd13110b57.pdf"
+          },
+          {
+            "type": "attachment",
+            "title": "《自然资源遥感》论文模板 Word",
+            "format": "pdf",
+            "absolute_path": "/Users/yangyi/periodical_collection/output/期刊整理/0050_自然资源遥感/attachments/20230711113214_bc70af7d93.pdf"
+          }
+        ]
+      },
+      {
+        "journal": "中国药房",
+        "index": 70,
+        "artifacts": [
+          {
+            "type": "webpage_text",
+            "title": "中国药房投稿格式",
+            "format": "md",
+            "absolute_path": "/Users/yangyi/periodical_collection/output/期刊整理/0070_中国药房/中国药房投稿格式.md",
+            "content_examples": [
+              " 2.4 文稿请用Word或WPS排版",
+              " 2.5 本刊审稿周期一般为1～3个月，刊用周期（从投稿算起）一般为4～8个月",
+              "论文的特定内容，不宜用副标题，一般不超过25字，尽量不用人们不太熟悉的代号或缩写等"
+            ]
+          }
+        ]
+      },
+      {
+        "journal": "浙江社会科学",
+        "index": 62,
+        "artifacts": [
+          {
+            "type": "webpage_text",
+            "title": "浙江社会科学投稿格式",
+            "format": "md",
+            "absolute_path": "/Users/yangyi/periodical_collection/output/期刊整理/0062_浙江社会科学/浙江社会科学投稿格式.md",
+            "content_examples": [
+              "二、本刊实行双向匿名审稿制度",
+              "凡投寄本刊的稿件，请一律按照匿名审稿制度的要求将作者的姓名、所在单位、职务职称、通讯地址、邮政编码、联系电话、E－mail等个人信息全部放在与正文内容相独立的首页，正文中隐去所有相关方面的信息",
+              "四、稿件以全文不超过18000字为宜（包括空格、注释等字数）"
+            ]
+          }
+        ]
+      },
+      {
+        "journal": "中华危重病急救医学",
+        "index": 48,
+        "artifacts": [
+          {
+            "type": "attachment",
+            "title": "中华医学会系列杂志论文投稿介绍信",
+            "format": "docx",
+            "absolute_path": "/Users/yangyi/periodical_collection/output/期刊整理/0048_中华危重病急救医学/attachments/11094400ao0u_86df12ee60.docx"
+          }
+        ]
+      },
+      {
+        "journal": "日本学刊",
+        "index": 57,
+        "artifacts": [
+          {
+            "type": "webpage_text",
+            "title": "日本学刊投稿格式",
+            "format": "md",
+            "absolute_path": "/Users/yangyi/periodical_collection/output/期刊整理/0057_日本学刊/日本学刊投稿格式.md",
+            "content_examples": [
+              " 二、论文封面 本刊实行双向匿名审稿制度，这是对\"权力的监督和制约\"，也是避免\"利益相互输送\"的一种方式",
+              "关作者的信息（包括\"拙著\"等字样），以便匿名评审",
+              " 三、内容提要及其他 1. 内容提要的字数在200～300字，用集约性的语句，对论文的核心内容进行客观叙述"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

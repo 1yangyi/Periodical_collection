@@ -1,0 +1,28 @@
+{
+  "index": 87,
+  "journal": "山东农业科学",
+  "url": "https://agri.cbpt.cnki.net/portal/journal/portal/client/index",
+  "source_sheet": "可打开",
+  "source_row": 88,
+  "started_at": "2026-11-26T20:50:50+08:00",
+  "finished_at": "2026-11-26T20:52:29+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 2,
+    "artifacts": 1,
+    "pending": 1,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0087_山东农业科学/manifest.json",
+  "pages": 3,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 1,
+  "pending_count": 2,
+  "pending_reasons": [
+    "needs_review",
+    "no_valid_word_or_pdf"
+  ]
+}

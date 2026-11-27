@@ -1,0 +1,63 @@
+{
+  "journal": {
+    "name": "植物科学学报",
+    "url": "https://plantscience.cn",
+    "journal_id": "",
+    "row": 35,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://plantscience.cn/",
+  "collected_at": "2026-11-26T20:42:35+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "plantscience.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://plantscience.cn/",
+      "requested_url": "https://plantscience.cn",
+      "title": "导出文件",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:42:35+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://plantscience.cn/zuozhezhinan",
+      "requested_url": "https://plantscience.cn/zuozhezhinan",
+      "title": "作者指南",
+      "path": [
+        "官网入口",
+        "作者指南"
+      ],
+      "visited_at": "2026-11-26T20:42:35+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://plantscience.cn",
+      "title": "植物科学学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

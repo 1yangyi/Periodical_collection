@@ -1,0 +1,74 @@
+{
+  "journal": {
+    "name": "河南工业大学学报.自然科学版",
+    "url": "https://xuebaozk.haut.edu.cn/",
+    "journal_id": "",
+    "row": 25,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://xuebaozk.haut.edu.cn/",
+  "collected_at": "2026-11-26T20:41:22+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "xuebaozk.haut.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://xuebaozk.haut.edu.cn/",
+      "requested_url": "https://xuebaozk.haut.edu.cn/",
+      "title": "导出文件",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:41:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://xuebaozk.haut.edu.cn/zenggaojianze",
+      "requested_url": "https://xuebaozk.haut.edu.cn/zenggaojianze",
+      "title": "征稿简则",
+      "path": [
+        "官网入口",
+        "征稿简则"
+      ],
+      "visited_at": "2026-11-26T20:41:22+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://xuebaozk.haut.edu.cn/news_list.htm?column=qikandongtai",
+      "requested_url": "https://xuebaozk.haut.edu.cn/news_list.htm?column=qikandongtai",
+      "title": "导出文件",
+      "path": [
+        "官网入口",
+        "公告"
+      ],
+      "visited_at": "2026-11-26T20:41:22+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://xuebaozk.haut.edu.cn/",
+      "title": "河南工业大学学报.自然科学版",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "index": 200,
+  "journal": "固体火箭技术",
+  "url": "https://gthjjs.spacejournal.cn/",
+  "source_sheet": "可打开",
+  "source_row": 201,
+  "started_at": "2026-11-26T20:58:15+08:00",
+  "finished_at": "2026-11-26T20:58:26+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 4,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST runs 返回 HTTP 402"
+  ],
+  "manifest": "0200_固体火箭技术/manifest.json",
+  "pages": 4,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 2,
+  "pending_reasons": [
+    "browser_use_failed",
+    "no_valid_word_or_pdf"
+  ]
+}

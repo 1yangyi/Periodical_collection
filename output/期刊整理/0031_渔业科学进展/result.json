@@ -1,0 +1,28 @@
+{
+  "index": 31,
+  "journal": "渔业科学进展",
+  "url": "https://journal.yykxjz.cn/",
+  "source_sheet": "可打开",
+  "source_row": 32,
+  "started_at": "2026-11-26T20:42:00+08:00",
+  "finished_at": "2026-11-26T20:43:52+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 3,
+    "artifacts": 1,
+    "pending": 3,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0031_渔业科学进展/manifest.json",
+  "pages": 5,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 1,
+  "pending_count": 6,
+  "pending_reasons": [
+    "needs_review",
+    "no_valid_word_or_pdf"
+  ]
+}

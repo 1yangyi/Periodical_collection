@@ -1,0 +1,96 @@
+{
+  "journal": {
+    "name": "中华骨质疏松和骨矿盐疾病杂志",
+    "url": "https://guss.cbpt.cnki.net/portal/journal/portal/client/index",
+    "journal_id": "",
+    "row": 81,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://guss.cbpt.cnki.net/portal/journal/portal/client/index",
+  "collected_at": "2026-11-26T20:49:41+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "guss.cbpt.cnki.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://guss.cbpt.cnki.net/portal/journal/portal/client/index",
+      "requested_url": "https://guss.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "中华骨质疏松和骨矿盐疾病杂志",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:49:41+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://guss.cbpt.cnki.net/portal/journal/portal/client/news/guss_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "requested_url": "https://guss.cbpt.cnki.net/portal/journal/portal/client/news/guss_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "title": "杂志稿约",
+      "path": [
+        "首页",
+        "杂志稿约"
+      ],
+      "visited_at": "2026-11-26T20:49:41+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://guss.cbpt.cnki.net/portal/journal/portal/client/news/guss_b7eef0de-6d7f-4eb5-b9bb-4851cb831f4c",
+      "requested_url": "https://guss.cbpt.cnki.net/portal/journal/portal/client/news/guss_b7eef0de-6d7f-4eb5-b9bb-4851cb831f4c",
+      "title": "投稿流程",
+      "path": [
+        "首页",
+        "投稿流程"
+      ],
+      "visited_at": "2026-11-26T20:49:41+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "杂志稿约",
+      "source_url": "https://guss.cbpt.cnki.net/portal/journal/portal/client/news/guss_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "path": [
+        "首页",
+        "杂志稿约"
+      ],
+      "local_path": "web/杂志稿约_f98007e8c1.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "中华骨质疏松和骨矿盐疾病杂志投稿格式",
+      "local_path": "中华骨质疏松和骨矿盐疾病杂志投稿格式.md",
+      "source_urls": [
+        "https://guss.cbpt.cnki.net/portal/journal/portal/client/news/guss_0a96be87-490b-49ff-90aa-bee7b5d1b2cc"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://guss.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "中华骨质疏松和骨矿盐疾病杂志",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

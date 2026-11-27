@@ -1,0 +1,28 @@
+{
+  "index": 102,
+  "journal": "Journal of Ocean Engineering and Science",
+  "url": "https://www.qk.sjtu.edu.cn/joes/EN/rss/showRssInfo.do",
+  "source_sheet": "可打开",
+  "source_row": 103,
+  "started_at": "2026-11-26T20:53:27+08:00",
+  "finished_at": "2026-11-26T20:54:43+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0102_Journal of Ocean Engineering and Science/manifest.json",
+  "pages": 2,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 2,
+  "pending_reasons": [
+    "needs_review",
+    "no_valid_word_or_pdf"
+  ]
+}

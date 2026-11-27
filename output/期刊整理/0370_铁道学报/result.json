@@ -1,0 +1,37 @@
+{
+  "index": 370,
+  "journal": "铁道学报",
+  "url": "http://tdxb.cbpt.cnki.net/portal/journal/portal/client/index",
+  "source_sheet": "可打开",
+  "source_row": 371,
+  "started_at": "2026-11-26T21:00:19+08:00",
+  "finished_at": "2026-11-26T21:00:43+08:00",
+  "status": "completed",
+  "browser_use_invoked": false,
+  "before_fallback": null,
+  "browser_use_errors": [],
+  "manifest": "0370_铁道学报/manifest.json",
+  "pages": 2,
+  "attachments": [
+    {
+      "title": "2026-08-24 置顶 《铁道学报》稿件排版格式要求",
+      "format": "pdf",
+      "local_path": "0370_铁道学报/attachments/4b78f4ae-2f5c-416d-abf7-c6a1532358f8_7f12677876.pdf",
+      "sha256": "7f1267787626b042c1d9931e30bf728cc976b9a54d4b5486d7aa9c6a2cc20e0c",
+      "bytes": 137770
+    },
+    {
+      "title": "2026-08-24 置顶 参考文献著录格式要求",
+      "format": "docx",
+      "local_path": "0370_铁道学报/attachments/d3a3d80d-c987-4af4-a404-25a08975055b_14d3cc80fd.docx",
+      "sha256": "14d3cc80fd58463ced1fb3d2c35437b534e9a35daed4c14c969933e2cd9c35aa",
+      "bytes": 22653
+    }
+  ],
+  "original_count": 2,
+  "webpage_text": 0,
+  "pending_count": 1,
+  "pending_reasons": [
+    "invalid_or_failed_attachment"
+  ]
+}

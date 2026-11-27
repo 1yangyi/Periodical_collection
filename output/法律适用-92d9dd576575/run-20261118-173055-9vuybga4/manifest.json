@@ -1,0 +1,85 @@
+{
+  "journal": {
+    "name": "法律适用",
+    "url": "https://flsy.cbpt.cnki.net/portal/journal/portal/client/index",
+    "journal_id": "CSSCI-2025-0006",
+    "row": 7,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://flsy.cbpt.cnki.net/portal/journal/portal/client/index",
+  "collected_at": "2026-11-18T17:30:55+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "flsy.cbpt.cnki.net"
+    ],
+    "limits": {
+      "max_pages": 18,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 10.0,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": true,
+      "use_browser_use": false
+    }
+  },
+  "pages": [
+    {
+      "url": "https://flsy.cbpt.cnki.net/portal/journal/portal/client/index",
+      "requested_url": "https://flsy.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "法律适用",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-18T17:30:55+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://flsy.cbpt.cnki.net/portal/journal/portal/client/news/FLSY_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "requested_url": "https://flsy.cbpt.cnki.net/portal/journal/portal/client/news/FLSY_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "title": "投稿须知",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-18T17:30:55+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿须知",
+      "source_url": "https://flsy.cbpt.cnki.net/portal/journal/portal/client/news/FLSY_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "local_path": "web/投稿须知_8911828e99.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "法律适用投稿格式",
+      "local_path": "法律适用投稿格式.md",
+      "source_urls": [
+        "https://flsy.cbpt.cnki.net/portal/journal/portal/client/news/FLSY_0a96be87-490b-49ff-90aa-bee7b5d1b2cc"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://flsy.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "法律适用",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

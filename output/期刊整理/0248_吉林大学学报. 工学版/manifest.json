@@ -1,0 +1,61 @@
+{
+  "journal": {
+    "name": "吉林大学学报. 工学版",
+    "url": "https://cjournal.hep.com.cn/1671-5497/CN/archive_by_years",
+    "journal_id": "",
+    "row": 249,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://cjournal.hep.com.cn/1671-5497/CN/archive_by_years",
+  "collected_at": "2026-11-26T20:59:01+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "cjournal.hep.com.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://cjournal.hep.com.cn/1671-5497/CN/archive_by_years",
+      "requested_url": "https://cjournal.hep.com.cn/1671-5497/CN/archive_by_years",
+      "title": "吉林大学学报(工学版)",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:01+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://cjournal.hep.com.cn/1671-5497/CN/archive_by_years",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://cjournal.hep.com.cn/1671-5497/CN/archive_by_years",
+      "title": "吉林大学学报. 工学版",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "journal": {
+    "name": "中国中药杂志",
+    "url": "https://www.cpa.org.cn/?cid=76276&do=info",
+    "journal_id": "",
+    "row": 160,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.cpa.org.cn/?cid=76276&do=info",
+  "collected_at": "2026-11-26T20:57:42+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.cpa.org.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.cpa.org.cn/?cid=76276&do=info",
+      "requested_url": "https://www.cpa.org.cn/?cid=76276&do=info",
+      "title": "《中国中药杂志》 - 中国药学会",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:57:42+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cpa.org.cn/?do=infolist&classid=214",
+      "requested_url": "https://www.cpa.org.cn/?do=infolist&classid=214",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:57:42+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cpa.org.cn/?do=infolist&classid=324",
+      "requested_url": "https://www.cpa.org.cn/?do=infolist&classid=324",
+      "title": "通知公告 - 中国药学会",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:57:42+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cpa.org.cn/?do=infolist&classid=306",
+      "requested_url": "https://www.cpa.org.cn/?do=infolist&classid=306",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:57:42+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cpa.org.cn/?do=infolist&classid=324&page=2",
+      "requested_url": "https://www.cpa.org.cn/?do=infolist&classid=324&page=2",
+      "title": "通知公告 - 中国药学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2"
+      ],
+      "visited_at": "2026-11-26T20:57:42+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cpa.org.cn/?do=infolist&classid=324&page=3",
+      "requested_url": "https://www.cpa.org.cn/?do=infolist&classid=324&page=3",
+      "title": "通知公告 - 中国药学会",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "3"
+      ],
+      "visited_at": "2026-11-26T20:57:42+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cpa.org.cn/?do=infolist&classid=324&page=4",
+      "requested_url": "https://www.cpa.org.cn/?do=infolist&classid=324&page=4",
+      "title": "4",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "4"
+      ],
+      "visited_at": "2026-11-26T20:57:42+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cpa.org.cn/?do=infolist&classid=324&page=1",
+      "requested_url": "https://www.cpa.org.cn/?do=infolist&classid=324&page=1",
+      "title": "1",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2",
+        "1"
+      ],
+      "visited_at": "2026-11-26T20:57:42+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.cpa.org.cn/?cid=76276&do=info",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://www.cpa.org.cn/?cid=76276&do=info",
+      "title": "中国中药杂志",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

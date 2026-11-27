@@ -1,0 +1,61 @@
+{
+  "journal": {
+    "name": "中国农业资源与区划",
+    "url": "https://caas.cn/xxfw/zyfw/cqk/0f3abeda47d940f7acd572fc94d91958.htm",
+    "journal_id": "",
+    "row": 157,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://caas.cn/xxfw/zyfw/cqk/0f3abeda47d940f7acd572fc94d91958.htm",
+  "collected_at": "2026-11-26T20:57:40+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "caas.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://caas.cn/xxfw/zyfw/cqk/0f3abeda47d940f7acd572fc94d91958.htm",
+      "requested_url": "https://caas.cn/xxfw/zyfw/cqk/0f3abeda47d940f7acd572fc94d91958.htm",
+      "title": "中国农业资源与区划",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:57:40+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://caas.cn/xxfw/zyfw/cqk/0f3abeda47d940f7acd572fc94d91958.htm",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://caas.cn/xxfw/zyfw/cqk/0f3abeda47d940f7acd572fc94d91958.htm",
+      "title": "中国农业资源与区划",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

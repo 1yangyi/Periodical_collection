@@ -1,0 +1,74 @@
+{
+  "journal": {
+    "name": "应用气象学报",
+    "url": "http://qikan.camscma.cn/",
+    "journal_id": "",
+    "row": 31,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://qikan.camscma.cn/",
+  "collected_at": "2026-11-26T20:41:54+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "qikan.camscma.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://qikan.camscma.cn/",
+      "requested_url": "http://qikan.camscma.cn/",
+      "title": "导出文件",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:41:54+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qikan.camscma.cn/tougaozhinan",
+      "requested_url": "https://qikan.camscma.cn/tougaozhinan",
+      "title": "征稿简则",
+      "path": [
+        "官网入口",
+        "征稿简则"
+      ],
+      "visited_at": "2026-11-26T20:41:54+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://qikan.camscma.cn/tougaozhinan_cn",
+      "requested_url": "https://qikan.camscma.cn/tougaozhinan_cn",
+      "title": "投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:41:54+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "http://qikan.camscma.cn/",
+      "title": "应用气象学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "journal": {
+    "name": "外语导刊",
+    "url": "http://jfjw.cbpt.cnki.net",
+    "journal_id": "",
+    "row": 226,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://jfjw.cbpt.cnki.net/EditorGN/Quit.aspx",
+  "collected_at": "2026-11-26T20:58:43+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "jfjw.cbpt.cnki.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://jfjw.cbpt.cnki.net/EditorGN/Quit.aspx",
+      "requested_url": "http://jfjw.cbpt.cnki.net",
+      "title": "",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:58:43+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://jfjw.cbpt.cnki.net/portal/journal/portal/client/index",
+      "requested_url": "https://jfjw.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "外语导刊",
+      "path": [
+        "官网入口",
+        "知网期刊首页"
+      ],
+      "visited_at": "2026-11-26T20:58:43+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://jfjw.cbpt.cnki.net/portal/journal/portal/client/news/jfjw_4a352e7d-e1a0-4259-af22-b972ea8cc4f0",
+      "requested_url": "https://jfjw.cbpt.cnki.net/portal/journal/portal/client/news/jfjw_4a352e7d-e1a0-4259-af22-b972ea8cc4f0",
+      "title": "投稿指南",
+      "path": [
+        "官网入口",
+        "知网期刊首页",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:58:43+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿指南",
+      "source_url": "https://jfjw.cbpt.cnki.net/portal/journal/portal/client/news/jfjw_4a352e7d-e1a0-4259-af22-b972ea8cc4f0",
+      "path": [
+        "官网入口",
+        "知网期刊首页",
+        "投稿指南"
+      ],
+      "local_path": "web/投稿指南_31d99cca4c.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "外语导刊投稿格式",
+      "local_path": "外语导刊投稿格式.md",
+      "source_urls": [
+        "https://jfjw.cbpt.cnki.net/portal/journal/portal/client/news/jfjw_4a352e7d-e1a0-4259-af22-b972ea8cc4f0"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://jfjw.cbpt.cnki.net/portal/journal/portal/client/download/jfjw_54253c13-816a-4cda-85b4-048f7444fa78?title=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83",
+      "title": "下载中心",
+      "source_url": "https://jfjw.cbpt.cnki.net/portal/journal/portal/client/news/jfjw_4a352e7d-e1a0-4259-af22-b972ea8cc4f0",
+      "path": [
+        "官网入口",
+        "知网期刊首页",
+        "投稿指南",
+        "下载中心"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载中心"
+    },
+    {
+      "url": "http://jfjw.cbpt.cnki.net",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "http://jfjw.cbpt.cnki.net",
+      "title": "外语导刊",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

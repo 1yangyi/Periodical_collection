@@ -1,0 +1,380 @@
+
+
+<script>
+function addCookie(url,title)
+{
+ if (document.all)
+    {
+       window.external.addFavorite(url,title);
+    }
+    else if (window.sidebar)
+    {
+       window.sidebar.addPanel(title, url, "");
+ }
+}
+
+function setHomepage(homeurl)
+{
+ if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+  document.body.setHomePage(homeurl);
+ 
+    }
+    else if (window.sidebar)
+    {
+    if(window.netscape)
+    {
+         try
+   {  
+            netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");  
+         }  
+         catch (e)  
+         {  
+    alert( "该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true" );  
+         }
+    } 
+    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+    prefs.setCharPref('browser.startup.homepage',homeurl);
+ }
+} 
+</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>
+        西北农林科技大学学报社会科学版
+    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <script type="text/javascript" src="../js/calendar_new.js"></script>
+
+    <script type="text/javascript" src="../js/checkform.js"></script>
+
+    <script type="text/javascript" src="../js/ajax.js"></script>
+
+    <script type="text/javascript" src="../js/jquery.js"></script>
+
+    <link href="../css/front_table_css.css" rel="stylesheet" type="text/css">
+    <link href="../css/kuangjia.css" rel="stylesheet" type="text/css">
+    <style type="text/css"> 
+<!--
+.STYLE1 {color: #FF0000}
+-->
+</style>
+</head>
+<body>
+    <center>
+        <div id="container">
+            <!-------------------------头部------------------------->
+            <div id="top">
+                <div class="logo">
+                </div>
+                <div class="navigation">
+                    <ul>
+                        <li style="width: 250px; color: #000000;">今天是：
+
+                            <script language="javascript">
+											var week,day,month,year
+											function initArray(){
+											this.length =initArray.arguments.length
+											for (var i = 0; i < this.length; i++)
+											this[i+1] = initArray.arguments[i]
+											}
+											var LastModDate = new Date(document.lastModified);
+											var WeekArray = new initArray("星期日","星期一","星期二","星期三","星期四","星期五","星期六");
+											var MonthArray = new initArray("1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月");
+											day = LastModDate.getDate() +"日";
+											year = LastModDate.getFullYear() +"年";
+											week = WeekArray[(LastModDate.getDay()+1)];
+											month = MonthArray[(LastModDate.getMonth()+1)];
+											now = new Date();
+											time = now.toLocaleTimeString(); 
+											document.write(year,month,day,"",week,"    ");
+                            </script>
+
+                        </li>
+                        <li>
+                            <A href="../index.aspx"><b>首页</b></A><b style='color:#ffffff;text-align:center;'>|</b><A href="../first_menu.aspx?parent_id=20091027194834001"><b>期刊介绍</b></A><b style='color:#ffffff;text-align:center;'>|</b><A href="../first_menu.aspx?parent_id=20091027194948001"><b>编委会</b></A><b style='color:#ffffff;text-align:center;'>|</b><A href="../first_menu.aspx?parent_id=20091027195000001"><b>投稿指南</b></A><b style='color:#ffffff;text-align:center;'>|</b><A href="../first_menu.aspx?parent_id=20091202163048001"><b>审稿指南</b></A><b style='color:#ffffff;text-align:center;'>|</b><A href="../first_menu.aspx?parent_id=20091027195010001"><b>期刊订阅</b></A><b style='color:#ffffff;text-align:center;'>|</b><A href="../first_menu.aspx?parent_id=20091027195047001"><b>联系我们</b></A><b style='color:#ffffff;text-align:center;'>|</b><A href="../first_menu.aspx?parent_id=20091027195024001"><b>下载中心</b></A><b style='color:#ffffff;text-align:center;'>|</b><A href="../first_menu.aspx?parent_id=20091102170043001"><b>English</b></A>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <!-------------------------头部------------------------->
+            <div id="zhong">
+                <!-------------------------左部------------------------->
+                <div class="left">
+                    <div class="left-k">
+                        <div class="left-p">
+                            <img src="../ext_images/le_01.jpg" /></div>
+                        <ul>
+                            <li><a href="../author/login.aspx"><img src="../ext_images/1.gif"></a></li>
+                            <li><a href="../login.aspx"><img src="../ext_images/2.gif"></a></li>
+                            <li><a href="../auditor/login.aspx"><img src="../ext_images/3.gif"></a></li>
+                            <li><a href="../auditor/login.aspx"><img src="../ext_images/4.gif"></a></li>
+                            <li><a href="../author/login.aspx"><img src="../ext_images/5.gif"></a></li>
+                        </ul>
+                        <div class="left-b">
+                        </div>
+                    </div>
+                    <div class="left-k1">
+                        <div class="left-p">
+                            <img src="../ext_images/le_07.jpg" /></div>
+                        <ul>
+                        
+								 <li><a href="../reader/view_news.aspx?id=20091027191729001" target="_blank"><b>文献著录格式</b></a></li>
+							
+								 <li><a href="../reader/view_news.aspx?id=20091027191707001" target="_blank"><b>本刊稿约</b></a></li>
+							
+                        </ul>
+                        <div class="left-b">
+                        </div>
+                    </div>
+                    <div class="left-k2">
+                        <div class="left-p2">
+                            <img src="../ext_images/le_13.jpg" /></div>
+                        <ul>
+                        
+                         <li><a href="https://check.cnki.net/smlc/" target="_blank">社科期刊学术不端文献检测系统</a></li>
+                          
+                         <li><a href="http://www.nwsuaf.edu.cn/" target="_blank">西北农林科技大学</a></li>
+                          
+                         <li><a href="http://www.sju.cnki.net/sju/navi/issue.aspx?pykm=SANN" target="_blank">“三农”问题研究电子刊</a></li>
+                          
+                         <li><a href="http://www.cnki.net/" target="_blank">中国知网</a></li>
+                          
+                         <li><a href="http://www.xinhuawz.com/" target="_blank">新华文摘</a></li>
+                          
+                         <li><a href="http://www.zlzx.org/" target="_blank">人大书报资料中心</a></li>
+                          
+                         <li><a href="http://cssci.nju.edu.cn/" target="_blank">中文社会科学引文索引</a></li>
+                          
+                         <li><a href="http://www.e-tiller.com" target="_blank">北京勤云科技</a></li>
+                          
+                        </ul>
+                        <div class="left-b">
+                        </div>
+                    </div>
+                    <div class="left-k3">
+                        <div class="left-p3">
+                            <img src="../ext_images/le_15.jpg" /></div>
+                        <ul>
+                            <li class="kuan3">主 编：</li><li class="kuan2">黄思光</li>
+                        </ul>
+                        <ul>
+                            <li class="kuan3">主 任：</li><li class="kuan2">张　洁</li>
+                        </ul>
+                        <ul>
+                            <li class="kuan3">刊 期：</li><li class="kuan2">双月刊</li>
+                        </ul>
+                        <ul>
+                            <li class="kuan3">电 话：</li><li class="kuan2">029-87092606；029-87092306</li>
+                        </ul>
+                        <ul>
+                            <li class="kuan3">E-mail：</li><li class="kuan2">xnxb2606@163.com</li>
+                        </ul>
+                        <ul>
+                            <li class="kuan4">邮发代号：</li><li class="kuan2">52-254</li>
+                        </ul>
+                        <ul>
+                            <li class="kuan4">创刊时间：</li><li class="kuan2">2001年1月</li>
+                        </ul>
+                        <ul>
+                            <li class="kuan4">主办单位：</li><li class="kuan2">西北农林科技大学</li>
+                        </ul>
+                        <ul>
+                            <li class="kuan4">主管单位：</li><li class="kuan2">中华人民共和国教育部</li>
+                        </ul>
+                        <ul>
+                            <li class="kuan1">国内统一刊号：</li><li class="kuan2">CN 61-1376/C</li>
+                        </ul>
+                        <ul>
+                            <li class="kuan1">国际标准刊号：</li><li class="kuan2">ISSN 1009-9107</li>
+                        </ul>
+                        <ul>
+                            <li class="kuan1">编辑部地址：</li><li class="kuan2" style="width:132px;" >712100 陕西 杨凌 西北农林科大北校区34信箱</li>
+                        </ul>
+                        <div class="left-b">
+                        </div>
+                    </div>
+                </div>
+                <div style="float:left;width:768px;height:auto;background:#ffffff;margin-top:10px;margin-left:18px;border-bottom:solid 10px #e2e2e2;">
+<span id="ErrorMessage"></span>
+<table cellspacing="1" cellpadding="4" align="center" id="QueryUI" class="front_table">
+  <tr> 
+    <td height="420" valign="top">
+	    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+	      <tr>
+		<td width="100%"><span id="Content"><p align="left" class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt"><o:p>&nbsp;</o:p></span></p>
+
+<p align="center" class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center;mso-pagination:widow-orphan"><span style="font-size:
+16.0pt;font-family:黑体;mso-bidi-font-family:宋体;color:#333333;mso-font-kerning:
+0pt">参考文献的著录格式</span><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(51, 51, 51);">　　</span></span></span><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(51, 51, 51);">论文在撰写过程中如参考了有关文献资料，请以<span lang="EN-US">&ldquo;</span>参考文献<span lang="EN-US">&rdquo;</span>为标识。采用</span><span style="color: purple;">顺序编码制，在正文引文处</span><span style="color: rgb(51, 51, 51);">按引用文献在论文中出现的</span><span style="color: purple;">先后顺序，</span><span style="color: rgb(51, 51, 51);">用阿拉伯数字连续编码，序号置于</span><span lang="EN-US" style="color: purple;">&ldquo;</span><span style="color: purple;">［ ］<span lang="EN-US">&rdquo;</span></span><span style="color: rgb(51, 51, 51);">内，未公开发表的资料原则上不引用。</span></span></span><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(51, 51, 51);">　　</span>文献类型和标识代码：图书&mdash;M，</span></span><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">期刊&mdash;J，报纸&mdash;N，</span><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">会议录&mdash;C，学位论文&mdash;D，报告&mdash;R，标准&mdash;S，专利&mdash;P，网站、网页</span></span><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">&mdash;EB，档案&mdash;A，地图&mdash;CM，数据集&mdash;DS，预印本&mdash;PP，汇编&mdash;G，</span><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">计算机程序&mdash;CP，</span></span><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">数据库&mdash;DB，其他&mdash;Z</span><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">。</span></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">　　</span><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">电子资源载体和标识代码：磁带&mdash;MT，磁盘&mdash;DK，光盘&mdash;CD，联机网络&mdash;OL，缩微资料</span></span><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">&mdash;MM</span><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">。</span></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><b><span style="color: rgb(51, 51, 51);">　　参考文献列表格式：</span></b></span></span><span lang="EN-US" style="font-size:
+12.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(51, 51, 51);">　　</span><span style="color: blue;">图书、学位论文、报告</span></span></span><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(51, 51, 51);">　　</span><span lang="EN-US" style="color: purple;">[</span><span style="color: purple;">序号<span lang="EN-US">] </span>作者 <span lang="EN-US">(</span>前三位<span lang="EN-US">) . </span>文献题名<span lang="EN-US">[</span>文献类型标识<span lang="EN-US">]. </span>出版地<span lang="EN-US">: </span>出版者<span lang="EN-US">, </span>出版年<span lang="EN-US">: </span>页码<span lang="EN-US">.</span></span></span></span><span lang="EN-US" style="font-size:12.0pt;font-family:
+宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;">　　[1] 邹德秀. 500年科技文明与人文思潮 [M]. 北京: 科技出版社, 2000: 182.<br />
+　　[2] 萨伊. 政治经济学概论 [M]. 陈福生, 陈振骅, 译. 北京: 商务印书馆, 1963: 285.<br />
+　　[3] Williams R. The country and the city [M]. London: Chatto and Windus, 1973: 297.<br />
+　　[4] 李树静. 当代中国农村契约秩序研究 [D]. 北京: 中国社会科学院研究生院, 2020: 129.<br />
+　　[5] 朱春全, 罗德内&middot;泰勒, 奉国强. 中国木材市场、贸易和环境 [R]. 北京: 世界自然基金会北京办事处, 2010: 40-42.</span><span lang="EN-US" style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(51, 51, 51);">　　</span><span style="color: blue;">期刊文章</span></span></span><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(51, 51, 51);">　　</span><span lang="EN-US" style="color: purple;">[</span><span style="color: purple;">序号<span lang="EN-US">] </span>作者 <span lang="EN-US">(</span>前三位<span lang="EN-US">) . </span>文献题名<span lang="EN-US">[J]. </span>刊名<span lang="EN-US">, </span>年<span lang="EN-US">, </span>卷 <span lang="EN-US">(</span>期<span lang="EN-US">) : </span>起止页码<span lang="EN-US">.</span></span></span></span><span lang="EN-US" style="font-size:12.0pt;font-family:
+宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">　　[6] 张振, 高鸣, 苗海民. 农户测土配方施肥技术采纳差异性及其机理 [J]. 西北农林科技大学学报(社会科学版), 2020, 20(2): 120-128.<br />
+　　[7] 井水, 张海涛, 王丽英, 等. 西部地区农业发展的特点及其出路 [J]. 西北农林科技大学学报(社会科学版), 2003, 3(3): 76-80.<br />
+　　[8] Liao C N, Chen Y J. Farmers&rsquo; information management in developing countries&mdash;A highly asymmetric information structure [J]. Production and Operations Management, 2017, 26(6): 1207-1220.<br />
+　　[9] Zhou N, Cheng W L, Zhang L Y. Land rights and investment incentives: Evidence from China&rsquo;s Latest Rural Land Titling Program [J]. Land Use Policy, 2022, 117: 106126.<br />
+　　[10] Inman A, Winter M, Wheeler R, et al. An exploration of individual, social and material factors influencing water pollution mitigation behaviours within the farming community [J]. Land Use Policy, 2018, 70: 16-26.</span></span><span style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt"><span lang="EN-US"><o:p></o:p></span></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(51, 51, 51);">　　</span><span style="color: blue;">论文集中的析出文章</span></span></span><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(51, 51, 51);">　　</span><span lang="EN-US" style="color: purple;">[</span><span style="color: purple;">序号<span lang="EN-US">] </span>析出文章作者<span lang="EN-US">. </span>析出文献题名<span lang="EN-US">[M]//</span>原文献作者<span lang="EN-US">[</span>任选<span lang="EN-US">]. </span>原文献题名<span lang="EN-US">. </span>出版地<span lang="EN-US">: </span>出版社<span lang="EN-US">, </span>出版年</span></span></span><span style="color: rgb(128, 0, 128); font-family: arial, helvetica, sans-serif; font-size: 16px; font-style: italic;">:&nbsp;</span><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: purple;">析出文献起止页码<span lang="EN-US">.</span></span></span></span><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(51, 51, 51);">　　</span>[11] 杜润生.联产承包制是农村合作经济的新发展 [M]//黄道霞. 建国以来农业合作化史料汇编. 北京: 中共党史出版社, 1992: 1011.</span></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">　　</span><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: blue;">报纸文章</span></span></span><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(51, 51, 51);">　　</span><span lang="EN-US" style="color: purple;">[</span><span style="color: purple;">序号<span lang="EN-US">] </span>作者<span lang="EN-US">. </span>文章题目<span lang="EN-US">[N]. </span>报纸名<span lang="EN-US">, </span>出版日期 <span lang="EN-US">(</span>版次<span lang="EN-US">) .</span></span></span></span><span lang="EN-US" style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="color: rgb(51, 51, 51);">　　</span>[12] 白雪华, 韩业庭. 用数字化赋能公共文化服务 [N]. 光明日报, 2022-04-26(05).</span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(51, 51, 51);">　　</span><span style="color: blue;">电子文献</span></span></span><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(51, 51, 51);">　　</span><span lang="EN-US" style="color: purple;">[</span><span style="color: purple;">序号<span lang="EN-US">] </span>作者<span lang="EN-US">. </span>电子文献题名<span lang="EN-US">[</span>电子文献及载体类型标识<span lang="EN-US">]. (</span>更新或修改日期<span lang="EN-US">) [</span>引用日期<span lang="EN-US">]. </span>电子文献的出处或可获得地址<span lang="EN-US">.</span></span></span></span><span lang="EN-US" style="font-size:12.0pt;font-family:
+宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">　　[13] 周道许. 做好农村金融五篇大文章,赋能&ldquo;三农&rdquo;新质生产力 [EB/OL]. (2024-03-28) [2024-08-08]. http://news.sohu.com/a/767490631_674079.<br />
+　　[14] 万锦坤. 中国大学学报论文文摘 (1983-1993) . 英文版 [DB/CD]. 北京: 中国大百科全书出版社, 1996.</span></span><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><b><span style="color: rgb(51, 51, 51);">　　</span></b><b><span style="color: red;">特别注意事项：</span></b></span></span><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">　　（<span lang="EN-US">1</span>）因期刊专业排版软件的兼容性，请不要使用微软<span lang="EN-US">Word</span>软件中的脚注或尾注方式插入参考文献；可以使用文字录入方式在<span lang="EN-US">Word</span>软件中输入参考文献，也可以使用<span lang="EN-US">Endnote</span>、<span lang="EN-US">NoteExpress</span>、知网研学等文献管理软件在<span lang="EN-US">Word</span>软件中插入参考文献。</span></span><span style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt"><span lang="EN-US"><o:p></o:p></span></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">　　（<span lang="EN-US">2</span>）对于标识为</span></span>&ldquo;［M］&rdquo;&ldquo;［D］&rdquo;<span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">等<strong>书籍</strong>类别的参考文献类型，如果正文<strong>多次</strong>引用该文献且引文页码<strong>不同</strong>，那么正文文献序号后<strong>加上</strong>引文页码或起止页码（页码以上标格式放在<span lang="EN-US">&ldquo;</span>［ ］<span lang="EN-US">&rdquo;</span>后面</span></span><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">），文后的参考文献表中该文献<strong>不标注</strong>著录页码；如果正文<strong>单次</strong>引用该文献或<strong>多次</strong>引用该文献且引文页码<strong>相同</strong>，那么正文文献序号后<strong>不加</strong>引文页码或起止页码，</span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);">文后的参考文献表中该文献<strong>标注</strong>著录页码</span><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">。</span></span><span style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt"><span lang="EN-US"><o:p></o:p></span></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">　　示例：</span></span><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">治理是各种公共的或者私人的个人和机构管理其共同事物的诸多方式的总和</span></span><span style="font-size:16px;"><sup><span style="font-family: arial, helvetica, sans-serif;">［</span><i style="font-family: arial, helvetica, sans-serif; font-size: 10.8333px;">3</i><span style="font-family: arial, helvetica, sans-serif;">］</span></sup></span><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">。<span style="font-style: italic;">&hellip;&hellip;</span>沿用乡村治理的评价指标体系<sup style="font-family: arial, helvetica, sans-serif;">［<span lang="EN-US">4</span>］81-85</sup><sup><span style="color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);">［</span><span lang="EN-US" style="font-style: italic; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);">5</span><span style="color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);">］19</span></sup></span></span><span style="font-family: arial, helvetica, sans-serif; font-size: 16px; font-style: italic;">，&hellip;&hellip;</span><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">强化了资源驱动</span><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><sup style="font-family: arial, helvetica, sans-serif;">［<span lang="EN-US">4</span>］23［<i>9</i>］</sup></span></span><span lang="EN-US" style="font-family: arial, helvetica, sans-serif; font-size: 16px;">。</span><span style="font-family: arial, helvetica, sans-serif; font-size: 16px; font-style: italic;">&hellip;&hellip;</span><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">治理不是一整套规则，也不是一种活动，而是一个不同的利益得以调和并采取联合行动的持续的过程</span><sup><span style="font-family: arial, helvetica, sans-serif;">［</span><i style="font-size: 10.8333px; font-family: arial, helvetica, sans-serif;">3</i><span style="font-family: arial, helvetica, sans-serif;">］</span></sup></span><span style="font-size: 10.8333px; font-family: arial, helvetica, sans-serif;">。</span><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">&hellip;&hellip;用模糊综合评价法处理乡村治理的评价指标</span><sup><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; background-color: rgb(255, 255, 255);">［</span><span lang="EN-US" style="font-style: italic; color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; background-color: rgb(255, 255, 255);">5</span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; background-color: rgb(255, 255, 255);">］26-31</span></sup><span style="font-family:arial,helvetica,sans-serif;">，进行乡村治理效能的测定。</span></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">　　</span><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">对于此例，</span><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">文后的参考文献表中，文献[3]和</span></span><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">[9]</span><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">标注著录页码。文献[4]和</span></span><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">[5]</span><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">不标注著录页码。</span></span><span style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt"><span lang="EN-US"><o:p></o:p></span></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">　　</span></span><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">（</span><span lang="EN-US" style="font-family: arial, helvetica, sans-serif; font-size: 16px;">3</span><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">）正文</span><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">同一处引用多篇文献时，只须将各篇文献的序号在方括号内全部列出，由小到大排序，各序号间之用<span lang="EN-US">&ldquo;, &rdquo;</span>，如果是连续序号，用<span lang="EN-US">&ldquo;-&rdquo;</span>标注起止序号。</span></span><span style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt"><span lang="EN-US"><o:p></o:p></span></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">　　示例：裴伟<sup>［<span lang="EN-US">16, 25</span>］</sup>提出<span lang="EN-US">&hellip;&hellip;</span>；稳定区的节理模式<sup>［<span lang="EN-US">22-23, 27, 36</span>］</sup>。</span></span><span style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt"><span lang="EN-US"><o:p></o:p></span></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">　　文中同时列出多个作者，作者之间用顿号隔开，对其标注时，就在其列出的每个作者上方用标号注明，如张三<sup>［<span lang="EN-US">1</span>］</sup>、李四<sup>［<span lang="EN-US">2</span>］</sup>、王五<sup>［<span lang="EN-US">3</span>］</sup>。</span></span><span style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt"><span lang="EN-US"><o:p></o:p></span></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">　　示例：此外，各类反思文章也较多，其中代表性的主要有刘洪波<sup>［<span lang="EN-US">2</span>］</sup>、黄宗忠<sup>［<span lang="EN-US">3</span>］</sup>、裴成发<sup>［<span lang="EN-US">4</span>］</sup>、邱五芳<sup>［<span lang="EN-US">5</span>］</sup>等人的文章。</span></span><span style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt"><span lang="EN-US"><o:p></o:p></span></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">　　（<span lang="EN-US">4</span>）参考文献列表中，文献作者、年份、卷（期）号等信息要完整；专著、学位论文、报告、期刊、析出文章等类型的文献，页码不可遗漏。</span></span><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">英文文献作者的姓全写、名缩写，姓在前名在后。作者在<span lang="EN-US">3</span>人以内的全部列出，<span lang="EN-US">3</span>人以上者，中文文献应列出<span lang="EN-US">3</span>人后再加<span lang="EN-US">&ldquo;</span>等<span lang="EN-US">&rdquo;</span>，且<span lang="EN-US">&ldquo;</span>等<span lang="EN-US">&rdquo;</span>前要加逗号；英文文献应列出<span lang="EN-US">3</span>人后再加<span lang="EN-US">&ldquo;et al&rdquo;</span>，且<span lang="EN-US">&ldquo;et al&rdquo;</span>前要加逗号。</span></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">　　（<span lang="EN-US">5</span>）文献类型标识为<span lang="EN-US">[J]</span>，就需要标注页码；文献类型标识为<span lang="EN-US">[J/OL]</span>、<span lang="EN-US">[R/OL]</span>和<span lang="EN-US">[Z/OL]</span>等联机网络</span></span><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">文献类型，就需标注页码、更新或修改日期、引用日期和获取路径（即网址）。部分电子图书、数字期刊、数字报纸等电子文献如果没有刊名、刊期或页码等信息，就沿用电子文献格式，不标注</span></span><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">刊名、</span><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">刊期或</span><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">页码等空缺著录项目</span><span style="font-size: 16px;"><span style="font-family:arial,helvetica,sans-serif;">，但需注明更新日期或修改日期和引用日期。</span></span></p>
+
+<p align="left" class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;
+margin-bottom:7.8pt;margin-left:0cm;text-align:left;line-height:15.0pt;
+mso-pagination:widow-orphan"><span style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt"><span lang="EN-US"><o:p></o:p></span></span></p>
+
+<p class="MsoNormal" style="margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;line-height:15.0pt;mso-pagination:widow-orphan"><span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">　　</span><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">（<span lang="EN-US">6</span>）注释符号为<span lang="EN-US">①②③&hellip;&hellip;, </span>要与参考文献区别，具体内容放在每页脚注中。</span></span><span style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt"><span lang="EN-US"><o:p></o:p></span></span></p>
+
+<p class="MsoNormal"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><span lang="EN-US"><o:p>&nbsp;</o:p></span></span></span></p></span></td>
+	      </tr>
+	    </table>
+    </td>    
+</tr>
+ <tr><td align="center" height="50"> 
+  
+	 <input type="button" value="关闭" onclick="javascript:window.close();">
+  
+</td></tr>
+</table>  
+  
+                </div>
+            <div id="footer" style="background:#ffffff;"><br /><br/>您是本站第70091206位访问者
+<br />
+版权所有：《西北农林科技大学学报（社会科学版）》编辑部<br />
+	<a href="https://beian.miit.gov.cn/#/Integrated/index">陕ICP备05001586号-5</a><br/>
+  	技术支持：<a href="http://www.e-tiller.com" style="color:#fe883e">北京勤云科技发展有限公司</a><br />
+  	
+            </div>
+
+      </div>
+</center>
+</body>
+
+</html>
+

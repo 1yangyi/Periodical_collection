@@ -1,0 +1,27 @@
+{
+  "index": 77,
+  "journal": "半导体技术",
+  "url": "https://www.cetc13.cn/13/385525/385529/388430/index.html",
+  "source_sheet": "可打开",
+  "source_row": 78,
+  "started_at": "2026-11-26T20:49:13+08:00",
+  "finished_at": "2026-11-26T20:51:10+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0077_半导体技术/manifest.json",
+  "pages": 4,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 1,
+  "pending_count": 1,
+  "pending_reasons": [
+    "no_valid_word_or_pdf"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "journal": {
+    "name": "中国语文研究",
+    "url": "https://scl.ojhhk.com/CN/home",
+    "journal_id": "",
+    "row": 56,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://scl.ojhhk.com/CN/home",
+  "collected_at": "2026-11-26T20:46:01+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "scl.ojhhk.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://scl.ojhhk.com/CN/home",
+      "requested_url": "https://scl.ojhhk.com/CN/home",
+      "title": "中國語文研究",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:46:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://scl.ojhhk.com/CN/column/column25.shtml",
+      "requested_url": "https://scl.ojhhk.com/CN/column/column25.shtml",
+      "title": "中國語文研究 投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:46:01+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://scl.ojhhk.com/CN/column/column23.shtml",
+      "requested_url": "https://scl.ojhhk.com/CN/column/column23.shtml",
+      "title": "中國語文研究 期刊介紹",
+      "path": [
+        "首页",
+        "期刊介绍"
+      ],
+      "visited_at": "2026-11-26T20:46:01+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://scl.ojhhk.com/CN/home",
+      "title": "中国语文研究",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

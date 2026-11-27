@@ -1,0 +1,120 @@
+{
+  "journal": {
+    "name": "岩石学报",
+    "url": "http://www.ysxb.ac.cn",
+    "journal_id": "",
+    "row": 29,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "completed",
+  "homepage_resolved": "http://www.ysxb.ac.cn/",
+  "collected_at": "2026-11-26T20:41:34+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.ysxb.ac.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "http://www.ysxb.ac.cn/",
+      "requested_url": "http://www.ysxb.ac.cn",
+      "title": "导出文件",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:41:34+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.ysxb.ac.cn/aps/tgzn",
+      "requested_url": "http://www.ysxb.ac.cn/aps/tgzn",
+      "title": "岩石学报",
+      "path": [
+        "起始页面",
+        "作者中心（页面区块）",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:41:34+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "attachment",
+      "format": "docx",
+      "title": "科研诚信协议书-《岩石学报》",
+      "local_path": "attachments/20241015102548468_500064bc33.docx",
+      "sha256": "500064bc3306dd549a88162cf0cc99175c6f01b5f13c6a015099227acce879e4",
+      "bytes": 18203,
+      "sources": [
+        {
+          "source_url": "http://www.ysxb.ac.cn/aps/list/download",
+          "download_url": "http://www.ysxb.ac.cn/dzdqs-upload/news/aps/20241015102548468.docx",
+          "resolved_url": "http://www.ysxb.ac.cn/dzdqs-upload/news/aps/20241015102548468.docx",
+          "path": [
+            "起始页面",
+            "作者中心（页面区块）",
+            "下载中心",
+            "科研诚信协议书-《岩石学报》"
+          ],
+          "label": "科研诚信协议书-《岩石学报》",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "attachment",
+      "format": "docx",
+      "title": "版权转让声明及保密审查证明-《岩石学报》",
+      "local_path": "attachments/20241015102533594_56b7687683.docx",
+      "sha256": "56b76876832c41e14c44d6c748cf1439b27f445f34c952f61d185f6245ef0347",
+      "bytes": 16749,
+      "sources": [
+        {
+          "source_url": "http://www.ysxb.ac.cn/aps/list/download",
+          "download_url": "http://www.ysxb.ac.cn/dzdqs-upload/news/aps/20241015102533594.docx",
+          "resolved_url": "http://www.ysxb.ac.cn/dzdqs-upload/news/aps/20241015102533594.docx",
+          "path": [
+            "起始页面",
+            "作者中心（页面区块）",
+            "下载中心",
+            "版权转让声明及保密审查证明-《岩石学报》"
+          ],
+          "label": "版权转让声明及保密审查证明-《岩石学报》",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "http://www.ysxb.ac.cn/aps/list/download",
+      "title": "MORE+",
+      "source_url": "http://www.ysxb.ac.cn/aps/tgzn",
+      "path": [
+        "起始页面",
+        "作者中心（页面区块）",
+        "投稿指南",
+        "MORE+"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "{{newsColumn.name}} MORE+"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "journal": {
+    "name": "华南农业大学学报(社会科学版)",
+    "url": "https://xuebao.scau.edu.cn/sk/ch/reader/issue_browser.aspx",
+    "journal_id": "",
+    "row": 109,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://xuebao.scau.edu.cn/sk/ch/reader/issue_browser.aspx",
+  "collected_at": "2026-11-26T20:54:10+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "xuebao.scau.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://xuebao.scau.edu.cn/sk/ch/reader/issue_browser.aspx",
+      "requested_url": "https://xuebao.scau.edu.cn/sk/ch/reader/issue_browser.aspx",
+      "title": "欢迎访问《华南农业大学学报社会科学版》",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:54:10+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://xuebao.scau.edu.cn/sk/ch/reader/issue_browser.aspx",
+      "title": "华南农业大学学报(社会科学版)",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

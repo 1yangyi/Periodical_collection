@@ -1,0 +1,31 @@
+{
+  "index": 207,
+  "journal": "山地学报",
+  "url": "https://www.geores.com.cn/sdxb/CN/home",
+  "source_sheet": "可打开",
+  "source_row": 208,
+  "started_at": "2026-11-26T20:58:23+08:00",
+  "finished_at": "2026-11-26T20:58:32+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 2,
+    "artifacts": 0,
+    "pending": 1,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST runs 返回 HTTP 402"
+  ],
+  "manifest": "0207_山地学报/manifest.json",
+  "pages": 2,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 3,
+  "pending_reasons": [
+    "browser_use_failed",
+    "needs_review",
+    "no_valid_word_or_pdf"
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "journal": {
+    "name": "Journal of Systems Engineering and Electronics",
+    "url": "https://www.jseepub.com/EN/1004-4132/home.shtml",
+    "journal_id": "",
+    "row": 384,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "completed",
+  "homepage_resolved": "https://www.jseepub.com/EN/1004-4132/home.shtml",
+  "collected_at": "2026-11-26T21:00:32+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.jseepub.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.jseepub.com/EN/1004-4132/home.shtml",
+      "requested_url": "https://www.jseepub.com/EN/1004-4132/home.shtml",
+      "title": "Journal of Systems Engineering and Electronics",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:00:32+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.jseepub.com/EN/column/column21.shtml",
+      "requested_url": "https://www.jseepub.com/EN/column/column21.shtml",
+      "title": "Journal of Systems Engineering and Electronics Download",
+      "path": [
+        "官网入口",
+        "Download"
+      ],
+      "visited_at": "2026-11-26T21:00:32+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.jseepub.com/EN/article/showDownloadTopList.do",
+      "requested_url": "https://www.jseepub.com/EN/article/showDownloadTopList.do",
+      "title": "Journal of Systems Engineering and Electronics",
+      "path": [
+        "官网入口",
+        "Most Download Articles"
+      ],
+      "visited_at": "2026-11-26T21:00:32+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "Journal of Systems Engineering and Electronics Download",
+      "source_url": "https://www.jseepub.com/EN/column/column21.shtml",
+      "path": [
+        "官网入口",
+        "Download"
+      ],
+      "local_path": "web/Journal of Systems Engineering and Electronics Download_bdf52182c1.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "attachment",
+      "format": "doc",
+      "title": "Template",
+      "local_path": "attachments/20210317173610_649_c3bb6c95a7.doc",
+      "sha256": "c3bb6c95a7ce4d286030c53176d8ceaf4189c11db85fb7f290df3c0859ae4b8c",
+      "bytes": 135680,
+      "sources": [
+        {
+          "source_url": "https://www.jseepub.com/EN/column/column21.shtml",
+          "download_url": "https://www.jseepub.com/attached/file/20210317/20210317173610_649.doc",
+          "resolved_url": "https://www.jseepub.com/attached/file/20210317/20210317173610_649.doc",
+          "path": [
+            "官网入口",
+            "Download",
+            "Template"
+          ],
+          "label": "Template",
+          "context": "Template",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://www.jseepub.com/EN/1004-4132/home.shtml",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "https://www.jseepub.com/attached/file/20210317/20210317174008_751.doc",
+      "title": "20210317174008_751.doc",
+      "source_url": "https://www.jseepub.com/EN/column/column21.shtml",
+      "path": [
+        "官网入口",
+        "Download",
+        "20210317174008_751.doc"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Declaration of Confidentiality（保密审查单）"
+    },
+    {
+      "url": "https://www.jseepub.com/attached/file/20230220/20230220172555_269.doc",
+      "title": "20230220172555_269.doc",
+      "source_url": "https://www.jseepub.com/EN/column/column21.shtml",
+      "path": [
+        "官网入口",
+        "Download",
+        "20230220172555_269.doc"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Declaration of Confidentiality（保密审查单）"
+    },
+    {
+      "url": "https://www.jseepub.com/attached/file/20260514/20260514165330_328.doc",
+      "title": "Declaration of Confidentiality（保密审查单）",
+      "source_url": "https://www.jseepub.com/EN/column/column21.shtml",
+      "path": [
+        "官网入口",
+        "Download",
+        "Declaration of Confidentiality（保密审查单）"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Declaration of Confidentiality（保密审查单）"
+    },
+    {
+      "url": "https://www.jseepub.com/attached/file/20210317/20210317173730_189.docx",
+      "title": "20210317173730_189.docx",
+      "source_url": "https://www.jseepub.com/EN/column/column21.shtml",
+      "path": [
+        "官网入口",
+        "Download",
+        "20210317173730_189.docx"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Submission Declaration"
+    },
+    {
+      "url": "https://www.jseepub.com/attached/file/20260514/20260514165415_120.doc",
+      "title": "Submission Declaration",
+      "source_url": "https://www.jseepub.com/EN/column/column21.shtml",
+      "path": [
+        "官网入口",
+        "Download",
+        "Submission Declaration"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Submission Declaration"
+    },
+    {
+      "url": "https://www.jseepub.com/attached/file/20210317/20210317174220_756.doc",
+      "title": "Copyright Transfer Agreement",
+      "source_url": "https://www.jseepub.com/EN/column/column21.shtml",
+      "path": [
+        "官网入口",
+        "Download",
+        "Copyright Transfer Agreement"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Copyright Transfer Agreement"
+    },
+    {
+      "url": "https://www.jseepub.com/attached/file/20210319/20210319192041_767.doc",
+      "title": "Revision Explanation",
+      "source_url": "https://www.jseepub.com/EN/column/column21.shtml",
+      "path": [
+        "官网入口",
+        "Download",
+        "Revision Explanation"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Revision Explanation"
+    },
+    {
+      "url": "https://www.jseepub.com/EN/article/showDownloadTopList.do?year=m",
+      "title": "Most Downloaded in Recent Month",
+      "source_url": "https://www.jseepub.com/EN/article/showDownloadTopList.do",
+      "path": [
+        "官网入口",
+        "Most Download Articles",
+        "Most Downloaded in Recent Month"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "404 Client Error:  for url: https://www.jseepub.com/EN/article/showDownloadTopList.do?year=m",
+      "context": "Most Downloaded in Recent Month"
+    },
+    {
+      "url": "https://www.jseepub.com/EN/article/showDownloadTopList.do?year=y",
+      "title": "Most Downloaded in Recent Year",
+      "source_url": "https://www.jseepub.com/EN/article/showDownloadTopList.do",
+      "path": [
+        "官网入口",
+        "Most Download Articles",
+        "Most Downloaded in Recent Year"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "404 Client Error:  for url: https://www.jseepub.com/EN/article/showDownloadTopList.do?year=y",
+      "context": "Most Downloaded in Recent Year"
+    }
+  ]
+}

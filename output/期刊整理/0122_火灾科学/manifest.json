@@ -1,0 +1,208 @@
+{
+  "journal": {
+    "name": "火灾科学",
+    "url": "https://safetyse.ustc.edu.cn/4560/list.htm",
+    "journal_id": "",
+    "row": 123,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://safetyse.ustc.edu.cn/4560/list.htm",
+  "collected_at": "2026-11-26T20:56:17+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "safetyse.ustc.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://safetyse.ustc.edu.cn/4560/list.htm",
+      "requested_url": "https://safetyse.ustc.edu.cn/4560/list.htm",
+      "title": "《火灾科学》",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:56:17+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://safetyse.ustc.edu.cn/4554/list.htm",
+      "requested_url": "https://safetyse.ustc.edu.cn/4554/list.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:56:17+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://safetyse.ustc.edu.cn/2026/1110/c4554a759179/page.htm",
+      "requested_url": "https://safetyse.ustc.edu.cn/2026/1110/c4554a759179/page.htm",
+      "title": "第14届亚澳火灾科学与技术大会征稿通知",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "第14届亚澳火灾科学与技术大会征稿通知"
+      ],
+      "visited_at": "2026-11-26T20:56:17+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://safetyse.ustc.edu.cn/4554/list2.htm",
+      "requested_url": "https://safetyse.ustc.edu.cn/4554/list2.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "下一页"
+      ],
+      "visited_at": "2026-11-26T20:56:17+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://safetyse.ustc.edu.cn/4554/list15.psp",
+      "requested_url": "https://safetyse.ustc.edu.cn/4554/list15.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "尾页"
+      ],
+      "visited_at": "2026-11-26T20:56:17+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://safetyse.ustc.edu.cn/4554/list.htm",
+      "requested_url": "http://safetyse.ustc.edu.cn/4554/list.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "尾页",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:56:17+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://safetyse.ustc.edu.cn/4554/list3.htm",
+      "requested_url": "https://safetyse.ustc.edu.cn/4554/list3.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "下一页",
+        "下一页"
+      ],
+      "visited_at": "2026-11-26T20:56:17+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://safetyse.ustc.edu.cn/_upload/article/files/f6/21/153c047542359e9c2bd2a72f8133/88187517-a1a4-46de-ae19-d02d04832eeb.pdf",
+      "title": "Call_for_papers_AOSFST2027.pdf",
+      "source_url": "https://safetyse.ustc.edu.cn/2026/1110/c4554a759179/page.htm",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "第14届亚澳火灾科学与技术大会征稿通知",
+        "Call_for_papers_AOSFST2027.pdf"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "详情请见 Call_for_papers_AOSFST2027.pdf 。"
+    },
+    {
+      "url": "http://safetyse.ustc.edu.cn/2026/1110/c4554a759179/page.htm",
+      "title": "第14届亚澳火灾科学与技术大会征稿通知",
+      "source_url": "http://safetyse.ustc.edu.cn/4554/list.htm",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "尾页",
+        "通知公告",
+        "第14届亚澳火灾科学与技术大会征稿通知"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "1 第14届亚澳火灾科学与技术大会征稿通知"
+    },
+    {
+      "url": "http://safetyse.ustc.edu.cn/4554/list2.htm",
+      "title": "下一页",
+      "source_url": "http://safetyse.ustc.edu.cn/4554/list.htm",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "尾页",
+        "通知公告",
+        "下一页"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "下一页"
+    },
+    {
+      "url": "http://safetyse.ustc.edu.cn/4554/list15.htm",
+      "title": "尾页",
+      "source_url": "http://safetyse.ustc.edu.cn/4554/list.htm",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "尾页",
+        "通知公告",
+        "尾页"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "尾页"
+    },
+    {
+      "url": "https://safetyse.ustc.edu.cn/4554/list4.htm",
+      "title": "下一页",
+      "source_url": "https://safetyse.ustc.edu.cn/4554/list3.htm",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "下一页",
+        "下一页",
+        "下一页"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "下一页"
+    },
+    {
+      "url": "https://safetyse.ustc.edu.cn/4560/list.htm",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://safetyse.ustc.edu.cn/4560/list.htm",
+      "title": "火灾科学",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

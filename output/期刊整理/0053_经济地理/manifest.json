@@ -1,0 +1,149 @@
+{
+  "journal": {
+    "name": "经济地理",
+    "url": "https://www.jjdl.com.cn/CN/column/column141.shtml",
+    "journal_id": "",
+    "row": 54,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "",
+  "collected_at": "2026-11-26T20:45:50+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.cnki.net",
+      "www.jjdl.com.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.jjdl.com.cn/CN/column/column146.shtml",
+      "requested_url": "https://www.jjdl.com.cn/CN/column/column146.shtml",
+      "title": "经济地理 | 投稿指南",
+      "path": [
+        "经济地理期刊介绍（起始页面）",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:45:50+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.jjdl.com.cn/CN/column/147/items",
+      "requested_url": "https://www.jjdl.com.cn/CN/column/147/items",
+      "title": "经济地理",
+      "path": [
+        "经济地理期刊介绍（起始页面）",
+        "下载中心"
+      ],
+      "visited_at": "2026-11-26T20:45:50+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.jjdl.com.cn/CN/news/folder.do?folderId=75",
+      "requested_url": "https://www.jjdl.com.cn/CN/news/folder.do?folderId=75",
+      "title": "《经济地理》∣ 新征途，再出发！",
+      "path": [
+        "经济地理期刊介绍（起始页面）",
+        "投稿指南",
+        "更多"
+      ],
+      "visited_at": "2026-11-26T20:45:50+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "经济地理 | 投稿指南",
+      "source_url": "https://www.jjdl.com.cn/CN/column/column146.shtml",
+      "path": [
+        "经济地理期刊介绍（起始页面）",
+        "投稿指南"
+      ],
+      "local_path": "web/经济地理 _ 投稿指南_9321f8d80c.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "经济地理投稿格式",
+      "local_path": "经济地理投稿格式.md",
+      "source_urls": [
+        "https://www.jjdl.com.cn/CN/column/column146.shtml"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://www.jjdl.com.cn/CN/column/column141.shtml",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "500 Server Error:  for url: https://www.jjdl.com.cn/CN/column/column141.shtml",
+      "context": ""
+    },
+    {
+      "url": "https://www.jjdl.com.cn/CN/top_download",
+      "title": "下载排行",
+      "source_url": "https://www.jjdl.com.cn/CN/column/column146.shtml",
+      "path": [
+        "经济地理期刊介绍（起始页面）",
+        "投稿指南",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    },
+    {
+      "url": "https://www.jjdl.com.cn/CN/top_download",
+      "title": "下载排行",
+      "source_url": "https://www.jjdl.com.cn/CN/column/147/items",
+      "path": [
+        "经济地理期刊介绍（起始页面）",
+        "下载中心",
+        "下载排行"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载排行"
+    },
+    {
+      "url": "http://www.cnki.net/",
+      "title": "www.cnki.net",
+      "source_url": "https://www.jjdl.com.cn/CN/column/column146.shtml",
+      "path": [
+        "经济地理期刊介绍（起始页面）",
+        "投稿指南",
+        "www.cnki.net"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "跳转到未核实域名：https://oversea.cnki.net/",
+      "context": "1 2. 来稿发表与否，由本刊编委会最后审定。 每一轮审稿不通过的 稿件 均通过期刊采编平台 以 E - mail 通知作者 ， 作者也可自行在本刊官网查询稿件处理进度（ www.jjdl.com.cn ） 。本刊国内外公开发行；光盘版由中国学术期刊（光盘版）电子杂志社制作；网络版由中国 知网（ www.cnki.net ） 发布 。 如作者 投稿本刊则视为同意 上述数据库 收录 。来稿一经采用，将以 上三种 形式刊载 ，恕不另行通知。"
+    },
+    {
+      "url": "https://www.jjdl.com.cn/CN/column/column141.shtml",
+      "title": "经济地理",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

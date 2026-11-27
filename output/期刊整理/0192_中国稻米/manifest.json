@@ -1,0 +1,124 @@
+{
+  "journal": {
+    "name": "中国稻米",
+    "url": "https://cnrri.caas.cn/cbkw/zgdm/index.htm",
+    "journal_id": "",
+    "row": 193,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://cnrri.caas.cn/cbkw/zgdm/index.htm",
+  "collected_at": "2026-11-26T20:58:06+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "cnrri.caas.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://cnrri.caas.cn/cbkw/zgdm/index.htm",
+      "requested_url": "https://cnrri.caas.cn/cbkw/zgdm/index.htm",
+      "title": "《中国稻米》_中国水稻研究所",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:58:06+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cnrri.caas.cn/yjspy/tzgg/index.htm",
+      "requested_url": "https://cnrri.caas.cn/yjspy/tzgg/index.htm",
+      "title": "通知公告_中国水稻研究所",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:58:06+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cnrri.caas.cn/yjspy/tzgg/index1.htm",
+      "requested_url": "https://cnrri.caas.cn/yjspy/tzgg/index1.htm",
+      "title": "通知公告_中国水稻研究所",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "下一页"
+      ],
+      "visited_at": "2026-11-26T20:58:06+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cnrri.caas.cn/yjspy/tzgg/index9.htm",
+      "requested_url": "https://cnrri.caas.cn/yjspy/tzgg/index9.htm",
+      "title": "通知公告_中国水稻研究所",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "尾页"
+      ],
+      "visited_at": "2026-11-26T20:58:06+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cnrri.caas.cn/yjspy/tzgg/index2.htm",
+      "requested_url": "https://cnrri.caas.cn/yjspy/tzgg/index2.htm",
+      "title": "通知公告_中国水稻研究所",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "下一页",
+        "下一页"
+      ],
+      "visited_at": "2026-11-26T20:58:06+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://cnrri.caas.cn/yjspy/tzgg/index3.htm",
+      "title": "下一页",
+      "source_url": "https://cnrri.caas.cn/yjspy/tzgg/index2.htm",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "下一页",
+        "下一页",
+        "下一页"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "下一页"
+    },
+    {
+      "url": "https://cnrri.caas.cn/cbkw/zgdm/index.htm",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://cnrri.caas.cn/cbkw/zgdm/index.htm",
+      "title": "中国稻米",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

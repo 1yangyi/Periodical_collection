@@ -1,0 +1,119 @@
+{
+  "journal": {
+    "name": "贵州财经大学学报",
+    "url": "https://gcxb.gufe.edu.cn/CN/column/item94.shtml",
+    "journal_id": "",
+    "row": 307,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://gcxb.gufe.edu.cn/CN/column/item94.shtml",
+  "collected_at": "2026-11-26T20:59:31+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "gcxb.gufe.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://gcxb.gufe.edu.cn/CN/column/item94.shtml",
+      "requested_url": "https://gcxb.gufe.edu.cn/CN/column/item94.shtml",
+      "title": "贵州财经大学学报 编辑部公告",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:31+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://gcxb.gufe.edu.cn/CN/column/column12.shtml",
+      "requested_url": "https://gcxb.gufe.edu.cn/CN/column/column12.shtml",
+      "title": "贵州财经大学学报 投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:59:31+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "贵州财经大学学报 投稿指南",
+      "source_url": "https://gcxb.gufe.edu.cn/CN/column/column12.shtml",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "local_path": "web/贵州财经大学学报 投稿指南_17edcca7fa.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "贵州财经大学学报投稿格式",
+      "local_path": "贵州财经大学学报投稿格式.md",
+      "source_urls": [
+        "https://gcxb.gufe.edu.cn/CN/column/column12.shtml"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://gcxb.gufe.edu.cn/fileup/2095-5960/ITEM/20191126141726.doc",
+      "title": "下载中心",
+      "source_url": "https://gcxb.gufe.edu.cn/CN/column/item94.shtml",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载中心"
+    },
+    {
+      "url": "https://gcxb.gufe.edu.cn/fileup/2095-5960/ITEM/20191126141726.doc",
+      "title": "下载中心",
+      "source_url": "https://gcxb.gufe.edu.cn/CN/column/column12.shtml",
+      "path": [
+        "官网入口",
+        "投稿指南",
+        "下载中心"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载中心"
+    },
+    {
+      "url": "https://gcxb.gufe.edu.cn/CN/column/item94.shtml",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://gcxb.gufe.edu.cn/CN/column/item94.shtml",
+      "title": "贵州财经大学学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

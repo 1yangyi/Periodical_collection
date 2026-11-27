@@ -1,0 +1,31 @@
+{
+  "index": 231,
+  "journal": "Frontiers of Mathematics in China",
+  "url": "https://journal.hep.com.cn/fmc/EN/home",
+  "source_sheet": "可打开",
+  "source_row": 232,
+  "started_at": "2026-11-26T20:58:48+08:00",
+  "finished_at": "2026-11-26T20:58:55+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 4,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST network-policies 返回 HTTP 422"
+  ],
+  "manifest": "0231_Frontiers of Mathematics in China/manifest.json",
+  "pages": 1,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 6,
+  "pending_reasons": [
+    "browser_use_failed",
+    "no_valid_word_or_pdf",
+    "unrecognized_response"
+  ]
+}

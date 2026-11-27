@@ -1,0 +1,27 @@
+{
+  "index": 118,
+  "journal": "文化遗产",
+  "url": "https://cich.sysu.edu.cn/cultural-heritage",
+  "source_sheet": "可打开",
+  "source_row": 119,
+  "started_at": "2026-11-26T20:55:40+08:00",
+  "finished_at": "2026-11-26T20:57:14+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0118_文化遗产/manifest.json",
+  "pages": 1,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 1,
+  "pending_reasons": [
+    "no_valid_word_or_pdf"
+  ]
+}

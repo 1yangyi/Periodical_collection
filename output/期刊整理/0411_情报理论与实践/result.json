@@ -1,0 +1,30 @@
+{
+  "index": 411,
+  "journal": "情报理论与实践",
+  "url": "http://www.itapress.cn",
+  "source_sheet": "可打开",
+  "source_row": 412,
+  "started_at": "2026-11-26T21:01:06+08:00",
+  "finished_at": "2026-11-26T21:01:11+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST network-policies 返回 HTTP 422"
+  ],
+  "manifest": "0411_情报理论与实践/manifest.json",
+  "pages": 1,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 2,
+  "pending_reasons": [
+    "browser_use_failed",
+    "no_valid_word_or_pdf"
+  ]
+}

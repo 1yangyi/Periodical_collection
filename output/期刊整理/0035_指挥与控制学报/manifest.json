@@ -1,0 +1,126 @@
+{
+  "journal": {
+    "name": "指挥与控制学报",
+    "url": "http://jc2.org.cn/",
+    "journal_id": "",
+    "row": 36,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "completed",
+  "homepage_resolved": "https://jc2.org.cn/",
+  "collected_at": "2026-11-26T20:42:40+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "jc2.org.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://jc2.org.cn/",
+      "requested_url": "http://jc2.org.cn/",
+      "title": "导出文件",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:42:40+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://jc2.org.cn/tgzn",
+      "requested_url": "https://jc2.org.cn/tgzn",
+      "title": "投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:42:40+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "attachment",
+      "format": "docx",
+      "title": "word模板",
+      "local_path": "attachments/JC2 è®ºææ¨¡æ¿_b9bc23f25a.docx",
+      "sha256": "b9bc23f25afd3bc11d823cff12badbf311a56af73b9a64e2866a2d140af18bb1",
+      "bytes": 145318,
+      "sources": [
+        {
+          "source_url": "https://jc2.org.cn/tgzn",
+          "download_url": "https://jc2.org.cn/supplement/preview/bab1d730-b752-4b0a-a1b1-9f33a44b703d",
+          "resolved_url": "https://jc2.org.cn/supplement/preview/bab1d730-b752-4b0a-a1b1-9f33a44b703d",
+          "path": [
+            "首页",
+            "投稿指南",
+            "word模板"
+          ],
+          "label": "word模板",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "attachment",
+      "format": "doc",
+      "title": "版权转让协议",
+      "local_path": "attachments/ææ¥ä¸æ§å¶å­¦æ¥çæè½¬è®©åè®®-ä¿®æ¹å_641425a6fc.doc",
+      "sha256": "641425a6fc786d0c513c496665c1c2d7a7ed6d71d9dd1287f344ecf5b4738663",
+      "bytes": 25600,
+      "sources": [
+        {
+          "source_url": "https://jc2.org.cn/tgzn",
+          "download_url": "https://jc2.org.cn/supplement/preview/32e60d5a-d2c6-494e-a52c-2b71be29b0ef",
+          "resolved_url": "https://jc2.org.cn/supplement/preview/32e60d5a-d2c6-494e-a52c-2b71be29b0ef",
+          "path": [
+            "首页",
+            "投稿指南",
+            "版权转让协议"
+          ],
+          "label": "版权转让协议",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "attachment",
+      "format": "doc",
+      "title": "不涉密证明",
+      "local_path": "attachments/ä¿å¯å®¡æ¥_a7eae368e7.doc",
+      "sha256": "a7eae368e7159c1310268872521575d40dc6d2b1eb6f587bb48df814c4b28f2b",
+      "bytes": 28160,
+      "sources": [
+        {
+          "source_url": "https://jc2.org.cn/tgzn",
+          "download_url": "https://jc2.org.cn/supplement/preview/af20902a-b53a-4331-a3fc-26eeceaedb04",
+          "resolved_url": "https://jc2.org.cn/supplement/preview/af20902a-b53a-4331-a3fc-26eeceaedb04",
+          "path": [
+            "首页",
+            "投稿指南",
+            "不涉密证明"
+          ],
+          "label": "不涉密证明",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": []
+}

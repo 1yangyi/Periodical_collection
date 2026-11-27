@@ -1,0 +1,85 @@
+{
+  "journal": {
+    "name": "区域经济评论",
+    "url": "https://www.qyjjpl.cn/",
+    "journal_id": "",
+    "row": 66,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.qyjjpl.cn/",
+  "collected_at": "2026-11-26T20:47:26+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.qyjjpl.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.qyjjpl.cn/",
+      "requested_url": "https://www.qyjjpl.cn/",
+      "title": "区域经济评论",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:47:26+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.qyjjpl.cn/Article/index/cid/69/lid/71/id/103.html",
+      "requested_url": "https://www.qyjjpl.cn/Article/index/cid/69/lid/71/id/103.html",
+      "title": "区域经济评论",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:47:26+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "区域经济评论",
+      "source_url": "https://www.qyjjpl.cn/Article/index/cid/69/lid/71/id/103.html",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "local_path": "web/区域经济评论_aae8c31b09.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "区域经济评论投稿格式",
+      "local_path": "区域经济评论投稿格式.md",
+      "source_urls": [
+        "https://www.qyjjpl.cn/Article/index/cid/69/lid/71/id/103.html"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://www.qyjjpl.cn/",
+      "title": "区域经济评论",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

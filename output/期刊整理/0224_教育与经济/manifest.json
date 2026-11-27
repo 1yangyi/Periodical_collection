@@ -1,0 +1,94 @@
+{
+  "journal": {
+    "name": "教育与经济",
+    "url": "https://jyji.cbpt.cnki.net/portal/journal/portal/client/index",
+    "journal_id": "",
+    "row": 225,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://jyji.cbpt.cnki.net/portal/journal/portal/client/index",
+  "collected_at": "2026-11-26T20:58:43+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "jyji.cbpt.cnki.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://jyji.cbpt.cnki.net/portal/journal/portal/client/index",
+      "requested_url": "https://jyji.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "教育与经济",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:58:43+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://jyji.cbpt.cnki.net/portal/journal/portal/client/news/jyji_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "requested_url": "https://jyji.cbpt.cnki.net/portal/journal/portal/client/news/jyji_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "title": "投稿指南",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:58:43+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿指南",
+      "source_url": "https://jyji.cbpt.cnki.net/portal/journal/portal/client/news/jyji_0a96be87-490b-49ff-90aa-bee7b5d1b2cc",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "local_path": "web/投稿指南_274209518a.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "教育与经济投稿格式",
+      "local_path": "教育与经济投稿格式.md",
+      "source_urls": [
+        "https://jyji.cbpt.cnki.net/portal/journal/portal/client/news/jyji_0a96be87-490b-49ff-90aa-bee7b5d1b2cc"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://jyji.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://jyji.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "教育与经济",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "index": 322,
+  "journal": "北京大学学报(哲学社会科学版)",
+  "url": "https://bdzk.cbpt.cnki.net/portal/journal/portal/client/index",
+  "source_sheet": "可打开",
+  "source_row": 323,
+  "started_at": "2026-11-26T20:59:40+08:00",
+  "finished_at": "2026-11-26T21:00:14+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 0,
+    "artifacts": 0,
+    "pending": 1,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST network-policies 返回 HTTP 422"
+  ],
+  "manifest": "0322_北京大学学报(哲学社会科学版)/manifest.json",
+  "pages": 0,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 3,
+  "pending_reasons": [
+    "browser_use_failed",
+    "no_valid_word_or_pdf",
+    "page_fetch_failed"
+  ]
+}

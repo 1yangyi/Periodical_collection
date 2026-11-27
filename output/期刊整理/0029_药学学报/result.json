@@ -1,0 +1,28 @@
+{
+  "index": 29,
+  "journal": "药学学报",
+  "url": "https://www.cpa.org.cn/?cid=65959&do=info",
+  "source_sheet": "可打开",
+  "source_row": 30,
+  "started_at": "2026-11-26T20:41:53+08:00",
+  "finished_at": "2026-11-26T20:43:42+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 21,
+    "artifacts": 0,
+    "pending": 2,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0029_药学学报/manifest.json",
+  "pages": 21,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 3,
+  "pending_reasons": [
+    "depth_limit",
+    "no_valid_word_or_pdf"
+  ]
+}

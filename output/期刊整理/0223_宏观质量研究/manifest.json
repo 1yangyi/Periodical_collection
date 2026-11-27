@@ -1,0 +1,173 @@
+{
+  "journal": {
+    "name": "宏观质量研究",
+    "url": "http://hgly.cbpt.cnki.net/",
+    "journal_id": "",
+    "row": 224,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://hgly.cbpt.cnki.net/EditorGN/Quit.aspx",
+  "collected_at": "2026-11-26T20:58:42+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "hgly.cbpt.cnki.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://hgly.cbpt.cnki.net/EditorGN/Quit.aspx",
+      "requested_url": "http://hgly.cbpt.cnki.net/",
+      "title": "",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:58:42+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://hgly.cbpt.cnki.net/portal/journal/portal/client/index",
+      "requested_url": "https://hgly.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "宏观质量研究",
+      "path": [
+        "官网入口",
+        "知网期刊首页"
+      ],
+      "visited_at": "2026-11-26T20:58:42+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://hgly.cbpt.cnki.net/portal/journal/portal/client/news/hgly_273ac2b1-0436-4501-a214-7a59581378aa",
+      "requested_url": "https://hgly.cbpt.cnki.net/portal/journal/portal/client/news/hgly_273ac2b1-0436-4501-a214-7a59581378aa",
+      "title": "投稿指南",
+      "path": [
+        "官网入口",
+        "知网期刊首页",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:58:42+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://hgly.cbpt.cnki.net/portal/journal/portal/client/news/hgly_59fc83f6-fce2-4283-83c7-a5ffd2140014",
+      "requested_url": "https://hgly.cbpt.cnki.net/portal/journal/portal/client/news/hgly_59fc83f6-fce2-4283-83c7-a5ffd2140014",
+      "title": "《宏观质量研究》征稿启事",
+      "path": [
+        "官网入口",
+        "知网期刊首页",
+        "2020-01-06 《宏观质量研究》征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:58:42+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://hgly.cbpt.cnki.net/portal/journal/portal/client/news/hgly_4dd88ddc-62b5-4e8e-9681-09788e4fdc9f",
+      "requested_url": "https://hgly.cbpt.cnki.net/portal/journal/portal/client/news/hgly_4dd88ddc-62b5-4e8e-9681-09788e4fdc9f",
+      "title": "《宏观质量研究》征稿启事",
+      "path": [
+        "官网入口",
+        "知网期刊首页",
+        "2020-01-06 《宏观质量研究》征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:58:42+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿指南",
+      "source_url": "https://hgly.cbpt.cnki.net/portal/journal/portal/client/news/hgly_273ac2b1-0436-4501-a214-7a59581378aa",
+      "path": [
+        "官网入口",
+        "知网期刊首页",
+        "投稿指南"
+      ],
+      "local_path": "web/投稿指南_914e3e69f6.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "宏观质量研究投稿格式",
+      "local_path": "宏观质量研究投稿格式.md",
+      "source_urls": [
+        "https://hgly.cbpt.cnki.net/portal/journal/portal/client/news/hgly_273ac2b1-0436-4501-a214-7a59581378aa"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://hgly.cbpt.cnki.net/portal/journal/portal/client/download/hgly_54253c13-816a-4cda-85b4-048f7444fa78?title=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83",
+      "title": "下载中心",
+      "source_url": "https://hgly.cbpt.cnki.net/portal/journal/portal/client/news/hgly_273ac2b1-0436-4501-a214-7a59581378aa",
+      "path": [
+        "官网入口",
+        "知网期刊首页",
+        "投稿指南",
+        "下载中心"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载中心"
+    },
+    {
+      "url": "https://hgly.cbpt.cnki.net/portal/journal/portal/client/download/hgly_54253c13-816a-4cda-85b4-048f7444fa78?title=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83",
+      "title": "下载中心",
+      "source_url": "https://hgly.cbpt.cnki.net/portal/journal/portal/client/news/hgly_59fc83f6-fce2-4283-83c7-a5ffd2140014",
+      "path": [
+        "官网入口",
+        "知网期刊首页",
+        "2020-01-06 《宏观质量研究》征稿启事",
+        "下载中心"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载中心"
+    },
+    {
+      "url": "https://hgly.cbpt.cnki.net/portal/journal/portal/client/download/hgly_54253c13-816a-4cda-85b4-048f7444fa78?title=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83",
+      "title": "下载中心",
+      "source_url": "https://hgly.cbpt.cnki.net/portal/journal/portal/client/news/hgly_4dd88ddc-62b5-4e8e-9681-09788e4fdc9f",
+      "path": [
+        "官网入口",
+        "知网期刊首页",
+        "2020-01-06 《宏观质量研究》征稿启事",
+        "下载中心"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载中心"
+    },
+    {
+      "url": "http://hgly.cbpt.cnki.net/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "http://hgly.cbpt.cnki.net/",
+      "title": "宏观质量研究",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

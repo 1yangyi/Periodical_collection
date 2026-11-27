@@ -1,0 +1,31 @@
+{
+  "index": 383,
+  "journal": "Journal of Systems Engineering and Electronics",
+  "url": "https://www.jseepub.com/EN/1004-4132/home.shtml",
+  "source_sheet": "可打开",
+  "source_row": 384,
+  "started_at": "2026-11-26T21:00:32+08:00",
+  "finished_at": "2026-11-26T21:00:51+08:00",
+  "status": "completed",
+  "browser_use_invoked": false,
+  "before_fallback": null,
+  "browser_use_errors": [],
+  "manifest": "0383_Journal of Systems Engineering and Electronics/manifest.json",
+  "pages": 3,
+  "attachments": [
+    {
+      "title": "Template",
+      "format": "doc",
+      "local_path": "0383_Journal of Systems Engineering and Electronics/attachments/20210317173610_649_c3bb6c95a7.doc",
+      "sha256": "c3bb6c95a7ce4d286030c53176d8ceaf4189c11db85fb7f290df3c0859ae4b8c",
+      "bytes": 135680
+    }
+  ],
+  "original_count": 1,
+  "webpage_text": 0,
+  "pending_count": 10,
+  "pending_reasons": [
+    "needs_review",
+    "page_fetch_failed"
+  ]
+}

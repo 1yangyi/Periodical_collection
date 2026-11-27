@@ -1,0 +1,540 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML>
+<HEAD>
+	<TITLE>空天防御 征稿启事</TITLE>
+	<META http-equiv=Content-Type content="text/html; charset=utf-8">
+	<link href="../../images/2096-4641/css.css" type="text/css" rel="stylesheet">
+	<META content="MSHTML 6.00.2900.3157" name=GENERATOR>
+	<SCRIPT language=javascript>
+		function Maximize()
+		{
+			self.moveTo(0,0);
+			self.resizeTo(screen.availWidth,screen.availHeight);
+		}
+		
+		function clearall()
+		{
+			var the_box = window.document.all('pid');
+			for(var i=0;i< the_box.length;i++)
+			{
+				the_box[i].checked = false;
+			}
+		}
+		
+		function isready1(form)
+		{
+			var blnAlert = 0;
+			var str_article = "";
+			if (typeof(AbstractList.pid.length)=="undefined") 
+			{  
+				if(AbstractList.pid.checked==true)
+				{
+					blnAlert = blnAlert+1;
+					str_article = str_article + AbstractList.pid.value+",";
+				}
+			} 
+			else 
+			{
+				for (i=0;i<AbstractList.pid.length;i++) 
+				{
+			  	if(AbstractList.item("pid",i).checked==true)
+			  	{  
+						blnAlert = blnAlert+1;
+						str_article = str_article + AbstractList.item("pid",i).value+",";
+					}
+			  } 
+			}
+			if (blnAlert==0)
+			{
+				alert("请您先选中文章！");
+				return  false;
+			}
+			//alert(str_article);
+			form.action="../article/uniteZhaiYao.do?uniteId="+str_article;
+			form.submit;
+		}
+		
+		function set_abs()
+		{
+			abst.style.display = "block";
+		}
+		
+		function gotoPage()
+		{
+			var form = document.itmSearchForm;
+			form.submit();
+		}		
+	</SCRIPT>
+
+</HEAD>
+<BODY LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0>
+<!--头部-->
+<link href="https://www.qk.sjtu.edu.cn/ktfy/images/2096-4641/css.css" type="text/css" rel="stylesheet">
+<link href="https://www.qk.sjtu.edu.cn/ktfy/images/2096-4641/zw.css"  type="text/css" rel="stylesheet" >
+<SCRIPT type=text/javascript src="https://www.qk.sjtu.edu.cn/ktfy/images/2096-4641/jquery-1.3.2.min.js"></SCRIPT>
+<script language="javascript"> 
+$(document).ready(function(){
+	jQuery.getJSON("https://www.qk.sjtu.edu.cn/ktfy/CN/article/NumbersStatistics.do?" + new Date().getTime(), null, function(json){
+		var articleCount = json.articleCount;
+		var downloadCount = json.downloadCount;
+		var browseCount = json.browseCount;
+		var issueCount =json.issueCount;
+		var allIssueCount=json.allIssueCount;
+		var citedCount =json.citedCount;
+		var allCitedCount =json.allCitedCount;
+
+		$("#browseCount").text(browseCount)
+		$("#downloadCount").text(downloadCount)
+		$("#articleCount").text(articleCount)
+		$("#issueCount").text(issueCount)
+		$("#citedCount").text(citedCount)
+	});
+});
+</script>
+<style type="text/css">
+body,td,th {
+	font-family: "微软雅黑";
+	font-size:14px;
+	
+}
+body {
+	background-image: url();
+}
+.STYLE331 {font-size: 14px; color:#333}
+</style>
+<table width="100%" border="0" height="219" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td height="50" style="border-bottom:1px solid #ccc;"><table width="1002" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="100%" align="right"><a href="https://www.qk.sjtu.edu.cn" target="_blank"><img src="https://www.qk.sjtu.edu.cn/ktfy/images/2096-4641/logo.jpg" width="201" height="43"></a></td>
+      
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="170" class="banner"></td>
+  </tr>
+ 
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="39" bgcolor=#0f67a9>
+     <table width="1002" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td>
+        <table width="37%" height="21" border="0" align="right" cellpadding="0" cellspacing="0">
+          <tr>
+            <td valign="middle">
+	    <iframe class="search1" src="https://www.qk.sjtu.edu.cn/ktfy/CN/article/quickSearch.do" width="100%" height="34" border="0" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+	    </td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+    </table>
+    
+    </td>
+  </tr>
+</table>
+<table width="1002" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td height="10"></td>
+  </tr>
+</table>
+<table width="1002" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td height="40"><table width="1002" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="ffffff">
+      <tr>
+        <td width="821" height="40"><div id="nav">
+            <ul id="navMenu">
+             
+              <li><a href='https://www.qk.sjtu.edu.cn/ktfy/CN/2096-4641/home.shtml'class="current">首 页</a></li>
+              	      <li><a href='https://www.qk.sjtu.edu.cn/ktfy/CN/column/column377.shtml'>
+	      期刊介绍
+	      </a></li>
+	      	      <li><a href='https://www.qk.sjtu.edu.cn/ktfy/CN/column/column378.shtml'>
+	      编委会
+	      </a></li>
+	      	      <li><a href='https://www.qk.sjtu.edu.cn/ktfy/CN/column/column379.shtml'>
+	      征稿启事
+	      </a></li>
+	      	      <li><a href='https://www.qk.sjtu.edu.cn/ktfy/CN/column/column381.shtml'>
+	      联系我们
+	      </a></li>
+	      	      <li><a href='https://www.qk.sjtu.edu.cn/ktfy/CN/column/column380.shtml'>
+	      征订服务
+	      </a></li>
+	      	      <li><a href='https://www.qk.sjtu.edu.cn/ktfy/CN/column/column2118.shtml'>
+	      论文模板
+	      </a></li>
+	      	      <li><a href='https://www.qk.sjtu.edu.cn/ktfy/CN/column/column382.shtml'>
+	      下载园地
+	      </a></li>
+	                  
+             </ul>
+        </div>
+            <script type='text/javascript' src='https://www.qk.sjtu.edu.cn/ktfy/images/2096-4641/dropdown.js'></script>
+           
+         
+         
+          <script type="text/javascript">cssdropdown.startchrome("navMenu")</script></td>
+        <td width="181"> <script language="JavaScript" type="text/javascript">var datelocalweek=new Array("星期日", "星期一", "星期二","星期三","星期四", "星期五","星期六");
+var datelocalnow=new Date(); 
+var datelocalyear=datelocalnow.getFullYear(); 
+var datelocalmonth=(datelocalmonth="0"+(datelocalnow.getMonth()+1)).substr(datelocalmonth.length-2,2); 
+var datelocalday=(datelocalday="0"+datelocalnow.getDate()).substr(datelocalday.length-2,2); 
+var datelocalweekday=datelocalweek[datelocalnow.getDay()]; 
+document.write("<font color=#333333> "+datelocalweekday+""+" ("+datelocalyear+"."+datelocalmonth+"."+datelocalday+")</font>"); 
+                              </script></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="1002" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td height="20"></td>
+  </tr>
+</table>
+
+    
+		<!--中间--> 		
+    <TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+    
+    <TR>
+		
+		<!--中间. 中间--> 	
+	<TD vAlign=top  bgcolor="#ffffff">
+	
+	<TABLE style="BORDER-BOTTOM: #bebebe 1px solid; BORDER-LEFT: #bebebe 1px solid; BORDER-TOP: #bebebe 1px solid; BORDER-RIGHT: #bebebe 1px solid" border=0 cellSpacing=0 cellPadding=0 width="98%" align="center">
+        <TBODY>
+        <TR>
+          <TD vAlign=top>
+          
+          <TABLE border=0 cellSpacing=0 cellPadding=0 width=100%>
+              <TBODY>
+              <TR>
+                <TD background=../../images/01_bg2.jpg class=lt height=27><span class="lanmu10">&nbsp;&nbsp;&nbsp;&nbsp; 征稿启事</span></TD>
+                </TR></TBODY></TABLE>
+				
+				
+				<table width="96%" border="0" align="center" cellpadding="0" cellspacing="0">
+			       						<tr>
+			       						  <td align="center" valign="top">&nbsp;</td>
+			       						</tr>
+			       						<tr> 
+			          						<td>
+			          							<table width="100%" border="0" cellpadding="0" cellspacing="0">
+			                						
+			                 						<tr> 
+			                  							<td>
+			                  								<table width="100%" border="0" cellspacing="0" cellpadding="8">
+			                    								<tr> 
+		                         								  <td height="460" valign="top" style="line-height:130%"><span class="J_WenZhang"><p class="MsoNormal" style="text-indent:24pt;">
+	<span style="line-height:150%;font-family:SimSun;font-size:16px;"><span style="font-family:SimSun;font-size:16px;"></span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">《空天防御》期刊创刊于2018年，是由中国航天科技集团有限公司主管、上海机电工程研究所和上海交通大学出版社有限公司主办的公开发行的学术性期刊，是中国科学引文数据库（CSCD）来源期刊（核心版）、中国科技核心期刊、RCCSE 中国核心学术期刊。本刊现公开征集稿件，竭诚欢迎业内研究机构、高等院校、军队单位及其他相关领域的专家学者、科研人员不吝赐稿。</span><span></span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.1pt;">
+	<b><span style="font-family:宋体;font-size:16px;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">一、征稿方向</span></span></b> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span style="font-family:宋体;font-size:16px;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">《空天防御》期刊主要刊载空天一体化防御领域研究的新理论、新技术、新成果，重点组稿和刊文方向如下：军事理论与技术；空天防御战略研究；空天防御体系研究；武器装备总体技术及相关专业技术；新域新质作战技术；人工智能、新材料等新兴技术在空天防御领域的应用研究；太空安全理论与技术等。</span></span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<b><span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">二、征稿要求</span></span></b> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span style="font-family:SimSun;font-size:16px;line-height:1.5;">1. </span><span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">来稿请用</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">Word</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">格式，</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">作者自留底稿。</span><span></span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span style="font-family:SimSun;font-size:16px;line-height:1.5;">2. </span><span style="font-family:宋体;"><span style="font-size:18px;font-family:SimSun;line-height:1.5;"><span style="font-size:16px;">作者须在投稿前对稿件进行解密处理，并提供所在单位保密审查证明原件或彩色扫描件。无保密审查证明的稿件不予录用</span><span style="font-size:16px;">。</span></span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">对提供涉密稿件刊出后可能造成的一切后果由作者自负。</span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span style="font-family:SimSun;font-size:16px;line-height:1.5;">3. </span><span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">论文所涉及的基金资助项目、获奖课题内容请予以注明。</span><span></span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span style="font-family:SimSun;font-size:16px;line-height:1.5;">4</span><span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">．作者须遵守学术规范与准则，杜绝一稿多投及抄袭、剽窃等学术不端行为。本刊在收到来稿后将按顺序处理文稿，收稿</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">3</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">个月内通知作者是否刊登。本刊对发表的文章仅作编辑意义上的修改，不作原则性修改，文责由作者自负。</span><span></span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span style="font-family:SimSun;font-size:16px;line-height:1.5;">5. </span><span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">本刊已被中国科学引文数据库（CSCD）、《中国学术期刊网络出版总库》及</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">CNKI</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">系列数据库、万方数据库、超星数据库、维普数据库等收录，作者著作权使用费与本刊稿酬一次性给付。作者若不同意文章被收录，请在来稿时向本刊声明，本刊将做适当处理。 </span><span></span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.1pt;">
+	<b><span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">三、格式要求</span><span></span></span></b> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span style="font-family:SimSun;font-size:16px;line-height:1.5;">1.</span><span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">题名一般不超过</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">20</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">个汉字，并应有英文题名。</span><span></span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span style="font-family:SimSun;font-size:16px;line-height:1.5;">2.</span><span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">来稿应注明作者姓名、单位名称、省市名、邮政编码，并提供英译文。</span><span></span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span style="font-family:SimSun;font-size:16px;line-height:1.5;">3.</span><span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">作者简介包括姓名、出生年月、性别、学历与职称、研究方向、电子邮箱，并注明可靠的通讯地址和联系电话。</span><span></span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span style="font-family:SimSun;font-size:16px;line-height:1.5;">4.</span><span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">摘要应写成报道性内容，直接阐明研究的目的、方法、结果和结论，具有独立性和自明性，以</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">300</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">字左右为宜，并提供英文摘要。关键词以</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">5</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">～</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">8</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">个为宜，并提供英文关键词。</span><span></span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span style="font-family:SimSun;font-size:16px;line-height:1.5;">5.</span><span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">正文应包含引言、主体、结论或结束语部分。</span><span></span></span> 
+</p>
+<p align="left" class="MsoNormal" style="text-align:left;text-indent:21pt;">
+	<span style="font-family:SimSun;font-size:16px;line-height:1.5;">6.</span><span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">外文缩写第一次出现时，应给出中英文全称。</span><span></span></span> 
+</p>
+<p align="left" class="MsoNormal" style="text-align:left;text-indent:21pt;">
+	<span style="font-family:SimSun;font-size:16px;line-height:1.5;">7.</span><span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">量与单位应符合国家标准。每个量符号第一次出现时应给出物理意义说明，同一符号只能表示一个物理量，必要时可用下标区分。一般变量为斜体，矢量、矩阵、张量、向量为斜黑体。单位一般为正体。</span><span></span></span> 
+</p>
+<p align="left" class="MsoNormal" style="text-align:left;text-indent:21pt;">
+	<span style="font-family:SimSun;font-size:16px;line-height:1.5;">8.</span><span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">正文中给出图表的引文。尽量使用彩色图片。图表题名需中英文对照。图表中的文字、数字、符号清晰，量与单位采用“量</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">/</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">单位”方法标注。不同线型或图符有说明。图可在</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">Word</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">或</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">Visio</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">中修改。</span><span></span></span> 
+</p>
+<p align="left" class="MsoNormal" style="text-align:left;text-indent:21pt;">
+	<span style="font-family:SimSun;font-size:16px;line-height:1.5;">9.</span><span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">公式用公式编辑器输入。文中引用的公式需编号。</span><span></span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span style="font-family:SimSun;font-size:16px;line-height:1.5;">10.</span><span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">参考文献应著录最必要、最新的文献。尽量在</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">30</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">篇以上，并在正文中标出引用处。未公开发表资料请勿引用。文献著录格式参考《文后参考文献著录规则（</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">GB/T 7714-2015</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">）》，主要如下：</span><span></span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">专著</span><span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">&nbsp;</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">[</span></span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">序号</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">]</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">作者</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">.</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">书名</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">[M].</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">版本</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">(</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">第</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">1</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">版不用著录</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">).</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">出版地</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">:</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">出版者</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">,</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">出版年</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">:</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">起止页码</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">.</span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">期刊</span><span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">&nbsp;</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">[</span></span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">序号</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">]</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">作者</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">.</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">题名</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">[J].</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">刊名</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">,</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">出版年</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">,</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">卷</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">(</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">期</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">):</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">起止页码</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">.</span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">报告</span><span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">&nbsp;</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">[</span></span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">序号</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">]</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">作者</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">.</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">题名</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">[R].</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">报告名称</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">,</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">编号</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">,</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">出版时间</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">.</span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">会议论文</span><span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">&nbsp;</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">[</span></span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">序号</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">]</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">作者</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">.</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">题名</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">[C].</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">会议名称</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">,</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">会址</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">(</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">城市</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">),</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">会议年份</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">.</span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">学位论文</span><span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">&nbsp;</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">[</span></span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">序号</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">]</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">作者</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">.</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">题名</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">[D].</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">保存者</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">,</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">年份</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">.</span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">技术标准&nbsp;</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">[</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">序号</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">]</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">责任者</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">.</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">标准编号 标准名称</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">[S].</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">出版地</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">:</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">出版者</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">,</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">出版年</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">:</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">引文页码</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">.</span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">电子文献&nbsp;</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">[</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">序号</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">]</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">主要责任者</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">.</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">电子文献题名</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">[</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">电子文献及载体类型标识</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">].</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">电子文献的出处或可获得地址，发表或更新日期</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">/</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">引用日期（任选）</span><span style="font-size:16px;font-family:SimSun;line-height:1.5;">.</span></span> 
+</p>
+<p align="left" class="MsoNormal" style="text-align:left;text-indent:21pt;">
+	<span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">四、联系方式：</span><span></span></span> 
+</p>
+<p align="left" class="MsoNormal" style="text-align:left;text-indent:21pt;">
+	<span style="font-family:SimSun;font-size:16px;line-height:1.5;">投稿系统：<span style="font-family:Times New Roman;">https://www.qk.sjtu.edu.cn/ktfy</span><span style="font-family:Times New Roman;"></span></span><span><a href="http://www.ktfyjournal.com/"><span style="color:windowtext;text-decoration:none;"></span></a></span><span style="font-family:SimSun;font-size:16px;line-height:1.5;">；</span><span style="font-family:SimSun;font-size:16px;line-height:1.5;">投稿邮箱：<span style="font-family:Times New Roman;">no8publish@126.com</span></span> 
+</p>
+<p align="left" class="MsoNormal" style="text-align:left;text-indent:21pt;">
+	<span style="font-family:宋体;"><span style="font-size:16px;font-family:SimSun;line-height:1.5;">通讯地址：上海市闵行区中春路<span style="font-family:Times New Roman;">1333-1</span>号《空天防御》编辑部，邮编：201109</span></span> 
+</p>
+<p align="left" class="MsoNormal" style="text-align:left;text-indent:21pt;">
+	<span style="font-family:宋体;"></span><span style="font-family:SimSun;font-size:16px;line-height:1.5;">联系电话：021-24185113；021-24185376</span> 
+</p></span></td>
+			                     								</tr>
+			                  								</table>			                  							</td>
+			             							</tr>
+			              						</table>			              					</td>
+			           					</tr>
+			       						<tr>
+                                          <td height="5" align="right"><span class="J_WenZhang">发布日期：2023-07-10 浏览：
+                                            
+
+
+
+
+16533
+	
+	
+	 
+                                          </span> </td>
+				  </tr>
+			       						<tr>
+                                          <td align="center" valign="top">&nbsp;</td>
+				  </tr>
+			          		
+					         			<tr> 
+					        				<td bgcolor="#f5f5f5"></td>
+							 			</tr>
+				    </table>
+	
+           </td>
+         </tr>
+      </table>
+    </td> 
+          
+		        
+		<!--中间.右部-->    
+    <TD vAlign=top width=210  bgcolor="#ffffff">
+	<div class="col-md-3">
+<style type="text/css">
+<!--
+.STYLE46 {	color: #056FC3;
+	font-weight: bold;
+}
+.laming {
+	font-family: "微软雅黑";
+	font-size: 18px;
+	color: #333333;	
+}
+.mor {font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+}
+-->
+</style>
+<script language="javascript">
+$(document).ready(function () {
+	$("#most_downloader").load("../article/showDownloadTopListSimple.do?year=0");
+	$("#most_cited").load("../article/showBeiyincishuTopSimple.do");
+});
+</script>
+
+
+<table width="350" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><table width="330" border="0" align="right" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="350" height="163" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td height="30"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="69%" height="27" align="left" valign="top"><span class="laming">在线办公</span></td>
+                <td width="19%" align="right" valign="bottom">&nbsp;</td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td height="4" background="../../images/2096-4641/zs5.jpg"></td>
+          </tr>
+          <tr>
+            <td height="106">
+ <table width="100%" border="0" cellspacing="6" cellpadding="0">
+                        <tr>
+                          <td width="50%" height="35" align="center" onmouseover="style.backgroundColor='#ffae14'" onmouseout="style.backgroundColor='#0f67a9'" bgcolor="#0f67a9"><a href="../../../Journalx_ktfy/authorLogOn.action" target="_blank"><span style="color:#ffffff; font-size:15px;">作者中心</span></a></td>
+                          <td width="50%" align="center" onmouseover="style.backgroundColor='#ffae14'" onmouseout="style.backgroundColor='#0f67a9'" bgcolor="#0f67a9"><a href="../../../Journalx_ktfy/editorLogOn.action" target="_blank"><span style="color:#ffffff; font-size:15px;">编辑中心</span></a></td>
+                        </tr>
+                        <tr>
+                          <td height="35" align="center" onmouseover="style.backgroundColor='#ffae14'" onmouseout="style.backgroundColor='#0f67a9'" bgcolor="#0f67a9"><a href="../../../Journalx_ktfy/expertLogOn.action" target="_blank" ><span style="color:#ffffff; font-size:15px;">专家中心</span></a></td>
+                          <td align="center" onmouseover="style.backgroundColor='#ffae14'" onmouseout="style.backgroundColor='#0f67a9'" bgcolor="#0f67a9"><a href="../../../Journalx_ktfy/editorInChiefLogOn.action" target="_blank"><span style="color:#ffffff; font-size:15px;">主编中心</span></a></td>
+                        </tr>
+                      </table>
+</td>
+          </tr>
+        </table></td>
+      </tr>
+      
+      <!--
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td height="44"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="69%" height="27" align="left"><span class="laming">下载排行</span></td>
+                <td width="19%" align="right" valign="bottom"><a href="../article/showDownloadTopList.do"><span class="mor">MORE&gt;&gt;</span></a></td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td height="4" background="../../images/2096-4641/zs5.jpg"></td>
+          </tr>
+          <tr>
+            <td height="252" valign="top">
+	     <div id="most_downloader"></div>
+	    </td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td height="19" align="center">&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="19" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td height="44"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="69%" height="27" align="left"><span class="laming">引用排行</span></td>
+                <td width="19%" align="right" valign="bottom"><a href="../article/showBeiyincishuTop.do"><span class="mor">MORE&gt;&gt;</span></a></td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td height="4" background="../../images/2096-4641/zs5.jpg"></td>
+          </tr>
+          <tr>
+            <td height="255" valign="top">
+	     <div id="most_cited"></div>
+	    </td>
+          </tr>
+        </table></td>
+      </tr>
+
+-->
+       <tr>
+        <td height="19" align="center">&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="19" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td height="44"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="69%" height="27" align="left"><span class="laming">友情链接</span></td>
+                <td width="19%" align="right" valign="bottom"></td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td height="4" background="../../images/2096-4641/zs5.jpg"></td>
+          </tr>
+          <tr>
+            <td height="255" valign="top">
+		<div class="xinwen news">
+		<ul>
+										<li><a href="https://www.spacejournal.cn/" class="text-title">中国航天期刊数字出版与知识服务平台（SPACE）</a></li>
+												<li><a href="http://shht.ijournal.cn/ch/index.aspx" class="text-title">上海航天</a></li>
+												<li><a href="http://htkz.magtechjournal.com/CN/home" class="text-title">航天控制</a></li>
+												<li><a href="https://www.sjtu.edu.cn/" class="text-title">上海交通大学</a></li>
+								</ul>
+		</div>
+	    </td>
+          </tr>
+        </table></td>
+      </tr>
+
+
+
+    </table></td>
+  </tr>
+
+ 
+</table>
+</div>
+	
+	</TD>			        
+		     
+		        
+        </TR>
+     </TABLE>
+
+  </TABLE>
+
+		
+	 <!--底部-->
+	<table width="1002" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff" height="10">
+  <tr>
+    <td></td>
+  </tr>
+</table>
+<table width="1002" align="center" height="2" border="0" cellpadding="0" cellspacing="0" bgcolor="#0f67a9">
+  <tr>
+    <td height="2"></td>
+  </tr>
+</table>
+<table width="1002" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="100" align="center" bgcolor="#ffffff"><span style="line-height:24px; color:#666;">
+     沪ICP备15013849号-1 <br>
+版权所有 &copy; 2017《空天防御》编辑部<br>
+	主管单位：中国航天科技集团有限公司　主办单位：上海机电工程研究所　上海交通大学出版社有限公司 </span></td>
+  </tr>
+</table>
+
+
+</BODY>
+</HTML>

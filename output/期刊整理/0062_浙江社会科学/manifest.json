@@ -1,0 +1,144 @@
+{
+  "journal": {
+    "name": "浙江社会科学",
+    "url": "https://www.zjskw.gov.cn/col/col1229536590/index.html",
+    "journal_id": "",
+    "row": 63,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.zjskw.gov.cn/col/col1229536590/index.html",
+  "collected_at": "2026-11-26T20:46:57+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.zjskw.gov.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.zjskw.gov.cn/col/col1229536590/index.html",
+      "requested_url": "https://www.zjskw.gov.cn/col/col1229536590/index.html",
+      "title": "浙江社会科学",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:46:57+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.zjskw.gov.cn/art/2024/10/10/art_1229819897_61002.html",
+      "requested_url": "https://www.zjskw.gov.cn/art/2024/10/10/art_1229819897_61002.html",
+      "title": "《浙江社会科学》投稿须知",
+      "path": [
+        "官网入口",
+        "《浙江社会科学》投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:46:57+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.zjskw.gov.cn/art/2024/10/23/art_1229824658_61222.html",
+      "requested_url": "https://www.zjskw.gov.cn/art/2024/10/23/art_1229824658_61222.html",
+      "title": "“中国式现代化进程中的社会学研究”征稿启事",
+      "path": [
+        "官网入口",
+        "“中国式现代化进程中的社会学研究”征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:46:57+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.zjskw.gov.cn/col/col1229819897/index.html",
+      "requested_url": "https://www.zjskw.gov.cn/col/col1229819897/index.html",
+      "title": "投稿须知",
+      "path": [
+        "官网入口",
+        "《浙江社会科学》投稿须知",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:46:57+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.zjskw.gov.cn/col/col1229502083/index.html?key",
+      "requested_url": "http://www.zjskw.gov.cn/col/col1229502083/index.html?key",
+      "title": "文件制度",
+      "path": [
+        "官网入口",
+        "资料下载"
+      ],
+      "visited_at": "2026-11-26T20:46:57+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.zjskw.gov.cn/col/col1229500360/index.html",
+      "requested_url": "https://www.zjskw.gov.cn/col/col1229500360/index.html",
+      "title": "资料下载",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "资料下载"
+      ],
+      "visited_at": "2026-11-26T20:46:57+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "《浙江社会科学》投稿须知",
+      "source_url": "https://www.zjskw.gov.cn/art/2024/10/10/art_1229819897_61002.html",
+      "path": [
+        "官网入口",
+        "《浙江社会科学》投稿须知"
+      ],
+      "local_path": "web/《浙江社会科学》投稿须知_b8f63d0dca.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "“中国式现代化进程中的社会学研究”征稿启事",
+      "source_url": "https://www.zjskw.gov.cn/art/2024/10/23/art_1229824658_61222.html",
+      "path": [
+        "官网入口",
+        "“中国式现代化进程中的社会学研究”征稿启事"
+      ],
+      "local_path": "web/“中国式现代化进程中的社会学研究”征稿启事_a09bd6f4b4.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "浙江社会科学投稿格式",
+      "local_path": "浙江社会科学投稿格式.md",
+      "source_urls": [
+        "https://www.zjskw.gov.cn/art/2024/10/10/art_1229819897_61002.html",
+        "https://www.zjskw.gov.cn/art/2024/10/23/art_1229824658_61222.html"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://www.zjskw.gov.cn/col/col1229536590/index.html",
+      "title": "浙江社会科学",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

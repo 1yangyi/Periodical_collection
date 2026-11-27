@@ -1,0 +1,110 @@
+{
+  "journal": {
+    "name": "民俗研究",
+    "url": "https://rwskjournals.sdu.edu.cn/kwdh/qkdh/msyj.htm",
+    "journal_id": "",
+    "row": 17,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://rwskjournals.sdu.edu.cn/kwdh/qkdh/msyj.htm",
+  "collected_at": "2026-11-26T20:40:15+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "rwskjournals.sdu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://rwskjournals.sdu.edu.cn/kwdh/qkdh/msyj.htm",
+      "requested_url": "https://rwskjournals.sdu.edu.cn/kwdh/qkdh/msyj.htm",
+      "title": "刊物导航",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:40:15+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://rwskjournals.sdu.edu.cn/tzgg.htm",
+      "requested_url": "https://rwskjournals.sdu.edu.cn/tzgg.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:40:15+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://rwskjournals.sdu.edu.cn/info/1011/1049.htm",
+      "requested_url": "https://rwskjournals.sdu.edu.cn/info/1011/1049.htm",
+      "title": "《黄河学刊》创刊及征稿启事-人文社科期刊网",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "《黄河学刊》创刊及征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:40:15+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://rwskjournals.sdu.edu.cn/info/1011/1047.htm",
+      "requested_url": "https://rwskjournals.sdu.edu.cn/info/1011/1047.htm",
+      "title": "《新文科理论与实践》征稿启事-人文社科期刊网",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "《新文科理论与实践》征稿启事"
+      ],
+      "visited_at": "2026-11-26T20:40:15+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "《新文科理论与实践》征稿启事-人文社科期刊网",
+      "source_url": "https://rwskjournals.sdu.edu.cn/info/1011/1047.htm",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "《新文科理论与实践》征稿启事"
+      ],
+      "local_path": "web/《新文科理论与实践》征稿启事-人文社科期刊网_5c8fe32178.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "民俗研究投稿格式",
+      "local_path": "民俗研究投稿格式.md",
+      "source_urls": [
+        "https://rwskjournals.sdu.edu.cn/info/1011/1047.htm"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://rwskjournals.sdu.edu.cn/kwdh/qkdh/msyj.htm",
+      "title": "民俗研究",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

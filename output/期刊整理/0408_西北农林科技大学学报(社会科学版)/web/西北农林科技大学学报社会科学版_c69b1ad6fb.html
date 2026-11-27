@@ -1,0 +1,386 @@
+
+
+<script>
+function addCookie(url,title)
+{
+ if (document.all)
+    {
+       window.external.addFavorite(url,title);
+    }
+    else if (window.sidebar)
+    {
+       window.sidebar.addPanel(title, url, "");
+ }
+}
+
+function setHomepage(homeurl)
+{
+ if (document.all)
+    {
+        document.body.style.behavior='url(#default#homepage)';
+  document.body.setHomePage(homeurl);
+ 
+    }
+    else if (window.sidebar)
+    {
+    if(window.netscape)
+    {
+         try
+   {  
+            netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");  
+         }  
+         catch (e)  
+         {  
+    alert( "该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true" );  
+         }
+    } 
+    var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+    prefs.setCharPref('browser.startup.homepage',homeurl);
+ }
+} 
+</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>
+        西北农林科技大学学报社会科学版
+    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <script type="text/javascript" src="js/calendar_new.js"></script>
+
+    <script type="text/javascript" src="js/checkform.js"></script>
+
+    <script type="text/javascript" src="js/ajax.js"></script>
+
+    <script type="text/javascript" src="js/jquery.js"></script>
+
+    <link href="css/front_table_css.css" rel="stylesheet" type="text/css">
+    <link href="css/kuangjia.css" rel="stylesheet" type="text/css">
+    <style type="text/css"> 
+<!--
+.STYLE1 {color: #FF0000}
+-->
+</style>
+</head>
+<body>
+    <center>
+        <div id="container">
+            <!-------------------------头部------------------------->
+            <div id="top">
+                <div class="logo">
+                </div>
+                <div class="navigation">
+                    <ul>
+                        <li style="width: 250px; color: #000000;">今天是：
+
+                            <script language="javascript">
+											var week,day,month,year
+											function initArray(){
+											this.length =initArray.arguments.length
+											for (var i = 0; i < this.length; i++)
+											this[i+1] = initArray.arguments[i]
+											}
+											var LastModDate = new Date(document.lastModified);
+											var WeekArray = new initArray("星期日","星期一","星期二","星期三","星期四","星期五","星期六");
+											var MonthArray = new initArray("1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月");
+											day = LastModDate.getDate() +"日";
+											year = LastModDate.getFullYear() +"年";
+											week = WeekArray[(LastModDate.getDay()+1)];
+											month = MonthArray[(LastModDate.getMonth()+1)];
+											now = new Date();
+											time = now.toLocaleTimeString(); 
+											document.write(year,month,day,"",week,"    ");
+                            </script>
+
+                        </li>
+                        <li>
+                            <A href="index.aspx"><b>首页</b></A><b style='color:#ffffff;text-align:center;'>|</b><A href="first_menu.aspx?parent_id=20091027194834001"><b>期刊介绍</b></A><b style='color:#ffffff;text-align:center;'>|</b><A href="first_menu.aspx?parent_id=20091027194948001"><b>编委会</b></A><b style='color:#ffffff;text-align:center;'>|</b><A href="first_menu.aspx?parent_id=20091027195000001"><b>投稿指南</b></A><b style='color:#ffffff;text-align:center;'>|</b><A href="first_menu.aspx?parent_id=20091202163048001"><b>审稿指南</b></A><b style='color:#ffffff;text-align:center;'>|</b><A href="first_menu.aspx?parent_id=20091027195010001"><b>期刊订阅</b></A><b style='color:#ffffff;text-align:center;'>|</b><A href="first_menu.aspx?parent_id=20091027195047001"><b>联系我们</b></A><b style='color:#ffffff;text-align:center;'>|</b><A href="first_menu.aspx?parent_id=20091027195024001"><b>下载中心</b></A><b style='color:#ffffff;text-align:center;'>|</b><A href="first_menu.aspx?parent_id=20091102170043001"><b>English</b></A>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <!-------------------------头部------------------------->
+            <div id="zhong">
+                <!-------------------------左部------------------------->
+                <div class="left">
+                    <div class="left-k">
+                        <div class="left-p">
+                            <img src="ext_images/le_01.jpg" /></div>
+                        <ul>
+                            <li><a href="author/login.aspx"><img src="ext_images/1.gif"></a></li>
+                            <li><a href="login.aspx"><img src="ext_images/2.gif"></a></li>
+                            <li><a href="auditor/login.aspx"><img src="ext_images/3.gif"></a></li>
+                            <li><a href="auditor/login.aspx"><img src="ext_images/4.gif"></a></li>
+                            <li><a href="author/login.aspx"><img src="ext_images/5.gif"></a></li>
+                        </ul>
+                        <div class="left-b">
+                        </div>
+                    </div>
+                    <div class="left-k1">
+                        <div class="left-p">
+                            <img src="ext_images/le_07.jpg" /></div>
+                        <ul>
+                        
+								 <li><a href="reader/view_news.aspx?id=20091027191729001" target="_blank"><b>文献著录格式</b></a></li>
+							
+								 <li><a href="reader/view_news.aspx?id=20091027191707001" target="_blank"><b>本刊稿约</b></a></li>
+							
+                        </ul>
+                        <div class="left-b">
+                        </div>
+                    </div>
+                    <div class="left-k2">
+                        <div class="left-p2">
+                            <img src="ext_images/le_13.jpg" /></div>
+                        <ul>
+                        
+                         <li><a href="https://check.cnki.net/smlc/" target="_blank">社科期刊学术不端文献检测系统</a></li>
+                          
+                         <li><a href="http://www.nwsuaf.edu.cn/" target="_blank">西北农林科技大学</a></li>
+                          
+                         <li><a href="http://www.sju.cnki.net/sju/navi/issue.aspx?pykm=SANN" target="_blank">“三农”问题研究电子刊</a></li>
+                          
+                         <li><a href="http://www.cnki.net/" target="_blank">中国知网</a></li>
+                          
+                         <li><a href="http://www.xinhuawz.com/" target="_blank">新华文摘</a></li>
+                          
+                         <li><a href="http://www.zlzx.org/" target="_blank">人大书报资料中心</a></li>
+                          
+                         <li><a href="http://cssci.nju.edu.cn/" target="_blank">中文社会科学引文索引</a></li>
+                          
+                         <li><a href="http://www.e-tiller.com" target="_blank">北京勤云科技</a></li>
+                          
+                        </ul>
+                        <div class="left-b">
+                        </div>
+                    </div>
+                    <div class="left-k3">
+                        <div class="left-p3">
+                            <img src="ext_images/le_15.jpg" /></div>
+                        <ul>
+                            <li class="kuan3">主 编：</li><li class="kuan2">黄思光</li>
+                        </ul>
+                        <ul>
+                            <li class="kuan3">主 任：</li><li class="kuan2">张　洁</li>
+                        </ul>
+                        <ul>
+                            <li class="kuan3">刊 期：</li><li class="kuan2">双月刊</li>
+                        </ul>
+                        <ul>
+                            <li class="kuan3">电 话：</li><li class="kuan2">029-87092606；029-87092306</li>
+                        </ul>
+                        <ul>
+                            <li class="kuan3">E-mail：</li><li class="kuan2">xnxb2606@163.com</li>
+                        </ul>
+                        <ul>
+                            <li class="kuan4">邮发代号：</li><li class="kuan2">52-254</li>
+                        </ul>
+                        <ul>
+                            <li class="kuan4">创刊时间：</li><li class="kuan2">2001年1月</li>
+                        </ul>
+                        <ul>
+                            <li class="kuan4">主办单位：</li><li class="kuan2">西北农林科技大学</li>
+                        </ul>
+                        <ul>
+                            <li class="kuan4">主管单位：</li><li class="kuan2">中华人民共和国教育部</li>
+                        </ul>
+                        <ul>
+                            <li class="kuan1">国内统一刊号：</li><li class="kuan2">CN 61-1376/C</li>
+                        </ul>
+                        <ul>
+                            <li class="kuan1">国际标准刊号：</li><li class="kuan2">ISSN 1009-9107</li>
+                        </ul>
+                        <ul>
+                            <li class="kuan1">编辑部地址：</li><li class="kuan2" style="width:132px;" >712100 陕西 杨凌 西北农林科大北校区34信箱</li>
+                        </ul>
+                        <div class="left-b">
+                        </div>
+                    </div>
+                </div>
+                <div style="float:left;width:768px;height:auto;background:#ffffff;margin-top:10px;margin-left:18px;border-bottom:solid 10px #e2e2e2;">
+
+<div class="center" style="width:762px;">
+  <form method="post" action="./first_menu.aspx?parent_id=20091027195000001" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<span id="ErrorMessage"></span>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" class="front_table">
+  <tr >
+	<td width="5" ><img src="../../images/newsbg/bg_corn1.jpg" width="5" height="5"></td>
+	<td background="../../images/newsbg/bg_top.jpg" height="5"></td>
+	<td width="5"><img src="../../images/newsbg/bg_corn2.jpg" width="5" height="5"></td>
+  </tr>
+  <tr>
+	<td background="../../images/newsbg/bg_left.jpg" width="5"></td>
+	<td>
+		<div style="margin-top:20px">
+	
+		<table width=100%>
+			<tr align="center"><td >
+			<p style="text-align:center;font-size:15px;font-weight:600;"><span id="Title">投稿指南</span></p>
+			</td></tr>
+			<tr><td>
+			<hr size=1 width="98%" align="center" color="green">
+			</td></tr>
+			<tr><td>
+			<span id="Content"><p align="center" class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center;mso-pagination:widow-orphan;background:white"><b><span style="font-size:18.0pt;font-family:宋体;mso-bidi-font-family:宋体;color:blue;
+mso-font-kerning:0pt">投稿指南</span></b><span lang="EN-US" style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal" style="margin-top:7.8pt;margin-right:9.45pt;
+margin-bottom:7.8pt;margin-left:9.45pt;mso-para-margin-top:.5gd;mso-para-margin-right:
+.9gd;mso-para-margin-bottom:.5gd;mso-para-margin-left:.9gd;text-align:left;
+line-height:22.0pt;mso-pagination:widow-orphan"><b><span style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;color:blue;mso-font-kerning:0pt">　　<i><span lang="EN-US">1.</span></i>注册</span></b><span lang="EN-US" style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal" style="margin-top:7.8pt;margin-right:9.45pt;
+margin-bottom:7.8pt;margin-left:9.45pt;mso-para-margin-top:.5gd;mso-para-margin-right:
+.9gd;mso-para-margin-bottom:.5gd;mso-para-margin-left:.9gd;text-align:left;
+line-height:22.0pt;mso-pagination:widow-orphan"><b><span style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;color:#333333;mso-font-kerning:0pt">　　点击&ldquo;作者投稿&rdquo;区的新用户注册，填写个人信息</span></b><b><span style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;color:red;
+mso-font-kerning:0pt">（注意：<i><span lang="EN-US">E-mail</span></i>一定要填您常用的<i><span lang="EN-US">E-mail</span></i>地址全名，密码由您自己设定，最好与您平时使用的<i><span lang="EN-US">E-mail</span></i>密码相同，以免遗忘），</span></b><b><span style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;color:#333333;
+mso-font-kerning:0pt">填写完毕提交后<i><span lang="EN-US">,</span></i>您将收到注册成功的电子邮件<i><span lang="EN-US">,</span></i>请按电子邮件提示登录。</span></b><span lang="EN-US" style="font-size:
+12.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal" style="margin-top:7.8pt;margin-right:9.45pt;
+margin-bottom:7.8pt;margin-left:9.45pt;mso-para-margin-top:.5gd;mso-para-margin-right:
+.9gd;mso-para-margin-bottom:.5gd;mso-para-margin-left:.9gd;text-align:left;
+line-height:22.0pt;mso-pagination:widow-orphan"><b><span style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;color:blue;mso-font-kerning:0pt">　　<i><span lang="EN-US">2.</span></i>投稿</span></b><span lang="EN-US" style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal" style="margin-top:7.8pt;margin-right:9.45pt;
+margin-bottom:7.8pt;margin-left:9.45pt;mso-para-margin-top:.5gd;mso-para-margin-right:
+.9gd;mso-para-margin-bottom:.5gd;mso-para-margin-left:.9gd;text-align:left;
+line-height:22.0pt;mso-pagination:widow-orphan"><b><span style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;color:#333333;mso-font-kerning:0pt">　　在网站首页点击&ldquo;</span></b><b><span style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;color:red;
+mso-font-kerning:0pt">作者投稿</span></b><b><span style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;color:#333333;mso-font-kerning:0pt">&rdquo;，进入投稿页面，按提示填写全部投稿信息后提交即可。</span></b><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal" style="margin-top:7.8pt;margin-right:9.45pt;
+margin-bottom:7.8pt;margin-left:9.45pt;mso-para-margin-top:.5gd;mso-para-margin-right:
+.9gd;mso-para-margin-bottom:.5gd;mso-para-margin-left:.9gd;text-align:left;
+line-height:22.0pt;mso-pagination:widow-orphan"><b><span style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;color:#9900CC;mso-font-kerning:0pt">　　投稿完成后，请马上查询您的稿件状态，如果您的稿件标题没有显示，说明稿件没有上传成功。可能是因为网速过慢造成，请您选择适当时间重新投稿。</span></b><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal" style="margin-top:7.8pt;margin-right:9.45pt;
+margin-bottom:7.8pt;margin-left:9.45pt;mso-para-margin-top:.5gd;mso-para-margin-right:
+.9gd;mso-para-margin-bottom:.5gd;mso-para-margin-left:.9gd;text-align:left;
+line-height:22.0pt;mso-pagination:widow-orphan"><b><span style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;color:blue;mso-font-kerning:0pt">　　<i><span lang="EN-US">3.</span></i>查询稿件目前的处理情况</span></b><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt"><o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal" style="margin-top:7.8pt;margin-right:9.45pt;
+margin-bottom:7.8pt;margin-left:9.45pt;mso-para-margin-top:.5gd;mso-para-margin-right:
+.9gd;mso-para-margin-bottom:.5gd;mso-para-margin-left:.9gd;text-align:left;
+line-height:22.0pt;mso-pagination:widow-orphan"><b><span style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;color:#333333;mso-font-kerning:0pt">　　登陆系统后，进入&ldquo;</span></b><b><span style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;color:red;
+mso-font-kerning:0pt">稿件查询</span></b><b><span style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;color:#333333;mso-font-kerning:0pt">&rdquo;可随时查询稿件处理情况。</span></b><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal" style="margin-top:7.8pt;margin-right:9.45pt;
+margin-bottom:7.8pt;margin-left:9.45pt;mso-para-margin-top:.5gd;mso-para-margin-right:
+.9gd;mso-para-margin-bottom:.5gd;mso-para-margin-left:.9gd;text-align:left;
+line-height:22.0pt;mso-pagination:widow-orphan"><b><span style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;color:#333333;mso-font-kerning:0pt">　　显示</span></b><b><span style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;color:#9900CC;
+mso-font-kerning:0pt">稿件&ldquo;待审&rdquo;即为编辑部审稿，&ldquo;专家审稿&rdquo;即为审稿专家复审</span></b><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt"><o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal" style="margin-top:7.8pt;margin-right:9.45pt;
+margin-bottom:7.8pt;margin-left:9.45pt;mso-para-margin-top:.5gd;mso-para-margin-right:
+.9gd;mso-para-margin-bottom:.5gd;mso-para-margin-left:.9gd;text-align:left;
+line-height:22.0pt;mso-pagination:widow-orphan"><b><span style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;color:blue;mso-font-kerning:0pt">　　<i><span lang="EN-US">4.</span></i>修改稿件</span></b><span lang="EN-US" style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal" style="margin-top:7.8pt;margin-right:9.45pt;
+margin-bottom:7.8pt;margin-left:9.45pt;mso-para-margin-top:.5gd;mso-para-margin-right:
+.9gd;mso-para-margin-bottom:.5gd;mso-para-margin-left:.9gd;text-align:left;
+line-height:22.0pt;mso-pagination:widow-orphan"><b><span style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;color:#333333;mso-font-kerning:0pt">　　关于稿件信息，在编辑部未对稿件进行任何处理时，您还可以在稿件查询处随时修改稿件信息。一经处理，必须经编辑部操作才可以对稿件进行修改。</span></b><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal" style="margin-top:7.8pt;margin-right:9.45pt;
+margin-bottom:7.8pt;margin-left:9.45pt;mso-para-margin-top:.5gd;mso-para-margin-right:
+.9gd;mso-para-margin-bottom:.5gd;mso-para-margin-left:.9gd;text-align:left;
+line-height:22.0pt;mso-pagination:widow-orphan"><b><span style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;color:#333333;mso-font-kerning:0pt">　　在提交修改稿时，请直接用已注册的<i><span lang="EN-US">E-mail</span></i>和密码登录网站<i><span lang="EN-US">,</span></i>在&ldquo;</span></b><b><span style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;color:red;
+mso-font-kerning:0pt">稿件管理</span></b><b><span style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;color:#333333;mso-font-kerning:0pt">&rdquo;菜单下<i><span lang="EN-US">&nbsp;</span>点击&ldquo;</i></span></b><b><span style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;color:red;mso-font-kerning:0pt">上传<i><span lang="EN-US">/</span></i>下载修改稿</span></b><b><span style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;color:#333333;mso-font-kerning:0pt">&rdquo;子菜单通过编号找到对应稿件，先下载<i><span lang="EN-US">(</span></i>打开<i><span lang="EN-US">)</span></i>原文，查阅编辑部是否有直接的批注或修改。修改稿或补充的内容再通过&ldquo;</span></b><b><span style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;color:red;
+mso-font-kerning:0pt">修改</span></b><b><span style="font-size:12.0pt;font-family:
+宋体;mso-bidi-font-family:宋体;color:#333333;mso-font-kerning:0pt">&rdquo;菜单上传回来。</span></b><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal" style="margin-top:7.8pt;margin-right:9.45pt;
+margin-bottom:7.8pt;margin-left:9.45pt;mso-para-margin-top:.5gd;mso-para-margin-right:
+.9gd;mso-para-margin-bottom:.5gd;mso-para-margin-left:.9gd;text-align:left;
+line-height:22.0pt;mso-pagination:widow-orphan"><b><span style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;color:#9900CC;mso-font-kerning:0pt">　　注意：（1）请不要再使用投稿功能投此稿，否则会被视为新稿件，已有的审稿结果将作废。（2）投稿前确定作者排序及单位，所有作者对排序认同，投稿后不能更改。（3）近年，以ChatGPT、DeepSeek等为代表的AIGC技术深度融合学术研究，在文献梳理、语言润色、数据分析等方面展现出高效辅助能力。然而，其生成内容的失真性、来源模糊性及隐私泄露风险，也对学术出版的真实性、原创性构成严峻挑战。特别强调：本刊仅接受将AIGC作为辅助工具，当论文中AIGC生成或辅助产出的内容超过全文（不含图表与数据）的15%时，将直接做退稿处理。</span></b></p>
+
+<p align="left" class="MsoNormal" style="margin-top:7.8pt;margin-right:9.45pt;
+margin-bottom:7.8pt;margin-left:9.45pt;mso-para-margin-top:.5gd;mso-para-margin-right:
+.9gd;mso-para-margin-bottom:.5gd;mso-para-margin-left:.9gd;text-align:left;
+line-height:22.0pt;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal" style="margin-top:7.8pt;margin-right:9.45pt;
+margin-bottom:7.8pt;margin-left:9.45pt;mso-para-margin-top:.5gd;mso-para-margin-right:
+.9gd;mso-para-margin-bottom:.5gd;mso-para-margin-left:.9gd;text-align:left;
+line-height:22.0pt;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:
+12.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt"><o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal" style="margin-top:7.8pt;margin-right:9.45pt;
+margin-bottom:7.8pt;margin-left:9.45pt;mso-para-margin-top:.5gd;mso-para-margin-right:
+.9gd;mso-para-margin-bottom:.5gd;mso-para-margin-left:.9gd;text-align:left;
+text-indent:18.0pt;line-height:22.0pt;mso-pagination:widow-orphan;background:
+white"><span arial="" lang="EN-US" style="font-size:
+10.0pt;font-family:"><o:p></o:p></span></p></span>
+			</td></tr>
+		</table>
+			
+		</div>
+	</td>
+	<td background="../../images/newsbg/bg_right.jpg" width="5"></td>
+  </tr>
+  <tr  height="5">
+	<td><img src="../../images/newsbg/bg_corn3.jpg" width="5" height="5"></td>
+	<td background="../../images/newsbg/bg_bottom.jpg"></td>
+	<td><img src="../../images/newsbg/bg_corn4.jpg" width="5" height="5"></td>
+  </tr>
+</table>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="456BBA73" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div></form>
+</div>
+
+
+  
+                </div>
+            <div id="footer" style="background:#ffffff;"><br /><br/>您是本站第70091206位访问者
+<br />
+版权所有：《西北农林科技大学学报（社会科学版）》编辑部<br />
+	<a href="https://beian.miit.gov.cn/#/Integrated/index">陕ICP备05001586号-5</a><br/>
+  	技术支持：<a href="http://www.e-tiller.com" style="color:#fe883e">北京勤云科技发展有限公司</a><br />
+  	
+            </div>
+
+      </div>
+</center>
+</body>
+
+</html>
+

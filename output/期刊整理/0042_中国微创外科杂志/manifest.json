@@ -1,0 +1,352 @@
+{
+  "journal": {
+    "name": "中国微创外科杂志",
+    "url": "http://zgwcwk.paperopen.com/",
+    "journal_id": "",
+    "row": 43,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "completed",
+  "homepage_resolved": "http://zgwcwk.paperopen.com/",
+  "collected_at": "2026-11-26T20:43:52+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "zgwcwk.paperopen.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "http://zgwcwk.paperopen.com/",
+      "requested_url": "http://zgwcwk.paperopen.com/",
+      "title": "网站导航",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:43:52+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=146&Nid=DF458C19-0C67-4BD5-8C74-06FAE04C5384",
+      "requested_url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=146&Nid=DF458C19-0C67-4BD5-8C74-06FAE04C5384",
+      "title": "参考文献著录格式 - 《中国微创外科杂志》",
+      "path": [
+        "官网入口",
+        "参考文献著录格式"
+      ],
+      "visited_at": "2026-11-26T20:43:52+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=145&Nid=56E91D4E-06B0-448B-B3C4-3166416E780A",
+      "requested_url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=145&Nid=56E91D4E-06B0-448B-B3C4-3166416E780A",
+      "title": "网站导航",
+      "path": [
+        "首页",
+        "作者园地",
+        "作者投稿注意事项"
+      ],
+      "visited_at": "2026-11-26T20:43:52+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "网站导航",
+      "source_url": "http://zgwcwk.paperopen.com/",
+      "path": [
+        "官网入口"
+      ],
+      "local_path": "web/网站导航_f394620583.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "参考文献著录格式 - 《中国微创外科杂志》",
+      "source_url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=146&Nid=DF458C19-0C67-4BD5-8C74-06FAE04C5384",
+      "path": [
+        "官网入口",
+        "参考文献著录格式"
+      ],
+      "local_path": "web/参考文献著录格式 - 《中国微创外科杂志》_998259e79d.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "网站导航",
+      "source_url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=145&Nid=56E91D4E-06B0-448B-B3C4-3166416E780A",
+      "path": [
+        "首页",
+        "作者园地",
+        "作者投稿注意事项"
+      ],
+      "local_path": "web/网站导航_50e81534e6.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "attachment",
+      "format": "doc",
+      "title": "介绍信和版权转让协议（模板/附件链接；未验证文件可用性）",
+      "local_path": "attachments/4ecc6286-588a-48c1-b211-5a2ab9ea816b_4dae05f4f5.doc",
+      "sha256": "4dae05f4f556a891374304dc889ef12a1dc2fec3f35ef94d2bfdac2c8f2978bb",
+      "bytes": 15360,
+      "sources": [
+        {
+          "source_url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=145&Nid=56E91D4E-06B0-448B-B3C4-3166416E780A",
+          "download_url": "http://zgwcwk.paperopen.com/Upload/Park/4ecc6286-588a-48c1-b211-5a2ab9ea816b.doc",
+          "resolved_url": "http://zgwcwk.paperopen.com/Upload/Park/4ecc6286-588a-48c1-b211-5a2ab9ea816b.doc",
+          "path": [
+            "首页",
+            "作者园地",
+            "介绍信和版权转让协议"
+          ],
+          "label": "介绍信和版权转让协议（模板/附件链接；未验证文件可用性）",
+          "context": "",
+          "source_published_at": ""
+        },
+        {
+          "source_url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=145&Nid=56E91D4E-06B0-448B-B3C4-3166416E780A",
+          "download_url": "http://zgwcwk.paperopen.com/Upload/Park/4ecc6286-588a-48c1-b211-5a2ab9ea816b.doc",
+          "resolved_url": "http://zgwcwk.paperopen.com/Upload/Park/4ecc6286-588a-48c1-b211-5a2ab9ea816b.doc",
+          "path": [
+            "首页",
+            "作者园地",
+            "介绍信和版权转让协议"
+          ],
+          "label": "介绍信模板（页面正文提及需下载介绍信；附件链接未验证可用性）",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "http://zgwcwk.paperopen.com/Upload/Park/bb1c2a6e-17db-45c1-afdd-d82d88195bee.pdf",
+      "title": "投稿须知",
+      "source_url": "http://zgwcwk.paperopen.com/",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "reason": "invalid_or_failed_attachment",
+      "detail": "HTTPConnectionPool(host='zgwcwk.paperopen.com', port=80): Read timed out.",
+      "context": "投稿须知"
+    },
+    {
+      "url": "http://zgwcwk.paperopen.com/Upload/Park/fe39ffe8-8c15-413c-a9d2-6fde9b764742.pdf",
+      "title": "美国腹腔镜内镜外科医师协会...",
+      "source_url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=146&Nid=DF458C19-0C67-4BD5-8C74-06FAE04C5384",
+      "path": [
+        "官网入口",
+        "参考文献著录格式",
+        "美国腹腔镜内镜外科医师协会..."
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "美国腹腔镜内镜外科医师协会..."
+    },
+    {
+      "url": "http://zgwcwk.paperopen.com/Upload/Park/2f84cfca-caa2-45ee-a07f-d30ddd13ef4f.pdf",
+      "title": "美国腹腔镜内镜外科医师协会...",
+      "source_url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=146&Nid=DF458C19-0C67-4BD5-8C74-06FAE04C5384",
+      "path": [
+        "官网入口",
+        "参考文献著录格式",
+        "美国腹腔镜内镜外科医师协会..."
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "美国腹腔镜内镜外科医师协会..."
+    },
+    {
+      "url": "http://zgwcwk.paperopen.com/Upload/Park/bb1c2a6e-17db-45c1-afdd-d82d88195bee.pdf",
+      "title": "稿约",
+      "source_url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=146&Nid=DF458C19-0C67-4BD5-8C74-06FAE04C5384",
+      "path": [
+        "官网入口",
+        "参考文献著录格式",
+        "稿约"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "稿约"
+    },
+    {
+      "url": "http://zgwcwk.paperopen.com/Upload/Park/4ecc6286-588a-48c1-b211-5a2ab9ea816b.doc",
+      "title": "介绍信和版权转让协议",
+      "source_url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=146&Nid=DF458C19-0C67-4BD5-8C74-06FAE04C5384",
+      "path": [
+        "官网入口",
+        "参考文献著录格式",
+        "介绍信和版权转让协议"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "介绍信和版权转让协议"
+    },
+    {
+      "url": "http://zgwcwk.paperopen.com/Upload/Park/eb7db1a8-720d-4221-ba6c-2b5101d79173.pdf",
+      "title": "我刊对比较性研究的基本要求...",
+      "source_url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=146&Nid=DF458C19-0C67-4BD5-8C74-06FAE04C5384",
+      "path": [
+        "官网入口",
+        "参考文献著录格式",
+        "我刊对比较性研究的基本要求..."
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "我刊对比较性研究的基本要求..."
+    },
+    {
+      "url": "http://zgwcwk.paperopen.com/Upload/Park/bb1c2a6e-17db-45c1-afdd-d82d88195bee.pdf",
+      "title": "投稿须知",
+      "source_url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=146&Nid=DF458C19-0C67-4BD5-8C74-06FAE04C5384",
+      "path": [
+        "官网入口",
+        "参考文献著录格式",
+        "投稿须知"
+      ],
+      "reason": "attachment_unavailable",
+      "detail": "",
+      "context": "投稿须知"
+    },
+    {
+      "url": "http://zgwcwk.paperopen.com/Upload/Park/fe39ffe8-8c15-413c-a9d2-6fde9b764742.pdf",
+      "title": "美国腹腔镜内镜外科医师协会...",
+      "source_url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=145&Nid=56E91D4E-06B0-448B-B3C4-3166416E780A",
+      "path": [
+        "首页",
+        "作者园地",
+        "作者投稿注意事项",
+        "美国腹腔镜内镜外科医师协会..."
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "美国腹腔镜内镜外科医师协会..."
+    },
+    {
+      "url": "http://zgwcwk.paperopen.com/Upload/Park/2f84cfca-caa2-45ee-a07f-d30ddd13ef4f.pdf",
+      "title": "美国腹腔镜内镜外科医师协会...",
+      "source_url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=145&Nid=56E91D4E-06B0-448B-B3C4-3166416E780A",
+      "path": [
+        "首页",
+        "作者园地",
+        "作者投稿注意事项",
+        "美国腹腔镜内镜外科医师协会..."
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "美国腹腔镜内镜外科医师协会..."
+    },
+    {
+      "url": "http://zgwcwk.paperopen.com/Upload/Park/bb1c2a6e-17db-45c1-afdd-d82d88195bee.pdf",
+      "title": "稿约",
+      "source_url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=145&Nid=56E91D4E-06B0-448B-B3C4-3166416E780A",
+      "path": [
+        "首页",
+        "作者园地",
+        "作者投稿注意事项",
+        "稿约"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "稿约"
+    },
+    {
+      "url": "http://zgwcwk.paperopen.com/Upload/Park/4ecc6286-588a-48c1-b211-5a2ab9ea816b.doc",
+      "title": "介绍信和版权转让协议",
+      "source_url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=145&Nid=56E91D4E-06B0-448B-B3C4-3166416E780A",
+      "path": [
+        "首页",
+        "作者园地",
+        "作者投稿注意事项",
+        "介绍信和版权转让协议"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "介绍信和版权转让协议"
+    },
+    {
+      "url": "http://zgwcwk.paperopen.com/Upload/Park/eb7db1a8-720d-4221-ba6c-2b5101d79173.pdf",
+      "title": "我刊对比较性研究的基本要求...",
+      "source_url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=145&Nid=56E91D4E-06B0-448B-B3C4-3166416E780A",
+      "path": [
+        "首页",
+        "作者园地",
+        "作者投稿注意事项",
+        "我刊对比较性研究的基本要求..."
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "我刊对比较性研究的基本要求..."
+    },
+    {
+      "url": "http://zgwcwk.paperopen.com/Upload/Park/eb7db1a8-720d-4221-ba6c-2b5101d79173.pdf",
+      "title": "我刊对比较性研究的基本要求（附件链接；未验证文件可用性）",
+      "source_url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=145&Nid=56E91D4E-06B0-448B-B3C4-3166416E780A",
+      "path": [
+        "首页",
+        "作者园地",
+        "我刊对比较性研究的基本要求…"
+      ],
+      "reason": "invalid_or_failed_attachment",
+      "detail": "HTTPConnectionPool(host='zgwcwk.paperopen.com', port=80): Read timed out.",
+      "context": ""
+    },
+    {
+      "url": "http://zgwcwk.paperopen.com/Upload/Park/bb1c2a6e-17db-45c1-afdd-d82d88195bee.pdf",
+      "title": "稿约（PDF链接已观察；打开后未显示内容，附件可用性未确认）",
+      "source_url": "http://zgwcwk.paperopen.com/",
+      "path": [
+        "首页",
+        "作者园地",
+        "稿约"
+      ],
+      "reason": "invalid_or_failed_attachment",
+      "detail": "HTTPConnectionPool(host='zgwcwk.paperopen.com', port=80): Read timed out.",
+      "context": ""
+    },
+    {
+      "url": "http://zgwcwk.paperopen.com/Upload/Park/bb1c2a6e-17db-45c1-afdd-d82d88195bee.pdf",
+      "title": "投稿须知（点击后仅到达空白PDF页，内容无法核验）",
+      "source_url": "http://zgwcwk.paperopen.com/",
+      "path": [
+        "首页",
+        "投稿须知"
+      ],
+      "reason": "invalid_or_failed_attachment",
+      "detail": "('Connection broken: IncompleteRead(17580 bytes read, 4462437 more expected)', IncompleteRead(17580 bytes read, 4462437 more expected))",
+      "context": ""
+    },
+    {
+      "url": "http://zgwcwk.paperopen.com/Upload/Park/bb1c2a6e-17db-45c1-afdd-d82d88195bee.pdf",
+      "title": "投稿须知",
+      "source_url": "http://zgwcwk.paperopen.com/docs/AuthorPark/details.aspx?documentid=145&Nid=56E91D4E-06B0-448B-B3C4-3166416E780A",
+      "path": [
+        "首页",
+        "作者园地",
+        "作者投稿注意事项",
+        "投稿须知"
+      ],
+      "reason": "attachment_unavailable",
+      "detail": "",
+      "context": "投稿须知"
+    }
+  ]
+}

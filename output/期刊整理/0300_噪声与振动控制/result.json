@@ -1,0 +1,44 @@
+{
+  "index": 300,
+  "journal": "噪声与振动控制",
+  "url": "https://nvc.sjtu.edu.cn/CN/column/item10.shtml",
+  "source_sheet": "可打开",
+  "source_row": 301,
+  "started_at": "2026-11-26T20:59:27+08:00",
+  "finished_at": "2026-11-26T20:59:34+08:00",
+  "status": "completed",
+  "browser_use_invoked": false,
+  "before_fallback": null,
+  "browser_use_errors": [],
+  "manifest": "0300_噪声与振动控制/manifest.json",
+  "pages": 4,
+  "attachments": [
+    {
+      "title": "/attached/file/20241210/20241210140210_442.doc",
+      "format": "doc",
+      "local_path": "0300_噪声与振动控制/attachments/20240515174537_266_61a3c807f6.doc",
+      "sha256": "61a3c807f61f547e8b70a692408c305277a6063888501678698b827235a04d42",
+      "bytes": 187392
+    },
+    {
+      "title": "/attached/file/20241210/20241210140210_442.doc",
+      "format": "doc",
+      "local_path": "0300_噪声与振动控制/attachments/20241210140210_442_b9897b4161.doc",
+      "sha256": "b9897b4161b013d9cd95e65f9481b7834399ea7729d37a5edea173e6bd503636",
+      "bytes": 187392
+    },
+    {
+      "title": "/attached/file/20211028/20211028164024_27.docx",
+      "format": "docx",
+      "local_path": "0300_噪声与振动控制/attachments/20211028164024_27_4c906a111e.docx",
+      "sha256": "4c906a111ee0f0d193b79a379dfea853c88857a0b0eca18e1412ee3be876c6f1",
+      "bytes": 16023
+    }
+  ],
+  "original_count": 3,
+  "webpage_text": 1,
+  "pending_count": 5,
+  "pending_reasons": [
+    "needs_review"
+  ]
+}

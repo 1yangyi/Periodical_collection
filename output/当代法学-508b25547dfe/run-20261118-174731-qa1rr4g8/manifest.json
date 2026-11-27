@@ -1,0 +1,272 @@
+{
+  "journal": {
+    "name": "当代法学",
+    "url": "https://hssra.jlu.edu.cn/xsqk/ddfx.htm",
+    "journal_id": "CSSCI-2025-0003",
+    "row": 4,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://hssra.jlu.edu.cn/xsqk/ddfx.htm",
+  "collected_at": "2026-11-18T17:47:31+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "hssra.jlu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://hssra.jlu.edu.cn/xsqk/ddfx.htm",
+      "requested_url": "https://hssra.jlu.edu.cn/xsqk/ddfx.htm",
+      "title": "学术期刊",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-18T17:47:31+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://hssra.jlu.edu.cn/xzzx/xm.htm",
+      "requested_url": "https://hssra.jlu.edu.cn/xzzx/xm.htm",
+      "title": "下载中心",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "visited_at": "2026-11-18T17:47:31+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://hssra.jlu.edu.cn/tzgg1.htm",
+      "requested_url": "https://hssra.jlu.edu.cn/tzgg1.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-18T17:47:31+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://hssra.jlu.edu.cn/tzgg1/82.htm",
+      "requested_url": "https://hssra.jlu.edu.cn/tzgg1/82.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2"
+      ],
+      "visited_at": "2026-11-18T17:47:31+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://hssra.jlu.edu.cn/tzgg1/81.htm",
+      "requested_url": "https://hssra.jlu.edu.cn/tzgg1/81.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "3"
+      ],
+      "visited_at": "2026-11-18T17:47:31+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://hssra.jlu.edu.cn/tzgg1/80.htm",
+      "requested_url": "https://hssra.jlu.edu.cn/tzgg1/80.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "4"
+      ],
+      "visited_at": "2026-11-18T17:47:31+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://hssra.jlu.edu.cn/tzgg1/79.htm",
+      "requested_url": "https://hssra.jlu.edu.cn/tzgg1/79.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "5"
+      ],
+      "visited_at": "2026-11-18T17:47:31+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://hssra.jlu.edu.cn/tzgg1/1.htm",
+      "requested_url": "https://hssra.jlu.edu.cn/tzgg1/1.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "83"
+      ],
+      "visited_at": "2026-11-18T17:47:31+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://hssra.jlu.edu.cn/tzgg1/78.htm",
+      "requested_url": "https://hssra.jlu.edu.cn/tzgg1/78.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "4",
+        "6"
+      ],
+      "visited_at": "2026-11-18T17:47:31+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://hssra.jlu.edu.cn/tzgg1/77.htm",
+      "requested_url": "https://hssra.jlu.edu.cn/tzgg1/77.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "5",
+        "7"
+      ],
+      "visited_at": "2026-11-18T17:47:31+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://hssra.jlu.edu.cn/tzgg1/5.htm",
+      "requested_url": "https://hssra.jlu.edu.cn/tzgg1/5.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "83",
+        "79"
+      ],
+      "visited_at": "2026-11-18T17:47:31+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://hssra.jlu.edu.cn/tzgg1/4.htm",
+      "requested_url": "https://hssra.jlu.edu.cn/tzgg1/4.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "83",
+        "80"
+      ],
+      "visited_at": "2026-11-18T17:47:31+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://hssra.jlu.edu.cn/tzgg1/3.htm",
+      "requested_url": "https://hssra.jlu.edu.cn/tzgg1/3.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "83",
+        "81"
+      ],
+      "visited_at": "2026-11-18T17:47:31+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://hssra.jlu.edu.cn/tzgg1/2.htm",
+      "requested_url": "https://hssra.jlu.edu.cn/tzgg1/2.htm",
+      "title": "通知公告",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "83",
+        "82"
+      ],
+      "visited_at": "2026-11-18T17:47:31+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://hssra.jlu.edu.cn/tzgg1/76.htm",
+      "title": "8",
+      "source_url": "https://hssra.jlu.edu.cn/tzgg1/78.htm",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "4",
+        "6",
+        "8"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "8"
+    },
+    {
+      "url": "https://hssra.jlu.edu.cn/tzgg1/75.htm",
+      "title": "9",
+      "source_url": "https://hssra.jlu.edu.cn/tzgg1/77.htm",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "5",
+        "7",
+        "9"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "9"
+    },
+    {
+      "url": "https://hssra.jlu.edu.cn/tzgg1/7.htm",
+      "title": "77",
+      "source_url": "https://hssra.jlu.edu.cn/tzgg1/5.htm",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "83",
+        "79",
+        "77"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "77"
+    },
+    {
+      "url": "https://hssra.jlu.edu.cn/tzgg1/6.htm",
+      "title": "78",
+      "source_url": "https://hssra.jlu.edu.cn/tzgg1/5.htm",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "83",
+        "79",
+        "78"
+      ],
+      "reason": "depth_limit",
+      "detail": "",
+      "context": "78"
+    },
+    {
+      "url": "https://hssra.jlu.edu.cn/xsqk/ddfx.htm",
+      "title": "当代法学",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

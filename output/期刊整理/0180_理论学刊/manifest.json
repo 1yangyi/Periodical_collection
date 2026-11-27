@@ -1,0 +1,61 @@
+{
+  "journal": {
+    "name": "理论学刊",
+    "url": "https://llsj.portal.founderss.cn",
+    "journal_id": "",
+    "row": 181,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "",
+  "collected_at": "2026-11-26T20:57:58+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "llsj.portal.founderss.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://llsj.portal.founderss.cn",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "跳转到未核实域名：https://journal.ids.fzyun.cn/auth/realms/journal/protocol/openid-connect/auth?client_id=journal-llsj-author&redirect_uri=https%3A%2F%2Fllsj.portal.founderss.cn%2Foauth%2Fcallback&response_type=code&scope=phone+openid+email+profile&state=a5efdd10-3ca7-4516-b6cb-ce7a58f70cc6",
+      "context": ""
+    },
+    {
+      "url": "https://llsj.portal.founderss.cn",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://llsj.portal.founderss.cn",
+      "title": "理论学刊",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

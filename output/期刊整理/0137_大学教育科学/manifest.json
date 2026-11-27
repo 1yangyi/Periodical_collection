@@ -1,0 +1,98 @@
+{
+  "journal": {
+    "name": "大学教育科学",
+    "url": "https://edu.hnu.edu.cn/dxjykx/qkjj.htm",
+    "journal_id": "",
+    "row": 138,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://edu.hnu.edu.cn/dxjykx/qkjj.htm",
+  "collected_at": "2026-11-26T20:57:27+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "edu.hnu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://edu.hnu.edu.cn/dxjykx/qkjj.htm",
+      "requested_url": "https://edu.hnu.edu.cn/dxjykx/qkjj.htm",
+      "title": "期刊简介-湖南大学教育科学研究院",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:57:27+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://edu.hnu.edu.cn/dxjykx/tgxz.htm",
+      "requested_url": "https://edu.hnu.edu.cn/dxjykx/tgxz.htm",
+      "title": "投稿须知-湖南大学教育科学研究院",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:57:27+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿须知-湖南大学教育科学研究院",
+      "source_url": "https://edu.hnu.edu.cn/dxjykx/tgxz.htm",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "local_path": "web/投稿须知-湖南大学教育科学研究院_3305a1a66d.html",
+      "status": "saved",
+      "published_at": ""
+    }
+  ],
+  "pending": [
+    {
+      "url": "http://edu.hnu.edu.cn/%E6%8A%95%E7%A8%BF%E6%A0%BC%E5%BC%8F%E6%A0%B7%E6%9C%AC.doc",
+      "title": "注：附件（《大学教育科学》编辑部投稿格式样本）",
+      "source_url": "https://edu.hnu.edu.cn/dxjykx/tgxz.htm",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "注：附件（《大学教育科学》编辑部投稿格式样本）"
+      ],
+      "reason": "invalid_or_failed_attachment",
+      "detail": "400 Client Error: Bad Request for url: http://edu.hnu.edu.cn/%E6%8A%95%E7%A8%BF%E6%A0%BC%E5%BC%8F%E6%A0%B7%E6%9C%AC.doc",
+      "context": "本刊已实行网上投稿，不接收纸质投稿。谢谢合作！ 地址为： http://dxjykx.cnmanu.cn/Web/CommonPage.aspx?Id=12 注：附件（《大学教育科学》编辑部投稿格式样本）"
+    },
+    {
+      "url": "https://edu.hnu.edu.cn/dxjykx/qkjj.htm",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://edu.hnu.edu.cn/dxjykx/qkjj.htm",
+      "title": "大学教育科学",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

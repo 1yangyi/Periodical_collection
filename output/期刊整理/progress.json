@@ -1,0 +1,14 @@
+{
+  "updated_at": "2026-11-26T21:01:36+08:00",
+  "planned_count": 434,
+  "processed_count": 434,
+  "counts": {
+    "completed": 24,
+    "uncompleted": 410
+  },
+  "browser_use_invocations": 422,
+  "active": [],
+  "status": "paused_by_user",
+  "paused_at": "2026-11-26T21:05:03+08:00",
+  "next_action": "Read 暂停状态.json and 待续跑清单.csv after explicit user resumption"
+}

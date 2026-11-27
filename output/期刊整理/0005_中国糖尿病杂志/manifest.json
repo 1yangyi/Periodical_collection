@@ -1,0 +1,188 @@
+{
+  "journal": {
+    "name": "中国糖尿病杂志",
+    "url": "https://chyb.bjmu.edu.cn/qygl/qyjj/f6c5f805aaef46388c94a6cf833abda2.htm",
+    "journal_id": "",
+    "row": 6,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "completed",
+  "homepage_resolved": "https://chyb.bjmu.edu.cn/qygl/qyjj/f6c5f805aaef46388c94a6cf833abda2.htm",
+  "collected_at": "2026-11-26T20:39:07+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "chyb.bjmu.edu.cn",
+      "www.cds.org.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://chyb.bjmu.edu.cn/qygl/qyjj/f6c5f805aaef46388c94a6cf833abda2.htm",
+      "requested_url": "https://chyb.bjmu.edu.cn/qygl/qyjj/f6c5f805aaef46388c94a6cf833abda2.htm",
+      "title": "企业管理",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:39:07+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.cds.org.cn/",
+      "requested_url": "http://www.cds.org.cn/",
+      "title": "《中国糖尿病杂志》官方网站",
+      "path": [
+        "官网入口",
+        "www.cds.org.cn"
+      ],
+      "visited_at": "2026-11-26T20:39:07+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.cds.org.cn/tgxz/",
+      "requested_url": "http://www.cds.org.cn/tgxz/",
+      "title": "投稿须知",
+      "path": [
+        "官网入口",
+        "www.cds.org.cn",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:39:07+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://chyb.bjmu.edu.cn/xzzq/index.htm",
+      "requested_url": "https://chyb.bjmu.edu.cn/xzzq/index.htm",
+      "title": "下载专区",
+      "path": [
+        "官网入口",
+        "下载专区"
+      ],
+      "visited_at": "2026-11-26T20:39:07+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿须知",
+      "source_url": "http://www.cds.org.cn/tgxz/",
+      "path": [
+        "官网入口",
+        "www.cds.org.cn",
+        "投稿须知"
+      ],
+      "local_path": "web/投稿须知_247e3c71b6.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "attachment",
+      "format": "pdf",
+      "title": "著作授权书下载",
+      "local_path": "attachments/æåèä½æè®¸å¯ä½¿ç¨åè®®_f3f7db07ee.pdf",
+      "sha256": "f3f7db07eec6f97be6db695deeb4530c61f557f214c065bc819b500c8241a94e",
+      "bytes": 112062,
+      "sources": [
+        {
+          "source_url": "http://www.cds.org.cn/tgxz/",
+          "download_url": "http://www.cds.org.cn/xiazai.php",
+          "resolved_url": "http://www.cds.org.cn/xiazai.php",
+          "path": [
+            "《中国糖尿病杂志》官方网站",
+            "投稿须知",
+            "编辑部在线",
+            "著作授权书下载"
+          ],
+          "label": "著作授权书下载",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "attachment",
+      "format": "pdf",
+      "title": "《中国糖尿病杂志》常用词略语表",
+      "local_path": "attachments/suolvye_da399a9bae.pdf",
+      "sha256": "da399a9bae6e54638a57bc11cfbe4cc76ea0c830e0a854ffcf02aa9ff5e172e0",
+      "bytes": 172904,
+      "sources": [
+        {
+          "source_url": "http://www.cds.org.cn/tgxz/",
+          "download_url": "http://www.cds.org.cn/suolvye.pdf",
+          "resolved_url": "http://www.cds.org.cn/suolvye.pdf",
+          "path": [
+            "《中国糖尿病杂志》官方网站",
+            "投稿须知",
+            "编辑部在线",
+            "《中国糖尿病杂志》常用词略语表"
+          ],
+          "label": "《中国糖尿病杂志》常用词略语表",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "webpage_text",
+      "title": "中国糖尿病杂志投稿格式",
+      "local_path": "中国糖尿病杂志投稿格式.md",
+      "source_urls": [
+        "http://www.cds.org.cn/tgxz/"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://chyb.bjmu.edu.cn/qygl/qyjj/f6c5f805aaef46388c94a6cf833abda2.htm",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "http://www.cds.org.cn/suolvye.pdf",
+      "title": "《中国糖尿病杂志》常用词略语表",
+      "source_url": "http://www.cds.org.cn/tgxz/",
+      "path": [
+        "官网入口",
+        "www.cds.org.cn",
+        "投稿须知",
+        "《中国糖尿病杂志》常用词略语表"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "《中国糖尿病杂志》常用词略语表"
+    },
+    {
+      "url": "https://chyb.bjmu.edu.cn/xwgg/tzgg/index.htm",
+      "title": "通知公告",
+      "source_url": "https://chyb.bjmu.edu.cn/qygl/qyjj/f6c5f805aaef46388c94a6cf833abda2.htm",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "403 Client Error: Forbidden for url: https://chyb.bjmu.edu.cn/xwgg/tzgg/index.htm",
+      "context": "通知公告"
+    }
+  ]
+}

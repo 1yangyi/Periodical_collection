@@ -1,0 +1,61 @@
+{
+  "journal": {
+    "name": "Blockchain: Research and Applications",
+    "url": "http://www.zjujournals.com/blockchain",
+    "journal_id": "",
+    "row": 145,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "",
+  "collected_at": "2026-11-26T20:57:30+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.zjujournals.com"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "http://www.zjujournals.com/blockchain",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "跳转到未核实域名：http://convert.zjujournals.com/convert.php?srctype=1&suburi=blockchain",
+      "context": ""
+    },
+    {
+      "url": "http://www.zjujournals.com/blockchain",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "http://www.zjujournals.com/blockchain",
+      "title": "Blockchain: Research and Applications",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

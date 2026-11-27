@@ -1,0 +1,1819 @@
+<!DOCTYPE html>
+<HTML xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<HEAD>
+<TITLE>法学家</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="/js/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="/develop/static/common/css/css.css">
+<link rel="stylesheet" href="/js/jqpagination/jqpagination.css" />
+<script src="/js/jquery/jquery.min.js"></script>
+<script src="/js/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.qrcode.min.js"></script>
+<script src="/develop/static/common/js/common_cn.js"></script>
+<script src="/develop/static/common/js/component_cn.js"></script>
+<script language="javascript" src="/js/store.js"></script>
+<script language="javascript" src="/develop/static/common/js/download_cn.js"></script>
+<script language="javascript" src="/js/My97DatePicker/WdatePicker.js"></script>
+<link rel="stylesheet" href="/develop/static/common/bootstrap/js/font-awesome.min.css">
+
+<script>
+	$(document).ready(function(){
+		$("title").text($("title").text().replace(/<\/?[^>]*>/g,""));
+	});
+</script>
+
+
+
+
+
+
+
+
+<meta name="renderer"  content="webkit">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="windows-target" content="_top">
+<meta name="robots" content="follow,noarchive"/>
+
+<meta name="keywords" content="法学家"> <!-- 中文刊名 -->
+
+
+<meta name="keywords" content="The Jurist">  <!-- 英文刊名 -->
+
+<meta name="description" content="The Jurist">  <!-- 刊名缩写 -->
+<meta name="generator" content="Magtech">  
+
+<LINK rel=stylesheet type=text/css href="/js/manu/lrtk.css">
+<script language="javascript" src="/js/manu/manu.js"></script>
+<link rel="stylesheet" href="/js/colorbox/colorbox.css" />
+<script src="/js/colorbox/jquery.colorbox.js"></script>
+
+<script>
+MathJax = {
+tex: {
+inlineMath: [['$', '$'], ['\\(', '\\)']]
+},
+svg: {
+fontCache: 'global'
+}
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async src="/js/mathJax3.0/tex-mml-chtml.js"></script>
+<!--[if lt IE 9]>
+<script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+
+<script language="javascript">
+function collectArticle(id) {
+	var url = window.location.href;
+	jQuery.ajax({
+		url: $("#mag-common-journal-url").val()+"/CN/user/addCollectArticle.do",
+		data: {
+			"articleId": id,
+			"url": url
+		},
+		type: "post",
+		success: function(res) {
+			if (res == "true") {
+				mag_layer({content:"收藏成功！"});
+			} else if (res == "false") {
+				mag_layer({content:"您已经收藏过该篇文章啦！"});
+			} else if (res.length > 5) {
+				window.location.href = $("#mag-common-journal-url").val()+"/CN/user/userInfo_cn.jsp?url=" + res;
+			} else {
+				mag_layer({content:"收藏失败！"});
+			}
+		},
+		error: function() {
+			mag_layer({content:"收藏失败！"});
+		}
+	});
+}
+
+//可视化开始
+$(document).ready(function(){
+    var arrSpan=$("[id^='span_visual_article_']");
+    if(arrSpan && arrSpan.length && arrSpan.length>0 ){
+        for(var i=0;i<arrSpan.length;i++){
+            var articleID=arrSpan[i].id.toString().replace("span_visual_article_","");
+            jQuery.getJSON($("#mag-common-journal-url").val()+"/CN/lexeme/existsCnctstInArticle.do?articleID="+articleID, null, function(json){
+                if(json.result){
+                    $("#span_visual_article_"+json.articleID).show();
+                }
+            });
+        }
+    }
+});
+//可视化结束
+
+//整期购买
+$(document).ready(function(){
+	if($("#volumn_"+$("#mag-current-volumn-id").val()+"_buy").length>0){
+		mag_ajax({
+			url:$("#mag-common-contextPath").val()+"/CN/article/getVolumnInfoForBuy.do?" + new Date().getTime(),
+			data:{volumnId:$("#mag-current-volumn-id").val()},
+			dataType:"json",
+			success:function(data){
+				if(data.volumn.volumnDownloadControl==4){//可购买
+					$("#volumn_"+$("#mag-current-volumn-id").val()+"_buy").show();
+				}
+			}
+		});
+	}
+});
+
+$(document).ready(function(){
+	$(".figureClass").colorbox({rel:'figureClass', transition:"none", width:"80%", height:"80%"});
+	
+});
+//选中文章  文章块  变色
+function hightlightrowaction(rowid) {
+	var thisrow = $("#"+rowid);
+	if ($(thisrow).hasClass("selectedrow")) {
+		$(thisrow).removeClass("selectedrow");
+		$(thisrow).addClass("noselectrow");
+	} else {
+		$(thisrow).addClass("selectedrow");
+		$(thisrow).removeClass("noselectrow");
+	}
+}
+
+function selectall(argu,checkBoxName){
+	var obj = document.getElementsByName(checkBoxName);
+    for(var i= 0;i<obj.length;i++){
+		obj[i].checked = argu.checked;
+        //hightlightrowaction('art'+obj[i].value);
+        var thisrow = $("#art"+obj[i].value);
+        if(obj[i].checked){
+        	if (!$(thisrow).hasClass("selectedrow")) {
+				$(thisrow).addClass("selectedrow");
+				$(thisrow).removeClass("noselectrow");
+			}
+        }else{
+        	if ($(thisrow).hasClass("selectedrow")) {
+				$(thisrow).removeClass("selectedrow");
+				$(thisrow).addClass("noselectrow");
+			}
+        }
+    }
+}
+//文章图片显示隐藏用
+function togthumb() {
+	$(".apwrap").toggleClass("hiden");
+	if($('.apwrap').hasClass('hiden'))
+		$("#thumbtn").attr("src", $("#mag-common-journal-url").val()+"/images/sele_pic2.png");
+	else
+		$("#thumbtn").attr("src", $("#mag-common-journal-url").val()+"/images/sele_pic1.png");
+}
+//导出
+function downloadCitations(type){
+	var flag=0;
+	var ids="";
+	var obj = document.getElementsByName('pid');
+	for(var i= 0;i<obj.length;i++){
+		if(obj[i].checked){
+			flag=1;
+			ids+=obj[i].value+",";
+		}
+    }
+	if(flag==0){
+		mag_layer({content:"请选择文章!"});
+		return  false;
+	}
+	window.location.href=$("#mag-common-journal-url").val()+"/CN/article/getTxtFiles.do?fileType="+type+"&articleIds="+ids;
+}
+function DrawImage(ImgD,FitWidth,FitHeight){
+	var image=new Image();
+	image.src=ImgD.src;
+	if(image.width>0 && image.height>0){
+		if(image.width/image.height>= FitWidth/FitHeight){
+			if(image.width>FitWidth){
+				ImgD.width=FitWidth;
+				ImgD.height=(image.height*FitWidth)/image.width;
+			}else{
+				ImgD.width=image.width;
+				ImgD.height=image.height;
+			}
+		} else{
+			if(image.height>FitHeight){
+				ImgD.height=FitHeight;
+				ImgD.width=(image.width*FitHeight)/image.height;
+			}else{
+				ImgD.width=image.width;
+				ImgD.height=image.height;
+			}
+		}
+	}
+}
+
+
+function exportCitations(){
+	var articleSelected=false;
+	var ids=''
+	var checkboxs = document.getElementsByName("pid");
+	if(checkboxs && checkboxs.length && checkboxs.length>0){
+		for(var i=0;i<checkboxs.length;i++){
+			if(checkboxs[i].checked){
+				articleSelected=true;
+				if(ids==''){
+					ids += checkboxs[i].value;
+				}else{
+					ids += ','+checkboxs[i].value;
+				}
+			}
+		}
+	}
+	if(articleSelected){
+		$("#export-citation-form-ids").val(ids);
+		mag_layer({
+			type:4,
+			title:'导出引用',
+			dom:'export-citation-div'
+		})
+	}else{
+		mag_layer({content:'请选择文章.'});
+	}
+}
+
+//导出
+function downloadCitations(){
+	mag_layer_close();
+	$("#export-citation-form").submit();
+}
+
+</SCRIPT>
+
+<style type="text/css">
+.hiden {
+  display: none;
+}
+.black_overlay{
+    display: none;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    background-color: #D8D8D8;
+    z-index:1001;
+    -moz-opacity: 0.8;
+    opacity:.80;
+    filter: alpha(opacity=80);
+}
+.waiting_content {
+    display: none;
+    position: absolute;
+    top: 15%;
+    left: 25%;
+    width: 50%;
+    padding: 16px;
+    border: 1px solid orange;
+    background-color: white;
+    z-index:1002;
+    overflow: auto;
+}
+.STYLE58{
+	text-indent: 2em;
+}
+</style>
+
+
+
+
+
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!--顶部快速导航下拉导航菜单特效css-->
+<!--<link rel="stylesheet" href="https://faxuejia.ruc.edu.cn/images/1005-0221/css/bootsnav.css"> -->
+<!--网站css-->
+<link rel="stylesheet" href="https://faxuejia.ruc.edu.cn/images/1005-0221/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://faxuejia.ruc.edu.cn/images/1005-0221/css/css.css">
+<script src="https://faxuejia.ruc.edu.cn/images/1005-0221/js/indexjs.js"></script>
+
+
+</HEAD>
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<input type="hidden" id="mag-common-contextPath" value=""/>
+
+<div id="mag-component-store-div" style="display:none;"></div>
+			
+<!-- 模态框（Modal） -->
+<div class="modal fade" id="magModal" tabindex="-1" role="dialog" data-keyboard=false data-backdrop='static' aria-labelledby="magModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button buttonGroup="0" type="button"  class="close"  aria-hidden="true" onclick="mag_layer_close();">
+					&times;
+				</button>
+				<h4 class="modal-title" id="magModalLabel">
+					模态框（Modal）标题
+				</h4>
+			</div>
+			<div class="modal-body" id="mag-modal-body" style="overflow:auto;">
+				在这里添加一些文本
+			</div>
+			<div id="mag-layer-button-div" class="modal-footer">
+				<button buttonGroup="1" type="button"  class="btn btn-default"  onclick="mag_layer_close();">关闭
+				</button>
+				<button buttonGroup="2" type="button"  class="btn btn-default"  onclick="mag_layer_close();">关闭
+				</button>
+				<button buttonGroup="2" type="button" class="btn btn-primary" onclick="mag_submit()" id="mag_layer_submit_button_2">
+					提交更改
+				</button>
+				<button buttonGroup="3" type="button"  class="btn btn-default"  onclick="mag_layer_close();">取消
+				</button>
+				<button buttonGroup="3" type="button" class="btn btn-primary" onclick="mag_submit()" id="mag_layer_submit_button_3">
+					确定并提交
+				</button>
+				
+			</div>
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal -->
+</div>
+
+<div id="magModal_2" style="display:none;position:fixed;left:0px;top:0px;right:0px;bottom:0px;z-index:1060">
+	<div class="modal-dialog" style="margin-top:60px;">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button buttonGroup="0" type="button" id="mag-madal-close_bt_2"  class="close"  aria-hidden="true" onclick="mag_layer_close_2();">
+					&times;
+				</button>
+				<h4 class="modal-title" id="magModalLabel_2">
+					模态框（Modal）标题
+				</h4>
+			</div>
+			<div id="modal-body_2" class="modal-body"></div>
+		</div>
+	</div>
+</div>
+
+<!-- 模态框-Tab -->
+<div class="modal fade" id="magTabModal" tabindex="-1" role="dialog" data-keyboard=false data-backdrop='static' aria-labelledby="magTabModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header" style="border-bottom:0px;padding:15px 0px;">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true" style="padding-right:15px;">
+					&times;
+				</button>
+				
+<ul id="magTab" class="nav nav-tabs">
+
+</ul>
+			</div>
+			<div class="modal-body">
+				
+<div id="magTabContent" class="tab-content">
+
+</div>
+			</div>
+			<div id="mag-tablayer-button-div" class="modal-footer">
+				
+			</div>
+			
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal -->
+</div>
+
+
+
+<div style="display:none;">
+	<iframe id="mag_sendLongReq_iframe" name="mag_sendLongReq_iframe"></iframe>
+	<iframe id="mag_cma_sso_login_iframe" name="mag_cma_sso_login_iframe"></iframe>
+</div>
+<input type="hidden" id="mag_cma_sso_authorizeUrl" value=""/>
+		
+
+<input type="hidden" id="mag-common-journal-url" value="https://faxuejia.ruc.edu.cn"/>
+<input type="hidden" id="mag-common-journal-issn" value="1005-0221"/>
+<input type="hidden" id="mag-current-volumn-id" value="1350"/>
+
+<!--Export弹出-->
+<div id="export-citation-div" class="" style="display:none;">
+	<form id="export-citation-form" action="https://faxuejia.ruc.edu.cn/CN/article/exportCitation.do">
+	<input type="hidden" id="export-citation-form-ids" name="articleIds" />
+	<div class="panel panel-warning" style="color:gray;">
+		下载引用文件后，可以用常见的文献管理软件打开和编辑，包括: BibTex, EndNote, ProCite, RefWorks, and Reference Manager.
+	</div>
+	<div class="panel panel-info">
+		<div class="panel-heading">
+			<h4 class="panel-title">选择文件类型/文献管理软件名称</h4>
+		</div>
+		<div class="panel-body">
+			<div class="radio">
+				<label> <input type="radio" value="Ris" checked="checked" name="fileType">
+					RIS (ProCite, Reference Manager)
+				</label>
+			</div>
+			<div class="radio">
+				<label> <input type="radio" value="BibTex" name="fileType">
+					BibTeX
+				</label>
+			</div>
+		</div>
+	</div>
+	<div class="panel panel-warning">
+		<div class="panel-heading">
+			<h4 class="panel-title">选择包含的内容</h4>
+		</div>
+		<div class="panel-body">
+			<div class="radio">
+				<label> <input type="radio" value="md" checked="checked" name="contentType">
+					仅文章引用信息
+				</label>
+			</div>
+			<div class="radio">
+				<label> <input type="radio" value="ab" name="contentType">
+					引用信息及摘要
+				</label>
+			</div>
+		</div>
+	</div>
+	
+	<button type="button" class="btn btn-lg btn-primary modal-button" style="width:50%;margin:0 auto;display: block;padding: 7px;"
+		onclick="downloadCitations()">导出</button>
+	</form>
+</div>
+<!--Export弹出end-->
+
+
+<!--头部-->
+
+
+<script language="javascript">
+	function tabChange(obj, id) {
+		var arrayli = obj.parentNode.getElementsByTagName("li"); //获取li数组
+		var arrayul = document.getElementById(id).getElementsByTagName("ul"); //获取ul数组
+		for (i = 0; i < arrayul.length; i++) {
+			if (obj == arrayli[i]) {
+				arrayli[i].className = "cli";
+				arrayul[i].className = "";
+			} else {
+				arrayli[i].className = "";
+				arrayul[i].className = "hidden";
+			}
+		}
+	}
+</script>
+<style type="text/css">
+.tabbox {
+	width: 400px;
+	margin-top: 5px;
+	margin-bottom: 5px
+}
+
+.tabmenu {
+	width: 400px;
+	height: 28px;
+	border-left: 1px solid #CCC;
+	border-top: 1px solid #ccc;
+}
+
+.tabmenu ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.tabmenu li {
+	text-align: center;
+	float: left;
+	display: block;
+	width: 99px;
+	overflow: hidden;
+	background-color: #f1f1f1;
+	line-height: 27px;
+	border-right: #ccc 1px solid;
+	border-bottom: #ccc 1px solid;
+	display: inline;
+}
+
+.tabmenu .cli {
+	text-align: center;
+	float: left;
+	display: block;
+	width: 99px;
+	overflow: hidden;
+	background-color: #fff;
+	line-height: 27px;
+	border-right: #ccc 1px solid;
+	border-bottom: #fff 1px solid;
+	display: inline;
+	cursor: pointer;
+	color: #c30000;
+	font-weight: bold
+}
+
+#tabcontent {
+	width: 399px;
+	background-color: #fff;
+	border-left: #CCC 1px solid;
+	border-right: #CCC 1px solid;
+	border-bottom: #CCC 1px solid;
+	height: 65px;
+}
+
+#tabcontent ul {
+	margin: 0;
+	padding: 5px;
+	list-style-type: none;
+}
+
+#tabcontent .hidden {
+	display: none;
+}
+
+img[src*='.traceImg']{
+	width:44px;
+	height:22px;
+}
+</style>
+<div class="journal-head">
+<div class="container" style="background:transparent">
+<div class="row">
+    <div class="col-md-7 logo">
+		<h1><a href="https://faxuejia.ruc.edu.cn/CN/home"><img src="https://faxuejia.ruc.edu.cn/images/1005-0221/images/logo.png" class="img-responsive" alt=""></a></h1>
+    </div>
+	<div class="col-md-5 logo hidden-sm hidden-xs">
+		<h1><img src="https://faxuejia.ruc.edu.cn/images/1005-0221/images/wz.png" class="img-responsive" style="float:right;"></h1>
+    </div>
+</div>
+</div>
+</div>
+
+<!--导航-->
+<div class="navbar site-nav whitebg">
+<div class="container" style="background:transparent">
+<div class="row">
+
+
+    <div class="navbar-header">
+      <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">导航切换</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+      <a class="navbar-brand visible-xs" href="">法学家</a> </div>
+    <div class="navbar-collapse collapse" role="navigation">
+		<ul class="nav navbar-nav">
+			<li style="width:236px;font-size:16px;line-height: 42px;text-align: center;color:#fff;">
+				<script language="JavaScript" type="text/javascript">today=new Date();
+				function initArray(){
+				this.length=initArray.arguments.length
+				for(var i=0;i<this.length;i++)
+				this[i+1]=initArray.arguments[i]  }
+				var d=new initArray(
+				" 星期日",
+				" 星期一",
+				" 星期二",
+				" 星期三",
+				" 星期四",
+				" 星期五",
+				" 星期六");
+				document.write(
+				"",
+				today.getFullYear(),"年",
+				today.getMonth()+1,"月",
+				today.getDate(),"日",
+				d[today.getDay()+1],
+				"" );
+			   </script>
+			</li>
+			<li><a href="https://faxuejia.ruc.edu.cn/CN/home">首页</a></li>
+									
+						<li><a href="https://faxuejia.ruc.edu.cn/CN/column/column1.shtml">期刊简介</a></li>
+					   
+												
+						<li><a href="https://faxuejia.ruc.edu.cn/CN/column/column3.shtml">编 委 会</a></li>
+					   
+												
+						<li role="presentation" class="dropdown">
+			   <a href="#" class="dropdown-toggle" data-toggle="dropdown">在线期刊 <b class="caret"></b></a>
+			   <ul class="dropdown-menu">
+					<li><a href="https://faxuejia.ruc.edu.cn/CN/current">当期目录</a></li>
+					<li><a href="https://faxuejia.ruc.edu.cn/CN/archive_by_issues">过刊浏览</a></li>
+					<li><a href="https://qikan.chaoxing.com/mag/shelf?mags=9f5f61eb554c5077cb41aff61ac6e1b3">电子书</a></li>
+					<li><a href="https://faxuejia.ruc.edu.cn/CN/top_download">下载排行</a></li>
+					<li><a href="https://faxuejia.ruc.edu.cn/CN/top_access">阅读排行</a></li>
+					<li><a href="https://faxuejia.ruc.edu.cn/CN/alert/showAlertInfo.do">E-mail Alert</a></li>
+					<li><a href="https://faxuejia.ruc.edu.cn/CN/rss/showRssInfo.do">RSS</a></li>
+				</ul>
+			</li>
+					   
+												
+						<li><a href="https://faxuejia.ruc.edu.cn/CN/column/column12.shtml">投稿指南</a></li>
+					   
+												
+						<li><a href="https://faxuejia.ruc.edu.cn/CN/column/column19.shtml">期刊订阅</a></li>
+					   
+												
+						<li><a href="https://faxuejia.ruc.edu.cn/CN/column/column16.shtml">联系我们</a></li>
+					   
+									<!--<li><a href="https://faxuejia.ruc.edu.cn/EN/home">English</a></li>-->
+      </ul>
+    </div>
+  </div>
+</div>
+</div>
+<!--导航 End-->
+
+<!--导航 End-->
+<div class="container" style="height: 20px"></div>
+<script src='https://tongji.journalreport.cn/mstatistics.service.js'></script><script>recordAdd('24340e1f526e49679f772ee3b6353137')</script>
+<!--头部 End-->
+
+    
+<!--中间-->
+<div class="container">
+    <div class="row">
+        <div class="col-md-9 m-center">
+			
+			<!--当期-->
+            <section class="j-article">
+                <h3 class="latest-issue">
+                 	                 	                 	                 	                 		当期目录
+                 	                </h3>
+
+	<ul class="clearfix">
+	        <li class="journal-fm col-md-3">
+          <img src="https://faxuejia.ruc.edu.cn/fileup/1005-0221/COVER/20260920151131.jpg" class="img-responsive">
+        </li>
+            <li class="col-md-9">
+			<div class="btn-box">
+			   <span class="n-j-q">
+                    2026年 第5期
+                    <br>
+					刊出日期：2026-09-15
+                </span>
+			   <div class="j-sx">
+					<span mag-component-type="previousIssue" mag-volumnId="1350"></span>
+					&nbsp;&nbsp;
+					<span mag-component-type="nextIssue" mag-volumnId="1350"></span>
+				</div>
+		   </div>
+		   
+			<hr style="margin:10px 0;">
+			                          				                <a href="#目录">目录</a><br>
+                                						              				                <a href="#专题：习近平法治思想的学理阐释">专题：习近平法治思想的学理阐释</a><br>
+                                						              				                <a href="#中宣部哲社科期刊重点专栏：中华法治文明与法学自主知识体系构建">中宣部哲社科期刊重点专栏：中华法治文明与法学自主知识体系构建</a><br>
+                                						              										              				                <a href="#主题研讨：新修订《商标法》评析">主题研讨：新修订《商标法》评析</a><br>
+                                						              										              				                <a href="#专论">专论</a><br>
+                                						              										              										              				                <a href="#视点">视点</a><br>
+                                						              										              										              				                <a href="#争鸣">争鸣</a><br>
+                                						              										      <div class="row">
+       <!-- 			<span class="cover-download col-md-5 col-xs-12">
+				<a href="https://faxuejia.ruc.edu.cn/fileup/1005-0221/COVER/20260920151131_coverfile_cn.jpg">
+					封面文件
+				</a>
+			</span>
+		 -->
+					<span class="cover-download col-md-7 col-xs-12">
+				<a href="https://faxuejia.ruc.edu.cn/fileup/1005-0221/COVER/20260920151222_directoryfile_cn.pdf">
+					本期目录　封面　封底
+				</a>
+			</span>
+				</div>
+        </li>
+      </ul>
+
+                <ul class="article-choose">
+					<li>
+						<div class="choose">
+							<input class="article_checkbox" onclick="javascript:selectall(this,'pid');"  alt="Select" type="checkbox" id="sel"> <span>全选</span>
+						</div>
+						<div class="other-tools">
+							<span class="other-tools-l"><i class="fa fa-share-square-o" onclick="exportCitations();" title="导出引用"></i></span> 
+							
+							<span class="fengexian"> | </span> <span class="other-tools-r">
+								<i class="fa fa-align-left" title="简洁列表"></i> <i class="fa fa-file-text" title="带摘要列表"></i> <i class="fa fa-file-image-o active" title="带图片列表"></i>
+							</span>
+						</div>
+					</li>
+				</ul>
+				
+                <ul class="article-list">
+                                                	  				
+	  					                <div class="articlesectionlisting">
+	                <a name="目录"></a>
+	                <div class=dbt_header>目录</div>
+	                </div>
+	                	                	                
+                	<li id="art3426" class="noselectrow">
+                		<div class="article-checkbox">
+							<INPUT id='thisart_3426' class=article_checkbox onclick="hightlightrowaction('art3426')" value='3426' alt=Select type=checkbox name=pid> 
+                  			<LABEL class=hidelabel for='thisart_3426'>Select</LABEL>
+						</div>
+						<div class="article-l article-w">
+							<span class="j-column">目录</span>
+								<div class="j-title-1">
+									<a href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/0">本期目录 封面 封底</a> <iframe src="/EN/article/articleDownloadControl.do?articleId=3426"  width="15" height="13"  scrolling=no frameborder=0 allowtransparency="true"></iframe>
+								</div>
+							<div class="j-author"></div>
+							<div class="j-volumn-doi">
+								<span class="j-volumn">
+									2026(5): 0-0.
+								</span>
+															</div>
+							<div class="j-btn">
+								<a class="j-abs" href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/0"><i class="fa fa-file-text-o"></i> 摘要</a> (
+
+
+
+
+
+<span id="mag-getDinajiShu-3426"></span>
+<script>
+$("#mag-getDinajiShu-3426").load('/CN/article/getDianJiShu.jsp?articleid=3426&ajax=true');
+</script>
+	
+)
+																	<a class="j-pdf" href="javascript:;" onclick="lsdy1('PDF','3426');return false;">PDF全文</a> (
+
+
+
+
+	
+<span id="mag-getXiaZaiShu-3426"></span>
+<script>
+$("#mag-getXiaZaiShu-3426").load('/CN/article/getXiaZaiShu.jsp?articleid=3426&ajax=true');
+</script>
+	
+
+
+)
+																								<span class="richhtml">
+																</span>
+								<span class="knomap" id="span_visual_article_3426">
+									&nbsp;<img src="/images/knowledge_map.png" width="16" height="16" />
+									<a href="https://faxuejia.ruc.edu.cn/CN/lexeme/showArticleByLexeme.do?articleID=3426">可视化</a>
+	                            </span>
+								
+								<span class="shoucang">
+									&nbsp;<img src="/images/1005-0221/reb.png" width="16" height="16" />
+									<a href="javascript:;" onclick="collectArticle('3426');">
+										<span class="shouc">收藏</span>
+									</a>
+								</span>
+							</div>
+
+							<div class="j-abstract">
+								<b>《法学家》2026年第5期目录(总第218期)</b><br><b>专题：习近平法治思想的学理阐释</b><br>习近平法治思想中的法治功能论 夏锦文 (1)<br><br><b>中宣部哲社科期刊重点专栏：中华法治文明与法学自主知识体系构建</b><br>同因不同类诉讼相关关系处置的制度与法理 张卫平 (14)<br>重新发现“罪量”：罪量要素的犯罪论体系定位 唐志威 (26)<br><br><b>主题研讨：新修订《商标法》评析</b><br>《商标法》欺骗性商标条款的法律构造与适用界限 孔祥俊 (42)<br>驰名商标制度的范式转型 万 勇 (60)<br><br><b>专 论</b><br>我国人工智能立法的功能定位与范式转型 申卫星 (72)<br>经由“阅核”的裁判质量控制———基于H省法院的实证考察 丁亮华 (89)<br>反思集合性概念视域下抽象危险犯的类型化解释 王 俊 (105)<br><br>  <b>视 点</b><br>母子公司监督机制的体系化构造 陈景善 (120)<br>对赌交易投资人回购权的组织法解构 叶冬影 (134)<br>新《仲裁法下虚假仲裁的规制困境与完善路径———基于《仲裁法》第61条、第71条展开 张 艳 (150)<br><br><b>争 鸣</b><br>论违约责任中的与有过失规则 徐银波 (163)<br>执转破程序的职权主义启动问题：反思与纠偏 施啸波 (176)<br>
+							</div>
+							
+						</div>
+						
+						                	</li>
+                                                	  				
+	  					                <div class="articlesectionlisting">
+	                <a name="专题：习近平法治思想的学理阐释"></a>
+	                <div class=dbt_header>专题：习近平法治思想的学理阐释</div>
+	                </div>
+	                	                	                
+                	<li id="art3427" class="noselectrow">
+                		<div class="article-checkbox">
+							<INPUT id='thisart_3427' class=article_checkbox onclick="hightlightrowaction('art3427')" value='3427' alt=Select type=checkbox name=pid> 
+                  			<LABEL class=hidelabel for='thisart_3427'>Select</LABEL>
+						</div>
+						<div class="article-l article-w">
+							<span class="j-column">专题：习近平法治思想的学理阐释</span>
+								<div class="j-title-1">
+									<a href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/1">习近平法治思想中的法治功能论</a> <iframe src="/EN/article/articleDownloadControl.do?articleId=3427"  width="15" height="13"  scrolling=no frameborder=0 allowtransparency="true"></iframe>
+								</div>
+							<div class="j-author">夏锦文</div>
+							<div class="j-volumn-doi">
+								<span class="j-volumn">
+									2026(5): 1-13.
+								</span>
+															</div>
+							<div class="j-btn">
+								<a class="j-abs" href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/1"><i class="fa fa-file-text-o"></i> 摘要</a> (
+
+
+
+
+
+<span id="mag-getDinajiShu-3427"></span>
+<script>
+$("#mag-getDinajiShu-3427").load('/CN/article/getDianJiShu.jsp?articleid=3427&ajax=true');
+</script>
+	
+)
+																	<a class="j-pdf" href="javascript:;" onclick="lsdy1('PDF','3427');return false;">PDF全文</a> (
+
+
+
+
+	
+<span id="mag-getXiaZaiShu-3427"></span>
+<script>
+$("#mag-getXiaZaiShu-3427").load('/CN/article/getXiaZaiShu.jsp?articleid=3427&ajax=true');
+</script>
+	
+
+
+)
+																								<span class="richhtml">
+																</span>
+								<span class="knomap" id="span_visual_article_3427">
+									&nbsp;<img src="/images/knowledge_map.png" width="16" height="16" />
+									<a href="https://faxuejia.ruc.edu.cn/CN/lexeme/showArticleByLexeme.do?articleID=3427">可视化</a>
+	                            </span>
+								
+								<span class="shoucang">
+									&nbsp;<img src="/images/1005-0221/reb.png" width="16" height="16" />
+									<a href="javascript:;" onclick="collectArticle('3427');">
+										<span class="shouc">收藏</span>
+									</a>
+								</span>
+							</div>
+
+							<div class="j-abstract">
+								习近平法治思想开辟了马克思主义法治理论中国化时代化的新境界,“固根本、稳预期、利长远”的法治功能论是其中的原创性命题,具有深厚的历史渊源与现实的实践生命力,深刻揭示了法治在治国理政中的功能定位。固根本,就是以法治筑牢党和国家事业发展的制度根基;稳预期,就是以法治形成稳定可期的社会秩序;利长远,就是以法治实现中华民族的伟大复兴。三者相互依赖、共同作用,形成了全面而系统的法治功能体系。这一法治功能论不仅是对马克思主义法治理论的创新发展,更是对中国特色社会主义法治道路的有力诠释,还是建构中国自主法学知识体系的重要标识,对于指导全面推进依法治国、建设社会主义法治国家具有重要的现实意义和深远的历史意义。
+							</div>
+							
+						</div>
+						
+						                	</li>
+                                                	  				
+	  					                <div class="articlesectionlisting">
+	                <a name="中宣部哲社科期刊重点专栏：中华法治文明与法学自主知识体系构建"></a>
+	                <div class=dbt_header>中宣部哲社科期刊重点专栏：中华法治文明与法学自主知识体系构建</div>
+	                </div>
+	                	                	                
+                	<li id="art3428" class="noselectrow">
+                		<div class="article-checkbox">
+							<INPUT id='thisart_3428' class=article_checkbox onclick="hightlightrowaction('art3428')" value='3428' alt=Select type=checkbox name=pid> 
+                  			<LABEL class=hidelabel for='thisart_3428'>Select</LABEL>
+						</div>
+						<div class="article-l article-w">
+							<span class="j-column">中宣部哲社科期刊重点专栏：中华法治文明与法学自主知识体系构建</span>
+								<div class="j-title-1">
+									<a href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/14">同因不同类诉讼相关关系处置的制度与法理</a> <iframe src="/EN/article/articleDownloadControl.do?articleId=3428"  width="15" height="13"  scrolling=no frameborder=0 allowtransparency="true"></iframe>
+								</div>
+							<div class="j-author">张卫平</div>
+							<div class="j-volumn-doi">
+								<span class="j-volumn">
+									2026(5): 14-25.
+								</span>
+															</div>
+							<div class="j-btn">
+								<a class="j-abs" href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/14"><i class="fa fa-file-text-o"></i> 摘要</a> (
+
+
+
+
+
+<span id="mag-getDinajiShu-3428"></span>
+<script>
+$("#mag-getDinajiShu-3428").load('/CN/article/getDianJiShu.jsp?articleid=3428&ajax=true');
+</script>
+	
+)
+																	<a class="j-pdf" href="javascript:;" onclick="lsdy1('PDF','3428');return false;">PDF全文</a> (
+
+
+
+
+	
+<span id="mag-getXiaZaiShu-3428"></span>
+<script>
+$("#mag-getXiaZaiShu-3428").load('/CN/article/getXiaZaiShu.jsp?articleid=3428&ajax=true');
+</script>
+	
+
+
+)
+																								<span class="richhtml">
+																</span>
+								<span class="knomap" id="span_visual_article_3428">
+									&nbsp;<img src="/images/knowledge_map.png" width="16" height="16" />
+									<a href="https://faxuejia.ruc.edu.cn/CN/lexeme/showArticleByLexeme.do?articleID=3428">可视化</a>
+	                            </span>
+								
+								<span class="shoucang">
+									&nbsp;<img src="/images/1005-0221/reb.png" width="16" height="16" />
+									<a href="javascript:;" onclick="collectArticle('3428');">
+										<span class="shouc">收藏</span>
+									</a>
+								</span>
+							</div>
+
+							<div class="j-abstract">
+								同因不同类诉讼之间因为相同原因使其有了特定的联系。这种联系使得人们必然要关注这一相关关系的制度安排。现行制度也对这种关系的处置作出了制度回应。同因不同类诉讼主要存在于公益诉讼与私益诉讼、代表人诉讼与单行的非代表人诉讼这两个民事诉讼领域之中。这两类同因不同类诉讼相关关系的制度安排因为诉讼类型不同,制度设计略有不同。在公益诉讼的情形下,私益诉讼对公益诉讼生效裁判的适用体现为事实免证优惠。这种免证优惠并非基于公益诉讼判决效力的扩张,而是生效判决作为证明文书的证明效益;在代表人诉讼的情形,则体现为单行非代表人诉讼对代表人诉讼生效裁判的适用。基于公益诉讼、代表人诉讼的特性,在生效裁判的适用上,一般为私益诉讼对公益诉讼生效裁判的适用,非代表人诉讼对代表人生效裁判的适用,不能倒置适用。非代表人诉讼适用代表人诉讼生效裁判后,应以判决的形式终结诉讼,在有给付义务的情形下,该判决即是权利人申请强制执行的根据。当同因不同类诉讼并行时,私益诉讼及非代表人诉讼是否中止,法院可根据具体情形考量决定。基于存在诉讼中止裁量决定的必要性,民事诉讼立法可调整关于诉讼中止相关规定,增加法院裁量中止的规定。
+							</div>
+							
+						</div>
+						
+						                	</li>
+                                                	  				
+	  					                
+                	<li id="art3429" class="noselectrow">
+                		<div class="article-checkbox">
+							<INPUT id='thisart_3429' class=article_checkbox onclick="hightlightrowaction('art3429')" value='3429' alt=Select type=checkbox name=pid> 
+                  			<LABEL class=hidelabel for='thisart_3429'>Select</LABEL>
+						</div>
+						<div class="article-l article-w">
+							<span class="j-column">中宣部哲社科期刊重点专栏：中华法治文明与法学自主知识体系构建</span>
+								<div class="j-title-1">
+									<a href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/26">重新发现“罪量”:罪量要素的犯罪论体系定位</a> <iframe src="/EN/article/articleDownloadControl.do?articleId=3429"  width="15" height="13"  scrolling=no frameborder=0 allowtransparency="true"></iframe>
+								</div>
+							<div class="j-author">唐志威</div>
+							<div class="j-volumn-doi">
+								<span class="j-volumn">
+									2026(5): 26-41.
+								</span>
+															</div>
+							<div class="j-btn">
+								<a class="j-abs" href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/26"><i class="fa fa-file-text-o"></i> 摘要</a> (
+
+
+
+
+
+<span id="mag-getDinajiShu-3429"></span>
+<script>
+$("#mag-getDinajiShu-3429").load('/CN/article/getDianJiShu.jsp?articleid=3429&ajax=true');
+</script>
+	
+)
+																	<a class="j-pdf" href="javascript:;" onclick="lsdy1('PDF','3429');return false;">PDF全文</a> (
+
+
+
+
+	
+<span id="mag-getXiaZaiShu-3429"></span>
+<script>
+$("#mag-getXiaZaiShu-3429").load('/CN/article/getXiaZaiShu.jsp?articleid=3429&ajax=true');
+</script>
+	
+
+
+)
+																								<span class="richhtml">
+																</span>
+								<span class="knomap" id="span_visual_article_3429">
+									&nbsp;<img src="/images/knowledge_map.png" width="16" height="16" />
+									<a href="https://faxuejia.ruc.edu.cn/CN/lexeme/showArticleByLexeme.do?articleID=3429">可视化</a>
+	                            </span>
+								
+								<span class="shoucang">
+									&nbsp;<img src="/images/1005-0221/reb.png" width="16" height="16" />
+									<a href="javascript:;" onclick="collectArticle('3429');">
+										<span class="shouc">收藏</span>
+									</a>
+								</span>
+							</div>
+
+							<div class="j-abstract">
+								刑法分则个罪中的“罪量”要素是中国刑法的特色规定,照搬域外理论的建构方案存在比较法方法论上的障碍。通说将罪量要素视作不法构成要件要素,不仅消解了不法构成要件本应承担的行为指引、一般预防和违法性征表功能,还会遭遇一系列刑法合宪性解释与体系解释的质疑。在实质犯罪概念的语境下,与《刑法》第13条“但书”相对应的分则“罪量”是(广义的)构成要件中刑罚限制要素的集合概念,涉及“刑罚合目的性”的考量。在阶层犯罪论体系中,罪量(刑罚合目的性)阶层应被安置在证立刑罚的不法与罪责阶层之后。这样的体系归置,不仅不会违反罪责原则确立的刑事责任归属标准,还有助于厘清未遂、共犯等教义学争议。
+							</div>
+							
+						</div>
+						
+						                	</li>
+                                                	  				
+	  					                <div class="articlesectionlisting">
+	                <a name="主题研讨：新修订《商标法》评析"></a>
+	                <div class=dbt_header>主题研讨：新修订《商标法》评析</div>
+	                </div>
+	                	                	                
+                	<li id="art3430" class="noselectrow">
+                		<div class="article-checkbox">
+							<INPUT id='thisart_3430' class=article_checkbox onclick="hightlightrowaction('art3430')" value='3430' alt=Select type=checkbox name=pid> 
+                  			<LABEL class=hidelabel for='thisart_3430'>Select</LABEL>
+						</div>
+						<div class="article-l article-w">
+							<span class="j-column">主题研讨：新修订《商标法》评析</span>
+								<div class="j-title-1">
+									<a href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/42">《商标法》欺骗性商标条款的法律构造与适用界限</a> <iframe src="/EN/article/articleDownloadControl.do?articleId=3430"  width="15" height="13"  scrolling=no frameborder=0 allowtransparency="true"></iframe>
+								</div>
+							<div class="j-author">孔祥俊</div>
+							<div class="j-volumn-doi">
+								<span class="j-volumn">
+									2026(5): 42-59.
+								</span>
+															</div>
+							<div class="j-btn">
+								<a class="j-abs" href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/42"><i class="fa fa-file-text-o"></i> 摘要</a> (
+
+
+
+
+
+<span id="mag-getDinajiShu-3430"></span>
+<script>
+$("#mag-getDinajiShu-3430").load('/CN/article/getDianJiShu.jsp?articleid=3430&ajax=true');
+</script>
+	
+)
+																	<a class="j-pdf" href="javascript:;" onclick="lsdy1('PDF','3430');return false;">PDF全文</a> (
+
+
+
+
+	
+<span id="mag-getXiaZaiShu-3430"></span>
+<script>
+$("#mag-getXiaZaiShu-3430").load('/CN/article/getXiaZaiShu.jsp?articleid=3430&ajax=true');
+</script>
+	
+
+
+)
+																								<span class="richhtml">
+																</span>
+								<span class="knomap" id="span_visual_article_3430">
+									&nbsp;<img src="/images/knowledge_map.png" width="16" height="16" />
+									<a href="https://faxuejia.ruc.edu.cn/CN/lexeme/showArticleByLexeme.do?articleID=3430">可视化</a>
+	                            </span>
+								
+								<span class="shoucang">
+									&nbsp;<img src="/images/1005-0221/reb.png" width="16" height="16" />
+									<a href="javascript:;" onclick="collectArticle('3430');">
+										<span class="shouc">收藏</span>
+									</a>
+								</span>
+							</div>
+
+							<div class="j-abstract">
+								欺骗性商标是2026年《商标法》修订的重点条款之一,除完善条款本身外,还设定相应的惩罚制度,并被指向针对当前的“心机商标”专项整治。欺骗性商标禁用条款的适用日趋活跃,随着商标主管机关整治“心机商标”,其适用范围不断拓宽,适用标准时有降低,在商标禁用条款中似乎已渐具兜底性并易于被滥用。禁用商标本已具有严厉后果,新修订《商标法》又另设配套性惩罚制度,更需要准确把握欺骗性商标的法律定位、精准界定其适用标准和适当控制其适用范围。欺骗性商标禁用条款以保护消费者为目标,以所涉商品或者服务特点的固有欺骗性为定位,以足够大的误认可能性为基准,以事实判断为主和以价值判断为辅,并应当保持适当的适用谦抑,充分尊重市场主体的正当表达自由,强化必要的商标产权保护观念,防止以维护公共秩序为名过多地介入私益。欺骗性商标的认定应当以所涉商标和商品的具体使用场景为基础,准确把握商标构成要素的整体判断与要部判断,适当考量商标授权与无效宣告以及未使用商标与已使用商标的判断差异,充分尊重市场实际,并妥善处理欺骗性商标与商标显著性的区分关系,防止欺骗性商标的无序扩张。
+							</div>
+							
+						</div>
+						
+						                	</li>
+                                                	  				
+	  					                
+                	<li id="art3431" class="noselectrow">
+                		<div class="article-checkbox">
+							<INPUT id='thisart_3431' class=article_checkbox onclick="hightlightrowaction('art3431')" value='3431' alt=Select type=checkbox name=pid> 
+                  			<LABEL class=hidelabel for='thisart_3431'>Select</LABEL>
+						</div>
+						<div class="article-l article-w">
+							<span class="j-column">主题研讨：新修订《商标法》评析</span>
+								<div class="j-title-1">
+									<a href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/60">驰名商标制度的范式转型</a> <iframe src="/EN/article/articleDownloadControl.do?articleId=3431"  width="15" height="13"  scrolling=no frameborder=0 allowtransparency="true"></iframe>
+								</div>
+							<div class="j-author">万勇</div>
+							<div class="j-volumn-doi">
+								<span class="j-volumn">
+									2026(5): 60-71.
+								</span>
+															</div>
+							<div class="j-btn">
+								<a class="j-abs" href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/60"><i class="fa fa-file-text-o"></i> 摘要</a> (
+
+
+
+
+
+<span id="mag-getDinajiShu-3431"></span>
+<script>
+$("#mag-getDinajiShu-3431").load('/CN/article/getDianJiShu.jsp?articleid=3431&ajax=true');
+</script>
+	
+)
+																	<a class="j-pdf" href="javascript:;" onclick="lsdy1('PDF','3431');return false;">PDF全文</a> (
+
+
+
+
+	
+<span id="mag-getXiaZaiShu-3431"></span>
+<script>
+$("#mag-getXiaZaiShu-3431").load('/CN/article/getXiaZaiShu.jsp?articleid=3431&ajax=true');
+</script>
+	
+
+
+)
+																								<span class="richhtml">
+																</span>
+								<span class="knomap" id="span_visual_article_3431">
+									&nbsp;<img src="/images/knowledge_map.png" width="16" height="16" />
+									<a href="https://faxuejia.ruc.edu.cn/CN/lexeme/showArticleByLexeme.do?articleID=3431">可视化</a>
+	                            </span>
+								
+								<span class="shoucang">
+									&nbsp;<img src="/images/1005-0221/reb.png" width="16" height="16" />
+									<a href="javascript:;" onclick="collectArticle('3431');">
+										<span class="shouc">收藏</span>
+									</a>
+								</span>
+							</div>
+
+							<div class="j-abstract">
+								2026年《商标法》对驰名商标制度作了体系化修订,这是我国驰名商标制度发展历程中具有范式革命意义的制度拐点,为破解长期存在的制度异化、裁判失衡、跨境保护不足等难题提供了规范基础。此次修订在延续以往改革方向的基础上,在本体维度、价值维度、空间维度,分别实现了从荣誉称号回归标记符号、从注册本位到商誉本位、从严格地域性到地域性突破的范式转型。范式转型是长期系统性工程,当前,驰名商标保护仍处于范式转型的磨合与深化阶段,尚有一些未竟之业,有待未来进一步完成。
+							</div>
+							
+						</div>
+						
+						                	</li>
+                                                	  				
+	  					                <div class="articlesectionlisting">
+	                <a name="专论"></a>
+	                <div class=dbt_header>专论</div>
+	                </div>
+	                	                	                
+                	<li id="art3432" class="noselectrow">
+                		<div class="article-checkbox">
+							<INPUT id='thisart_3432' class=article_checkbox onclick="hightlightrowaction('art3432')" value='3432' alt=Select type=checkbox name=pid> 
+                  			<LABEL class=hidelabel for='thisart_3432'>Select</LABEL>
+						</div>
+						<div class="article-l article-w">
+							<span class="j-column">专论</span>
+								<div class="j-title-1">
+									<a href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/72">我国人工智能立法的功能定位与范式转型</a> <iframe src="/EN/article/articleDownloadControl.do?articleId=3432"  width="15" height="13"  scrolling=no frameborder=0 allowtransparency="true"></iframe>
+								</div>
+							<div class="j-author">申卫星</div>
+							<div class="j-volumn-doi">
+								<span class="j-volumn">
+									2026(5): 72-88.
+								</span>
+															</div>
+							<div class="j-btn">
+								<a class="j-abs" href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/72"><i class="fa fa-file-text-o"></i> 摘要</a> (
+
+
+
+
+
+<span id="mag-getDinajiShu-3432"></span>
+<script>
+$("#mag-getDinajiShu-3432").load('/CN/article/getDianJiShu.jsp?articleid=3432&ajax=true');
+</script>
+	
+)
+																	<a class="j-pdf" href="javascript:;" onclick="lsdy1('PDF','3432');return false;">PDF全文</a> (
+
+
+
+
+	
+<span id="mag-getXiaZaiShu-3432"></span>
+<script>
+$("#mag-getXiaZaiShu-3432").load('/CN/article/getXiaZaiShu.jsp?articleid=3432&ajax=true');
+</script>
+	
+
+
+)
+																								<span class="richhtml">
+																</span>
+								<span class="knomap" id="span_visual_article_3432">
+									&nbsp;<img src="/images/knowledge_map.png" width="16" height="16" />
+									<a href="https://faxuejia.ruc.edu.cn/CN/lexeme/showArticleByLexeme.do?articleID=3432">可视化</a>
+	                            </span>
+								
+								<span class="shoucang">
+									&nbsp;<img src="/images/1005-0221/reb.png" width="16" height="16" />
+									<a href="javascript:;" onclick="collectArticle('3432');">
+										<span class="shouc">收藏</span>
+									</a>
+								</span>
+							</div>
+
+							<div class="j-abstract">
+								我国人工智能立法始终面临是否立法、何时立法、以何种形式立法以及立法如何处理安全与发展关系四重争议,这直接关涉人工智能立法的功能定位与范式选择。本文主张尽快推进我国人工智能的综合性立法,对现行人工智能分散治理充分性的肯定、对体系融贯的质疑均不足以否定综合性立法需求;与此同时,法律基础设施理论与二阶决策理论,从功能与结构两个维度共同表明了综合性立法是匹配人工智能治理复杂性的必要方案。就立法时机而言,人工智能立法不存在绝对最佳时点,应当基于“先立后优”思路破解“科林格里奇困境”。就立法价值而言,立法与创新并非零和博弈,法律应当积极发挥对人工智能发展方向的形塑功能,我国人工智能立法不能只是技术管制法或产业促进法,而应是一部以人为本的发展法。就立法范式而言,智能体技术的发展使既有风险规制范式面临根本挑战,立法应在风险规制基础上推进至关系建构层面,对人智关系、智智关系与复合关系作出基础性制度安排,构建具有中国特色的人工智能法律体系。
+							</div>
+							
+						</div>
+						
+						                	</li>
+                                                	  				
+	  					                
+                	<li id="art3433" class="noselectrow">
+                		<div class="article-checkbox">
+							<INPUT id='thisart_3433' class=article_checkbox onclick="hightlightrowaction('art3433')" value='3433' alt=Select type=checkbox name=pid> 
+                  			<LABEL class=hidelabel for='thisart_3433'>Select</LABEL>
+						</div>
+						<div class="article-l article-w">
+							<span class="j-column">专论</span>
+								<div class="j-title-1">
+									<a href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/89">经由“阅核”的裁判质量控制——基于H省法院的实证考察</a> <iframe src="/EN/article/articleDownloadControl.do?articleId=3433"  width="15" height="13"  scrolling=no frameborder=0 allowtransparency="true"></iframe>
+								</div>
+							<div class="j-author">丁亮华</div>
+							<div class="j-volumn-doi">
+								<span class="j-volumn">
+									2026(5): 89-104.
+								</span>
+															</div>
+							<div class="j-btn">
+								<a class="j-abs" href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/89"><i class="fa fa-file-text-o"></i> 摘要</a> (
+
+
+
+
+
+<span id="mag-getDinajiShu-3433"></span>
+<script>
+$("#mag-getDinajiShu-3433").load('/CN/article/getDianJiShu.jsp?articleid=3433&ajax=true');
+</script>
+	
+)
+																	<a class="j-pdf" href="javascript:;" onclick="lsdy1('PDF','3433');return false;">PDF全文</a> (
+
+
+
+
+	
+<span id="mag-getXiaZaiShu-3433"></span>
+<script>
+$("#mag-getXiaZaiShu-3433").load('/CN/article/getXiaZaiShu.jsp?articleid=3433&ajax=true');
+</script>
+	
+
+
+)
+																								<span class="richhtml">
+																</span>
+								<span class="knomap" id="span_visual_article_3433">
+									&nbsp;<img src="/images/knowledge_map.png" width="16" height="16" />
+									<a href="https://faxuejia.ruc.edu.cn/CN/lexeme/showArticleByLexeme.do?articleID=3433">可视化</a>
+	                            </span>
+								
+								<span class="shoucang">
+									&nbsp;<img src="/images/1005-0221/reb.png" width="16" height="16" />
+									<a href="javascript:;" onclick="collectArticle('3433');">
+										<span class="shouc">收藏</span>
+									</a>
+								</span>
+							</div>
+
+							<div class="j-abstract">
+								阅核制作为司法责任制改革深化阶段的重要制度创新,旨在重构“放权”与“监督”之间的动态平衡。基于H省三级法院2024年全口径数据的实证考察发现,阅核呈现出显著的“结构化差序监管”特征,其适用强度因法院审级、审判领域、人员特征及案件标签而有不同。倾向得分匹配(PSM)与双重差分模型(DID)分析结果显示,阅核对审判质效产生了明显的“处理效应”,经阅核案件的上诉率、改发率及申诉再审率分别较匹配对照组低。然而,问卷调查结果揭示其客观效能与主观感知存在明显落差,形成一种“效能感知悖论”。当前,阅核制已从传统的“行政化审批”迈向“程序化治理”的新范式,其未来发展需通过权责清单的法定指引、案件分类的动态优化、人工智能的深度嵌入以及考核激励的体系重构,实现从“监管控制”向“质量赋能”的系统性转型。
+							</div>
+							
+						</div>
+						
+						                	</li>
+                                                	  				
+	  					                
+                	<li id="art3434" class="noselectrow">
+                		<div class="article-checkbox">
+							<INPUT id='thisart_3434' class=article_checkbox onclick="hightlightrowaction('art3434')" value='3434' alt=Select type=checkbox name=pid> 
+                  			<LABEL class=hidelabel for='thisart_3434'>Select</LABEL>
+						</div>
+						<div class="article-l article-w">
+							<span class="j-column">专论</span>
+								<div class="j-title-1">
+									<a href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/105">反思集合性概念视域下抽象危险犯的类型化解释</a> <iframe src="/EN/article/articleDownloadControl.do?articleId=3434"  width="15" height="13"  scrolling=no frameborder=0 allowtransparency="true"></iframe>
+								</div>
+							<div class="j-author">王俊</div>
+							<div class="j-volumn-doi">
+								<span class="j-volumn">
+									2026(5): 105-119.
+								</span>
+															</div>
+							<div class="j-btn">
+								<a class="j-abs" href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/105"><i class="fa fa-file-text-o"></i> 摘要</a> (
+
+
+
+
+
+<span id="mag-getDinajiShu-3434"></span>
+<script>
+$("#mag-getDinajiShu-3434").load('/CN/article/getDianJiShu.jsp?articleid=3434&ajax=true');
+</script>
+	
+)
+																	<a class="j-pdf" href="javascript:;" onclick="lsdy1('PDF','3434');return false;">PDF全文</a> (
+
+
+
+
+	
+<span id="mag-getXiaZaiShu-3434"></span>
+<script>
+$("#mag-getXiaZaiShu-3434").load('/CN/article/getXiaZaiShu.jsp?articleid=3434&ajax=true');
+</script>
+	
+
+
+)
+																								<span class="richhtml">
+																</span>
+								<span class="knomap" id="span_visual_article_3434">
+									&nbsp;<img src="/images/knowledge_map.png" width="16" height="16" />
+									<a href="https://faxuejia.ruc.edu.cn/CN/lexeme/showArticleByLexeme.do?articleID=3434">可视化</a>
+	                            </span>
+								
+								<span class="shoucang">
+									&nbsp;<img src="/images/1005-0221/reb.png" width="16" height="16" />
+									<a href="javascript:;" onclick="collectArticle('3434');">
+										<span class="shouc">收藏</span>
+									</a>
+								</span>
+							</div>
+
+							<div class="j-abstract">
+								传统理论将抽象危险犯视为一个集合性概念的观点存在疑问,对此需要厘清传统抽象危险犯与准抽象危险犯、累积犯、实质预备犯之间的关系。准抽象危险犯仅限于法条明文规定危险要素的犯罪,不宜过度扩张;累积犯概念不具备解释论层面的意义;实质预备犯则没有作为单独类型提出的必要。从学界现有观点来看,将抽象危险视为不成文构成要件要素会混淆与具体危险犯的关系;对危险要素进行限制解释则明显违反司法解释的规定;而采取注意义务违反标准则是对过失犯原理的不当嫁接。抽象危险犯应区分为保护具体法益型与保护抽象法益型,对于前者,可以采用事前危险的判断方法,在经验层面否定行为的法益侵害危险性,而对于后者,则需要充分发挥制度信赖型法益的解释机能。倘若采取上述路径仍无法出罪,只能将但书规定作为不成文的罪量要素,基于整体性的评价进行出罪。
+							</div>
+							
+						</div>
+						
+						                	</li>
+                                                	  				
+	  					                <div class="articlesectionlisting">
+	                <a name="视点"></a>
+	                <div class=dbt_header>视点</div>
+	                </div>
+	                	                	                
+                	<li id="art3435" class="noselectrow">
+                		<div class="article-checkbox">
+							<INPUT id='thisart_3435' class=article_checkbox onclick="hightlightrowaction('art3435')" value='3435' alt=Select type=checkbox name=pid> 
+                  			<LABEL class=hidelabel for='thisart_3435'>Select</LABEL>
+						</div>
+						<div class="article-l article-w">
+							<span class="j-column">视点</span>
+								<div class="j-title-1">
+									<a href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/120">母子公司监督机制的体系化构造</a> <iframe src="/EN/article/articleDownloadControl.do?articleId=3435"  width="15" height="13"  scrolling=no frameborder=0 allowtransparency="true"></iframe>
+								</div>
+							<div class="j-author">陈景善</div>
+							<div class="j-volumn-doi">
+								<span class="j-volumn">
+									2026(5): 120-133.
+								</span>
+															</div>
+							<div class="j-btn">
+								<a class="j-abs" href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/120"><i class="fa fa-file-text-o"></i> 摘要</a> (
+
+
+
+
+
+<span id="mag-getDinajiShu-3435"></span>
+<script>
+$("#mag-getDinajiShu-3435").load('/CN/article/getDianJiShu.jsp?articleid=3435&ajax=true');
+</script>
+	
+)
+																	<a class="j-pdf" href="javascript:;" onclick="lsdy1('PDF','3435');return false;">PDF全文</a> (
+
+
+
+
+	
+<span id="mag-getXiaZaiShu-3435"></span>
+<script>
+$("#mag-getXiaZaiShu-3435").load('/CN/article/getXiaZaiShu.jsp?articleid=3435&ajax=true');
+</script>
+	
+
+
+)
+																								<span class="richhtml">
+																</span>
+								<span class="knomap" id="span_visual_article_3435">
+									&nbsp;<img src="/images/knowledge_map.png" width="16" height="16" />
+									<a href="https://faxuejia.ruc.edu.cn/CN/lexeme/showArticleByLexeme.do?articleID=3435">可视化</a>
+	                            </span>
+								
+								<span class="shoucang">
+									&nbsp;<img src="/images/1005-0221/reb.png" width="16" height="16" />
+									<a href="javascript:;" onclick="collectArticle('3435');">
+										<span class="shouc">收藏</span>
+									</a>
+								</span>
+							</div>
+
+							<div class="j-abstract">
+								以母子公司为基础的集团公司治理危机,暴露出传统单一公司监督模式的制度局限。为系统性地回应母子公司监督失灵,尤其是母公司股东利益受损的问题,在理论上有穿越公司理论和资产管理理论两种路径。其中,资产管理理论为母公司董事构建母子公司监督机制的义务提供了理论基础。母子公司监督机制的体系化构造需要从以下三个方面展开。首先,在模式选择维度上,监督机制的基础架构应当与母公司对子公司的控制强度相匹配。参股模式下采用“分体型”监督机制,母子公司监督职能各自独立、并行运行,以保障少数股东的监督参与权;全资控股模式下采用“一体型”监督机制,子公司监督机构的形式虽予保留,但其职能实质整合于集团整体框架,实现监督标准的统一、信息流动的整合与风险应对的联动。其次,在义务内容的规范构造上,母公司董事对母公司负有勤勉注意的一般性义务。在解释论上,可以从中阐释出其负有建立并维持母子公司监督机制的义务。同时,为了消除母子公司监督中的信息不对称现象,母公司董事有必要建立合规调查机制和内部举报机制。而且,在没有完全履行关于子公司的监督管理义务的情形中,母公司董事应当承担对母公司的违信责任,以间接弥补母公司股东的损害。此种违信责任的承担边界在于,母公司董事可以以商业判断原则或者合理信赖原则为由进行抗辩。
+							</div>
+							
+						</div>
+						
+						                	</li>
+                                                	  				
+	  					                
+                	<li id="art3436" class="noselectrow">
+                		<div class="article-checkbox">
+							<INPUT id='thisart_3436' class=article_checkbox onclick="hightlightrowaction('art3436')" value='3436' alt=Select type=checkbox name=pid> 
+                  			<LABEL class=hidelabel for='thisart_3436'>Select</LABEL>
+						</div>
+						<div class="article-l article-w">
+							<span class="j-column">视点</span>
+								<div class="j-title-1">
+									<a href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/134">对赌交易投资人回购权的组织法解构</a> <iframe src="/EN/article/articleDownloadControl.do?articleId=3436"  width="15" height="13"  scrolling=no frameborder=0 allowtransparency="true"></iframe>
+								</div>
+							<div class="j-author">叶冬影</div>
+							<div class="j-volumn-doi">
+								<span class="j-volumn">
+									2026(5): 134-149.
+								</span>
+															</div>
+							<div class="j-btn">
+								<a class="j-abs" href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/134"><i class="fa fa-file-text-o"></i> 摘要</a> (
+
+
+
+
+
+<span id="mag-getDinajiShu-3436"></span>
+<script>
+$("#mag-getDinajiShu-3436").load('/CN/article/getDianJiShu.jsp?articleid=3436&ajax=true');
+</script>
+	
+)
+																	<a class="j-pdf" href="javascript:;" onclick="lsdy1('PDF','3436');return false;">PDF全文</a> (
+
+
+
+
+	
+<span id="mag-getXiaZaiShu-3436"></span>
+<script>
+$("#mag-getXiaZaiShu-3436").load('/CN/article/getXiaZaiShu.jsp?articleid=3436&ajax=true');
+</script>
+	
+
+
+)
+																								<span class="richhtml">
+																</span>
+								<span class="knomap" id="span_visual_article_3436">
+									&nbsp;<img src="/images/knowledge_map.png" width="16" height="16" />
+									<a href="https://faxuejia.ruc.edu.cn/CN/lexeme/showArticleByLexeme.do?articleID=3436">可视化</a>
+	                            </span>
+								
+								<span class="shoucang">
+									&nbsp;<img src="/images/1005-0221/reb.png" width="16" height="16" />
+									<a href="javascript:;" onclick="collectArticle('3436');">
+										<span class="shouc">收藏</span>
+									</a>
+								</span>
+							</div>
+
+							<div class="j-abstract">
+								对赌协议纠纷长期陷入“合同有效但难以执行”的困境,根源在于合同法与公司法的协同关系尚未厘清。对赌条款表现为附着于投资协议的合同安排,但约定公司在特定条件下向投资人回购股份,在实质上构成与认购股份方向相反的反向交易,不能仅以合同法评价。从公司组织法角度看,投资人的回购权或赎回权并非单纯债权请求权,而是依附于股份(股权)结构和股东权利安排的特殊权利,其创设应以章程记载或等效股东会决议为基础。公司履行回购义务将导致公司财产向特定股东返还并可能引发资本变动,故须受资本维持原则的规制,遵守减资程序、财源限制和债权人保护规则。公司支付回购款应以依法可用的财源为限;公司仅因缺乏依法可用财源而不能支付回购款的,不当然构成违约;但公司怠于启动程序、恶意阻却决议形成,转移或抽逃资产等构成违约或侵权的,仍可能承担相应责任。
+							</div>
+							
+						</div>
+						
+						                	</li>
+                                                	  				
+	  					                
+                	<li id="art3437" class="noselectrow">
+                		<div class="article-checkbox">
+							<INPUT id='thisart_3437' class=article_checkbox onclick="hightlightrowaction('art3437')" value='3437' alt=Select type=checkbox name=pid> 
+                  			<LABEL class=hidelabel for='thisart_3437'>Select</LABEL>
+						</div>
+						<div class="article-l article-w">
+							<span class="j-column">视点</span>
+								<div class="j-title-1">
+									<a href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/150">新《仲裁法》下虚假仲裁的规制困境与完善路径——基于《仲裁法》第61条、第71条展开</a> <iframe src="/EN/article/articleDownloadControl.do?articleId=3437"  width="15" height="13"  scrolling=no frameborder=0 allowtransparency="true"></iframe>
+								</div>
+							<div class="j-author">张艳</div>
+							<div class="j-volumn-doi">
+								<span class="j-volumn">
+									2026(5): 150-162.
+								</span>
+															</div>
+							<div class="j-btn">
+								<a class="j-abs" href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/150"><i class="fa fa-file-text-o"></i> 摘要</a> (
+
+
+
+
+
+<span id="mag-getDinajiShu-3437"></span>
+<script>
+$("#mag-getDinajiShu-3437").load('/CN/article/getDianJiShu.jsp?articleid=3437&ajax=true');
+</script>
+	
+)
+																	<a class="j-pdf" href="javascript:;" onclick="lsdy1('PDF','3437');return false;">PDF全文</a> (
+
+
+
+
+	
+<span id="mag-getXiaZaiShu-3437"></span>
+<script>
+$("#mag-getXiaZaiShu-3437").load('/CN/article/getXiaZaiShu.jsp?articleid=3437&ajax=true');
+</script>
+	
+
+
+)
+																								<span class="richhtml">
+																</span>
+								<span class="knomap" id="span_visual_article_3437">
+									&nbsp;<img src="/images/knowledge_map.png" width="16" height="16" />
+									<a href="https://faxuejia.ruc.edu.cn/CN/lexeme/showArticleByLexeme.do?articleID=3437">可视化</a>
+	                            </span>
+								
+								<span class="shoucang">
+									&nbsp;<img src="/images/1005-0221/reb.png" width="16" height="16" />
+									<a href="javascript:;" onclick="collectArticle('3437');">
+										<span class="shouc">收藏</span>
+									</a>
+								</span>
+							</div>
+
+							<div class="j-abstract">
+								新《仲裁法》增设虚假仲裁条款,为规制该行为提供了立法依据。《仲裁法》第61条所指虚假仲裁包括单方捏造事实与双方恶意串通两种类型,需具备主体适格、虚构法律关系、主观恶意等构成要件。仲裁审理阶段,诚信原则是规制虚假仲裁的理论基础,但恶意串通型虚假仲裁存在举证难困境,且仲裁契约属性决定不宜引入强制第三人制度。司法审查阶段,依据《仲裁法》第71条中伪造证据、违背公共利益情形申请撤销和不予执行虚假仲裁裁决存在障碍,设立案外人撤销裁决制度有违仲裁裁决既判力的相对性,虚假仲裁行为应成为人民法院撤销和不予执行仲裁裁决的法定事由。法律责任方面,应依据《民法典》相关规定明确虚假仲裁的民事侵权赔偿责任;在刑法中增设虚假仲裁罪,填补刑事规制空白。
+							</div>
+							
+						</div>
+						
+						                	</li>
+                                                	  				
+	  					                <div class="articlesectionlisting">
+	                <a name="争鸣"></a>
+	                <div class=dbt_header>争鸣</div>
+	                </div>
+	                	                	                
+                	<li id="art3438" class="noselectrow">
+                		<div class="article-checkbox">
+							<INPUT id='thisart_3438' class=article_checkbox onclick="hightlightrowaction('art3438')" value='3438' alt=Select type=checkbox name=pid> 
+                  			<LABEL class=hidelabel for='thisart_3438'>Select</LABEL>
+						</div>
+						<div class="article-l article-w">
+							<span class="j-column">争鸣</span>
+								<div class="j-title-1">
+									<a href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/163">论违约责任中的与有过失规则</a> <iframe src="/EN/article/articleDownloadControl.do?articleId=3438"  width="15" height="13"  scrolling=no frameborder=0 allowtransparency="true"></iframe>
+								</div>
+							<div class="j-author">徐银波</div>
+							<div class="j-volumn-doi">
+								<span class="j-volumn">
+									2026(5): 163-175.
+								</span>
+															</div>
+							<div class="j-btn">
+								<a class="j-abs" href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/163"><i class="fa fa-file-text-o"></i> 摘要</a> (
+
+
+
+
+
+<span id="mag-getDinajiShu-3438"></span>
+<script>
+$("#mag-getDinajiShu-3438").load('/CN/article/getDianJiShu.jsp?articleid=3438&ajax=true');
+</script>
+	
+)
+																	<a class="j-pdf" href="javascript:;" onclick="lsdy1('PDF','3438');return false;">PDF全文</a> (
+
+
+
+
+	
+<span id="mag-getXiaZaiShu-3438"></span>
+<script>
+$("#mag-getXiaZaiShu-3438").load('/CN/article/getXiaZaiShu.jsp?articleid=3438&ajax=true');
+</script>
+	
+
+
+)
+																								<span class="richhtml">
+																</span>
+								<span class="knomap" id="span_visual_article_3438">
+									&nbsp;<img src="/images/knowledge_map.png" width="16" height="16" />
+									<a href="https://faxuejia.ruc.edu.cn/CN/lexeme/showArticleByLexeme.do?articleID=3438">可视化</a>
+	                            </span>
+								
+								<span class="shoucang">
+									&nbsp;<img src="/images/1005-0221/reb.png" width="16" height="16" />
+									<a href="javascript:;" onclick="collectArticle('3438');">
+										<span class="shouc">收藏</span>
+									</a>
+								</span>
+							</div>
+
+							<div class="j-abstract">
+								《民法典》在参考英美法系以严格责任为违约责任一般归责原则且设有减损规则的基础上,又参考大陆法系设置了债权人与有过失规则,有待体系性解释规则的适用。然而,既有理论大多照搬被侵权人与有过失规则的研究成果,部分裁判者基于对公平分担损失的朴素法感情认知而作出“和稀泥”的判决。对与有过失规则的解释,应采侵权责任与违约责任区分说。不同于侵权责任发生在不特定当事人之间及其法定性,违约责任发生在特定相对人之间且合同项下权利义务、损害分配具有意定性特征,因此,不应当脱离合同而对债权人的行为标准作统一要求,而应当以合同为基础界定及认定债权人的过错。债权人的过错指其未履行基于合同可以合理期待其实施的行为,主要包括违反承诺、不合作和疏于照顾自身利益。人民法院或仲裁机构应当考虑合同的性质及内容、合同主体类型及其交易经验、预防损害的成本与收益等因素,认定债权人是否存在过错。针对债权人在债务人违约之后的可归责行为,区分适用与有过失与减损规则的标准在于可否从债权人的全部损失中分割出由其中断因果关系所扩大的损失。
+							</div>
+							
+						</div>
+						
+						                	</li>
+                                                	  				
+	  					                
+                	<li id="art3439" class="noselectrow">
+                		<div class="article-checkbox">
+							<INPUT id='thisart_3439' class=article_checkbox onclick="hightlightrowaction('art3439')" value='3439' alt=Select type=checkbox name=pid> 
+                  			<LABEL class=hidelabel for='thisart_3439'>Select</LABEL>
+						</div>
+						<div class="article-l article-w">
+							<span class="j-column">争鸣</span>
+								<div class="j-title-1">
+									<a href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/176">执转破程序的职权主义启动问题:反思与纠偏</a> <iframe src="/EN/article/articleDownloadControl.do?articleId=3439"  width="15" height="13"  scrolling=no frameborder=0 allowtransparency="true"></iframe>
+								</div>
+							<div class="j-author">施啸波</div>
+							<div class="j-volumn-doi">
+								<span class="j-volumn">
+									2026(5): 176-189.
+								</span>
+															</div>
+							<div class="j-btn">
+								<a class="j-abs" href="https://faxuejia.ruc.edu.cn/CN/Y2026/V0/I5/176"><i class="fa fa-file-text-o"></i> 摘要</a> (
+
+
+
+
+
+<span id="mag-getDinajiShu-3439"></span>
+<script>
+$("#mag-getDinajiShu-3439").load('/CN/article/getDianJiShu.jsp?articleid=3439&ajax=true');
+</script>
+	
+)
+																	<a class="j-pdf" href="javascript:;" onclick="lsdy1('PDF','3439');return false;">PDF全文</a> (
+
+
+
+
+	
+<span id="mag-getXiaZaiShu-3439"></span>
+<script>
+$("#mag-getXiaZaiShu-3439").load('/CN/article/getXiaZaiShu.jsp?articleid=3439&ajax=true');
+</script>
+	
+
+
+)
+																								<span class="richhtml">
+																</span>
+								<span class="knomap" id="span_visual_article_3439">
+									&nbsp;<img src="/images/knowledge_map.png" width="16" height="16" />
+									<a href="https://faxuejia.ruc.edu.cn/CN/lexeme/showArticleByLexeme.do?articleID=3439">可视化</a>
+	                            </span>
+								
+								<span class="shoucang">
+									&nbsp;<img src="/images/1005-0221/reb.png" width="16" height="16" />
+									<a href="javascript:;" onclick="collectArticle('3439');">
+										<span class="shouc">收藏</span>
+									</a>
+								</span>
+							</div>
+
+							<div class="j-abstract">
+								我国理论与实务界不少观点认为,应当调整执转破程序启动的“当事人申请主义”和“法院征询主义”模式,改而采取有限的“职权主义启动模式”。“职权主义启动模式”容易忽视对执行当事人意思自治和利益诉求的程序保障,不仅难以实现解决“执行难”、“僵尸企业”出清等目标,而且还可能衍生新的程序运转难题,并存在损害执行当事人合法权益的制度风险,比较法上也欠缺相应的借鉴依据。在《企业破产法》修订过程中,就执转破程序的启动,仍应坚持“当事人申请主义”原则,辅之以“法院征询主义启动模式”的现行做法,并围绕前述程序启动基本模式,从申请人行为激励和个人破产、强制注销公司登记等配套制度方面进行优化。
+							</div>
+							
+						</div>
+						
+						                	</li>
+                                                    
+                </ul>
+            </section>
+			<!--当期 End-->
+        </div>
+        
+		<!--右部-->
+		
+
+<div class="col-md-3 m-right">
+
+	<ul class="office-menu">
+		<li><a href="http://faxuejia.ruc.edu.cn/journalx_fxj/authorLogOn.action" target="_blank">
+		<div class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-user"></span> 作者投稿查稿　</div>
+		</a></li>
+		<li><a href="http://faxuejia.ruc.edu.cn/journalx_fxj/editorLogOn.action" target="_blank">
+		<div class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-eye-open"></span> 责编审稿系统　</div>
+		</a></li>
+		<li><a href="http://faxuejia.ruc.edu.cn/journalx_fxj/editorLogOn.action" target="_blank">
+		<div class="btn btn-shadow journal-btn"><span class="fa fa-user-circle-o"></span> 副主编审稿系统</div>
+		</a></li>
+		<li><a href="http://faxuejia.ruc.edu.cn/journalx_fxj/editorInChiefLogOn.action" target="_blank">
+		<div class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-pencil"></span> 主编审稿系统　</div>
+		</a></li>
+		<li><a href="http://faxuejia.ruc.edu.cn/journalx_fxj/expertLogOn.action" target="_blank">
+		<div class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-education"></span> 专家审稿系统　</div>
+		</a></li>
+		<li><a href="http://faxuejia.ruc.edu.cn/journalx_fxj/editorLogOn.action" target="_blank">
+		<div class="btn btn-shadow journal-btn"><span class="glyphicon glyphicon-edit"></span> 编辑办公系统　</div>
+		</a></li>
+	</ul>
+	<aside class="aside">
+        <div class="column"><span class="pull-left"><i class="fa fa-volume-up"></i> 通知公告</span> <a href="https://faxuejia.ruc.edu.cn/CN/news/folder.do?folderId=3" class="more">更多</a></div>
+        <ul class="news-list">
+        <marquee onmouseover="this.stop()" onmouseout="this.start()" behavior="scroll" direction="up" scrollamount="1" scrolldelay="70" style="width: 98%; height: 200px;">
+          <div mag-component-type="ajaxPage" mag-page-url="https://faxuejia.ruc.edu.cn/CN/1005-0221/model/tongzhi.htm"></div>
+        </marquee>
+        </ul>
+    </aside>
+	<aside class="aside">
+        <div class="column">
+            <span class="pull-left"><i class="fa fa-book"></i> 版权信息</span>
+        </div>
+			<div style="text-align: left;padding:10px 15px;">
+				刊　　期：双月刊，1986创刊<br>
+				主管单位：中华人民共和国教育部<br>
+				主办单位：中国人民大学<br>
+				主　　编：王利明<br>
+				编辑出版：《法学家》杂志社<br>
+				ISSN 1005-0221<br>
+				CN 11-3212/D
+			</div>
+	</aside>
+    <aside class="aside">
+        <div class="column">
+            <span class="pull-left"><i class="fa fa-download"></i> 下载中心</span>
+            <a href="https://faxuejia.ruc.edu.cn/CN/column/7/items" class="more">更多</a>
+        </div>
+        <ul class="news-list">
+		                        		<li><a href="https://faxuejia.ruc.edu.cn/CN/item/downloadFile.do?id=5" class="news-title" target="_blank">本刊注释体例</a></li>
+                                </ul>
+    </aside>
+    
+    <aside class="aside">
+        <div class="column">
+            <span class="pull-left"><i class="fa fa-link"></i> 友情链接</span>
+            <a href="https://faxuejia.ruc.edu.cn/CN/column/10/items" class="more">更多</a>
+        </div>
+        <ul class="news-list">
+		                        		<li><a href="http://www.law.ruc.edu.cn/" class="news-title" target="_blank">中国人民大学法学院</a></li>
+                                        		<li><a href="http://www.fxcxw.org.cn/" class="news-title" target="_blank">中国法学创新网</a></li>
+                                        		<li><a href="http://www.cnki.net/" class="news-title" target="_blank">中国知网</a></li>
+                                        		<li><a href="http://www.pkulaw.cn" class="news-title" target="_blank">北大法宝</a></li>
+                                        		<li><a href="http://www.ruc.edu.cn/" class="news-title" target="_blank">中国人民大学</a></li>
+                                </ul>
+    </aside>
+	<aside class="aside">
+		<div class="column">
+			<span class="pull-left"><i class="fa fa-wechat"></i> 微信公众号</span>
+		</div>
+		<ul class="news-list">
+		<img src="https://faxuejia.ruc.edu.cn/images/1005-0221/images/wechat.png" class="img-responsive" style="width:200px;margin:0 auto;">
+        </ul>
+	</aside>
+	<aside>
+	<div class="column">
+        <span class="pull-left"><i class="fa fa-tasks"></i> 访问统计</span>
+    </div>
+	<ul class="news-list">
+	<script>record('24340e1f526e49679f772ee3b6353137')</script>   
+	总访问量：<span id="ipVisitsSum"></span><br>
+	今日访问：<span id="ipDaySum"></span><br>
+	在线人数：<span id="currentOnLine"></span>
+			</ul>
+	</aside>
+	
+</div>
+
+    </div>
+</div>
+
+<!--底部-->
+
+
+
+<footer class="footer">
+<div class="container">
+	<div class="row">
+			<div class="footer-info">
+				<p>
+				<a href="https://beian.miit.gov.cn" target="_blank">京ICP备05066828号</a><br>	                  版权所有 &copy; 《法学家》编辑部<br>
+					地址：北京市海淀区中关村大街59号中国人民大学明德法学楼503室　<br class="visible-xs">邮编：100872　<br>					电话：010 - 62514551/82509250　<br class="visible-xs">E-mail：faxuejiaruc@vip.163.com<br>					本系统由<a href="https://www.magtech.com.cn/" target="_blank">北京玛格泰克科技发展有限公司</a>设计开发
+
+				</p>
+			</div>
+
+	</div>
+</div>
+</footer>
+<!--返回顶部-->
+<div class="top_web" id="backtop" style="display:block;"> <span class="glyphicon glyphicon-menu-up"></span></div>
+<!--返回顶部end--> 
+
+
+</body>
+</HTML>

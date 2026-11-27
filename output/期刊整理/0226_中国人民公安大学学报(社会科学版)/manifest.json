@@ -1,0 +1,121 @@
+{
+  "journal": {
+    "name": "中国人民公安大学学报(社会科学版)",
+    "url": "https://gadx.cbpt.cnki.net/",
+    "journal_id": "",
+    "row": 227,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://gadx.cbpt.cnki.net/EditorGN/Quit.aspx",
+  "collected_at": "2026-11-26T20:58:44+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "gadx.cbpt.cnki.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://gadx.cbpt.cnki.net/EditorGN/Quit.aspx",
+      "requested_url": "https://gadx.cbpt.cnki.net/",
+      "title": "",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:58:44+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://gadx.cbpt.cnki.net/portal/journal/portal/client/index",
+      "requested_url": "https://gadx.cbpt.cnki.net/portal/journal/portal/client/index",
+      "title": "中国人民公安大学学报(社会科学版)",
+      "path": [
+        "官网入口",
+        "知网期刊首页"
+      ],
+      "visited_at": "2026-11-26T20:58:44+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://gadx.cbpt.cnki.net/portal/journal/portal/client/news/gadx_6ef6f47e-d9c1-4a6e-9ecf-bc8c34dafc96",
+      "requested_url": "https://gadx.cbpt.cnki.net/portal/journal/portal/client/news/gadx_6ef6f47e-d9c1-4a6e-9ecf-bc8c34dafc96",
+      "title": "投稿指南",
+      "path": [
+        "官网入口",
+        "知网期刊首页",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:58:44+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿指南",
+      "source_url": "https://gadx.cbpt.cnki.net/portal/journal/portal/client/news/gadx_6ef6f47e-d9c1-4a6e-9ecf-bc8c34dafc96",
+      "path": [
+        "官网入口",
+        "知网期刊首页",
+        "投稿指南"
+      ],
+      "local_path": "web/投稿指南_240dcaefde.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "中国人民公安大学学报(社会科学版)投稿格式",
+      "local_path": "中国人民公安大学学报(社会科学版)投稿格式.md",
+      "source_urls": [
+        "https://gadx.cbpt.cnki.net/portal/journal/portal/client/news/gadx_6ef6f47e-d9c1-4a6e-9ecf-bc8c34dafc96"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://gadx.cbpt.cnki.net/portal/journal/portal/client/download/gadx_54253c13-816a-4cda-85b4-048f7444fa78?title=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83",
+      "title": "下载中心",
+      "source_url": "https://gadx.cbpt.cnki.net/portal/journal/portal/client/news/gadx_6ef6f47e-d9c1-4a6e-9ecf-bc8c34dafc96",
+      "path": [
+        "官网入口",
+        "知网期刊首页",
+        "投稿指南",
+        "下载中心"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载中心"
+    },
+    {
+      "url": "https://gadx.cbpt.cnki.net/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://gadx.cbpt.cnki.net/",
+      "title": "中国人民公安大学学报(社会科学版)",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

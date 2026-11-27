@@ -1,0 +1,313 @@
+{
+  "journal": {
+    "name": "草原与草坪",
+    "url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/index.aspx?mid=cycp",
+    "journal_id": "",
+    "row": 221,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://cycp.cbpt.cnki.net/WKB/WebPublication/index.aspx?mid=cycp",
+  "collected_at": "2026-11-26T20:58:39+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "cycp.cbpt.cnki.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/index.aspx?mid=cycp",
+      "requested_url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/index.aspx?mid=cycp",
+      "title": "草原与草坪",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:58:39+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?navigationContentID=0a96be87-490b-49ff-90aa-bee7b5d1b2cc&mid=cycp",
+      "requested_url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?navigationContentID=0a96be87-490b-49ff-90aa-bee7b5d1b2cc&mid=cycp",
+      "title": "草原与草坪",
+      "path": [
+        "官网入口",
+        "投稿指南"
+      ],
+      "visited_at": "2026-11-26T20:58:39+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?contentID=1881a44f-baa7-42a5-ad83-7ba22abdbbbd&mid=cycp",
+      "requested_url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?contentID=1881a44f-baa7-42a5-ad83-7ba22abdbbbd&mid=cycp",
+      "title": "草原与草坪",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:58:39+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?contentID=c4438b04-0e64-46e2-8d91-d5681746756f&mid=cycp",
+      "requested_url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?contentID=c4438b04-0e64-46e2-8d91-d5681746756f&mid=cycp",
+      "title": "草原与草坪",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:58:39+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?contentID=e3b21e45-5a98-425b-9e90-272e1d2330ce&mid=cycp",
+      "requested_url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?contentID=e3b21e45-5a98-425b-9e90-272e1d2330ce&mid=cycp",
+      "title": "草原与草坪",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:58:39+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?contentID=c4438b04-0e64-46e2-8d91-d5681746756f",
+      "requested_url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?contentID=c4438b04-0e64-46e2-8d91-d5681746756f",
+      "title": "草原与草坪",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:58:39+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?contentID=e3b21e45-5a98-425b-9e90-272e1d2330ce",
+      "requested_url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?contentID=e3b21e45-5a98-425b-9e90-272e1d2330ce",
+      "title": "草原与草坪",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:58:39+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?contentID=1881a44f-baa7-42a5-ad83-7ba22abdbbbd",
+      "requested_url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?contentID=1881a44f-baa7-42a5-ad83-7ba22abdbbbd",
+      "title": "草原与草坪",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:58:39+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkList.aspx?columnID=e3c1e4a4-c1e2-424c-8ead-cc0551dcde0b",
+      "requested_url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkList.aspx?columnID=e3c1e4a4-c1e2-424c-8ead-cc0551dcde0b",
+      "title": "草原与草坪",
+      "path": [
+        "官网入口",
+        "公告栏"
+      ],
+      "visited_at": "2026-11-26T20:58:39+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkList.aspx?columnID=eaf499e4-5e56-4b65-bf00-a5305c9c5eaf",
+      "requested_url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkList.aspx?columnID=eaf499e4-5e56-4b65-bf00-a5305c9c5eaf",
+      "title": "草原与草坪",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "visited_at": "2026-11-26T20:58:39+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkList.aspx?columnID=e3c1e4a4-c1e2-424c-8ead-cc0551dcde0b&navigationID=&pageindex=1",
+      "requested_url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkList.aspx?columnID=e3c1e4a4-c1e2-424c-8ead-cc0551dcde0b&navigationID=&pageindex=1",
+      "title": "草原与草坪",
+      "path": [
+        "官网入口",
+        "公告栏",
+        "末页"
+      ],
+      "visited_at": "2026-11-26T20:58:39+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkList.aspx?columnID=eaf499e4-5e56-4b65-bf00-a5305c9c5eaf&navigationID=&pageindex=1",
+      "requested_url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkList.aspx?columnID=eaf499e4-5e56-4b65-bf00-a5305c9c5eaf&navigationID=&pageindex=1",
+      "title": "草原与草坪",
+      "path": [
+        "官网入口",
+        "下载中心",
+        "末页"
+      ],
+      "visited_at": "2026-11-26T20:58:39+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "草原与草坪",
+      "source_url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?contentID=1881a44f-baa7-42a5-ad83-7ba22abdbbbd&mid=cycp",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "local_path": "web/草原与草坪_223a3a2786.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "草原与草坪",
+      "source_url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?contentID=c4438b04-0e64-46e2-8d91-d5681746756f&mid=cycp",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "local_path": "web/草原与草坪_3573ae49b2.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "草原与草坪",
+      "source_url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?contentID=e3b21e45-5a98-425b-9e90-272e1d2330ce&mid=cycp",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "local_path": "web/草原与草坪_1833f8c4db.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "草原与草坪",
+      "source_url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?contentID=c4438b04-0e64-46e2-8d91-d5681746756f",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "投稿须知"
+      ],
+      "local_path": "web/草原与草坪_9b8d286338.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "草原与草坪",
+      "source_url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?contentID=e3b21e45-5a98-425b-9e90-272e1d2330ce",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "投稿须知"
+      ],
+      "local_path": "web/草原与草坪_514c480f97.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "草原与草坪",
+      "source_url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?contentID=1881a44f-baa7-42a5-ad83-7ba22abdbbbd",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "投稿须知"
+      ],
+      "local_path": "web/草原与草坪_37888564d3.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "草原与草坪投稿格式",
+      "local_path": "草原与草坪投稿格式.md",
+      "source_urls": [
+        "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?contentID=1881a44f-baa7-42a5-ad83-7ba22abdbbbd&mid=cycp",
+        "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?contentID=c4438b04-0e64-46e2-8d91-d5681746756f&mid=cycp",
+        "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?contentID=e3b21e45-5a98-425b-9e90-272e1d2330ce&mid=cycp",
+        "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?contentID=c4438b04-0e64-46e2-8d91-d5681746756f",
+        "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?contentID=e3b21e45-5a98-425b-9e90-272e1d2330ce",
+        "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkTextContent.aspx?contentID=1881a44f-baa7-42a5-ad83-7ba22abdbbbd"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/index.aspx?mid=cycp",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkList.aspx?columnID=eaf499e4-5e56-4b65-bf00-a5305c9c5eaf",
+      "title": "下载中心",
+      "source_url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/index.aspx?mid=cycp",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": "下载中心 更多>>"
+    },
+    {
+      "url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkList.aspx?columnID=eaf499e4-5e56-4b65-bf00-a5305c9c5eaf&navigationID=&pageindex=1",
+      "title": "末页",
+      "source_url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/wkList.aspx?columnID=eaf499e4-5e56-4b65-bf00-a5305c9c5eaf",
+      "path": [
+        "官网入口",
+        "下载中心",
+        "末页"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": "末页"
+    },
+    {
+      "url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/index.aspx?mid=cycp",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://cycp.cbpt.cnki.net/WKB/WebPublication/index.aspx?mid=cycp",
+      "title": "草原与草坪",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

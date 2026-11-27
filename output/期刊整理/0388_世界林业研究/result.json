@@ -1,0 +1,31 @@
+{
+  "index": 388,
+  "journal": "世界林业研究",
+  "url": "https://journals.caf.ac.cn/sjlyyj/",
+  "source_sheet": "可打开",
+  "source_row": 389,
+  "started_at": "2026-11-26T21:00:43+08:00",
+  "finished_at": "2026-11-26T21:00:58+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 3,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST network-policies 返回 HTTP 422"
+  ],
+  "manifest": "0388_世界林业研究/manifest.json",
+  "pages": 1,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 5,
+  "pending_reasons": [
+    "browser_use_failed",
+    "no_valid_word_or_pdf",
+    "page_fetch_failed"
+  ]
+}

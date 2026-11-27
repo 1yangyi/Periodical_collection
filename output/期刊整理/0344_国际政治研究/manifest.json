@@ -1,0 +1,118 @@
+{
+  "journal": {
+    "name": "国际政治研究",
+    "url": "https://www.jis.pku.edu.cn/",
+    "journal_id": "",
+    "row": 345,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.jis.pku.edu.cn/",
+  "collected_at": "2026-11-26T20:59:56+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.jis.pku.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.jis.pku.edu.cn/",
+      "requested_url": "https://www.jis.pku.edu.cn/",
+      "title": "国际政治研究",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:56+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.jis.pku.edu.cn/Zhushi1407/1104743cn61951382765.htm",
+      "requested_url": "https://www.jis.pku.edu.cn/Zhushi1407/1104743cn61951382765.htm",
+      "title": "《国际政治研究》写作规范",
+      "path": [
+        "官网入口",
+        "注释体例"
+      ],
+      "visited_at": "2026-11-26T20:59:56+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.jis.pku.edu.cn/tgxz/index.htm",
+      "requested_url": "https://www.jis.pku.edu.cn/tgxz/index.htm",
+      "title": "投稿须知",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:59:56+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "《国际政治研究》写作规范",
+      "source_url": "https://www.jis.pku.edu.cn/Zhushi1407/1104743cn61951382765.htm",
+      "path": [
+        "官网入口",
+        "注释体例"
+      ],
+      "local_path": "web/《国际政治研究》写作规范_dabceb0bb7.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage",
+      "title": "投稿须知",
+      "source_url": "https://www.jis.pku.edu.cn/tgxz/index.htm",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "local_path": "web/投稿须知_4ea611b249.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "国际政治研究投稿格式",
+      "local_path": "国际政治研究投稿格式.md",
+      "source_urls": [
+        "https://www.jis.pku.edu.cn/Zhushi1407/1104743cn61951382765.htm",
+        "https://www.jis.pku.edu.cn/tgxz/index.htm"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://www.jis.pku.edu.cn/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://www.jis.pku.edu.cn/",
+      "title": "国际政治研究",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

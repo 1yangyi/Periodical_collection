@@ -1,0 +1,32 @@
+{
+  "index": 133,
+  "journal": "华中农业大学学报(社会科学版)",
+  "url": "https://qks.hzau.edu.cn/qkdh/xbskb.htm",
+  "source_sheet": "可打开",
+  "source_row": 134,
+  "started_at": "2026-11-26T20:57:19+08:00",
+  "finished_at": "2026-11-26T20:57:49+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 16,
+    "artifacts": 2,
+    "pending": 11,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST runs 返回 HTTP 402"
+  ],
+  "manifest": "0133_华中农业大学学报(社会科学版)/manifest.json",
+  "pages": 16,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 1,
+  "pending_count": 13,
+  "pending_reasons": [
+    "browser_use_failed",
+    "depth_limit",
+    "needs_review",
+    "no_valid_word_or_pdf"
+  ]
+}

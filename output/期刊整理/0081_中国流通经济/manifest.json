@@ -1,0 +1,52 @@
+{
+  "journal": {
+    "name": "中国流通经济",
+    "url": "https://zglt.cbpt.cnki.net/EditorB3N/PromptPageInfo.aspx?t=v&c=1",
+    "journal_id": "",
+    "row": 82,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://zglt.cbpt.cnki.net/EditorB3N/PromptPageInfo.aspx?t=v&c=1",
+  "collected_at": "2026-11-26T20:50:02+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "zglt.cbpt.cnki.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://zglt.cbpt.cnki.net/EditorB3N/PromptPageInfo.aspx?t=v&c=1",
+      "requested_url": "https://zglt.cbpt.cnki.net/EditorB3N/PromptPageInfo.aspx?t=v&c=1",
+      "title": "投稿须知",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:50:02+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://zglt.cbpt.cnki.net/EditorB3N/PromptPageInfo.aspx?t=v&c=1",
+      "title": "中国流通经济",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "journal": {
+    "name": "摩擦学学报(中英文)",
+    "url": "https://ebook.xml-journal.net/mcxxb/2025/4/files/basic-html/page150.html",
+    "journal_id": "",
+    "row": 153,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://ebook.xml-journal.net/mcxxb/2025/4/files/basic-html/page150.html",
+  "collected_at": "2026-11-26T20:57:37+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "ebook.xml-journal.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://ebook.xml-journal.net/mcxxb/2025/4/files/basic-html/page150.html",
+      "requested_url": "https://ebook.xml-journal.net/mcxxb/2025/4/files/basic-html/page150.html",
+      "title": "Page 150 - 摩擦学学报2025年第4期",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:57:37+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://ebook.xml-journal.net/mcxxb/2025/4/files/basic-html/page150.html",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://ebook.xml-journal.net/mcxxb/2025/4/files/basic-html/page150.html",
+      "title": "摩擦学学报(中英文)",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

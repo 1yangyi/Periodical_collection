@@ -1,0 +1,117 @@
+{
+  "journal": {
+    "name": "医学与哲学",
+    "url": "https://yizhe.dmu.edu.cn/",
+    "journal_id": "",
+    "row": 24,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "completed",
+  "homepage_resolved": "https://yizhe.dmu.edu.cn/",
+  "collected_at": "2026-11-26T20:41:07+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "yizhe.dmu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://yizhe.dmu.edu.cn/",
+      "requested_url": "https://yizhe.dmu.edu.cn/",
+      "title": "导出文件",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:41:07+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://yizhe.dmu.edu.cn/yxyzx/tougaoshuoming",
+      "requested_url": "https://yizhe.dmu.edu.cn/yxyzx/tougaoshuoming",
+      "title": "医学与哲学",
+      "path": [
+        "首页",
+        "投稿指南",
+        "投稿说明"
+      ],
+      "visited_at": "2026-11-26T20:41:07+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "attachment",
+      "format": "pdf",
+      "title": "稿约（PDF）",
+      "local_path": "attachments/202282311720234_aeb709ec13.pdf",
+      "sha256": "aeb709ec13efbe13cde40c1eb47060b05744b763a5aa82feb0b79a4bc8bfa4d8",
+      "bytes": 270066,
+      "sources": [
+        {
+          "source_url": "https://yizhe.dmu.edu.cn/",
+          "download_url": "https://yizhe.dmu.edu.cn/dlykdx-upload/news/yxyzx/202282311720234.pdf",
+          "resolved_url": "https://yizhe.dmu.edu.cn/dlykdx-upload/news/yxyzx/202282311720234.pdf",
+          "path": [
+            "首页",
+            "下载中心",
+            "稿约"
+          ],
+          "label": "稿约（PDF）",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    },
+    {
+      "type": "attachment",
+      "format": "docx",
+      "title": "论文模板（DOCX）",
+      "local_path": "attachments/202448131956641_d2678ef88b.docx",
+      "sha256": "d2678ef88b6b51bed283cab41591e22d28ca4d9f34a7cb2db79cc271c3ab9e44",
+      "bytes": 56849,
+      "sources": [
+        {
+          "source_url": "https://yizhe.dmu.edu.cn/",
+          "download_url": "https://yizhe.dmu.edu.cn/dlykdx-upload/news/yxyzx/202448131956641.docx",
+          "resolved_url": "https://yizhe.dmu.edu.cn/dlykdx-upload/news/yxyzx/202448131956641.docx",
+          "path": [
+            "首页",
+            "下载中心",
+            "论文模板"
+          ],
+          "label": "论文模板（DOCX）",
+          "context": "",
+          "source_published_at": ""
+        }
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://yizhe.dmu.edu.cn/yxyzx/tougaoshuoming",
+      "title": "投稿说明（投稿方式、用稿原则；指出格式要求参考下载中心《稿约》《论文模版》）",
+      "source_url": "https://yizhe.dmu.edu.cn/",
+      "path": [
+        "首页",
+        "投稿指南",
+        "投稿说明"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    }
+  ]
+}

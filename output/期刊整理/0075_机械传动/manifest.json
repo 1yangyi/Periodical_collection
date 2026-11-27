@@ -1,0 +1,145 @@
+{
+  "journal": {
+    "name": "机械传动",
+    "url": "https://www.jxcd.net.cn/zh/home/",
+    "journal_id": "",
+    "row": 76,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.jxcd.net.cn/zh/home/",
+  "collected_at": "2026-11-26T20:48:46+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.jxcd.net.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.jxcd.net.cn/zh/home/",
+      "requested_url": "https://www.jxcd.net.cn/zh/home/",
+      "title": "热点聚焦",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:48:46+08:00",
+      "published_at": "2026-11-17"
+    },
+    {
+      "url": "https://www.jxcd.net.cn/zh/info/8748/",
+      "requested_url": "http://www.jxcd.net.cn/zh/info/8748/",
+      "title": "投稿须知 - 机械传动",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:48:46+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.jxcd.net.cn/zh/newsInfo/9140/0/",
+      "requested_url": "http://www.jxcd.net.cn/zh/newsInfo/9140/0/",
+      "title": "通知公告 - 机械传动",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:48:46+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.jxcd.net.cn/download?columnId=6574&columnName=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83&index=3&parentIndex=3&bannerId=null&code=download&newsDataType=&newCompositeId=8723&childId=",
+      "requested_url": "https://www.jxcd.net.cn/download?columnId=6574&columnName=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83&index=3&parentIndex=3&bannerId=null&code=download&newsDataType=&newCompositeId=8723&childId=",
+      "title": "下载中心",
+      "path": [
+        "首页",
+        "投稿指南",
+        "下载中心"
+      ],
+      "visited_at": "2026-11-26T20:48:46+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "投稿须知 - 机械传动",
+      "source_url": "https://www.jxcd.net.cn/zh/info/8748/",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "local_path": "web/投稿须知 - 机械传动_9ad7a82487.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "机械传动投稿格式",
+      "local_path": "机械传动投稿格式.md",
+      "source_urls": [
+        "https://www.jxcd.net.cn/zh/info/8748/"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://www.jxcd.net.cn/zh/home/",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "needs_review",
+      "detail": "检测到待操作的动态投稿栏目",
+      "context": ""
+    },
+    {
+      "url": "http://www.jxcd.net.cn/download?columnId=6574&columnName=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83&index=3&parentIndex=3&bannerId=null&code=download&newsDataType=&newCompositeId=8723&childId=",
+      "title": "下载中心",
+      "source_url": "https://www.jxcd.net.cn/zh/info/8748/",
+      "path": [
+        "官网入口",
+        "投稿须知",
+        "下载中心"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载中心"
+    },
+    {
+      "url": "http://www.jxcd.net.cn/download?columnId=6574&columnName=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83&index=3&parentIndex=3&bannerId=null&code=download&newsDataType=&newCompositeId=8723&childId=",
+      "title": "下载中心",
+      "source_url": "https://www.jxcd.net.cn/zh/newsInfo/9140/0/",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "下载中心"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "下载中心"
+    },
+    {
+      "url": "https://www.jxcd.net.cn/zh/home/",
+      "title": "机械传动",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

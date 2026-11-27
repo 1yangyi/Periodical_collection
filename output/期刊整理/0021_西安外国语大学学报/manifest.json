@@ -1,0 +1,110 @@
+{
+  "journal": {
+    "name": "西安外国语大学学报",
+    "url": "https://xwxb.xisu.edu.cn/",
+    "journal_id": "",
+    "row": 22,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://xwxb.xisu.edu.cn/",
+  "collected_at": "2026-11-26T20:40:57+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "xwxb.xisu.edu.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://xwxb.xisu.edu.cn/",
+      "requested_url": "https://xwxb.xisu.edu.cn/",
+      "title": "西安外国语大学学报编辑部官网主页,网站制作技术支持：新势力网络",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:40:57+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://xwxb.xisu.edu.cn/info/1187/3063.htm",
+      "requested_url": "https://xwxb.xisu.edu.cn/info/1187/3063.htm",
+      "title": "【征稿启事】英文辑刊Translation and International Communication专辑征稿-西安外国语大学学报编辑部官网主页,网站制作技术支持：新势力网络",
+      "path": [
+        "官网入口",
+        "【征稿启事】英文辑刊Translation and International Communication专辑征稿"
+      ],
+      "visited_at": "2026-11-26T20:40:57+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://xwxb.xisu.edu.cn/tzgg/tzgg.htm",
+      "requested_url": "https://xwxb.xisu.edu.cn/tzgg/tzgg.htm",
+      "title": "通知公告-西安外国语大学学报编辑部官网主页,网站制作技术支持：新势力网络",
+      "path": [
+        "官网入口",
+        "【征稿启事】英文辑刊Translation and International Communication专辑征稿",
+        "> 通知公告"
+      ],
+      "visited_at": "2026-11-26T20:40:57+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://xwxb.xisu.edu.cn/tzgg/tzgg/1.htm",
+      "requested_url": "https://xwxb.xisu.edu.cn/tzgg/tzgg/1.htm",
+      "title": "通知公告-西安外国语大学学报编辑部官网主页,网站制作技术支持：新势力网络",
+      "path": [
+        "官网入口",
+        "【征稿启事】英文辑刊Translation and International Communication专辑征稿",
+        "> 通知公告",
+        "2"
+      ],
+      "visited_at": "2026-11-26T20:40:57+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "webpage",
+      "title": "【征稿启事】英文辑刊Translation and International Communication专辑征稿-西安外国语大学学报编辑部官网主页,网站制作技术支持：新势力网络",
+      "source_url": "https://xwxb.xisu.edu.cn/info/1187/3063.htm",
+      "path": [
+        "官网入口",
+        "【征稿启事】英文辑刊Translation and International Communication专辑征稿"
+      ],
+      "local_path": "web/【征稿启事】英文辑刊Translation and International Communication专辑征稿-西安外国语大学学报编辑部_8000612067.html",
+      "status": "saved",
+      "published_at": ""
+    },
+    {
+      "type": "webpage_text",
+      "title": "西安外国语大学学报投稿格式",
+      "local_path": "西安外国语大学学报投稿格式.md",
+      "source_urls": [
+        "https://xwxb.xisu.edu.cn/info/1187/3063.htm"
+      ],
+      "status": "saved"
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://xwxb.xisu.edu.cn/",
+      "title": "西安外国语大学学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

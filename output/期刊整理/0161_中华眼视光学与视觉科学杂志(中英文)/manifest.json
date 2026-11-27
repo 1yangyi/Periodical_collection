@@ -1,0 +1,156 @@
+{
+  "journal": {
+    "name": "中华眼视光学与视觉科学杂志(中英文)",
+    "url": "https://www.wzeye.cn/category/283-1.html",
+    "journal_id": "",
+    "row": 162,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.wzeye.cn/category/283-1.html",
+  "collected_at": "2026-11-26T20:57:44+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.cjoovs.com",
+      "www.wzeye.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.wzeye.cn/category/283-1.html",
+      "requested_url": "https://www.wzeye.cn/category/283-1.html",
+      "title": "中华眼视光学与视觉科学杂志_温州医科大学附属眼视光医院",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:57:44+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cjoovs.com/",
+      "requested_url": "http://www.cjoovs.com/",
+      "title": "http://www.cjoovs.com",
+      "path": [
+        "官网入口",
+        "http://www.cjoovs.com"
+      ],
+      "visited_at": "2026-11-26T20:57:44+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.wzeye.cn/category/33-1.html",
+      "requested_url": "https://www.wzeye.cn/category/33-1.html",
+      "title": "采购信息_温州医科大学附属眼视光医院",
+      "path": [
+        "官网入口",
+        "通知公告"
+      ],
+      "visited_at": "2026-11-26T20:57:44+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.wzeye.cn/category/33-2.html",
+      "requested_url": "https://www.wzeye.cn/category/33-2.html",
+      "title": "采购信息_温州医科大学附属眼视光医院",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "2"
+      ],
+      "visited_at": "2026-11-26T20:57:44+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.wzeye.cn/category/33-3.html",
+      "requested_url": "https://www.wzeye.cn/category/33-3.html",
+      "title": "采购信息_温州医科大学附属眼视光医院",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "3"
+      ],
+      "visited_at": "2026-11-26T20:57:44+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.wzeye.cn/category/33-4.html",
+      "requested_url": "https://www.wzeye.cn/category/33-4.html",
+      "title": "采购信息_温州医科大学附属眼视光医院",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "4"
+      ],
+      "visited_at": "2026-11-26T20:57:44+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.wzeye.cn/category/33-5.html",
+      "requested_url": "https://www.wzeye.cn/category/33-5.html",
+      "title": "采购信息_温州医科大学附属眼视光医院",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "5"
+      ],
+      "visited_at": "2026-11-26T20:57:44+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.wzeye.cn/category/33-6.html",
+      "requested_url": "https://www.wzeye.cn/category/33-6.html",
+      "title": "采购信息_温州医科大学附属眼视光医院",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "6"
+      ],
+      "visited_at": "2026-11-26T20:57:44+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.wzeye.cn/category/33-13.html",
+      "requested_url": "https://www.wzeye.cn/category/33-13.html",
+      "title": "采购信息_温州医科大学附属眼视光医院",
+      "path": [
+        "官网入口",
+        "通知公告",
+        "13"
+      ],
+      "visited_at": "2026-11-26T20:57:44+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.wzeye.cn/category/283-1.html",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://www.wzeye.cn/category/283-1.html",
+      "title": "中华眼视光学与视觉科学杂志(中英文)",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "journal": {
+    "name": "水土保持学报",
+    "url": "https://www.stbcxb.com.cn/",
+    "journal_id": "",
+    "row": 210,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.stbcxb.com.cn/zh/home/",
+  "collected_at": "2026-11-26T20:58:27+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "stbcxb.com.cn",
+      "www.stbcxb.com.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.stbcxb.com.cn/zh/home/",
+      "requested_url": "https://www.stbcxb.com.cn/",
+      "title": "快捷入口",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:58:27+08:00",
+      "published_at": "2026-10-21"
+    },
+    {
+      "url": "https://www.stbcxb.com.cn/zh/info/16499/",
+      "requested_url": "http://www.stbcxb.com.cn/zh/info/16499/",
+      "title": "投稿须知 - 水土保持学报",
+      "path": [
+        "官网入口",
+        "投稿须知"
+      ],
+      "visited_at": "2026-11-26T20:58:27+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.stbcxb.com.cn/zh/newsInfo/16504/0/",
+      "requested_url": "http://www.stbcxb.com.cn/zh/newsInfo/16504/0/",
+      "title": "下载中心 - 水土保持学报",
+      "path": [
+        "官网入口",
+        "下载中心"
+      ],
+      "visited_at": "2026-11-26T20:58:27+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://mp.weixin.qq.com/s/L5ARhCJeDmkLOt3ULGhr1A",
+      "title": "《水土保持学报》“黑土地保护与可持续利用”专栏征稿启事",
+      "source_url": "https://www.stbcxb.com.cn/zh/newsInfo/16504/0/",
+      "path": [
+        "官网入口",
+        "下载中心",
+        "《水土保持学报》“黑土地保护与可持续利用”专栏征稿启事"
+      ],
+      "reason": "unverified_host",
+      "detail": "",
+      "context": "《水土保持学报》“黑土地保护与可持续利用”专栏征稿启事 2025-07-22 11"
+    },
+    {
+      "url": "https://www.stbcxb.com.cn/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST runs 返回 HTTP 402",
+      "context": ""
+    },
+    {
+      "url": "https://www.stbcxb.com.cn/",
+      "title": "水土保持学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

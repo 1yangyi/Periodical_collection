@@ -1,0 +1,61 @@
+{
+  "journal": {
+    "name": "工程热物理学报",
+    "url": "https://www.cset.org.cn/a349.html",
+    "journal_id": "",
+    "row": 313,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "",
+  "collected_at": "2026-11-26T20:59:34+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.cset.org.cn"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "https://www.cset.org.cn/a349.html",
+      "title": "",
+      "source_url": "",
+      "path": [
+        "官网入口"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "HTTPSConnectionPool(host='www.cset.org.cn', port=443): Max retries exceeded with url: /a349.html (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.cset.org.cn', port=443): Read timed out. (read timeout=15)\"))",
+      "context": ""
+    },
+    {
+      "url": "https://www.cset.org.cn/a349.html",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://www.cset.org.cn/a349.html",
+      "title": "工程热物理学报",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

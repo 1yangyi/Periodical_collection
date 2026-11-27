@@ -1,0 +1,31 @@
+{
+  "index": 128,
+  "journal": "深空探测学报(中英文)",
+  "url": "https://jdse.bit.edu.cn/sktcxb/",
+  "source_sheet": "可打开",
+  "source_row": 129,
+  "started_at": "2026-11-26T20:57:08+08:00",
+  "finished_at": "2026-11-26T20:57:27+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 3,
+    "artifacts": 0,
+    "pending": 3,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST runs 返回 HTTP 402"
+  ],
+  "manifest": "0128_深空探测学报(中英文)/manifest.json",
+  "pages": 3,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 5,
+  "pending_reasons": [
+    "browser_use_failed",
+    "needs_review",
+    "no_valid_word_or_pdf"
+  ]
+}

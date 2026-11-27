@@ -1,0 +1,31 @@
+{
+  "index": 223,
+  "journal": "宏观质量研究",
+  "url": "http://hgly.cbpt.cnki.net/",
+  "source_sheet": "可打开",
+  "source_row": 224,
+  "started_at": "2026-11-26T20:58:42+08:00",
+  "finished_at": "2026-11-26T20:58:58+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 5,
+    "artifacts": 1,
+    "pending": 3,
+    "has_original": false
+  },
+  "browser_use_errors": [
+    "Browser Use API POST network-policies 返回 HTTP 422"
+  ],
+  "manifest": "0223_宏观质量研究/manifest.json",
+  "pages": 5,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 1,
+  "pending_count": 5,
+  "pending_reasons": [
+    "browser_use_failed",
+    "needs_review",
+    "no_valid_word_or_pdf"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "journal": {
+    "name": "探索",
+    "url": "https://www.cqdx.gov.cn/web/column/col5009029.html",
+    "journal_id": "",
+    "row": 321,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "https://www.cqdx.gov.cn/web/column/col5009029.html",
+  "collected_at": "2026-11-26T20:59:39+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.cqdx.gov.cn",
+      "www.tszzs.net"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "https://www.cqdx.gov.cn/web/column/col5009029.html",
+      "requested_url": "https://www.cqdx.gov.cn/web/column/col5009029.html",
+      "title": "探索网-中共重庆市委党校(重庆行政学院)",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T20:59:39+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cqdx.gov.cn/web/column/col5008805.html",
+      "requested_url": "https://www.cqdx.gov.cn/web/column/col5008805.html",
+      "title": "探索网-中共重庆市委党校(重庆行政学院)",
+      "path": [
+        "官网入口",
+        "资料下载"
+      ],
+      "visited_at": "2026-11-26T20:59:39+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "https://www.cqdx.gov.cn/web/column/col5008805_2.html",
+      "requested_url": "https://www.cqdx.gov.cn/web/column/col5008805_2.html",
+      "title": "探索网-中共重庆市委党校(重庆行政学院)",
+      "path": [
+        "官网入口",
+        "资料下载",
+        "2"
+      ],
+      "visited_at": "2026-11-26T20:59:39+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "http://www.tszzs.net/wkg/WebPublication/index.aspx?mid=suta",
+      "title": "http://www.tszzs.net/wkg/WebPublication/index.aspx?mid=suta",
+      "source_url": "https://www.cqdx.gov.cn/web/column/col5009029.html",
+      "path": [
+        "官网入口",
+        "http://www.tszzs.net/wkg/WebPublication/index.aspx?mid=suta"
+      ],
+      "reason": "page_fetch_failed",
+      "detail": "HTTPConnectionPool(host='www.tszzs.net', port=80): Max retries exceeded with url: /wkg/WebPublication/index.aspx?mid=suta (Caused by ReadTimeoutError(\"HTTPConnectionPool(host='www.tszzs.net', port=80): Read timed out. (read timeout=15)\"))",
+      "context": "杂志网站： http://www.tszzs.net/wkg/WebPublication/index.aspx?mid=suta"
+    },
+    {
+      "url": "https://www.cqdx.gov.cn/web/column/col5009029.html",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://www.cqdx.gov.cn/web/column/col5009029.html",
+      "title": "探索",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

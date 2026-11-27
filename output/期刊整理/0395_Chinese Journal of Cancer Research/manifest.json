@@ -1,0 +1,163 @@
+{
+  "journal": {
+    "name": "Chinese Journal of Cancer Research",
+    "url": "https://www.cjcrcn.org/",
+    "journal_id": "",
+    "row": 396,
+    "extra_hosts": [],
+    "extra_urls": []
+  },
+  "status": "uncompleted",
+  "homepage_resolved": "http://www.cjcrcn.org/",
+  "collected_at": "2026-11-26T21:00:51+08:00",
+  "scope": {
+    "allowed_hosts": [
+      "www.cjcrcn.org"
+    ],
+    "limits": {
+      "max_pages": 30,
+      "max_depth": 3,
+      "max_downloads": 25,
+      "timeout": 15,
+      "delay": 0.4,
+      "max_bytes": 31457280,
+      "use_playwright": false,
+      "use_browser_use": true
+    }
+  },
+  "pages": [
+    {
+      "url": "http://www.cjcrcn.org/",
+      "requested_url": "https://www.cjcrcn.org/",
+      "title": "Home - Chinese Journal of Cancer Research",
+      "path": [
+        "官网入口"
+      ],
+      "visited_at": "2026-11-26T21:00:51+08:00",
+      "published_at": ""
+    },
+    {
+      "url": "http://www.cjcrcn.org/announcements.html",
+      "requested_url": "http://www.cjcrcn.org/announcements.html",
+      "title": "2025 Impact Factor of CJCR: 6.7",
+      "path": [
+        "官网入口",
+        "Announcements"
+      ],
+      "visited_at": "2026-11-26T21:00:51+08:00",
+      "published_at": ""
+    }
+  ],
+  "artifacts": [],
+  "pending": [
+    {
+      "url": "http://www.cjcrcn.org/data/down/advert.pdf",
+      "title": "Advert",
+      "source_url": "http://www.cjcrcn.org/announcements.html",
+      "path": [
+        "官网入口",
+        "Announcements",
+        "Advert"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Advert"
+    },
+    {
+      "url": "http://www.cjcrcn.org/data/down/Subscription.pdf",
+      "title": "Subscription",
+      "source_url": "http://www.cjcrcn.org/announcements.html",
+      "path": [
+        "官网入口",
+        "Announcements",
+        "Subscription"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Subscription"
+    },
+    {
+      "url": "http://www.cjcrcn.org/data/down/Author_Instruction.pdf",
+      "title": "Author Instruction",
+      "source_url": "http://www.cjcrcn.org/announcements.html",
+      "path": [
+        "官网入口",
+        "Announcements",
+        "Author Instruction"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Author Instruction"
+    },
+    {
+      "url": "http://www.cjcrcn.org/data/down/CJCR_2024_Publication_Ethics_and_Publication_Malpractice_Statement.pdf",
+      "title": "Publication Ethics",
+      "source_url": "http://www.cjcrcn.org/announcements.html",
+      "path": [
+        "官网入口",
+        "Announcements",
+        "Publication Ethics"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Publication Ethics"
+    },
+    {
+      "url": "http://www.cjcrcn.org/data/down/CJCR-copyright-transfer-statement.pdf",
+      "title": "Copyright Transfer",
+      "source_url": "http://www.cjcrcn.org/announcements.html",
+      "path": [
+        "官网入口",
+        "Announcements",
+        "Copyright Transfer"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Copyright Transfer"
+    },
+    {
+      "url": "http://www.cjcrcn.org/data/down/Data-Sharing-Policy.docx",
+      "title": "Data Sharing Policy",
+      "source_url": "http://www.cjcrcn.org/announcements.html",
+      "path": [
+        "官网入口",
+        "Announcements",
+        "Data Sharing Policy"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Data Sharing Policy"
+    },
+    {
+      "url": "http://www.cjcrcn.org/data/down/Subscription.pdf?v=1",
+      "title": "Subscription",
+      "source_url": "http://www.cjcrcn.org/announcements.html",
+      "path": [
+        "官网入口",
+        "Announcements",
+        "Subscription"
+      ],
+      "reason": "needs_review",
+      "detail": "",
+      "context": "Subscription"
+    },
+    {
+      "url": "https://www.cjcrcn.org/",
+      "title": "Browser Use",
+      "source_url": "",
+      "path": [],
+      "reason": "browser_use_failed",
+      "detail": "Browser Use API POST network-policies 返回 HTTP 422",
+      "context": ""
+    },
+    {
+      "url": "https://www.cjcrcn.org/",
+      "title": "Chinese Journal of Cancer Research",
+      "source_url": "",
+      "path": [],
+      "reason": "no_valid_word_or_pdf",
+      "detail": "未发现已成功验证的相关 Word 或 PDF 原件",
+      "context": ""
+    }
+  ]
+}

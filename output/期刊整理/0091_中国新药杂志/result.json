@@ -1,0 +1,27 @@
+{
+  "index": 91,
+  "journal": "中国新药杂志",
+  "url": "https://castjournals.cast.org.cn/joweb/zgxyzz/CN/home",
+  "source_sheet": "可打开",
+  "source_row": 92,
+  "started_at": "2026-11-26T20:51:29+08:00",
+  "finished_at": "2026-11-26T20:53:03+08:00",
+  "status": "uncompleted",
+  "browser_use_invoked": true,
+  "before_fallback": {
+    "pages": 1,
+    "artifacts": 0,
+    "pending": 0,
+    "has_original": false
+  },
+  "browser_use_errors": [],
+  "manifest": "0091_中国新药杂志/manifest.json",
+  "pages": 1,
+  "attachments": [],
+  "original_count": 0,
+  "webpage_text": 0,
+  "pending_count": 1,
+  "pending_reasons": [
+    "no_valid_word_or_pdf"
+  ]
+}
