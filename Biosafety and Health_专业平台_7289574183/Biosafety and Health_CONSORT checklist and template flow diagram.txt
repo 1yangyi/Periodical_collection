@@ -1,0 +1,36 @@
+期刊: Biosafety and Health
+来源: https://www.consort-spirit.org/
+标题: CONSORT checklist and template flow diagram
+
+1/3
+Welcome to the SPIRIT–CONSORT website
+The SPIRIT–CONSORT guidelines offer a standard way to report trial protocols and findings for randomized trials. This helps authors to report their trials completely and transparently, providing readers with all the information they need to critically appraise, interpret and use the research.
+Celebrating 30 Years of CONSORT:
+Future Directions in Trial Reporting
+Date: Tuesday, November 10, 2026
+Time: 14:00 AM – 16:30 AM GMT / 9:00 AM – 11:30 AM ET
+Speakers: David Moher, Ken Schulz, Malcolm MacLeod, Evan Mayo-Wilson, Jaime Cummins, Philippe Ravaud
+What to Expect:
+Insights from leading researchers and methodologists on opportunities and future directions for CONSORT
+Learnings from AI-driven tools to streamline and improve CONSORT implementation
+Thought-provoking discussions on how reporting guidelines should evolve to maximize impact
+Register here
+Program
+SPIRIT 2025
+The SPIRIT (Standard Protocol Items: Recommendations for Interventional Trials) Statement is a minimum set of recommendations for reporting the protocol of a randomised trial. The recommendations are outlined in a 34-item checklist and a figure. We strongly recommend using the SPIRIT Statement in conjunction with the “Explanation and Elaboration” document, which explains and illustrates the principles underlying the SPIRIT Statement.
+Checklist
+Expanded checklist
+Figure
+Statement
+Explanation and Elaboration
+CONSORT 2025
+The CONSORT (CONsolidated Standards Of Reporting Trials) Statement is an evidence-based, minimum set of recommendations for reporting the results of randomised trials. The recommendations are outlined in a 30-item checklist and a flow diagram. The checklist items focus on reporting how the trial was designed, analysed, and interpreted; the flow diagram displays the progress of all participants through the trial. We strongly recommend using the CONSORT Statement in conjunction with the “Explanation and Elaboration” document, which explains and illustrates the principles underlying the CONSORT Statement.
+Checklist
+Expanded checklist
+Flow diagram
+Statement
+Explanation and Elaboration
+SEPTRE (SPIRIT Electronic Protocol Tool & Resource) is an online tool that allows you to create, register, and manage trial protocols. Click here for more information and to access SEPTRE.
+COBWEB (COnsort-Based WEB tool) is an online writing aid tool that helps you to write, edit, share and export a randomised trial report.
+Click here for more information and to access COBWEB.
+Take this 10 minute survey: SPIRIT-CONSORT 2026 consultation: Challenges and solutions

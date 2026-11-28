@@ -1,0 +1,403 @@
+期刊: 棉花学报
+来源: https://journal.cricaas.com.cn/Jweb_mhxb/CN/column/item81.shtml
+标题: 《棉花学报》排版格式
+
+模态框（Modal）标题
+在这里添加一些文本
+模态框（Modal）标题
+更多内容请点击
+首页
+期刊信息
+期刊介绍
+主编简介
+编委会
+奖励与荣誉
+数据库收录
+期刊评价
+投稿指南
+投稿指南
+收费标准
+在线投稿
+在线期刊
+最新录用
+当期目录
+过刊浏览
+阅读排行
+下载排行
+引用排行
+E-mail Alert
+RSS
+标准规范
+论文结构/写作
+字词规范
+计量单位
+标点符号
+排版格式/模板
+参考文献格式规范
+期刊订阅
+广告服务
+广告刊登须知
+广告收费标准
+联系我们
+English
+中国棉花
+排版格式/模板
+《棉花学报》原创性研究论文写作结构模版(三号楷体居中)
+张末喜1，牛巧鱼1，杨子山2* (黑体，5号居中)
+（中国农业科学院棉花研究所/中国棉花杂志社，河南 安阳□455000）(仿宋，小5)
+摘要（黑体，小5）：可分目的、方法、结果和结论等部分分别阐述，一般不超过300字(仿宋，小5)。
+关键词：《棉花学报》；标准规范；写作结构；模版（实词3~5个）
+中图分类号：S562. 文献标志码：A
+文章编号：1002-7807（） DOI：10.11963/issn.1002-7807.
+English Title in Bold Arial English Title in Bold Arial（小4）
+Zhang Moxi, Niu Qiaoyu, Yang Zishan（Times New Roman, 5）
+（1. Department, University, City, Province Zip Code, China; 2. Department, University, City, Province Zip Code, China) (小5，斜)
+Abstract: Abstracts are limited to a single paragraph of 250 words. Include your rationale, objective(s), methods, results, and a conclusion. Be specific. Do not cite figures, tables, equation, or references.
+Keywords: Identify a minimum of three keywords(maximum of eight) that direct the readers to major subjects discussed in the manuscript. List keywords in alphabetical order.
+□□【意义】□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□约100—200字；正文双栏排，5号字，单倍行距，标准字间距。【已有研究进展】本研究奠基人及起始时间。作者A用什么方法取得了什么进展□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□作者B□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□作者C□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□作者D□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□作者E□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□作者F□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□。□□分析主要介绍本研究的空白点或薄弱环节□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□介绍本研究是在什么基础上启动的。所有前人研究中哪些问题尚未得到解决，尚存空白或者薄弱环节。【拟解决的关键问题】□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□。
+1□材料和方法（仿宋，小4）
+1.1□试验时间、地点（黑体，5）
+□□田间试验于 年在 进行，室内试验在 进行。
+1.2□试验材料
+1.2.1□棉花品种。通过随机取样方法，从全国各地 个试验点随机抽取样本 个/试验点，全部供试品种 个，名单列于表1。
+表1□不同材料微卫星多态性分析
+Table 1□The results of microsatellite DNAs polyxmrphic analysis in various materials
+(表题：黑体，小5；表中文字：中文为宋体，英文为times new roman，均为小5)
+材料
+Materials
+多态性引物对数
+Pair number of polymorphic primers
+多态性比率
+Polymorphic ratio/%
+中502181 SP1
+1
+1.25
+中502181 SP2
+2
+2.5
+中50191 SP2
+1
+1.25
+中YS-4  SP1
+3
+3.75
+中YS-4 SP2
+3
+3.75
+中30041  SP1
+2
+2.5
+中30041   SP2
+1
+1.25
+中040029 SP2
+1
+1.25
+1.2.2□病菌样本。本研究使用的病菌样本为致病力有明显差异的5个生理小种，均由____实验室提供,名单列于表1或2。
+表2□蛋白酶专一性抑制剂对乙烯处理花朵花瓣内肽酶活性的抑制作用（抑制活性）
+Table 2□Effect of class-specific inhibitors on EP activity from petals of ethylene-treated flowers (Inhibiting activity) %
+品种
+Varieties·
+处理时间Treatment time / h
+24
+48
+72
+0
+1
+1
+0
+1
+2
+0
+1
+2*
+Samantha
+84
+71
+62
+92
+84
+81
+100
+96
+86
+Kardinal
+94
+93
+90
+90
+100
+92
+96
+85
+85
+□□*处理时间 Treatment time (d). （字号：小5）
+1.3□方法
+1.3.1□试验设计。试验采用完全随机区组设计（randomized complete blocks design, RCBD）（首次出现的缩写应列出全称）。
+1.3.2□精密仪器和药品规格。本研究室内使用仪器为******厂生产的*******型。药品为*******纯度、规格，化学纯或其他。
+1.3.3□统计分析。对原始数据进行标准化或归一化处理，经过******方法转换以后，用***软件进行方差分析或其它分析。用***软件进行方差分析或其他分析。
+2□结果与分析
+2.1□原始数据
+2.1.1□第一个有实质意义的结果表格及解释。第一个有实质意义的结果表格及解释第一个有实质意义的结果表格及解释。
+2.1.2□第二个有实质意义的结果表格及解释。第二个有实质意义的结果表格及解释第一个有实质意义的结果图示及解释□□□□□□□□□□□□□□□□□□□□□。
+2.1.3□第三个有实质意义的结果表格及解释。第三个有实质意义的结果表格及解释第三个有实质意义的结果表格及解释第三个有实质意义的结果表格及解释第一个有实质意义的结果表格及解释第一个有实质意义的结果及解释□□□□□□□□□□□□□□□□□□□□□。
+2.1.4□第四个有实质意义的结果表格及解释。第四个有实质意义的结果表格及解释第四个有实质意义的结果及解释□□□□□□□□□□□□□□□□□□□□□。
+2.2□根据原始数据计算得出的二级数据
+2.2.1□第二级数据之一。□□□□□□□□□□□□□□□□□□□□□。
+2.2.2□第二级数据之二以及对图或表的解释。□□□□□□□□□□□□□□□□□□□□□。
+2.2.3□第二级数据之三以及对图或表的解释。第
+或表的解释第二级数据之四以及对图或表的解释第二级数据之四以及对图或表的解释对图或表的解释第二级数据之四以及对图或表的解释。□□□□□□□□□□□□□□□□□□□□□。
+2.2.4□第二级数据之四以及对图或表的解释。□□□□□□□□□□□□□□□□□□□□□。
+2.3□统计检验
+2.3.1□对第一个二级结果进行统计检验。列出表格，并用字母标明在0.01或0.05水平上的差异显著性□□□□□□□□□□□□□□□□□□□□□。
+2.3.2□对第二个二级结果进行统计检验。列出表格，并用字母标明在0.01或0.05水平上的差异显著性□□□□□□□□□□□□□□□□□□□□□。
+2.3.3□对第三个二级结果进行统计检验。列出表格，并用字母标明在0.01或0.05水平上的差异显著性□□□□□□□□□□□□□□□□□□□□□。
+□□图表的简要注释。（小5）
+□□Notes for the figue in English.
+图1□图题
+Fig.1□Title for the figue in English
+表3□V1子叶、真叶及柯字310的编辑位点比较
+Table 3□RNA editing sites in the plastids of V1 cotyledons, leaves and Coker310FR
+基因
+Gene
+密码子位置
+Codon position
+密码子变化
+Codon
+conversion
+氨基酸转变
+Amino acid
+conversion
+V1 子叶
+V1 cotyledons
+V1真叶
+V1 leaves
+C310
+Coker310FR
+accD
+109
+uCu→uUu
+S→F
+＋/－
+＋/－
+－
+271
+uCg→uUg
+S→L
+＋/－
+＋/－
+＋
+468
+cCa→cUa
+P→L
+＋
+＋
+－
+474
+cCu→cUu
+P→L
+＋
+＋
+＋
+clpP
+187
+Cau→Uau
+H→Y
+＋
+＋
+＋
+rpl23
+24
+uCu→uUu
+S→F
+＋
+＋
+＋
+30
+uCa→uUa
+S→L
+＋/－
+＋/－
+＋/－
+rpoB
+113
+uCu→uUu
+S→F
+＋/－
+＋/－
+＋/－
+184
+uCa→uUa
+S→L
+＋/－
+＋/－
+＋/－
+189
+uCg→uUg
+S→L
+＋/－
+＋/－
+＋/－
+809
+uCa→uUa
+S→L
+＋/－
+＋/－
+＋/－
+rpoA
+69
+uCu→uUu
+S→F
+＋/－
+＋/－
+－
+279
+uCa→uUa
+S→L
+＋/－
+＋/－
+－
+ndhB
+50
+uCa→uUa
+S→L
+＋
+＋
+＋
+156
+cCa→cUa
+P→L
+＋
+＋
+＋
+181
+aCg→aUg
+T→M
+＋
+＋
+＋
+196
+Cau→Uau
+H→Y
+＋
+＋
+＋
+279
+uCa→uUa
+S→L
+＋
+＋
+＋
+419
+Cau→Uau
+H→Y
+＋
+＋
+＋
+ndhD
+1
+aCg→aUg
+T→M
+＋
+＋
+＋
+128
+uCa→uUa
+S→L
+＋
+＋
+＋
+225
+uCg→uUg
+S→L
+＋
+＋
+＋
+293
+uCa→uUa
+S→L
+＋
+＋
+＋
+437
+uCa→uUa
+S→L
+＋
+＋
+＋
+ndhF
+97
+uCa→uUa
+S→L
+＋
+＋
+＋
+ndhG
+17
+uCg→uUg
+S→L
+＋/－
+＋/－
+＋
+psbF
+26
+uCu→uUu
+S→F
+＋
+＋
+＋
+□□注：
+Note: （字号：小5）
+3□讨论
+3.1□对与前人研究相同或相似的结果予以证实的阐释
+这种情况一般不会有重大突破，只能尊重事实，承认研究结果。前人的发明、发现毕竟也需要有后人来证实。
+3.2□对前人研究结果有所突破、创新的阐释
+独到见解即应体现在此处。语言及数据论证要能令人信服，符合逻辑及科学常识经得起推敲。
+3.3□对前人研究结果予以否定的阐释
+应充分说明可能的原因，要从不同角度予以论证，应能经得起推敲、商榷、争鸣以及驳斥。
+3.4□本研究需要说明的问题
+感悟、体会或者对自己对他人的启示作用，以及不理想之处，尚待解决或进一步研究之处等，均应在此表达。
+一般情况下，以上4个问题不可能同时出现，应根据实际情况适当选择其中2—3个标题。标题应对读者有明确导向性，仅看标题即明确知晓讨论的内容。
+4□结论
+4.1□对本试验中得到的结果和信息的全面深层次揭示
+单独列出较全面的肯定性的结论。应便于相关学科从业人员理解。结论明确，文字表达准确，有限定条件，总字数约200—300，要有条理性，可分条陈述。
+4.2□对本研究结果或方法的创新结论的概括
+尤其要简洁而明确；
+4.3□本研究结果对读者的启示以及其它
+□□□□□□□□□□□□□□□□□□□□□□
+致谢：根据实际情况简要说明对试验及论文写作有过帮助的人表示谢忱。
+参考文献：（6号，黑体）
+[31] Janmaat A F, Myers J. Rapid evolution and the cost of resistance to Bacillus thuringiensis [（拉丁学名、基因名（不含阿拉伯数字编号）用斜体）] in greenhouse populations of cabbage loopers, Trichoplusia ni[J]. Proceedings of the Royal Society: Biological Sciences, 2003, 270: 2263-2270.
+[32] 卢美光，赵建周，范贤林，等．华北地区棉铃虫对Bt杀虫蛋白的抗性监测[J]．棉花学报，2000，12(4): 180-183．
+Lu Meiguang, Zhao Jianzhou, Fan Xianlin, et al. Resistance monitoring of Helicoverpa armigera (Hübner) to Bacillus thuringiensis insecticidal proteins in North China[J]. Cotton Science, 2000, 12(4): 180-183.
+[33] Percy R G, Cantrell R G, Zhang J F.Genetic variation for agronomic and fiber properties in an introgressed recombinant inbred population of cotton[J]. Crop Sciences, 2006, 46: 1311-1317.
+[34] Batey I L, Gras P W, Curtin B M. Contribution of the chemical structure of wheat starch to Japanese noodle quality[J]. Journal of the Science of Food and Agriculture, 1997, 74: 503-508.
+[35] Wright P R. Premature senescence of cotton (Gossypium hirsutum L.)-Predominantly a potassium disorder caused by an imbalance of source and sink[J]. Plant Soil, 1999, 211(2): 231-239.
+[36] 勾玲，闰洁，韩春丽，等．氮肥对新疆棉花产量形成期叶片光合特性的调节效应[J]．植物营养与肥料学报，2004，10(5)：488-493．
+Gou Ling, Yan Jie, Han Chunli, et al. Effects of nitrogen rates on photosynthetic characteristics and yield of high-yielding cotton in Xinjiang[J]. Plant Nutrition and Fertilizer Science, 2004, 10(5): 488-493.
+[37] Katharina S，Hans S．Vertical leaf nitrogen distribution in relation to nitrogen status in grassland plants[J]. Annals of Botany, 2003, 92: 679-688.
+[38] Markus L, Sidoroy V A, Kasten D, et al. Technical advance: stable chloroplast transformation in potato: use of green fluorescent protein as a plastid marker[J]. Plant Journal, 1999, 19: 209-216.
+[39] Lee S B, Kwon H B, Kwon S J, et al. Accumulation of trehalose within transgenic chloroplasts confers drought tolerance [J]. Molecular Breeding, 2003, 11: 1–13.
+[40] 张炎，王讲利，毛端明，等．新疆主要棉区棉花肥料效应的研究[J]．中国棉花，2003，30(1)：22-25．
+Zhang Yan，Wang Jiangli，Mao Duanming, et al．Study on fertilization effect on cotton in main belts of Xinjiang[J]．China Cotton, 2003, 30(1): 22-25．
+[41] 张伟，吕新，曹连莆．不同氮肥用量对棉花冠层结构光合作用和产量形成的影响[J]．干旱地区农业研究，2005，23(2)：80-87．
+Zhang Wei, Lü Xin, Cao Lianpu. Effects of the fertiIizations at different N rates on canopy structure and yield formation of high-yield cotton in Xinjiang[J]. Agricultural Research in the Arid Areas, 2005, 23(2): 80-87.
+发布日期：2010-10-19 浏览： 16796
+ISSN 1002-7807 CN 41-1163/S
+主管：中国科学技术协会
+主办：中国农学会
+主编：宋国立
+扫一扫，关注微信公众号
+ISSN 1002-7807 CN 41-1163/S
+主管：中国科学技术协会
+主办：中国农学会
+主编：宋国立
+版权所有 © 《棉花学报》编辑部
+地址：河南省安阳市文峰区黄河大道38号 中国农业科学院棉花研究所
+邮政编码：455000 电话： (0372)2525361
+E-mail: cottonsci@caas.cn
+访问统计
+总访问量
+今日访问
+在线人数
+技术支持：北京玛格泰克科技发展有限公司

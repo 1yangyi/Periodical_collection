@@ -1,0 +1,349 @@
+期刊: Sports Medicine and Health Science
+来源: https://www.keaipublishing.com/en/journals/sports-medicine-and-health-science/guide-for-authors/
+标题: Guide for Authors
+
+Guide for Authors
+Introduction
+Aims and Scope
+Types of Papers
+Before you begin
+ETHICS APPROVAL AND CONSENT TO PARTICIPATE
+Declaration of Competing Interests
+Submission statement
+Authors’ contributions
+Changes to authorship
+Register your study: Information for studies that require registration
+Declaration of generative AI in scientific writing
+Copyright
+Author rights
+Open access
+Language and language services
+Additional information
+Preparation
+Editorial Policies
+Peer-review
+Use of word processing software
+LaTeX
+Article structure
+Artwork
+Tables
+References
+Research data
+Data Linking
+Data statement
+Journal abbreviations source
+Submission checklist
+After acceptance
+Use of the Digital Object Identifier
+Proofs
+Post-publication amendments
+Author inquiries
+Author inquiries
+Introduction
+Aims and Scope
+Welcome to the Sports Medicine and Health Science (SMHS) manuscript preparation guide. Here, you will find everything that you need to know to complete your manuscript for submission to the journal. Let’s begin with the aims and scope of the journal and the types of articles published in SMHS.
+Aims and Scope of Journal
+Sports Medicine and Health Science is a peer-reviewed and open access journal of the China Sport Science Society (CSSS). The three main domains covered by the journal include:
+Sports Medicine-prevention, treatment, and rehabilitation of sports injuries using research-based practices from Western and Traditional Chinese Medicine.
+Exercise Biology-human and animal investigations on the impact that exercise has on both cellular and organ system physiology. Further, studies that investigate the role that muscular exercise plays in the management of chronic diseases are also encouraged.
+Impact of physical activity and inactivity on public health-epidemiological or laboratory studies investigating the impact that physical activity and/or inactivity has on public health.
+Types of Papers
+Descriptions of article types included in Sports Medicine and Health Science are summarized in the table below. Authors should select the appropriate article type from this table before submission. Authors contributing to a special issue or submitting a mini-review or review article should consult with the editor(s) to ensure the appropriateness of submission.
+Descriptions of article types included in Sports Medicine and Health Science
+Article Type
+Description
+Abstract
+(250 words)
+Word limits
+Figure/table limits
+Reference limits
+Other requirements
+Research article
+Research articles that include a clear rationale for the research, methods, original results, and conclusions of research findings
+YES
+Graphical abstract required following acceptance
+No limit
+Up to 6 figures
+No limit
+Data availability statement; Institutional approval statement
+Mini-Review
+Concise review of current knowledge in a defined field-highlights new information and future research directions
+YES
+Graphical abstract required following acceptance
+~4,000 words
+Up to 6 figures
+No limit
+Typically invited
+Review article
+Detailed review of current knowledge in a defined field-highlights new information and suggests future research directions
+YES
+Graphical abstract required following acceptance
+~6,000 words
+Up to 8 figures
+No limit
+Typically invited
+Commentary
+Commentaries provide well-researched opinions on important topics within the scope of SMHS. Commentaries can also be used as a forum to discuss unique opinions or to propose new hypotheses related to important topics within the scope of SMHS
+YES
+Up to 2,000 words
+Up to 4 figures
+No limit
+None
+Editorial
+Commentary from editors or experts on scientific topics within the scope of SMHS
+NO
+1,000
+Up to 2 figures
+Up to 10
+None
+Letter to editor
+Letters to editor can respond to recently published articles or can be of general interest to research community within the scope of SMHS
+NO
+1,000 words
+No figures or tables
+Up to 10
+None
+Before you begin
+ETHICS APPROVAL AND CONSENT TO PARTICIPATE
+Before submitting your article, please note that all submissions must include the following items:
+Ethics (Institutional) approval for the study and subject consent to participate
+Manuscripts reporting studies involving human participants, human data, human tissue, or live animals must include an ethical approval statement that the experimental protocol used has been reviewed and approved by the appropriate institutional review board must be included at the beginning of the methods/materials section and again at the end of the manuscript before the reference list. The first ethical approval statement should be placed at the beginning of the methods and materials section of the manuscript. This statement should identify the institution providing the approval and include the institutional protocol number. In addition, if the experimental protocol involves human subjects, a statement indicating that all subjects signed an informed consent form must be included as well. Further, a statement that the study was completed in accordance with the Declaration of Helsinki must also be included. A second ethical approval statement (identical to the first) should be provided at the end of the manuscript before the references.
+Finally, an ethical approval document confirming the approval of the research protocol issued by the institution’s ethical committee must be uploaded online when you submit the manuscript. All components of this requirement are mandatory for a manuscript involving animals, human participants, human data, or human tissue to be moved forward in the publication process. Failure to provide the ethical approval document and the associated statement in a subsection of the Methods section of the document will result in manuscript rejection.
+Declaration of Competing Interests
+Please click this link to download the "Declaration of Competing Interest" (DOCI) form. We prefer DOCI submission to consistently follow this prescribed format.
+For more details, please go through the below paragraph.
+All authors must disclose any financial and personal relationships with other people or organizations that could inappropriately influence (bias) their work. Examples of potential conflicts of interest include employment, consultancies, stock ownership, honoraria, paid expert testimony, patent applications/registrations, and grants or other funding. Authors should complete the declaration of competing interest statement using this template and upload to the submission system at the Attach/Upload Files step. Note: Please do not convert the .docx template to another file type. Author signatures are not required. If there are no interests to declare, please choose the first option in the template. This statement will be published within the article if accepted. More information.
+Submission statement
+Submission of an article to Sports Medicine and Health Science indicates: 1) that the work described in the manuscript has not been published previously (except in the form of an abstract or as part of a published lecture or academic thesis); 2) that the submission is not under consideration for publication elsewhere; 3) that the manuscript’s publication is approved by all authors and by the responsible authorities where the work was conducted; and 4) that, if accepted, this manuscript will not be published elsewhere including electronically in the same form, in English or in any other language, without the written consent of the copyright-holder. The submission statement is required when authors submit a manuscript but will NOT appear on published manuscript. Please upload the submission statement using a separate file.
+Authors’ contributions
+For transparency, we require corresponding authors to provide the contributions that co-authors made to the manuscript using the relevant CRediT roles. The CRediT taxonomy includes 14 different roles describing each contributor’s specific contribution to the scholarly output. The recognized author roles include: Conceptualization; Data curation; Formal analysis; Funding acquisition; Investigation; Methodology; Project administration; Resources; Software; Supervision; Validation; Visualization; Roles/Writing - original draft; and Writing - review & editing. Note that not all roles may apply to every manuscript, and authors may have contributed through multiple roles. An example of a CRediT author statement follows.
+Sample CRediT author statement Zhang San: Conceptualization, Methodology, Software. Priya Singh: Data curation, Writing- Original draft preparation. Wang Wu: Visualization, Investigation Jan Jansen: Supervision. Ajay Kumar: Software, Validation. Sun Qi: Writing- Reviewing and Editing.
+Changes to authorship
+New Policy: for manuscripts submitted after 1st February 2026
+The editors of this journal generally will not consider changes to authorship once a manuscript has been submitted. It is important that authors carefully consider the authorship list and order of authors and provide a definitive author list at original submission.
+The policy of this journal around authorship changes:
+All authors must be listed in the manuscript and their details entered into the submission system.
+Any addition, deletion or rearrangement of author names in the authorship list should only be made prior to acceptance, and only if approved by the journal editor.
+Requests to change authorship should be made by the corresponding author, who must provide the reason for the request to the journal editor with written confirmation from all authors, including any authors being added or removed, that they agree with the addition, removal or rearrangement.
+All requests to change authorship must be submitted using this form. Requests which do not comply with the instructions outlined in the form will not be considered.
+Only in exceptional circumstances will the journal editor consider the addition, deletion or rearrangement of authors post acceptance.
+Publication of the manuscript may be paused while a change in authorship request is being considered.
+Any authorship change requests approved by the journal editor will result in a corrigendum if the manuscript has already been published.
+Any unauthorised authorship changes may result in the rejection of the article, or retraction, if the article has already been published.
+Old Policy: for manuscripts submitted before 1st February 2026
+Before the manuscript is accepted for publishing: Requests to add or remove an author, or to rearrange the author names, must be sent to the Journal Manager from the corresponding author of the accepted manuscript and must include: (a) the reason the name should be added or removed, or the author names rearranged and (b) written confirmation (e-mail, fax, letter) from all authors that they agree with the addition, removal or rearrangement. In the case of addition or removal of authors, this includes confirmation from the author being added or removed. Requests that are not sent by the corresponding author will be forwarded by the Journal Manager to the corresponding author, who must follow the procedure described above. Note that: (1) Journal Managers will inform the Journal Editors of any such requests and (2) publication of the accepted manuscript in an online issue is suspended until authorship has been agreed.
+After the manuscript is accepted for publishing: Any requests to add, delete, or rearrange author names in an article accepted for publishing will NOT be permitted.
+Register your study: Information for studies that require registration
+Registration of clinical trials
+The registration in a public trial’s registry is required for publication of clinical trials in this journal. A clinical trial is defined as any research study that prospectively assigns human participants or groups of humans to one or more health-related interventions to evaluate the effects of health outcomes. Health-related interventions include any intervention used to modify a biomedical or health-related outcome (for example drugs, surgical procedures, devices, behavioral treatments, dietary interventions, and process-of-care changes). Health outcomes include any biomedical or health-related measures obtained in patients or participants, including pharmacokinetic measures and adverse events. Purely observational studies (those in which the assignment of the medical intervention is not at the discretion of the investigator) will not require registration.
+Registration of systematic review and meta-analysis
+The registration in PROSPERO is required in this journal for publication of systematic review and/or meta-analysis. Authors should include the PROSPERO registration number in the methods section of their manuscript. For more information on PROSPERO, see https://www.crd.york.ac.uk/PROSPERO/.
+Declaration of generative AI in scientific writing
+The guidance for use of AI provided below refers ONLY to the writing process, and not to the use of AI tools to analyze and draw insights from data as part of the research process.
+Where authors use generative artificial intelligence (AI) and AI-assisted technologies in the writing process, authors should only use these technologies to improve syntax and readability of existing language. Applying the technology should be done with human oversight and control, and authors should carefully review and edit the result, as AI can generate authoritative-sounding output that can be incorrect, incomplete or biased. AI and AI-assisted technologies should not be listed as an author or co-author, or be cited as an author. Authorship implies responsibilities and tasks that can only be attributed to and performed by humans, as outlined in Elsevier's AI policy for authors.
+Authors can disclose in their manuscript the use of AI and AI-assisted technologies in the writing process by following the instructions below. A statement will appear in the published work. Please note that authors are ultimately responsible and accountable for the contents of the work.
+AI disclosure instructions
+Authors must disclose the use of generative AI and AI-assisted technologies in the writing process by adding a subsection in the methods in the main body of the manuscript, as well as in the acknowledgments statement at the end of their manuscript in the core manuscript file, before the References list.
+Statement: During the preparation of this work the author(s) used [NAME TOOL / SERVICE] in order to [REASON]. After using this tool/service, the author(s) reviewed and edited the content as needed and take(s) full responsibility for the content of the publication
+This declaration does not apply to the use of basic tools for checking grammar, spelling, references etc. If there is nothing to disclose, there is no need to add a statement.
+Copyright
+Upon acceptance of an article, authors will be asked to complete a 'Journal Publishing Agreement. Acceptance of the agreement will ensure the widest possible dissemination of information. An email will be sent to the corresponding author confirming receipt of the manuscript together with a 'Journal Publishing Agreement' form or a link to the online version of this agreement.
+Author rights
+As an author, you (or your employer or institution) have certain rights to reuse your work. For more information on author rights please see https://www.elsevier.com/copyright.
+Role of the funding source
+Please identify the funding agency that provided financial support for the research and/or preparation of the article. More specifically, briefly describe the role of the funding agency, if any, in study design; in the collection, analysis and interpretation of data; in the writing of the report; and in the decision to submit the paper for publication. If the funding source(s) had no involvement in the research process, please make this statement. See https://www.elsevier.com/funding.
+Open access
+Every peer-reviewed research article appearing in this journal will be published open access. This statement means that the article is universally and freely accessible via the internet in perpetuity, in an easily readable format immediately after publication.
+To provide open access, this journal has an open access fee (also known as an Article Processing Charge, APC) which needs to be paid by the authors or on their behalf e.g. by their research funder or institution. The APC for this journal is USD 980, excluding taxes.
+For all papers submitted before the 31st of December 2028, the APC will be waived for authors. Chengdu Sport University will pay to make the article open access.
+Language and language services
+Please write your text in English using correct grammar. American or British grammar is accepted; however, please do not use a mixture of these. Authors who require information about language editing and copyediting services pre- and post-submission should visit https://webshop.elsevier.com/language-editing/ or our customer support site at http://service.elsevier.com/app/home/supporthub/publishing/ for more information.
+Additional information
+Submission to this journal is completely online. Use the following guidelines to prepare your article. Via the homepage of this journal (https://www.keaipublishing.com/smhs). Here you will be guided step-by-step through the creation and uploading of the various files. The system automatically converts source files to a single Adobe Acrobat PDF version of the article, which is used in the peer-review process. Please note that even though manuscript source files are converted to PDF at submission for the review process, these source files are needed for further processing after acceptance. All correspondence, including notification of the Editor's decision and requests for revision, takes place by e-mail, removing the need for a hard-copy paper trail. If you are unable to provide an electronic version, please contact the editorial office prior to submission [E-mail: smhs@cdsu.edu.cn].
+Preparation
+Editorial Policies
+For information on Editorial Policies for journal publication refer to http://www.keaipublishing.com/en/authors-and-editors/editorial-policies/
+Peer-review
+This journal operates a single blind peer-review process. All contributions are sent to a minimum of two independent expert reviewers to assess the scientific quality of the paper. The Editor-in-Chief is responsible for the final decision regarding acceptance or rejection of articles. For more information on the types of peer-review, please visit: https://www.elsevier.com/reviewers/peer-review.
+SMHS only accepts online submissions. A submitted manuscript initially completes a prescreen evaluated by the Managing Editor to check for the required elements essential for peer review. Note that all submissions will undergo a pre-screening process to determine if the article is appropriate for the journal; this pre-screening process is conducted by members of the editorial board. Manuscripts that fail to receive a sufficient priority score will not undergo further peer review. Factors that contribute to a low prescreen priority score include: 1) topic is outside the scope of the Journal; 2) report lacks originality and fails to provide new and important information (i.e., content is low impact); 3) Submission is poorly written (i.e., article lacks clarity); and/or 4) failure to provide ethical approval for research involving human/animal subjects or human tissues, and clinical registration for research mentioned in the clinical trials registration section.
+If a submitted article receives the required priority score for peer review, the submission is then assigned to one of the Associate Editors for further evaluation. The Associate Editors will then invite at least two independent reviewers with relevant expertise for single-blind peer-review. Following peer-review, the assigned Associate Editor will consider the peer-review comments and provide a recommendation for rejection, revision, or acceptance to the Editors-in-chief. Following the recommendation of the Associate Editor, Editors-in-Chief will then make a final decision on the submission.
+If a manuscript is accepted, the journal editorial staff will then be responsible for reviewing the format, English grammar of the manuscript before sending it back to authors for revision. There are various publishing roles of editors of KeAi journals and more information can be viewed here.
+Finally, to avoid bias, manuscripts of the editorial board members including Editors-in-Chief, Deputy Editors-in-Chief, Associate Editors and other members are not handled by him/herself in any stage of the review process.
+Use of word processing software
+Most importantly, the file is saved in the original format of the word processor used. The text should be in single-column format. Keep the layout of the text as simple as possible. Most formatting codes will be removed and replaced on processing the article. In particular, do not use the word processor's options to justify text or to hyphenate words. However, do use line numbering, page numbering (page 1 starts with the abstract), bold face, italics, subscripts, superscripts etc. When preparing tables, if you are using a table grid, use only one grid for each individual table and not a grid for each row. If no grid is used, use tabs, not spaces, to align columns. The electronic text should be prepared in a way very similar to that of conventional manuscripts (see also the Guide to Publishing with Elsevier). Note that source files of figures, tables and text graphics will be required whether or not the figures are embedded in the text. See also the section on Electronic artwork.
+To avoid unnecessary errors, you are strongly advised to use the 'spell-check' and 'grammar-check' functions of your word processor.
+LaTeX
+You are recommended to use the latest Elsevier article class to prepare your manuscript and BibTeX to generate your bibliography. Our LaTeX site has detailed submission instructions, templates and other information.
+Article structure
+First (New) submission of your manuscript
+SMHS has recently adopted a new policy for first submissions of manuscripts; this policy is referred to as “your manuscript, your way.” Simply stated, you can submit your new manuscript to SMHS in any format. The editors of SMHS evaluate first submissions of any manuscript based on scientific merit. However, first submission manuscript must include all the information required for peer review. Specifically, research articles should contain an abstract, introduction, methods, results (figures and tables), discussion, and references. All submissions should also contain a written statement certifying that the study protocol was approved by the appropriate institutional committee. Also, please include the number of the approved protocol.
+Revised submissions of your manuscript
+All revised manuscripts are required to follow the SMHS journal formatting guidelines described below. Please review the table describing article types for specific information on article length and number of figures.
+Language for submissions
+All articles submitted to SMHS should be written in American or British English. If English is not your first language, please consider using a professional editorial service prior to submission.
+Abbreviations, symbols, and terminology
+Please follow the following guidelines regarding abbreviations, symbols, and terminology.
+Abbreviations
+Define abbreviations the first time that they are used in the manuscript. Further, all abbreviations used in the abstract, main body of the text, figures, tables, and drawings should be defined on a separate page following the title page and titled “Abbreviation List”. All abbreviations used in the abstract should be defined in the abstract. All abbreviations must be defined again at their first mention in the body of the manuscript text even if defined in the abstract. All abbreviations used in tables, figures, and drawings must be defined in the captions and included in the Abbreviations list at the beginning of the manuscript after the title page. Ensure consistency of abbreviations throughout the article.
+For volume over time, the journal SMHS uses “V with dot above (V̇)”, instead of the regular uppercase letter “V”. For example, the abbreviation for maximal oxygen consumption is V̇O2max; Myocardial oxygen consumption is MV̇O2; Maximal ventilation is defined as V̇Emax; peak oxygen consumption is V̇O2peak. How to put the dot over the V̇O2max - Type V0307altx (Press the Alt button on the keyboard at the same time press the x button) to get V̇.
+For time units, the journal SMHS uses “h” as the abbreviation of “hours”; “min” for “minutes”; and “s” for “seconds”. Symbols of statistical parameters (e.g. p of significance) and abbreviations of statistical parameters (e.g. SD for standard deviations) should be in italics.
+Symbols
+Please use standard symbols for Greek letters and mathematical symbols.
+Terminology
+Capitalize trade names and include generic names upon first mention in the manuscript. Further, please Follow standard gene, protein, and species naming convention.
+Required numerical subdivisions for articles
+Note that the main sections of all articles (i.e., experimental articles, commentaries, and reviews) should be divided into numerical subdivisions. For example, in a research article, commentary, or review, the introduction is numbered “1”. Further, in a research article, the materials and methods, results, and discussion follow with the numbers 2,3, and 5 respectively. All subsections should be titled, numbered in a tiered fashion, and each subsection title should appear on a separate line. An example of a tiered subsection numbering for the introduction and materials and methods section is provided below:
+1. Introduction
+2. Materials and Methods
+2.1 Human subjects ethical approval statement
+2.2 Experimental design
+2.3 Experimental measurements
+2.4 Statistical analysis
+The essential components of an article should be organized in the following order.
+Title page
+Abbreviations
+Abstract
+Introduction
+Materials and Methods
+Results
+Discussion
+Ethical approval statement
+Patient’s privacy and consent for publication
+Authors contributions
+Conflict of interest
+Protocol registration (if appropriate)
+Details about the structure of each component of articles follows.
+Title Page
+Each manuscript should include a title page containing the following information:
+Title: concise and informative title describing the work performed. Limit 160 characters
+Names: List of author names in the order that they should appear in the final article.
+Affiliations: List institutions, city, state and country where the research was performed and host institution of authors.
+Corresponding author: Please provide the full name, address, phone and email of the corresponding author. Please note that Sports Medicine and Health Science requires that all corresponding authors possess a terminal degree (e.g., Ph.D., M.D., Ed.D. or equivalent).
+Abstract
+All full length submissions should include a one-paragraph abstract (250 word limit) that describes what was done and why, key findings, and main conclusions. To highlight this information within the abstract, SMHS requires abstract subheadings for all research papers that include the following subheadings: Background and Purpose, Methods, Results, and Conclusions. Below the abstract, please provide 3-6 keywords that are associated with their paper. Keywords should not include words within the title.
+Introduction
+The introduction should provide a brief background behind the study and present a clear argument for the novelty and importance of the study. The introduction should conclude with a clear statement of the purpose of the study and if appropriate, state the hypothesis tested.
+Materials and Methods
+As discussed earlier, this section must include a statement that the experiments performed were approved by the appropriate institutional board or committee. This section should also provide details of human subjects and/or cell/animal models (species, strain, age, and sex). Further, this segment should describe the experimental design, measurement techniques, reagents, and equipment used in the experiments. Finally, the materials and methods section should explain the statistical methods used for data evaluation.
+Results
+This section should present the experimental results in an appropriate format (e.g., figures and/or tables) and their statistical significance. Variability in data should be reported using standard deviations.
+Discussion
+The discussion should explain the study’s results and significance and compare the results with previously published reports. Novel findings should be emphasized and explained. The discussion should also identify study limitations and suggest future research directions.
+Acknowledgements
+This section should recognize contributions that do not qualify for authorship including editorial review and suggestions, technical assistance, and reagents/equipment supplied by others.
+Grants
+If the submitted work was supported by a grant or research contract, please provide information about the granting/funding agency, grant number, grant recipient’s initials.
+Disclosures
+In this section, authors must disclose the use of generative AI and AI-assisted technologies in the writing process by adding a subsection in the methods or main body of the manuscript, as well as in the acknowledgments statement at the end of their manuscript in the core manuscript file, before the References list.
+Artwork
+Electronic artwork
+General points
+Make sure you use uniform lettering and sizing of your original artwork.
+Save text in illustrations as "graphics" or enclose the font.
+Only use the following fonts in your illustrations: Arial, Courier, Times, Symbol.
+Number the illustrations according to their sequence in the text.
+Use a logical naming convention for your artwork files.
+Provide captions to illustrations separately.
+Produce images near to the desired size of the printed version.
+Submit each figure as a separate file.
+A detailed guide on electronic artwork is available on our website: https://www.elsevier.com/artworkinstructions
+You are urged to visit this site; some excerpts from the detailed information are given here.
+Formats
+Regardless of the application used, when your electronic artwork is finalized, please "save as" or convert the images to one of the following formats (note the resolution requirements for line drawings, halftones, and line/halftone combinations given below):
+EPS: Vector drawings. Embed the font or save the text as "graphics". TIFF: color or grayscale photographs (halftones): always use a minimum of 300 dpi. TIFF: Bitmapped line drawings: use a minimum of 1000 dpi. TIFF: Combinations bitmapped line/half-tone (color or grayscale): a minimum of 500 dpi is required.
+If your electronic artwork is created in a Microsoft Office application (Word, PowerPoint, Excel) then please supply "as is".
+Please do not:
+Supply files that are optimized for screen use (e.g., GIF, BMP, PICT, WPG); the resolution is too low;
+Supply files that are too low in resolution;
+Submit graphics that are disproportionately large for the content.
+Color artwork
+Please make sure that artwork files are in an acceptable format (TIFF, EPS or MS Office files) and with the correct resolution. If, together with your accepted article, you submit usable color figures then Elsevier will ensure, at no additional charge that these figures will appear in color on the Web (e.g., ScienceDirect and other sites) regardless of whether or not these illustrations are reproduced in color in the printed version.
+Tables, Figures, and Drawings
+Tables, Figures, and Drawings appear on separate pages with their captions at the end of the manuscript after references, but not in the manuscript text.
+Figure captions
+Ensure that each illustration has a caption. Supply captions separately, not attached to the figure. A caption should contain a brief title (not on the figure itself) and a description of the illustration. Keep text in the illustrations themselves to a minimum but explain all symbols and abbreviations used. All abbreviations used in a Figure and Drawing must be again defined in the caption for that Figure or Drawing.
+Tables
+Number tables consecutively in accordance with their appearance in the text. Place footnotes to tables below the table body and indicate them with superscript lowercase letters. Avoid vertical rules. Be sparing in the use of tables and ensure that the data presented in tables does not duplicate results described elsewhere in the article. All abbreviations used in a Table must be again defined in the caption for that Table.
+References
+Citation in text
+Please ensure that every reference cited in the text is also present in the reference list (and vice versa). Citing references in the abstract is not encourage, but if references area used, the reference must be given in full. Unpublished results and personal communications are not recommended in the reference list, but may be mentioned in the text. If these references are included in the reference list they should follow the standard reference style of the journal and should include a substitution of the publication date with either 'Unpublished results' or 'Personal communication'. Citation of a reference as 'in press' implies that the item has been accepted for publication.
+Web references
+As a minimum, the full URL should be given and the date when the reference was last accessed. Any further information, if known (DOI, author names, dates, reference to a source publication, etc.), should also be given.
+Preprint references
+Where a preprint has subsequently become available as a peer-reviewed publication, the formal publication should be used as the reference. If there are preprints that are central to your work or that cover crucial developments in the topic, but are not yet formally published, these may be referenced. Preprints should be clearly marked as such, for example by including the word preprint, or the name of the preprint server, as part of the reference. The preprint DOI should also be provided.
+References in a special issue
+Please ensure that the words 'this issue' are added to any references in the list (and any citations in the text) to other articles in the same Special Issue.
+Reference management software
+This journal has standard templates available in key reference management packages EndNote http://www.endnote.com/support/enstyles.asp and Reference Manager http://refman.com/support/rmstyles.asp. Using plug-ins to word-processing packages, authors only need to select the appropriate journal template when preparing their article and the list of references and citations to these will be formatted according to the journal style which is described below. Before manuscript submission, each reference in the reference list must be manually checked for proper journal formatting and completeness.
+Reference style
+Text: Indicate references by (consecutive) superscript Arabic numerals in the order in which they appear in the text. The numerals are to be used outside periods and commas, inside colons and semicolons. In the manuscript text when multiple consecutive references are used for one point, do not use hyphenation. Rather, list all references for that point. For further detail and examples you are referred to the AMA Manual of Style, A Guide for Authors and Editors, 11th Edition,(Print ISBN-13: 9780190246556), copies of which may be ordered from Oxford University Press (https://global.oup.com/academic/product/ama-manual-of-style-9780190246556?cc=nl). In addition, the Digital Object Identifier (DOI) is required by the journal and must be added to each reference in the reference list if that number is available. An example of a properly presented Doi number is https://doi.org/10.1016/j.smhs.2020.05.006. Please include the prefix https://doi.org/ to the Digital Object Identifier (DOI). Please list all the authors for references with 1 to 6 authors and first 3 authors with et al. for refences with 7 and more authors. Please use sentence case for article titles and proper abbreviations for journal’s title.
+List: Number the references in the list in the order in which they appear in the text.
+Examples:
+Reference to a journal:
+Seven and more authors:
+1. Woods JA, Hutchinson NT, Powers SK, et al. The COVID-19 pandemic and physical activity. Sports Med Health Sci. 2020;2(2):55-64. https://doi.org/10.1016/j.smhs.2020.05.006.
+One to 6 authors:
+2. Renier SA, Voight AM, Trost EJ, Roberts WO. Exertional calf pain at kilometer five - Finding the cause. Sports Med Health Sci. 2023;6(1):89-93. https://doi.org/10.1016/j.smhs.2023.10.001.
+Reference to an entire book/ebook:
+3.Patterson JW. Weedon's Skin Pathology. 4th ed. Churchill Livingstone; 2016.
+4. Guyatt G, Rennie D, Meade MO, Cook DJ. Users' Guides to the Medical Literature: A Manual for Evidence- Based Clinical Practice. 3rd ed. McGraw- Hill Education; 2015. Accessed August 15, 2016. https://jamaevidence.mhmedical.com/ book.aspx?bookID=847
+Reference to a chapter in a book:
+5. Boushey CJ. Application of research paradigms to nutrition practice. In: Coulston AM, Boushey CJ, Ferruzzi MG, eds. Nutrition in the Prevention and Treatment of Disease. 3rd ed. Academic Press; 2013:99-105.
+Reference to a website
+6. Mayo Clinic Staff. Treating Covid-19 at home: Care tips for you and others. Mayo Clinics. May 25, 2023. Accessed March 28, 2024. https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/treating-covid-19-at-home/art-20483273.
+7. Most prolific reviewers of 2022. KeAi Publishing. January 4, 2023. Accessed March 28, 2024. https://www.keaipublishing.com/en/journals/sports-medicine-and-health-science/news/most-prolific-reviewers-of-2022/.
+Research data
+This journal encourages and enables you to share data that supports your research publication where appropriate, and enables you to interlink the data with your published articles. Research data refers to the results of observations or experimentation that validate research findings. To facilitate reproducibility and data reuse, this journal also encourages you to share your software, code, models, algorithms, protocols, methods and other useful materials related to the project. More details about sharing research data can be found at https://www.elsevier.com/authors/author-services/research-data.
+Data Linking
+If you have made your research data available in a data repository, you can link your article directly to the dataset. Elsevier collaborates with a number of repositories to link articles on ScienceDirect with relevant repositories, giving readers access to underlying data that give them a better understanding of the research described.
+Different ways exist to link your datasets to your article. When available, you can directly link your dataset to your article by providing the relevant information in the submission system. For more information, visit the database linking page.
+For supported data repositories a repository banner will automatically appear next to your published article on ScienceDirect.
+In addition, you can link to relevant data or entities through identifiers within the text of your manuscript, using the following format: Database: xxxx (e.g., TAIR: AT1G01020; CCDC: 734053; PDB: 1XFN).
+Data statement
+To foster transparency, we encourage you to state the availability of your data in your submission. This may be a requirement of your funding body or institution. If your data is unavailable to access or unsuitable to post, you will have the opportunity to indicate why during the submission process, for example by stating that the research data is confidential. The statement will appear with your published article on ScienceDirect. For more information, visit the Data Statement page.
+Journal abbreviations source
+Journal names should be abbreviated according to Index Medicus journal abbreviations: http://www.nlm.nih.gov/tsd/serials/lji.html;
+List of title word abbreviations: http://www.issn.org/2-22661-LTWA-online.php;
+CAS (Chemical Abstracts Service): http://www.cas.org/sent.html.
+Submission checklist
+The following list will be useful during the final checking of an article prior to sending it to the journal for review. Please consult this Guide for Authors for further details of any item.
+Ensure that the following items are present:
+One Author designated as corresponding Author:
+E-mail address
+Full postal address
+Telephone and fax numbers
+All necessary files have been uploaded
+Keywords
+All figure captions
+All tables (including title, description, footnotes)
+Further considerations
+Manuscript has been "spellchecked" and "grammar-checked"
+References are in the correct format for this journal
+All references mentioned in the Reference list are cited in the text, and vice versa
+Permission has been obtained for use of copyrighted material from other sources (including the Web)
+Color figures are clearly marked as being intended for color reproduction on the Web (free of charge) and in print or to be reproduced in color on the Web (free of charge) and in black-and-white in print
+If only color on the Web is required, black and white versions of the figures are also supplied for printing purposes
+For any further information please visit our customer support site at http://service.elsevier.com/app/home/supporthub/publishing/.
+After acceptance
+Use of the Digital Object Identifier
+The Digital Object Identifier (DOI) may be used to cite and link to electronic documents. The DOI consists of a unique alpha-numeric character string which is assigned to a document by the publisher upon the initial electronic publication. The assigned DOI never changes. Therefore, the DOI number is an ideal medium for citing a document, particularly 'articles in press' because these articles have not yet received their full bibliographic information. The correct format for citing a DOI is shown as follows (example taken from a document in the journal Physics Letters B): https://doi.org/10.1016/j.physletb.2010.09.059
+When you use the DOI to create URL hyperlinks to documents on the web, they are guaranteed never to change.
+Proofs
+One set of page proofs (as PDF files) will be sent by e-mail to the corresponding author (if we do not have an e-mail address then paper proofs will be sent by post) or, a link will be provided in the e-mail so that authors can download the files themselves. Elsevier now provides authors with PDF proofs which can be annotated; for this you will need to download Adobe Reader version 7 (or higher) available free from http://get.adobe.com/reader.
+Instructions on how to annotate PDF files will accompany the proofs (also given online). The exact system requirements are given at the Adobe site: http://www.adobe.com/products/reader/systemreqs.
+If you do not wish to use the PDF annotations function, you may list the corrections (including replies to the Query Form) and return them to Elsevier in an e-mail. Please list your corrections quoting line number. If, for any reason, this listing is not possible, then mark the corrections and any other comments (including replies to the Query Form) on a printout of your proof and return by fax, or scan the pages and e-mail, or by post. Please use this proof only for checking the typesetting, editing, completeness and correctness of the text, tables and figures. Significant changes to the article as accepted for publication will only be considered at this stage with permission from the Editor. We will do everything possible to get your article published quickly and accurately – please let us have all your corrections within 48 hours. Most importantly and to ensure that all corrections are sent back to us in one communication: please check carefully before replying, as inclusion of any subsequent corrections cannot be guaranteed. Proofreading is solely your responsibility. Note that Elsevier may proceed with the publication of your article if no response is received.
+Post-publication amendments
+Errata and Corrigenda
+We will publish a correction of your article if a significant error is discovered after publication. An Erratum will be published if we introduced the error; a Corrigendum if the author introduced the error.
+Retractions
+Articles may be withdrawn, retracted, removed or replaced after publication if they contain substantial errors that cannot be corrected by publishing an Erratum or a Corrigendum, or if ethical violations come to light after publication. You can find more information in Elsevier's article withdrawal policies.
+Author inquiries
+Author inquiries
+Visit the Elsevier Support Center to find the answers you need. Here you will find everything from Frequently Asked Questions to ways to get in touch. You can also check the status of your submitted article.
+Stay Informed
+Register your interest and receive email alerts tailored to your needs. Sign up below.
+First name *
+Surname *
+Email address *
+Subject area *
+KeAi may contact you to share the latest updates about products, services, promotions, and events. If you do not wish to receive such messages, please check this box.

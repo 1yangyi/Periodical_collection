@@ -1,0 +1,226 @@
+期刊: Earthquake Science
+来源: https://www.keaipublishing.com/en/journals/earthquake-science/guide-for-authors/
+标题: Guide for Authors
+
+Guide for Authors
+Before you begin
+Ethical responsibilities of authors
+In addition:
+Tables
+Acknowledgments, Data Availability, Declaration of Competing
+Declaration of interest
+Declaration of generative AI in scientific writing
+Preprint posting on SSRN
+First look
+Changes to authorship
+Author contributions
+Manuscript submission
+Text format
+Manuscript preparation and submission
+Permissions and reuse of published materials
+Language editing
+Peer Review
+The remaining body of the manuscript should include the foll
+Title page
+Keypoints
+Keywords
+Reference list
+Electronic figure submission
+Figure numbering
+Figure captions
+Copyright permissions
+Copyright transfer
+Offprints
+Color illustrations
+Proof reading
+Online first
+Terminology
+Ethical standards
+In-text citation style
+Preprint references
+Journal Abbreviations
+Post-publication amendments
+Author inquiries
+Author Inquiries
+Before you begin
+Ethical responsibilities of authors
+This journal is committed to upholding the integrity of the scientific record. As a member of the Committee on Publication Ethics (COPE) the journal will follow the COPE guidelines on how to deal with potential acts of misconduct.
+Authors should refrain from misrepresenting research results which could damage the trust in the journal and ultimately the entire scientific endeavour. Maintaining integrity of the research and its presentation can be achieved by following the rules of good scientific practice, which includes:
+The manuscript has not been submitted to more than one journal for simultaneous consideration.
+The manuscript has not been published previously (partly or in full), unless the new work concerns an expansion of previous work (please provide transparency on the re-use of material to avoid the hint of text-recycling ("self-plagiarism").
+A single study is not split up into several parts to increase the quantity of submissions and submitted to various journals or to one journal over time (e.g. "salami-publishing").
+No data have been fabricated or manipulated (including images) to support your conclusions.
+No data, text, or theories by others are presented as if they were the authors own ("plagiarism"). Proper acknowledgements to other works must be given (this includes material that is closely copied (near verbatim), summarized and/or paraphrased), quotation marks are used for verbatim copying of material, and permissions are secured for material that is copyrighted.
+Important note: the journal may use software to screen for plagiarism.
+Consent to submit has been received from all co-authors and responsible authorities at the institute/organization where the work has been carried out before the work is submitted.
+Authors whose names appear on the submission have contributed sufficiently to the scientific work and therefore share collective responsibility and accountability for the results.
+Submissions to KeAi journals are automatically screened using iThenticate's CrossCheck within the editorial system to detect plagiarism issues including instances of overlapping and similar text in submitted manuscripts. Details can be found here. High similarity papers will be desk rejected.
+In addition:
+Changes of authorship or in the order of authors are not accepted after acceptance of a manuscript.
+Requests to add or delete authors at revision stage or after publication is a serious matter, and may be considered only after receipt of written approval from all authors and detailed explanation about the role/deletion of the new/deleted author. The decision on accepting the change rests with the Editor-in-Chief of the journal.
+Upon request authors should be prepared to send relevant documentation or data in order to verify the validity of the results. This could be in the form of raw data, samples, records, etc.
+If there is a suspicion of misconduct, the journal will carry out an investigation following the COPE guidelines. If, after investigation, the allegation seems to raise valid concerns, the accused author will be contacted and given an opportunity to address the issue. If misconduct has been proven, this may result in the Editor-in-Chief's implementation of the following measures, including, but not limited to:
+If the article is still under consideration, it may be rejected and returned to the author.
+If the article has already been published online, depending on the nature and severity of the infraction, either an erratum will be placed with the article or in severe cases complete retraction of the article will occur. The reason must be given in the published erratum or retraction note.
+The author's institution may be informed.
+Tables
+For each table, please supply a table caption (title) explaining the components of the table.
+All tables are to be numbered by Arabic numerals.
+Tables should be always cited in text in consecutive numerical order.
+Identify any previously published material by giving the original source in the form of a reference at the end of the table caption.
+Footnotes to tables should be indicated by superscript lower-case letters (or asterisks for significance values and other statistical data) and included beneath the table body.
+Acknowledgments, Data Availability, Declaration of Competing
+Acknowledgments of people, grants, funds, etc. should be placed in a separate section before the reference list. The names of funding organizations should be written in full. Statements about Data Availability and Declaration of Competing interests should also be included in this section.
+Declaration of interest
+All authors must disclose any financial and personal relationships with other people or organizations that could inappropriately influence (bias) their work. Examples of potential competing interests include employment, consultancies, stock ownership, honoraria, paid expert testimony, patent applications/registrations, and grants or other funding. Authors must disclose any interests in two places: 1. A summary declaration of interest statement in the title page file (if double anonymized) or the manuscript file (if single anonymized). If there are no interests to declare then please state this: 'Declarations of interest: none'. 2. Detailed disclosures as part of a separate Declaration of Interest form, which forms part of the journal's official records. It is important for potential interests to be declared in both places and that the information matches. More information
+Declaration of generative AI in scientific writing
+Authors are encouraged to declare the use of generative AI in scientific writing upon submission of the paper. The following guidance refers only to the writing process, and not to the use of AI tools to analyse and draw insights from data as part of the research process:
+Generative AI and AI-assisted technologies should only be used in the writing process to improve the readability and language of the manuscript.
+The technology must be applied with human oversight and control and authors should carefully review and edit the result, as AI can generate authoritative-sounding output that can be incorrect, incomplete or biased. Authors are ultimately responsible and accountable for the contents of the work.
+Authors must not list or cite AI and AI-assisted technologies as an author or co-author on the manuscript since authorship implies responsibilities and tasks that can only be attributed to and performed by humans.
+The use of generative AI and AI-assisted technologies in scientific writing can be declared by adding a statement at the end of the manuscript when the paper is first submitted. The statement will appear in the published work and should be placed in a new section before the references list. An example:
+Title of new section: Declaration of generative AI and AI-assisted technologies in the writing process.
+Statement: During the preparation of this work the author(s) used [NAME TOOL / SERVICE] in order to [REASON]. After using this tool/service, the author(s) reviewed and edited the content as needed and take(s) full responsibility for the content of the published article.
+The declaration does not apply to the use of basic tools, such as tools used to check grammar, spelling and references. If you have nothing to disclose, you do not need to add a statement.
+We advise you to read our policy for authors on the use of generative AI and AI-assisted technologies for Elsevier.
+Please note: to protect authors’ rights and the confidentiality of their research, this journal does not currently allow the use of Generative AI or AI-assisted technologies such as ChatGPT or similar services by reviewers or editors in the peer review and manuscript evaluation process. We are actively evaluating compliant AI tools and may revise this policy in the future.
+Preprint posting on SSRN
+In support of Open Science, this journal offers its authors a free preprint posting service. Preprints provide early registration and dissemination of your research, which facilitates early citations and collaboration.<P>During submission to Editorial Manager, you can choose to release your manuscript publicly as a preprint on the preprint server SSRN once it enters peer-review with the journal. Your choice will have no effect on the editorial process or outcome with the journal. Please note that the corresponding author is expected to seek approval from all co-authors before agreeing to release the manuscript publicly on SSRN.
+You will be notified via email when your preprint is posted online and a Digital Object Identifier (DOI) is assigned. Your preprint will remain globally available free to read whether the journal accepts or rejects your manuscript.
+For more information about posting to SSRN, please consult the SSRN Terms of Use and FAQs.
+First look
+Please note: posted preprints for this journal will appear in a dedicated journal-branded First Look space on SSRN.
+Changes to authorship
+The editors of this journal generally will not consider changes to authorship once a manuscript has been submitted. It is important that authors carefully consider the authorship list and order of authors and provide a definitive author list at original submission.
+The policy of this journal around authorship changes:
+All authors must be listed in the manuscript and their details entered into the submission system.
+Any addition, deletion or rearrangement of author names in the authorship list should only be made prior to acceptance, and only if approved by the journal editor.
+Requests to change authorship should be made by the corresponding author, who must provide the reason for the request to the journal editor with written confirmation from all authors, including any authors being added or removed, that they agree with the addition, removal or rearrangement.
+All requests to change authorship must be submitted using this form. Requests which do not comply with the instructions outlined in the form will not be considered.
+Only in exceptional circumstances will the journal editor consider the addition, deletion or rearrangement of authors post acceptance.
+Publication of the manuscript may be paused while a change in authorship request is being considered.
+Any authorship change requests approved by the journal editor will result in a corrigendum if the manuscript has already been published.
+Any unauthorised authorship changes may result in the rejection of the article, or retraction, if the article has already been published.
+Author contributions
+For transparency, we require corresponding authors to provide co-author contributions to the manuscript using the relevant CRediT roles. The CRediT taxonomy includes 14 different roles describing each contributor's specific contribution to the scholarly output. The roles are: Conceptualization; Data curation; Formal analysis; Funding acquisition; Investigation; Methodology; Project administration; Resources; Software; Supervision; Validation; Visualization; Roles/Writing - original draft; and Writing - review & editing. Note that not all roles may apply to every manuscript, and authors may have contributed through multiple roles. More details and an example.
+Manuscript submission
+Manuscript must contain original research that has not been published before or under consideration by other journals. The submission has been approved by all co-authors and no one who has contributed significantly to the manuscript is omitted. The publisher will not be held legally responsible should there be any claims for compensation.
+Submission to this journal is through the online system only. Use the following guidelines to prepare your article. Via the homepage of this journal (https://www.keaipublishing.com/en/journals/earthquake-science) you will be guided stepwise through the creation and uploading of the various files. The system automatically converts source files to a single Adobe Acrobat PDF version of the article, which is used in the peer-review process. Please note that even though manuscript source files are converted to PDF at submission for the review process, these source files are needed for further processing after acceptance. All correspondence, including notification of the Editor's decision and requests for revision, takes place by e-mail and the online system, removing the need for a hard-copy paper trail. If you are unable to provide an electronic version, please contact the editorial office prior to submission (E-mail: equsci@cea-igp.ac.cn; equsci@126.com. Tel: +86-10-68729344).
+ORCiD ID: Our journal supports the use of ORCiD ID. Authors are encouraged to provide ORCiD ID at submission.
+Text format
+A Word file is preferred for the submitted manuscript with a fontsize 11 pt or bigger. But, again, manuscript in any form will be accepted in the initial submission.
+Manuscript preparation and submission
+Authors should submit their manuscripts online through Editorial Manger at (https://www.editorialmanager.com/eqs/default1.aspx) and upload all of your manuscript files following the instructions given on the screen.
+Submit a single word file (preferred) or pdf file including all text and figures tables for review. Separate files for Supplementary Information are allowed. During the review process, authors can prepare their manuscript in any forms. However, some guidance is provided below. In the final production, uniform formatting and editorial policies will be implemented. Please check journal website for examples of published manuscripts.
+The types of manuscripts include the following. There is no length requirement, except for the Short Notes.
+Articles. Original contributions that have not been published elsewhere.
+Short Notes. Short papers of recent events or topics that warrant rapid peer reviews and publications. Limited to 4 publication pages.
+Rapid Communications. Significant contributions that warrant rapid peer reviews and publications.
+Review Articles. Review articles are by invitation only. Please contact the editorial office and editors for possible proposals.
+Toolboxes. Descriptions of novel numerical methods and associated computer codes.
+Data Products. Documentation of datasets of various kinds that are interested to the community and available for open access (field data, processed data, synthetic data, or models).
+Opinions. Views on important topics and future directions in earthquake science.
+Comments and Replies. Commentaries on a recently published EQS paper is welcome. The authors of the paper commented will be invited to reply. Both the Comment and the Reply are subject to peer review.
+Forum. Reports on works or initiatives that are related to earthquake science and are of interest to the public.
+Instrumentation and Field Study. Introduction to instruments or field work related to earthquake science.
+Permissions and reuse of published materials
+Reuse of published materials (in print or online) is permissible if permission from the copyright owner(s) of the materials is obtained.
+Language editing
+Manuscripts that are accepted for publication will normally be checked by our copy editors for spelling and formal style. This may not be sufficient if English is not your native language and substantial editing may be required. In that case, you may want to ask a native speaker to help you or have your manuscript edited by a professional language editor prior to submission. The journal can refer third-party English language editing service if the authors desire.
+Peer Review
+This journal uses a double blind review process. All contributions are sent to a minimum of two independent expert reviewers to assess the scientific quality of the paper. The Editor-in-Chief is responsible for the final decision regarding acceptance or rejection of articles. The EiC's decision is final. For more information on the types of peer review, please visit: https://www.elsevier.com/reviewers/peer-review.
+1.All manuscripts would be first reviewed by the editorial office, which will conduct the initial technical check first. Any papers that fail to meet the basic standard of the journal would be rejected for reasons like out of scope, ethic issues, high similarities, and so on. Then, the editorial office will reassign selected papers to the EiC.
+2.The EiC will assign the article to an Associate Editor, AE, who will invite multiple reviewers to review this paper.
+3.After at least 2 reviewers give their review comments, the AE will provide feedbacks based on review comments and his/her own additional comments. The AE will make a recommendation to the EiC, who will inform the authors.
+4.When the author submits the revised manuscript, the process will follow accordingly. The EiC will make the final decision.
+5.For submissions from the EiC or AE, other journal editors handle them independently.
+6.For submissions to Special Issues, if there are conflicts of interest between the GE(s) and authors, the submissions will be handled by another Editor from Editorial Board who will manage the peer review process and make the decision whether to accept or reject the paper after peer review.
+The remaining body of the manuscript should include the foll
+Introduction
+Methods
+Results
+Discussions
+Conclusions
+Title page
+The title page should include:
+title
+author names
+The affiliation(s) and address(es) of the author(s)
+The e-mail address and telephone number of the corresponding author
+Keypoints
+Please submit a few sentences describing the key points in the article
+Keywords
+Please provide 4 to 6 keywords that can be used for indexing purposes
+Reference list
+The list of references should only include works that are cited in the text and that have been published or accepted for publication. Personal communications and unpublished works should only be mentioned in the text. Do not use footnotes or endnotes as a substitute for a reference list.
+Reference list entries should be alphabetized by the last names of the first author of each work.
+Journal article Gamelin FX, Baquet G, Berthoin S, Thevenet D, Nourry C, Nottin S, and Bosquet L (2009). Effect of high intensity intermittent training on heart rate variability in prepubescent children. Eur J Appl Physiol 105:731-738. doi: 10.1007/s00421-008-0955-8
+Ideally, the names of all authors should be provided, but the usage of "et al" in long author lists will also be accepted: Smith J, Jones M Jr, Houghton L et al. (1999). Future of health insurance. N Engl J Med 965:325-329.
+Article by DOISlifka MK, and Whitton JL (2000). Clinical implications of dysregulated cytokine production. J Mol Med. doi:10.1007/s001090000086
+Book South J, and Blass B (2001). The future of modern genomics. Blackwell, London, pp.430.
+Book chapter Brown B, and Aaron M (2001). The politics of nature. In: Smith J (ed) The rise of modern genomics, 3rd edn. Wiley, New York, pp 230-257.
+Online documentCartwright J (2007). Big stars have weather too.IOP Publishing PhysicsWeb. http://physicsweb.org/articles/news/11/6/16/1. Last accessed 26 June 2007.
+Dissertation Trent JW (1975). Experimental acute renal failure. Dissertation, University of California.Always use the standard abbreviation of a journal's name according to the ISSN List of Title Word Abbreviations, seehttp://www.issn.org/2-22661-LTWA-online.php.
+Electronic figure submission
+Supply all figures electronically.
+Indicate what graphics program was used to create the artwork.
+For vector graphics, the preferred format is EPS; for halftones, please use TIFF format. MS Office files are also acceptable.
+Vector graphics containing fonts must have the fonts embedded in the files.
+Name your figure files with "Fig" and the figure number, e.g.,Fig1.eps.
+Figure numbering
+All figures are to be numbered and cited sequentially.
+Sub-figures should be denoted by lowercase letters (a, b, c, etc.).
+If an appendix appears in your article/chapter and it contains one or more figures, continue the consecutive numbering of the main text. Do not number the appendix figures, A1, A2, A3, etc. Figures in online appendices (Electronic supplementary Material) should, however, be numbered separately.
+Figure captions
+Each figure should have a concise caption describing accurately what the figure depicts. Include the captions in the text file of the manuscript, not in the figure file.
+Figure captions begin with the term Fig. in bold type, followed by the figure number, also in bold type.
+No punctuation is to be included after the number, nor is any punctuation to be placed at the end of the caption.
+Identify all elements found in the figure in the figure caption; and use boxes, circles, etc., as coordinate points in graphs.
+Identify previously published material by giving the original source in the form of a reference citation at the end of the figure caption.
+Copyright permissions
+If you include figures that have already been published elsewhere, you must obtain permission from the copyright owner(s) for both the print and online format. Please be aware that some publishers do not grant electronic rights for free. In such cases, material from other sources should be used.
+Copyright transfer
+For open access publishing, this journal uses a licensing agreement. For the single article published between the years 2015 and 2017, authors retain copyright for the single article; for the single article published between the years 2018 and 2021, authors have transferred their copyright to the Seismological Society of China and Institute of Geophysics, China Earthquake Administration; for articles published since year 2022 authors will retain copyright for the single article. KeAi Communications Co., Ltd. will be granted nonexclusive publishing and distribution rights.
+Offprints
+Offprints can be ordered by the corresponding author.
+Color illustrations
+Online publication of color illustrations is free of charge. For color in the print version, authors will be expected to make a contribution towards the extra costs.
+Proof reading
+The purpose of the proof is to check for typesetting or conversion errors and the completeness and accuracy of the text, tables and figures. Substantial changes in content, e.g., new results, corrected values, title and authorship, are not allowed without the approval of the Editor.
+After online publication, further changes can only be made in the form of an Erratum, which will be hyperlinked to the article.
+Online first
+The article will be published online after receipt of the corrected proofs. This is the official first publication citable with the DOI. After release of the printed version, the paper can also be cited by issue and page numbers.
+Terminology
+Please always use internationally accepted signs and symbols for units (SI units).
+Please use the standard mathematical notation for formulae, symbols etc.: Italic for single letters that denote mathematical constants, variables, and unknown quantities Roman/upright for numerals, operators, and punctuation, and commonly defined functions or abbreviations, e.g., cos, det, e or exp, lim, log, max, min, sin, tan, d (for derivative) Bold for vectors, tensors, and matrices.
+Ethical standards
+Manuscripts submitted for publication must contain a statement to the effect that all human and animal studies have been approved by the appropriate ethics committee and have therefore been performed in accordance with the ethical standards laid down in the 1964 Declaration of Helsinki and its later amendments. It should also be stated clearly in the text that all persons gave their informed consent prior to their inclusion in the study. Details that might disclose the identity of the subjects under study should be omitted.
+The editors reserve the right to reject manuscripts that do not comply with the above-mentioned requirements. The author will be held responsible for false statements or failure to fulfill the above-mentioned requirements.
+Please see our information on Ethics in publishing and Ethical guidelines for journal publication.
+Submissions to KeAi journals are automatically screened using iThenticate's CrossCheck within the editorial system todetect instances of overlapping and similar text in submitted manuscripts. When a plagiarism complaint is raised, we recommend following the actions as mentioned here
+In-text citation style
+Cite references in the text by name and year in parentheses. For Chinese authors, initials of first names are also included. Some examples are as follows.
+Negotiation research spans many disciplines (Thompson 1990).
+This result was later contradicted by Becker and Seligman (1996).
+This effect has been widely studied (Abbott 1991; Barakat et al. 1995).
+It was first discovered by Song XD and Richards (1996).
+Preprint references
+Where a preprint has subsequently become available as a peer-reviewed publication, the formal publication should be used as the reference. If there are preprints that are central to your work or that cover crucial developments in the topic, but are not yet formally published, these may be referenced. Preprints should be clearly marked as such, for example by including the word preprint, or the name of the preprint server, as part of the reference. The preprint DOI should also be provided.
+Journal Abbreviations
+Abbreviations should be defined at first mention and used consistently thereafter.
+Post-publication amendments
+Errata and Corrigenda
+We will publish a correction of your article if a significant error is discovered after publication. An Erratum will be published if we introduced the error; a Corrigendum if the author introduced the error.
+Retractions
+Articles may be withdrawn, retracted, removed or replaced after publication if they contain substantial errors that cannot be corrected by publishing an Erratum or a Corrigendum, or if ethical violations come to light after publication.
+Author inquiries
+Author Inquiries
+Visit the Elsevier Support Center to find the answers you need. Here you will find everything from Frequently Asked Questions to ways to get in touch.
+You can also check the status of your submitted article or find out when your accepted article will be published.
+Stay Informed
+Register your interest and receive email alerts tailored to your needs. Sign up below.
+First name *
+Surname *
+Email address *
+Subject area *
+KeAi may contact you to share the latest updates about products, services, promotions, and events. If you do not wish to receive such messages, please check this box.

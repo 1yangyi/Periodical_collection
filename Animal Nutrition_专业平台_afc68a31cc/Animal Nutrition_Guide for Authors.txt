@@ -1,0 +1,521 @@
+期刊: Animal Nutrition
+来源: https://www.keaipublishing.com/en/journals/animal-nutrition/guide-for-authors/
+标题: Guide for Authors
+
+Guide for Authors
+Introduction
+Introduction
+Types of Paper
+Contact Details for Submission
+Before you begin
+Ethics in Publishing
+Declaration of Competing Interests
+Role of the Funding Source
+Declaration of generative AI in scientific writing
+Submission Declaration
+Preprint posting on SSRN
+First look
+Use of Inclusive Language
+Elsevier Researcher Academy
+Peer Review
+Open Access
+Copyright
+Article Processing Charges
+Language Services
+Language Improvement
+Editorial Policies
+Authorship
+Credit Author Statement
+Changes to Authorship and Affiliation
+Submission
+Resubmission
+Appeal of Review Decisions
+Preparation
+General
+Use of word processing software
+LaTeX
+Requirements for Review Articles
+Requirements for Mini-Reviews Articles
+Requirements for Research Articles
+Title Page
+Abstract
+Graphical Abstract
+Keywords
+Introduction
+Materials and Methods
+Results
+Discussion
+Conclusion(s)
+Acknowledgements
+Author contributions
+References
+Citations in text
+Reference list
+Journal abbreviations source
+Tables
+Figures
+Electronic artwork
+Color Artwork
+Appendix and Supplementary Data
+Units of Measure
+Centrifugal force
+Numbers
+Math Formulae
+Abbreviations
+Uppercase
+Italic
+Genes
+Others
+Preprint references
+Research Data
+Data Linking
+Mendeley Data
+Data statement
+After acceptance
+Use of the Digital Object Identifier
+Proofs
+Author inquiries
+Author Inquiries
+Introduction
+Introduction
+Animal Nutrition
+An International Open Access and Peer-Reviewed Journal.
+Animal Nutrition encompasses the full gamut of animal nutritional sciences and reviews including, but not limited to, fundamental aspects of animal nutrition such as nutritional requirements, metabolic studies, body composition, energetics, immunology, neuroscience, microbiology, genetics and molecular and cell biology related to primarily to the nutrition of farm animals and aquatic species.More applied aspects of animal nutrition, such as the evaluation of novel ingredients, feed additives and feed safety will also be considered but it is expected that such studies will have a strong nutritional focus.
+Types of Paper
+Contributions falling into the following categories will be considered for publication: original research papers, reviews, and short communication.
+Authors should select the appropriate article type from the list of options when making your submission. Authors contributing to special issues should ensure that they select the special issue article type from the list.
+Contact Details for Submission
+For queries concerning the submission process or journal procedures please visit the Elsevier Support Center. Authors can determine the status of their manuscript within the review procedure using Elsevier Editorial System.
+Before you begin
+Ethics in Publishing
+For information on Ethics in publishing and Ethical guidelines for journal publication see https://www.elsevier.com/publishingethics and https://www.elsevier.com/journal-authors/ethics.
+Submissions to KeAi journals are automatically screened using iThenticate's CrossCheck within the editorial system to detect plagiarism issues including instances of overlapping and similar text in submitted manuscripts. Details can be found here. High similarity papers will be desk rejected.
+Animal experiments
+If your research involves animal experiments, it is necessary to include a statement, in which the following information should be included:
+All applicable international, national, and/or institutional guidelines for the care and use of animals were followed.
+The name of the ethical committee approving these experiments.
+The animal ethics approval No. (if available); or a stamped document signed by the ethical committee (if an approval No. is not available).
+The statement should appear as the first item in the section of Materials and Methods, e.g. "2.1. Animal ethics statement".
+All animal experiments should comply with the ARRIVE guidelines
+Human subjects
+Does the study include human subjects? If so, please provide name of the ethical committee approving these experiments, confirm authors' compliance with all relevant ethical regulations.
+Informed Consent
+If the manuscript related to clinical study, please provide following pieces of information and state them in the manuscript: 1) date of IRB approval and the approval number, 2) status of informed consent (IC); [e.g. Was written IC required? Was the clinical study approved without IC? If so, the reason why?]
+I confirm that I have obtained all consents required by applicable law for the publication of any personal details or images of patients, research subjects or other individuals that are used in the materials submitted to Elsevier. I have retained a written copy of all such consents and I agree to provide Elsevier with copies of the consents or evidence that such consents have been obtained if requested by Elsevier.
+Clinical research must include IRB approval and patient consent forms.
+Declaration of Competing Interests
+Starting from 2026, all authors must disclose any financial and personal relationships with other people or organizations that could inappropriately influence or bias their work. Examples of potential competing interests include:
+Employment
+Consultancies
+Stock ownership
+Honoraria
+Paid expert testimony
+Patent applications or registrations
+Grants or any other funding
+Affiliation with the journal as an Editor or Advisory Board Member
+The declarations tool should always be completed.
+Authors with a journal affiliation to declare should enter the following text under “Other Activities” within the declarations tool and should inform the journal and publisher prior to completing the submission process:
+Given their role as [insert journal role title], [insert your name] had no involvement in the peer-review of this article and has no access to information regarding its peer-review. Full responsibility for the editorial process for this article was delegated to another journal editor.
+Authors with no competing interests to declare should select the option "I have nothing to declare".
+The resulting Word document containing your declaration should be uploaded at the "attach/upload files" step in the submission process. It is important that the Word document is saved in the .doc/.docx file format. Author signatures are not required.
+Role of the Funding Source
+Authors are requested to identify who provided financial support for the conduct of the research and/or preparation of the article and to briefly describe the role of the sponsor(s), if any, in study design; in the collection, analysis and interpretation of data; in the writing of the report; and in the decision to submit the paper for publication. A maximum of 4 funding sources can be listed. If the funding source(s) had no such involvement then this should be stated.
+Declaration of generative AI in scientific writing
+Authors can declare the use of generative AI in scientific writing upon submission of the paper. The following guidance refers only to the writing process, and not to the use of AI tools to analyse and draw insights from data as part of the research process:
+Generative AI and AI-assisted technologies should only be used in the writing process to improve the readability and language of the manuscript.
+The technology must be applied with human oversight and control and authors should carefully review and edit the result, as AI can generate authoritative-sounding output that can be incorrect, incomplete or biased. Authors are ultimately responsible and accountable for the contents of the work.
+Authors must not list or cite AI and AI-assisted technologies as an author or co-author on the manuscript since authorship implies responsibilities and tasks that can only be attributed to and performed by humans.
+The use of generative AI and AI-assisted technologies in scientific writing can be declared by adding a statement at the end of the manuscript when the paper is first submitted. The statement will appear in the published work and should be placed in a new section before the references list. An example:
+Title of new section: Declaration of generative AI and AI-assisted technologies in the writing process.
+Statement: During the preparation of this work the author(s) used [NAME TOOL / SERVICE] in order to [REASON]. After using this tool/service, the author(s) reviewed and edited the content as needed and take(s) full responsibility for the content of the published article.
+The declaration does not apply to the use of basic tools, such as tools used to check grammar, spelling and references. If you have nothing to disclose, you do not need to add a statement.
+We advise you to read our policy for authors on the use of generative AI and AI-assisted technologies for Elsevier.
+Please note: to protect authors’ rights and the confidentiality of their research, this journal does not currently allow the use of Generative AI or AI-assisted technologies such as ChatGPT or similar services by reviewers or editors in the peer review and manuscript evaluation process. We are actively evaluating compliant AI tools and may revise this policy in the future.
+Submission Declaration
+Submission of an article implies that the work described has not been published previously (except in the form of an abstract or as part of a published lecture or academic thesis or as an electronic preprint, see Multiple, redundant or concurrent publication section of our ethics policy for more information), that it is not under consideration for publication elsewhere, that its publication is approved by all authors and tacitly or explicitly by the responsible authorities where the work was carried out, and that, if accepted, it will not be published elsewhere in the same form, in English or in any other language, including electronically without the written consent of the copyright-holder. To verify originality, the article may be checked by the originality detection service CrossCheck.
+Preprint posting on SSRN
+In support of Open Science, this journal offers its authors a free preprint posting service. Preprints provide early registration and dissemination of your research, which facilitates early citations and collaboration.<P>During submission to Editorial Manager, you can choose to release your manuscript publicly as a preprint on the preprint server SSRN once it enters peer-review with the journal. Your choice will have no effect on the editorial process or outcome with the journal. Please note that the corresponding author is expected to seek approval from all co-authors before agreeing to release the manuscript publicly on SSRN.
+You will be notified via email when your preprint is posted online and a Digital Object Identifier (DOI) is assigned. Your preprint will remain globally available free to read whether the journal accepts or rejects your manuscript.
+For more information about posting to SSRN, please consult the SSRN Terms of Use and FAQs.
+First look
+Please note: posted preprints for this journal will appear in a dedicated journal-branded First Look space on SSRN.
+Use of Inclusive Language
+Inclusive language acknowledges diversity, conveys respect to all people, is sensitive to differences, and promotes equal opportunities. Content should make no assumptions about the beliefs or commitments of any reader; contain nothing which might imply that one individual is superior to another on the grounds of age, gender, race, ethnicity, culture, sexual orientation, disability or health condition; and use inclusive language throughout. Authors should ensure that writing is free from bias, stereotypes, slang, reference to dominant culture and/or cultural assumptions. Animal Nutrition advises to seek gender neutrality by using plural nouns ("clinicians, patients/clients") as default/wherever possible to avoid using "he, she," or "he/she." Animal Nutrition recommends avoiding the use of descriptors that refer to personal attributes such as age, gender, race, ethnicity, culture, sexual orientation, disability or health condition unless they are relevant and valid. These guidelines are meant as a point of reference to help identify appropriate language but are by no means exhaustive or definitive.
+Elsevier Researcher Academy
+Researcher Academy is a free e-learning platform designed to support early and mid-career researchers throughout their research journey. The "Learn" environment at Researcher Academy offers several interactive modules, webinars, downloadable guides and resources to guide authors through the process of writing for research and going through peer review. Feel free to use these free resources to improve your submission and navigate the publication process with ease.
+Peer Review
+This journal operates a single blind review process. Papers deemed suitable are sent to independent peer reviewers to assess the scientific quality of the paper. The editors-in-chief are responsible for the final decision regarding acceptance or rejection of articles. For more information on the types of peer review, please visit: https://www.elsevier.com/reviewers/peer-review.
+All manuscripts are first reviewed by editorial office. Any manuscripts fail to meet the basic standard of the journal would be desk rejected for reasons like out of scope (e.g., pets, mice as experiment animals, pure feed studies without animal experiments), high similarities, poor presentation, etc. Selected manuscripts are assigned to editors-in-chief.
+Editors-in-chief would assign most manuscripts to associate editors and handle the rest themselves.
+For submissions by editors-in-chief or associate editors, only other journal editors could independently handle them.
+Authors or associate editors are not permitted to appoint a handling editor for a manuscript. Researchers from the same research group or the same institution or organization of any of the authors are not to be selected as the handling editors or reviewers.
+Editors-in-chief or associate editors would evaluate the scientific content, desk reject or invite multiple peer reviewers.
+The handling editor would use Find Reviewers Using Scopus tool to invite reviewers, selecting reviewers basing on the relevance to the manuscript. The handling editor would use Web of Science or Scopus to check whether the papers published by the peer reviewer in the past are closely related to the manuscript sent for review.
+After at least 2 peer reviewers complete their reviews, the associate editors would suggest a decision based on review comments. Editors-in-chief would make the final decision and provide review comments to the authors.
+After authors submit the revised manuscript, managing editors would check the revised manuscript and assign it to editors-in-chief. The manuscript may be sent to peer reviewers for further review again.
+Open Access
+This is an open access journal: all articles will be immediately and permanently free for everyone to read and download. Permitted third party (re)use is defined by the following Creative Commons user licenses.
+Copyright
+After the acceptance of a manuscript, authors will be asked to complete a 'Journal Publishing Agreement'. Acceptance of the agreement will ensure the widest possible dissemination of information. An e-mail will be sent to the corresponding author confirming receipt of the manuscript together with a 'Journal Publishing Agreement' form or a link to the online version of this agreement.
+Creative Commons Attribution (CC BY)
+Users are allowed to copy, to create extracts, abstracts and new works from the Article, to alter and revise the Article and to make commercial use of the Article (including reuse and/or resale of the Article by commercial entities), provided the user gives appropriate credit (with a link to the formal publication through the relevant DOI), provides a link to the license, indicates if changes were made and the licensor is not represented as endorsing the use made of the work. The full details of the license are available at https://creativecommons.org/licenses/by/4.0/. (https://www.keaipublishing.com/en/journals/animal-nutrition/open-access-journal/)
+Creative Commons Attribution-NonCommercial-NoDerivs (CC BY-NC-ND)
+Users are allowed to copy and distribute the Article, provided this is not done for commercial purposes and further does not permit distribution of the Article if it is changed or edited in any way, and provided the user gives appropriate credit (with a link to the formal publication through the relevant DOI), provides a link to the license, and that the licensor is not represented as endorsing the use made of the work. The full details of the license are available at https://creativecommons.org/licenses/by-nc-nd/4.0/.
+Author rights
+As an author, you (or your employer or institution) have certain rights to reuse your work. More information
+Elsevier supports responsible sharing
+Find out how authors can share their research published in Elsevier journals.
+Publishing Schedule
+This journal is published quarterly continuously per year.
+Contact Details
+Editorial Office
+Email: editorial.office@anim-nutr.com
+Phone: +86-01-62817823
+Address: Editorial office of Animal Nutrition, No. 2 Yuanmingyuan West Road, Haidian District, Beijing, 100193, China
+Managing editors
+Hanna Wang, Email: hanna@anim-nutr.com
+Xin Chen, Email: xin@anim-nutr.com
+Yunyun Jiang, Email: yun@anim-nutr.com
+Huan Yang, Email: huan@anim-nutr.com
+Article Processing Charges
+Open Access provides free and immediate online access to the scholarly literature for anyone in the world to read, distribute and reuse. Animal Nutrition offsets all the costs associated with our high-quality publishing service through article processing charges (APC): articles that are accepted for publication by our Editors-in-Chief following rigorous peer review incur a publishing fee charged to authors, institutions or funders. The current APC is US$1462 for each article accepted for publication plus VAT or local taxes where applicable. Animal Nutrition is not party to any agreements entered into by Elsevier to waive article publication charges.
+Language Services
+All manuscripts must be written in clear and grammatically correct English. Please write your text in good English (American or British usage is acceptable, but not a mixture of these). Authors who feel their English language manuscript may require editing to eliminate possible grammatical or spelling errors and to conform to correct scientific English may wish to use the English Language Editing service (https://webshop.elsevier.com/language-editing/) available from Elsevier's Author Services or customer support site (https://service.elsevier.com).
+Language Improvement
+Manuscripts should be complete, readable, and accurate. Common language issues should be avoided and typographical, grammatical and bibliographical errors before submission should be minimized by authors.
+Authors whose native language is not English are encouraged to utilize free tools online to improve the syntax of manuscripts before submission or ask the colleagues who are skilled in English language for proofreading:
+–https://translate.google.cn/
+–http://fanyi.youdao.com/
+–https://fanyi.baidu.com/
+–Do a Microsoft Word `spell-check' and `grammar-check'
+–https://www.reverso.net/spell-checker/english-spelling-grammar/
+Editorial Policies
+The Chinese Association of Animal Science and Veterinary Medicine invites scientists from the global community to submit papers for consideration.
+Animal Nutrition follows the guidelines of the Committee on Publication Ethics (COPE; http://publicationethics.org) and authors should refer to COPE for guidance on authorship and publication ethics.
+For more information on journal publication refer to http://www.keaipublishing.com/en/authors-and-editors/editorial-policies/.
+Review of manuscripts
+Upon submission to Animal Nutrition, a manuscript is assigned to an editor, who enlists reviewers to assist in the evaluation of the manuscript. The review process is confidential, which infers a bond of trust among the authors, editor, and reviewers. The editor is trustee of the manuscript until the review process is completed and ensures that the review process is fair, thorough, and confidential. Reviewers are asked not to share the contents of the manuscript with anyone, except that they may ask a colleague to assist with the review with approval of the editor. Communication with authors should only be through the editor. Reviewers should notify the editor of conflicts of interest that may compromise their ability to provide a fair and unbiased review. Moreover, they must recognize their responsibility in maintaining the confidential nature of the review. Authors should suggest names of appropriate reviewers when submitting the manuscript to streamline the review process and may list reviewers whom they consider unacceptable because of potential bias. These recommendations will be considered by the editor when assigning reviewers. Authors will generally be notified of acceptance, rejection, or need for revision within 3 months of receipt.
+Acceptance
+The acceptance of a paper implies that it has been reviewed and recommended by at least 2 peer reviewers. The Editor-in-Chief's decision is final.
+Time limit of manuscript revision
+A reviewed paper returned to authors for revision must be returned to the editor in time. If not, the paper may be treated as a new submission. Under unusual circumstances, editors may extend the revision deadline. If authors do not revise manuscripts and resubmit over 3 months from the date on which they are invited to revise, and has not obtained the delay of modification by the Editorial Office (subject to the major revision of the trial, agree to postpone the revision), they are deemed to have abandoned the amendment and the manuscript is treated as withdrawn.
+Authorship
+Animal Nutrition recommends that authorship be based on the following criteria:
+Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; AND
+Drafting the work or revising it critically for important intellectual content; AND
+Final approval of the version to be published; AND
+Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
+To satisfy the requirement for authorship, each contributor must meet all criteria above. Contributors meeting fewer than the criteria listed here should be listed in the Acknowledgments section of an article.
+Credit Author Statement
+For transparency, Animal Nutrition requires authors to submit a document named as Credit Author Statement or Author Contributions. Please list the same authors as those on the title page and their roles, respectively, separated by a semicolon, in one paragraph.
+Author contributions to the paper include the following relevant roles: conceptualization, data curation, formal analysis, funding acquisition, investigation, methodology, project administration, resources, software, supervision, validation, visualization, writing - original draft, writing - review & editing. More details and an example
+Changes to Authorship and Affiliation
+Authors are expected to consider carefully the list and order of authors and their affiliations before submitting their manuscripts and provide the definitive list of authors and affiliations at the time of the original submission.
+The authorship and affiliation generally cannot be changed after a manuscript has been submitted.
+Submission
+The online submission system Editorial Managerguides authors stepwise through the process of entering the article details and uploading the files. The system converts the files to a single PDF file used in the peer-review process. Editable files (e.g., Word, LaTeX) are required to typeset the article for final publication. All correspondence, including notification of the Editor's decision and requests for revision, is sent by e-mail.
+Poorly written and/or presented manuscripts may be returned to authors by Editorial Office, prior to a review for scientific merit.
+Potential reviewers
+Please submit the names and institutional e-mail addresses of several potential reviewers. Reviewers must not be subject to a conflict of interest involving the author(s) or manuscript(s). The editors are not obligated to use any reviewer suggested by the author(s).
+Submission checklist
+The following list will be useful during the final checking of a manuscript prior to submitting it to the journal for review.
+Authors should use the fewest files possible to facilitate the review and editing processes. Tables and Figures are listed at the end of the manuscript file, with the figure caption below the figure. Tables and figure are started from the next page. If the manuscript Word file is too big (perhaps >20 MB) to upload to the system, use a separate figure file. As optional data, supplemental tables and figures (Table S1, Fig. S1, etc.) are listed in a single supplementary file.
+Continuous line numbers and page numbers are added from the title page to the table and figure pages.
+The manuscript file name is suggested to contain the word "Manuscript" and the family name of the first author, e.g., Manuscript_Zhang.docx.
+All content must be complete. Authors must check and approve the system-generated PDF file, which is for peer review, at the last step of submission.
+Ensure that the following items are correct:
+One author has been designated as the corresponding author with contact details: E-mail address and telephone number.
+Maximum 2 equal corresponding authors, and maximum 3 authors who contribute equally to the work.
+The corresponding author registered in the EM system is consistent with the corresponding author on the title page of the manuscript. The corresponding author is the sole contact for the Editorial process and responsible for communicating with the other authors about progress, submissions of revisions and final approval of proofs.
+All necessary parts have been included in the manuscript
+All tables and figures are self-explanatory with the treatments explained and nonstandard abbreviations defined.
+Keywords: 2 to 6 keywords are listed; the order of keywords is according to their importance to the work.
+For a research article, the 4 elements (purpose, method, results, and conclusion) including experiment design should be clear in the abstract.
+For a research article, the basis (i.e., as-is, as-fed or DM basis) for the dietary ingredients and chemical composition (analyzed not calculated) is specified.
+Do not use sub-tables such as Table 1A, Table 1B, etc.
+Further considerations
+Manuscript has been 'spell-checked' and 'grammar-checked'.
+All references mentioned in the Reference list are cited in the text, and vice versa.
+Permission has been obtained for use of copyrighted material from other sources (including the Web).
+The Conflict of Interest form is provided even if the authors have nothing to declare.
+The Credit Author Statement file is provided.
+Use either the American spelling or the British Spelling, but not the mixture.
+Resubmission
+Responses to the comments of reviewers or referees are organized clearly. For example, state each review comment and reply to each one by one, or use 2 columns of which one states the comment and the other the response.
+Highlight the revised parts in the manuscript, or upload a clean manuscript file and another manuscript file with track changes.
+Appeal of Review Decisions
+An author who disagrees with a review decision may appeal it by contacting the Editorial Office (editorial.office@anim-nutr.com) within 3 months from the decision date. The author is required to state the main reasons for the appeal in an email. The managing editor will consult with the Associate Editor who made the reject decision to determine if the appeal is valid. If the appeal is deemed valid, the Managing Editor will invite the author to resubmit it through the Editorial Manager system to upload the appeal letter responding to the editor's comments, and the manuscript file with tracked changes. If it is again declined, the decision may be appealed to Editors-in Chief, whose decision is final.
+Preparation
+General
+For the format and style, authors can refer to a recent issue of Animal Nutrition or the journal's Format Checklist file (download). A template for a research article or short communication (download) and a review article template (download) can be used. A common and standard abbreviation list (download) and an Endnote journal style (download) is available for Animal Nutrition.
+The main text should be in single-column format and typed double-spaced. Times New Roman font at 12 points is used. The contents in text and tables should be aligned to the left.
+Use of word processing software
+Please prepare manuscripts in Microsoft Word (.doc or .docx format). It is important that the file be saved in the native format of the word processor used. Keep the layout of the text as simple as possible. Most formatting codes will be removed and replaced on processing the article. In particular, do not use the word processor's options to justify text or to hyphenate words. However, do use bold face, italics, subscripts, superscripts etc. The electronic text should be prepared in a way very similar to that of conventional manuscripts (see also the Guide to Publishing with Elsevier). Note that source files of figures, tables and text graphics will be required. See also the section on Electronic artwork.
+To avoid unnecessary errors, authors are strongly advised to use the 'spell-check' and 'grammar-check' functions of your word processor.
+LaTeX
+If the LaTeX file is suitable, proofs will be produced without rekeying the text. The article should preferably be written using Elsevier's document class 'elsarticle', or alternatively any of the other recognized classes and formats supported in Elsevier's electronic submissions system, for further information visit our Support Center.
+The Elsevier 'elsarticle' LaTeX style file package (including detailed instructions for LaTeX preparation) can be obtained from the Quickguide: https://www.elsevier.com/latex. It consists of the file: elsarticle.cls, complete user documentation for the class file, bibliographic style files in various styles, and template files for a quick start.
+Requirements for Review Articles
+Key instructions for a review article are as follows: 1) a review should critically evaluate the existing evidence using the most appropriate literature to comprehensively elucidate a topic, rather than pull together a catalogue of references; 2) it should present a clear picture of the state-of-the-art, highlighting what needs to be done in the future; and 3) it should have an appropriate length with a logical flow of text. The length of a review article excluding the Reference list should generally not exceed 8,000 words.
+The structure of a review article contains the same sections as those of a research article, except it does not include sections of Materials and methods, Results, and Discussion. The requirements of sections of a review article are the same as those of a research article.
+Requirements for Mini-Reviews Articles
+The Mini-Review article type denotes a review with a more concise format compared with a standard review article. The journal is interested in publishing excellent Mini-Reviews.
+Key instructions for a review article are as follows:
+Mini-Reviews must be short and concise, timely, critical and in-depth, address novel aspects or concepts and must be attractive for readers.
+It should have a maximum word count of 2,600 (excluding abstract and references), and may contain no more than 2 Figures/Tables.
+It should be limited to a maximum of three authors.
+At least 50% of the cited literature should be not older than 5 years.
+Mini-Reviews will go through normal peer-review process. Each of accepted Mini-Reviews is charged for the page fee of a normal article for publication.
+Requirements for Research Articles
+A research article includes the following sections in this order:
+Title page
+Abstract and keywords
+Introduction
+Materials and methods
+Results
+Discussion
+Conclusion(s)
+Acknowledgements
+References
+Tables
+Figures
+The sections of the Abstract, main text, Tables and Figures should be independent and self-explanatory. The main text refers to the sections from Introduction to Conclusion(s).
+Title Page
+• Title: Titles are often used in information-retrieval systems. The title should be concise and informative. The length of a paper title is preferably from 10 to 20 words. Avoid using abbreviations and formulae in a paper title where possible. Only widely accepted and well-established abbreviations can appear in the title. Only use generic names in article titles, and minimize the use of names of commercial products throughout the manuscript. Avoid using the words "effect", "impact", "influence" in the title where possible. If there is a (treatment) effect and it is of significance, this information should be made clear in the title.
+• Author names and affiliations: Under the title, names of authors should be typed accurately. The given name is at the first and family name at the last. Use the initials for middle names if any. Present the authors' affiliation addresses (where the actual work was done) below the names. Indicate all affiliations with a lower-case superscript letter after the author's name and in front of the appropriate address. Provide the following information of each affiliation: 1) organization name, 2) city and the postcode, 3) country.
+• Corresponding author: Please use an asterisk (*) to indicate the corresponding author, who will handle correspondence at all stages of refereeing and publication, also post-publication. Ensure that telephone number (with country and area code) is provided in addition to the e-mail address. Contact details must be kept up to date by the corresponding author. Maximum 2 corresponding authors (preferably only one corresponding author).
+• Equal contributors: Maximum 3 authors who contributed equally to the work. Superscript numerals are used for such footnotes.
+• Present/permanent address: If an author has moved since the work described in the article was done, or was visiting at the time, a present address (or permanent address) may be indicated as a footnote to that author's name using a superscript numeral. The address at which the author actually did the work must be retained as the main, affiliation address.
+Abstract
+The Abstract is a one-paragraph short paper, which is preferably within 250 words and no more than approximately 350 words, i.e., it is about one double-spaced page. It usually begins with a clear statement of the objective, briefly states the principal methods including trial information, such as the number of animals, number of replicates, age and body weight of animals, and duration of the experiment, states main findings or results with statistical evidence, i.e., P-value, and ends with main implications or conclusions with no references cited. Use complete sentences and standard terms. Avoid using many abbreviations, the use of references, math formulae, symbols, and tables or figures in the Abstract. The Abstract must be able to stand alone.
+Graphical Abstract
+A graphical abstract is optional, and it is only for peer review. The graphical abstract should summarize the contents of the article in a concise, pictorial form designed to capture the attention of a wide readership. Graphical abstracts should be submitted as a separate file in the online submission system. Image size: Please provide an image with a minimum of 531 pixels × 1328 pixels (h × w) or proportionally more. The image should be readable at a size of 5 cm × 13 cm using a regular screen resolution of 96 dpi. Preferred file types: TIFF, EPS, PDF or MS Office files. Authors can view Example Graphical Abstracts on our information site.
+Keywords
+Please provide 2 to 6 keywords or phrases in the order of importance for subject indexing.
+Keywords should include important words from the title and should be singular, not plural terms, e.g., "pig" not "pigs". Avoid multiple concepts, e.g., "and", "of".
+Be sparing with abbreviations, and only abbreviations firmly established in the field may be eligible.
+The first letters of keywords should be capitalized and keywords are separated by colons.
+Introduction
+The Introduction section states the objectives of the work and provide an adequate background. It contains a brief justification for conducting the research, the hypotheses to be tested, and the objective(s). Extensive discussion of relevant literature should be included in Discussion, not in Introduction.
+Materials and Methods
+This section must contain a clear description of how the experiment was conducted and how the data were analyzed. It should provide sufficient detail to allow the work to be reproduced. Diets, periods of experimental activities if appropriate, animals (breed, sex, age, body weight, and weighing conditions), surgical techniques, measurements, additives (do not just give product names or trademark names).
+For general animal nutrition experiments, the basal diet formulation must specify:
+The components and their respective percentages in the diet.
+The analyzed values of key proximate nutrients.
+Analytical methods should reference internationally recognized standards, national standards (including method numbers), or original methodologies, with appropriate citations.
+Energy and amino acid calculations—including digestible energy (DE), metabolizable energy (ME), net energy (NE), and digestible amino acids—must be derived from established international standards, national guidelines, or original literature. Relevant references should be provided to support these calculations.
+For studies focusing on carbohydrates, amino acids, and minerals, the analyzed values of relevant mono-, di- and oligosaccharides, non-starch polysacchardies (NSP), starch, amino acids and mineral contents in the diet must be included, respectively.
+In feed additive studies, the active components of the additives must be clearly stated. The analytical methods used to determine their composition, along with supporting references, should be described in detail. Manufacturer information must be provided at the first mention of each proprietary product used in the research. The information of kits and key instrument or equipment used in experiments including model type or No., full and standard company name, city, province/state, country are required. The generic term for all drugs and chemicals should be used.
+Methods already published should be indicated by a reference; only relevant modifications should be described.
+For statistical analysis, the software and the mathematical models based on experimental design are required to be provided. The following example is provided for your reference:
+Yij = μ + Ji + eij,
+where Yij is the dependent variable, μ is the overall mean, Jiis the fixed effect of treatment, and eij is the random residual error.
+Results
+For ruminants feeding experiments, the mean values of feed dry matter intake and performance based on measurements of individual animals should be provided.
+Except that the results of gene expression, metabolomics and microorganisms are presented in Figures and electrophoresis, and histopathology are presented in images, all other results are required to be presented in Tables.
+The Results section should be clear and concise, which explain or elaborate on data presented in the tables. Sufficient data, all with some index of variation attached, including significance level (i.e., P-value) should be presented to allow readers to interpret the results of the experiment.
+One of the hallmarks for experimental evidence is repeatability. Care should be taken to ensure that experiments are adequately replicated. The results of experiments must be replicated, either by replicating treatments within experiments or by repeating experiments.
+The terms “significant” and “highly significant” are commonly applied to describe differences meeting thresholds of P < 0.05 and P < 0.01, respectively, and the term "tendency" may be used when P-value is between 0.05 and 0.10
+Throughout the manuscript, the authors are required to use the specific P-values that includes 3 decimal places when reporting results of single parameters, rather than arbitrary P-values such as P < 0.05 and P < 0.01. P-values less than 0.001 should be reported as P < 0.001.
+Discussion
+The Discussion section should explore the significance of the results of the work. Discussion integrates the research findings with the body of previously published literature to provide the reader with a broad base on which to accept or reject the hypotheses tested. Avoid extensive citations and discussion of published literature.
+The Results section should not contain discussion of previously published work. Results and references to tables and figures already described in the Results section should not be repeated in the Discussion section.
+Conclusion(s)
+The main finding or conclusions of the study is required to be summarized in a brief paragraph.
+Vitae
+Authors may submit a short (maximum 100 words) biography of each author, along with a passport-type photograph accompanying the other figures, in an editable format (e.g., Word).
+Acknowledgements
+The Acknowledgments section should list sources of financial support with grant numbers, experiment station, and those individuals (not including editing service companies), who provided help during the research (e.g., providing language help, writing assistance or proof reading the article, etc.) in a succinct and appropriate manner but not as a long list of tributes and accolades.
+Author contributions
+For transparency, we require corresponding authors to provide co-author contributions to the manuscript using the relevant CRediT roles. The CRediT taxonomy includes 14 different roles describing each contributor's specific contribution to the scholarly output. The roles are: Conceptualization; Data curation; Formal analysis; Funding acquisition; Investigation; Methodology; Project administration; Resources; Software; Supervision; Validation; Visualization; Roles/Writing - original draft; and Writing - review & editing. Note that not all roles may apply to every manuscript, and authors may have contributed through multiple roles. More details and an example.
+References
+All publications cited in the text should be presented in a list of references following the text of the manuscript. The manuscript should be carefully checked to ensure that the spelling of authors' names and dates are exactly the same in the text as in the reference list. The accuracy of the references is the responsibility of the author(s).
+References published in other than the English language should be avoided, but are acceptable if they include an English language Abstract and the number of non-English language references cited are reasonable (in the view of the handling Editor) relative to the total number of references cited.
+All references mentioned in the Reference list are cited in the text, and vice versa. Unpublished results and personal communications are not permitted in the reference list, but may be mentioned in the text.
+Web references
+As a minimum, the full URL should be given and the date when the reference was last accessed. Any further information, if known (author names, dates, reference to a source publication, etc.), should also be given. Web references are included in the reference list, not listed separately.
+References in a Special Issue
+Please ensure that the words 'this issue' are added to any references in the list (and any citations in the text) to other articles in the same Special Issue.
+Citations in text
+All citations in the text should refer to:
+Single author: the author's name (without initials, unless there is ambiguity) and the year of publication;
+Two authors: both authors' names and the year of publication;
+Three or more authors: first author's name followed by 'et al.' and the year of publication.
+Citations may be made directly or parenthetically. Groups of references should be listed first alphabetically, then chronologically.
+Examples: 'as demonstrated (Allan, 1996a, 1996b, 1999; Allan and Jones, 1995). Kramer et al. (2000) have recently shown ...'
+Reference list
+References should be arranged first alphabetically and then further sorted chronologically if necessary. More than one reference from the same author(s) in the same year must be identified by the letters 'a', 'b', 'c', etc., placed after the year of publication.
+Examples:
+Reference to a journal publication:
+Van der Geer J, Hanraads JAJ, Lupton RA. The art of writing a scientific article. J Sci Commun 2000;163:51–9.
+Reference to an article within a journal supplement:
+Frumin AM, Nussbaum J, Esposito M. Functional asplenia: demonstration of splenic activity by bone marrow scan. Blood 1979;59 (Suppl 1):26–32.
+Reference to an abstract:
+Ferrara N, Houck K, Jakeman L. The biology of vascular endothelial growth factor. J Acq Immun Def Synd 1993;6:687 (Abstract).
+Reference to a book:
+Strunk Jr W, White EB. The elements of style. 3rd ed. New York: Macmillan, 1979.
+Reference to a chapter in an edited book:
+Mettam GR, Adams LB. How to prepare an electronic version of your article. In: Jones BS, Smith RZ, editors. Introduction to the electronic age. New York: E-Publishing Inc.; 1994. p. 281–304.
+Reference to an online document:
+Doe J. Title of subordinate document. In: The dictionary of substances and their effects. Royal Society of Chemistry. 1999. http://www.rsc.org/dose/title of subordinate document [accessed 15 Jan 1999].
+Reference to an online database:
+Healthwise Knowledgebase. US Pharmacopeia, Rockville. 1998. http://www.healthwise.org [accessed 21 Sept 1998].
+Reference to a thesis:
+Su J. Research of Fusarium toxins on anti-nutritional effect and its mechanism of pigs. [Doctor Degree Thesis Dissertation]. Sichuan Agricultural University; 2008.
+Reference using doi:
+Zhang N. Role of methionine on epigenetic modification of DNA methylation and gene expression in animals. Anim Nutr 2017. doi: 10.1016/j.aninu.2017.08.009.
+Reference to NRC:
+NRC (National Research Council). Nutrient Requirements of Fish and Shrimp. Washington (DC): The National Academy Press; 2007. p. 206 - 7.
+NRC (National Research Council). Nutrient Requirements of Swine. 11th ed. Washington (DC): National Academic Press; 2012.
+Reference to AOAC:
+AOAC. Official Methods of Analysis. 18th ed. Gaithersburg, MD, USA: AOAC International; 2006.
+AOAC. Official Methods of Analysis. 18th ed. Gaithersburg, MD, USA: AOAC International; 2005.
+Reference to Chinese resources:
+China Feed Database. Tables of Feed Composition and Nutritive Values in China (in Chinese). 2020. https://www.chinafeeddata.org.cn/admin/Login/slcfb [Accessed 18 December 2020].
+Bureau of Fisheries of the Ministry of Agriculture and Rural Affairs (MARA) of the People's Republic of China. China Fishery Statistical Yearbook. Beijing, China: China Agriculture Press; 2020. p. 24-34.
+Ministry of Ecology and Environment of the People's Republic of China. Report on the State of the Ecology and Environment in China 2019. http://english.mee.gov.cn/Resources/Reports/soe/SOEE2019/202012/P020201215587453898053.pdf [accessed 27 Sept 2022]
+Ministry of Agriculture of the People's Republic of China. China National Feeding Standard of Swine (NY/T 65-2004). Beijing, China: China Agriculture Press; 2004.
+Ministry of Agriculture of the People's Republic of China. China National Feeding Standard of Chicken (NY/T 33-2004). Beijing, China: China Agriculture Press; 2004.
+China National Standard. Determination of nitrate nitrogen in soil-ultraviolet spectrophotometry method. GB/T 32737-2016. Beijing: Standards Press of China; 2016.
+Reference to European Commission:
+European Commission. Commission Directive 98/64/EC of 3 September 1998: Establishing community methods of analysis for the determination of amino-acids, crude oils and fats, and olaquindox in feeding stuffs, and amending Directive 71/393/EEC. Off. J. L257: 0014-0028.1998.
+Reference to software:
+R Core Team. R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. 2021. https://www.R-project.org/.
+Note shortened form for last page number. e.g.,51–9, and that for more than 6 authors the first 6 authors should be listed followed by 'et al.' For further details, authors are referred to "Uniform Requirements for Manuscripts submitted to Biomedical Journals" (J Am Med Assoc 1997;277:927–34), see also http://www.nlm.nih.gov/tsd/serials/terms_cond.html
+Journal abbreviations source
+Journal names should be abbreviated according to
+Index Medicus journal abbreviations: [http://www.nlm.nih. gov/tsd/serials/lji.html](http://www.nlm.nih. gov/tsd/serials/lji.html);
+List of title word abbreviations: http://www.issn.org/2-22661-LTWA-online.php;
+CAS (Chemical Abstracts Service): http://www.cas.org/sent.html.
+Tables
+• "Table" is always capitalized and never abbreviated, such as Table 1.
+• Please submit tables as editable text and not as images.
+• Be sparing in the use of tables and ensure that the data presented in them do not duplicate results described elsewhere in the article.
+• The content of Tables can be typed single-spaced at 12 or smaller points. Align the data of the Table to the left.
+• Put only one thing in each table cell, instead of several things.
+• Limit the data field to the minimum needed for meaningful comparison within the accuracy of the methods. For example, results should not be presented to 5 digits when the instrument used only reads to 2 digits.
+• Specify the basis (i.e., as-is, as-fed or dry matter basis) for dietary ingredient and chemical composition data listed in the main text or in tables. Similarly, specify the basis for tissue composition data (e.g., wet or dry basis).
+• Units of measure for each variable must be indicated. Commas should be used to separate items or headings from the units of measure.
+• Abbreviations used in Tables must be defined and consistent with those used in the text.
+• Each footnote begins a new line. Use superscript numbers to indicate footnotes, and superscript letters to indicate statistical comparisons.
+• Provide sufficient information so that Tables can be understood without excessive reference to the text.
+• Present a horizontal Table on a horizontal page.
+Figures
+• "Figure" is abbreviated to "Fig.", such as Fig. 1.
+• Ensure all Figures clear enough to be seen, especially the number and words (suggest the size to be no smaller than 8 points).
+• Keep text in the Figures themselves to a minimum, and the font and size of numbers and words in all the Figures should be consistent.
+• Provide sufficient information in captions so that Figures can be understood without excessive reference to the text.
+• Animal Nutrition is a fully electronic journal. Authors are encouraged to use color to enhance figures. However, please only use color when absolutely necessary because many people are color blind.
+• Present a horizontal Figure on a horizontal page.
+Figure captions
+Place the Figure caption under the Figure. Figure captions should comprise a brief title (not on the figure itself), a description of the figure, and abbreviation definitions. Explain each sub-figure after "(A)", "(B)", "(C)" etc. in the caption when sub-figures are used. The capital letters (A, B, C, etc.) are at the upper-left corner to sub-figures.
+Axes
+It is permissible to use an abbreviation for the axis description as long as it is a common abbreviation or identified in the caption. Units of measures, when needed, follow the axis description, separated by a comma.
+Electronic artwork
+General points
+• Make sure to use uniform lettering and sizing of your original artwork.
+• Save text in illustrations as “graphics” or enclose the font.
+• Only use the following fonts in your illustrations: Arial, Courier, Times, Symbol.
+• Number the illustrations according to their sequence in the text.
+• Use a logical naming convention for your artwork files.
+• Provide captions to illustrations separately.
+• Produce images near to the desired size of the printed version.
+A detailed guide on electronic artwork is available.
+Authors are urged to visit this site; some excerpts from the detailed information are given here.
+Formats
+Regardless of the application used, when your electronic artwork is finalized, please “save as” or convert the images to one of the following formats (note the resolution requirements for line drawings, halftones, and line/halftone combinations given below):
+EPS: Vector drawings. Embed the font or save the text as “graphics”
+TIFF: color or grayscale photographs (halftones): always use a minimum of 300 dpi.
+TIFF: Bitmapped line drawings: use a minimum of 1,000 dpi.
+TIFF: Combinations bitmapped line/half-tone (color or grayscale): a minimum of 500 dpi is required.
+If your electronic artwork is created in a Microsoft Office application (Word, PowerPoint, Excel) then please supply 'as is'.
+Please do not:
+• Supply files that are optimized for screen use (e.g., GIF, BMP, PICT, WPG); the resolution is too low;
+• Supply files that are too low in resolution;
+• Submit graphics that are disproportionately large for the content.
+Color Artwork
+Please make sure that artwork files are in an acceptable format (TIFF or JPEG, EPS or PDF, or MS Office files) and with the correct resolution. If, together with your accepted article, authors submit usable color figures then Elsevier will ensure, at no additional charge, that these figures will appear in color on the Web (e.g., ScienceDirect and other sites) regardless of whether or not these illustrations are reproduced in color in the printed version.
+Appendix and Supplementary Data
+Appendix and supplementary data are optional. They may contain supplementary material, explanations, and elaborations that are not essential to other major sections but are helpful to the reader. They are not directly presented on the article but can be download via a link on the web page. The supplemental Table and Figure names should be as follows: Table S1, Table S2, etc., Fig. S1, Fig. S2, etc.
+Units of Measure
+Follow internationally accepted rules and conventions. Use the international system of units (SI) and SI derived units that are widely used in conjunction with SI units. The following site (National Institute of Standards and Technology) provides a comprehensive guide to SI units and usage: http://physics.nist.gov/cuu/Units/index.html
+Suggest not using ppm, which is not a SI unit, and replace ppm with mg/kg, μg/g, mg/L, μg/mL, μL/L, or nL/mL when possible.
+Use metric ton or tonne, e.g., 32.8 g/metric ton, 13.6 g/tonne.
+Centrifugal force
+Centrifugal force should be provided in × g with the duration, temperature, and type of centrifugation, e.g., "centrifuged at 3,000 × g at 4 °C for 15 min". Centrifugation expression using "rpm" or "r/min" should be converted to centrifugal force, because g force depends on radius of the rotor and the speed of revolution.
+Relative Centrifugal Force (RCF) = (rpm)2 × 1.118 × 10-5 × r, where r is the radius of the rotor.
+The following websites give a list of conversions: http://www.endmemo.com/bio/grpm.php, https://bcf.technion.ac.il/portfolio/rcfrpm-conversion/.
+Numbers
+The values in the tables and the text should be given with meaningful decimals; practically, the last digit should correspond to about one tenth of the standard error.
+Use numerals rather than words to express whole and decimal numbers in scientific text, titles, headings, tables, and figure captions, e.g., 4 times, 6 groups, except when they begin a sentence.
+For most general uses, spell out zero and one. However, use numerals when they are directly connected to a unit of measure or when they specify assigned or calculated values, e.g., 1 year, a mean of 0.
+Use numerals to designate mathematical relationships, such as ratios and multiplication factors, e.g., 5:1, at 100× magnification, 3-fold.
+Use thousand separator commas in numbers equal to or greater than 10,000.
+Numbers share a same unit of measure, e.g., 9.80, 9.55 and 9.71 MJ/kg.
+The percentage sign is not shared, e.g., 10% to 20%.
+Use "to" for a numeral range, e.g., from 2 to 10 d.
+Math Formulae
+Please submit math equations as editable text and not as images. Present simple formulae in the line of text where possible and use the solidus (/) instead of a horizontal line for small fractional terms, e.g., X/Y. Only one slash may be used in any give expression, e.g., (a/b)/c, not a/b/c.
+Display complex formulae separately from the text, and use MathType to enter complex formulae. If they are referred to explicitly in the text, number them consecutively.
+Abbreviations
+For an unabbreviated term that is long or complex, use of an abbreviation may be helpful. Where such a term is continually referred to, it must be written in full and followed by the subsequent abbreviation in parentheses. It should be consistently defined in the abstract, re-defined in the main text, and re-defined in tables and figures when it first appears; thereafter, the abbreviation is always used.
+Either provide the full name of gene abbreviations at the first mentions or provide a supplementary Table including the genes and their full names.
+Common and standard abbreviations (a list is provided in the General section) can be directly used without being defined, but the intended meaning must be unambiguous from the context.
+Chemical symbols and 3-letter abbreviations for amino acids can be directly used without definition.
+Single-letter abbreviations that could be confused with chemical elements (e.g., P, C, S, N) are not suggested to be used.
+Excessive use of abbreviations can confuse the reader. If an abbreviation is not used in the following text, it should not be used; the term it represents should be spell out, or the text in which it appears should be rewritten to eliminate the need for the abbreviation.
+Abbreviations are generally fully spelled in the beginning of sentences.
+Liter or Litre is always a capital letter "L", e.g. mL, dL.
+Use "Exp." for experiment and "Eq." for equation, e.g., Exp. 1, Eq. 1.
+Use "s", "min", "h", "d" for second, minute and day, e.g., 2 h, 3 min, 20 s, 5 d, and d 9.
+P (probability) is always a capital letter P in italics, e.g., P-value.
+Plural abbreviations do not require "s."
+Uppercase
+Only capitalize the first word and any proper nouns in the paper title, section headings, Table and Figure titles, Table column and row headings.
+Trademarked product names should be capitalized.
+Italic
+Non-English words in common usage (as shown in https://dictionary.cambridge.org/, https://www.merriam-webster.com/) are not in italics, e.g., in vitro, in vivo, ad libitum, in situ, a priori, spp., vs., i.e., et al., etc.
+Italicize statistical letters, n for sample size, P for probability, R, etc.
+Represent variables by a single letter in italics in mathematical expressions, e.g., x, y.
+Italicize letters and numerals used as a symbol for a gene.
+Italicize bacteria names only at the genus and species levels.
+Write the full Latin names of bacteria genera, plants, and insects at the first mention in the abstract, and again in the main text such as Butyrivibrio fibrisolvensi, and thereafter in the short forms, such as B. fibrisolvensi.
+Genes
+Current standard international nomenclature for genes should be adhered to. Authors are required to use only approved gene and protein names and symbols. In general, full gene names should not be italicized and gene symbols should be in italics. A protein symbol should be in the same format as its gene except the protein symbol should not be in italics. For human genes, use genetic notation and symbols approved by the HUGO Gene Nomenclature Committee (http://www.genenames.org/) or refer to PubMed ([http://www.ncbi.nlm.nih.gov/sites/ entrez](http://www.ncbi.nlm.nih.gov/sites/ entrez)). The Human Genome Variation Society also has a useful site that provides guidance in naming mutations at http://www.hgvs.org/mutnomen/index.html
+When any gene expression work is involved, the reference gene(s) used must be optimised according to the guideline The Minimum Information for Publication of Quantitative Real-Time PCR Experiments (MIQE) (https://doi.org/10.1373/clinchem.2008.112797).
+Others
+Registered (®) and trademark (©, ™) symbols should not be used, unless as part of an article title in the References section.
+In the main text, spaces should be added around all signs (except slant lines) of operation (=, −, +, ±, ×, ≥, >, ≤, or <) when these signs occur between 2 items.
+Avoid jargon unfamiliar to scientists from other disciplines. Do not use the term "head" to refer to an animal or group of animals. Instead, use "animal, sow, ewe, steer, heifer, cattle", etc.
+Preprint references
+Where a preprint has subsequently become available as a peer-reviewed publication, the formal publication should be used as the reference. If there are preprints that are central to your work or that cover crucial developments in the topic, but are not yet formally published, these may be referenced. Preprints should be clearly marked as such, for example by including the word preprint, or the name of the preprint server, as part of the reference. The preprint DOI should also be provided.
+Research Data
+This journal encourages and enables authors to share data that supports their research publication where appropriate, and enables authors to interlink the data with their published articles. Research data refers to the results of observations or experimentation that validate research findings. To facilitate reproducibility and data reuse, this journal also encourages authors to share the software, code, models, algorithms, protocols, methods and other useful materials related to the project.
+Below are a number of ways in which authors can associate data with their article or make a statement about the availability of their data when submitting the manuscript. If authors are sharing data in one of these ways, authors are encouraged to cite the data in the manuscript and reference list. Please refer to the 'References' section for more information about data citation. For more information on depositing, sharing and using research data and other relevant research materials, visit the research data page.
+Data Linking
+If authors have made their research data available in a data repository, authors can link their article directly to the dataset. Elsevier collaborates with a number of repositories to link articles on ScienceDirect with relevant repositories, giving readers access to underlying data that give them a better understanding of the research described.
+There are different ways to link authors' datasets to authors' article. When available, authors can directly link their dataset to their article by providing the relevant information in the submission system. For more information, visit the database linking page.
+For supported data repositories a repository banner will automatically appear next to the published article on ScienceDirect.
+In addition, authors can link to relevant data or entities through identifiers within the text of their manuscript, using the following format: Database: xxxx (e.g., TAIR: AT1G01020; CCDC: 734053; PDB: 1XFN).
+Mendeley Data
+This journal supports Mendeley Data, enabling authors to deposit any research data (including raw and processed data, video, code, software, algorithms, protocols, and methods) associated with the manuscript in a free-to-use, open access repository. During the submission process, after uploading the manuscript, authors will have the opportunity to upload their relevant datasets directly to Mendeley Data. The datasets will be listed and directly accessible to readers next to their published article online.
+For more information, visit the Mendeley Data for journals page.
+Data statement
+To foster transparency, Animal Nutrition encourages authors to state the availability of the data in their submission. This may be a requirement of the funding body or institution. If the data is unavailable to access or unsuitable to post, authors will have the opportunity to indicate why during the submission process, for example by stating that the research data is confidential. The statement will appear with the published article on ScienceDirect. For more information, visit the Data Statement page.
+After acceptance
+Use of the Digital Object Identifier
+The Digital Object Identifier (DOI) may be used to cite and link to electronic documents. The DOI consists of a unique alpha-numeric character string which is assigned to a document by the publisher upon the initial electronic publication. The assigned DOI never changes. Therefore, it is an ideal medium for citing a document, particularly 'Articles in press' because they have not yet received their full bibliographic information. The correct format for citing a DOI is shown as follows (example taken from a document in the journal Physics Letters B):https://doi.org/10.1016/j.physletb.2010.09.059
+When authors use a DOI to create links to documents on the web, the DOIs are guaranteed never to change.
+Proofs
+One set of page proofs (as PDF files) will be sent by e-mail to the corresponding author or a link will be provided in the e-mail so that authors can download the files themselves. To ensure a fast publication process of the article, Animal Nutrition kindly asks authors to provide us with their proof corrections within two days. Elsevier now provides authors with PDF proofs which can be annotated; for this authors will need to download the free Adobe Reader, version 9 (or higher). Instructions on how to annotate PDF files will accompany the proofs (also given online). The exact system requirements are given at the Adobe site.
+If authors do not wish to use the PDF annotations function, authors may list the corrections (including replies to the Query Form) and return them to Elsevier in an e-mail. Please list the corrections quoting line number. If, for any reason, this is not possible, then mark the corrections and any other comments (including replies to the Query Form) on a printout of the proof and scan the pages and return via e-mail. Please use this proof only for checking the typesetting, editing, completeness and correctness of the text, tables and figures. Significant changes to the article as accepted for publication will only be considered at this stage with permission from the Editor. Animal Nutrition will do everything possible to get articles published quickly and accurately. It is important to ensure that all corrections are sent back to Animal Nutrition in one communication: please check carefully before replying, as inclusion of any subsequent corrections cannot be guaranteed. Proofreading is solely authors' responsibility.
+Author inquiries
+Author Inquiries
+Authors can track their submitted article at https://www.elsevier.com/track-submission. Authors can track their accepted article at https://www.elsevier.com/trackarticle. Authors are also welcome to contact Customer Support via https://service.elsevier.com.
+Stay Informed
+Register your interest and receive email alerts tailored to your needs. Sign up below.
+First name *
+Surname *
+Email address *
+Subject area *
+KeAi may contact you to share the latest updates about products, services, promotions, and events. If you do not wish to receive such messages, please check this box.

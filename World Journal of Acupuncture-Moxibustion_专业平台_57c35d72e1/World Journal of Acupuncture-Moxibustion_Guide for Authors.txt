@@ -1,0 +1,380 @@
+期刊: World Journal of Acupuncture-Moxibustion
+来源: https://www.keaipublishing.com/en/journals/world-journal-of-acupuncture-moxibustion/guide-for-authors/
+标题: Guide for Authors
+
+Guide for Authors
+Guide for authors
+Aim
+Scope
+Characteristic
+General introduction
+Monitored by: National Administration of Traditional Chinese
+Sponsored by: three of the top-ranking academic societies
+Reporting sex- and gender-based analyses
+Database
+Types of article
+Manuscript Submission
+Submission checklist
+Ethics in publishing
+Ethical Approval of Studies and Informed Consent
+Studies in humans and animals
+Declaration of competing interests
+Submission declaration and verification
+Declaration of generative AI in scientific writing
+Use of inclusive language
+Authorship
+Changes of Authorship
+Reporting Clinical Trials
+Registration of clinical trials
+Consent to publish
+Previous Publication or Duplicate Submission
+Copyright
+Role of the funding source
+Open access
+Creative Commons Attribution-NonCommercial-NoDerivs (CC BY-NC-ND)
+Elsevier Researcher Academy
+Language (usage and editing services)
+Supporting Documents
+Preparation
+Queries
+Peer review
+Use of word processing software
+Title Page
+Abstract and Keywords
+Main Text
+Abbreviations
+Numbers
+Units
+Acupoints
+Meridians
+Classics
+Names of drugs, devices and other products
+Gene nomenclature
+Statistical requirements
+Personal communications and unpublished data
+Funding/Support Statement
+Acknowledgments
+Figures
+Formats
+Tables
+References
+In the main text, tables, figure legends
+Data references
+Reference management software
+In the references list
+Supplementary material
+Research data
+Data linking
+Mendeley Data
+Data statement
+After Acceptance
+Online proof correction
+Post-publication amendments
+Guide for authors
+Aim
+To inherit the theories and practices of acupuncture medicine, collect the findings of scientific research of acupuncture, publicize and promote the practical technology of acupuncture, boost the understanding, exchange, and cooperation around the world in the field of acupuncture medicine and and strive to improve human health and health care worldwide.
+Scope
+Original articles and reviews of clinical practice, scientific research, literature, theory and education of acupuncture medicine worldwide.
+limited, the focus of the journal includes, but is not confined to, clinical researches, case reports, summaries of clinical experiences, experimental researches, literature researches, theory researches, teaching researches, reviews, perspectives, standards and guidelines on acupuncture, moxibustion, tuina, cupping, massage, etc.
+Characteristic
+As an international academic journal of acupuncture-moxibustion from the cradle country of acupuncture medicine, World Journal of Acupuncture-Moxibustion (WJAM) has a diverse range of authors and readers, who are practicing and studying acupuncture around the world, regardless of their gender, ethnic origin, country and background. This journal strives to promote acupuncture medicine as an independent and systematic discipline rather than a complementary intervention worldwide.
+General introduction
+WJAM was launched in 1991 in Beijing China, administered by National Administration of Traditional Chinese Medicine, and sponsored by World Federation of Acupuncture-Moxibustion Societies (WFAS), Institute of Acupuncture and Moxibustion, China Academy of Chinese Medical Sciences (CACMS), and China Association of Acupuncture and Moxibustion (CAAM). WJAM is the first acupuncture and moxibustion academic journal in English language in China and has been published smoothly and healthy for more than 30 years.
+Monitored by: National Administration of Traditional Chinese
+The administration origination of WJAM is National Administration of Traditional Chinese Medicine, which is the highest policy decision organization of traditional Chinese medicine in China and administered 28 academic journals in the field of traditional Chinese medicine. It is the most authoritative origination for developing the traditional Chinese medicine academic journals in China.
+Sponsored by: three of the top-ranking academic societies
+The three sponsored origination of WJAM are three of the best acupuncture and moxibustion academic communities all over the world. For a long time, these three organizations have strongly sponsored the construction and development of WJAM, providing a strong guarantee in human, material and financial resources.
+(1) The first one is WFAS. WFAS was developed in 1991, and was the first academic non-governmental organization which settled the head office in China. WJAM is the only membership journal of WFAS, born with the same time period of WFAS establishment. WFAS is a non-governmental international union of acupuncture-moxibustion societies that builds official relations with the World Health Organization (WHO) and A-level liaison with the International Organization for Standardization (ISO). At present, there are 246 group members, representing nearly 400,000 acupuncture workers in 70 countries and regions.
+(2) The second one is Institute of Acupuncture and Moxibustion, China Academy of Chinese Medical Sciences (CACMS). Established in 1951, the Institute of Acupuncture and Moxibustion is the leading research organization for acupuncture at national level in China. It is a comprehensive research organization subordinated to National Administration of Traditional Chinese Medicine, including scientific research, educational training and medical practice, etc. During the past 70 years since establishment, the institute has presided over almost all of the major national scientific projects of acupuncture and meridian and obtained a number of high-level scientific achievements. So far, more than 130 projects participated in and presided over by the Institute have won the First, Second and Third Prizes of scientific and technological progress of the national, provincial, society and institute levels. The major scientific research progress has been made in acupuncture basic theory research, acupuncture analgesia research, acupoint effect regularity research and meridian research, which leads the development direction of acupuncture research. Institute of Acupuncture and Moxibustion plays an extremely important role in the history of acupuncture discipline development.
+(3) The third one is China Association of Acupuncture and Moxibustion (CAAM). CAAM is a National First-Level Society of China Association for Science and Technology, a national, academic and non-profit legal corporate social organization formed voluntarily by science and technology workers and related units of acupuncture medicine and relevant fields nationwide. It is one of the most important academic groups in promoting the cause of acupuncture medicine. At present, it has more than 40,000 members, including the teachers, research specialists, clinicians and acupuncture researchers from universities and colleges, research institutes, clinical hospitals of traditional Chinese medicine, as well as academic research groups of traditional Chinese medicine. CAAM sponsors three acupuncture academic journals, i.e. Chinese Acupuncture and Moxibustion, Acupuncture Research and WJAM, and WJAM is the only journal in English language. In China, the hard copy platform constructed by these three journals accounts for the half proportion in the scientific and technological publishing of acupuncture field in China.
+Reporting sex- and gender-based analyses
+Reporting guidance
+For research involving or pertaining to humans, animals or eukaryotic cells, investigators should integrate sex and gender-based analyses (SGBA) into their research design according to funder/sponsor requirements and best practices within a field. Authors should address the sex and/or gender dimensions of their research in their article. In cases where they cannot, they should discuss this as a limitation to their research's generalizability. Importantly, authors should explicitly state what definitions of sex and/or gender they are applying to enhance the precision, rigor and reproducibility of their research and to avoid ambiguity or conflation of terms and the constructs to which they refer (see Definitions section below). Authors can refer to the Sex and Gender Equity in Research (SAGER) guidelines and the SAGER guidelines checklist. These offer systematic approaches to the use and editorial review of sex and gender information in study design, data analysis, outcome reporting and research interpretation - however, please note there is no single, universally agreed-upon set of guidelines for defining sex and gender.
+Definitions
+Sex generally refers to a set of biological attributes that are associated with physical and physiological features (e.g., chromosomal genotype, hormonal levels, internal and external anatomy). A binary sex categorization (male/female) is usually designated at birth ("sex assigned at birth"), most often based solely on the visible external anatomy of a newborn. Gender generally refers to socially constructed roles, behaviors, and identities of women, men and gender-diverse people that occur in a historical and cultural context and may vary across societies and over time. Gender influences how people view themselves and each other, how they behave and interact and how power is distributed in society. Sex and gender are often incorrectly portrayed as binary (female/male or woman/man) and unchanging whereas these constructs actually exist along a spectrum and include additional sex categorizations and gender identities such as people who are intersex/have differences of sex development (DSD) or identify as non-binary. Moreover, the terms "sex" and "gender" can be ambiguous—thus it is important for authors to define the manner in which they are used. In addition to this definition guidance and the SAGER guidelines, the resources on this page offer further insight around sex and gender in research studies.
+Database
+WJAM is indexed in Web of Science (WoS), Emerging Sources Citation Index (ESCI), Scopus, Science Direct (SD), Excerpta Medica Database (EMBASE), Chinese Science Citation Database (CSCD), Japan Science and Technology Agency (JST), Chinese Science and Technology Paper and Citation Database (CSTPCD) and China National Knowledge Infrastructure (CNKI).
+Types of article
+Article types considered for publication include original researches (clinical researches, experimental researches, literature researches, theory researches, teaching researches, etc.), reviews, perspectives, standards, guidelines, academic discussion, invited articles, case reports, and brief communications. Please select the category that best describes your paper. If your paper does not fall into any of these categories, please contact the Editorial Office.
+Manuscript Submission
+Online Submission
+Manuscripts (meaning all submission items, including all text, tables, artwork, cover letter, conflicts of interest disclosures, and any other required documents/material) must be submitted online to the WJAM through Editorial Manager. This system can be accessed at https://www2.cloud.editorialmanager.com/wjam/default2.aspx. This site will guide authors stepwise through the submission process. If assistance is required, please refer to the tutorials and/or customer support that are available on the Editorial Manager website; you may also contact the Editorial Office. Please do not post, fax or e-mail your manuscripts to the Editorial Office.
+Editorial office of World Journal of Acupuncture-Moxibustion
+Institute of Acupuncture and Moxibustion, CACMS
+No.16 Nanxiaojie, Dongzhimen Nei, Dongcheng District, Beijing 100700, P. R. China.
+Tel.: 0086-010-64089347
+E-mail: wjam1991@vip.sina.com
+ORCiD ID: Our journal supports the use of ORCiD ID. Authors are encouraged to provide ORCiD ID at submission. Authors are encouraged to provide ORCiD ID at submission.
+Submission checklist
+You can use this list to carry out a final check of your submission before you send it to the journal for review. Please check the relevant section in this Guide for Authors for more details.
+Ensure that the following items are present:
+One author has been designated as the corresponding author with contact details:
+• E-mail address
+• Full postal address
+All necessary files have been uploaded:
+Manuscript:
+• Include keywords
+• All figures (include relevant captions)
+• All tables (including titles, description, footnotes)
+• Ensure all figure and table citations in the text match the files provided
+• Indicate clearly if color should be used for any figures in print
+Supplemental files (where applicable)
+Further considerations
+• Manuscript has been 'spell checked' and 'grammar checked'
+• All references mentioned in the Reference List are cited in the text, and vice versa
+• Permission has been obtained for use of copyrighted material from other sources (including the Internet)
+• A competing interests statement is provided, even if the authors have no competing interests to declare
+• Journal policies detailed in this guide have been reviewed
+• Referee suggestions and contact details provided, based on journal requirements
+For further information, visit our Support Center.
+Ethics in publishing
+Please see our information pages on Ethics in publishing and Ethical guidelines for journal publication.
+Submissions to KeAi journals are automatically screened using iThenticate's CrossCheck within the editorial system to detect plagiarism issues including instances of overlapping and similar text in submitted manuscripts. Details can be found here. High similarity papers will be desk rejected.
+Ethical Approval of Studies and Informed Consent
+For human or animal experimental investigations, appropriate institutional review board or ethics committee approval is required, and such approval, including the official approval code, should be stated in the methods section of the manuscript. For those investigators who do not have formal ethics review committees, the principles outlined in the Declaration of Helsinki should be followed (World Medical Association. Declaration of Helsinki: ethical principles for medical research involving human subjects. Available at: http://www.wma.net/en/30publications/10policies/b3/17c.pdf).
+For investigations in humans, state explicitly in the methods section of the manuscript that informed consent was obtained from all participating adults and from parents or legal guardians for minors or incapacitated adults, together with the manner in which informed consent was obtained (ex. oral or written).
+For work involving animals, the guidelines for their care and use that were followed should be stated in the methods section of the manuscript. For those investigators who do not have formal institutional guidelines relating to animal experiments, the European Commission Directive 86/609/EEC for animal experiments (available at http://ec.europa.eu/environment/chemicals/lab_animals/legislation_en.htm) should be followed and the same should be stated in the methods section of the manuscript.
+Studies in humans and animals
+If the work involves the use of human subjects, the author should ensure that the work described has been carried out in accordance with The Code of Ethics of the World Medical Association (Declaration of Helsinki) for experiments involving humans. The manuscript should be in line with the Recommendations for the Conduct, Reporting, Editing and Publication of Scholarly Work in Medical Journals and aim for the inclusion of representative human populations (sex, age and ethnicity) as per those recommendations. The terms sex and gender should be used correctly.
+Authors should include a statement in the manuscript that informed consent was obtained for experimentation with human subjects. The privacy rights of human subjects must always be observed.
+All animal experiments should comply with the ARRIVE guidelines and should be carried out in accordance with the U.K. Animals (Scientific Procedures) Act, 1986 and associated guidelines, EU Directive 2010/63/EU for animal experiments, or the National Research Council's Guide for the Care and Use of Laboratory Animals and the authors should clearly indicate in the manuscript that such guidelines have been followed. The sex of animals must be indicated, and where appropriate, the influence (or association) of sex on the results of the study.
+Declaration of competing interests
+Starting from January 2024, all authors must disclose any financial and personal relationships with other people or organizations that could inappropriately influence or bias their work. Examples of potential competing interests include:
+Employment
+Consultancies
+Stock ownership
+Honoraria
+Paid expert testimony
+Patent applications or registrations
+Grants or any other funding
+Affiliation with the journal as an Editor or Advisory Board Member
+The declarations tool should always be completed.
+Authors with a journal affiliation to declare should enter the following text under “Other Activities” within the declarations tool and should inform the journal and publisher prior to completing the submission process: Given their role as [insert journal role title], [insert your name] had no involvement in the peer-review of this article and has no access to information regarding its peer-review. Full responsibility for the editorial process for this article was delegated to another journal editor.
+Authors with no competing interests to declare should select the option "I have nothing to declare".
+The resulting Word document containing your declaration should be uploaded at the "attach/upload files" step in the submission process. It is important that the Word document is saved in the .doc/.docx file format. Author signatures are not required.
+Submission declaration and verification
+Submission of an article implies that the work described has not been published previously (except in the form of an abstract, a published lecture or academic thesis, see 'Multiple, redundant or concurrent publication' for more information), that it is not under consideration for publication elsewhere, that its publication is approved by all authors and tacitly or explicitly by the responsible authorities where the work was carried out, and that, if accepted, it will not be published elsewhere in the same form, in English or in any other language, including electronically without the written consent of the copyright-holder. To verify originality, your article may be checked by the originality detection service Crossref Similarity Check.
+Declaration of generative AI in scientific writing
+Authors is encouraged to declare the use of generative AI in scientific writing upon submission of the paper. The following guidance refers only to the writing process, and not to the use of AI tools to analyse and draw insights from data as part of the research process:
+Generative AI and AI-assisted technologies should only be used in the writing process to improve the readability and language of the manuscript.
+The technology must be applied with human oversight and control and authors should carefully review and edit the result, as AI can generate authoritative-sounding output that can be incorrect, incomplete or biased. Authors are ultimately responsible and accountable for the contents of the work.
+Authors must not list or cite AI and AI-assisted technologies as an author or co-author on the manuscript since authorship implies responsibilities and tasks that can only be attributed to and performed by humans.
+The use of generative AI and AI-assisted technologies in scientific writing can be declared by adding a statement at the end of the manuscript when the paper is first submitted. The statement will appear in the published work and should be placed in a new section before the references list. An example:
+Title of new section: Declaration of generative AI and AI-assisted technologies in the writing process.
+Statement: During the preparation of this work the author(s) used [NAME TOOL / SERVICE] in order to [REASON]. After using this tool/service, the author(s) reviewed and edited the content as needed and take(s) full responsibility for the content of the published article.
+The declaration does not apply to the use of basic tools, such as tools used to check grammar, spelling and references. If you have nothing to disclose, you do not need to add a statement.
+We advise you to read our policy for authors on the use of generative AI and AI-assisted technologies for Elsevier.
+Please note: to protect authors’ rights and the confidentiality of their research, this journal does not currently allow the use of Generative AI or AI-assisted technologies such as ChatGPT or similar services by reviewers or editors in the peer review and manuscript evaluation process. We are actively evaluating compliant AI tools and may revise this policy in the future.
+Use of inclusive language
+Inclusive language acknowledges diversity, conveys respect to all people, is sensitive to differences, and promotes equal opportunities. Content should make no assumptions about the beliefs or commitments of any reader; contain nothing which might imply that one individual is superior to another on the grounds of age, gender, race, ethnicity, culture, sexual orientation, disability or health condition; and use inclusive language throughout. Authors should ensure that writing is free from bias, stereotypes, slang, reference to dominant culture and/or cultural assumptions. We advise to seek gender neutrality by using plural nouns ("clinicians, patients/clients") as default/wherever possible to avoid using "he, she," or "he/she." We recommend avoiding the use of descriptors that refer to personal attributes such as age, gender, race, ethnicity, culture, sexual orientation, disability or health condition unless they are relevant and valid. When coding terminology is used, we recommend to avoid offensive or exclusionary terms such as "master", "slave", "blacklist" and "whitelist". We suggest using alternatives that are more appropriate and (self-) explanatory such as "primary", "secondary", "blocklist" and "allowlist". These guidelines are meant as a point of reference to help identify appropriate language but are by no means exhaustive or definitive.
+Authorship
+For transparency, we require authors to submit an author statement file outlining their individual contributions to the paper using the relevant CRediT roles: Conceptualization; Data curation; Formal analysis; Funding acquisition; Investigation; Methodology; Project administration; Resources; Software; Supervision; Validation; Visualization; Roles/Writing - original draft; Writing - review & editing. Authorship statements should be formatted with the names of authors first and CRediT role(s) following.
+Sample CRediT author statement
+San-yi ZHANG: Conceptualization, Methodology, Software.
+Priya Singh: Data curation, Writing- Original draft preparation.
+Wu WANG: Visualization, Investigation.
+Jan Jansen: Supervision.
+Ajay Kumar: Software, Validation.
+Qi SUN: Writing- Reviewing and Editing.
+Changes of Authorship
+The editors of this journal generally will not consider changes to authorship once a manuscript has been submitted. It is important that authors carefully consider the authorship list and order of authors and provide a definitive author list at submission.
+The policy of this journal around authorship changes:
+All authors must be listed in the manuscript and their details entered into the submission system. Changes can only be made prior to acceptance, and only if approved by the journal editor. This includes additions, deletion, or rearrangement of author names.
+Requests to change authorship must be made by the corresponding author using this form. The corresponding author must provide the reason for the request to the journal editor with written confirmation from all authors, including any authors being added or removed, that they agree with the changes. Requests which do not comply with the instructions outlined in the form will not be considered.
+This journal does not allow authorship changes after acceptance. This includes additions, deletions, or the rearrangement of author names, including changes to the corresponding author.
+The review process may be paused while a change in authorship request is being considered.
+Approved authorship changes will result in a corrigendum if the manuscript has already been accepted.
+Any unauthorized authorship changes may result in the rejection of the manuscript or retraction if the article has already been published.
+Reporting Clinical Trials
+The WJAM has adopted the ICMJE proposal from the International Committee of Medical Journal Editors (ICMJE) that require, as a condition of consideration for publication of clinical trials, registration in a public trials registry. Purely observational studies (those in which the assignment of the medical intervention is not at the discretion of the investigator) do not require registration. Further information can be found at https://www.icmje.org.
+Registration of clinical trials
+Registration in a public trials registry is a condition for publication of clinical trials in this journal in accordance with International Committee of Medical Journal Editors recommendations. Trials must register at or before the onset of patient enrolment. The clinical trial registration number should be included at the end of the abstract of the article. A clinical trial is defined as any research study that prospectively assigns human participants or groups of humans to one or more health-related interventions to evaluate the effects of health outcomes. Health-related interventions include any intervention used to modify a biomedical or health-related outcome (for example drugs, surgical procedures, devices, behavioural treatments, dietary interventions, and process-of-care changes). Health outcomes include any biomedical or health-related measures obtained in patients or participants, including pharmacokinetic measures and adverse events. Purely observational studies (those in which the assignment of the medical intervention is not at the discretion of the investigator) will not require registration.
+Consent to publish
+A signed statement of informed consent to publish (in print and online) patient descriptions, photographs and pedigrees should be obtained from all persons (parents or legal guardians for minors) who can be identified (including by the patients themselves) in such written descriptions, photographs or pedigrees. Such persons should be shown the manuscript before its submission. Omitting data or making data less specific to de-identify patients is acceptable, but changing any such data is not acceptable. State explicitly in the methods section of the manuscript that informed consent was obtained from all participating adult subjects or from parents or legal guardians for minors or incapacitated adults, together with the manner in which informed consent was obtained (i.e., oral or written).
+Previous Publication or Duplicate Submission
+Submitted manuscripts are considered with the understanding that they have not been published previously in print or electronic format (except in abstract or poster form) and are not under consideration in totality or in part by another publication or electronic medium.
+Copyright
+Upon acceptance of an article, authors will be asked to complete a 'Journal Publishing Agreement'. An e-mail will be sent to the corresponding author confirming receipt of the manuscript together with a 'Journal Publishing Agreement' form or a link to the online version of this agreement.
+Role of the funding source
+You are requested to identify who provided financial support for the conduct of the research and/or preparation of the article and to briefly describe the role of the sponsor(s), if any, in study design; in the collection, analysis and interpretation of data; in the writing of the report; and in the decision to submit the article for publication. If the funding source(s) had no such involvement, then this should be stated.
+Open access
+Open access every peer-reviewed research article appearing in this journal will be published open access. This means that the article is universally and freely accessible via the internet in perpetuity, in an easily readable format immediately after publication. To provide open access, this journal has an open access fee (also known as an article publishing charge APC) which needs to be paid by the authors or on their behalf e.g. by their research funder or institution. The Article Processing Charge (APC) for this journal is USD 1000, plus VAT. To all papers submitted before December 31, 2026, will be fully waived. Permitted third party (re)use is defined by the following Creative Commons user licenses.
+A CC user license manages the reuse of the article. All articles will be published under one of the following licenses upon author choice, for more details please visit link (https://www.keaipublishing.com/en/journals/world-journal-of-acupuncture-moxibustion/open-access-journal/).
+Creative Commons Attribution-NonCommercial-NoDerivs (CC BY-NC-ND)
+For non-commercial purposes, lets others distribute and copy the article, and to include in a collective work (such as an anthology), as long as they credit the author(s) and provided they do not alter or modify the article. The full details of the license are available at https://creativecommons.org/licenses/by-nc-nd/4.0/
+Elsevier Researcher Academy
+Researcher Academy is a free e-learning platform designed to support early and mid-career researchers throughout their research journey. The "Learn" environment at Researcher Academy offers several interactive modules, webinars, downloadable guides and resources to guide you through the process of writing for research and going through peer review. Feel free to use these free resources to improve your submission and navigate the publication process with ease.
+Language (usage and editing services)
+Please write your text in good English (American or British usage is accepted, but not a mixture of these). Authors who feel their English language manuscript may require editing to eliminate possible grammatical or spelling errors and to conform to correct scientific English may wish to use the English Language Editing service available from Elsevier's Author Services.
+Supporting Documents
+The following documents must be included in your submission and uploaded to Editorial Manager (refer also to the Checklist that follows these author instructions). Items (1), (2), and (3) are mandatory. Items (4) and (5) and (7) are required only if they are applicable to your manuscript.
+(1) Cover Letter. This must include the following information:
+title of the manuscript
+a statement that the material contained in the manuscript has not been previously published and is not being concurrently submitted elsewhere
+persons who do not fulfill the requirements to be listed as authors but who nevertheless contributed to the manuscript (such as those who provided writing assistance, for example) should be disclosed
+signed by the corresponding author
+Optional: if you have a list of reviewers who you wish to review or not to review your manuscript, you may include this list in the cover letter
+(2) Authorship and Conflicts of Interest Statement. Each author's contribution to the manuscript should be listed. Any and all potential and actual conflicts of interest should also be listed (see Section Conflict of interest for more information). Please use the WJAM Authorship and Conflicts of Interest Statement form. The corresponding author is to sign on behalf of all the authors listed in the manuscript and is responsible for ensuring the accuracy of the information provided.
+(3) Copyright Transfer Agreement. In the event that your manuscript is accepted for publication in the WJAM, you are required to transfer all copyright ownership in and relating to the work to WJAM and Elsevier. Please use the WJAM Copyright Transfer Agreement form. Corresponding author's signature must be included.
+(4) Signed Statement of Informed Consent. Articles where human subjects can be identified in descriptions, photographs or pedigrees must be accompanied by a signed statement of informed consent to publish (in print and online) the descriptions, photographs and pedigrees from each subject who can be identified.
+(5) Copyright Permission. If you have reproduced or adapted material from other copyrighted sources, the letter(s) of permission from the copyright holder(s) to reproduce or adapt the copyrighted sources must be supplied. Otherwise, such material must be removed from your manuscript.
+Preparation
+A manuscript should include a title page, abstract, main text, references, acknowledgments (if any), and figures and tables as appropriate. Each section of the manuscript should begin on a new page. Pages should be numbered consecutively, beginning with the title page.
+Queries
+For questions about the editorial process (including the status of manuscripts under review) or for technical support on submissions, please visit our Support Center.
+Peer review
+This journal follows a double anonymized review process. Your submission will initially be assessed by our editors to determine suitability for publication in this journal. If your submission is deemed suitable, it will typically be sent to a minimum of two independent expert reviewers to assess the scientific quality. The decision as to whether your article is accepted or rejected will be taken by our editors. This decision is final.
+Our editors are not involved in making decisions about papers which:
+they have written themselves.
+have been written by family members or colleagues.
+relate to products or services in which they have an interest.
+Any such submissions will be subject to the journal's usual procedures and peer review will be handled independently of the editor involved and their research group.
+All manuscripts are reviewed by the editorial office. Any papers which fail to meet the basic standards of the journal will be desk-rejected for reasons like out of scope, ethical conflicts, high similarities, lack of originality, flaws in research design or methods, etc. The editorial office will reassign selected papers to the Editor-in-chief.
+The Editor-in-chief will invite multiple reviewers to review the paper or assign an editorial board member to invite reviewers to review this paper.
+After at least two reviewers give their reviews and comments, the assigned Editor provides feedback to the authors, based on reviewer comments and his own review comments.
+When the author submits the revised manuscript, the assigned editor and Editor-in-chief will collaborate to make a final decision.
+For submissions from the Editor-in-Chief, Associate Editors, Guest Editor(s), other journal Board members, and authors who have conflicts of interest with them, we ensure that the paper is handled confidentially by a different team member.
+For submissions to Special Issues; if there are conflicts of interest between the Guest Editor(s) and authors, the submissions will be handled by another Editor from the Editorial Board who will manage the peer review process and make the decision whether to accept or reject the paper after peer review.
+Read more about peer review.
+Use of word processing software
+It is important that the file be saved in the native format of the word processor used. The text should be in single-column format. Keep the layout of the text as simple as possible. Most formatting codes will be removed and replaced on processing the article. In particular, do not use the word processor's options to justify text or to hyphenate words. However, do use bold face, italics, subscripts, superscripts etc. When preparing tables, if you are using a table grid, use only one grid for each individual table and not a grid for each row. If no grid is used, use tabs, not spaces, to align columns. The electronic text should be prepared in a way very similar to that of conventional manuscripts (see also the Guide to Publishing with Elsevier). Note that source files of figures, tables and text graphics will be required whether or not you embed your figures in the text. See also the section on Electronic artwork.
+To avoid unnecessary errors you are strongly advised to use the 'spell-check' and 'grammar-check' functions of your word processor.
+Title Page
+The title page should contain the following information (in order, from the top to bottom of the page):
+article category
+article title
+names (spelled out in full*) of all authors, and the institutions with which they are affiliated; indicate all affiliations with a superscripted number after the author's name and in front of the matching affiliation
+Declaration of any potential financial and nonfinancial conflicts of interest
+corresponding author details (name, e-mail, mailing address, telephone and fax numbers)
+running title not exceeding 50 characters
+*The name of each author should be written with the family name last, e.g., Wan-Lin CHANG. Authorship is restricted only to direct participants who have contributed significantly to the work.
+Abstract and Keywords
+An abstract and 3-5 relevant keywords (in alphabetical order) are required for the following article categories: Review Articles, Invited Articles, Original Articles, Case Reports, Brief Communications.
+Abstracts for Review Articles, Invited Articles, Case Reports and Brief Communications should be unstructured (in one single paragraph with no section headings), be no more than 400 words long and include information on the background/purpose of the report, methods, results (or case report), and conclusions.
+Abstracts for Original Articles should be structured into the sections listed below and be no more than 800 words long.
+Objective: briefly explain the importance of the study topic and state a precise study question or purpose.
+Methods: briefly introduce the methods used to perform the study; include information on the study design, setting, subjects, interventions, outcome measures and analyses as appropriate.
+Results: briefly present the significant results, with data and statistical details such as P values where appropriate; be sure that information in the abstract matches that in the main text.
+Conclusion: state the meaning of your findings, being careful to address the study question directly and to confine your conclusions to aspects covered in the abstract; give equal emphasis to positive and negative findings.
+Keywords should be taken from the Medical Subject Headings (MeSH) list of Index Medicus (http://www.nlm.nih.gov/mesh/meshhome.html).
+No abstract or keywords are required for Perspectives, Correspondence and Letters to the Editor.
+Main Text
+The text for Original Articles and Brief Communications should be organized into the following sections: Introduction, Materials (or Patients) and Methods, Results, Discussion, and References. Subheadings in long papers are acceptable if needed for clarification and ease of reading. Sections for Case Reports are: Introduction, Case Report, Discussion, and References. Each section should begin on a new page.
+Abbreviations
+Where a term/definition will be continually referred to, it must be written in full when it first appears in the text, followed by the subsequent abbreviation in parentheses. Thereafter, the abbreviation may be used. An abbreviation should not be first defined in any section heading; if an abbreviation has previously been defined in the text, then the abbreviation may be used in a subsequent section heading. Restrict the number of abbreviations to those that are absolutely necessary.
+Numbers
+Numbers that begin a sentence or those that are less than 10 should be spelled out using letters. Centuries and decades should be spelled out, e.g. the Eighties or nineteenth century. Laboratory parameters, time, temperature, length, area, mass, and volume should be expressed using digits.
+Units
+System International (SI) units must be used, with the exception of blood pressure values which are to be reported in mmHg. Please use the metric system for the expression of length, area, mass, and volume. Temperatures are to be given in degrees Celsius.
+Acupoints
+The acupoints should be expressed like the following. Pinyin plus international Code. Such as Rangu (KI2), Zhongfu (LU1), Baihui (GV20), Guanyuan (CV4).
+Authos should be attention to that the acupoints used in animal experiments should with quotes, such as "Rangu (KI2)", "Zhongfu (LU1)", "Baihui (GV20)", "Guanyuan (CV4)", because they are not the real acupoints.
+Meridians
+Meridians should be expressed like the following: the hand taiyin lung meridian.
+Classics
+Classics should be expressed with the English and in italic, like the following: the Yellow Emperor's Inner Classic.
+Names of drugs, devices and other products
+Use the Recommended International Nonproprietary Name (rINN) for medicinal substances, unless the specific trade name of a drug is directly relevant to the discussion. Generic drug names should appear in lowercase letters in the text. If a specific proprietary drug needs to be identified, the brand name may appear only once in the manuscript in parentheses following the generic name the first time the drug is mentioned in the text.
+For devices and other products, the specific brand or trade name, the manufacturer and their location (city, state, country) should be provided the first time the device or product is mentioned in the text, for example, "KSPSS version 11 was used (SPSS Inc., Chicago, IL, USA)". Thereafter, the generic term (if appropriate) should be used.
+Gene nomenclature
+Current standard international nomenclature for genes should be adhered to. For human genes, use genetic notation and symbols approved by the HUGO Gene Nomenclature Committee (http://www.genenames.org). You may also refer to the resources available on PubMed at http://www.ncbi.nlm.nih.gov/guide/genes-expression. The Human Genome Variation Society has a useful site that provides guidance in naming mutations at http://www.hgvs.org/mutnomen/index.html. In your manuscript, genes should be typed in italic font and include the accession number.
+Statistical requirements
+Statistical analysis is essential for all research papers except Case Reports. Use correct nomenclature of statistical methods (e.g., two sample t test, not unpaired t test). Descriptive statistics should follow the scales used in data description. Inferential statistics are important for interpreting results and should be described in detail. All P values should be presented to the third decimal place for accuracy. The smallest P value that should be expressed is P < 0.001, since additional zeros do not convey useful information; the largest P value that should be expressed is P > 0.99.
+Personal communications and unpublished data
+These sources cannot be included in the references list but may be described in the text. The author(s) must give the full name and highest academic degree of the person, the date of the communication, and indicate whether it was in oral or written (letter, fax, e-mail) form. A signed statement of permission should be included from each person identified as a source of information in a personal communication or as a source for unpublished data.
+Funding/Support Statement
+All financial and material support for the research, work, writing and editorial assistance from internal or external agencies, including commercial companies, should be clearly and completely identified in a Funding/Support Statement.
+Acknowledgments
+General acknowledgments for consultations and statistical analyses should be listed concisely, including the names of the individuals who were directly involved. Consent should be obtained from those individuals before their names are listed in this section. Those acknowledged should not include secretarial, clerical or technical staff whose participation was limited to the performance of their normal duties.
+Figures
+General guidelines
+The number of figures should be restricted to the minimum necessary to support the textual material. Figures should have an informative figure legend and be numbered in the order of their citation in the text. All symbols and abbreviations should be defined in the figure legend in alphabetical order. Items requiring explanatory footnotes should follow the same style as that for tables as described in Section Tables
+Patient identification should be obscured. All lettering should be done professionally and should be in proportion to the drawing, graph or photograph. Photomicrographs must include an internal scale marker, and the legend should state the type of specimen, original magnification and stain.
+Figures must be submitted as separate picture files at the correct resolution (see Section Formats ). The files should be named according to the figure number, e.g., "Fig1.tif", "Fig2.jpg".
+Formats
+Regardless of the application used, when your electronic artwork is finalized, please "save as" or convert the images to one of the following formats (note the resolution requirements for line drawings, halftones, and line/halftone combinations given below):
+EPS: Vector drawings. Embed the font or save the text as "graphics".
+TIFF: Color or grayscale photographs (halftones) - always use a minimum of 300 dpi.
+TIFF: Bitmapped line drawings - use a minimum of 1000 dpi.
+TIFF: Combination of bitmapped line/half-tone (color or grayscale) - a minimum of 600 dpi.
+DOC, XLS or PPT: If your electronic artwork is created in any of these Microsoft Office applications, please supply "as is".
+Please do not:
+Supply files that do not meet the resolution requirements detailed above;
+Supply files that are optimized for screen use (such as GIF, BMP, PICT, WPG) as the resolution is too low;
+Submit graphics that are disproportionately large for the content.
+A detailed guide on electronic artwork is available at https://www.elsevier.com/artworkinstructions.
+Tables
+Tables should supplement, not duplicate, the text. They should have a concise table heading, be self-explanatory, and numbered consecutively in the order of their citation in the text. Items requiring explanatory footnotes should be denoted using superscripted lowercase letters (a, b, c, etc.), with the footnotes arranged under the table in alphabetical order. Lower case letters (a, b, c...) are used only to indicate the probability level of tests of significance. Abbreviations used in the table must be defined and placed after the footnotes in alphabetical order. If you include a block of data or table from another source, whether published or unpublished, you must acknowledge the original source.
+References
+Authors are responsible for the accuracy and completeness of their references and for correct in-text citation.
+In the main text, tables, figure legends
+References should be indicated by numbers according to order of appearance in the text, and placed before punctuation. [The actual authors can be referred to, but the reference number(s) must always be given.]
+References cited in tables or figure legends should be included in sequence at the point where the table or figure is first mentioned in the main text.
+Do not cite abstracts unless they are the only available reference to an important concept.
+Do not cite uncompleted work or work that has not yet been accepted for publication (i.e., "unpublished observation", "personal communication")
+Data references
+This journal encourages you to cite underlying or relevant datasets in your manuscript by citing them in your text and including a data reference in your Reference List. Data references should include the following elements: author name(s), dataset title, data repository, version (where available), year, and global persistent identifier. Add [dataset] immediately before the reference so we can properly identify it as a data reference. The [dataset] identifier will not appear in your published article.
+Reference management software
+Most KeAi journals have their reference template available in many of the most popular reference management software products. These include all products that support Citation Style Language styles, such as Mendeley. Using citation plug-ins from these products, authors only need to select the appropriate journal template when preparing their article, after which citations and bibliographies will be automatically formatted in the journal's style. If no template is yet available for this journal, please follow the format of the sample references and citations as shown in this Guide. If you use reference management software, please ensure that you remove all field codes before submitting the electronic manuscript. More information on how to remove field codes from different reference management software.
+In the references list
+References should be limited to those cited in the text and listed in numerical order, NOT alphabetical order.
+References should include, in order, authors' surnames and initials, article title, abbreviated journal name, year, volume and inclusive page numbers.
+The surnames and initials of all the authors up to 6 should be included, but when authors number 7 or more, list the first 6 authors only followed by "et al".
+Abbreviations for journal names should conform to those used in MEDLINE.
+If citing a website, provide the author information, article title, website address and the date you accessed the information.
+Reference to an article that is in press must state the journal name and, if possible, the year and volume.
+Authors are responsible for the accuracy and completeness of their references and for correct text citation.
+Examples are given below:
+Standard journal articles
+Wu UI, Wang JT, Ho YC, Pan SC, Chen YC, Chang SC. Factors associated with development of complications among adults with influenza: a 3-year prospective analysis. J Formos Med Assoc 2012;111:364-9.
+Chen JC, Huang AJ, Chen SC, Wu JL, Wu WM, Chiang HS, et al. Interleukin-27 and interleukin-12 augment activation of distinct cord blood natural killer cells responses via STAT3 pathways. J Formos Med Assoc 2012;111:275-83.
+Journal supplement
+Kaplan NM. The endothelium as prognostic factor and therapeutic target: what criteria should we apply? J Cardiovasc Pharmacol 1998;32(Suppl 3):S78-80. Journal article not in English but with English abstract
+Hofele C, Schwager-Schmitt M, Volkmann M. Prognostic value of antibodies against p53 in patients with oral squamous cell carcinoma-five years survival rate. Laryngorhinootologie 2002;81:342-5. [In German, English abstract]
+Book with edition
+Bradley EL. Medical and surgical management. 2nd ed. Philadelphia: Saunders; 1982, p. 72-95.
+Book with editors
+Letheridge S, Cannon CR, editors. Bilingual education: Teaching English as a second language. New York: Praeger; 1980.
+Book chapter in book with editor and edition
+Greaves M, Culligan DJ. Blood and bone marrow. In: Underwood JCE, editor. General and systematic pathology. 4th ed. London: Churchill Livingstone; 2004, p. 615-72.
+Book series with editors
+Wilson JG, Fraser FC, editors. Handbook of teratology, vols. 1-4. New York: Plenum Press; 1977-1978.
+Bulletin
+World Health Organization. World health report 2002: reducing risk, promoting healthy life. Geneva, Switzerland: World Health Organization; 2002.
+Electronic publications
+Duchin JS. Can preparedness for biological terrorism save us from pertussis? Arch Pediatr Adolesc Med 2004;158(2). Available from: http://archpedi.amaassn. org/cgi/content/full/158/2/106. Accessed June 12, 2004.
+Smeeth L, Iliffe S. Community screening for visual impairment in the elderly. Cochrane Database Syst Rev 2002(2):CD001054. [https://doi.org/10.1002/14651858. CD1001054](https://doi.org/10.1002/14651858. CD1001054).
+Items presented at a meeting but not yet published
+Khuri FR, Lee JJ, Lippman SM. Isotretinoin effects on head and neck cancer recurrence and second primary tumors. In: Proceedings from the American Society of Clinical Oncology; May 31 - June 3, 2003; Chicago, IL. Abstract 359.
+Supplementary material
+Supplementary material such as applications, images, videos and sound clips, can be published with your article to enhance it. Submitted supplementary items are published exactly as they are received (Excel or PowerPoint files will appear as such online). Please submit your material together with the article and supply a concise, descriptive caption for each supplementary file. If you wish to make changes to supplementary material during any stage of the process, please make sure to provide an updated file. Do not annotate any corrections on a previous version. Please switch off the 'Track Changes' option in Microsoft Office files as these will appear in the published version.
+Research data
+This journal encourages and enables you to share data that supports your research publication where appropriate, and enables you to interlink the data with your published articles. Research data refers to the results of observations or experimentation that validate research findings. To facilitate reproducibility and data reuse, this journal also encourages you to share your software, code, models, algorithms, protocols, methods and other useful materials related to the project.
+Below are a number of ways in which you can associate data with your article or make a statement about the availability of your data when submitting your manuscript. If you are sharing data in one of these ways, you are encouraged to cite the data in your manuscript and reference list. Please refer to the "References" section for more information about data citation. For more information on depositing, sharing and using research data and other relevant research materials, visit the research data page.
+Data linking
+If you have made your research data available in a data repository, you can link your article directly to the dataset. Elsevier collaborates with a number of repositories to link articles on ScienceDirect with relevant repositories, giving readers access to underlying data that gives them a better understanding of the research described.
+There are different ways to link your datasets to your article. When available, you can directly link your dataset to your article by providing the relevant information in the submission system. For more information, visit the database linking page.
+For supported data repositories a repository banner will automatically appear next to your published article on ScienceDirect.
+In addition, you can link to relevant data or entities through identifiers within the text of your manuscript, using the following format: Database: xxxx (e.g., TAIR: AT1G01020; CCDC: 734053; PDB: 1XFN).
+Mendeley Data
+This journal supports Mendeley Data, enabling you to deposit any research data (including raw and processed data, video, code, software, algorithms, protocols, and methods) associated with your manuscript in a free-to-use, open access repository. During the submission process, after uploading your manuscript, you will have the opportunity to upload your relevant datasets directly to Mendeley Data. The datasets will be listed and directly accessible to readers next to your published article online.
+For more information, visit the Mendeley Data for journals page.
+Data statement
+To foster transparency, we encourage you to state the availability of your data in your submission. This may be a requirement of your funding body or institution. If your data is unavailable to access or unsuitable to post, you will have the opportunity to indicate why during the submission process, for example by stating that the research data is confidential. The statement will appear with your published article on ScienceDirect. For more information, visit the Data Statement page.
+After Acceptance
+Once a manuscript has been accepted for publication, authors should submit the final version of their manuscript in MS Word format, with all tables/figures as applicable, via Editorial Manager. It is a basic requirement that the manuscript be prepared using good English. The Editorial Office reserves the right to edit poor English as suggested by the reviewer(s) and/or Editorial Board before the final version is decided. Accepted manuscripts are then presented to the Publisher to be copyedited according to the Journal's style.
+Online proof correction
+To ensure a fast publication process of the article, we kindly ask authors to provide us with their proof corrections within two days. Corresponding authors will receive an e-mail with a link to our online proofing system, allowing annotation and correction of proofs online. The environment is similar to MS Word: in addition to editing text, you can also comment on figures/tables and answer questions from the Copy Editor. Web-based proofing provides a faster and less error-prone process by allowing you to directly type your corrections, eliminating the potential introduction of errors.
+We will do everything possible to get your article published quickly and accurately. Please use this proof only for checking the typesetting, editing, completeness and correctness of the text, tables and figures. Significant changes to the article as accepted for publication will only be considered at this stage with permission from the Editor. It is important to ensure that all corrections are sent back to us in one communication. Please check carefully before replying, as inclusion of any subsequent corrections cannot be guaranteed. Proofreading is solely your responsibility.
+Post-publication amendments
+Errata and Corrigenda
+We will publish a correction of your article if a significant error is discovered after publication. An Erratum will be published if we introduced the error; a Corrigendum if the author introduced the error.
+Retractions
+Articles may be withdrawn, retracted, removed or replaced after publication if they contain substantial errors that cannot be corrected by publishing an Erratum or a Corrigendum, or if ethical violations come to light after publication.
+Stay Informed
+Register your interest and receive email alerts tailored to your needs. Sign up below.
+First name *
+Surname *
+Email address *
+Subject area *
+KeAi may contact you to share the latest updates about products, services, promotions, and events. If you do not wish to receive such messages, please check this box.

@@ -1,0 +1,279 @@
+期刊: International Journal of Mechanical System Dynamics
+来源: https://journal.hep.com.cn/ijmsd/EN/guidelines
+标题: Author guidelines
+
+Home
+Journals
+Subscription
+Submission
+Metrics
+Top read articles on mendeley
+Editorial policy
+Open access
+About us
+Adv search
+About the journal
+Aims & scope
+Description
+Editorial board
+Cover gallery
+Contact us
+Browse
+Latest issue
+All volumes and issues
+Featured articles
+Most accessed
+Most cited
+Authors & reviewers
+Online submisson
+Guidelines for authors
+Guidelines for authors
+Author Guidelines
+Submission
+Aims and Scope
+Manuscript Types
+Preparing the Submission
+Editorial Policies and Ethical Considerations
+Author Licensing
+Publication Process After Acceptance
+Post Publication
+Editorial Office Contact Details
+1.SUBMISSION
+Thanks for your kind interest in International Journal of Mechanical System Dynamics (IJMSD). The submissions have to consist of the contents that has not been published or submitted for publication elsewhere except as a brief abstract in the proceedings of conferences or symposiums.
+The submission system will prompt you to use an ORCID ID (a unique author identifier) to help distinguish your work from that of other researchers as well as develop your personal profile in a worldwide platform.
+All the submissions will be performed and processed using ScholarOne online submission system.
+A cover letter should be included in the ‘Cover Letter Field’ of the ScholarOne system. The text can be entered directly into the field or uploaded as a file.
+The cover letter must contain:
+A statement confirming the paper has not been published or submitted for publication elsewhere except as a brief abstract in the proceedings of a scientific meeting or symposium.
+A statement confirming that all authors are in agreement with the content of the manuscript.
+In addition, the authors should state clearly the motivation and the novelty of their research in the cover letter. The author also needs to clarify the key results and the advances compared to previous work of their manuscripts.
+Once you have prepared your submission in accordance with the Guidelines, manuscripts should be submitted online at https://mc.manuscriptcentral.com/ijmsd.
+Templates and guidelines:
+Article Template (MS Word)
+Article Template (Latex)
+Guidelines for the Preparation of Figures
+2.AIMS AND SCOPE
+Aim of the journal
+Mechanical system dynamics is one of the pillars of almost all industries such as machinery, aero & astronautics, marine engineering, transportation, biology, etc. It is the key technology for almost all industrial equipment. It plays a significant role in leading the development of modern science and technology and receives increasing attention worldwide. The International Journal of Mechanical System Dynamics (IJMSD) aims to systematically reveal the vital effect of mechanical system dynamics on the whole lifetime of modern industrial equipment. It serves as an international forum for the rapid publication of high-impact research on dynamics concerning advanced theory, modeling, computation, analysis, software, design, control, manufacturing, testing, and evaluation of general mechanical systems.
+Scope and topics
+The journal will publish research articles, reviews, editorials, short communications and news based on both fundamental and applied research concerning the dynamics of all kinds of mechanical systems. The systems concerned include not only various machinery and structures of different scales, but also integrated mechanical systems with multi-physics/multi-disciplinary nature. This journal emphasizes the “system” point of view and system-level tools for understanding the dynamics. It encourages papers with scientific problems emerging from practical engineering and solved by system dynamics approaches. These are the unique features and advantages of IJMSD, which are extremely significant and helpful for efficiently solving dynamics problems associated with complex mechanical systems. Investigations on more general dynamical systems such as complex fluid systems, aerodynamic systems, fractal systems, energy systems, granular materials, particle fluid, soft materials, metamaterials, and micro-/nano-particles are also welcome if they involve or contribute to the advancement of the mechanical system dynamics field.
+Typical topics of mechanical system dynamics include, but are not limited to:
+Modeling, computation, and software developments
+Formulation of multibody system or finite element system dynamics with characteristics such as time varying parameters, time delay, nonlinearity, large deformation, friction, contact and impact, fatigue and fracture, multi scale
+Dynamics modeling of multi-disciplinary systems such as mechatronic system, smart materials/structures system, multi-agent system, human-machine integrated system, and biomechanical system
+Dynamics modeling of mechanical systems integrated with electronic, electrical, optical, thermal, magnetic, acoustic, aero, rheological, and fluidic components
+Nonlinear vibrations and nonlinear dynamics of mechanical systems and structures, structural vibration at different scales
+Dynamics modeling combined with advanced applied mathematics methods such as fractional-order modeling, model order reduction, surrogate models, mixed first-principles and data-integrated modeling
+Dynamics simulation techniques such as co-simulation, high-performance computing
+Novel numerical algorithms for mechanical system dynamics
+Aspects of uncertainty, robustness, sensitivity, safety, and reliability
+Verification, validation & accreditation theories and methods
+Development and application of open-source/commercial software regarding visualization & computer graphics, database and data sharing
+Design, optimization, diagnostics, and control
+System engineering and multi-disciplinary design
+Multi-disciplinary optimization, topology optimization, multi-objective optimization, etc.
+Health monitoring, fault diagnosis and prediction
+Smart sensing and actuation
+Model-based control or combined with data-driven control
+Vibration and noise control, trajectory planning and motion control
+Measurement and testing
+Modal testing and analysis
+Measurement techniques for vibrations and dynamics response
+Embedded system and hardware-in-the-loop simulation
+Signal analysis & processing
+Inverse problem/system identification
+Applications of mechanical system dynamics to
+Manned/unmanned aerial vehicles, underwater/surface/amphibious ships, tracked/wheeled vehicles, high-speed trains, robots, machine tools, wind turbines, civil structures, etc.
+Advanced manufacturing and production such as additive manufacturing, 4D printing, virtual manufacturing, 3D assembly
+Production process of energetic/polymeric material
+Energy storage, energy conversions, and low carbon dioxide emissions
+3.MANUSCRIPT TYPES
+(1) Research Articles
+Description: The reports of original studies within the journal scope of IJMSD.
+Word Limit: No strict word limits, however, it is better to be within 5,000 words including abstract but excluding references, tables and figures.
+Abstract: Within 300 words, briefly describe the contents of the research article.
+References: No word limits, but the American Medical Association (AMA) system of referencing should be used (see AMA Manual of Style for details).
+Figures/tables: No number limits, but 10 figures should be sufficient. The tables and figures should be submitted together with the main text of the article, and they should be properly prepared and numbered as describing here.
+Keywords: Please provide at least 3 keywords to highlight the main involving subjects of the article.
+(2) Review Articles
+Description: Review gives an overview of recent progress in important fields of research, providing the readers with a guide to the relevant literature, an appreciation of the significance of the work, and an outlook into potential future directions. They can be submitted either by the invitations from the Editors or by the authors themselves; Both types will undergo the peer-review process prior to acceptance.
+Word Limit: No strict word limits, however, it is better to be within 8,000 words including abstract but excluding references, tables and figures.
+Abstract: Within 300 words, briefly describe the contents of the review article.
+References: No word limits, but the American Medical Association (AMA) system of referencing should be used (see AMA Manual of Style for details)
+Figures/tables: Minimum 1 table/figure in the review article. The tables and figures should be submitted together with the main text of the article, and they should be properly prepared and numbered as describing here.
+Keywords: Please provide at least 3 keywords to highlight the main involving subjects of the article.
+(3) Editorials [only invited by Editors]
+Description: It is written by Editorial Board members, invited authors or editors.
+Word Limit: 1,000 words maximum.
+Abstract: Not required.
+Figures/tables: Maximum 2 figure/tables. The figure/tables should be submitted together with the main text of the article, and they should be properly prepared and numbered as describing here.
+References: Maximum 5 references. The American Medical Association (AMA) system of referencing should be used (see AMA Manual of Style for details).
+Keywords: Not required.
+(4) News
+Description: It is written by Editorial Board members, invited authors or editors.
+Word Limit: 2,000 words maximum.
+Abstract: Not required.
+Figures/tables: Not required.
+References: No word limits, but the American Medical Association (AMA) system of referencing should be used (see AMA Manual of Style for details).
+Keywords: Not required.
+(5) Short Communication
+Description: Short Communications are brief versions of Research Articles. New findings should be significant and explicitly highlighted in this article type.
+Word Limit: Maximum of 2,000 words excluding references, tables and figures.
+Abstract: Not required.
+Figures/tables: Not required.
+References: No word limits, but the American Medical Association (AMA) system of referencing should be used (see AMA Manual of Style for details).
+Keywords: Not required.
+4.PREPARING YOUR SUBMISSION
+Parts of the Manuscript
+The language of the journal is English. 12-point type in one of the standard fonts: Times, Helvetica, or Courier is preferred. It is not necessary to double-line space your manuscript. The submitted file should be presented in the following order: 1. title, authors, abstract and keywords 2. main text 3. references 4. tables (each table complete with title and footnotes) 5. figure legends 6. supporting information (if relevant). Supporting information should be supplied as separate files.
+Title page
+The title page should contain:
+1. A short informative title that contains the major key words. The title should not contain abbreviations (see Wiley's best practice SEO tips);
+2. The full names of the authors;
+3. The author's institutional affiliations at which the work was carried out.
+The present address of any author, if different from that where the work was carried out, should be supplied in a footnote.
+Authorship
+Please refer to the journal’s authorship policy in the Editorial Policies and Ethical Considerations section for details on eligibility for author listing.
+Acknowledgments
+Contributions from anyone who does not meet the criteria for authorship should be listed, with permission from the contributor, in an Acknowledgments section. Financial and material support should also be mentioned. Thanks to anonymous reviewers are not appropriate.
+Conflict of Interest Statement
+You will be asked to provide a conflict of interest statement during the submission process. See the section ‘Conflict of Interest’ in the Editorial Policies and Ethical Considerations section for details on what to include in this section. Please ensure you liaise with all co-authors to confirm agreement with the final statement.
+Abstract
+Please provide an abstract of no more than 300 words containing the major keywords. The abstract should adhere to the word count specifications under the section 'Manuscript Types'. It should state the main problem, methods, results, and conclusions. It must be factual and comprehensive. The use of abbreviations and acronyms should be limited and general statements (e.g. ‘‘the significance of the results is discussed’’) should be avoided.
+References
+The American Medical Association (AMA) system of referencing should be used see the -AMA Manual of Style for details. All references should be numbered consecutively in order of appearance and should be as complete as possible. In text citations should cite references in consecutive order using Arabic superscript numerals. Sample references follow:
+In-Text examples:
+Diabetes mellitus is associated with a high risk of foot ulcers.1-3
+Several interventions have been successful at increasing compliance.11,14-16
+The data of Smith et al18 is further evidence of this effect.
+As reported previously,1,3-6
+The results were as follows4:
+Journal article (1-6 authors):
+1. Lyu Y, Duan Y, Kang W, Li Z, Wang FY. Traffic flow prediction with big data: a deep learning approach. IEEE Transactions on Intelligent Transportation Systems. 2015;16(2): 865-873.
+Journal article with more than six authors:
+2. Allison MA, Hurley LP, Markowitz L, et al. Primary care physicians’ perspectives about HPV vaccine. Pediatrics. 2016;137(2):e20152488.
+Journal article with no named author or group name:
+3. Centers for Disease Control and Prevention (CDC). Licensure of a meningococcal conjugate vaccine (Menveo) and guidance for use--Advisory Committee on Immunization Practices (ACIP), 2010. MMWR Morb Mortal Wkly Rep. 2010;59:273.
+Online articles not yet published in an issue:
+4. Smith JJ, Fihn SD, White RH. Treatment of allergic rhinitis. Am J Med. In press; doi:10.1016/S0002-9343(00)00545-3.
+Book:
+5. Adkinson Jr NF, Bochner BS, Burks AW, et al, eds. Middleton’s Allergy: Principles and Practice. 8th ed. Elsevier Saunders; 2014.
+6. Strunk Jr W, White EB. The Elements of Style. 4th ed. Massachusetts, USA: Longman Publishers; 2000.
+Book chapter:
+7. Prince M, Glozier N, Sousa R, Dewey M. Measuring disability across physical, mental, and cognitive disorders. In: Regier DA, Narrow WE, Kuhl EA, Kupfer DJ, eds. The Conceptual Evolution of DSM-5. American Psychiatric Publishing Inc; 2011:189-227.
+Electronic book:
+8.Rudolph CD, Rudolph AM. Rudolph's Pediatrics. 21st ed. New York, NY: McGraw-Hill Companies; 2002. http://online.statref.com/Document/Document.aspx?DocID=1&StartDoc=1&EndDoc=1882&FxID=13&offset=7&SessionId=A3F279FQVVFXFSXQ. Accessed August 22, 2007.
+Internet document:
+9. American Cancer Society. Cancer Facts & Figures 2003. http://www.cancer.org/downloads/STT/CAFF2003PWSecured.pdf. Accessed March 3, 2003.
+Please note that journal title abbreviations should conform to the practices of Chemical Abstracts. Format for more types of references can be found in the journal template.
+Equations
+The Math Editor or MathType is preferred when typing Equations.
+Tables
+Tables should be self-contained and complement, but not duplicate, information contained in the text. They should be supplied as editable files, not pasted as images.
+Figure Legends
+Figure legends should be concise but comprehensive – the figure and its legend must have high readability. Include definitions of any symbols used and define/explain all abbreviations and units of measurement.
+Preparing Figures
+Although we encourage authors to send us the highest-quality figures possible, for peer-review purposes we are happy to accept a wide variety of formats, sizes, and resolutions.
+Click here for the basic figure requirements for figures submitted with manuscripts for initial peer review, as well as the more detailed post-acceptance figure requirements.
+Color figures: Figures submitted in color may be reproduced in color online free of charge. Please note, however, that it is preferable that line figures (e.g. graphs and charts) are supplied in black and white so that they are legible if printed by a reader in black and white.
+Graphic in the Table of Contents (TOC): A graphic is optional for display in the table of contents (TOC). Graphic should capture the reader’s attention and give readers a quick visual impression of the essence of the manuscript without providing specific results. see Guidlines for Graphic in Table of Contents (TOC) for details.
+Supporting Information
+Supporting information is information that is not essential to the article but that provides greater depth and background. It is generally hosted online and appears without editing or typesetting. It may include tables, figures, videos, datasets, etc. Click here for Wiley’s FAQs on supporting information.
+Note, if data, scripts or other artefacts used to generate the analyses presented in the paper are available via a publicly available data repository, authors should include a reference to the location of the material within their paper.
+Wiley Author Resources
+Wiley has a range of resources for authors preparing manuscripts for submission available here. In particular, authors may benefit from referring to Wiley’s best practice tips on Writing for Search Engine Optimization.
+Article Preparation Support
+Wiley Editing Services offers expert help with English Language Editing, as well as translation, manuscript formatting, figure illustration, figure formatting, and graphical abstract design – so you can submit your manuscript with confidence.
+5.EDITORIAL POLICIES AND ETHICAL CONSIDERATIONS
+Editorial Peer-review and Acceptance
+The acceptance criteria for all papers are the quality and originality of the research and its significance to our readership. Except where otherwise stated, manuscripts are single-blind peer reviewed. Papers will only be sent to review if the (Co-) Editor-in-Chief determines that the paper meets the appropriate quality and relevance requirements.
+Wiley's policy on confidentiality of the review process is available here.
+Manuscripts are assigned sequentially to Associate Editors. An Associate Editor solicits reviewers (typically, two external reviews are sought). The reviewers’ evaluations and Associate Editor’s comments are compiled by the (Co-) Editors-in-Chief for disposition and transmittal to the authors.
+The Associate Editor will advise authors whether a manuscript is accepted, should be revised or is rejected. Minor revisions are expected to be returned better within two weeks of decision; major revisions better within four weeks. Manuscripts not revised within the time periods of three months are subject to withdrawal from consideration for publication unless the authors can provide extenuating circumstances.
+A number of manuscripts will have to be rejected on the grounds of priority and available space. A manuscript may be returned to the authors without outside review if the (Co-) Editor-in-Chief and Associate Editor find it inappropriate for publication in the Journal. Similarly, the Editors may expedite the review process for manuscripts felt to be of high priority in order to reach a rapid decision. Such ‘fast-track decisions’ will normally occur within one week of receipt of the manuscript.
+Even though the final decisions are made, authors may dispute a decision and can document good reasons why a manuscript should be reconsidered. A rebuttal process exists. In the first place, authors should write rebuttal letters to the (Co-) Editor-in-Chief.
+In-house submissions-Papers authored by Editors or Editorial Board members of the title, will be sent to Editors unaffiliated with the author or institution and monitored carefully to ensure there is no peer-review bias.
+Data Sharing and Data Availability
+IJMSD encourages authors to share the data and other artefacts supporting the results in the paper by archiving it in an appropriate public repository. Authors may provide a data availability statement, including a link to the repository they have used, in order that this statement can be published in their paper. Shared data should be cited. All accepted manuscripts may elect to publish a data availability statement to confirm the presence or absence of shared data. If you have shared data, this statement will describe how the data can be accessed, and include a persistent identifier (e.g., a DOI for the data, or an accession number) from the repository where you shared the data. You may use the Standard Templates for Author Use to select an appropriate data availability statement for your dataset or draft your own.
+Conflict of Interest
+The journal requires that all authors disclose any potential sources of conflict of interest. Any interest or relationship, financial or otherwise that might be perceived as influencing an author's objectivity is considered a potential source of conflict of interest. These must be disclosed when directly relevant or directly related to the work that the authors describe in their manuscript. Potential sources of conflict of interest include, but are not limited to, patent or stock ownership, membership of a company board of directors, membership of an advisory board or committee for a company, consultancy for or receipt of speaker's fees from a company, and confidential concerns with third parties. The existence of a conflict of interest does not preclude publication. If the authors have no conflict of interest to declare, they must also state this at submission. It is the responsibility of the corresponding author to review this policy with all authors and collectively to disclose with the submission ALL pertinent commercial and other relationships.
+Funding
+Authors should list all funding sources in the Acknowledgments section. Authors are responsible for the accuracy of their funder designation. If in doubt, please check the Open Funder Registry for the correct nomenclature.
+Authorship
+All those listed as authors should qualify for authorship according to the following criteria:
+Have made substantial contributions to conception and design, or acquisition of data, or analysis and interpretation of data;
+Been involved in drafting the manuscript or revising it critically for important intellectual content;
+Given final approval of the version to be published. Each author should have participated sufficiently in the work to take public responsibility for appropriate portions of the content; and
+Agreed to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
+Contributions from anyone who does not meet the criteria for authorship should be listed, with permission from the contributor, in an Acknowledgments section (for example, to recognize contributions from people who provided technical help, collation of data, writing assistance, acquisition of funding, or a department chairperson who provided general support). Prior to submitting the article all authors should agree on the order in which their names will be listed in the manuscript.
+Additional authorship options
+Joint first or senior authorship: In the case of joint first authorship a footnote should be added to the author listing, e.g. ‘X and Y should be considered joint first author’ or ‘X and Y should be considered joint senior author.’
+ORCID
+As part of our commitment to supporting authors at every step of the publishing process, IJMSD encourages the submitting author (only) to provide an ORCID iD when submitting a manuscript. This takes around 2 minutes to complete. Find more information.
+Publication Ethics
+This journal follows the core practices of the Committee on Publication Ethics (COPE) and handles cases of research and publication misconduct accordingly (https://publicationethics.org/core-practices).
+This journal uses iThenticate’s CrossCheck software to detect instances of overlapping and similar text in submitted manuscripts. Read Wiley’s Top 10 Publishing Ethics Tips for Authors and Wiley’s Publication Ethics Guidelines.
+6.AUTHOR LICENSING
+All articles published by IJMSD are fully open access where they are immediately freely available to read, download and share. Accepted papers will be published under a Creative Commons license. With Creative Commons licenses, the author retains copyright and the public is allowed to reuse the content. The author grants Wiley a license to publish the article and to identify as the original publisher. All authors will be directed to the Creative Commons Attribution license (CC-BY) in accordance with funder mandates effective on 1 April 2013.
+For any reuse or distribution, users must include the copyright notice and make clear to others that the article is made available under a Creative Commons Attribution license (CC-BY), linking to the relevant Creative Commons web page. Users may impose no restrictions on use of the article other than those imposed by the Creative Commons Attribution license.
+If your paper is accepted, the author identified as the formal corresponding author will receive an email prompting them to login into Author Services; where via the Wiley Author Licensing Service (WALS) they will be able to complete the license agreement on behalf of all authors on the paper.
+To learn more about Creative Commons Licenses and to preview terms and conditions of the agreements, please click here. Note that certain funders mandate that a particular type of CC license has to be used; to check this, please click here.
+Open Access fees: Please note: Article Publication Charges (APCs) are currently waived. For more information on this journal’s APCs, please see the Open Access page.
+7.PUBLICATION PROCESS AFTER ACCEPTANCE
+Accepted article received in production
+Please kindly note that substantial changes to the manuscript after acceptance may require a re-evaluation by peer reviewers. If you have any questions or updates after your manuscript’s acceptance, please contact the editorial office at your earliest convenience.
+When your accepted article is received by Wiley’s production team, you (corresponding author) will receive an email asking you to login or register with Author Services. You will be asked to sign a publication license at this point.
+Proofs
+Once your paper is typeset you will receive an email notification of the URL from where to download a PDF typeset page proof, associated forms and full instructions on how to correct and return the file.
+Please note that you are responsible for all statements made in your work, including changes made during the editorial process and thus you must check your proofs carefully. Note that proofs should be returned as soon as possible from receipt of first proof.
+Early View
+The journal offers rapid publication via Wiley’s Early View service. Early View (Online Version of Record) articles are published on Wiley Online Library before inclusion in an issue. Note there may be a delay after corrections are received before your article appears online, as Editors also need to review proofs. Once your article is published on Early View no further changes to your article are possible. Your Early View article is fully citable and carries an online publication date and DOI for citations.
+Author Name Change
+In cases where authors wish to change their name following publication, Wiley will update and republish the paper and redeliver the updated metadata to indexing services. Our editorial and production teams will use discretion in recognizing that name changes may be of a sensitive and private nature for various reasons including (but not limited to) alignment with gender identity, or as a result of marriage, divorce, or religious conversion. Accordingly, to protect the author’s privacy, we will not publish a correction notice to the paper, and we will not notify co-authors of the change. Authors should contact the journal’s Editorial Office with their name change request.
+Additional Guidelines for Cover Pictures, Visual Abstracts and Frontispieces
+Concepts illustrated in graphical material must clearly fit with the research discussed in the accompanying text.
+Images featuring depictions or representations of people must not contain any form of objectification, sexualization, stereotyping, or discrimination. We also ask authors to consider community diversity in images containing multiple depictions or representations of people.
+Inappropriate use, representation, or depiction of religious figures or imagery, and iconography should be avoided.
+Use of elements of mythology, legends, and folklore might be acceptable and will be decided on a case-by-case basis. However, these images must comply with the guidelines on human participants when they are present.
+Generally, authors should consider any sensitivities when using images of objects that might have cultural significance or may be inappropriate in the context (for example, religious texts, historical events, and depictions of people).
+Legal requirements: All necessary copyright permission for the reproduction of the graphical elements used in visuals must be obtained prior to publication.
+Graphics that do not adhere to these guidelines will be recommended for revision or will not be accepted for publication.
+8.POST PUBLICATION
+Access and sharing
+Please review Wiley’s guidelines on sharing your research here. The submitted version of the manuscript, the accepted version, and the published version (Version of Record) can all be deposited on an institutional or other repository of the author's choice without embargo.
+When your article is published online:
+You receive an email alert (if requested).
+You can share a link to your published article through social media.
+The author will have free access to the paper (after accepting the Terms & Conditions of use, they can view the article).
+Now is the time to start promoting your article. Find out how to do that here
+Article Promotion Support
+Wiley Editing Services offers professional video, design, and writing services to create shareable video abstracts, infographics, conference posters, lay summaries, and research news stories for your research – so you can help your research get the attention it deserves.
+9.EDITORIAL OFFICE CONTACT DETAILS
+IJMSD Editorial Office
+Email: office@ijmsd.net
+Nanjing University of Science and Technology (NJUST)
+Xiaolingwei 200, Nanjing, China
+Pubdate:  Viewed:
+Latest issue
+2026-03-20 2026, Volume 6 Issue 1
+View all volumes and issues
+Cover illustration
+Submit manuscript
+Latest articles
+Most accessed
+Collections
+https://doi.org/
+View all articles
+https://doi.org/
+View all articles
+View all collections
+Subscription
+E-mail alert
+Subscribe to our RSS content
+Journal updates More
+Journal updates
+2024-07-09
+Links
+Links
+ISSN 2767-1399 (Print)
+ISSN 2767-1402 (Online)

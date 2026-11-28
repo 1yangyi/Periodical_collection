@@ -1,0 +1,42 @@
+期刊: 针刺研究
+来源: https://www.zhenciyanjiu.cn/cn/info/10601
+标题: 参考文献格式
+
+参考文献格式
+参考文献格式
+参考文献的著录依照《GB/T 7714-2015文后参考文献著录规则》(下载GB/T 7714-2015)。列入的参考文献应该是作者亲自阅读过，并在论文中直接引用的主要文献。未正式发表的文献(包括私人通讯等)一般不作为文献引用。必须引用，请在正文中括注。以电子版和印刷版同时发表的文献，在著录时以印刷版为准。正式出版的会议论文集中的论文按照论文集的格式著录，非正式出版的会议论文集中的论文不列入参考文献表，必须引用时请在正文中括注。我刊提倡作者在自己的文章中对国内外同行已发表的最新或最经典、水平较高的相关论文予以充分反映。
+为方便国际检索系统收录及国外读者查阅，非英文（主要是中文）参考文献应以原文及英文两种文字著录，原文条目在上，相应的英文条目在下（两条使用同一编号）。
+举例如下：
+1专著、图书
+[序号]作者.书名[M].版次（第1版不写）.出版地点：出版单位（国外出版单位可缩写），年：起页-止页.
+示例:
+[1]朱琏. 新针灸学[M]. 南宁: 广西科学技术出版社, 2008: 154-155.
+ZHU L. New acupuncturology (in Chinese)[M]. Nanning: Guangxi Science&Technology Publishing House, 2008: 154-155.
+2期刊
+[序号]作者.文题[J].期刊名，年，卷（期）：起页-止页.
+示例：
+[1] 李婧雯, 胡延超, 王艺莹, 等. 督脉电针对脑卒中肢体痉挛大鼠大脑皮层中谷氨酸脱羧酶67和γ-氨基丁酸转氨酶表达的影响[J]. 针刺研究, 2022, 47(8): 703-709.
+LI J W, HU Y C, WANG Y Y, et al. Effect of electroacupuncture of Governor Vessel on expression of GAD67 and GABA-T in cerebral cortex of rats with post-stroke limb spasticity (in Chinese)[J]. Acupuncture Research, 2022, 47(8): 703-709.
+[2] SYUU Y, MATSUBARA H, HOSOGI S, et al. Pressor effect of electroacupuncture on hemorrhagic hypotension[J]. Am J Physiol Regul Integr Comp Physiol, 2003, 285(6): R1446-R1452.
+3论文集、会议录
+[序号]主要责任者.题名[C]//其他题名信息. 出版地，出版年:页码.
+示例:
+[1]河南省护理学会. 糖尿病神经源性膀胱温灸器治疗技术操作规范[C]//2012年河南省糖尿病教育暨规范化管理学术研讨班论文集. 郑州, 2012: 109.
+Henan Nursing Association. Technical operation standard of warming moxibustion treatment for diabetic neurogenic bladder (in Chinese)[C]//2012 Diabetes Education and Standardized Management Academic Seminar in Henan Province. Zhengzhou, 2012: 109.
+4标准
+[序号]主要责任者.标准名称：标准号[S]. 出版地：出版者，出版年：页码.
+示例:
+[1] 江西省市场监督管理局. 热敏灸技术操作规范: DB36/T 1480—2021[S]. 南昌: 江西省市场监督管理局, 2021: 12.
+Market Supervision Administration of Jiangxi Province. Standardized manipulations of heat-sensitive moxibustion therapy: DB36/T 1480—2021 (in Chinese)[S]. Nanchang: Market Supervision Administration of Jiangxi Province, 2021: 12.
+5学位论文
+[序号]主要责任者.题名[D]. 大学所在城市：大学名称，出版年.
+示例:
+[1] 徐晖. 国家标准《针灸名词术语》基础研究: 刺法灸法部分[D]. 北京: 北京中医药大学, 2007.
+XU H. Basic research on national standard “acupuncture terminology”—methodology of acupuncture and moxibustion (in Chinese)[D].Beijing: Beijing University of Chinese Medicine, 2007.
+6电子文献、网页
+[序号]主要责任者. 题名：其他题名信息[文献类型标识/文献载体标识].出版地：出版者，出版年：页码、更新或修改日期[引用日期]. 获取和访问路径. 数字对象唯一标识符.
+示例:
+[1]李应昆, 赵勇, 王尊凤, 等. 模拟药灸补泄治疗仪(智能型模拟光电药灸仪的研制)[EB/OL]. 2002-12-15[2023-09-06]. https://kns.cnki.net/KCMS/detail/detail.aspx?dbname=SNAD&filename=SNAD000000027447.
+LI Y K, ZHAO Y, WANG Z F, et al. Development of a simulated medicinal moxibustion therapeutic device for reinforcing and reducing (intelligent simulated photoelectric medicinal moxibustion device) (in Chinese) [EB/OL]. 2002-12-15 [2023-09-06]. https://kns.cnki.net/KCMS/detail/detail.aspx?dbname=SNAD&filename=SNAD000000027447.
+参考文献的作者不超过3人(含3人)全部列出，多于3人时只写前3人，后加“等”或“et al”。姓名采用姓前名后的形式，作者之间不加“和”或“and”。
+上下相同的参考文献用同一序号标出,不可用“同上”或“ibid”等。

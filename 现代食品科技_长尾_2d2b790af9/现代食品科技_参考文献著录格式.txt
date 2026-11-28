@@ -1,0 +1,110 @@
+期刊: 现代食品科技
+来源: https://xdspkj.alljournals.cn/xdspkj/site/menus/20180814044922583
+标题: 参考文献著录格式
+
++高级检索
+本平台为互联网非涉密平台，严禁处理、传输国家秘密、工作秘密或敏感信息
+杂志首页
+杂志简介
+编委会
+主编团队
+编委会成员
+青年编委会委员
+投稿须知
+过刊浏览
+声明条款
+稿件处理
+出版道德
+开放获取
+AI工具使用声明
+署名信息变更细则
+征订服务
+专栏征稿
+海洋功能食品的开发及功效评价
+食品酶工程与功能活性物质生物转化
+食品风味与营养健康
+食品生物传感分析检测技术
+作者园地
+敬告作者函
+版面费支付方式
+本刊的微信公众号
+本刊的中英文摘要写作要求
+参考文献著录格式
+计量单位的标准格式
+三线表的标准格式
+修改范例说明
+本校校内转账流程
+审稿流程及状态释疑
+联系我们
+English
+参考文献著录格式
+分享：
+参考文献著录格式
+参考文献 【小四楷体，两倍行距，段前段后间距均为0】
+[序号]  作者.书名[M].出版地:出版者,出版年. 【小五宋体，字母及数字采用小五Times New Roman】 【参考文献中的标点全部采用半角书写】
+例如：
+[2] 刘国钧,王连成.图书馆史研究[M].北京:高等教育出版社,1979.
+[序号]  作者.文章题名[J].期刊名,年,卷(期):起止页码.【小五宋体，字母及数字采用小五Times New Roman】 【参考文献中的标点全部采用半角书写】
+例如：
+[3] 刘飞,郝婧宇,段素芳,等.益生菌对断奶鼠消化酶活力、肠道运动性及粘膜形态的影响[J].食品工业科技,2021,42(16): 353-360.
+[2] YAO K, LIU D M, LIANG M H, et al. Detection of nitrite degradation by Lactobacillus plantarum DMDL9010 through the anaerobic respiration electron transport chain using proteomic analysis [J]. International Journal of Food Science and Technology, 2021, 56(4): 1608-1622.
+[序号]  作者.题名[C]]//会议论文集名.出版地:出版者,出版年:起止页码. 【小五宋体，字母及数字采用小五Times New Roman】 【参考文献中的标点全部采用半角书写】
+例如：
+[1]  钟文发. 非线性规划在可燃毒物配置的应用[C].西安: 西安电子科技大学出版社,1996: 468-471.
+[4]  NOOT N V D, IJSPEERT A J, RONSSE R. Biped gait controller for large speed variations, combining reflexes and a central pattern generator in a Neuromuscular model[C]//IEEE International Conference on Robotics and Automation (ICRA). Seattle, WA, USA: IEEE, 2015: 6267–6274.
+[序号]  作者.学位论文名称[D].作者单位所在城市:作者单位,授予年. 【小五宋体，字母及数字采用小五Times New Roman】 【参考文献中的标点全部采用半角书写】
+例如：
+[3] 杨永亮.泡菜中植物乳杆菌的分离鉴定及其应用[D].广州:华南理工大学,2013.
+[序号]  作者.报告名称[R]报告地:报告单位,报告年.获取和访问路径. 【小五宋体，字母及数字采用小五Times New Roman】 【参考文献中的标点全部采用半角书写】
+例如：
+[1]  宋健.制造业与现代化[R].北京:人民大会堂,2002.
+[2]  WENZHOFER F, KNUST R. Expedition programme PS108[R]. Bre-merhaven, Germany: Alfred Wegener Institute, 2017.
+[序号]  标准编号 标准名称[S]. 【小五宋体，字母及数字采用小五Times New Roman】 【参考文献中的标点全部采用半角书写】
+例如：
+[1]  国家技术监督局. GB 3100~3120-1993 量和单位[S].北京:中国标准出版社,1994.
+[2]  中华人民共和国国家质量监督检验检疫总局,中国国家标准化管理委员会.GB/T 7714-2005 文后参考文献著录规则[S].北京:中国标准出版社,2005.
+[序号]  专利所有者.专利题名:专利国别,专利号[P].公告日期或公开日期[引用日期]..获取或访问路径.数字对象唯一标识符. 【小五宋体，字母及数字采用小五Times New Roman】 【参考文献中的标点全部采用半角书写】
+例如：
+[3] 吴晖,任尧,赖富饶,等.一种水蛭高F值寡肽及其酶解制备方法与应用:中国,201410198756.1[P].2014-05-12.
+[序号]  作者名.析出文献题名[N].报纸名,出版日期（版次）. 【小五宋体，字母及数字采用小五Times New Roman】 【参考文献中的标点全部采用半角书写】
+例如：
+[1]  常志鹏.清洁高效燃煤技术离我们还有多远[N]. 科技日报, 2005-7-18(3).
+[2]  傅刚,赵成,李佳路.大风沙过后的思考[N/OL]. 北京青年报，2000-04-12(14)[2005-07-12]. http://www.bjyouth.htm.
+[序号]  主要责任者.电子文献题名[电子文献载体类型标识].出版地:出版者,出版年:引文页码(更新或修改日期)[引用日期].电子文献的出处或可获得地址. 【小五宋体，字母及数字采用小五Times New Roman】 【参考文献中的标点全部采用半角书写】
+例如：
+[1] INNFOS. Robots[DB/OL]. (2020-01-01)[2020-04-30]. https://innfos.com/.
+[2] WEILAN. 阿尔法机器狗[DB/OL]. (2019-08-20) [2020-04-30]. http://www.weilan.com/.
+[3] 萧钰. 出版业信息化迈入快车道[EB/OL]. (2001-12-19)[2002-04-15]. http://www.reader.com/news/20011219/200112190019.html.
+【外文参考文献】【小五Times New Roman体】
+中国名字的作者：姓前名后，姓的字母要全部大写，名则首字母大写；
+非中国名字作者：一般名前姓后，第一个名全拼大写，其余名和姓首字母大写；
+文献题目名仅第一个字母和专有名词第一个字母大写，其余小写；
+刊名每个词第一个字母大写（介词连词除外）；
+例如：
+[2] WANG Y, HUI T, ZHANG Y W, et al. Effects of frying conditions on the formation of heterocyclic amines and trans fatty acids in grass carp (Ctenopharyngodon idellus) [J]. Food Chemistry, 2015, 167: 251-257.
+[3] RAMALINGAM V, SONG Z, HWANG I. The potential role of secondary metabolites in modulating the flavor and taste of the meat [J]. Food Research International, 2019, 122: 174-182.
+期刊简介
+主编：李琳教授
+创刊：1985年
+国际标准刊号：ISSN 1673-9078
+国内统一刊号：CN 44-1620/TS
+国内邮发代号：46-349
+信息公告
+严正声明(5274)
+重要提示(4559)
+关于生成式人工智能（AI）工具的声明(3587)
+浏览排行
+引用排行
+下载排行
+快速检索
+按检索
+检索词
+从  到
+刊期检索
+您是第  位访问者
+网站版权： 现代食品科技
+主管单位：中华人民共和国教育部 主办单位：华南理工大学
+电话：020-87112373 Email：mfood@scut.edu.cn、mfood@foxmail.com
+地址：广州市天河区五山路381号华南理工大学麟鸿楼506室
+信息咨询：QQ: 2553003667 稿件初审：QQ: 1542354573 稿件处理：QQ: 2195608851 财务咨询：QQ: 1347040116
+现代食品科技 ® 2026 网站版权 ICP：京ICP备09084417号-24

@@ -1,0 +1,116 @@
+期刊: 植物遗传资源学报
+来源: https://www.zwyczy.cn/zwyczyxb/site/menus/20201113094600001
+标题: 论文模版
+
+网站首页
+期刊简介
+投稿指南
+投稿指南
+论文模版
+著作权许可及转让声明
+编委会
+植物遗传资源学报编委会
+青年编委
+主编简介
+OA政策
+OA政策
+情况通报
+高被引论文
+出版伦理
+出版伦理声明
+遗传资源分会
+遗传资源分会简介
+委员会
+活动公告
+成为会员
+学术会议
+2026年学术会议
+赞助企业展示
+联系我们
+English
+微信公众号
+论文模版
+分享：
+植物遗传资源学报论文模板(2025版)
+论文一律采用A4页面
+中文题目小二宋体、加粗，不超过20个字
+作者A1  ，作者B2  ， …小五号楷体，多个作者用逗号间隔,若单位不同，用“1，2…”等上标标识
+（1中国农业科学院作物科学研究所，北京 100081；2河北农业大学园艺学院，保定 071000…）六号宋体,注意核实一级单位名称
+摘要：六号楷体，一般300~500字
+关键词：六号楷体，一般3～6个，以“；”间隔
+英文题目 新罗马3号、加粗，实词首字母大写，其余均小写（专用名词除外）．
+Author1，Author2，…．五号新罗马，姓在前，所有字母大写；名在后，格式如：WANG Xiaoming
+（1Institute of CropSciences,Chinese Academy of Agricultural Sciences, Beijing 100081；
+2College of Horiculture,Agticultural University of Hebei, Baoding 071000六号新罗马斜体，顺序同中文,，英文单位名称以官网为准 ）
+Abstract: 六号新罗马，开头空两个格;字数不少于500词.
+英文摘要中“~”应改为“-”
+Key words: 六号新罗马，以“；”间隔
+英文关键词中，非专有名词首字母应为小写，专有名词如人名、地名等大写
+正文一级标题 四号黑体,以1，2，…排序；前言部分无标题
+二级标题 五号黑体，以1.1，1.2,…排序
+三级标题 五号黑体，以1.1.1，1.1.2,…排序后空格接排文字
+正文文字五号宋体，通栏排列，页边距左2cm、右1.8 cm
+英文文献在正文中的引用格式为：Arslan等[4]（单词为第一作者的姓）
+图：图题和图注放在图的正下方，顺序为“图-图注-图题”；图例、图注、图题均要中英文呼应（小五号黑体）；图注六号宋体，格式为：A：xxx；中英文同，英文均为新罗马字体
+请提供高分辨率清晰矢量图，并将矢量图直接插入Word文档中，以确保能够对原图进行规范化编辑加工。
+表：采用三线表。表题、表头、首列均中英文呼应；表题置于表的左上方（小五号黑体）；内容为六号宋体；第一列采用左对齐，其余列采用居中显示；其他单元格使用中文表述；续表格式为:“表3（续）”并居中；表注格式为：A：xxx；中英文同
+参考文献小五号黑体
+格式如下：六号宋体，中英文作者姓名全部列出，英文期刊名要全拼，不加文献标识 中英文对应，英文标题及期刊名称需与公开发表文献内容一致
+[1] 刘旭,黎裕,李立会,贾继增.作物种质资源学理论框架与发展战略.植物遗传资源学报,2023,24(1):1-10
+Liu X, Li Y, Li L H, Jia J Z. Theoretical framework and development strategy of crop germplasm resources. Journal of Plant Genetic Resources, 2023,24(1):1-10
+[2] 宗绪晓,杨涛,刘荣. 带您认识食用豆类作物. 北京:中国农业科学技术出版社,2019
+Zong X X, Yang T, Liu R. Take you to know edible beans. Beijing: China Agricultural Science and Technology Press, 2019
+[3] Jiang L, Jiang X, Li Y, Gao Y, Wang S, Ma Y, Wang G. FT-like paralogs are repressed by an SVP protein during the floral transition in Phalaenopsis orchid. Plant Cell Reports, 2022, 41(1): 233-248
+[4] 蔡青. 甘蔗近缘属斑茅、滇蔗茅遗传多样性与种质创新研究. 昆明: 云南大学, 2013
+Cai Q. Study on genetic diversity and germplasm improvement of Erianthus arundinaceeus and Erianthus rochii. Kunming: Yunnan University, 2013
+[5]  中国农业农村部.农业部办公厅关于印发《第三次全国农作物种质资源普查与收集行动实施方案》的通知.（2015-07-09）[2017-12-02］.http://www.moa.gov.cn/nybgb/2015/ba/201712/t20171219_6103757.htm
+Ministry of Agriculture and rural affairs of the People’s Republic of China. Implementation plan for the Third national general survey and collection of crop germplasm resources.（2015-07-09）[2017-12-02］.http://www.moa.gov.cn/nybgb/2015/ba/201712/t20171219_6103757.htm
+收稿日期：2025-01-01  网络出版日期：
+URL：
+第一作者研究方向为 ×××××，E-mail : ×××
+通信作者：姓名，研究方向为 ×××××，E-mail : ×××
+基金项目：项目类别（编号）多个项目间用“；”  如 国家农作物种质资源保护与利用项目（19230853）；中国农业科学院南繁专项（YYLH2402）
+Foundation projects ：对应英文的项目类别（编号）多个项目间用“；”，project加“s” National Crop Germplasm Resources Conservation and Utilization Projects (19230853)；Nanfan Special Project of Chinese Academy of Agricultural Sciences （YYLH2402）
+（欢迎酌情引用本刊近2-3年发表的文献，以利于本刊进步）
+信息公告更多+
+《植物遗传资源学报》2025年高被引论文
+《植物遗传资源学报》入选《科技期刊世界影响力指数（WJCI）报告(2025)》
+《植物遗传资源学报》第二届青年编委名单
+《植物遗传资源学报》2025年影响因子3.478
+《植物遗传资源学报》入选“中国科技期刊提能拓展计划”
+2024年高被引论文（被引5次以上）
+作物种质资源“天书计划”正式启动
+第二届基于多组学的作物基因资源研究培训班成功举办
+宣传展示栏更多+
+杭州汉极生物科技有限公司
+智农云芯一体化智能育种方案
+慧诺瑞德
+博瑞迪
+极智生物·多组学驱动的一站式智能设计育种专家
+拉索生物-一体化固相基因芯片解决方案提供者
+行业动态更多+
+第三届国际农业生物多样性大会通知
+中国农科院作科所组织召开2025年全国农作物种质资源保护利用工作推进会
+农业农村部就介绍全国农业种质资源普查情况召开新闻发布会
+2024年优异农作物种质资源推介和典型开发案例发布
+会讯： 关于召开“耐盐碱作物学术研讨会”的会议通知（第一轮）
+第一届涉农高校作物种质资源学师资研讨培训会在长春市成功举办
+期刊荣誉更多+
+中国农林核心期刊
+北大中文核心2020
+RCCSR中国核心学术期刊
+全国优秀资源期刊
+中国精品科技期刊
+2021年高影响力期刊
+下载中心更多+
+《普查与收集行动简报》2020年4期
+《普查与收集行动简报》2020年3期
+《普查与收集行动简报》2020年2期
+《普查与收集行动简报》2020年1期
+植物遗传资源学报论文模板
+《植物遗传资源学报》著作权转让协议
+您是第位访问者
+ICP:京ICP备09069690号-23
+京ICP备09069690号-23
+植物遗传资源学报 ® 2026 版权所有
+技术支持：北京勤云科技发展有限公司

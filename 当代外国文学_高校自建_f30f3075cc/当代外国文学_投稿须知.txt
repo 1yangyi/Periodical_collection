@@ -1,0 +1,102 @@
+期刊: 当代外国文学
+来源: https://cfl.nju.edu.cn/tgxz/index.html
+标题: 投稿须知
+
+加入收藏  联系我们
+首 页
+期刊简介
+历年期刊
+书 评
+投稿须知
+订 阅
+文坛之窗
+学术动态
+学术论坛
+English
+投稿须知
+《当代外国文学》注释体例说明
+浏览次数： 发布时间：2012-02-17
+为了促进学术规范化、尽快与国际学术期刊接轨，《当代外国文学》从2009年起实行基于MLA格式的注释和引文规范，凡在正文中引用他人观点和语句均须用与论文末尾的书目条目相对应的圆括号注释。如果需要对正文中某一问题作注解则采用尾注，注解的目的在于向读者提供必要的解释与评论，而不是例举引文的出处。现将主要规则小结如下以供投稿作者参考。
+一、 正文内圆括号注释格式
+1、 圆括号内注释由作者姓氏、著作页码构成。例：（Eco 10）、（歌德 9）。
+2、 如果句子中已经提供了作者的名字（或姓氏），则括号内只需提供引用作品页码。
+3、 如果引用了同一作者的多部作品，则在作者姓氏后提供相关作品的全称或简称，以及引用页码。例：（Eco, Open Work 11）、（Eco, Role of Reader 7）。
+4、 圆括号注释所涉及的作品信息必须能在“引用作品”中找到。
+二、 “引用作品”格式
+I．引用中文作品
+A．引用专著
+例：歌德：《少年维特的烦恼》，侯浚吉译，上海译文出版社，1982年。
+说明：
+1、作者姓名后加冒号，其余信息用逗号隔开，最后以句号结尾；
+2、引用著作为译著的必须在作品之后，出版社之前注明译者名字；
+3、如作者不止一人，作者姓名间以顿号分开；如作者为二人以上，可写出第一作者姓名，在后面加“等”字省略其他作者；这两点也适用于译者；
+例：赫尔量•海塞等著：《陀思妥耶夫斯基的上帝》，斯人等译，北京：社会科学文献出版社，1999年。
+4、书名中有副标题的用破折号隔开，例：《性别、身体与意识形态——当代西方女性文学与社会嬗变》；
+5、如所引著作为多卷本，卷数直接置于书名号之后，中间不再加逗号，也可以卷数加括号的形式表示，例：《马克思恩格斯全集》第1卷，《西方哲学史》上卷，《马克思恩格斯全集》（一），西方哲学史（上）；
+6、出版年代后不加“版”字。
+B. 引用编著
+例：刘海平主编：《文明对话：本土知识的全球意义》，上海外语教育出版社，2002年。
+说明：在编者姓名后必须根据原书信息准确地注明“编”、“主编”、“编选”等。
+C. 引用文集或刊物文章
+例：麦•布鲁特勃莱、詹•麦克法兰：《现代主义的称谓和性质》，见袁可嘉等编选《现代主义文学研究》（上），北京：中国社会科学出版社，1989年。
+王守仁：《论哈代的史诗剧<列王>》，《外国文学评论》1990年第3期。
+舒程：《漏译与错译的误导》，《光明日报》2001年12月20日。
+II. 引用外文作品
+A．引用专著
+例：Ransome, Arthur. Oscar Wilde: A Critical Study. London: Methuen, 1915.
+说明：
+1、作者姓氏在前名字在后，之间用逗号隔开；
+2、各项信息之间用句点隔开；
+3、书名用斜体，正副标题之间用冒号隔开；
+4、如所引作品为译著，需注明译者；
+5、多位作者之间用逗号隔开，除第一位作者的姓氏提前外，其他作者的姓名仍按照名字前姓氏后的顺序注明；三位以上的作者可以只注明一个，其后用“et al”表示省略。
+例：Tolstoy, Leo. What is Art? Trans. T. Mande. New York: Oxford University Press, 1962.
+Vandereycken, Walter, and Ron van Deth. From Fasting Saints to Anorexic Girls: The History of Selfstarvation. New York: New York UP, 1994.
+Gilman, Sander, Helen King, Roy Porter, George Rousseau, and Elaine Showalter. Hysteria beyond Freud. Berkeley: U of California P, 1993.
+Gilman, Sander, et al. Hysteria beyond Freud. Berkeley: U of California P, 1993.
+B. 引用编著
+例：Ellmann, Richard, ed. Artist as Critic: Critical Writings of Oscar Wilde. New York: Vintage Books, 1970.
+Fallen, Patricia, Melanie A. Katzman, and Susan C. Wooley, eds. Feminist Perspectives on Eating Disorders. New York: Guilford, 1994.
+说明：作者名后加逗号，再加“编纂”的缩写（ed.），其余同上。
+C. 引用文集或刊物文章
+例：Kafka, Franz.“The Hunger Artist.” The Basic Kafka. New York: Washington Square, 1979. 80—90.
+McGlynn, Mary.“Janice Galloways Alienated Spaces.” Scottish Studies Review 4.2 (Fall 2003): 82—97.
+Manning, Anita.“Curriculum Battles from Left and Right.” USA Today 2 Mar. 1994: 5D.
+Murphy, Cullen.“Women and the Bible.” Atlantic Monthly Aug. 1993: 39—64.
+说明：
+1、文章篇名为正体，前后加引号，篇名后的句点放在引号内；
+2、文集书名、期刊名、报纸名或杂志名均为斜体；
+3、文集注明出版地、出版社以及出版年，期刊注明卷数、期数及出版日期，报纸注明出版日期和版面，杂志注明出版年月；
+4、必须注明引用文章的起止页码，如果引用自文集则在出版年后加句点再加起止页码，如果引用自期刊、报纸、杂志则在出版年后加冒号再加起止页码；
+5、引用文集的编者放在文集书名后，再加上出版信息及页码；
+6、引用文集的译者放在编者后，再加上出版信息及页码；
+7、引用书中的前言、序、后记等按照前言的作者（姓前名后）、前言、作品名、作者名、出版信息、前言起止页码的顺序排列，各项目之间用句点分开。
+例：Kiberd, Declan.“The War against the Past.” The Uses of the Past: Essays on Irish Culture. Ed. Audrey S. Eyler and Robert F. Garratt. Newark: U of Delaware P, 1988. 24—53.
+Bakhtin, Mikhail.“Forms of Time and of the Chronotope in the Novel: Notes toward a Historical Poetics.” The Dialogic Imagination: Four Essays. Ed. Michael Holquist. Trans. Caryl Emerson and Michael Holquist. Austin: U of Texas P, 1981. 84—258.
+Drabble, Margaret. Introduction. Middle March. By George Eliot. New York: Bantam, 1985. vii—xvii.
+D. 引用网上文章
+例：Victorian Women Writers Project. Ed. Perry Willet. June 1998. Indiana U. 26 June 1998 <http://www.indiana.edu/~letrs/vwwp/>.
+说明：一般顺序为：引用文章的作者名字（姓前名后，如果没有作者则不需要注明）、作品名、编者名字、电子版版权信息（日期、版权人或组织）、引用时间以及网址。
+补充说明：
+1、 中文条目均需提供英文翻译，将中文信息置于英文翻译之下用方括号标志。
+例：Eagleton, Terry. The Illusions of Postmodernism. Trans. Hua Ming. Beijing: The Commercial Press, 2000.
+［特里•伊格尔顿：《后现代主义的幻象》，华明译，北京：商务印书馆，2000年。］
+2、 “引用作品”一律按作者姓氏的字母顺序排列。
+3、 引用同一作者的多部作品，作者名字用三根虚线代替，
+例：Frye, Northrop. Anatomy of Criticism: Four Essays. Princeton: Princeton UP, 1957.
+. ed. Sound and Poetry. New York: Columbia UP, 1957.
+4、在引用作品中，大学的出版社University统一简写成U；Press简写成P。例：University of Texas Press统一成U of Texas P；例：Columbia University Press统一为Columbia UP。
+5、在文中引用互联网上的内容，在引文后标出（作者）即可。
+三、 编辑体例
+1、文章标题、内容提要、关键词、作者信息均需提供英文翻译。
+2、“内容提要”四个字（英文：ABSTRACT），前面空两格，后面加冒号，五黑。内容提要的正文，五号仿宋。
+3、“关键词”三个字（英文：Keywords），前面空两格，后面加冒号，五黑。关键词正文，五号仿宋。每个关键词之间空一格，不用标点符号，字数控制在3—4个字以内。
+4、“作者”二个字（英文：Author），前面空两格，后面加冒号，五黑。作者名字加黑，后用尖括号注明电子邮箱，作者信息由作者名字，身份、工作单位及城市、邮编构成。如果文章是省级或省级以上项目，在中文的作者信息中标出项目名称、编号。
+5、本《体例说明》中未涉及的其他规定可以参考《MLA科研论文写作规范》（第5版，上海外语教育出版社2001年）一书中的相应条目。
+四、 投稿须知
+《当代外国文学》主要刊登20世纪60年代以来的外国文学作品及其研究论文，侧重研究80年代以来的作家、作品和文学理论流派。竭诚欢迎外国文学界的广大同仁积极向本刊投稿。来稿请按中文标题、摘要、关键词、作者信息、英文标题、英文摘要、英文关键词、英文作者信息、正文、参考书目的顺序编排。
+本刊实行专家匿名审稿制。来稿请寄本刊编辑部（南京市栖霞区163号南京大学外国语学院《当代外国文学》邮编210023，电子邮箱：cflnju@nju.edu.cn），勿寄交个人，以免贻误。本刊发表文章均为作者的研究成果，文责自负，本刊有权对来稿予以删改，如不同意删改，请在来稿中注明。来稿不退，请作者自留底稿。凡向本刊投稿者均以此体例说明为准。
+本刊审稿周期为4个月。
+顾问风采
+内容整理中
+版权所有：南京大学《当代外国文学》编辑部

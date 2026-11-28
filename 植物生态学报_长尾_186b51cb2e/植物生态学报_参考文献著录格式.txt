@@ -1,0 +1,136 @@
+期刊: 植物生态学报
+来源: https://www.plant-ecology.com/CN/column/column112.shtml
+标题: 参考文献著录格式
+
+首页
+期刊介绍
+期刊简介
+刊登范围
+读者对象
+本刊历史
+国内数据库收录情况
+海外数据库收录情况
+期刊各项统计指标
+获得荣誉
+编委会
+编委会
+青年编委
+投稿指南
+征稿简则
+数据共享政策
+数据论文稿件要求
+投稿论文模版
+法定计量单位,拉丁名,专有名词书写规范围
+中英文题目,关键词,摘要撰写要求
+参考文献著录格式
+插图具体要求
+作者署名规范
+预发表
+最新录用
+过刊浏览
+专辑/专题
+广告合作
+期刊订阅
+English
+参考文献著录格式
+一、参考文献在文中引用的标准规范
+1．文献著录格式为著者年代制。
+2．文后参考文献在文中引用时应在相应位置与文后文献一一对应引用，文献的对应引用请作者仔细核实，准确性请作者自行负责。
+3．中英文文献中独立作者的文献在文中的引用格式如下：如：(韩兴国等, 2000)、(Pickett, 1989)；两个作者的文献在文中引用格式：如：(马克平和陈灵芝, 1999)或(Jone & Peeter, 2001)；多个作者文献在文中的引用格式如下：如：(马克平等, 2000)、(Jone et al., 2001)。文献如在文中叙述中引用，两个作者的文献引用格式为：马克平和陈灵芝(1999)……；或Jone和Peeter (2001)…….。
+4．同一作者文献在文中同一处引用，不同的年代用逗号分开，并按年代先后排序，引用格式为：如：对长白山主要生态系统中的地面生、树生苔藓植物分布格局与环境因子的关系进行了系统研究(郭水良, 1999, 2000, 2001)。
+5．不同作者文献在文中同一处引用按年代先后排序，如：研究了群落的数量分类和排序(阳含熙等, 1985; 钱宏, 1990)。
+二、文后参考文献著录标准规范
+1．无论何种语种所有文献均需译成英文文献，在文后按作者姓名字母顺序排序，中文文献跟在相应英文后面。非英文文献在条目最后括注文种。
+2．文后文献著录要求列出全部著者、作者姓名。
+3．无论中文还是外文作者的姓字母全拼并放在前面，所有名均用首字母大写缩写，每个缩写字母间不空格，但与姓用空格分开，每一个作者之间用逗号分开。
+4．举例：
+1．连续编码的期刊的引用
+例：Lundgren BO, Kiessling KH (1985). Seasonal variation in catabolic enzyme activities in breast muscle of some migratory birds. Oecologia, 66, 468-471.
+例： Fang JY, Liu GH, Wang XK, Kang DM (1995). Measurement of respiration rates of Quercus liaotungensis in the mountain of Beijing. Acta Ecologica Sinica, 15, 235-244. [方精云, 刘国华, 王效科, 康德梦 (1995). 北京地区辽东栎呼吸量的测定. 生态学报, 15, 235-244.]
+2．非连续编码的期刊的引用
+例：Wen J, Gao JS, Guo SL, Guo DD (1999). Research present status and development prospects on stochastic simulation and forecasting of evapotranspiration. Water Resources & Water Engineering, 10(2), 9-22. [温季, 高军省, 郭树龙, 郭冬冬 (1999). 蒸发蒸腾量的随机模拟与预报研究现状和发展趋势. 西北水资源与水工程, 10(2), 9-22.]
+3．书的引用
+例：Pan RC, Dong YD (2001). Plant Physiology. 3rd ed. Higher Education Press, Beijing. 30. [潘瑞炽, 董愚得 (2001). 植物生理学. 3版. 高等教育出版社, 北京. 30.]
+Begon M, Harper JL, Townsend CR (1990). Ecology: Individuals, Populations and Communities. 2nd ed. Blackwell Scientific Publications, Boston.
+4．论文集、专著、论文汇编、会议录的引用
+例：Bewley JD, Krochko JE (1982). Desiccation tolerance//Lange OL, Nobel PS, Osmond CB, Ziegle H. Physiological Plant Ecology II. Springer, Berlin. 325-378.
+5.译文的引用格式(此处的出版年是译文的出版年代
+例：Pathep EN (Translated by Yang JH, Zhao QG, Shi H) (1956). Plant Nutrition and Fertilization (in Russian). Science Press, Beijing. 17-18. [杨景辉, 赵其国, 石华 (译) (1956). 植物营养和施肥. 科学出版社, 北京. 17-18.]
+6.博士学位论文的引用格式
+例：Jiang YL (2001). Study on the Productivity of Chinese Boreal Forest Ecosystem Under Global Change and Ecosystem Service Assessment. PhD dissertation, Institute of Botany, Chinese Academy of Sciences, Beijing. 102-119. [蒋延玲 (2001). 全球变化的中国北方林生态系统生产力及其生态系统公益. 博士学位论文, 中国科学院植物研究所, 北京. 102-119.]
+7.网络论文引用格式
+例：Author (year). Title of subordinate document. In: The dictionary of substances and their effects. Royal Society of Chemistry. [引用日期]. Available via DIALOG. http://www.rsc.org/dose/title of subordinate document.
+International Union for Conservation of Nature and Natural Resources ( IUCN) (2000). Authority Files for Habitats & Threats. [2020-06-18]. http: //www.iucn.org/themes/ssc/sis/authority.html.
+8.网上数据库引用格式
+例：Healthwise Knowledgebase (1998). US Pharmacopeia, Rockville. [引用日期]. http://www.healthwise.org.
+9．网上个人网页的引用格式
+例：Author (year). Title of supplementary material. [引用日期]. http://www.privatehomepage.com.
+10．学院研究所站点资料引用
+例：Author (year). Title of preprint. [引用日期]. http://www.uni-heidelberg.de/mydata.html.
+Author (year). Trivial HTTP, RFC2169. [引用日期]. ftp://ftp.isi.edu/in-notes/rfc2169.txt.
+11．网络组织机构网页引用格式
+例：ISSN International Centre (1999). Global ISSN database. [引用日期]. http://www.issn.org.
+12．专利引用格式
+专利申请者或所有者(年).专利题名:专利国别,专利号.公告日期或公开日期[引用日期].获取和访问路径.
+例：Liu JL (1993). multifunctional disposable spatula: China, 92214985.2. 1993-04-14. [刘加林 (1993). 多功能一次性压舌板: 中国, 92214985.2. 1993-04-14.]
+Xidian University (2002). detection method of photorefractive adaptive optical heterodyne: China, 01128777. 2. 2002-03-06 [2002-05-28]. [西安电子科技大学 (2002). 光折变自适应光外差探测方法: 中国, 01128777. 2. 2002-03-06 [2002-05-28]. http://211.152.9.47/sipoasp/zljs/hyjs-yx- new.asp?recid=01128777.2&leixin=0.
+发布日期：2010-08-04 浏览： 93555
+在线办公
+作者注册投稿
+专家审稿
+编委审稿
+主编审稿
+编辑办公
+特色栏目
+侯学煜评述
+数据论文
+方法与技术
+论坛
+高影响力论文
+年度高影响力论文
+年度高被引频次论文
+领跑者5000入选论文
+历年审稿专家
+封面故事及微文精选
+下载中心
+友情链接
+相关部委
+中国科学院
+国家自然科学基金委员会
+中华人民共和国科学技术部
+相关学会
+中国植物学会
+中国生态学学会
+中华海外生态学者协会
+科研院所
+中国科学院植物研究所
+重点实验室
+植被与环境变化国家重点实验室
+系统与进化植物学国家重点实验室
+野外科学观测研究站
+鄂尔多斯草地生态站
+锡林郭勒草原生态站
+海北高寒草地生态站
+阜康荒漠生态站
+奈曼农田生态系统站
+高等院校
+中国科学院研究生院生命科学学院
+相关期刊
+文献数据库
+中国科学院国家科学图书馆
+中国知网
+万方数据库/期刊检索
+科学数据库
+中国科学院科学数据库
+中国数字植物标本馆
+中国植物数据库
+仪器设备供应商
+上海泽泉科技股份有限公司
+微信服务号: zwstxbfw
+微信订阅号：zwstxb
+淘宝店订购
+微店订购
+Copyright © 2026 版权所有 《植物生态学报》编辑部
+地址: 北京香山南辛村20号, 邮编: 100093
+Tel.: 010-62836134, 62836138; Fax: 010-82599431; E-mail: apes@ibcas.ac.cn, cjpe@ibcas.ac.cn
+备案号: 京ICP备16067583号-19

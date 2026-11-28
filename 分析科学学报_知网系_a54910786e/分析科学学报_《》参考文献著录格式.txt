@@ -1,0 +1,40 @@
+期刊: 分析科学学报
+来源: https://fxkx.cbpt.cnki.net/portal/journal/portal/client/news/fxkx_7ec3a940-8c68-4d1b-a404-154eb00872b5
+标题: 《分析科学学报》参考文献著录格式
+
+分析科学学报
+首页 期刊简介 投稿指南 编委会成员 广告业务 下载中心 征订启事
+|
+Email-Alert
+《分析科学学报》参考文献著录格式
+2016-01-06
+分享至：
+扫码分享到微信或朋友圈
+使用微信"扫一扫"功能。
+将此内容分享给您的微信好友或者朋友圈
+参考文献只列出主要的、较新的相关文献，并按引用的先后顺序编号且置正文相应处。
+《分析科学学报》参考文献格式:
+参考文献应著录正确，项目齐全（年、卷、期、页码）。
+a.中文文献需中英对照列出。中文期刊的英译名称应以该期刊对外的标准英译名称为准，如:Journal of Analytical Science(分析科学学报);中文作者英译名著录时姓全部大写，名保留第一个汉语拼音的首字母且大写，如：HUANG Y B(黄一兵)。
+b.外文文献作者名遵循姓前名后的原则，名字部分可以缩写。但请注意外文文献姓名、刊名等都不要加缩写点。另外，请注意文献著录均为正体，卷号为黑体。
+c. 作者未亲自查阅其原文的文献请不要引用。
+文献著录示例：
+中、英文期刊[J]：
+[1] ZHONG Y Q，XIAO Y M，WANG X L. Journal of Nanchang University (Engineering ＆ Techology) (钟益清, 肖永梅, 王筱兰.南昌大学学报(工科版)), 2013, 35( 2) : 130．
+[2] ZHOU W, LIU W, QIU Q F, et al. Science Bulletin(周伟，刘伟，邱清富等.科学通报), 2015, 60(15): 1352.
+[3] Davies M I, Cooper J D, Desmond S S, Lunte C E, Lunte S M. Advanced Drug Delivery Reviews, 2000, 45(2-3), 169.
+中、英文专著[M]：
+[1] ZHANG S G, SUN D R. New Drug Clinical Pharmacology and Application of the Manual. Beijing：Chemical Industry Press (张石革, 孙定人.新药临床药理与应用手册.北京:化学工业出版社), 2001: 290.
+[2] Moffat A C, Osselton M D, Widdop B. Clarke's Analysis of Drugs and Poisons( 3rd ed). London：The Pharmaceutical Press, 2003:50.
+论文集[D]：
+[1] ZHANG X D. The Research of Polymer Liquid Crystal Variable Optical Attenuator. Changchun :Jilin University (张歆东.基于聚合物液晶材料的可变光衰减器的研究,长春:吉林大学),2007:20.
+国家标准[S]：
+[1] GB/T 20574-2006 Method for Determination of Tatal Flavonoids in Propolis-Colorimetric Method(蜂胶中总黄酮含量的测定方法 分光光度比色法) [S].
+电子文献资源：
+著录格式遵循：主要责任者.题名：其他题名信息[文献类型标识/文献载体标识].（更新或修改日期）[引用日期].获取和访问路径.数字对象唯一标识符.
+[1]BAWDEN D.Origins and contepts of digital literacy[EB/OL].(2008-05-04)[2013-03-08].http://
+www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.paf.
+请作者务必对照原始文献认真进行核对，以保证所引文献正确。
+该系统由中国知网提供技术支持。技术支持使用说明：cb@cnki.net http://find.cb.cnki.net
+建议使用分辨率为1024*768的IE 10.0或更高版本浏览此页面
+检 索 高级检索

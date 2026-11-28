@@ -1,0 +1,211 @@
+期刊: Blood Science
+来源: https://cs.medjournals.cn/en/bs/authors
+标题: MANUSCRIPT PREPARATION AND FORMATTING INSTRUCTIONS
+
+Blood Sci
+INSTRUCTION FOR AUTHORS
+The Editorial Office is pleased to answer any questions you may have about preparing your manuscript in accordance with our guidelines.
+Email: xcwang@ihcams.ac.cn
+AIMS AND SCOPE
+Blood Science (BLS) is an international single blind, peer-reviewed, open access journal that publishes original research, reviews and news in the field of clinical and experimental hematology, covers the topics on molecular biology, physiology, pathophysiology and clinical applications of blood cells or non-cellular blood components. The central goal of this journal is to provide a platform for researchers to present their high impact discoveries, and to be a forum for the discussion on the important issues in the field.
+Blood Science is affiliated with Chinese Association for Blood Science (CABS).
+ONLINE SUBMISSION
+All manuscripts must be submitted online through the website: https://www.editorialmanager.com/bls/default1.aspx
+First-time users will have to register at this site. Registration is free but mandatory. Registered authors can keep track of their articles after logging into the site using their username and password. Authors do not have to pay for submission of articles. If you experience any problems, please contact the editorial office by E-mail: xcwang@ihcams.ac.cn.
+ARTICLE PROCESSING CHARGE
+All articles published in Blood Science are published in full open access. An article processing charge (APC) of $1,800 (original article, review, mini review, guideline article, consensus article) / $800 (editorial, letter, case report, commentary, protocol, obituary) applies to papers submitted and then accepted after peer review since 1st January 2026.
+JOURNAL POLICIES
+Duplicate Publication
+Manuscripts are reviewed for possible publication with the understanding that they are being submitted only to Blood Science and have not been published, simultaneously submitted, or already accepted for publication elsewhere. The Editorial team may subject any manuscript submitted for consideration of publication in Blood Science to plagiarism-detection software.
+This does not preclude consideration of a manuscript that has been rejected by another journal or a complete report that follows publication of preliminary findings elsewhere, usually in the form of an abstract. Copies of any possibly duplicate published material should be submitted with the manuscript under consideration, with a statement in the cover letter as to why the manuscript currently being submitted is not a duplicate publication.
+Disclosure of Conflicts
+Authors must state all possible conflicts of interest in the manuscript, including financial, consultant, institutional and other relationships that might lead to bias or a conflict of interest. If there is no conflict of interest, this should also be explicitly stated as none declared. All sources of funding should be acknowledged in the manuscript. All relevant conflicts of interest and sources of funding should be included on the title page of the manuscript with the heading "Conflicts of Interest and Source of Funding:" For example: “Conflicts of Interest and Source of Funding: A has received honoraria from Company Z. B is currently receiving a grant (#12345) from Organization Y, and is on the speaker's bureau for Organization X - the CME organizers for Company A. For the remaining authors, no relevant conflicts of interest were declared.”
+Financial Support and Competing Interests
+A financial disclosure section is part of the submission process and must be completed by each author at submission. This information is for review by the Editors but will be published if relevant to the content of the accepted manuscript.
+The primary purpose of the disclosure section is to determine whether authors have received any commercial financial support that could create a conflict of interest. In addition to monetary interests, a potential for conflict of interest can exist whether or not an individual believes that a relationship (such as dual commitments, competing interests, or competing loyalties) affects his or her scientific judgment. Please review ICMJE Uniform Requirements for Manuscripts.
+Authorship
+Blood Science expects that each person listed as an author has participated sufficiently in the intellectual content, the analysis of data, and/or the writing of the manuscript to take public responsibility for it. Each author must have reviewed the manuscript, believes it represents valid work, and approves it for submission.
+Moreover, should the Editorial team request the data upon which the manuscript is based, the authors shall provide the data. Each author’s specific contributions to the work should be indicated; this information will be published as a footnote to the paper. For example, the areas of participation might include:
+Participated in research design
+Participated in the writing of the paper
+Participated in the performance of the research
+Contributed new reagents or analytic tools
+Participated in data analysis
+An author may list more than one contribution, and more than one author may have contributed to the same aspect of the work. Any change in authorship/contributions after submission must be approved in writing by all authors and submitted to the Editorial Office for final consideration.
+Plagiarism
+As defined by the World Association of Medical Editors (http://www.wame.org/resources/publication-ethics-policies-for-medical-journals):
+Plagiarism is the use of others' published and unpublished ideas or words (or other intellectual property) without attribution or permission, and presenting them as new and original rather than derived from an existing source. The intent and effect of plagiarism is to mislead the reader as to the contributions of the plagiarizer. This applies whether the ideas or words are taken from abstracts, research grant applications, Institutional Review Board applications, or unpublished or published manuscripts in any publication format (print or electronic).
+Blood Science is a member of CrossCheck by CrossRef and iThenticate. iThenticate is a plagiarism screening service that verifies the originality of content submitted before publication. iThenticate checks submissions against millions of published research papers, and billions of web content. Authors, researchers and freelancers can also use iThenticate to screen their work before submission by visiting http://www.ithenticate.com.
+All allegations of plagiarism are investigated in accordance with the Committee on Publication Ethics (COPE) guidelines detailed at https://publicationethics.org/files/u7140/plagiarism%20A.pdf. When plagiarism is detected at any time before or after publication, the journal editorial office will take appropriate action as directed by the standards set forth by COPE. If plagiarism is found, the author, the author's institution and funding agencies, and the original publication will be notified. A statement noting the plagiarism, providing a reference to the plagiarized material, and linking to the original paper may follow. Depending on the extent of the plagiarism, the paper may also be formally retracted. For additional information, please visit http://www.publicationethics.org.
+Retraction Policy
+BLS should consider retracting a publication if:
+Editors have clear evidence that the findings are unreliable, either as a result of misconduct (e.g., data fabrication) or honest error (e.g., miscalculation or experimental error).
+The findings have previously been published elsewhere without proper crossreferencing, permission or justification (i.e., cases of redundant publication).
+It constitutes plagiarism.
+It reports unethical research.
+BLS abides by Retraction Guidelines of the Committee on Publication Ethics (COPE) (Retraction guidelines | COPE: Committee on Publication Ethics).
+Reporting of Randomized Clinical Trials
+Registration of Clinical Trials is an essential requirement for publication of clinical trials in Blood Science. On the title page of your manuscript, provide the name of the trial registry and the registration number/identifier of the trial.
+Acceptable web-based clinical trial registries include the following:
+EudraCT for EU trials
+Clinical Trials for US trials
+Current Controlled Trials
+WHO International Trial Registry Network
+Australian & New Zealand Clinical Trials Registry
+And any publicly available primary registry of clinical trials
+Reports of randomized clinical trials should follow the recommendations given in the Consolidated Standards of Reported Trials (CONSORT) statement. In brief, this statement comprises a checklist and flow diagram to help improve the quality of reports of randomized controlled trials and offers a standard way for researchers to report trials.
+Other Reporting Guidelines
+The following resources may be helpful to authors:
+PRISMA – Preferred Reporting Items for Systematic Reviews and Meta-Analyses
+STROBE – Strengthening the Reporting of Observational studies in Epidemiology
+STEGA – Strengthening the Reporting of Genetic Associations
+CARE – Strengthening the Reporting of Case Reports
+Qualitative Research
+Qualitative research provides in-depth insights on people’s values, attitudes, beliefs, and experiences. Qualitative methodology informs approaches to data collection and analysis, and includes grounded theory, ethnography, and phenomenology. Open-ended interviews and focus groups are commonly used to collect data. Authors are advised to follow the COREQ guidelines for reporting primary qualitative research.
+Systematic review and/or synthesis of primary qualitative studies can provide a broader understanding of people’s perspectives across different healthcare contexts. Methodologies for synthesis of qualitative research include thematic synthesis, meta-ethnography and critical interpretive synthesis. Authors can refer to the ENTREQ statement.
+Protection of Patients’ Rights to Privacy
+Identifying information should not be published in written descriptions, photographs, sonograms, CT scans, etc., and pedigrees unless the information is essential for scientific purposes and the patient (or parent or guardian, wherever applicable) gives written informed consent for publication. Authors should remove patients’ names from figures unless they have obtained written informed consent from the patients. BLS abides by ICMJE guidelines: (1) Authors, not the journals nor the publisher, need to have the patient consent form before the publication related to patient privacy and have the form properly archived by the author. (2) If the publication includes some facial images that make the patients identifiable, a statement about the patient’s consent needs to be present in the manuscript.
+Ethics
+When reporting studies on human beings, author should indicate whether the procedures followed were in accordance with the ethical standards of the responsible committee on human experimentation (institutional or regional) and with the Helsinki Declaration of 1975, as revised in 2000 (available at https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/). For prospective studies involving human participants, authors are expected to mention about approval of regional/national/institutional or independent ethics committee or review board, obtaining informed consent from adult research participants and obtaining assent for children aged over 7 years participating in the trial. The age beyond which assent would be required could vary as per regional and/or national guidelines. Ensure confidentiality of subjects by desisting from mentioning participants’ names, initials or hospital numbers, especially in illustrative material. When reporting experiments on animals, indicate whether the institution’s or a national research council’s guide for, or any national law on the care and use of laboratory animals was followed.
+Evidence for approval by a local ethics committee (for both human as well as animal studies) must be supplied by the authors on demand. Animal experimental procedures should be as humane as possible and the details of anesthetics and analgesics used should be clearly stated. The ethical standards of experiments must be in accordance with the guidelines provided by the CPCSEA and World Medical Association Declaration of Helsinki on Ethical Principles for Medical Research Involving Humans for studies involving experimental animals and human beings, respectively. The journal will not consider any paper which is ethically unacceptable. A statement on ethics committee permission and ethical practices must be included in all research articles under the “Method” section.
+Peer Review
+Blood Science (BLS) operates a single-blind external peer review process, wherein the authors are unaware of reviewers’ identity and reviewers are aware of authors’ identity. Brief introduction on editorial review process of the journal:
+On submission, editors review all submitted manuscripts initially for suitability for formal review. Manuscripts with insufficient originality, serious scientific or technical flaws, or lack of a significant message are rejected before proceeding for formal peer-review. Manuscripts that are unlikely to be of interest to the readers of the journal are also liable to be rejected at this stage.
+Manuscripts that are found suitable for potential publication of the journal are sent to a minimum of two independent expert reviewers to assess the scientific quality of the manuscript. Authors submitting manuscripts to the journal may propose suitable reviewers or oppose reviewers who may have competing interests. The proposed reviewers should not be affiliated with the same institutes as the contributor(s). However, the selection of these reviewers is at the sole discretion of the editor, who selects reviewers to reflect relevant expertise, diversity, and geographical backgrounds.
+Peer reviewers have access to the submitted manuscript and any appendices included by the authors. If the paper is a randomized controlled trial, peer reviewers will also have access to the trial protocol. Peer review assists editors in their decision on whether to publish an article and helps authors revise and improve their manuscripts. Peer reviewers make suggestions for improvements, critique the analysis, point out relevant published work which is not yet cited, and provide recommendations to the authors and the editors. At BLS, reviewers are aware of reviewers’ identities, meantime, reviewers’ comments are sent to the authors anonymously. Details of peer review including dates and peer review comments are not shared publicly. Reviewed articles are treated confidentially prior to their publication.
+Based on the comments from the reviewers, the handling editor takes an acceptance decision on the manuscript and convey the comments and suggestions (acceptance/ rejection/ amendments in manuscript) to the corresponding author, who is requested to provide a point by point response to reviewers’ comments and submit a revised version of the manuscript. This process is repeated until reviewers and editors are satisfied with the manuscript. Manuscripts are accepted on the basis of quality, originality, significance, novelty and importance for the field.
+Manuscripts received from Editorial Board Members will be screened by the Editor-in-Chief and sent to external peer reviewers. The Editorial Board Members, who submit manuscripts to the journal as authors or co-authors, will be excluded from publication decisions.
+Manuscripts received from Editor-in-Chief will be handled by one of the Associate Editor of the journal and will be sent to external peer reviewers. The contributing Editor-in-Chief will be excluded from decision-making of his/her manuscript.
+Editors are not involved in decisions about papers which they have written themselves or have been written by family members or colleagues or whoever relate to products or services in which the editor has an interest. Any such submission is subject to the journal’s standard procedures, with peer review handled independently of the relevant editor and their research groups.
+Appeal
+The authors have the right to appeal if they have a genuine cause to believe that the editorial board has wrongly rejected the paper. If the authors wish to appeal against the editorial decision, they should email the editorial office (email: xcwang@ihcams.ac.cn, liuqiantj@ihcams.ac.cn) explaining in detail the reason for the appeal. The appeals will be acknowledged by the editorial office and will be investigated in an unbiased manner. The processing of appeals will be done within 6–8 weeks. While under appeal, the said manuscript should not be submitted to other journals. The final decision rests with the Editor-in-Chief of the journal. Second appeals are not considered.
+Types of Manuscripts Published
+Type
+Text* Word count
+Abstract Word count
+Figures/Tables
+References
+Supplement possible
+Research Article
+5000
+250
+10
+50
+Yes
+Review Article
+5000
+250
+10
+100
+No
+Comment
+1000
+No abstract
+1
+10
+No
+Editorial
+1500
+No abstract
+1
+10
+No
+Letter
+1500
+No abstract
+2
+25
+No
+Consensus & Guideline
+No requirements
+250
+No requirements
+No requirements
+No
+Protocol
+4000
+250
+No requirements
+30
+Yes
+*Text word count excludes abstract, figure legends, and references. Please ensure that the text word count is included on the Title page of the manuscript.
+Research Articles are full-length reports of completed basic, translational, or clinical research. Articles should report important, novel and fully completed studies with strong conclusions. There is a maximum length of 5000 words, but shorter articles can also be considered, as long as these are fully completed studies. Preliminary reports cannot be accepted. Articles have an unstructured abstract of maximum 250 words.
+Review Articles are invited articles. Suggestions can be sent to the editors using the editorial office’s email: xcwang@ihcams.ac.cn. Review Articles have an abstract of maximum 250 words and a word count of approximately 5000 words. Review articles should not simply summarize information, but also discuss the importance and impact of the data providing a clear view on how these insights have transformed or will transform the field. Authors of review articles are encouraged to include several figures and tables to summarize and visualize data.
+Comments are short discussions to be used to describe an own opinion on recently published data in Blood Science. The authors of the original publication will be contacted for a response, which if accepted, will be published in the same issue as the ‘Comment’. Comments have no abstract and should cite the article under discussion.
+Editorials are invited articles to explain the importance of specific articles or to provide opinions on general concepts in practice, research or policy. Editorials have no abstract and are typically 1000 to 1500 words long. Editorials who discuss a recently published article should cite that article as the first reference.
+Letters are original communications that report primary investigations that provide novel and important insights into hematologic biology or pathobiology, or the therapy of hematologic disease. Submissions are not intended to allow publication of incomplete or preliminary findings. Letters have no abstract and are typically no more than 1500 words of text, 25 references and 2 figures or tables.
+Consensuses and Guidelines are official recommendations from professional organizations on issues related to clinical practice and health care delivery. BLS is flexible with length, reference, and other format requirements given the variability in the format of guidelines developed by different organizations. A concise table or concise graphic summarizing the recommendations and other key points is desirable. Guidelines that meet standards (http://www.equator-network.org/) will fare more favorably than those that do not.
+Protocols are articles can be for proposed or ongoing trials that have not completed patient recruitment at the time of submission. Please confirm the status of your study at submission. Protocols should provide a detailed account of the hypothesis, rationale, and methodology of the study. Protocols of randomized controlled trials should follow the CONSORT guidelines and must have a trial registration number included as the last line of the abstract.
+The length of the article is about 4000 words. The study protocol should have a structured abstract including: Background, Methods/Design, Discussion, and Trial Registration (if the submitted manuscript is a clinical trial).
+MANUSCRIPT PREPARATION AND FORMATTING INSTRUCTIONS
+Manuscripts must be written in clear, grammatical English. For English Language Assistance, please visit Wolters Kluwer Author Services. Manuscripts not conforming to Journal format will be returned to authors for modification. Please double space the entire main body document and number each page. Do not add line numbers as the system will generate those when the PDF is built.
+Footnotes, abbreviations, and abstract pages must be included in the main body file. Please do not upload separate copies of these documents, only the Title page must be a separate file and uploaded separately to the main body file.
+Acceptable document file types for text and tables include .DOC and .DOCX; do not submit a PDF.
+Title Page.
+The following elements are required for every submission:
+Type of manuscript. Editorial, Guideline Article, Perspective, Original Article, Review, Case report, letter, etc.
+Title. Include a descriptive title of the work; the title should not be a sentence. No proprietary or brand names for drugs or agents may be used in article titles.
+Authors. The full first name, middle initials, and family name of each author, as well as the name(s) of the department(s) and institution(s) to which the work should be attributed.
+Address for Correspondence. A current email and full mailing address for the corresponding author must be provided.
+Following pages.
+Abstract. Where required, abstracts are limited to 250 words, which is excluded from the overall manuscript word count. The abstract is unstructured and should briefly describe: (1) the problem being addressed in the study, (2) how the study was performed, (3) the salient results, and (4) what the authors conclude from the results.
+Introduction. The introduction contains a statement of the purpose of the work, the problem that stimulated it, and a brief summary of relevant published investigations.
+Materials and Methods. Avoid detailed description of previously published methods and cite the appropriate reference. Detailed methods may be provided as Supplementary information.
+Discussion. This section should follow the results and is used to interpret results, with minimal recapitulation of findings.
+Results. The results should be concise, avoiding redundant tables and figures illustrating the same data.
+Acknowledgments. This section normally includes sources of research funds, the names of collaborators who are not listed as coauthors, or of any others who contributed to the manuscript. Where a medical writer or editorial assistant has been used to write or edit the article, the writer must be identified and named, together with the source of funding.
+Funding. Include disclosure of funding received for this work, especially details of funding from any of the following organizations: National Institutes of Health (NIH); Wellcome Trust; and Howard Hughes Medical Institute (HHMI).
+Disclosure. If the author(s) have no funding to disclose, please include the phrase, “The authors declare no conflicts of interest.”
+Author contributions and potential conflicts of interest: List each author’s specific contributions to the work (see details above, under (Authorship) and list all forms of support received by each author for this study; list any potential conflict of interest for each author, or make a declaration of no conflict of interest.
+References. The journal uses American Medical Association (AMA) style. References should begin on a separate page and numbered in the order in which they are cited in the text, where they are designated by superscript numbers placed outside periods and commas, and inside colons and semicolons. Only published works and manuscripts that have been accepted for publication should be listed in the References. Manuscripts in preparation, unpublished observations, and personal communications should be referred to in parentheses in the text. Completed manuscripts submitted for publication may be cited as footnotes to the text (see above, Footnotes). If these are subsequently accepted, the author may transfer them to the reference section in galley proof.
+References Format. No more than six authors should be listed. If there are seven or more, only the first three followed by ‘‘et al.’’ should be included. Titles of journal articles must be included, and abbreviation of journal names should conform to Index Medicus style.
+For information on AMA style
+Two authors:
+Ahmed KA, Xiang J. Mechanisms of cellular communication through intercellular protein transfer. J Cell Mol Med. 2011; 15(7): 1458.
+More than seven authors:
+Ali JM, Bolton EM, Bradley JA, et al. Allorecognition pathways in transplant rejection and tolerance. Transplantation 2013; 96(8): 681.
+Organization as author:
+CDC. Prevention of herpes zoster: recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR Recomm Rep 2008; 57: 1.
+Donation after Circulatory Death. British Transplant Society Accessed August 1, 2013.
+Tables. Photographs of tables are not acceptable. Type each table, 1.5 spacing throughout (including column headings, footnotes, and data), on a separate page. Tables may be included as part of the Main Body file and placed after the References section. Number the tables in sequence in Arabic numerals and supply a concise, informative title for each one. Each column in the tables should carry a concise heading describing the data in the column. Use lowercase superscript letters to designate footnotes, and type the footnotes below the tables to which they refer. Tables are cited in the text in numerical order. Each table should be able to be understood without consulting the text.
+Like text, tables should be prepared using a standard word-processing program and may be included within the main body text document, or uploaded separately. Do not upload table files more than once (that is, in the main document and in separate files). Acceptable document file types for tables include .DOC and .DOCX; do not submit PDF, XLS or XLSX type files.
+Figures and Legends. Figures should be uploaded in the highest resolution available. Legends should be supplied for all figures. They are numbered to correspond with the figures and typed double-spaced on a separate page. Figure legends for any supplemental figures being submitted are to be provided separately; see section, Supplemental Digital Content (SDC).
+Acceptable figure file formats
+Do not embed figures into the main body file
+All final digital figures for accepted manuscripts must be submitted in EPS, TIFF, JPG.
+Each figure must be uploaded as a separate file.
+Histology figures must be in color.
+Monochrome images (such as line graphs) should be prepared at a resolution of 1200 DPI.
+Halftones images (black/white or color) should be prepared at a resolution of 300 DPI.
+Combination halftones (images containing both pictures and text labeling) should be prepared at 600 DPI.
+Color images must be saved as ‘‘CMYK’’. Images saved as ‘‘RGB’’ are not acceptable for printing.
+Your manuscript may be returned to you for correction if the images are of insufficient quality.
+Artwork submitted to the Journal will be checked for quality. Authors submitting a revised paper will have the opportunity to check the quality of their images and make the necessary changes. This step is required for all revisions.
+Acceptable p-value reporting style in tables:
+Please keep three decimal places and report value less than 0.001 as <.001.
+(The p-value reporting style for Blood Science works for all submissions received after 7/29/2023)
+Supplemental Digital Content (SDC): Authors may submit Supplemental Digital Content to supplement the information provided in the manuscript. It is preferable to include all significant figures and tables in the manuscript, since there is not a limit on the number of items in this online journal. Nonetheless, SDC may include the following types of content: text, tables, figures, references peripheral to information provided as SDC, audio, and video. SDC should be consecutively cited in the Main Body text of the submitted manuscript. SDC files will be available via url(/s) placed at the citation points within the article and are not copyedited by the publisher. Note that Journal policies for manuscript submission relating to peer review, patient anonymity, ethics, financial disclosure, copyright, and permissions also apply to SDC. Authors should mask patients’ eyes and remove patients’ names from supplemental digital content unless they obtain written consent from the patients and submit them as supplemental files at the time of the manuscript submission.
+Format, File Type and Size Requirements: SDC must be provided in one Word or PowerPoint file. Each SDC in the file should have a visual header in the following name format (e.g., ‘‘SDC, Figure 1’’; ‘‘SDC, Materials and Methods’’) and a corresponding citation must appear in the Main Body text. Note that SDC is numbered separately from non-SDC material. If providing SDC figure(s), a figure legend should be included on the figure itself. When uploading SDC select ‘‘Supplemental Digital Content’’ as the file designation. For audio and video files, also include the author name, videographer, participants, length (minutes), and size (MB). Video files should be formatted with a 320x240 pixel minimum screen size. For each submission, the SDC file cannot exceed a total size of 10 MB.
+Protection of Patients’ Rights to Privacy
+Identifying information should not be published in written descriptions, photographs, sonograms, CT scans, etc., and pedigrees unless the information is essential for scientific purposes and the patient (or parent or guardian, wherever applicable) gives written informed consent for publication. Authors should remove patients’ names from figures unless they have obtained written informed consent from the patients. The journal abides by ICMJE guidelines: (1) Authors, not the journals nor the publisher, need to have the patient consent form before the publication related to patient privacy and have the form properly archived by the author. (2) If the publication includes some facial images that make the patients identifiable, a statement about the patient’s consent needs to be present in the manuscript.
+POST ACCEPTANCE
+Page Proofs
+The publisher’s Journal Production Editor will contact you when page proofs are ready for your review. The figures included on author’s proofs are high resolution. Please inform the Journal Production Editor immediately if you have any questions concerning the quality of the figures on the proofs. For information regarding proofs, or the status of publication of your accepted manuscript, please contact (Email: xcwang@ihcams.ac.cn).
+Changes at Proofs
+It is expected that the final manuscript sent to the Editor is indeed the final version, so few changes should be required at proof stage.
+Open Access
+Every peer-reviewed research article appearing in this journal will be published open access. This means that the article is universally and freely accessible via the internet in perpetuity, in an easily readable format immediately after publication.
+Open Access Authors Retain Copyright
+Authors retain their copyright for all articles. Authors grant Wolters Kluwer a license to publish the article and identify itself as the original publisher.
+Creative Commons License
+Open access articles will be freely available to read, download and share from the time of publication. Blood Science provides authors the choice of applying any of the Creative Commons 4.0 licenses defined below, to be determined after acceptance. For more information: https://creativecommons.org/licenses/.
+Creative Attribution-NonCommercial-NoDerivs: CC BY-NC-ND This license is the most restrictive of the six main licenses, only allowing others to download your works and share it with others as long as they credit you, but they can’t change the work in any way or use it commercially.
+Attribution: CC-BY This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered.
+License to Publish
+Editorial Office Contacts
+The Editorial Office is pleased to answer any questions you may have about preparing your manuscript in accordance with our guidelines.
+Email: xcwang@ihcams.ac.cn
+National Institutes of Health (US) Public Access Policy
+The Journal is compliant with the NIH Public Access Policy. Please refer to the Publisher’s page for more details.
+CURRENT ISSUE
+Volume 08 · Issue 03 · 2026

@@ -1,0 +1,77 @@
+期刊: 环境昆虫学报
+来源: https://hjkcxb.alljournals.net/hjkcxb/ch/reader/view_news.aspx?id=20210310162535001
+标题: 论文写作模版
+
+中国科技期刊卓越行动计划入选期刊
+网站首页期刊介绍编委会承办单位协办单位投稿指南下载专区
+出版规范
+稿件处理
+开放获取（OA）
+出版伦理规范
+数字优先出版English
+《环境昆虫学报》论文写作模板
+标题（黑体二号居中）
+作者，通讯作者*（楷体四号居中）
+单位（宋体六号居中）
+摘要：填内容 [“摘要：”用黑体，内容用宋体，小五号，段落顶格，两端对齐]
+关键词：填内容 [“关键词：”用黑体，内容用宋体，小五号，段落顶格，两端对齐，每个关键词之间用分号（；）隔开]
+我刊为格式化摘要，请插入四要素：【目的】【方法】【结果】【结论】【Aim】【Methods】【Results】【Conclusion】
+Title [字体：Times New Roman，四号，加粗，左对齐，除第一单词首字母大写外，其它小写]
+Author (Address) [字体：Times New Roman，五号，两端对齐]
+Abstract: text [用Times New Roman，五号，“Abstract:”加粗，两端对齐]
+Key words: text [英文关键词与中文关键词一一对应，用分号隔开，字体：Times New Roman，五号，“Key words:”加粗，两端对齐）
+标题格式：
+一级标题（黑体四号，序号后空两格，如：1 材料与方法）
+二级标题（黑体五号，序号后空两格，如：1.1 样本采集）
+三级及三级以下标题（宋体五号，序号后空两格，序号加粗，如：1.1.1 样本处理）
+正文中注意事项：
+1、纸张大小为A4，全文1.5倍行距，正文为五号宋体，两端对齐。
+2、文章为“1 材料与方法；2 结果与分析；3 结论与讨论” 三个板块。
+3、英文、阿拉伯数字均为Times New Roman五号（包括文中所有的图表）。
+4、全文et al.应为斜体，包括参考文献，注意et al之后有英文的句号。
+5、正文中，所有物种在文章中第一次出现时，均要添加完整的拉丁文学名，再次出现时，不用添加拉丁文学名。格式要求：正文中拉丁文学名不添加括号，包括科名、属名等。如，棕色鳃金龟（Holotrichia titanis Reitter）应为：棕色鳃金龟Holotrichia titanis Reitter，属名以下的拉丁文学名要求斜体。
+6、数字和字母构成的量词中间要添加空格，如6m应为6 m。差异显著性的字母说明也应添加空格30.00±5.00aA应为（30.00 ± 5.00） aA。请全文认真修改。注意：“数字+%”或“数字+℃”“pH+数字”之间，无空格。如，27.38%、20℃、pH7.9。
+7、全文采用缩写的国际单位， ml应为mL，µl应该为µL；25℃ ± 1℃改为（25 ± 1）℃；70 ± 5%改为（70 ± 5）%。1天改为1 d（第一天改为第1天，第1 d改为第1天），一月改为1月，24小时改为24 h，20分钟改为20 min，5米改为5 m，1公顷改为1 hm2，等等。
+8、全文P < 0.05的表述中P为大写斜体，F（大写斜体）= 15.03，df（正体）= 4，P（大写斜体）＜0.05。
+9、图表中表示时间时，格式采用yy-mm-dd，如2020年6月4日写成2020-06-04。表示时间起止的用短杠-（一字杠）比如3-5月，表示变化范围的用波浪线~（英文格式）比如3~5 cm，“2007-2011年”、“4-6月”之间请用短杠连接（英文符号）。
+10、表示数量时，请在千位 和十万位 添加空格，如“218468218条”改为：218 468 218条，请参考全文修改，如“1448 bp”改为“1 448 bp”, 注意表格中也要添加空格。
+11、正文中引用参考文献的引用格式：（作者，年代）[两名作者之间用“和”(中文文献)或“and”(外文文献)连接，3名或3名以上作者时只给出第一名作者，后加“等”(中文文献)或“et al.”(外文文献)，西文著者只给出姓氏即可，并且按年份顺序排列：
+如：有研究表明，在玉米田中玉米蚜发生数量较高的时期有大喇叭口期、抽雄散粉期、籽粒建成期及玉米成熟后期（尹永忠，1980；王存晋，1997；Huang et al., 2001; Qaim and Zilberman, 2003; Wu et al., 2008; Carpenter, 2010）]。
+表格排版注意事项：
+1、表题、表头（黑体，小五）
+2、表题、表头、表注和表中名称均要中英文对照
+3、表中的字体（包括表注）采用“小五”宋体
+4、图表题目中的拉丁学名一律用全称，不用缩写
+5、每一个段落，应文字在前，图表在后，文字说明结果，可在图表中显示和体现，而不是“由图1可知......”请下载我刊文章，参照修改。
+6、表格要求采用“三线表”，表题居中对齐，表注左对齐。举例
+图片排版注意事项：
+1、图题（宋体 小五）图样和照片（比例尺示明图像实际大小）应大小适当。
+2、图题、图注、图文、横纵坐标均要中英文对照，文字字体为：宋体（中文）和新罗马（英文、阿拉伯数字），不加粗，字号为：“六号” 或 “8”。
+3、作图时，先设置图片宽度（半栏：7cm左右；通栏：14cm左右），再设置字体大小，不要通过插入文档后拉伸图片来调整字体大小。
+4、坐标图的标目应使用标准物理量和法定计量单位符号，曲线图有多条曲线时请依次使用黑白、实虚线等区别，如只有两个处理，建议采用黑白图标进行区分。
+5、每一个段落，应文字在前，图表在后，文字说明结果，可在图表中显示和体现。
+6、文章中所有的图，纵横轴的标尺向内。
+7、图表中纵横轴说明要有中英文对照，且单位在中文之后，应为：时间（d）Time
+8、图中注释部分，要求中英文分开，缩写和全称之间使用逗号。示例如下：注：Me，中胸盾片；Sc，小盾片；GS，生殖节；PGS，生殖后节。Note: Me, Mesoscutum; Sc, Scutellum; GS, Genital Segments; PGS, Post-genital.
+9、所有图片应保存为矢量图格式（建议PDF格式）上传到附件。
+参考文献（References）[宋体、Times New Roman，五号加粗，居中]
+文献内容用六号字体，悬挂缩进2字符，不要将一条参考文献断开，采用“著者－出版年”制，列出前三著者姓名，并按英文字母升序排列，不需要序号，期刊名用全称，不缩写。
+举例
+〖期刊论文〗
+Yu XP, Zheng XS, Xu HX, et al. A study on the dispersal of lycosid spider, Pirata subpiraticus between rice and Zizani fields [J]. Acta Entomology Sinica, 2002, 45 (5): 636-640.［俞晓平, 郑许松, 徐红星, 等. 拟水狼蛛在水稻与茭白田之间的转移 [J]. 昆虫学报, 2002, 45 (5): 636-640］（注意：实词首字母需大写，期刊为斜体）
+Shelby KS, Webb BA. Polydnavirus mediated suppression of insect immunity [J]. Journal of Insect Physiology, 1999, 45 (5): 507-514.
+〖专著〗
+Lu HS. Molecular Biology of Insect Viruses [M]. Beijing: China Agricultural Scientech Press, 1998: 519-524.［吕鸿声. 昆虫病毒分子生物学 [M]. 北京：中国农业科技出版社, 1998: 519-524］（注意：出版社正体，且必须添加出版社地址）
+〖专著论文〗
+Ye GY, Hu C, Shu QY. The development of transgenic rice resistant to insect pests and its wise and sustainable use. In：Cheng JA，Zhou WJ, eds. Agricultural Development and Research in the 21st Century [C]. Beijing：China Environmental Science Press, 1998: 406-414.［叶恭银, 胡萃, 舒庆尧. 转基因抗虫水稻的转育及其合理持续利用. 见：程家安，周伟军主编. 21世纪农业发展与研究 [C]. 北京：中国环境科学出版社, 1998: 406-414］（注意：论文需要添加学位授予单位的地点）
+Wilson MD, Post RJ. Integration of morphometric, cytogenetic and molecular techniques: A case study of Simulium damnosum. In: Hawksworth DL, ed. The Identification and Characterization of Pest Organisms [C]. Wallingford: CAB International, 1994: 215-224.
+National Agro-Tech Extension and Service Center. Analysis and prediction of locust occurrence trend nationwide in autumn 2018 [EB/OL]. (2018-07-16) [2019-07-26]. http://www.haonongzi.com/news/20180716/103759.html. [全国农业技术推广服务中心病虫害测报处. 2018年全国秋季蝗虫发生趋势分析预测 [EB/OL]. (2018-07-16) [2019-07-26]. http://www.haonongzi.com/news/20180716/103759.html]
+[*]基金项目和作者简介信息插入第一页页脚
+基金项目：填内容（宋体，六号，多个基金项目间用分号隔开）
+作者简介：填内容（姓名，性别，出生年，籍贯，学位，职称，研究方向，E-mail)
+* 通讯作者 Author for correspondence：（姓名，性别，学位，职称，研究方向，E-mail)
+收稿日期Received：2024-08-01；修回日期Revision received：2024-10-18；接受日期Accepted：2024-10-21
+网站版权 © 《环境昆虫学报》编辑部
+地址：广州市新港西路105号行政楼106室 邮编：510260
+电话：020-84192269，020-84456131（办公时间：9:00-12:00，14:30-17:30） 传真： E-mail：insect1979@163.com
+本系统由北京勤云科技发展有限公司技术支持

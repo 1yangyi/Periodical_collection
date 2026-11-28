@@ -1,0 +1,276 @@
+期刊: Journal of Systematics and Evolution
+来源: https://www.jse.ac.cn/EN/column/column185.shtml
+标题: Instructions for Authors
+
+模态框（Modal）标题
+在这里添加一些文本
+模态框（Modal）标题
+Integrated Biology Journals
+JSE
+Home
+Aims & Scope
+Aims & Scope
+About JSE
+Editorial Board
+Journal
+Accepted Articles
+Early View
+Current Issue
+Special Issue
+Virtual Issue
+Archive
+Advertising
+For Authors
+Online Submission
+Instructions for Authors
+Contact Us
+Sponsors & Publisher
+JSE at Wiley
+Instructions for Authors
+1. MANUSCRIPT SUBMISSION
+Thank you for your interest in Journal of Systematics and Evolution. Please read the complete Author Guidelines carefully prior to submission, including the section on copyright. To ensure fast peer review and publication, manuscripts that do not adhere to the following instructions will be returned to the corresponding author for technical revision before undergoing peer review. Note that submission implies that the content has not been published or submitted for publication elsewhere except as a brief abstract in the proceedings of a scientific meeting or symposium.
+Once you have prepared your submission in accordance with the Guidelines, manuscripts should be submitted online at http://mc.manuscriptcentral.com/josae.
+We are looking forward to your submission.
+You may submit your manuscript as a single Word document including your figures; or submit your figures in a single PDF file in addition to the Word document with text only.
+2. EDITORIAL AND CONTENT CONSIDERATIONS
+Aims & Scope
+Journal of Systematics and Evolution (JSE) is a peer-reviewed, bi-monthly international English-language journal that publishes research related to systematics and evolution of plants, animals, fungi, and microbes. We publish articles, reviews, short communications, commentary and letters to the editor dedicated to the description and understanding of biological diversity across kingdoms. Papers in any of the following and related fields will be considered: phylogenetics and phylogenomics, biogeography (including phylogeography), biosystematics, description of well documented new taxa, taxonomic revisions and monographs (incorporating data from morphology, molecules, anatomy and ecology), molecular evolution, evolutionary development, evolutionary ecology, population biology, conservation biology, paleobiology, and related methods and theory.
+Research articles are published under five themes
+a. Systematics and biodiversity conservation
+b. Paleobiology and biogeography
+c. Adaptation, speciation and domestication
+d. Evolutionary genomics and Evo-Devo
+e. Theory and methods in evolutionary biology
+The Review Process
+The acceptance of papers is based on the quality and originality of the research and its significance. The Editors-in-Chief either assign Editors to handle the peer review process or handle the process themselves. All manuscripts are assessed by two or more anonymous reviewers from anywhere in the world. The Editor handling the peer review process makes the final decision on the acceptability of each manuscript based on the reviewers' comments. For most manuscripts, a decision regarding publication will be available in three months. This will take longer when a manuscript requires extensive revision and a second round of review.
+We welcome submission of high quality manuscripts on controversial and frontier topics. These manuscripts may be open reviewed; that is, the reviewers' identity will be revealed to authors, and the reviewers are informed that the manuscript is under open review. If necessary, the reviews will be published together with the paper. The editors-in-chief will decide whether a manuscript goes through open review or not.
+Manuscripts should be written in a clear, concise, and direct style. Where contributions are judged as acceptable for publication on the basis of scientific content, the Editor and the Publisher reserve the right to modify typescripts to eliminate ambiguity and repetition and improve communication between author and reader. If extensive alterations are required, the manuscript will be returned to the author for revision.
+3. ETHICAL CONSIDERATIONS
+The journal retains the right to reject any manuscript on the basis of unethical conduct in animal studies. Any experiments involving animals must be demonstrated to be ethically acceptable and, where relevant, conform to national guidelines for animal usage in research.
+Plagiarism Detection. The journal employs a plagiarism detection system. By submitting your manuscript to this journal you accept that your manuscript may be screened for plagiarism against previously published works.
+Committee on Publication Ethics. The journal is a member of, and subscribes to the principles of the Committee on Publication Ethics (COPE). Authors are required to ensure that articles submitted to JSE meet the ethical standards required of scholarly research. These ethical standards include, but are not limited to, the rights of authors to be associated with his or her own work; submitted papers should be the work of the submitting author(s) and authors should ensure that the work of others is properly cited and full credit is given where appropriate. Submitted articles should not be under review or previously published elsewhere. Submitting authors will be asked to confirm that all individuals entitled to authorship have been named, and have approved the final version of the submitted manuscript during the submission process; email addresses should be provided for all authors, and all listed authors will be sent confirmation of the submission. Any allegations of unethical or fraudulent publishing practices will be fully investigated by the journal.
+Authorship and Acknowledgements. The journal adheres to the definition of authorship established by The International Committee of Medical Journal Editors (ICMJE). The ICMJE recommends that authorship be based on the following 4 criteria: i) Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; ii) Drafting the work or revising it critically for important intellectual content; iii) Final approval of the version to be published; and iv) Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved. Contributors who do not qualify as authors should be mentioned under 'Acknowledgements'.
+Each article should include an Author Contributions section detailing the contribution of each author to the submitted manuscript including their input into the following aspects of the work: design of the research; performance of the research; data analysis, collection, or interpretation; and writing the manuscript. Please include this section after the Acknowledgements section.
+Changes to authorship. Any requests to change the author list after submission must be submitted in writing to the JSE Editorial Office (jse@ibcas.ac.cn). Such requests must be accompanied by a declaration document signed by all authors agreeing to the authorship adjustment.
+Authorship and AI-generated content. JSE follows COPE's position statement on AI tools, and stipulates that AI tools cannot be listed as an author of an article.
+Authors using AI-generated content (AIGC) or AI tools must describe the use of these tools transparently and in detail in the Materials & Methods or Acknowledgements section, depending upon the level of AIGC tools used. It is the responsibility of the authors to ensure the accuracy of any information provided by the tool and to correctly reference any supporting work on which that information depends. Tools that are used to improve spelling and grammar are not included in the scope of these guidelines.
+Wiley's policy on AIGC can be found here. Wiley has produced a guide for researchers on using AI tools that provides advice and best practice for authors, editors and reviewers.
+Data availability statement. Authors are required to provide a Data Availability Statement section describing the availability of data, including accession numbers and identifiers as appropriate.
+4. PREPARATION OF MANUSCRIPT
+Pre-acceptance English-language Editing
+Authors for whom English is a second language may choose to have their manuscript professionally edited before submission to improve the English. Please visit https://wileyeditingservices.com/en/ to learn about the options. All services are paid for and arranged by the author. Please note using the Wiley English Language Editing Service does not guarantee that your paper will be accepted by this journal.
+Optimising Your Article for Search Engines
+Many students and researchers looking for information online will use search engines such as Google, Yahoo or similar. By optimising your article for search engines, you will increase the chance of someone finding it. This in turn will make it more likely to be viewed and/or cited in another work. We have compiled these guidelines to enable you to maximise the web-friendliness of the most public part of your article.
+Manuscript Types
+Journal of Systematics and Evolution (JSE) publishes short and full length manuscripts in the following categories:
+• News and Views
+• Commentary
+• Perspective
+• Letter to the Editor
+• Reviews
+• Research Articles
+• Resource Articles
+Short manuscripts
+News and Views
+News and Views offer concise reports on recent advances, discoveries, or scientific events in systematics and evolutionary biology research, as reported in newly published papers or at scientific meetings. These submissions typically run up to 1500 words and may include 1–2 figures or tables where appropriate. Unsolicited contributions are generally not considered, though prospective authors are welcome to propose ideas.
+Commentary
+Commentaries provide rapid responses to recent articles or emerging issues in evolutionary biology. They serve as a forum for constructive debate, alternative interpretations, and timely engagement with cutting-edge research in systematics and biodiversity. Commentaries generally run up to 6 printed pages (around 3000–5000 words), include 1–2 figures or tables, and do not require an abstract.
+Perspectives
+JSE Perspectives present the author's personal insights on frontier topics, controversial issues, or future directions within the journal's scope. These articles should offer a forward-looking viewpoint on phylogenetic, evolutionary development, biogeography, or related fields. They are typically around 3000–5000 words and are usually invited, but unsolicited submissions on significant topics are also welcome.
+Letters to the Editor
+Letters to the Editor offer critical discussion of important research findings in evolutionary biology, bringing fresh insights to contentious topics. These pieces should be timely, engaging, and thought-provoking, introducing new concepts or viewpoints on matters of scientific or public interest. These letters are brief (less than 3500 words, with 1–2 figures/tables.) and follow a streamlined format: no abstract, a concise introduction, and a focus on key results and findings.
+Full length manuscripts
+Reviews
+Reviews provide a balanced synthesis of recent developments in one or more fields in systematics and evolutionary biology or on emerging areas of study. They should provide historical context, clearly explain the existing literature, and point to topics that need to be addressed in the future. These submissions typically range from 6000 to 7000 words. Reviews are usually invited, but unsolicited submissions on significant topics are welcome. If you have a review idea, feel free to contact the editors-in-chief (hzkong@ibcas.ac.cn or hxm16@psu.edu) for feedback.
+Research articles
+Research articles are full-length papers that present novel empirical findings advancing evolutionary biology, or that introduce theoretical or mathematical innovations with the potential to deepen our understanding of systematics and evolution. These articles are typically around 6000–7000 words. Longer articles will be considered, however, please provide justification for the additional length in the cover letter.
+Resource articles
+Resource articles describe significant advances in widely-used software tools and databases for systematics and evolutionary research. Manuscripts must clearly describe how the advances will broaden the application scope or significantly accelerate the pace of biological discovery. All described resources must be made publicly available at the time of publication, and the main text should not exceed 5000 words.
+5. STYLE OF THE MANUSCRIPT
+Spelling
+The Journal uses the US spelling and authors should therefore follow the latest edition of the <Merriam–ebster's Collegiate Dictionary> .
+Units
+All measurements must be given in SI (International System of Units) or SI-derived units. Please go to the Bureau International des Poids et Mesures (BIPM) website at http://www.bipm.fr for more information about SI units.
+Abbreviations
+Abbreviations should be used sparingly—only where they ease the reader's task by reducing repetition of long, technical terms. Initially in the main text use the word in full, followed by the abbreviation in parentheses. Thereafter use the abbreviation only.
+Trade Names
+Chemical substances should be referred to by the generic name only. Trade names should not be used.
+Scientific Names
+Authors are requested to check that spelling and authors of scientific names are correct. Authors of plant scientific names should be abbreviated to conform to the International Plant Names Index (IPNI; available at http://www.ipni.org) and the Index Fungorum (available at http://www.indexfungorum.org). Authors of scientific names should be given once (at first mention) in the text, or in tables. Scientific names of genera, species, subspecies, varieties and forms must be italicized. Genus names should not be abbreviated at the beginning of paragraphs.
+Voucher Specimens
+Voucher specimens should be deposited in a public herbarium, and cited according to the following format: country, political subdivision (typically province or state): locality, collector(s) and number (herbarium acronym). For type indication, the collection date should be included. Please use the herbarium acronyms following Thiers, B. [continuously updated]. Index Herbariorum: A global directory of public herbaria and associated staff. New York Botanical Garden's Virtual Herbarium. http://sweetgum.nybg.org/ih/. This format also applies when the material/information is tabulated.
+Names of new taxa should be followed by a diagnosis and a full description in English, with the holotype indication. For all type specimens examined by the author(s), an exclamation mark should be given after the herbarium acronym (e.g., PE!). Homotypic names should form a single paragraph, in a chronological sequence, with the respective type indication at the end of each of such paragraphs.
+Variables and Gene Names in Italic
+Letters and numerals used as a symbol for a gene or allele should ALL be italicized: trnH but not trnH. Variables should also be set in italic through the manuscript, including in tables, figures, and figure legends.
+6. STYLE GUIDELINES FOR PUBLISHING TAXONOMIC RESEARCH ARTICLES
+Please refer to the following guidelines to publish taxonomy research articles.
+Monograph or taxonomic revision of a species complex, genus, family or any taxon of higher rank for extant organisms. Extensive field observation, character analysis and herbarium specimen examination, as well as careful and thorough literature citation will be required to justify any nomenclatural changes involved.
+Description of a new species, genus or any taxon of higher rank for extant organisms. Authors should provide the following to justify their conclusion: (i) careful comparison of as many herbarium specimens of closely related taxa as possible; (ii) extensive data on field observations and laboratory experiments; and (iii) phylogenetic, biogeographic, and/or evolutionary implications of morphological and/or molecular data.
+Description of a new genus or any taxon of higher rank for extinct organisms. Authors should provide the following to justify their conclusion: (i) careful comparison with closely related living taxa; and (ii) phylogenetic, biogeographic, and/or evolutionary implications of well documented morphological data.
+7. PARTS OF THE MANUSCRIPT
+Manuscripts should be arranged in the following order: (i) title page, (ii) abstract and key words, (iii) text, (iv) acknowledgements, (v) references, (vi) tables (each table complete with title and footnotes), (vii) figure legends and (viii) figures. Footnotes to the text are not allowed and any such material should be incorporated into the text as parenthetical material.
+Your manuscript file should have:
+• Numbered pages
+• 1.5 line spacing
+• 12-point type
+Acceptable fonts: Arial, Times New Roman, Symbol font (for Greek characters)
+Title Page
+The title page should contain (i) the title of the paper, (ii) a short running title (less than 50 characters), (iii) the full names of the authors, and (iv) the addresses of the institutions at which the work was carried out together with (v) the full postal and email address, of the author to whom correspondence about the manuscript should be sent.
+Authors' names should be presented with given name first and surname last (e.g., Wen-Tsai Wang, Peter H. Raven). Given names should not be shortened to initials unless this is how the author prefers to be known.
+The title should be concise, informative and contain the major key words. Do not use any abbreviation in the title. Authors of scientific names should not be included in the title.
+Abstract and Key Words
+All research articles should have a brief abstract that states the purpose(s), basic procedures, main findings and principal conclusions of the study. Review articles should also have an abstract describing the content concisely. The abstract length should be 250 words or fewer. The abstract should not contain any abbreviation or reference.
+Four to six key words (for the purpose of indexing) should be listed below the abstract in an alphabetical order.
+Graphical abstract image and text
+A graphical abstract is a single figure prepared by the authors that summarizes the key point(s) of an article and serves as a visual introduction to encourage interest in the content. When preparing your graphical abstract, keep in mind that the ideal graphical abstract is suited for promoting your article on social media, so it should not be overly complex and the text should be large enough to be read in that context. Please also consider the accessibility of your graphical abstract to all readers (i.e. avoid red-green color schemes if possible).
+Graphical abstracts are peer reviewed and published as part of the article online. It also appears in the table of contents and other journal pages including in search results.
+Your graphical abstract image and text should be submitted as a separate file.
+Here are detailed rules for graphical abstract image and text:
+1. A square picture (1:1 length:width)
+2. JPG format with a resolution of 300 dpi
+3. Please ensure the text is legible on the image
+4. The text in the graphical abstract should be no more than 80 words in total.
+Text
+Authors should use and number sub-headings to divide the sections of the manuscript. For example:
+1 Introduction
+2 Material and Methods
+2.1 Phylogenetic reconstruction
+2.2 Morphology and anatomy
+..
+3 Results
+4 Discussion
+(or Results and Discussion combined as: 3 Results and Discussion).
+Acknowledgements
+The source of financial support should be acknowledged, including a declaration of the authors' industrial links and affiliations. The contribution of colleagues or institutions should also be acknowledged.
+When the research is carried out in areas for which research permits are required (e.g., nature reserves), or when it deals with organisms for which collection or import/export permits are required (e.g., protected species), the authors must describe clearly the process of obtaining these permits in the Acknowledgements section.
+References
+The Harvard (author, date) system of referencing is used. In the text, give the author's name, with the year followed in parentheses: Wang (1998). If there are two authors use '&': Wang & Raven (2003). When reference is made to a work by three or more authors, the first name followed by "et al." should be used: Wang et al. (2006). Order multiple citations chronologically and then alphabetically: (Iyengar, 1923; Dulberger, 1980; Ornduff, 1980; Wang & Raven, 2003).
+All citations mentioned in the text, tables or figures must be listed in the reference list. In the reference list, arrange entries in an alphabetical order (by surname). Single author entries precede multi-authored entries by the same first author, regardless of date. Papers with the same first author and multiple other authors should be listed in an alphabetical order by the second author's surname and so on. Cite the names of all authors, regardless of the number of authors for the work. Do not use ibid. or op cit.
+Reference to unpublished manuscripts, unpublished data, personal communications, reports, theses or dissertations (other than Ph.D. theses) should not appear in the list but should be cited in the text only (e.g., Smith A, unpublished data).
+Authors are responsible for the accuracy of the references against the original source. Authors should also cross-check in-text citations against the reference list entries to ensure they agree in spelling and in year.
+The following examples show punctuation and style of entries in the reference list. The JSE EndNote reference style can be downloaded here.
+Journal article
+Heath TA, Hedtke SM, Hillis DM. 2008. Taxon sampling and the accuracy of phylogenetic analyses. Journal of Systematics and Evolution 48: 239–257.
+Qiu Y-L, Li LB, Wang B, Chen ZD, Knoop V, Groth-Malonek M, Dombrovska O, Lee J, Kent L, Rest J, Estabrook GF, Hendry TA, Taylor DW, Testa CM, Ambros M, Crandall-Stotler B, Duff RJ, Stech M, Frey W, Quandt D, Davis CC. 2006. The deepest divergences in land plants inferred from phylogenomic evidence. Proceedings of the National Academy of Sciences USA 103: 15511–15516.
+Online article not yet published in an issue
+An online article that has not yet been published in an issue (therefore has no volume, issue or page numbers) can be cited by its Digital Object Identifier (DOI). The DOI will remain valid and allow an article to be tracked even after its allocation to an issue.
+Coelho FF, Capelo C, Ribeiro LC, Figueira JEC. 2007. Reproductive modes in Leiothrix (Eriocaulaceae) in South-eastern Brazil: The role of microenvironmental heterogeneity. Annals of Botany. doi: 10.1093/aob/mcm289.
+Book
+Stuessy TF. 1990. Plant taxonomy: The systematic evaluation of comparative data. New York: Columbia University Press.
+McNeill J, Barrie FR, Buck WR, Demoulin V, Greuter W, Hawksworth DL, Herendeen PS, Knapp S, Marhold K, Prado J, van Reine WFP, Smith GF, Wiersema JH, Turland NJ eds. 2012. International code of nomenclature for algae, fungi, and plants (Melbourne Code). Koenigstein: Koeltz Scientific Books.
+Chapter in a book
+Hamby RK, Zimmer EA. 1992. Ribosomal RNA as a phylogenetic tool in plant systematics. In: Soltis PS, Soltis DE, Doyle JJ eds. Molecular systematics of plants. New York: Chapman & Hall. 50–91.
+Wang W-T, Pan K-Y, Li Z-Y. 1990. Gesneriaceae. In: Flora Reipublicae Popularis Sinicae. Beijing: Science Press. 69: 125–581. (The Chinese edition of Flora of China)
+Wang ZR, He ZR, Kato M. 2013. Athyriaceae. In: Wu Z-Y, Raven PH, Hong D-Y eds. Flora of China. Beijing: Science Press; St. Louis: Missouri Botanical Garden Press. 2–3: 418–534.
+Paper in conference proceedings
+Taylor IEP, Wallace JC. 1989. The structural association between cellulose and xyloglucan in the primary cell wall of beans (Phaseolus vulgaris L.). In: Schuerch C ed. Cellulose and Wood: Chemistry and Technology. Proceedings of the 10th Cellulose Conference, Syracuse, N.Y., 29 May–2 June, 1988. New York: John Wiley & Sons. 273–282.
+Electronic material
+California State Coastal Conservancy. 2000. San Francisco Estuary Invasive Spartina Project [online]. Available from www.spartina.org [accessed 13 July 2005].
+Ph.D. dissertation
+Smith DM. 1967. Chemical characters as a guide to the taxonomy of Botrychium. Ph.D. Dissertation. Ann Arbor: University of Michigan.
+Tables
+Tables should be self-explanatory, and cited in consecutive order in the text with Arabic numerals. Present each table on a separate page with a concise but comprehensible title above. Vertical lines should not be used to separate columns. Column headings should be brief, with units of measurement in parentheses; all abbreviations must be defined in footnotes. Footnote symbols: †, ‡, §, ¶, should be used (in that order) and *, **, *** should be reserved for P-values. Statistical measures such as SD or SEM should be identified in the headings.
+Figure Legends
+Type figure legends on a separate page. Legends should be concise but comprehensible—the figure and its legend should be understandable without reference to the text. Include definitions of any symbols used and define/explain all abbreviations (in an alphabetical order) and units of measurement. Examples of figure legend style and format:
+Figs. 1. The cell and cyst of Ensiculifera sp. 1. An empty cyst from the field, showing the organic spines. 2. A living cyst in culture. 3. Thecal plates, lateral view. 4. Thecal plates, ventral view. 5, 6. Thecal plates, dorsal view. 7. Hypotheca, showing the spine of t plate (arrow). 8. Hypotheca, showing the sulcal plates.
+Fig. 1. Tuomeya americana (Küzing) Papenfuss. A, Habit of frond. B, Part of a frond, showing shape of whorls. C, The cross section through a node showing an axial cell and numerous layers of cortical cells. D, Numerous cortical filaments. E, Carposporangia. F, Apical portion of the branch with an apical cell (arrow). Abbreviations: Ac, axial cell; bc, basal cell; cc, cortical cell; pf, primary fascicle; sf, secondary fascicle.
+If a map is used as a figure, the source of base map should always be acknowledged in figure legend.
+Figures
+All illustrations (line drawings [charts, graphs, maps, phylogenetic trees] and photographs) are classified as figures. Figures should be cited in consecutive order in the text with Arabic numerals as, e.g., (Fig. 1), (Fig. 2A), (Figs. 3B, 3C, 4), (Figs. 1–3).
+Guiding principles of figure preparation are listed below.
+• Ensure that all elements of a figure (text and images) are readily visible at printed size (print copies of figures at final size to check).
+• Width: 8.0 cm for one-column (half page) width, 17 cm for two-column (full page) width.
+• Height: less than 22.5 cm to allow room for figure legend.
+• Use the same type and size of sans serif font in all of your figures (e.g. Arial at point size 8 is recommended, and no smaller than 6).
+• Panel headers: use Sans Serif font point size 12, bold.
+• On first submission, to facilitate review, include the single-spaced legend below the figure and fit each figure plus legend on a single page when possible (the legend may be placed on a second page if necessary).
+• On first submission, authors may submit a combined figures file (e.g. a PDF file with each figure plus its legend on a separate page), or each figure (with its legend) as a separate file.
+• Ensure that all axes and figure elements are well-defined and explained, but avoid unnecessary text.
+• Avoid complex hatched patterns – use simple patterns and color schemes. Make consistent use of color throughout a manuscript (e.g. use the same color or pattern for wild type and different genotypes/treatments in each figure where possible). Include (and define) error bars where appropriate.
+• Ensure that multiple panels in a figure are evenly spaced, and text is well laced (not cut off or too crowded near a figure margin or axis).
+• Magnifications should be indicated using a scale bar on the illustration.
+• To ensure that all readers will be able to comprehend your data, please do not use the combination of red and green, and consider using a color-blind friendly color palette, e.g. Coloring for Colorblindness
+• Color figure files should be set up as CMYK (cyan, magenta, yellow, black) and not as RGB (red, green, blue) so that colors as they appear on screen will be a closer representation of how they will print in the journal.
+Preparation of Electronic Figures for Publication: Although low quality images are adequate for review purposes, print publication demands high quality figures to prevent blurring or fuzziness in the final product. For initial submission, review grade files are acceptable; however, for final production, only the following file formats are permissible: EPS (for line art) or TIFF (for halftones and photographs). MS PowerPoint and Word graphics are unsuitable for printed pictures, and pixel oriented programmes should be avoided.
+Scanning requirements (TIFF only):
+• Line art: ≥600 dpi
+• Halftones (including gel photographs): ≥300 dpi
+• Figures containing both halftone and line images: ≥600 dpi
+These resolutions must be applied at the final reproduction size. For EPS files, fonts must be embedded, and a TIFF preview should be included where possible.
+PDF format for final figure submission
+In addition to EPS and TIFF, PDF is now accepted for final figure delivery and can meet print quality standards, provided that the files are prepared according to the recommended specifications. The following points are essential:
+I) Print quality assurance–PDF figures are suitable for print reproduction if they adhere to the same resolution and colour criteria as traditional formats. For optimal results, we recommend a minimum resolution of 600 dpi for PDF figures; higher resolutions (up to 1200 dpi) are advised for line dominated artwork.
+II) Text searchability–To ensure that any text within figures is fully searchable and editable in the final publication, PDF files should include embedded fonts and selectable (live) text layers wherever possible. Text must not be submitted as scanned or image based content (i.e., flattened rasters). As a best practice, figures should be exported directly from the source software (e.g., Adobe Illustrator, PowerPoint, or similar vector based programmes) with export settings that preserve embedded fonts and live text layers. This not only enhances searchability but also improves accessibility and downstream typesetting.
+III) General file preparation–For all other specifications–including colour mode (CMYK vs. RGB), file size, figure dimensions, scaling, and naming conventions–we recommend preparing figures in accordance with both the journal's specific requirements and Wiley's standard artwork guidelines.
+These provide comprehensive instructions to ensure figures meet both print and online requirements, covering aspects such as color management, resolution verification, and acceptable compression settings.
+For further advice on figure preparation, please consult Wiley's detailed guidelines: https://authors.wiley.com/author-resources/Journal-Authors/Prepare/manuscript-preparation-guidelines.html/figure-preparation.html
+If you wish to submit an image from your article as a cover image, please indicate this in your cover letter, or contact jse@ibcas.ac.cn.
+Appendices
+These should be avoided. If absolutely required, they should be placed at the end of the paper, numbered in Roman numerals and referred to in the text.
+Data Sharing Policies
+The Significance of Paper Related Data Sharing. JSE is committed to a more open research landscape, facilitating faster and more effective research discovery by enabling reproducibility and verification of data, methodology and reporting standards. We encourage our authors to share the paper related data including, but not limited to: materials, methods, protocols, nucleotide sequence data, morphological data, phylogenetic trees, taxonomy, software, code, algorithms, raw data, etc.
+Data Storage Method. The paper related data must be submitted and shared in a data repository. The data repository is: Science Data Bank (ScienceDB, https://www.scidb.cn/en/c/jse). The data submitted and published in the data repository will receive the unique identifier (such as CSTR, DOI) for querying and accessing the data. Please provide the web link of data’s unique identifier (e.g.: https://cstr.cn/31253.11.sciencedb.j00148.00035, https://doi.org/10.57760/sciencedb.j00148.00035) as a data link in the paper.
+Types and Requirements of the Paper Related Data. The data used to directly support the conclusions of the paper shall be submitted; the data generated from the research of the paper and reflected in the paper, or the data reused or analyzed for the research of the paper are encouraged to be submitted; the raw data, unprocessed data from paper related experiments or observations that are not reflected in the paper are submitted voluntarily. Data involving research ethics issue, sensitive information, confidential information, or sharing data that would damage the legitimate rights and interests of third parties should not be submitted. For data that should not be submitted, if irreversible desensitization processing has been performed or it can be submitted for other legitimate and reasonable reasons, the data author can submit it after providing a desensitization statement or other supporting documents.
+Supplementary material is not essential to the article but provides greater depth and background and may comprise additional tables, figures, videos, datasets, etc. This material can be submitted with your manuscript, and will appear online (not in the print version), without editing or typesetting. Guidelines on how to prepare this material and which formats and file sizes are acceptable can be found at: https://authorservices.wiley.com/author-resources/Journal-Authors/Prepare/manuscript-preparation-guidelines.html/supporting-information.html. Supplementary material generally refers to data closely related to the parent article that directly supports the conclusions of the paper, and therefore must be submitted to ScienceDB.
+Data Review. This data repository will execute the stylistic review of the paper related data submitted by authors, mainly reviewing whether the data information is fully completed, whether the data has been uploaded, whether the uploaded data is accessible, etc. Authors should complete the data submission during the paper submission stage.
+8. PUBLICATION FEES
+The journal depends in part on the payment of page charges for its operation. Payment of RMB500 per printed page is required from all authors. Requests for the waiver of page charges should be submitted to the Editorial Office (jse@ibcas.ac.cn). Manuscripts are accepted or rejected purely on the basis of scientific merit. A form requesting payment will be sent to the corresponding author after printing.
+9. SUBMISSION REQUIREMENTS
+A cover letter should be included in the 'Cover Letter Field' of the ScholarOne system. The text can be entered directly into the field or uploader as a file.
+The cover letter must contain:
+An acknowledgment that all authors have contributed significantly.
+A statement confirming that the content has not been published or submitted for publication elsewhere except as a brief abstract in the proceedings of a scientific meeting or symposium.
+If tables or figures have been reproduced from another source, the cover letter must include a statement confirming that the authors have permission to reproduce the material and that appropriate acknowledgments have been included in the text.
+Authors must declare any financial support or relationships that may pose conflict of interest, for more detail refer to the section 'Conflict of Interest Declaration' above.
+Two Word-files need to be included upon submission: A title page file and a main text file that includes all parts of the text in the sequence indicated in the section 'Parts of the manuscript', including tables and figure legends but excluding figures which should be supplied separately.
+The main text file should be prepared using Microsoft Word, doubled-spaced. All pages should be numbered consecutively in the top right-hand corner, beginning with the first page of the main text file.
+Each figure should be supplied as a separate file, with the figure number incorporated in the file name. Figures must be high enough resolution for proper review (enlarge your figures to 200-300% on screen to check figures are sharp and all text legible). A complete figure legend should be included immediately below each figure. It is not necessary to include figure legends separately in the text – but make sure each figure is accompanied by a complete legend.
+Tables should be a maximum of 1-2 pages long, and longer tables should be submitted as “Supplementary Data Sets” in Excel format (multiple Data Sets may be created as separate sheets within a single Excel file).
+For submission, low-resolution figures saved as .jpg or .bmp files should be uploaded, for ease of transmission during the review process. Upon acceptance of the article, high-resolution figures (at least 300 d.p.i.) saved as .eps or .tif files will be required.
+10. PUBLICATION PROCESS AFTER ACCEPTANCE
+Accepted papers will be passed to Wiley's production team for publication. The author identified as the corresponding author for the paper will receive an email prompting them to login into Wiley's Author Services, where via the Wiley Author Licensing Service (WALS) they will be asked to complete an electronic license agreement on behalf of all authors on the paper. More details on the copyright and licencing options for the journal appear below.
+Wiley's Author Services: Tracking your Paper's Progress
+Author Services also enables authors to track their article through the production process to publication online and in print. Authors can check the status of their articles online and choose to receive automated e-mails at key stages of production. The corresponding author will receive a unique link that enables them to register and have their article automatically added to the system. Please ensure that a complete e-mail address is provided when submitting the manuscript. Click here for more details on online production tracking and for a wealth of resources including FAQs and tips on article preparation, submission and more.
+Proofing
+The corresponding author will receive an email with details on how to provide proof corrections. It is therefore essential that a working email address be providing for the corresponding author.
+Early View
+The journal offers rapid speed to publication via Wiley's Early View service. Early View articles are complete full-text articles published online in advance of their publication in a printed issue. Early View articles are complete and final. They have been fully reviewed, revised and edited for publication, and the authors' final corrections have been incorporated. Because they are in final form, no changes can be made after online publication. Early View articles are given a Digital Object Identifier (DOI), which allows the article to be cited and tracked before allocation to an issue. After print publication, the DOI remains valid and can continue to be used to cite and access the article.
+Offprints
+A PDF reprint of the article will be supplied free of charge to the corresponding author. Additional printed offprints may be ordered online for a fee. Within China, please contact the Editorial Office. Outside of China, please click on the following link and fill in the necessary details and ensure that you type information in all of the required fields: www.sheridan.com/wiley/eoc.
+Author Marketing Toolkit
+The Wiley Author Marketing Toolkit provide authors with support on how to use social media, publicity, conferences, multimedia, email and the web to promote their article.
+11. COPYRIGHT, LICENSING AND ONLINE OPEN
+Accepted papers will be passed to Wiley's production team for publication. The author identified as the formal corresponding author for the paper will receive an email prompting them to login into Wiley's Author Services, where via the Wiley Author Licensing Service (WALS) they will be asked to complete an electronic license agreement on behalf of all authors on the paper.
+Authors may choose to publish under the terms of the journal's standard copyright transfer agreement (CTA), or under open access terms made available via Wiley OnlineOpen.
+Standard Copyright Transfer Agreement: FAQs about the terms and conditions of the standard CTA in place for the journal, including standard terms regarding archiving of the accepted version of the paper, are available at: Copyright Terms and Conditions FAQs. Note that in signing the journal's licence agreement authors agree that consent to reproduce figures from another source has been obtained.
+OnlineOpen—Wiley's Open Access Option: OnlineOpen is available to authors of articles who wish to make their article freely available to all on Wiley Online Library under a Creative Commons license. With OnlineOpen, the author, the author's funding agency, or the author's institution pays a fee to ensure that the article is made open access. Authors of OnlineOpen articles are permitted to post the final, published PDF of their article on their personal website, and in an institutional repository or other free public server immediately after publication. All OnlineOpen articles are treated in the same way as any other article. They go through the journal's standard peer-review process and will be accepted or rejected based on their own merit.
+OnlineOpen licenses: Authors choosing OnlineOpen retain copyright in their article and have a choice of publishing under the following Creative Commons License terms: Creative Commons Attribution License (CC BY); Creative Commons Attribution Non-Commercial License (CC BY NC); Creative Commons Attribution Non-Commercial-NoDerivs License (CC BY NC ND). To preview the terms and conditions of these open access agreements please visit the Copyright Terms and Conditions FAQs.
+Funder Open Access and Self-Archiving Compliance: Please click here for more information on Wiley's compliance with specific Funder Open Access and Self Archiving Policies, and click here for more detailed information specifically about Self-Archiving definitions and policies.
+12. JSE ONLINE
+Visit the Journal of Systematics and Evolution home page at http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1759-6831 and http://www.jse.ac.cn for more information, and Wiley's web pages for manuscript submission (http://authorservices.wiley.com/bauthor/journal.asp).
+13. EDITORIAL OFFICE ADDRESS
+Journal of Systematics and Evolution
+Institute of Botany, Chinese Academy of Sciences
+20 Nanxincun, Xiangshan,
+Beijing 100093
+China
+Tel.: +86 10 6283 6572, +86 10 6283 6132
+Email: jse@ibcas.ac.cn
+Pubdate: 2024-05-20 Viewed: 20109
+Scan to follow us on WeChat
+Scan to follow us on Mastodon
+Scan to follow us on BlueSky
+Sponsors
+Publisher
+Co-Sponsor
+Similar Journals
+Molecular Phylogenetics and Evolution
+Taxon
+Annals of the Missouri Botanical Garden
+Systematic Botany
+Botanical Journal of the Linnean Society
+Plant Systematics and Evolution
+Acknowledgements
+Peer Reviewers
+Powered by Beijing Magtech Co., Ltd.
+Copyright © Journal of Systematics and Evolution, Institute of Botany, CAS

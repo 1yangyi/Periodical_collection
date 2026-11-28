@@ -1,0 +1,122 @@
+期刊: 同济大学学报(社会科学版)
+来源: https://wkxuebao.tongji.edu.cn/tgzn/gsgf.htm
+标题: 格式规范
+
+✕
+期刊简介
+期刊在线
+投稿指南
+联系我们
+期刊简介
+本刊简介
+编委会
+期刊在线
+当期目录
+过刊浏览
+投稿指南
+投稿须知
+格式规范
+投审稿系统
+联系我们
+联系我们
+首页/ 投稿指南/ 格式规范
+格式规范
+投稿指南
+投稿须知
+格式规范
+投审稿系统
+格式规范
+时间:2026-04-27  浏览:（1230）
+本刊欢迎观点鲜明、学术性强、论证充分的来稿。来稿以12000—15000字为宜。
+一、正文之前请附以下内容：
+中文摘要、中文关键词（3~5个）、作者简介（包括姓名、工作单位、地点、邮编、职称）；
+英文提要：包括英文文章标题、作者姓名、作者单位、摘要、关键词；
+如果所投稿件是作者承担的科研基金项目，请注明项目名称和项目编号。
+二、正文中一级标题排序采用“一、二、三……”形式；二级标题排序采用“（一）（二）（三）……”形式；三级标题排序采用“1. 2. 3. ……”形式；四级标题排序采用 “（1）（2）（3）……”形式；五级标题排序采用“①②③④……”形式。
+三、脚注格式如下：
+1. 中文引文脚注
+专著：
+唐君毅：《中国人文精神之发展》，广西师范大学出版社，2005年，第313页。（必须标明页码）
+编著：
+范捷平编：《奥地利现代文学研究》，浙江大学出版社，2007年，第19-21页。
+译著：
+约翰·罗尔克：《世界舞台上的国际政治》，宋伟等译，北京大学出版社，2005年，第446页。
+期刊引文：
+秦亚青：《关系本位与过程建构：将中国理念植入国际关系理论》，《中国社会科学》，2009年第3期，第73页。
+著作引文：
+蔡元培：《哲学大纲》，《蔡元培全集》第二卷，中华书局，1984年，第378页。
+报纸引文：
+吴明霞：《北极采油：谋财岂能害生态》，《文汇报》，2009年9月3日。
+互联网引文：
+李克强：《大道至简，有权不可任性》，http://news. Xinhuanet.com/comments/2015-03/05/c_114528645.htm，2015年3月5日。
+其中，“2015年3月5日”为发布日期。
+2. 外文引文脚注
+引文如系外文论著，均应给出原著的版权信息，无需译为中文，以便读者查找原文。
+专著：
+Steven J. Brams, Game Theory and Politics(书名用斜体), Dover PUBN Incorporated, （无需出版地点）1975, p. 17.
+（若页码为连续页码，则形式如：pp. 17-18，期刊文章连续页码同此。）
+编著：
+Robert Koehane ed., Neorealism and Its Critics（斜体）, Peking University Press,（无需出版地点） 2005, pp. 19-30.
+译著：
+Mo Yan, Red Sorghum（斜体）, Howard Goldblatt trans., Viking, （无需出版地点） 1993, p.97.
+期刊引文：
+James D. Fearon, “Counterfactuals and Hypothesis Testing in Political Science”（文章名正体加外文引号）, World Politics（期刊名斜体）, 1991, 43(2), pp. 169-195.
+其中，“43”为卷号，“2”为期号。
+著作引文：
+Andrew Kydd, Duncan Snidal, “Progress in Game-Theoretical Analysis of International Regimes” （文章名正体加外文引号）, Regime Theory and International Relations（书名斜体）, Volker Rittbergered ed., Clarendon Press, 1993, pp. 115-117.
+报纸引文：
+Anatoly Boukreev, “More Warship to be Deployed in Arctic”（文章名正体加外文引号）, Russia Today（报纸名斜体）, 2010-10-03.
+互联网引文：
+Robert Coe, “German and American Responses to Ukraine’s Euromaidan Protests” （文章名正体加外文引号）, http://www.aicgs.org/issue/german-and-ameirican-responses-to-ukraines-euromaidan-protests/, 2014-02-27.
+其中，2014-02-27为发布日期。
+四、文后参考文献指所引用的论文或著作。文后参考文献的著录项目要齐全，以[1][2][3]……形式排序。
+1. 参考文献的类型标识
+专著—M，期刊—J，报纸文章—N，会议录—C，汇编—G，学术论文—D，报告—R，电子公告—EB，联机网络—OL。
+2. 参考文献格式示例
+普通图书：
+[1] 张伯伟. 全唐五代诗格会考[M]. 南京：江苏古籍出版社，2002：288.
+[2] 罗斯基. 战前中国经济的增长[M]. 唐巧天，毛立坤，姜修宪，译. 杭州：浙江大学出版社，2009.
+[3] CRAWFPRD W, GORMAN M. Future libraries: dreams, madness & reality[M]. Chicago: American Library Association, 1995.
+论文集、会议录：
+[1] 中国职工教育研究会.职工教育研究论文集[G]. 北京：人民教育出版社，1985.
+[2] 雷光春. 综合湿地管理：综合湿地管理国际研讨会论文集[C]. 北京：海洋出版社，2012.
+[3] BABU B V, NAGAR A K, DEEP K, et al. Proceedings of the Second International Conference on Soft Computing for Problem Solving, December 28-30, 2012[C]. New Deli: Springer, 2014.
+报告：
+[1] 中华人民共和国国务院新闻办公室.国防白皮书：中国武装力量的多样化运用[R/OL]. (2013-04-16)[2014-06-11].http://www.mod.gov.cn/affair/2013-04/16content_4442839.htm.
+[2] U.S. Department of Transportation Federal Highway Administration. Guidelines for handing excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990.
+学位论文：
+[1] 张志祥. 间断动力系统的随机扰动及其在守恒方程中的应用[D]. 北京：北京大学数学学院，1998.
+[2] CALMS R B. Infrared spectroscopic studies on solid oxygen[D].Berkeley: Univ. of California, 1965.
+专著中析出的文献：
+[1] 白书农. 植物开花研究[M]//李承森. 植物科学进展. 北京：高等教育出版社，1998:146-163.
+[2] WEINSTEIN L, SWERTZ M N. Pathogenic properties of invading microorganism [M]//SODEMAN W A Jr, SODEMAN W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974:745-772.
+期刊中析出的文献：
+[1] 于潇，刘义， 柴跃廷，等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版），2012,52（11）：1518-1523.
+[2] PARK J R, TOSAKA Y. Metadata quality control in digital repositories and collections: criteria, semantics and mechanisms[J/OL]. Cataloging & Classification Quarterly, 2010, 48（8）：696-715 [2013-09-05]. http://www.tandfonline.com/doi/pdf/10.1080/01639374.2010.508711.
+报纸中析出的文献
+[1] 丁文详. 数字革命与竞争国际化[N]. 中国青年报，2000-11-20（15）.
+注：“2000-11-20”为出版日期，“15”为版次信息。
+[2] 傅刚，赵承，李佳路. 大风沙过后的思考[N/OL]. 北京青年报，2000-01-12[2005-09-28]. http://www.bjyouth.com.cn/Bqd/20000412/GB/4216%5ED0412B1401.htm.
+电子资源（不包括电子专著、电子连续出版物、电子学位论文、电子专利）
+[1]萧钰. 出版业信息化迈入快车道[EB/OL].(2001-12-19)[2002-04-15]. http://www.creader.com/news/200112190019.html.
+[2] BAWDEN D. Origins and concepts of digital literacy[EB/OL] .(2008-05-04) [2013-03-08]. http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf.
+3. 主要责任者或其他责任者著录细则
+（1）个人著者（包括欧美著者）采用姓在前名在后的著录形式。
+原题：（明）李时珍 著录示例：李时珍
+（2）欧美著者的姓，所有字母全部大写，名用缩写字母，缩写名后省略缩写点。
+原题：Albert Einstein 著录示例：EINSTEIN A
+（3）欧美著者的中译名只著录其姓。
+原题：（瑞士）伊迪斯·乔纳斯 著录示例：乔纳斯
+（4）同姓不同名的欧美著者，其中译名不仅要著录其姓，还需著录其名的首字母。
+原题：（英）G. 昂温（G. Unwin），P.S.昂温（P. S. Unwin）
+著录示例：昂温 G，昂温 P S
+（5）用汉语拼音书写的人名，姓全大写，其名可缩写，取每个汉字拼音的首字母。
+原题：Li Jiangning
+著录示例：LI Jiangning 或LI J N
+凡本说明中未涉及的其他文后参考文献规定，请参考GB/T 7714—2015 参考文献著录规则。
+版权所有：《同济大学学报（社会科学版）》
+联系我们
+电话：021-65983944，65985116
+邮箱：wkxuebao@tongji.edu.cn
+邮编：200092
+Copyright©2026 同济大学版权所有 沪ICP备10014176号 沪公网安备：31009102000038号 沪举报中心

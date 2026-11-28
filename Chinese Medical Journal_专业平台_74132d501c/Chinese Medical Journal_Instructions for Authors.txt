@@ -1,0 +1,223 @@
+期刊: Chinese Medical Journal
+来源: https://cs.medjournals.cn/en/cmj/editorPage/35689
+标题: Instructions for Authors
+
+Chin Med J
+About the Journal
+Chinese Medical Journal (CMJ), established in 1887, is an international, peer-reviewed, open-access general medical journal. CMJ is an official journal of the Chinese Medical Association (CMA) and is the oldest medical periodical in China. CMJ is published semimonthly in English both in print and online issues. The journal reports the advances and progress in current medical sciences and technology. It also serves the objective of international academic exchange. The journal allows free access to its contents and permits authors to self-archive final accepted version of the articles on any OAI-compliant institutional/subject-based repository.
+Scope of the Journal
+The journal will cover clinical and basic studies in field of all medicine, especially general medicine. Epidemiological studies and translational studies with clinical interest and implications will be given preference.
+The Editorial Process
+A manuscript will be reviewed for possible publication with the understanding that it is being submitted to CMJ alone at that point in time and has not been published anywhere, simultaneously submitted, or already accepted for publication elsewhere. The journal expects that authors would authorize one of them to correspond with CMJ for all matters related to the manuscript. On submission, editors review all submitted manuscripts initially for suitability for formal review. Manuscripts with insufficient originality, serious scientific or technical flaws, or lack of a significant message are rejected before proceeding for formal peer-review. Manuscripts that are unlikely to be of interest to the CMJ readers are also liable to be rejected at this stage.
+Manuscripts that are found suitable for publication in CMJ are sent to two or more expert reviewers. The journal follows a double-blind review process, wherein the reviewers and authors are unaware of each other’s identity. Every manuscript is also decided by the editorial team based on the comments from the reviewers. The comments and suggestions (acceptance/rejection/amendments in manuscript) received from reviewers are conveyed to the corresponding author. If required, the author is requested to provide a point by point response to reviewers’ comments and submit a revised version of the manuscript. This process is repeated till reviewers and editors are satisfied with the manuscript.
+Manuscripts accepted for publication are copy edited for grammar, punctuation, print style, and format. Page proofs are sent to the corresponding author. The corresponding author is expected to return the corrected proofs within seven days. It may not be possible to incorporate corrections received after that period. The whole process of submission of the manuscript to final decision and sending and receiving proofs is completed online. To achieve faster and greater dissemination of knowledge and information, the journal publishes articles online as “Ahead of Print” soon after acceptance.
+Clinical Trial Registry
+CMJ requires registration of clinical trials. CMJ would consider publishing clinical trials that have been registered with a clinical trial registry that allows free online access to public. Registration in the following trial registers is acceptable:
+http://www.chictr.org.cn/
+http://www.ctri.in/
+http://www.clinicaltrials.gov/
+http://www.isrctn.org/
+http://www.trialregister.nl/trialreg/index.asp
+http://www.umin.ac.jp/ctr
+and any registry that is a primary register of the WHO International Clinical Trials Registry Platform (ICTRP; www.who.int/ictrp/network/primary/en/index.html).
+Data Sharing
+We encourage authors to include a data sharing statement at the end of every research manuscript when submitting their article, in order to follow the requirement of International Committee of Medical Journal Editors (ICMJE) about data sharing for clinical trials.
+Data sharing statements must indicate the following: whether individual deidentified participant data (including data dictionaries) will be shared; what data in particular will be shared; whether additional, related documents will be available (study protocol, statistical analysis plan, etc.); when the data will become available and for how long; by what access criteria data will be shared (including with whom, for what types of analyses, and by what mechanism).
+If no such further data are available, please use this wording: “Data sharing: no additional data available.”
+More information:
+The DataCite organization (https://www.datacite.org/) has a growing list of repositories for research data.
+http://www.icmje.org/news-and-editorials/data_sharing_june_2017.pdf
+Authorship Criteria
+As stated in the ICMJE Recommendations, credit for authorship requires:
+Substantial contributions to the conception and design, or the acquisition, analysis, or interpretation of the data;
+The drafting of the article or critical revision for important intellectual content;
+Final approval of the version to be published;
+Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the article are appropriately investigated and resolved.
+Authorship credit should be based only on substantial contributions to each of the four components mentioned above.
+Participation solely in the acquisition of funding or the collection of data does not justify authorship. General supervision of the research group is not sufficient for authorship. Each contributor should have participated sufficiently in the work to take public responsibility for appropriate portions of the content of the manuscript. The order of naming the contributors should be based on the relative contribution of the contributor towards the study and writing the manuscript. Once submitted the order cannot be changed without written consent of all the contributors. Manuscripts must be submitted by one of the authors of the manuscript, and should not be submitted by anyone on their behalf. The corresponding author takes responsibility for the article during submission and peer review.
+Corresponding authors should be designated at the time of submission. The inclusion of multiple corresponding authors should generally be avoided. In special circumstances, such as for guideline or consensus articles, or standardized multi-center, multi-disciplinary clinical randomized controlled trials, authors should provide justification for the need for multiple corresponding authors. Under such circumstances, the number of corresponding authors may be increased as appropriate, but should not exceed three, and they should preferably not be from the same department and institution.
+Except for multi-center studies, the designation of equal contributors is not recommended. When such designation is used, it should be noted on a separate line after the authors’ affiliations, formatted as “×× and ×× contributed equally to this work.” Authors from the same department and institution should not be listed as equal contributors, and the number of authors designated as contributing equally should not exceed three.
+Changes in Authorship
+Authors should determine the order of authorship among themselves and should settle any disagreements before submitting their manuscript. Changes in authorship (i.e., order, addition, and deletion of authors) should be discussed and approved by all authors. Any requests for such changes in authorship after initial manuscript submission and before publication should be explained in writing to the editor in a letter or email from all authors and should send the original signed written consent of all authors with authorized unit stamp.
+Conflicts of Interest/Competing Interests
+All authors must disclose any and all conflicts of interest, they may have with publication of the manuscript or an institution or product that is mentioned in the manuscript and/or is important to the outcome of the study presented. Authors should also disclose conflicts of interest with products that compete with those mentioned in their manuscript. A conflict of interest may exist when an author (or the author’s institution or employer) has financial or personal relationships or affiliations that could influence (or bias) the author’s decisions, work, or manuscript.
+Retraction Policy
+CMJ should consider retracting a publication if:
+Editors have clear evidence that the findings are unreliable, either as a result of misconduct (e.g., data fabrication) or honest error (e.g., miscalculation or experimental error).
+The findings have previously been published elsewhere without proper cross-referencing, permission or justification (i.e., cases of redundant publication).
+It constitutes plagiarism.
+It reports unethical research.
+CMJ abides by Retraction Guidelines of the Committee on Publication Ethics (COPE) (http://publicationethics.org/files/retraction%20guidelines_0.pdf).
+Submission of Manuscripts
+All manuscripts must be submitted online through the website: www.editorialmanager.com/cmj. First-time users will have to register at this site. Registration is free but mandatory. Registered authors can keep track of their articles after logging into the site using their username and password. Authors do not have to pay for submission of articles. If you experience any problems, please contact the editorial office by E-mail: cmj@cmaph.org
+The submitted manuscripts that are not as per the “Instructions for Authors” would be returned to the authors for technical correction before they undergo editorial/peer-review. Generally, the manuscript should be submitted in the form of several separate files (the website has a limit of 100 MB per uploaded file).
+Blinded Article File
+The main text of the article, beginning from Abstract till References (including tables) should be in this file. The file must not contain any mention of the authors’ names or initials or the institution at which the study was done or acknowledgments. Page headers/running title can include the title but not the authors’ names. Manuscripts not in compliance with the Journal’s blinding policy will be returned to the corresponding author. Use rtf/doc files. Do not zip the files. Do not incorporate images in the file. The pages should be numbered consecutively, beginning with the first page of the blinded article file.
+Images
+Submit good quality color images. Size of the image can be reduced by decreasing the actual height and width of the images (keep up to 1600 × 1200 pixels or 5–6 inches). Images can be submitted as JPEG files and should be supplied at an effective resolution of 300 pixels per inch (PPI). Do not zip the files. Legends for the figures/images should be included at the end of the article file.
+The Copyright Transfer Form
+The copyright transfer form has to be submitted in original with the signatures of all the contributors as a scanned image via CMJ online manuscript submission and review system: (download address: http://edmgr.ovid.com/cmj/accounts/CMJ_Copyright_form.PDF).
+Preparation of Manuscripts
+Manuscripts must be prepared in accordance with “ICMJE Recommendations”. The uniform requirements and specific requirement of CMJ are summarized below. Before submitting a manuscript, contributors are requested to check for the latest instructions available. Instructions are also available from the website of the journal (www.cmj.org) and from the manuscript submission site: www.editorialmanager.com/cmj.
+Copies of Any Permission(s)
+It is the responsibility of authors/contributors to obtain permissions for reproducing any copyrighted material. A copy of the permission obtained must accompany the manuscript. Copies of any and all published articles or other manuscripts in preparation or submitted elsewhere that are related to the manuscript must also accompany the manuscript.
+Types of Manuscripts
+Editorial
+Editorials are usually commissioned, however, unsolicited editorials are also welcome. We are keen to consider editorials or ideas for editorials from authors outside China. Editorials can be up to 2000 words length with no more than 15 references.
+Original Article
+These include randomized controlled trials, basic medical studies, studies of screening and diagnostic test, outcome studies, cost effectiveness analyses, case-control series, and in vitro study.
+The text of original articles amounting to about 5000 words (excluding abstract, references and tables) should be divided into sections with the headings Abstract, Key words, Introduction, Methods, Results, Discussion, References, Tables and Figure legends.
+Abstract
+The abstract of original articles in CMJ is a structured abstract, which includes the following four parts: Background, methods, results, and conclusions. The total number of words in abstract is no more than 300 words.
+Introduction
+State the purpose and summarize the rationale for the study or observation.
+Methods
+It should include and describe the following aspects:
+Ethics
+When reporting studies on human beings, author should indicate whether the procedures followed were in accordance with the ethical standards of the responsible committee on human experimentation (institutional or regional) and with the Helsinki Declaration of 1975, as revised in 2024 (available at www.wma.net/policies-post/wma-declaration-of-helsinkiethical-principles-for-medical-research-involving-humansubjects/). For prospective studies involving human participants, authors are expected to mention about approval of regional/national/institutional or independent ethics committee or review board, obtaining informed consent from adult research participants and obtaining assent for children aged over 7 years participating in the trial. The age beyond which assent would be required could vary as per regional and/or national guidelines. Ensure confidentiality of subjects by desisting from mentioning participants’ names, initials or hospital numbers, especially in illustrative material.
+When reporting experiments on animals, authors must confirm that all experiments were performed in accordance with relevant guidelines and regulations. For the anesthesia and euthanasia of animals, authors are advised to consult the American Veterinary Medical Association (AVMA) Guidelines for the Euthanasia of Animals (2020). The ARRIVE 2.0 reporting guidelines (https://doi.org/10.1371/journal.pbio.3000411) is also recommended when documenting animal studies.
+Evidence for approval by a local ethics committee (for both human as well as animal studies) must be supplied by the authors on demand. The ethical standards of experiments must be in accordance with the guidelines provided by the CPCSEA and World Medical Association Declaration of Helsinki on Ethical Principles for Medical Research Involving Humans for studies involving experimental animals and human beings, respectively. The journal will not consider any paper which is ethically unacceptable. A statement on ethics committee permission and ethical practices must be included in all research articles under the “Methods” section.
+Study Design
+Selection and Description of Participants
+Describe your selection of the observational or experimental participants (patients or laboratory animals, including controls) clearly, including eligibility and exclusion criteria and a description of the source population.
+Technical Information
+Identify the methods, apparatus (give the manufacturer’s name and address in parentheses), and procedures in sufficient detail to allow other workers to reproduce the results.
+Give references to established methods, including statistical methods (see below); provide references and brief descriptions for methods that have been published but are not well known; describe new or substantially modified methods, give reasons for using them, and evaluate their limitations. Identify precisely all drugs and chemicals used, including generic name(s), dose(s), and route(s) of administration.
+Reports of randomized clinical trials should present information on all major study elements, including the protocol, assignment of interventions (methods of randomization, concealment of allocation to treatment groups), and the method of masking (blinding), based on the CONSORT Statement (http://www.consort-statement.org).
+Reporting Guidelines for Specific Study Designs
+Initiative
+Type of Study
+Source
+CONSORT
+Randomized controlled trials
+http://www.consort-statement.org
+STARD
+Studies of diagnostic accuracy
+http://www.consort-statement.org/stardstatement.htm
+QUOROM/PRISMA
+Systematic reviews and meta-analyses
+http://www.prisma-statement.org/
+STROBE
+Observational studies in epidemiology
+http://www.strobe-statement.org
+MOOSE
+Meta-analyses of observational studies in epidemiology
+http://www.consort-statement.org/Initiatives/MOOSE/moose.pdf
+Statistics
+Whenever possible quantify findings and present them with appropriate indicators of measurement error or uncertainty (such as confidence intervals). Authors should report losses to observation (such as dropouts from a clinical trial). When data are summarized in the Results section, specify the statistical methods used to analyze them. Avoid non-technical uses of technical terms in statistics, such as ‘random’ (which implies a randomizing device), ‘normal’, ‘significant’, ‘correlations’, and ‘sample’. Define statistical terms, abbreviations, and most symbols. Specify the computer software used. Use upper italics (e.g., P = 0.048). For all P values include the exact value and not less than 0.05 or 0.01. Mean differences in continuous variables, proportions in categorical variables and relative risks including odds ratios and hazard ratios should be accompanied by their confidence intervals.
+Results
+Present your results in a logical sequence in the text, tables, and illustrations, giving the main or most important findings first. Do not repeat in the text all the data in the tables or illustrations; emphasize or summarize only important observations. Extra- or supplementary materials and technical detail can be placed in an appendix where it will be accessible but will not interrupt the flow of the text; alternatively, it can be published only in the electronic version of the journal.
+When data are summarized in the Results section, give numeric results not only as derivatives (e.g., percentages) but also as the absolute numbers from which the derivatives were calculated, and specify the statistical methods used to analyze them. Restrict tables and figures to those needed to explain the argument of the paper and to assess its support. Use graphs as an alternative to tables with many entries; do not duplicate data in graphs and tables. Where scientifically appropriate, analyses of the data by variables such as age and sex should be included.
+Discussion
+Include summary of Key findings (primary outcome measures, secondary outcome measures, results as they relate to a prior hypothesis); Strengths and limitations of the study (study question, study design, data collection, analysis and interpretation); Interpretation and implications in the context of the totality of evidence (is there a systematic review to refer to, if not, could one be reasonably done here and now, what this study adds to the available evidence, effects on patient care and health policy, possible mechanisms); Controversies raised by this study; and Future research directions (for this particular research collaboration, underlying mechanisms, clinical research).
+Do not repeat in detail data or other material given in the Introduction or the Results section. In particular, contributors should avoid making statements on economic benefits and costs unless their manuscript includes economic data and analyses. Avoid claiming priority and alluding to work that has not been completed. New hypotheses may be stated if needed, however they should be clearly labeled as such. About 30 references can be included.
+Clinical Guideline
+Official recommendations from professional organizations on issues related to clinical practice and health care delivery. CMJ is flexible with length, reference, and other format requirements given the variability in the format of guidelines developed by different organizations. A concise table or concise graphic summarizing the recommendations and other key points is desirable. Guidelines that meet standards (http://www.equator-network.org/) will fare more favorably than those that do not.
+Meta Analysis
+Only results of meta analysis are reported in this kind of article. The length of the article is about 5000 words (not including tables, figures, and references).
+The meta analysis should have the following headings: Keywords, Abstract, Introduction, Methods, Results, Discussion, Reference, Tables, and Legends in that order.
+Review Article
+It is expected that these articles would be written by individuals who have done substantial work on the subject or are considered experts in the field. The prescribed word count is about 5000 words excluding tables, references and abstract. The manuscript may have about 90 references. As per editorial requirements, some Review Articles, both solicited and unsolicited, are expected to deliver comprehensive and in-depth coverage of selected topics. For such contributions, the word limit may extend to 20,000–30,000 words with up to 350 references. The Systematic Review should have a abstract (350 words) representing an accurate summary of the article. The section titles would depend upon the topic reviewed. Authors submitting review article should include a section describing the methods used for locating, selecting, extracting, and synthesizing data. In addition, the abstract for a narrative review should be a descriptive summary including the background, main body and short conclusion.
+Medical Progress
+Articles which reviewed a specific subject, no more than 1500 words with no more than 10 references and 1 table or figure.
+Viewpoint
+Personal views are welcome and the length should be about 1500 words (not including tables, figures, and references). Authors of this type of articles should sign their real names; no anonymous pieces are published.
+Clinical Observation
+Brief research. Typically 5 or fewer authors, although exceptions made at editors’ discretion. The text is limited to no more than 1000 words, without abstract and key words, 5 or fewer references, maximum of 1 table or figure. Declaration of patient consent must be stated if the article contains patient information.
+Rapid Report
+Research article, especially of bench to bedside. The text is limited to no more than 1000 words, without abstract and key words, 5 or fewer references, maximum of 1 table or figure.
+Correspondence
+Correspondence is letter to editors. They should preferably be related to articles previously published in the journal or views expressed in the journal or briefly report a case or research results. The text is limited to no more than 1500 words, without abstract and key words, 5 or fewer references, maximum of one table or one figure. Declaration of patient consent must be stated if the article contains patient information.
+Idea and Opinion
+Essays representing opinions, presenting hypotheses, or considering controversial issues. The text is limited to no more than 1000 words, without abstract and key words, 10 or fewer references. Typically no tables or figures but occasional exception at the editors’ discretion.
+Comment
+Most comments are commissioned, but spontaneous comments are welcome on a paper or other report or event within the past month or so, or in the near future. The text is limited to no more than 700 words, without abstract and key words, 5 or fewer references.
+References
+Authors are responsible for the accuracy and completeness of their references and for correct citation of the text. References should be numbered consecutively in the order in which they are first mentioned in the text (not in alphabetic order). Identify references in text, tables, and legends by Arabic numerals in superscript after the punctuation marks. References cited only in tables or figure legends should be numbered in accordance with the sequence established by the first identification in the text of the particular table or figure. Use the style of the examples below, which are based on the Vancouver formats. The titles of journals should be abbreviated according to the style used in Index Medicus. Use complete name of the journal for non-indexed journals. Avoid using abstracts as references. Information from manuscripts submitted but not accepted should be cited in the text as “unpublished observations” with written permission from the source. Avoid citing a “personal communication” unless it provides essential information not available from a public source, in which case the name of the person and date of communication should be cited in parentheses in the text.
+The commonly cited types of references are shown here, for other types of references such as newspaper items please refer to ICMJE Recommendation Number references in the order they appear in the text; do not alphabetize. In text, tables, and legends, identify references with superscript Arabic numerals. When listing references, abbreviate titles of journals according to Medline. Note: List authors and/or editors up to 6; if more than 6, list the first 6 authors followed by et al.
+Note: from January 2016, the available Digital Object Identifier (DOI) should be added at the end of every reference.
+Examples of journal citations
+Meng FG, Jia FM, Ren XH, Ge Y, Wang KL, Ma YS, et al. Vagus Nerve Stimulation for Pediatric and Adult Patients with Pharmaco-resistant Epilepsy. Chin Med J 2015;128:2599-604. doi: 10.4103/0366-6999.166023.
+Wang YS, Miao LY, Liu L, Cai HR, Ding JJ, Ren SX, et al. Serum cytokine levels in patients with advanced non-small cell lung cancer: Correlation with clinical outcome of erlotinib treatment. Chin Med J 2013; 126: 3931-5. doi: 10.3760/cma.j.issn.0366-6999.20130578
+Chen C, Hao S, Cheng T. Heterogeneity of hematopoietic stem cell (in Chinese). Natl Med J China 2015;36:878-82. doi: 10.3760/cma.j.issn.0253-2727.2015.10.018.
+Brown MS, Goldstein JL. Cholesterol feedback: From Schoenheimer’s bottle to Scap’s MELADL. J Lipid Res 2009;50 Suppl:S15-27. doi: 10.1194/jlr.R800054-JLR200.
+Fraser GL, Devlin JW, Worby CP, Alhazzani W, Barr J, Dasta JF, et al. Benzodiazepine versus nonbenzodiazepine-based sedation for mechanically ventilated, critically ill adults: A systematic review and meta-analysis of randomized trials. Crit Care Med 2013;41(9 Suppl 1):S30-8. doi:10.1097/CCM.0b013e3182a16898.
+Ozben T, Nacitarhan S, Tuncer N. Plasma and urine sialic acid in non-insulin dependent diabetes mellitus. Ann Clin Biochem 1995; 32 (Pt 3): 303-6. doi: 10.1177/000456329503200307.
+Joffe A, Anton N, Lequier L, Vandermeer B, Tjosvold L, Larsen B, et al. Nutritional support for critically ill children. Cochrane Database Syst Rev 2009;2:CD005144. doi: 10.1002/14651858.CD005144.pub2.
+Example of a book citation
+Weinstein L, Swartz MN. Pathogenic properties of invading microorganisms. In: Sodeman WA Jr., Sodeman WA, eds. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders; 1974: 457-472.
+Anderson SC, Poulsen KB. Anderson’s electronic atlas of hematology. Philadelphia: Lippincott Williams & Wilkins, 2002.
+Example of Electronic Sources citation
+Cumulative number of reported cases of severe acute respiratory syndrome (SARS). Geneva: World Health Organization, 2003. Available from: http://www.who.int/csr/sarscountry/2003_04_04/en/. [Last accessed on 2003 April 9].
+Tables
+Tables should be self-explanatory and should not duplicate textual material.
+Number tables, in Arabic numerals, consecutively in the order of their first citation in the text and supply a brief title for each.
+Place explanatory matter in footnotes, not in the heading.
+Explain in footnotes all non-standard abbreviations that are used in each table.
+Obtain permission for all fully borrowed, adapted, and modified tables and provide a credit line in the footnote.
+For footnotes use the following symbols, in this sequence: *, †, ‡, §, ||, ¶, **, ††, ‡‡.
+Tables with their legends should be provided at the end of the text after the references. The tables along with their number should be cited at the relevant place in the text.
+Illustrations (Figures)
+Figures should be numbered consecutively according to the order in which they have been first cited in the text.
+Labels, numbers, and symbols should be clear and of uniform size. The lettering for figures should be large enough to be legible after reduction to fit the width of a printed column.
+Symbols, arrows, or letters used in photomicrographs should contrast with the background and should be marked neatly with transfer type or by tissue overlay and not by pen.
+Titles and detailed explanations belong in the legends for illustrations not on the illustrations themselves.
+When graphs, scatter-grams or histograms are submitted the numerical data on which they are based should also be supplied.
+The photographs and figures should be trimmed to remove all the unwanted areas.
+If photographs of individuals are used, their pictures must be accompanied by written permission to use the photograph.
+If a figure has been published elsewhere, acknowledge the original source and submit written permission from the copyright holder to reproduce the material. A credit line should appear in the legend for such figures.
+Legends for illustrations: Type legends (maximum 40 words, excluding the credit line) with Arabic numerals corresponding to the illustrations. When symbols, arrows, numbers, or letters are used to identify parts of the illustrations, identify and explain each one in the legend. Explain the internal scale (magnification) and identify the method of staining in photomicrographs.
+Final figures for print production: ensure that the image has a minimum resolution of 300 PPI or 1800 × 1600 pixels in JPEG or TIFF format.
+The Journal reserves the right to crop, rotate, reduce, or enlarge the photographs to an acceptable size.
+Protection of Patients’ Rights to Privacy
+Identifying information should not be published in written descriptions, photographs, sonograms, CT scans, etc., and pedigrees unless the information is essential for scientific purposes and the patient (or parent or guardian, wherever applicable) gives written informed consent for publication. Authors should remove patients’ names from figures unless they have obtained written informed consent from the patients. CMJ abides by ICMJE guidelines: (1) Authors, not the journals nor the publisher, need to have the patient consent form before the publication related to patient privacy and have the form properly archived by the author. (2) If the publication includes some facial images that make the patients identifiable, a statement about the patient’s consent needs to be present in the manuscript.
+Sending a Revised Manuscript
+The revised version of the manuscript should be submitted online in a manner similar to that used for submission of the manuscript for the first time. When submitting a revised manuscript, contributors are requested to include the “referees” remarks along with point-to-point clarification at the beginning in the revised file itself. In addition, they are expected to mark the changes as underlined or colored text in the article.
+Article Processing Charge
+Authors from China: CHY 1600 per page (the number of pages is calculated based on the final PDF version), an additional CHY 1000 will be charged if figures need to be printed in color.
+Authors outside China: USD 320 per print page including the cost of all figures (the number of pages is calculated based on the final PDF version).
+Copyrights
+The CMA is the owner of all copyrights to any articles published in the journal. Published manuscripts become the permanent property of CMA and may not be published elsewhere without written permission. CMA keeps the right to use these manuscripts in any form, including print, video, audio, and digital.
+Checklist
+Covering Letter
+Signed by all contributors;
+Previous publication/presentations mentioned;
+Source of funding mentioned;
+Conflicts of interest disclosed.
+Authors
+Last name and given name provided along with Middle name initials (where applicable);
+Author for correspondence, with E-mail address provided;
+Identity not revealed in paper except title page (e.g., name of the institute in Methods, citing previous study as “our study”, names on figure labels, name of institute in photographs, etc.).
+Presentation and Format
+Use only 10- or 12-point font size;
+Page numbers included at the bottom;
+Title page contains all the desired information;
+Abstract page contains the full title of the manuscript;
+Abstract provided (structured abstract of 300 words for original articles, meta analysis [Background, Methods, Results, Conclusions] and review articles [Objective, Data sources, Study selection, Results, Conclusions]);
+Key words provided (three to six words) Introduction should be short and arresting. State the purpose of the article and summarize the rationale for the study or observation. Give only strictly pertinent references;
+The references cited in the text should be after punctuation marks;
+References according to the journal’s instructions, punctuation marks checked;
+Send the article file without “Track Changes”.
+Language and Grammar
+Uniformly American English;
+Write the full term for each abbreviation at its first use in the title, abstract, keywords and text separately unless it is a standard unit of measure. Numerals from 1 to 10 spelt out;
+Numerals at the beginning of the sentence spelt out;
+Check the manuscript for spelling, grammar, and punctuation errors;
+If a brand name is cited, supply the manufacturer’s name and address (city and state/country);
+Species names should be in italics.
+Tables and Figures
+No repetition of data in tables and graphs and in text;
+Actual numbers from which graphs drawn, provided;
+Figures necessary and of good quality (color);
+Table and figure numbers in Arabic letters (not Roman);
+Figure legends provided (not more than 40 words);
+Patients’ privacy maintained (if not permission taken);
+Credit note for borrowed figures/tables provided;
+Write the full term for each abbreviation used in the table as a footnote.
+Additional Resources
+ICMJE: http://www.icmje.org.
+Equator Network: Enhancing the Quality and Transparency of Health Research: http://www.equator-network.org/. COPE: http://publicationethics.org/.
+National Institutes of Health (US) Public Access Policy
+The Journal is compliant with the NIH Public Access Policy. Please refer to the Publisher’s page for more details.
+CURRENT ISSUE
+Volume 139 · Issue 22 · 2026

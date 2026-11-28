@@ -1,0 +1,84 @@
+期刊: 中国动物传染病学报
+来源: https://zsjb.cbpt.cnki.net/EditorE3N/PromptPageInfo.aspx?t=v&c=3
+标题: 论文模板
+
+论文模板
+鸭坦布苏病毒E蛋白基因的原核表达
+姬希文1,2，李雪松1，边延峰3，李国新1，颜丕熙1，张七斤2，李泽君1
+(1.中国农业科学院上海兽医研究所，上海200241； 2.内蒙古农业大学兽医学院，呼和浩特010018；3.天津生机集团股份有限公司，天津300384）
+摘 要：本研究利用RT-PCR方法扩增鸭坦布苏病毒（ DTMUV）奉贤株（FX2010）的结构蛋白E基因，并将其克隆至原核表达载体pET32a(+)，构建重组表达质粒pET32a-E。将其转化受体菌E.coli BL21(DE3)感受态细胞，经IPTG诱导进行表达。SDS-PAGE和Western blot试验检测结果表明，E基因在大肠杆菌中得到了表达，并且可与抗DTMUV的多克隆抗体发生特异性反应。E基因的成功表达为DTMUV的诊断试剂盒、疫苗等的研制奠定基础。
+关键词：鸭坦布苏病毒；E基因；克隆；表达
+中图分类号： 文献标志码：A 文章编号：1674-6422（2012）02-0000-00
+EXPRESSION OF E PROTEIN OF DUCK TEMBUSU VIRUS IN PROKARYOTIC CELLS
+JI Xiwen1,2，LI Xuesong1，BIAN Yanfeng3，LI Guoxin1，YAN Pixi1，ZHANG Qijin2，LI Zejun1
+（1.Shanghai Veterinary Research Institute, CAAS, Shanghai 200241, China; 2.College of Veterinary Medicine, Inner Mongolia Agricultural University, Hohhot 010018, China; 3.Tianjin Shengji Group Co. Ltd., Tianjin 300384, China）
+Abstract: The E gene of Duck Tembusu virus (DTMUV) was amplified by RT-PCR and inserted into the multiple clone sites of the pET32a(+) vector. The recombinant plasmid was transformed into BL21(DE3) competent cells and the cells were induced with IPTG to express the E protein. SDS-PAGE and Western blot assays showed that the E protein was successfully expressed and kept the activity for binding the DTMUV-specific antibody. Based on E protein expressed in prokaryotic cells, it might become easy to develop diagnosis kits and vaccines for DTMUV.
+Key words: Duck Tembusu virus; E gene; cloning; expression
+自2010年春季以来，中国华东地区发生了以产蛋下降和死亡为主要特征的鸭病的流行，之后该病迅速传播全国多个省市，到目前为止，全国大部分主要水禽养殖地区仍然受到该病的威胁，发病率高达100%，病死率在5%~10%之间。经过病毒分离鉴定，目前已经确定引起该病的病原为鸭坦布苏病毒（Duck Tembusu virus，DTMUV）[11] [1]。DTMUV属黄病毒科黄病毒属[2][12] ，呈球型，直径30~50 nm，核心含单股RNA，有衣壳。从序列上分析，该病毒可能与其他黄病毒属的病毒一样，具有3个结构蛋白，即E蛋白、核蛋白和白蛋白为糖蛋白。其中，E蛋白是诱发动物机体产生抗日本乙脑病毒中和抗体的重要抗原[3]，黄病毒属中多数病毒的E蛋白与机体宿主的免疫应答作用密切相关，能刺激机体产生中和抗体和血凝抑制抗体[4-5]，诱导机体产生持久T记忆细胞，引起保护性免疫反应。E蛋白在病毒致病过程中也起关键性作用，该蛋白上一些关键的氨基酸的替代即可引起神经毒力和侵袭力的丧失[3]。此外，E基因还与病毒吸附、侵入宿主细胞有关。本研究首次表达和纯化了具有生物学活性的DTMUV E蛋白，为DTMUV早期诊断试剂盒、疫苗与E蛋白结构功能研究奠定了基础。
+1 材料和方法[13]
+1.1 质粒、菌种及试剂 pET32a(+)表达载体和JM109、BL21(DE3)宿主菌为本试验室保存；限制性内切酶、和T4 DNA连接酶购自NEB公司；pMD19-T、Ex Taq [14] DNA聚合酶、M-MLV逆转录酶购自宝生物工程（大连）有限公司；鼠源多克隆抗体由本实验室制备；HRP标记羊抗鼠IgG购自KPL公司。
+1.2 引物设计 根据DTMUV奉贤株（FX2010）E基因序列（GenBank登录号：HQ833330.1），利用Primer Premier5.0软件设计1对E基因的特异性引物，预扩增片段长约1500 bp。上游引物DTMUV/F：5'-CACACGAATTCCGAGACTTTGTTGAGGGAGTGAAT-3'；下游引物DTMUV/R：5'-CACACCTCGAGGACATGGATATGGGAACTCTACA-3'。引物均由上海英骏生物技术有限公司合成。
+1.3 DTMUV E基因片段的PCR扩增 以提取的DTMUV奉贤株RNA为模板，反转录合成cDNA，以cDNA为模板进行PCR。操作方法和反应条件如下：RNA模板5 μL[15] 、Random引物2 μL，70℃[16] 保温10 min，迅速冰浴2 min，然后分别加入5×M-MLV buffer 4 μL、RRI 1 μL、M-MLV 1 μL、10 mmol/L dNTP 1 μL、DEPC水6 μL，共20 μL，混匀后30℃保温10 min，42℃水浴1 min，75℃10 min；将得到的产物进行PCR扩增。反应条件：94℃预变性5 min；94℃变性50 s，53℃退火1 min；72℃延伸90 s，30个循环；72℃再延伸15 min。10 g/L琼脂糖凝胶电泳分析扩增产物，回收目的片段。
+1.4 目的基因的克隆与鉴定 将回收的PCR产物克隆至pMD19-T载体上，连接反应体系为：pMD19-T 1 μL、目的DNA片段4 μL和Solution I 5 μL；16℃连接2 h后，转化大肠杆菌JM109感受态细胞，涂布于含IPTG和X-gal的氨苄平板上，37℃恒温培养12~16 h，挑取单个白色菌落接种于含氨苄的液体培养基中，37℃、220 r/min振荡培养，提取质粒DNA，经EcoRⅠ和XhoⅠ双酶切鉴定后，将阳性克隆送至上海英俊公司测序。
+1.5 重组原核表达载体的构建与鉴定 将测序正确的pMD19T-E阳性质粒和原核表达载体pET32a(+)分别用EcoRⅠ和XhoⅠ双酶切，分别回收酶切后目的片段与线性化后的pET-32a(+)，加入T4-DNA连接酶于16℃连接过夜，并将连接产物转化E.coli BL21感受态细胞；挑取单菌落进行PCR、酶切鉴定。
+2 结果
+2.1重组表达载体的构建 将测序正确的片段与表达载pET32a(+)连接，并转化至大肠杆菌BL21(DE3)，挑单菌落培养后，用XhoⅠ和EcoRⅠ双酶切鉴定，可见2条大小分别为5900 bp和1500 bp左右的片段，与预期结果一致（图1），将该重组质粒命名为pET32a-E。
+15000
+10000
+[17]
+1000
+250
+图1 pET32a-E的酶切鉴定
+Fig.1 Identification of the recombinant plasmid pET32a-E by restriction enzymes digestion
+M: DNA分子量标准(DL2000); 1: pET32a-E双酶切产物
+M: DL2000 DNA marker; 1: Products of pET32a-E by restriction enzymes digestion[18]
+表格示例（均为三线表格）
+表1 RIG-I-sgRNA寡核苷酸序列
+Table1 The oligo sequences of RIG-I-sgRNA
+向导RNA
+寡核苷酸序列(5'→3')
+sgRNA
+Oligonucleotide sequence(5'→3')
+RIG-I-sgRNA1
+F: CCGGGATCGGTCAGATACGGAACCG
+R: AAACCGGTTCCGTATCTGACCGATC
+RIG-I-sgRNA2
+F: CCGGGTCCGATGTAATAGACATTA
+R: AAACTAATGTCTATTACATCGGAC
+特殊图示例（标尺朝内，横纵坐标轴标题、数字、图例字体格式均为宋体/新罗马，小5）：
+3 讨论
+鸭坦布苏病毒（DTMUV）与西尼罗病毒（West Nile virus, WNV）、登革病毒（Dengue virus, DV）同属黄病科黄病毒属成员，推测其E蛋白与其他黄病毒E蛋白有着相似的结构和功能。Kolaskar等[7-9][19] 的研究表明，E蛋白含有3个抗原域：域Ⅰ，也称为中心域，由E1位～E51位、E137位～E196位和E293位～E311位的130个氨基酸残基组成，此域有糖基化位点和具有血清学及生物学活性的抗原表位；域Ⅱ，由E52位～E136位和E197位～E292位的181个氨基酸残基组成，具有中和活性和血凝活性的抗原表位；域Ⅲ，由E312位～E411位的100个氨基酸残基组成，参与受体结合过程，在黄病毒属中十分保守[10]。决定毒力的基因片段主要集中在E蛋白编码区，E蛋白是病毒表面棘突的主要成分，可激发中和抗体和保护性免疫，一般认为他是病毒受体的结合蛋白，并介导膜融合和细胞穿入。
+本研究利用PCR技术扩增出了DTMUV完整E蛋白基因片段[11]，含有形成高级结构所需的所有元件。为了分析原核表达的E蛋白的生物学特性，建立安全、简便和经济的制备DTMUV诊断抗原的方法，构建了DTMUV-E表达载体，并在大肠杆菌中表达。由于大肠杆菌表达菌株BL21(DE3)pLysS的转化效率相对较低，所以按pET系列载体克隆操作说明的方法，先将目的基因和载体的连接产物克隆至大肠杆菌JM109中，筛选出重组质粒后，再将重组质粒转化表达菌株BL21（DE3），最后成功地在大肠杆菌中表达了E蛋白。
+DTMUV的E蛋白在病毒与敏感细胞结合过程中起着重要的作用，DTMUV敏感细胞表面有病毒的相应受体，但其结构和功能尚未明确。本研究用原核表达系统表达E蛋白，在尝试多种不同表达载体与宿主菌之后，成功的构建了E蛋白的原核表达载体。对原核表达产物的可溶性分析结果表明，表达的E蛋白主要以包涵体的形式存在于菌体裂解后的沉淀中。本研究中E蛋白表达量始终偏低，诱导表达过程中，相同条件下，转入空质粒载体细菌的生长速度，明显高于转入E基因重组质粒载体细菌的生长速度，这可能是E蛋白对细菌细胞有一定毒性有关，今后仍需要优化诱导条件和插入片段的长度等，来提高E蛋白表达量。
+本研究用原核表达系统，在国内外首次成功表达了具有良好反应活性的DTMUV E蛋白，为DTMUV的诊断、抗原性分析及功能研究提供了基础。
+参考文献[110] [111]
+Yan P, Zhao Y, Zhang X[112] , et al. An infectious disease of ducks caused by a newly emerged Tembusu virus strain in mainland China[J]. Virology, 2011, 417(1): 1-8.
+Li Y, Ye J, Cao S, et al. Immunization with pseudotype baculovirus expressing envelope protein of Japanese encephalitis virus elicits protective immunity in mice[J]. J Gene Med,[113] 2009, 11(2):150-159.
+Li P, Zheng Q S[114], Wang Q, et al. Immune responses of recombinant adenoviruses expressing immunodominant epitopes against Japanese encephalitis virus[J]. Vaccine, 2008, 26(46): 5802-5807.
+< >. 基因工程重组乙型脑炎病毒E蛋白作为候选疫苗和诊断抗原的实验研究[D]. 西安: [115] 中国人民解放军第四军医大学, 2003.
+Modis Y, Ogata S, Clements D, et al. Variable surface epitopes in the crystal structure of dengue virus type 3 envelope glycoprotein[J]. J Virol, 2005, 79(2):[116] 1223-1231.
+Nybakken G E, Nelson C A, Chen B R, et al. Crystal structure of the West Nile virus envelope glycoprotein[J]. J Virol, 2006, 80(23): 11467-11474.
+Stiasny K, Kössl C, Lepault J, et al. Characterization of a Structural Intermediate of Flavivirus Membrane Fusion[J]. PLoS Pathog, 2007, 3(2): e20
+J. 萨姆布鲁克, E. F. 弗里奇, T. 曼尼阿蒂斯. 分子克隆实验指南[M]. 2版. [117] 北京: 科学出版社, 1989: 49-56, 845-848, 876-887.
+< >, 付士红, 王环宇, 等. 辽宁省乙脑病毒的分离与鉴定[J]. 中华实验和临床病毒学杂志, 2006, 20(1): 61-65.
+Verma S K, Gupta N, Pattnaik P, et al. Antibodies against refolded recombinant envelope protein (domain Ⅲ) of Japanese encephalitis virus inhibit the JEV infection to porcine stable kidney cells[J]. Protein Pept Lett, 2009, 16(11): 1334-1341.
+< >, 崔保安, 陈红英, 等. 复合RT-PCR检测猪乙脑病毒和猪流感病毒方法的建立[J]. 华南农业大学学报, 2008, 29(4): 79-82.
+Verma S K, Kumar S, Gupta N, et al. Bacterially expressed recombinant envelope protein domain Ⅳ of Japanese encephalitis virus (rJEV-DⅢ) elicits Th1 type of immune response in BALB/c mice[J]. Vaccine, 2009, 27(49): 6905 -6909.
+Nabeshima T, Loan H T, Inoue S, et al. Evidence of frequent introductions of Japanese encephalitis virus from South-East Asia and continental east Asia to Japan[J]. J Gen Virol, 2009, 90(Pt4): 827-832.
+正文中首次出现的英文简称一定要有英文全称。
+注意参考文献标记方法！
+二级标题中不用再单独列出材料和方法
+要斜体
+数字与单位间空一格
+数字与度数间不空格。
+注意bp的标记格式。
+图注中的标点符号为半角，且后空一格。
+注意参考文献的标记方法。
+标点符号为半角，且半角后空一格。
+引用1-2篇我们学报已发表的文章。
+中英文参考文献中，作者名一律不超过三个。
+英文杂志名要简写。
+注意简称间要空格。
+地点不能落掉，具体到城市。
+中英文参考文献中卷期一定要全，中文文献可以查阅维普数据库、英文文献可以查阅NCBI PubMed。
+注意版的标记方法。

@@ -1,0 +1,267 @@
+期刊: Journal of Automation and Intelligence
+来源: https://www.keaipublishing.com/en/journals/journal-of-automation-and-intelligence/guide-for-authors/
+标题: Guide for Authors
+
+Guide for Authors
+Introduction
+Types of Contributions
+Submission checklist
+Before you begin
+Ethics in publishing
+Declaration of competing interest
+Authorship
+Changes to authorship
+Submission declaration and verification
+Use of inclusive language
+Preprints
+Author contributions
+Changes to authorship
+Copyright
+Responsible sharing
+Role of the funding source
+Declaration of generative AI in scientific writing
+Open Access
+Elsevier Researcher Academy
+Submission
+Peer review
+Preparation
+Editorial Policies
+Use of word processing software
+LaTeX
+Essential title page information
+Abstract
+Keywords
+Abbreviations
+Acknowledgements
+Formatting of funding sources
+Math formulae
+Footnotes
+References
+Citation in text
+Reference links
+Web references
+Data references
+Reference to arXiv
+Reference management software
+Reference formatting
+Supplementary material
+Research data
+Data linking
+Mendeley data
+Data statement
+After acceptance
+Online proof correction
+Post-publication amendments
+Author inquiries
+Author Inquiries
+Introduction
+Types of Contributions
+Full-length/ Research Article (Page limit: 12-20)
+A complete report on original research, development, or application of control and machine learning methods.
+All the authors need to provide their biographies and personal photos. Submitted manuscripts should be nominally around 12 pages in Elsevier's double-column format, but no more than 20 pages (including bios and photos).
+Review Article
+A substantial overview of research topics that are of current interest to JAI audiences. All the authors need to provide their biographies and personal photos.
+Short Communication/ Technical Note (Page limit: 7-9)
+Short report or announcement of research, usually claiming certain results, which present original and significant material for rapid dissemination. Short Communications are expected to have a higher than average impact on the field rather than report on incremental research.
+Editorial
+Generally from the (guest) editor of the publication. Can be Foreword, Editorial, Guest Editorial, Preface, etc.
+All the authors need to provide their biographies and personal photos.
+Conference Report
+Summary of a relevant symposium, workshop, etc. Or, information about a conference (can be a description of the venture, but also a visit report of a scientist who has attended a conference).
+Submission checklist
+You can use this list to carry out a final check of your submission before you send it to the journal for review. Please check the relevant section in this Guide for Authors for more details.
+Ensure that the following items are present:
+One author has been designated as the corresponding author with contact details:
+E-mail address
+Full postal address
+All necessary files have been uploaded:
+Manuscript
+Include keywords
+All figures (include relevant captions)
+All tables (including titles, description, footnotes)
+Ensure all figure and table citations in the text match the files provided; Indicate clearly if color should be used for any figures in print
+Graphical Abstracts / Highlights files (where applicable)
+Supplemental files (where applicable)
+Further considerations:
+Manuscript has been 'spell checked' and 'grammar checked'
+All references mentioned in the Reference List are cited in the text, and vice versa
+Permission has been obtained for use of copyrighted material from other sources (including the Internet)
+A competing interests statement is provided, even if the authors have no competing interests to declare
+Journal policies detailed in this guide have been reviewed
+For further information, visit our Support Center.
+Before you begin
+Ethics in publishing
+Please see our information pages on Ethics in publishing and Ethical guidelines for journal publication.
+Submissions to KeAi journals are automatically screened using iThenticate's CrossCheck within the editorial system to detect instances of overlapping and similar text in submitted manuscripts. Details can be found here.
+When a plagiarism complaint is raised, we recommend following the actions here. High similarity papers will be desk rejected.
+Declaration of competing interest
+All authors must disclose any financial and personal relationships with other people or organizations that could inappropriately influence (bias) their work. Examples of potential conflicts of interest include employment, consultancies, stock ownership, honoraria, paid expert testimony, patent applications/registrations, and grants or other funding. Authors should complete the declaration of competing interest statement using this template and upload to the submission system at the Attach/Upload Files step. Note: Please do not convert the .docx template to another file type. Author signatures are not required. If there are no interests to declare, please choose the first option in the template. More information
+Authorship
+All authors should have made substantial contributions to all of the following:
+(1) The conception and design of the study, or acquisition of data, or analysis and interpretation of data
+(2) Drafting the article or revising it critically for important intellectual content.
+(3) Final approval of the version to be submitted.
+All authors should agree to be accountable for all aspects of the work to ensure that the questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
+Changes to authorship
+The editors of this journal generally will not consider changes to authorship once a manuscript has been submitted. It is important that authors carefully consider the authorship list and order of authors and provide a definitive author list at original submission.
+The policy of this journal around authorship changes:
+All authors must be listed in the manuscript and their details entered into the submission system.
+Any addition, deletion or rearrangement of author names in the authorship list should only be made prior to acceptance, and only if approved by the journal editor.
+Requests to change authorship should be made by the corresponding author, who must provide the reason for the request to the journal editor with written confirmation from all authors, including any authors being added or removed, that they agree with the addition, removal or rearrangement.
+All requests to change authorship must be submitted using this form. Requests which do not comply with the instructions outlined in the form will not be considered.
+Only in exceptional circumstances will the journal editor consider the addition, deletion or rearrangement of authors post acceptance.
+Publication of the manuscript may be paused while a change in authorship request is being considered.
+Any authorship change requests approved by the journal editor will result in a corrigendum if the manuscript has already been published.
+Any unauthorised authorship changes may result in the rejection of the article, or retraction, if the article has already been published.
+Submission declaration and verification
+Submission of an article implies that the work described has not been published previously (except in the form of an abstract or as part of a published lecture or academic thesis or as an electronic preprint, see ‘Multiple, redundant or concurrent publication’ section of our ethics policy for more information), that it is not under consideration for publication elsewhere, that its publication is approved by all authors and tacitly or explicitly by the responsible authorities where the work was carried out, and that, if accepted, it will not be published elsewhere in the same form, in English or in any other language, including electronically without the written consent of the copyright-holder. To verify originality, your article may be checked by the originality detection service CrossCheck.
+Use of inclusive language
+Inclusive language acknowledges diversity, conveys respect to all people, is sensitive to differences, and promotes equal opportunities. Content should make no assumptions about the beliefs or commitments of any reader; contain nothing which might imply that one individual is superior to another on the grounds of age, gender, race, ethnicity, culture, sexual orientation, disability or health condition; and use inclusive language throughout. Authors should ensure that writing is free from bias, stereotypes, slang, reference to dominant culture and/or cultural assumptions. We advise to seek gender neutrality by using plural nouns (“clinicians, patients/clients”) as default/wherever possible to avoid using “he, she,” or “he/she.” We recommend avoiding the use of descriptors that refer to personal attributes such as age, gender, race, ethnicity, culture, sexual orientation, disability or health condition unless they are relevant and valid. These guidelines are meant as a point of reference to help identify appropriate language but are by no means exhaustive or definitive.
+Please prepare your manuscript in English (American or British usage is accepted, but not a mixture of these). Authors who feel their manuscript may require editing to eliminate possible grammatical or spelling errors and to conform to correct scientific English may wish to use the English Language Editing service available from Elsevier's WebShop.
+Preprints
+Please note that preprints can be shared anywhere at any time, in line with Elsevier's sharing policy. Sharing your preprints e.g. on a preprint server will not count as prior publication (see 'Multiple, redundant or concurrent publication' for more information).
+Author contributions
+For transparency, we encourage corresponding authors to provide co-author contributions to the manuscript using the relevant CRediT roles. The CRediT taxonomy includes 14 different roles describing each contributor’s specific contribution to the scholarly output. The roles are: Conceptualization; Data curation; Formal analysis; Funding acquisition; Investigation; Methodology; Project administration; Resources; Software; Supervision; Validation; Visualization; Roles/Writing - original draft; and Writing - review & editing. Note that not all roles may apply to every manuscript, and authors may have contributed through multiple roles. More details and an example.
+Changes to authorship
+This policy concerns the addition, deletion, or rearrangement of author names in the authorship of accepted manuscripts:
+Before the accepted manuscript is published in an online issue: Requests to add or remove an author, or to rearrange the author names, must be sent to the Journal Manager from the corresponding author of the accepted manuscript and must include: (a) the reason the name should be added or removed, or the author names rearranged and (b) written confirmation (e-mail, fax, letter) from all authors that they agree with the addition, removal or rearrangement. In the case of addition or removal of authors, this includes confirmation from the author being added or removed. Requests that are not sent by the corresponding author will be forwarded by the Journal Manager to the corresponding author, who must follow the procedure as described above. Note that: (1) Journal Managers will inform the Journal Editors of any such requests and (2) publication of the accepted manuscript in an online issue is suspended until authorship has been agreed.
+After the accepted manuscript is published in an online issue: Any requests to add, delete, or rearrange author names in an article published in an online issue will follow the same policies as noted above and result in a corrigendum.
+Copyright
+This journal is a peer-reviewed, fully open access journal owned by Chongqing University, who retains copyright of the overall compiled journal and the compiled issues. For the single article, Authors will retain copyright alongside scholarly usage rights, and KeAi Communications Co., Ltd. and Chongqing University will be granted non-exclusive publishing and distribution rights.
+Responsible sharing
+Find out how you can share your research published in Elsevier journals.
+Role of the funding source
+You are requested to identify who provided financial support for the conduct of the research and/or preparation of the article and to briefly describe the role of the sponsor(s), if any, in study design; in the collection, analysis and interpretation of data; in the writing of the report; and in the decision to submit the article for publication. If the funding source(s) had no such involvement then this should be stated. Please see https://www.elsevier.com/open-access/agreements.
+Declaration of generative AI in scientific writing
+Authors is encouraged to declare the use of generative AI in scientific writing upon submission of the paper. The following guidance refers only to the writing process, and not to the use of AI tools to analyse and draw insights from data as part of the research process:
+Generative AI and AI-assisted technologies should only be used in the writing process to improve the readability and language of the manuscript.
+The technology must be applied with human oversight and control and authors should carefully review and edit the result, as AI can generate authoritative-sounding output that can be incorrect, incomplete or biased. Authors are ultimately responsible and accountable for the contents of the work.
+Authors must not list or cite AI and AI-assisted technologies as an author or co-author on the manuscript since authorship implies responsibilities and tasks that can only be attributed to and performed by humans.
+The use of generative AI and AI-assisted technologies in scientific writing can be declared by adding a statement at the end of the manuscript when the paper is first submitted. The statement will appear in the published work and should be placed in a new section before the references list. An example:
+Title of new section: Declaration of generative AI and AI-assisted technologies in the writing process.
+Statement: During the preparation of this work the author(s) used [NAME TOOL / SERVICE] in order to [REASON]. After using this tool/service, the author(s) reviewed and edited the content as needed and take(s) full responsibility for the content of the published article.
+The declaration does not apply to the use of basic tools, such as tools used to check grammar, spelling and references. If you have nothing to disclose, you do not need to add a statement.
+We advise you to read our policy for authors on the use of generative AI and AI-assisted technologies for Elsevier.
+Please note: to protect authors’ rights and the confidentiality of their research, this journal does not currently allow the use of Generative AI or AI-assisted technologies such as ChatGPT or similar services by reviewers or editors in the peer review and manuscript evaluation process. We are actively evaluating compliant AI tools and may revise this policy in the future.
+Open Access
+This journal is a peer reviewed, fully open access journal owned by Chongqing University. Chongqing University retains copyright of the overall compiled journal and the compiled issues. The article is universally and freely accessible via the internet in perpetuity, in an easily readable format immediately after publication.
+To provide open access, this journal has an open access fee (also known as an Article Processing Charge, APC) which needs to be paid by the authors or on their behalf e.g. by their research funder or institution. The open access publication fee for this journal is USD 1000, plus taxes. All APCs for articles submitted to the journal before the 31st-December-2026 will be fully waived.
+Peer review under the responsibility of Chongqing University.
+A CC user license manages the reuse of the article. All articles will be published under the following license:
+Creative Commons Attribution (CC BY):
+Allows users to copy, to create extracts, abstracts and new works from the Article, to alter and revise the Article and to make commercial use of the Article (including reuse and/or resale of the Article by commercial entities), provided the user gives appropriate credit (with a link to the formal publication through the relevant DOI), provides a link to the license, indicates if changes were made and the licensor is not represented as endorsing the use made of the work. The full details of the license are available at https://creativecommons.org/licenses/by/4.0/.
+Creative Commons Attribution-NonCommercial-NoDerivs (CC BY-NC-ND):
+Allows users to copy and distribute the Article, provided this is not done for commercial purposes and further does not permit distribution of the Article if it is changed or edited in any way, and provided the user gives appropriate credit (with a link to the formal publication through the relevant DOI), provides a link to the license, and that the licensor is not represented as endorsing the use made of the work. The full details of the license are available at https://creativecommons.org/licenses/by-nc-nd/4.0/.
+Elsevier Researcher Academy
+Researcher Academy is a free e-learning platform designed to support early and mid-career researchers throughout their research journey. The "Learn" environment at Researcher Academy offers several interactive modules, webinars, downloadable guides and resources to guide you through the process of writing for research and going through peer review. Feel free to use these free resources to improve your submission and navigate the publication process with ease.
+Submission
+Submission to this journal proceeds totally online. Use the following guidelines to prepare your article. Via the homepage of this journal (https://www.keaipublishing.com/en/journals/journal-of-automation-and-intelligence) you will be guided stepwise through the creation and uploading of the various files. The system automatically converts source files to a single Adobe Acrobat PDF version of the article, which is used in the peer-review process. Please note that even though manuscript source files are converted to PDF at submission for the review process, these source files are needed for further processing after acceptance. All correspondence, including notification of the Editor's decision and requests for revision, takes place by e-mail and via the author's homepage, removing the need for a hard-copy paper trail. If you are unable to provide an electronic version, please contact the editorial office prior to submission:
+Email: jai@cqu.edu.cn telephone: +86-23-65112173
+ORCiD ID: Our journal supports the use of ORCiD ID. Authors are encouraged to provide ORCiD ID at submission. Authors are encouraged to provide ORCiD ID at submission.
+Peer review
+This journal follows a single anonymized review process. Your submission will initially be assessed by our editors to determine suitability for publication in this journal. If your submission is deemed suitable, it will typically be sent to a minimum of two independent expert reviewers to assess the scientific quality. The decision as to whether your article is accepted or rejected will be taken by our editors. This decision is final.
+Our editors are not involved in making decisions about papers which:
+• they have written themselves.
+• have been written by family members or colleagues.
+• relate to products or services in which they have an interest.
+Any such submissions will be subject to the journal's usual procedures and peer review will be handled independently of the editor involved and their research group.
+1. All manuscripts are reviewed by the editorial office. Any papers which fail to meet the basic standards of the journal will be desk-rejected for reasons like out of scope, ethical conflicts, high similarities, lack of originality, flaws in research design or methods, etc. The editorial office will reassign selected papers to the Editor-in-chief.
+2. The Editor-in-chief will invite multiple reviewers to review the paper or assign an editorial board member to invite reviewers to review this paper.
+3. After at least two reviewers give their reviews and comments, the Editor-in-chief (or the assigned Editor) provides feedback to the authors, based on reviewer comments and his own review comments.
+4. When the author submits the revised manuscript, the assigned editor and Editor-in-chief will collaborate to make a final decision.
+5. For submissions from the Editor-in-Chief, Associate Editors, Guest Editor(s), other journal Board members, and authors who have conflicts of interest with them, we ensure that the paper is handled confidentially by a different team member.
+6. For submissions to Special Issues; if there are conflicts of interest between the Guest Editor(s) and authors, the submissions will be handled by another Editor from the Editorial Board who will manage the peer review process and make the decision whether to accept or reject the paper after peer review.
+Preparation
+Editorial Policies
+For information on Editorial Policies for journal publication refer to https://www.keaipublishing.com/en/for-editors/editorial-policies/
+Use of word processing software
+Regardless of the file format of the original submission, at revision you must provide us with an editable file of the entire article. Keep the layout of the text as simple as possible. Most formatting codes will be removed and replaced on processing the article. The electronic text should be prepared in a way very similar to that of conventional manuscripts (see also the Guide to Publishing with Elsevier). See also the section on Electronic artwork.
+To avoid unnecessary errors you are strongly advised to use the 'spell-check' and 'grammar-check' functions of your word processor.
+LaTeX
+You are recommended to use the latest Elsevier article class to prepare your manuscript and BibTeX to generate your bibliography. Our LaTeX site has detailed submission instructions, templates and other information.
+Essential title page information
+Title. Concise and informative. Titles are often used in information-retrieval systems. Avoid abbreviations and formulae where possible.
+Author names and affiliations. Please clearly indicate the given name(s) and family name(s) of each author and check that all names are accurately spelled. You can add your name between parentheses in your own script behind the English transliteration. Present the authors' affiliation addresses (where the actual work was done) below the names. Indicate all affiliations with a lower-case superscript letter immediately after the author's name and in front of the appropriate address. Provide the full postal address of each affiliation, including the country name and, if available, the e-mail address of each author.
+Corresponding author. Clearly indicate who will handle correspondence at all stages of refereeing and publication, also post-publication. This responsibility includes answering any future queries about Methodology and Materials. Ensure that the e-mail address is given and that contact details are kept up to date by the corresponding author.
+Present/permanent address. If an author has moved since the work described in the article was done, or was visiting at the time, a 'Present address' (or 'Permanent address') may be indicated as a footnote to that author's name. The address at which the author actually did the work must be retained as the main, affiliation address. Superscript Arabic numerals are used for such footnotes.
+Abstract
+A concise and factual abstract is required. The abstract should state briefly the purpose of the research, the principal results and major conclusions. An abstract is often presented separately from the article, so it must be able to stand alone. For this reason, References should be avoided, but if essential, then cite the author(s) and year(s). Also, non-standard or uncommon abbreviations should be avoided, but if essential they must be defined at their first mention in the abstract itself.
+Keywords
+Immediately after the abstract, provide a maximum of 6 keywords, avoiding general and plural terms and multiple concepts (avoid, for example, 'and', 'of'). Be sparing with abbreviations: only abbreviations firmly established in the field may be eligible. These keywords will be used for indexing purposes.
+Abbreviations
+Define abbreviations that are unavoidable in this field must be defined at their first mention, ensure consistency of abbreviations throughout the article.
+Acknowledgements
+Collate acknowledgements in a separate section at the end of the article before the references and do not, therefore, include them on the title page, as a footnote to the title or otherwise. List here those individuals who provided help during the research (e.g., providing language help, writing assistance or proof reading the article, etc.).
+Formatting of funding sources
+List funding sources in this standard way to facilitate compliance to funder's requirements:
+Funding: This work was supported by the National Institutes of Health [grant numbers xxxx, yyyy]; the Bill & Melinda Gates Foundation, Seattle, WA [grant number zzzz]; and the United States Institutes of Peace [grant number aaaa].
+It is not necessary to include detailed descriptions on the program or type of grants and awards. When funding is from a block grant or other resources available to a university, college, or other research institution, submit the name of the institute or organization that provided the funding.
+If no funding has been provided for the research, it is recommended to include the following sentence:
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
+Math formulae
+Please submit math equations as editable text and not as images. Present simple formulae in line with normal text where possible and use the solidus (/) instead of a horizontal line for small fractional terms, e.g., X/Y. In principle, variables are to be presented in italics. Powers of e are often more conveniently denoted by exp. Number consecutively any equations that have to be displayed separately from the text (if referred to explicitly in the text).
+Footnotes
+Footnotes should be used sparingly. Number them consecutively throughout the article. Many word processors can build footnotes into the text, and this feature may be used. Otherwise, please indicate the position of footnotes in the text and list the footnotes themselves separately at the end of the article. Do not include footnotes in the Reference list.
+References
+This section describes the references for this journal.
+Citation in text
+Please ensure that every reference cited in the text is also present in the reference list (and vice versa). Any references cited in the abstract must be given in full. Unpublished results and personal communications are not recommended in the reference list, but may be mentioned in the text. If these references are included in the reference list they should follow the standard reference style of the journal and should include a substitution of the publication date with either 'Unpublished results' or 'Personal communication'. Citation of a reference as 'in press' implies that the item has been accepted for publication.
+Reference links
+Increased discoverability of research and high quality peer review are ensured by online links to the sources cited. In order to allow us to create links to abstracting and indexing services, such as Scopus, Crossref and PubMed, please ensure that data provided in the references are correct. Please note that incorrect surnames, journal/book titles, publication year and pagination may prevent link creation. When copying references, please be careful as they may already contain errors. Use of the DOI is highly encouraged.
+A DOI is guaranteed never to change, so you can use it as a permanent link to any electronic article. An example of a citation using DOI for an article not yet in an issue is: VanDecar J.C., Russo R.M., James D.E., Ambeh W.B., Franke M. (2003). Aseismic continuation of the Lesser Antilles slab beneath northeastern Venezuela. Journal of Geophysical Research, https://doi.org/10.1029/2001JB000884. Please note the format of such citations should be in the same style as all other references in the paper.
+Web references
+As a minimum, the full URL should be given and the date when the reference was last accessed. Any further information, if known (DOI, author names, dates, reference to a source publication, etc.), should also be given. Web references can be listed separately (e.g., after the reference list) under a different heading if desired, or can be included in the reference list.
+Data references
+This journal encourages you to cite underlying or relevant datasets in your manuscript by citing them in your text and including a data reference in your Reference List. Data references should include the following elements: author name(s), dataset title, data repository, version (where available), year, and global persistent identifier. Add [dataset] immediately before the reference so we can properly identify it as a data reference. The [dataset] identifier will not appear in your published article.
+Reference to arXiv
+As with unpublished results and personal communications, references to arXiv documents are not recommended in the reference list. Please make every effort to obtain the full reference of the published version of an arXiv document. If a reference to an arXiv document must be included in the references list it should follow the standard reference style of the journal and should include a substitution of the volume and page numbers with 'arXiv:YYMM.NNNN' or 'arXiv:arch-ive/YYMMNNN' for articles submitted to arXiv before April 2007.
+Reference management software
+Most Elsevier journals have their reference template available in many of the most popular reference management software products. These include all products that support Citation Style Language styles, such as Mendeley. Using citation plug-ins from these products, authors only need to select the appropriate journal template when preparing their article, after which citations and bibliographies will be automatically formatted in the journal's style. If no template is yet available for this journal, please follow the format of the sample references and citations as shown in this Guide. If you use reference management software, please ensure that you remove all field codes before submitting the electronic manuscript. More information on how to remove field codes from different reference management software.
+Reference formatting
+Indicate references by number(s) in square brackets in line with the text. The actual authors can be referred to, but the reference number(s) must always be given.
+Example: '..... as demonstrated [3,6]. Barnaby and Jones [8] obtained a different result ....'
+Examples:
+Reference to a journal publication:
+[1] J. van der Geer, J.A.J. Hanraads, R.A. Lupton, The art of writing a scientific article, J. Sci. Commun. 163 (2000) 51-59.
+Reference to a book:
+[2] W. Strunk Jr., E.B. White, The Elements of Style, third ed., Macmillan, New York, 1979.
+Reference to a chapter in an edited book:
+[3] G.R. Mettam, L.B. Adams, How to prepare an electronic version of your article, in: B.S. Jones, R.Z. Smith (Eds.), Introduction to the Electronic Age, E-Publishing Inc., New York, 1999, pp. 281-304.
+Journal abbreviations source
+Journal names should be abbreviated according to the List of Title Word Abbreviations.
+Supplementary material
+Supplementary material such as applications, images and sound clips, can be published with your article to enhance it. Submitted supplementary items are published exactly as they are received (Excel or PowerPoint files will appear as such online). Please submit your material together with the article and supply a concise, descriptive caption for each supplementary file. If you wish to make changes to supplementary material during any stage of the process, please make sure to provide an updated file. Do not annotate any corrections on a previous version. Please switch off the 'Track Changes' option in Microsoft Office files as these will appear in the published version.
+Research data
+This journal encourages you to share data that supports your research publication where appropriate, and enables you to interlink the data with your published articles. Research data refers to the results of observations or experimentation that validate research findings. To facilitate reproducibility and data reuse, this journal also encourages you to share your software, code, models, algorithms, protocols, methods and other useful materials related to the project.
+Below are a number of ways in which you can associate data with your article or make a statement about the availability of your data when submitting your manuscript. If you are sharing data in one of these ways, you are encouraged to cite the data in your manuscript and reference list. Please refer to the "References" section for more information about data citation. For more information on depositing, sharing and using research data and other relevant research materials, visit the research data page.
+Data linking
+If you have made your research data available in a data repository, you can link your article directly to the dataset. Elsevier collaborates with a number of repositories to link articles on ScienceDirect with relevant repositories, giving readers access to underlying data that gives them a better understanding of the research described.
+There are different ways to link your datasets to your article. When available, you can directly link your dataset to your article by providing the relevant information in the submission system. For more information, visit the database linking page.
+For supported data repositories a repository banner will automatically appear next to your published article on ScienceDirect.
+In addition, you can link to relevant data or entities through identifiers within the text of your manuscript, using the following format: Database: xxxx (e.g., TAIR: AT1G01020; CCDC: 734053; PDB: 1XFN).
+Mendeley data
+This journal supports Mendeley Data, enabling you to deposit any research data (including raw and processed data, video, code, software, algorithms, protocols, and methods) associated with your manuscript in a free-to-use, open access repository. Before submitting your article, you can deposit the relevant datasets to Mendeley Data. Please include the DOI of the deposited dataset(s) in your main manuscript file. The datasets will be listed and directly accessible to readers next to your published article online.
+For more information, visit the Mendeley Data for journals page.
+Data statement
+To foster transparency, we encourage you to state the availability of your data in your submission. This may be a requirement of your funding body or institution. If your data is unavailable to access or unsuitable to post, you will have the opportunity to indicate why during the submission process, for example by stating that the research data is confidential. The statement will appear with your published article on ScienceDirect. For more information, visit the Data Statement page.
+After acceptance
+Online proof correction
+Corresponding authors will receive an e-mail with a link to our online proofing system, allowing annotation and correction of proofs online. The environment is similar to MS Word: in addition to editing text, you can also comment on figures/tables and answer questions from the Copy Editor. Web-based proofing provides a faster and less error-prone process by allowing you to directly type your corrections, eliminating the potential introduction of errors.
+If preferred, you can still choose to annotate and upload your edits on the PDF version. All instructions for proofing will be given in the e-mail we send to authors, including alternative methods to the online version and PDF.
+We will do everything possible to get your article published quickly and accurately. Please use this proof only for checking the typesetting, editing, completeness and correctness of the text, tables and figures. Significant changes to the article as accepted for publication will only be considered at this stage with permission from the Editor. It is important to ensure that all corrections are sent back to us in one communication. Please check carefully before replying, as inclusion of any subsequent corrections cannot be guaranteed. Proofreading is solely your responsibility.
+Post-publication amendments
+Errata and Corrigenda
+We will publish a correction of your article if a significant error is discovered after publication. An Erratum will be published if we introduced the error; a Corrigendum if the author introduced the error.
+Retractions
+Articles may be withdrawn, retracted, removed or replaced after publication if they contain substantial errors that cannot be corrected by publishing an Erratum or a Corrigendum, or if ethical violations come to light after publication.
+Author inquiries
+Author Inquiries
+Visit the Elsevier Support Center to find the answers you need. Here you will find everything from Frequently Asked Questions to ways to get in touch.
+You can also check the status of your submitted article or find out when your accepted article will be published.
+Stay Informed
+Register your interest and receive email alerts tailored to your needs. Sign up below.
+First name *
+Surname *
+Email address *
+Subject area *
+KeAi may contact you to share the latest updates about products, services, promotions, and events. If you do not wish to receive such messages, please check this box.

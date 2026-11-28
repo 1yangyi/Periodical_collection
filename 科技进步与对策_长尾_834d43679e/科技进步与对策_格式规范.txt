@@ -1,0 +1,116 @@
+期刊: 科技进步与对策
+来源: https://www.kjjb.org/CN/column/column8.shtml
+标题: 格式规范
+
+模态框（Modal）标题
+在这里添加一些文本
+模态框（Modal）标题
+首页
+期刊信息
+杂志简介
+编委会
+青年学术委员会
+作者中心
+常设栏目
+重点选题
+投稿须知
+格式规范
+审稿流程
+AIGC声明
+版权许可
+下载中心
+读者中心
+开放获取（OA）
+Email Alert服务
+学术论坛
+科技进步论坛
+青年学者论坛
+专题研习论坛
+学术服务
+实证研究初级
+实证研究中级
+实证研究高级
+期刊订阅
+彩封作品
+联系方式
+创刊40周年
+English
+期刊首页  格式规范
+格式规范
+基金项目：基金项目名称（项目编号）（备注：研究项目名称，如国家自然科学基金重点项目，非研究课题名称；多个基金项目，按级别排列，用分号隔开）
+作者简介：姓名（出生年—），性别，籍贯（具体到省市（或县），如湖北武汉人），已获学位（硕士、博士），单位及职务职称（在读研究生写博士研究生\硕士研究生），研究方向为 。（说明：文章署名所有作者均按此格式介绍，作者单位与题目下作者单位标注一致；默认不标注通讯作者，如确需标注，请按“通讯作者： ”格式标注）
+《科技进步与对策》文章样张及规范说明
+王￡￡1 ，李 ￡1，2，张￡￡1
+(1. 单位 部门，省份 地市 邮政编码；2. 单位 部门，省份 地市 邮政编码)
+摘 要：摘要需概括全文主要内容，体现文章重点与创新之处。内容包括但不限于：简要概述研究目的或研究背景；所采用数据；研究过程及研究方法；研究结论，突出创新价值。表述要求言简意赅、逻辑性强。一般采用第三人称写法，不用本文、作者、文章等表述。
+关键词：关键词1；关键词2；关键词3
+（一般3~5个；分号分开；关键词需能反映文章研究核心内容，用词规范）
+DOI：10.6049/kjjbydc.    开放科学（资源服务）标识码（OSID）：
+中图分类号：   文献标识码:   文章编号：
+0引言
+引言是一篇论文的开场白，属于整篇文章的引论部分。引言作用是向读者交代研究来龙去脉，为正文做铺垫，引出正文。引言部分一般可简要说明研究工作的目的、范围、相关领域的前人工作和知识空白、理论基础和分析、研究设想、研究方法和实验设计、预期结果和意义等[1]。论述本文的研究意义时，用语客观、恰当。引言内容一般不应与摘要和结论雷同，不插图、表[2-3]。
+1题目、作者和单位
+题目是以恰当、简明的词语反映论文中最重要的特定内容的逻辑组合，应准确、得体、精炼、合乎逻辑，一般不超过20个字，一般避免使用不常见的缩略词。英文标题中实词首字母大写，虚词小写。
+作者一般不超过5人，署名及署名排序应协商一致。姓名的英译采用汉语拼音，姓前名后，姓首写字母大写，名第一个字首写字母大写。如：Zhang Moumou。作者应对署名及署名顺序无异议。
+单位应为论文投稿时的作者所在单位，单位的著录一般应到学院或部门一级，单位应著录全称，单位名称的英译应统一正确。
+2摘要和关键词
+摘要需概括全文主要内容，体现文章重点与创新之处。内容包括但不限于：简要概述研究目的或研究背景；所采用数据；研究过程及研究方法；研究结论，突出创新价值。表述要求言简意赅、逻辑性强。采用第三人称写法，不用本文、作者、文章等。
+3图表公式
+3.1 图处理
+编辑部在排版过程中，需导入文档中的图至专业排版系统，并按照编排出版规范调整字体字号等，故对图的格式等有一定要求。自绘图请用visio作成矢量图，直接复制粘贴到文档，不截图；各种研究工具软件输出的图，请输出为emf、eps、ps或wmf格式。如无法输出上述格式，请在所用的工具软件上调整字体字号（中文字体：宋体；英文、数字字体：Times New Roman；字号7.2pt；分辨率600d以上）后输出为TIF格式（大多研究工具软件均可输出此格式）；Excel图表要带数据源，不截图。
+杂志黑白印刷，图片中的图例勿用颜色区分，可用其他形式区分。图中坐标需标明名称和单位。图序号从“图1”开始全文标号；图名至于图下方，并作中英文对照翻译。
+图1 概念模型
+Fig.1 Conceptual model
+3.2表格处理
+表格尽可能请使用三线表，如三线表不能清楚体现对应关系亦可提供非三线表，编校中编辑部再行排版。表序号从“表1”开始全文标号；表名至于表上方，并作中英文对照翻译。表题要与正文引述一致，正文引述一般用“如表1所示”、“见表2”等，不亦笼统表述为“见下表”等。同一类数据的有效数字需保持一致。表中需作出说明的有关数据或标识在表后注明。
+表1研究变量定义
+Table 1 Definitions of the variables
+注：
+3.3公式处理
+文中公式请使用MathType公式编辑器进行编辑；变量用斜体，向量、矢量用黑斜体。公式序号以括号形式至同行右侧，全文标号。
+（1）
+4 结语
+结语需条理、准确、客观反映本研究的价值。结语区别于研究结论，结论往往是在理论和实证分析的基础上，通过严密的推理、验算、验证而得出的富有指导性、经验性的结果描述。结论根据需要可自成单独章节或放入结语章节。
+结语部分除对全文进行总结，论述研究创新价值之处外，结语部分可交代研究工作的局限，提出未来有参考价值的研究的方向、建议。
+参考文献
+按照出现的顺序以上角标的形式标注在标点符号前，编号两侧加中括号“[ ]”，序号与文后参考文献相对应。正文文字中出现文献作者名字，上角标标在作者名后。一般不用脚注形式标注，可根据需要以正文文字表述或参考文献形式标出。各类型参考文献条目的编排格式要求如下：
+（1）期刊
+作者. 论文题目[J]. 刊名，年，卷（期）：起始页码-终止页码.
+（2）专著
+作者. 书名[M]. 版本项. 出版地：出版社，出版年.
+（3）学位论文
+作者姓名.论文名称[D].城市名：学校，年.
+（4）会议文集
+作者姓名.论文名称[C]//会议录编写单位. 会议文集名称.出版地：出版单位，出版年.
+（5）报告
+报告编写单位.报告题名[R].出版地：出版单位，年.
+（6）报纸
+姓名.文章题名[N].报纸名，出版年-月-日（版次）.
+（7）网络文献
+作者姓名. 电子文献题名[EB/OL].（更新或修改日期）[引用日期].网址.
+长英文摘要
+长英文摘要：（1）内容包括但不限于本文研究目的和意义、采用方法及数据、研究结论、文章创新之处等；长摘要是一篇具有独立性和完整性的短文，非中文摘要的对照扩充翻译；（2）文字表述规范，符合英文表达习惯，语法正确，用词、用语准确；（3）篇幅不超过700单词为宜，纸质刊出时安排1p版面。
+Impact of Creative Characteristics of Technical Entrepreneurs
+on Enterprise Performance
+Wang ￡￡ 1 , Li ￡2, Zhang ￡ ￡ 1
+(1.Department Organization, City 123456, China;2. Department Organization, City 123456, China)
+Abstract: Nowadays，innovation, the most crucial driving force, and a set of scientific technology solutions, are the urgent demand for economic and social development. The national strategy of "Mass Entrepreneurship and Innovation" therefore places more emphasis on the innovation and entrepreneurship of scientific and technological personnel. However, compared with those entrepreneurial groups that have commercialized their own innovations, researchers who have not participated in any phase of commercialization fail to effectively transfer their tacit knowledge. An important reason that affects whether an individual chooses to make an entrepreneurial decision is the performance expectations of the startup business. Besides, the business performance expectations are also important feedback on the success or failure of the entrepreneurial process. The research on the influence of entrepreneurs on enterprise performance is also one of the core issues that current scholars pay attention to. Therefore, the impact of creative characteristics of technical entrepreneurs on enterprise performance will be the sticking point that this article focuses on, that is, how does the creative ability of technical entrepreneurs affect enterprise performance, and whether the influence of entrepreneurs on enterprise performance will be different for enterprises at different stages of development. The existing studies have shown that the technical characteristics of entrepreneurs have an significant influence on enterprise performance, but there is a lack of discussion on the influence mechanism of creativity level of technical entrepreneurs on the performance of entrepreneurial enterprises. Hence, the paper conducts in-depth research on this aspect based on Upper Echelons theory，which creatively incorporates the background characteristics of entrepreneurs into the research field of organizational performance impact, as well as SCP（Structure-Conduct-Performance ）theory. In addition to the background characteristics of entrepreneurs, the performance of entrepreneurial enterprises may be affected by the inherent characteristics of the enterprises' scale and other related factors.
+This paper selects Shenzhen Stock Exchange’s ChiNext listed companies as the initial sample to screen and analyze their founders and enterprise performance. Finally, 345 qualified founders of ChiNext listed companies are obtained. The hypothesis are verified by defining variables and constructing the multiple linear regression model. In order to further verify the hypothesis, the shareholding ratio is used to re-examine the founders to analyze the internal influence mechanism of technical entrepreneurs on the performance of start-ups.
+The results show that the level of creativity of technological entrepreneurs measured by the quality and numbers of patents has a significant positive correlation with enterprise performance, and the characteristics of creativity of technological entrepreneurs can positively affect the performance of firms. But for large enterprises, the excessively large size of the enterprise leads to the weakening of the influence of technological entrepreneurs on the enterprise, which also makes the entrepreneur's creativity level less significant to the enterprise performance. As for small and medium-sized ones, the level of creativity of technical entrepreneurs will also have a more significant positive impact as the scale of the enterprise expands, which to a certain extent verifies the inverted "U" relationship between the scale of the enterprise and the technological innovation activities of the company.
+This paper integrates Upper Echelons theory, SCP theory, and research results in the field of enterprise performance. It takes entrepreneurs’ creativity characteristics and entrepreneurial enterprise performance as the research objects, enriching the research on the relationship between these two aspects in a particular field. Different from previous literature, this article innovatively introduces the characteristics of creativity to the entrepreneur’s individual unique perspective to do theoretical and empirical analysis, and extends the ideas of the classic SCP theory. The empirical analysis supports the conclusion of the article and strengthens the empirical research foundation of SCP theory. The research results of the article also have instructive significance for the entrepreneurial activities of technical personnel in practice.
+Key Words: Technology Entrepreneurs; Creativity; Enterprise Performance; Enterprise Scale; Technology Entrepreneurship
+杂志官网：www.kjjb.org
+编辑部邮箱：bianwu@kjjb.org
+编辑部电话：027-87277066
+杂志公众号  微信客服
+发布日期：2024-09-29 浏览： 57673
+公众号
+订阅号
+企业微信客服
+鄂ICP备18021494号-3  鄂公网安备 42010602003780号
+Copyright © 《科技进步与对策》编辑部
+地址：武汉市洪山路2号湖北科教大厦D座6楼
+邮编：430071
+电话：(027)87277066 87713900 87277556
+E-mail：bianwu@kjjb.org
+技术支持：北京玛格泰克科技发展有限公司

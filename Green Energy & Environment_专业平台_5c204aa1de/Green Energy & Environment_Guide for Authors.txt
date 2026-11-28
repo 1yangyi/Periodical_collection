@@ -1,0 +1,295 @@
+期刊: Green Energy & Environment
+来源: https://www.keaipublishing.com/en/journals/green-energy-and-environment/guide-for-authors/
+标题: Guide for Authors
+
+Guide for Authors
+Introduction
+Types of paper
+Before you begin
+Ethics in publishing
+Conflict of interest
+Declaration of generative AI in scientific writing
+Submission declaration
+Preprint posting on SSRN
+First look
+Use of inclusive language
+Author contributions
+Changes to authorship
+Copyright
+Open access
+Language and language services
+Submission
+Additional Information
+Preparation
+Editorial Policies
+Queries
+Peer Review
+Use of word processing software
+LaTeX
+Article structure
+Subdivision - numbered sections
+Introduction
+Material and methods
+Theory/calculation
+Results
+Discussion
+Conclusions
+Appendices
+Essential title page information
+Mandatory graphical abstract
+Keywords
+Abbreviations
+Acknowledgements
+Nomenclature and units
+Math formulae
+Footnotes
+Artwork
+Electronic artwork
+Color artwork
+Figure captions
+Tables
+References
+Citation in text
+Web references
+Data references
+Preprint references
+References in a special issue
+Reference management software
+Reference style
+Journal abbreviations source
+Research Data
+Data Linking
+Mendeley Data
+Data statement
+Submission checklist
+After acceptance
+Proofs
+Author inquiries
+Author Inquiries
+Introduction
+Types of paper
+Contributions falling into the following categories will be considered for publication: Review article (> 10000 words), Short review (~ 5000 words), Feature article (> 8000 words), Research paper, Short communication (~ 3000 words), Commentary (~ 1000 words), and Viewpoint (~ 3000 words). Please ensure that you select the appropriate article type from the list of options when making your submission. Authors contributing to special issues should ensure that they select the special issue article type from this list.
+Before you begin
+Ethics in publishing
+For information on Ethics in Publishing and Ethical guidelines for journal publication see https://www.elsevier.com/publishingethics and https://www.elsevier.com/ethicalguidelines
+Conflict of interest
+All authors are requested to disclose any actual or potential conflict of interest including any financial, personal or other relationships with other people or organizations within three years of beginning the submitted work that could inappropriately influence, or be perceived to influence, their work. See also https://www.elsevier.com/conflictsofinterest.
+Declaration of generative AI in scientific writing
+Authors are encouraged to declare the use of generative AI in scientific writing upon submission of the paper. The following guidance refers only to the writing process, and not to the use of AI tools to analyse and draw insights from data as part of the research process:
+Generative AI and AI-assisted technologies should only be used in the writing process to improve the readability and language of the manuscript.
+The technology must be applied with human oversight and control and authors should carefully review and edit the result, as AI can generate authoritative-sounding output that can be incorrect, incomplete or biased. Authors are ultimately responsible and accountable for the contents of the work.
+Authors must not list or cite AI and AI-assisted technologies as an author or co-author on the manuscript since authorship implies responsibilities and tasks that can only be attributed to and performed by humans.
+The use of generative AI and AI-assisted technologies in scientific writing can be declared by adding a statement at the end of the manuscript when the paper is first submitted. The statement will appear in the published work and should be placed in a new section before the references list. An example:
+Title of new section: Declaration of generative AI and AI-assisted technologies in the writing process.
+Statement: During the preparation of this work the author(s) used [NAME TOOL / SERVICE] in order to [REASON]. After using this tool/service, the author(s) reviewed and edited the content as needed and take(s) full responsibility for the content of the published article.
+The declaration does not apply to the use of basic tools, such as tools used to check grammar, spelling and references. If you have nothing to disclose, you do not need to add a statement.
+We advise you to read our policy for authors on the use of generative AI and AI-assisted technologies for Elsevier.
+Please note: to protect authors’ rights and the confidentiality of their research, this journal does not currently allow the use of Generative AI or AI-assisted technologies such as ChatGPT or similar services by reviewers or editors in the peer review and manuscript evaluation process. We are actively evaluating compliant AI tools and may revise this policy in the future.
+Submission declaration
+Submission of an article implies that the work described has not been published previously (except in the form of an abstract or as part of a published lecture or academic thesis or as an electronic preprint, see 'Multiple, redundant or concurrent publication' section of our ethics policy for more information), that it is not under consideration for publication elsewhere, that its publication is approved by all authors and tacitly or explicitly by the responsible authorities where the work was carried out, and that, if accepted, it will not be published elsewhere in the same form, in English or in any other language, including electronically without the written consent of the copyright-holder. To verify originality, your article may be checked by the originality detection service CrossCheck.
+Preprint posting on SSRN
+In support of Open Science, this journal offers its authors a free preprint posting service. Preprints provide early registration and dissemination of your research, which facilitates early citations and collaboration.<P>During submission to Editorial Manager, you can choose to release your manuscript publicly as a preprint on the preprint server SSRN once it enters peer-review with the journal. Your choice will have no effect on the editorial process or outcome with the journal. Please note that the corresponding author is expected to seek approval from all co-authors before agreeing to release the manuscript publicly on SSRN.
+You will be notified via email when your preprint is posted online and a Digital Object Identifier (DOI) is assigned. Your preprint will remain globally available free to read whether the journal accepts or rejects your manuscript.
+For more information about posting to SSRN, please consult the SSRN Terms of Use and FAQs.
+First look
+Please note: posted preprints for this journal will appear in a dedicated journal-branded First Look space on SSRN.
+Use of inclusive language
+Inclusive language acknowledges diversity, conveys respect to all people, is sensitive to differences, and promotes equal opportunities. Content should make no assumptions about the beliefs or commitments of any reader; contain nothing which might imply that one individual is superior to another on the grounds of age, gender, race, ethnicity, culture, sexual orientation, disability or health condition; and use inclusive language throughout. Authors should ensure that writing is free from bias, stereotypes, slang, reference to dominant culture and/or cultural assumptions. We advise to seek gender neutrality by using plural nouns ("clinicians, patients/clients") as default/wherever possible to avoid using "he, she," or "he/she." We recommend avoiding the use of descriptors that refer to personal attributes such as age, gender, race, ethnicity, culture, sexual orientation, disability or health condition unless they are relevant and valid. When coding terminology is used, we recommend to avoid offensive or exclusionary terms such as "master", "slave", "blacklist" and "whitelist". We suggest using alternatives that are more appropriate and (self-) explanatory such as "primary", "secondary", "blocklist" and "allowlist". These guidelines are meant as a point of reference to help identify appropriate language but are by no means exhaustive or definitive.
+Author contributions
+For transparency, we require corresponding authors to provide co-author contributions to the manuscript using the relevant CRediT roles. The CRediT taxonomy includes 14 different roles describing each contributor's specific contribution to the scholarly output. The roles are: Conceptualization; Data curation; Formal analysis; Funding acquisition; Investigation; Methodology; Project administration; Resources; Software; Supervision; Validation; Visualization; Roles/Writing - original draft; and Writing - review & editing. Note that not all roles may apply to every manuscript, and authors may have contributed through multiple roles. More details and an example.
+Changes to authorship
+The editors of this journal generally will not consider changes to authorship once a manuscript has been submitted. It is important that authors carefully consider the authorship list and order of authors and provide a definitive author list at original submission.
+The policy of this journal around authorship changes:
+All authors must be listed in the manuscript and their details entered into the submission system.
+Any addition, deletion or rearrangement of author names in the authorship list should only be made prior to acceptance, and only if approved by the journal editor.
+Requests to change authorship should be made by the corresponding author, who must provide the reason for the request to the journal editor with written confirmation from all authors, including any authors being added or removed, that they agree with the addition, removal or rearrangement.
+All requests to change authorship must be submitted using this form. Requests which do not comply with the instructions outlined in the form will not be considered.
+Only in exceptional circumstances will the journal editor consider the addition, deletion or rearrangement of authors post acceptance.
+Publication of the manuscript may be paused while a change in authorship request is being considered.
+Any authorship change requests approved by the journal editor will result in a corrigendum if the manuscript has already been published.
+Any unauthorised authorship changes may result in the rejection of the article, or retraction, if the article has already been published.
+Copyright
+Upon acceptance of an article, authors will be asked to complete a 'Journal Publishing Agreement'. Acceptance of the agreement will ensure the widest possible dissemination of information. An e-mail will be sent to the corresponding author confirming receipt of the manuscript together with a 'Journal Publishing Agreement' form or a link to the online version of this agreement.
+If excerpts from other copyrighted works are included, the author(s) must obtain written permission from the copyright owners and credit the source(s) in the article.
+Open access
+This is an open access journal: all articles will be immediately and permanently free for everyone to read and download. To provide open access, this journal has an open access fee (also known as an article publishing charge APC) which needs to be paid by the authors or on their behalf e.g. by their research funder or institution. The journal is currently free to the authors and readers. Permitted third party (re)use is defined by the following Creative Commons user licenses.
+Language and language services
+Please write your text in good English (American or British usage is accepted, but not a mixture of these). Authors who require information about language editing and copyediting services pre- and post-submission please visit https://webshop.elsevier.com/language-editing/ or our customer support site at https://service.elsevier.com for more information.
+Submission
+Submission to this journal proceeds totally online. Use the following guidelines to prepare your article. Via the homepage of this journal Green Energy and Environment (keaipublishing.com) you will be guided stepwise through the creation and uploading of the various files. The system automatically converts source files to a single Adobe Acrobat PDF version of the article, which is used in the peer-review process. Please note that even though manuscript source files are converted to PDF at submission for the review process, these source files are needed for further processing after acceptance. All correspondence, including notification of the Editor's decision and requests for revision, takes place by e-mail and via the author's homepage, removing the need for a hard-copy paper trail. If you are unable to provide an electronic version, please contact the editorial office prior to submission: e-mail: GEE@ipe.ac.cn.
+Additional Information
+Tables and figures may be presented with captions within the main body of the manuscript; if so, figures should additionally be uploaded as high resolution files.
+Preparation
+Editorial Policies
+For information on Editorial Policies for journal publication refer to http://www.keaipublishing.com/en/authors-and-editors/editorial-policies/
+Queries
+For questions about the editorial process (including the status of manuscripts under review) or for technical support on submissions, please visit our Support Center.
+Peer Review
+This journal operates a single anonymized review process. All contributions will be initially assessed by the editor for suitability for the journal. Papers deemed suitable are then typically sent to a minimum of two independent expert reviewers to assess the scientific quality of the paper. The Editor is responsible for the final decision regarding acceptance or rejection of articles. The Editor's decision is final. Editors are not involved in decisions about papers which they have written themselves or have been written by family members or colleagues or which relate to products or services in which the editor has an interest. Any such submission is subject to all of the journal's usual procedures, with peer review handled independently of the relevant editor and their research groups. More information on types of peer review.
+1. All manuscripts would be pre-checked by Editorial Office. Any submission fail to meet the basic standard of the journal would be desk rejected for reasons like out of scope, ethic issues, high similarities, etc. Then, Editorial Office would assign this manuscript to the Editor-in-Chief
+2. The Editor-in-Chief would invite multiple reviewers to review this paper.
+3. After at least 2 reviewers provide their review reports and comments, the Editor-in-Chief would provide feedbacks based on review comments to the authors including his/her own review.
+4. When author submits the revised manuscript, the Editor-in-Chief will make a final decision.
+5.For submissions from Editor-in-Chief, Associate Editors, Guest Editor(s), and other journal Board members, and authors who have conflicts of interest with them, we ensure that the paper is handled confidentially by a different team member.
+6. For submissions to Special Issues, if there are conflicts of interest between the GE(s) and authors, the submissions will be handled by another Editor from Editorial Board who will manage the peer review process and make the decision whether to accept or reject the paper after peer review.
+Use of word processing software
+It is important that the file be saved in the native format of the word processor used. The text should be in single-column format. Keep the layout of the text as simple as possible. Most formatting codes will be removed and replaced on processing the article. In particular, do not use the word processor's options to justify text or to hyphenate words. However, do use bold face, italics, subscripts, superscripts etc. When preparing tables, if you are using a table grid, use only one grid for each individual table and not a grid for each row. If no grid is used, use tabs, not spaces, to align columns. The electronic text should be prepared in a way very similar to that of conventional manuscripts (see also the Guide to Publishing with Elsevier. Note that source files of figures, tables and text graphics will be required whether or not you embed your figures in the text. See also the section on Electronic artwork.
+To avoid unnecessary errors you are strongly advised to use the 'spell-check' and 'grammar-check' functions of your word processor.
+LaTeX
+If the LaTeX file is suitable, proofs will be produced without rekeying the text. The article should preferably be written using Elsevier's document class "elsarticle", or alternatively any of the other recognized classes and formats supported in Elsevier's electronic submissions system, for further information visit our Support Center.
+The Elsevier "elsarticle" LaTeX style file package (including detailed instructions for LaTeX preparation) can be obtained from the Quickguide: https://www.elsevier.com/latex. It consists of the file: elsarticle.cls, complete user documentation for the class file, bibliographic style files in various styles, and template files for a quick start.
+Article structure
+This section describes the article structure for this journal.
+Subdivision - numbered sections
+Divide your article into clearly defined and numbered sections. Subsections should be numbered 1.1 (then 1.1.1, 1.1.2, ...), 1.2, etc. (the abstract is not included in section numbering). Use this numbering also for internal cross-referencing: do not just refer to "the text". Any subsection may be given a brief heading. Each heading should appear on its own separate line.
+Introduction
+State the objectives of the work and provide an adequate background, avoiding a detailed literature survey or a summary of the results.
+Material and methods
+Provide sufficient details to allow the work to be reproduced by an independent researcher. Methods that are already published should be summarized, and indicated by a reference. If quoting directly from a previously published method, use quotation marks and also cite the source. Any modifications to existing methods should also be described.
+Theory/calculation
+A Theory section should extend, not repeat, the background to the article already dealt with in the Introduction and lay the foundation for further work. In contrast, a Calculation section represents a practical development from a theoretical basis.
+Results
+Results should be clear and concise.
+Discussion
+This should explore the significance of the results of the work, not repeat them. A combined Results and Discussion section is often appropriate. Avoid extensive citations and discussion of published literature.
+Conclusions
+The main conclusions of the study may be presented in a short Conclusions section, which may stand alone or form a subsection of a Discussion or Results and Discussion section.
+Appendices
+If there is more than one appendix, they should be identified as A, B, etc. Formulae and equations in appendices should be given separate numbering: Eq. (A.1), Eq. (A.2), etc.; in a subsequent appendix, Eq. (B.1) and so on. Similarly for tables and figures: Table A.1; Fig. A.1, etc.
+Essential title page information
+Title. Concise and informative. Titles are often used in information-retrieval systems. Avoid abbreviations and formulae where possible.
+Author names and affiliations. Please clearly indicate the given name(s) and family name(s) of each author and check that all names are accurately spelled. You can add your name between parentheses in your own script behind the English transliteration. Present the authors' affiliation addresses (where the actual work was done) below the names. Indicate all affiliations with a lower-case superscript letter immediately after the author's name and in front of the appropriate address. Provide the full postal address of each affiliation, including the country name and, if available, the e-mail address of each author.
+Corresponding author. Clearly indicate who will handle correspondence at all stages of refereeing and publication, also post-publication. This responsibility includes answering any future queries about Methodology and Materials. Ensure that the e-mail address is given and that contact details are kept up to date by the corresponding author.
+Present/permanent address. If an author has moved since the work described in the article was done, or was visiting at the time, a 'Present address' (or 'Permanent address') may be indicated as a footnote to that author's name. The address at which the author actually did the work must be retained as the main, affiliation address. Superscript Arabic numerals are used for such footnotes.
+A concise and factual abstract is required. The abstract should state briefly the purpose of the research, the principal results and major conclusions. An abstract is often presented separately from the article, so it must be able to stand alone. For this reason, References should be avoided, but if essential, then cite the author(s) and year(s). Also, non-standard or uncommon abbreviations should be avoided, but if essential they must be defined at their first mention in the abstract itself.
+Mandatory graphical abstract
+Graphical abstract is mandatory, its use is encouraged as it draws more attention to the online article. The graphical abstract should summarize the contents of the article in a concise, pictorial form designed to capture the attention of a wide readership. Graphical abstracts should be submitted as a separate file in the online submission system. Image size: Please provide an image with a minimum of 531 × 1328 pixels (h × w) or proportionally more. The image should be readable at a size of 5 × 13 cm using a regular screen resolution of 96 dpi. Preferred file types: TIFF, EPS, PDF or MS Office files.
+Highlights are mandatory as they increase the discoverability of your article via search engines. They consist of a short collection of bullet points that capture the novel results of your research as well as new methods that were used during the study (if any). Highlights should be submitted in a separate editable file in the online submission system. Please use 'Highlights' in the file name and include 3 to 5 bullet points (maximum 85 characters, including spaces, per bullet point).
+Keywords
+Authors are invited to submit keywords associated with their paper.
+Abbreviations
+Define abbreviations that are not standard in this field in a footnote to be placed on the first page of the article. Such abbreviations that are unavoidable in the abstract must be defined at their first mention there, as well as in the footnote. Ensure consistency of abbreviations throughout the article.
+Acknowledgements
+Collate acknowledgements in a separate section at the end of the article before the references and do not, therefore, include them on the title page, as a footnote to the title or otherwise. List here those individuals who provided help during the research (e.g., providing language help, writing assistance or proof reading the article, etc.).
+Nomenclature and units
+Follow internationally accepted rules and conventions: use the international system of units (SI). If other quantities are mentioned, give their equivalent in SI. Authors wishing to present a table of nomenclature should do so on the second page of their manuscript.
+Math formulae
+Present simple formulae in the line of normal text where possible and use the solidus (/) instead of a horizontal line for small fractional terms, e.g., X/Y. In principle, variables are to be presented in italics. Powers of e are often more conveniently denoted by exp. Number consecutively any equations that have to be displayed separately from the text (if referred to explicitly in the text).
+Footnotes
+Footnotes should be used sparingly. Number them consecutively throughout the article, using superscript Arabic numbers. Many wordprocessors build footnotes into the text, and this feature may be used. Should this not be the case, indicate the position of footnotes in the text and present the footnotes themselves separately at the end of the article. Do not include footnotes in the Reference list.
+Table footnotes
+Indicate each footnote in a table with a superscript lowercase letter.
+Artwork
+This section describes the artwork for this journal.
+Electronic artwork
+General points
+• Make sure you use uniform lettering and sizing of your original artwork.
+• Save text in illustrations as "graphics" or enclose the font.
+• Only use the following fonts in your illustrations: Arial, Courier, Times, Symbol.
+• Number the illustrations according to their sequence in the text.
+• Use a logical naming convention for your artwork files.
+• Provide captions to illustrations separately.
+• Produce images near to the desired size of the printed version.
+• Submit each figure as a separate file.
+A detailed guide on electronic artwork is available on our website:
+https://www.elsevier.com/artworkinstructions
+You are urged to visit this site; some excerpts from the detailed information are given here.
+Formats
+Regardless of the application used, when your electronic artwork is finalised, please "save as" or convert the images to one of the following formats (note the resolution requirements for line drawings, halftones, and line/halftone combinations given below):
+EPS: Vector drawings. Embed the font or save the text as "graphics".
+TIFF: color or grayscale photographs (halftones): always use a minimum of 300 dpi.
+TIFF: Bitmapped line drawings: use a minimum of 1000 dpi.
+TIFF: Combinations bitmapped line/half-tone (color or grayscale): a minimum of 500 dpi is required.
+If your electronic artwork is created in a Microsoft Office application (Word, PowerPoint, Excel) then please supply "as is".
+Please do not:
+• Supply files that are optimised for screen use (like GIF, BMP, PICT, WPG); the resolution is too low;
+• Supply files that are too low in resolution;
+• Submit graphics that are disproportionately large for the content.
+Color artwork
+Please note that if any of the figures you used are copyrighted, you need to obtain permission from the copyright owners to reproduce these figures in Green Energy & Environment. You also need to document the copyright permission in the respective figure legend. The same holds true for copyrighted tables you use.
+Please make sure that artwork files are in an acceptable format (TIFF, EPS or MS Office files) and with the correct resolution. If, together with your accepted article, you submit usable color figures then Elsevier will ensure, at no additional charge, that these figures will appear in color on the Web (e.g., ScienceDirect and other sites) regardless of whether or not these illustrations are reproduced in color in the printed version.
+Figure captions
+Ensure that each illustration has a caption. A caption should comprise a brief title (not on the figure itself) and a description of the illustration. Keep text in the illustrations themselves to a minimum but explain all symbols and abbreviations used.
+Tables
+Number tables consecutively in accordance with their appearance in the text. Place footnotes to tables below the table body and indicate them with superscript lowercase letters. Avoid vertical rules. Be sparing in the use of tables and ensure that the data presented in tables do not duplicate results described elsewhere in the article.
+References
+This section describes the references for this journal.
+Citation in text
+Please ensure that every reference cited in the text is also present in the reference list (and vice versa). Any references cited in the abstract must be given in full. Unpublished results and personal communications are not recommended in the reference list, but may be mentioned in the text. If these references are included in the reference list they should follow the standard reference style of the journal and should include a substitution of the publication date with either 'Unpublished results' or 'Personal communication'. Citation of a reference as 'in press' implies that the item has been accepted for publication.
+Web references
+As a minimum, the full URL should be given and the date when the reference was last accessed. Any further information, if known (DOI, author names, dates, reference to a source publication, etc.), should also be given. Web references can be listed separately (e.g., after the reference list) under a different heading if desired, or can be included in the reference list.
+Data references
+This journal encourages you to cite underlying or relevant datasets in your manuscript by citing them in your text and including a data reference in your Reference List. Data references should include the following elements: author name(s), dataset title, data repository, version (where available), year, and global persistent identifier. Add [dataset] immediately before the reference so we can properly identify it as a data reference. The [dataset] identifier will not appear in your published article.
+Preprint references
+Where a preprint has subsequently become available as a peer-reviewed publication, the formal publication should be used as the reference. If there are preprints that are central to your work or that cover crucial developments in the topic, but are not yet formally published, these may be referenced. Preprints should be clearly marked as such, for example by including the word preprint, or the name of the preprint server, as part of the reference. The preprint DOI should also be provided.
+References in a special issue
+Please ensure that the words 'this issue' are added to any references in the list (and any citations in the text) to other articles in the same Special Issue.
+Reference management software
+This journal has standard templates available in key reference management packages EndNote (http://www.endnote.com/support/enstyles.asp) and Reference Manager (http://refman.com/support/rmstyles.asp). Using plug-ins to wordprocessing packages, authors only need to select the appropriate journal template when preparing their article and the list of references and citations to these will be formatted according to the journal style which is described below.
+Reference style
+Text: Indicate references by number(s) in square brackets in line with the text. The actual authors can be referred to, but the reference number(s) must always be given.
+Example: '..... as demonstrated [3,6]. Barnaby and Jones [8] obtained a different result ....'
+List: Number the references (numbers in square brackets) in the list in the order in which they appear in the text.
+Examples:
+Reference to a journal publication:
+[1] J. van der Geer, J.A.J. Hanraads, R.A. Lupton, J. Sci. Commun. 163 (2000) 51–59.
+Reference to a book:
+[2] W. Strunk Jr., E.B. White, The Elements of Style, third ed., Macmillan, New York, 1979.
+Reference to a chapter in an edited book:
+[3] G.R. Mettam, L.B. Adams, in: B.S. Jones, R.Z. Smith (Eds.), Introduction to the Electronic Age, E-Publishing, Inc., New York, 1994, pp. 281–304.
+Reference to a website:
+[4] Cancer Research UK, Cancer statistics reports for the UK. http://www.cancerresearchuk.org/aboutcancer/statistics/cancerstatsreport/, 2003 (accessed 13 March 2003).
+Reference to a dataset:
+[dataset] [5] M. Oguro, S. Imahiro, S. Saito, T. Nakashizuka, Mortality data for Japanese oak wilt disease and surrounding forest compositions, Mendeley Data, v1, 2015. https://doi.org/10.17632/xwj98nb39r.1.
+Please click here to download EndNote reference citation style of Green Energy and Environment
+Journal abbreviations source
+Journal names should be abbreviated according to List of title word abbreviations: http://www.issn.org/2-22661-LTWA-online.php
+Research Data
+This journal encourages and enables you to share data that supports your research publication where appropriate, and enables you to interlink the data with your published articles. Research data refers to the results of observations or experimentation that validate research findings. To facilitate reproducibility and data reuse, this journal also encourages you to share your software, code, models, algorithms, protocols, methods and other useful materials related to the project.
+Preferred data repository: Science Data Bank (ScienceDB)
+This journal encourages authors, whenever possible and appropriate, to deposit research data in the Science Data Bank (ScienceDB; https://www.scidb.cn/) as the preferred data repository. ScienceDB is an open-access, general-purpose data repository developed and maintained in China. It supports the deposit, publication, sharing and citation of research data, including raw and processed data, video, code, software, algorithms, protocols and methods. Datasets deposited in ScienceDB are assigned persistent identifiers (e.g., DOIs) and can be cited in your manuscript and reference list. During the submission process, after uploading your manuscript, you may upload your relevant datasets to ScienceDB and provide the dataset DOI in the submission system. If your data are already available in ScienceDB, you are encouraged to link the dataset to your article and cite it in the reference list. For more information, visit the ScienceDB website.
+In addition to ScienceDB, below are a number of ways in which you can associate data with your article or make a statement about the availability of your data when submitting your manuscript. If you are sharing data in one of these ways, you are encouraged to cite the data in your manuscript and reference list. Please refer to the "References" section for more information about data citation. For more information on depositing, sharing and using research data and other relevant research materials, visit the research data page.
+Data Linking
+If you have made your research data available in a data repository, you can link your article directly to the dataset. Elsevier collaborates with a number of repositories to link articles on ScienceDirect with relevant repositories, giving readers access to underlying data that give them a better understanding of the research described.
+There are different ways to link your datasets to your article. When available, you can directly link your dataset to your article by providing the relevant information in the submission system. For more information, visit the database linking page.
+For supported data repositories a repository banner will automatically appear next to your published article on ScienceDirect.
+In addition, you can link to relevant data or entities through identifiers within the text of your manuscript, using the following format: Database: xxxx (e.g., TAIR: AT1G01020; CCDC: 734053; PDB: 1XFN).
+Mendeley Data
+This journal supports Mendeley Data, enabling you to deposit any research data (including raw and processed data, video, code, software, algorithms, protocols, and methods) associated with your manuscript in a free-to-use, open access repository. During the submission process, after uploading your manuscript, you will have the opportunity to upload your relevant datasets directly to Mendeley Data. The datasets will be listed and directly accessible to readers next to your published article online.
+For more information, visit the Mendeley Data for journals page.
+Data statement
+To foster transparency, we encourage you to state the availability of your data in your submission. This may be a requirement of your funding body or institution. If your data is unavailable to access or unsuitable to post, you will have the opportunity to indicate why during the submission process, for example by stating that the research data is confidential. The statement will appear with your published article on ScienceDirect. For more information, visit the Data Statement page.
+Submission checklist
+The following list will be useful during the final checking of an article prior to sending it to the journal for review. Please consult this Guide for Authors for further details of any item.
+Ensure that the following items are present:
+One Author designated as corresponding Author:
+• E-mail address
+• Full postal address
+• Telephone and fax numbers
+All necessary files have been uploaded
+• Keywords
+• All figure captions
+• All tables (including title, description, footnotes)
+Further considerations
+• Titles should briefly convey the subject of the paper. Use specific and informative titles within 135 characters (including spaces) or less than 20 words.
+• Manuscript has been "spellchecked" and "grammar-checked"
+• References are in the correct format for this journal
+• All references mentioned in the Reference list are cited in the text, and vice versa
+• Permission has been obtained for use of copyrighted material from other sources (including the Web)
+• Color figures are clearly marked as being intended for color reproduction on the Web (free of charge) and in print or to be reproduced in color on the Web (free of charge) and in black-and-white in print
+• If only color on the Web is required, black and white versions of the figures are also supplied for printing purposes
+For any further information please visit our customer support site at
+https://service.elsevier.com.
+After acceptance
+Proofs
+One set of page proofs (as PDF files) will be sent by e-mail to the corresponding author (if we do not have an e-mail address then paper proofs will be sent by post) or, a link will be provided in the e-mail so that authors can download the files themselves. Elsevier now provides authors with PDF proofs which can be annotated; for this you will need to download Adobe Reader version 7 (or higher) available free from http://get.adobe.com/reader. Instructions on how to annotate PDF files will accompany the proofs (also given online). The exact system requirements are given at the Adobe site: http://www.adobe.com/products/reader/systemreqs. If you do not wish to use the PDF annotations function, you may list the corrections (including replies to the Query Form) and return them to Elsevier in an e-mail. Please list your corrections quoting line number. If, for any reason, this is not possible, then mark the corrections and any other comments (including replies to the Query Form) on a printout of your proof and return by fax, or scan the pages and e-mail, or by post. Please use this proof only for checking the typesetting, editing, completeness and correctness of the text, tables and figures. Significant changes to the article as accepted for publication will only be considered at this stage with permission from the Editor. We will do everything possible to get your article published quickly and accurately - please let us have all your corrections within 48 hours. It is important to ensure that all corrections are sent back to us in one communication: please check carefully before replying, as inclusion of any subsequent corrections cannot be guaranteed. Proofreading is solely your responsibility. Note that Elsevier may proceed with the publication of your article if no response is received.
+Author inquiries
+Author Inquiries
+For inquiries relating to the submission of articles (including electronic submission) please visit this journal's homepage. Contact details for questions arising after acceptance of an article, especially those relating to proofs, will be provided by the publisher. You can track accepted articles at https://www.elsevier.com/trackarticle. You can also check our Author FAQs (https://www.elsevier.com/authorFAQ) and/or contact Customer Support via https://service.elsevier.com.
+Stay Informed
+Register your interest and receive email alerts tailored to your needs. Sign up below.
+First name *
+Surname *
+Email address *
+Subject area *
+KeAi may contact you to share the latest updates about products, services, promotions, and events. If you do not wish to receive such messages, please check this box.

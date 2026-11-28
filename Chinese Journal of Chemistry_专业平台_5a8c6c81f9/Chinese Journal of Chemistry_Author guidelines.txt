@@ -1,0 +1,180 @@
+期刊: Chinese Journal of Chemistry
+来源: https://journal.hep.com.cn/cjc/EN/guidelines
+标题: Author guidelines
+
+Home
+Journals
+Subscription
+Submission
+Metrics
+Top read articles on mendeley
+Editorial policy
+Open access
+About us
+Adv search
+About the journal
+Aims & scope
+Description
+Editorial board
+Cover gallery
+Contact us
+Browse
+Latest issue
+All volumes and issues
+Most accessed
+Most cited
+Authors & reviewers
+Online submisson
+Guidelines for authors
+Guidelines for authors
+1 General
+The Chinese Journal of Chemistry is an international peer-reviewed journal published in English. It publishes original research work in all fields of chemistry in the form of
+Breaking Reports
+Concise Reports
+Comprehensive Reports
+Recent Advances
+Critical Reviews
+Chemistry Authors Up Close
+Cornerstones in Chemistry
+Emerging Topic
+The Chinese Journal of Chemistry publishes 24 issues annually and is co-hosted by the Shanghai Institute of Organic Chemistry and the Chinese Chemical Society. It is jointly published with Wiley-VCH since 2005.
+Authors are solely responsible for the contents of their contribution. It is assumed that they have the necessary authority for publication. The contents of manuscripts submitted to Chinese Journal of Chemistry must not have been submitted to any other journal in parallel or published previously. Any manuscript already available on personal/group web pages will be considered by the Editors as already published and will not be accepted. The authors must inform the Editors of manuscripts submitted to, soon to be submitted to, or in press at other journals that have a bearing on the manuscript being submitted. All submissions must adhere to the Ethical Guidelines for Publication of Chemical Research. In particular, authors should reveal all sources of funding for the work presented in the manuscript and should declare any conflict of interest.
+All articles must be written in English.
+All submitted manuscripts that are suitable for consideration will be sent to independent referees. Manuscripts which are clearly inappropriate for the journal can be rejected without consulting referees. Authors are encouraged to suggest suitable referees (full names and affiliations including e-mail address). However, the referees that are contacted will not be limited to those nominated by the authors. All accepted manuscripts are edited before printing to ensure scientific consistency, clarity of presentation, and uniformity of style.
+If authors have to or want to make their publications freely available at the moment they are published (open access), the Chinese Journal of Chemistry offers such a service. Under the keyword Open Access you can find all the information about this subject on our homepage.
+On behalf of our authors who are US National Institutes of Health (NIH) grantees, we will deposit in PubMed Central (PMC) and make public after 12 months the accepted, peer-reviewed version of the author's primary research manuscript. By assuming this responsibility, we will ensure our authors are in compliance with the NIH request, as well as make certain the appropriate version of the manuscript is deposited. We reserve the right to change or rescind this policy. For more information, please go to wiley.com/go/funderstatement. To guarantee that your publication is uploaded correctly in PMC, please make sure that 1) the NIH grant numbers are free from misspellings (that is, no small o instead of a 0, no small i instead of a 1, no spaces or hyphens, etc.) and 2) the e-mail address that is known at NIH/PubMed is identical to the one given in the publication.
+In general we recommend that authors link on their homepage to their Chinese Journal of Chemistry publication through the Digital Object Identifier (DOI). Only in this way can Crossref function correctly and full-text downloads be tallied.
+2 Submission of Manuscripts
+The Chinese Journal of Chemistry offers web-based manuscript submission and peer-review via ScholarOne Manuscripts. This service guarantees fast and safe submission of manuscripts and rapid assessment processes. Online submission is mandatory, and conventional submission of manuscripts via courier service or e-mail is no longer accepted. Chinese Journal of Chemistry requires the submitting author (only) to provide an ORCID when submitting a manuscript. Please prepare your manuscript in keeping with the guidelines given below (§4).
+For the submission of new, revised and final accepted manuscripts, a single Word DOC file containing graphical abstract, text, tables and all graphics should be uploaded as -Main Document. on the File Upload screen. Tables and all graphics need to be embedded in the text of the DOC file where they belong (not collected at the end). MS Word templates, which can be used for preparation of new manuscripts, are available under "Contribute". Note: Do not choose the file designation "Image" to upload graphics as separate files when uploading new manuscripts. Supporting Information is uploaded as a single, separate PDF file with all graphics embedded by choosing the file designation "Supporting Information".
+Steps for using the Chinese Journal of Chemistry online submission system:
+Go to mc.manuscriptcentral.com/cjoc
+If you use the system for the first time, you need to click on the "Create Account" link. If you have been an author or referee for Chinese Journal of Chemistry recently, your e-mail address will already be in the database. In that case, enter your e-mail address under -Password Help. on the Log In screen. You will receive an automatically generated e-mail, providing you with the details to your personal homepage (login and password).
+Once logged in, please click on "Author Center" and let the system guide you through the submission process. Online help is available at all times. It will be possible to exit and reenter the system without losing any information at any stage of the submission process. All submissions are kept strictly confidential.
+If applicable, please choose a Special Issue to which you have been invited to contribute.
+Authors can follow the progress of their manuscripts on their personal homepage: all manuscripts of the authors submitted to and all review reports written for Chinese Journal of Chemistry are archived here. This homepage should also be used to upload the revised and final versions of all manuscripts submitted to Chinese Journal of Chemistry.
+Note: When multiple files are uploaded as "Main Document". or "Image", the system generates a single PDF file. Only Word DOC and TIFF files are included in the PDF file generated. File formats not included are Excel XLS, PowerPoint PPT, ChemDraw CDX, ISIS Draw SKC, GIF, PCT, PSD, BMP, 123, RAR, SIT and ZIP.
+Authors are asked to make their manuscripts suitable for a heterogeneous readership—please use a simple, clear style, and avoid jargon. In some cases, it might be helpful for manuscripts to be checked by a third party, such as Wiley English Language Editing Services for correct language usage before submission.
+3 Types of Manuscripts
+Original Research Articles:
+Breaking Reports are reports of urgent and significant findings.
+Concise Reports are concise description of focused research topics.
+Comprehensive Reports discuss in-depth studies of important subjects with but not limited to mechanistic investigation, applications, etc.
+Download Reports template
+Review Articles:
+Recent Advances are review-type articles that present very important recent topics in a concise manner at a time when a Critical Review would still be premature or an update is required.
+Critical Reviews are in-depth discussions on important topics of broad interest. Authors should clearly state the purpose, objectives, scope, and limitations of the topic covered by a specific review.
+Download Reviews template
+Chemistry Authors Up Close includes a photo of the principal investigator, an interview conducted by our staff followed by a personal account of the chemist’s favorite chemistry developed in his/her laboratory with demonstrated applications by his/her own group or others.
+Download Authors Up Close template
+Emerging Topic is brief summaries and comments on the recently developed chemistry with great importance and potentials that will be a hot research topic in near future. Emerging Topic should be 3-4 formatted Journal pages with essential figures/tables and a maximum of 9 references.
+Download Emerging Topic template
+Cornerstones in Chemistry describe well established chemistry developed by well-known chemist(s) featuring great academic significances and wide applications.
+Download Cornerstones template
+The Writing Style for CJC-Who is Who:
+Chemistry knowledge is invented or discovered by chemists. So far, we have completely introduced the “Who is Who” writing style for all our research and review articles. This writing format emphasizes the key players in the field and their significant contributions. By outlining the corresponding development process, this writing format has been designed to effectively trace the scientific evolution within this domain. We are confident that this approach will provide readers with a clear and concise visual aid, allowing for a quick under-standing of the scientific history in this particular field.
+4 Manuscript Preparation
+General: Authors are encouraged to consult recent issues of the Chinese Journal of Chemistry for examples of format. We recommend the use of the Chinese Journal of Chemistry manuscript templates (MS Word for Win/Mac), which are available in Section 3 above. If you do not wish to use the templates, the manuscript file should be in Word DOC format with tables and all graphics embedded in the text where they belong (graphics prepared with ChemDraw or Excel need to be embedded into the Word file and linked to those programs). Supporting Information should be submitted as a separate file. For clarity manuscripts should be subdivided into sections such as Introduction, Experimental, Results and Discussion, Conclusion, Acknowledgement and References.
+Title should be as short as possible, clearly and accurately indicate the contents of the paper and be expressed in adequate scientific terms.
+Author and Address: The full name(s) of the author(s) and full postal address(es) of the institutions where the research was done should appear under the title. Use the italic symbols a, b, c, etc., as superscripts to relate the authors to the corresponding address and an asterisk to indicate the author(s) to whom correspondence should be addressed. In order to speed up the reviewing and publication process, authors are requested to provide their telephone number, fax number and e-mail address.
+Comprehensive Summary: Authors are required to submit a short summary of main observation and conclusion. Summaries of main observation and conclusion should briefly state the reasons why the work was conducted, the significant results and conclusions. A color picture summarizing the contents, with a resolution of 300 dpi (or higher) and a suitable size of at least 16 cm × 9 cm (width × height), should be inserted.
+Keywords: Please provide 8 keywords or phrases that will assist readers and indices in cross-indexing this study. To aid online searching, at least two keywords should be taken from the Keyword Catalogue.
+Footnotes may contain supporting information.
+Formulae and Equations: Subscripts and especially superscripts should be written with care, and exponents should be arranged on a single line, e.g., e−60/RT. Organic structural drawings should be submitted in a form suitable for direct photographic reproduction and should fill space economically. Do not use structures when a simple formula will suffice. Do not use multiple lines unnecessarily. Please type formulae and equations as normal text in the body of the text as far as possible.
+Background and Originality Content should describe the significance and novelty of this work, and it should include relevant references. A color picture describing the main observation of this contribution is strongly suggested.
+The following three issues should be included in this section:
+Importance
+Why is the current topic of high interest for the Chemistry community in general？
+Background
+The current state of art of this topic and the challenge.
+Concept or advances or novelty as compared to the known reports.
+Experimental Section should be given in sufficient detail to enable others to repeat your work. In theoretical papers, some technical details such as computational methods should be confined to an appropriately named section.
+Formulae Analyses and Spectral Data: The physical and chemical parameters of new compounds should be given in the following order and style: m.p. 239 °C, [α]D12 +134.4 (c 0.50, CH3OH), nD20 1.3941; UV-vis (EtOH) λmax: 238, 258 nm; 1H NMR (CDCl3, 300 MHz) δ: 0.78 (t, J=8 Hz, 3H), 1.07 (d, J=8 Hz, 3H), 2.96 (s, 1H), 3.80–4.00 (m, 1H), 6.90–7.10 (m, 1H); IR (KBr) ν: 3420, 3380, 1675, 1683, 1610, 1588, 1500 cm−1; MS (70 eV) m/z (%): 525 (M+, 46), 507 (30), 43 (100). Anal. calcd for C12H11N: C 85.70, H 6.55, N 8.27; found C 85.24, H 6.56, N 8.15 (HRMS calcd for C17H20O2 266.1458, found 266.1460). Note that the correct order of characterization data should be as follows: UV, NMR, IR, MS and elemental analysis.
+Manuscripts containing animal experiments must include a statement in the Experimental Section to state that permission was obtained from the relevant national or local authorities. The institutional committees that have approved the experiments must be identified and the accreditation number of the laboratory or of the investigator given where applicable. If no such rule or permission is in place in the country where the experiments were performed, then this must also be clearly stated. Manuscripts with experiments with human subjects or tissue samples from human subjects must contain a disclaimer in the Experimental Section to state that informed signed consent was obtained from either the patient or from next of kin.
+Computer-Aided Image Enhancement is often unavoidable. However, such manipulation cannot result in data that are less relevant or unrepresentative being shown and/or genuine and significant signals being lost. A clear relationship must remain between the original data and the electronic images that result from those data. If an image has been electronically modified, the form of the modification shall be given in the Figure caption. If computer-aided processing or modification of an image is a fundamental part of the experimental work, then the form this processing takes must be clearly described in the Experimental Section.
+Results and Discussion should describe experimental results, followed by discussion leading to scientific rules and/or conclusion with Tables and Figures.
+Conclusion should summarize the results obtained, propose further improvements and predict possible applications.
+Acknowledgments: Personal acknowledgments about the source(s) of financial support will be published.
+References: The author is responsible for correct citations. In the text the numbers should be typed as superscripts (e.g., Smith[3]) and, if applicable, after punctuation. Journal titles should be abbreviated according to the Chemical Abstracts Service Source Index (CASSI). Unpublished results and lectures should only be cited for exceptional reasons. If a paper has been published online but has not appeared in print yet, it is cited by listing the author names and then the abbreviated title of the journal and year followed by the DOI. Literature references should be arranged and formatted as follows:
+Journals in English: Yang, Q. L.; Fang, P.; Mei, T. S. Recent Advances in Organic Electrochemical C–H Functionalization. Chin. J. Chem. 2018, 36, 338–352.
+Journals in Chinese: Shen, R. Z.; Cao, X.; Yu, B. Total Synthesis of Dammarane-Type Saponins Ginsenoside Re and Notoginsenoside R1. Acta Chim. Sinica 2018, 76, 278–285 (in Chinese).
+Books (without editor): (a) Sun, S. G.; Chen, S. L. Electrocatalysis, Chemical Industry Press, Beijing, 2018 (in Chinese). Books (with editor): (b) Synthetic Chemistry, Eds.: Bai, C.-L.; Li, J.-H.; Qin, D. H., Science Press, Beijing, 2018, pp. 188–189 (in Chinese).
+Conferences: Chiba, S. In Metal-Mediated Radical Reactions for Synthesis of Nitrogen-Heterocycles, the 12th International Symposium on Organic Free Radicals, Shanghai, China, 2016, p. 18.
+Patents: Crosby, S. R.; Jennison, M.; Brennan, J. New thermally-cleavable protecting group-and-linker group-containing heterocyclic compound used in composition for e.g. purification of proteins and peptides. WO2018189546-A1, 2018.
+Theses, Dissertations: Li, L. C. Ph.D. Dissertation, Shanghai Institute of Organic Chemistry, Chinese Academy of Sciences, Shanghai, 2015, pp. 90–91 (in Chinese).
+Note: All authors and titles of the cited papers should be listed and CA numbers of patents should also be provided.
+Graphical Abstract: Authors are required to provide a separate sheet containing a small diagram or other informative illustration (scheme or figure) showing the most important aspect of the paper. The words or sentences in the diagram must be concise. The height of the scheme or figure is 6 cm. See detailed instructions for graphical material.
+Legends: Each figure and scheme should have a legend. In the final accepted manuscript, the legends should be listed together after the reference section of the text file and not be included with the drawings in the separate graphic files.
+Tables must have a brief title and should only be subdivided by three horizontal lines (head rule, neck rule, foot rule). Footnotes in the tables are denoted as superscripts by a, b, etc., and presented at the bottom of the table. Tables should be constructed using the table function in Word; do not make tables using the tabulator. Tables should be prepared to fit the page format of the journal (width of the columns is 8.55 cm; width of the pages is 17.6 cm). When a table consists mainly of graphic elements, the entire table should be prepared with Word DOC file rather than a drawing program. At this time, graphic elements linked to ChemDraw programs should be inserted to the table.
+Illustrations include figures and schemes, and they should be designed for reduction to a one-column (8.55 cm wide) or two-column format (17.6 cm wide) with a resolution of 300 dpi or higher. Note: The Chinese Journal of Chemistry does not use charts, which should be converted into figures or schemes. Illustrations should be stored as the format of TIFF. See detailed instructions for graphical material.
+Figures of chemical structures should be drawn using ChemDraw according to the ACS-1996 standard as follows: chain angle, 120°; bond spacing, 18% of length; fixed length, 0.508 cm (14.4 pt); bold width, 0.071 cm (2.0 pt); line width, 0.021 cm (0.6 pt); margin width, 0.056 cm (1.6 pt); hash spacing, 0.088 cm (2.5 pt).
+Download Chemdraw template
+Curve graphics should be drawn by Origin and their parameters are as follows: font, Arial; letter size, 8.0 pt; curve line width, 0.5 pt; symbol, 3.0 pt; width of graphics, 5.5 cm.
+Figures of crystal structures should present all atomic labeling using Arial, a size of 7.5 pt with parentheses such as N(2), O(3), etc. If the table of the parameters of anisotropic displacements is not printed, at least one figure should show the displacement ellipsoids. Figures showing the crystal packing should not be overcrowded and should not show sections larger than necessary. Usually, one unit cell and a few adjacent atoms are sufficient. Include and label the outlines of the unit cell. Avoid the depiction of several translation-equivalent atoms in the viewing direction. If lines intersect, it should be clear which one is in front of the other.
+Schemes: Multiple-step reactions should be regarded as Schemes, and their reaction conditions should be given above the arrows rather than in the caption.
+Scanned pictures or color pictures should be readable with a resolution of 300–600 dpi. Color: Printing of Figures and Schemes in color is expensive, so we request that part of the additional costs be carried by the author (RMB 1500 per figure or scheme). If color is essential and the author does not have access to funds for publication costs, the editor can make an exception. Because the web and print versions of the manuscript need to be identical, it is not possible for the manuscript to contain color only in the web version.
+Symbols: Use only characters from the Symbol and Normal Text fonts, especially when inserting Greek letters and charaters with umlauts, accents, tildes, etc.: α, ä,à, ã, Å. Symbols of physical quantities, stereochemical information (cis, Z, R, etc.), locants (N-methyl, α-amino), symmetry designations (C2v) should be italicized. Chemical formulae should be numbered with boldface Arabic numerals (e.g., 1). If physical quantities are listed as numerical values without their units, e.g., in tables or for labels of axes in figures, the units must be specified after a slash or with a power of −1, e.g., T/K, c/(mol·L−1). Abbreviations such as Me, Et, n-Bu, i-Pr, s-Bu, t-Bu and Ph may be used in formulae. General substituents should be indicated by R1, R2 (not R2, which means 2R) or R, R'. The spatial arrangement of the substituents should be indicated by hatched lines and a wedge. The Symbol font should be used for minus signs.
+Abbreviations and acronyms should be used sparingly and consistently, following the system of abbreviations and symbols recommended by the International Union of Pure and Applied Chemistry. Where they first appear in the text, they should be defined (apart from the most common ones such as NMR, HPLC, and THF).
+Nomenclature must be consistent, clear, and unambiguous, and in keeping with the rules established by the International Union of Pure and Applied Chemistry, the International Union of Biochemistry, and Chemical Abstracts Serviceh3>
+Authors must check the correctness of the X-ray data and the reported structure by using the CheckCIF utility prior to submission. Submitting a copy of the output as Supporting Information for Review is mandatory. Authors with appropriate software may alternatively use IUCRVAL or the CHECK validation tool in PLATON. Prior to manuscript submission, the author(s) must deposit their data or update data already available, so that referees can retrieve the information electronically directly from the database. Crystallographic data should be deposited with either the Cambridge Crystallographic Data Centre (CCDC) for organic and organometallic compounds or with Fachinfor-mationszentrum Karlsruhe (FIZ) for inorganic compounds, elements, metals, and minerals. If a crystal structure analysis is an essential part of the paper, crystallographic data should be given in an order as follows: monoclinic, space group P21/n with cell dimensions of a=1.2342(2) nm, b=1.862(2) nm, c=1.0042(2) nm, β=105.80(1)°, V=2.2205 nm3, Z=2, μ=15.854 cm−1h3>
+Supporting Information may be included for deposition on the WWW. The author bears full responsibility for the content of the Supporting Information, and must keep a copy to make available to readers who do not have access to the WWW. Supporting Information may consist of original data that relate to the paper, e.g., additional or color illustrations, tables, supplemental experimental details, and characterization data, or may include information that is more convenient in electronic form, such as coordinates, spectral data, etc., or that cannot be printed: animations, audio recordings, and videos. This material should be included in the original submission for peer review. After acceptance, succinct text and the necessary graphics should be sent as a separately saved single MS Word file with the final revised version of the manuscript. The graphics should be embedded in the file rather than as separate files. Color and animated multimedia applications in the Supporting Information are welcome and published online at no cost to the author or reader. In addition, the standard text: "Supporting information for this article is available on the WWW under https://doi.org/10.1002/cjoc.2023xxxxx" should be added in the manuscript Word file as a footnote.
+Note: Experimental procedures for crystallographic studies can be included, but do not include the complete crystallo-graphic data that are available from CCDC or FIZh3>
+An inter-journal online browsing facility (automatic links to lists of thematically related contributions with a click of the mouse) has been developed for the readers of the Wiley-VCH journals Angewandte Chemie International Edition, ChemBioChem, ChemPhysChem, ChemMedChem, ChemSusChem, ChemCatChem, Chemistry—A European Journal, Chemistry—An Asian Journal, European Journal of Inorganic Chemistry, European Journal of Organic Chemistry as well as Advanced Synthesis & Catalysis, Electroanalysis, Fuel Cells, Israel Journal of Chemistry, Molecular Informatics, ZAAC and the Chinese Journal of Chemistry. We have compiled a common keyword catalogue. To assist you in finding keywords, they are listed according to category. As with all such records, a few guidelines facilitate its use, and these are briefly explained below:
+At least two keywords assigned to an article must come from this list.
+Named reactions will be incorporated only in exceptional cases. Generally, the reaction type is selected instead. For example, Diels–Alder reactions will be found under "cycloadditions" and Claisen rearrangements under "rearrangements".
+Heteroanalogues of compounds are mainly classified under the C variants, for example, (hetero)cumulenes, (hetero)dienes. A few aza and phospha derivatives are exceptions.
+Compounds with inorganic components that are central to the article are listed under the element, for instance, iron complexes under "iron" and the type of ligand. Some group names like "alkali metals" exist alongside the names of important members of the group like "lithium". In such cases the group name is used for these members only when comparative studies are described. The members not appearing separately are also categorized under the group name.
+A keyword in the form "N ligand" is only chosen if a considerable portion of the paper deals with the coordination of any ligand ligating through the atom concerned (in the example, nitrogen). Spectroscopic methods are assigned as keywords only if the article is about the method itself or if the spectroscopic technique has made an important contribution to the problem under investigation.
+"Structure elucidation" is intended only if the crux of the paper is a structural elucidation or if a combination of several spectroscopic techniques were needed for conclusive solution of the structure.
+An attempt has been made to avoid synonyms and to select more general concepts rather than specialized terms. Thus the term "double-decker complexes" is excluded in favor of "sandwich complexes". See also points 2 and 3 in these guidelines.
+Enzymes should be assigned to one of the six main enzyme classes.
+This list is a "living" catalogue to be flexible enough to absorb the new developments in chemistry. We welcome all suggestions from our readers and authors that might improve its user-friendliness.
+8 Final/Revised Version
+Authors will be informed of the Editor-in-Chief's decision as soon as the corresponding referee reports have been received. If a revision is requested or in the case of an acceptance or provisional acceptance, authors should respond to the referees' comments and return the revised version without delay, or let the Editorial Office know immediately if the response is likely to be delayed. Authors should answer the comments one by one in a cover letter, and highlight the corrections made in the manuscript in red.
+9 Proofs
+Please kindly note that substantial changes to the manuscript after acceptance may require a re-evaluation by peer reviewers. If you have any questions or updates after your manuscript's acceptance, please contact the Editorial Office at your earliest convenience.
+Checking of the page proofs is solely the author's responsibility. Please follow the instructions accompanying the proofs. All corrections, revisions, and additions must be made directly on the proofs. In particular, check all tables, equations, and formulae. No article will normally be released for printing until the authors' proof has been received. The Editors, however, reserve the right to give the imprimatur for publication if the corrected proofs are not returned to the Editorial Office in the given time limit. Extensive changes have to be avoided, if necessary, must be subject to editorial review.
+Useful Resources
+Abbreviations of Journal Titles (CAS)
+Check your references with CrossRef
+Copyright Transfer Agreement (CTA)
+Permission Request Form
+Data protection policy: by submitting a manuscript to or reviewing for this publication, your name, email address, and affiliation, and other contact details the publication might require, will be used for the regular operations of the publication, including, when necessary, sharing with the publisher (Wiley) and partners for production and publication. The publication and the publisher recognize the importance of protecting the personal information collected from users in the operation of these services, and have practices in place to ensure that steps are taken to maintain the security, integrity, and privacy of the personal data collected and processed. You can learn more at https://authorservices.wiley.com/statements/data-protection-policy.html.
+Pubdate: Jul 09, 2024 Viewed: 4485
+Latest issue
+Jul 2026, Volume 44 Issue 13
+View all volumes and issues
+Cover illustration
+Submit manuscript
+Latest articles
+Most accessed
+Collections
+Photo-mediated One-Pot Glycosylation-Deprotection-Glycosylation Strategy for Synthesis of Histo-blood Group Antigens
+Lvfeng Zhang,Huagen Chen,Youling Liang,Mengying Ru,Rurong Yu,Jiahao Fan,Xianchao Zhu,Liming Zhao,You Yang
+https://doi.org/10.1002/cjoc.70670
+Enantioselective Synthesis of α-Hydroxy-β-Amino Ketones via Engineered ThDP-Dependent Enzyme Catalysis
+Linli Dai,Dongqi Wu,Keke Zou,Huangong Li,Jiale Sun,Jingyu Zhang,Xueting Liu,Guoliang Zhu,Lixin Zhang,Yongtao Xie
+https://doi.org/10.1002/cjoc.70659
+Tailoring Crystalline Self-Assembled Monolayers via Skeletal Isomerization for Exceptional Efficiency and Reproducibility in Organic Solar Cells
+Yaqi Pei,Jiawei Deng,Hansheng Chen,Jiaping Xie,Xiaozhong Shuai,Jie Zhou,Hyeong Hui Kim,Han Young Woo,Feiyan Wu,Jiabin Liu,Chen Xie,Lie Chen
+https://doi.org/10.1002/cjoc.70657
+Enantioselective Synthesis of 3-Hydroxy Oxindoles via NHC-Catalyzed [2 + 2] Cycloaddition
+Bin Liu,Guanbing Wei,Liang Guo,Xuebin Chen,Tian-Yuan Zhang,Xiangkai Kong,Qing He,Rong-Hua Wang,Jianta Wang,Jun Sun,Lei Tang
+https://doi.org/10.1002/cjoc.70672
+Programming Aggregation-Induced Emission Luminogens into Vinyl Polymer Backbones via Macrocyclic Radical Ring-Opening Copolymerization
+Ping Yi,Zhuofeng Ke,Derong Cao,Hanchu Huang
+https://doi.org/10.1002/cjoc.70681
+View all articles
+View all articles
+View all collections
+Subscription
+E-mail alert
+Subscribe to our RSS content
+Journal updates More
+Journal updates
+2024-07-09
+Links
+Links
+ISSN 1001-604X (Print)
+ISSN 1614-7065 (Online)
+CN 311547/O6

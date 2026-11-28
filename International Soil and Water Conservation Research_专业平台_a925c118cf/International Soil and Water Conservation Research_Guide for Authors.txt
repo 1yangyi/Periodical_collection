@@ -1,0 +1,336 @@
+期刊: International Soil and Water Conservation Research
+来源: https://www.keaipublishing.com/en/journals/international-soil-and-water-conservation-research/guide-for-authors/
+标题: Guide for Authors
+
+Guide for Authors
+Introduction
+Types of paper
+Submission checklist
+Before you begin
+Ethics in publishing
+Declaration of interest
+Submission declaration and verification
+Use of inclusive language
+Author contributions
+Changes to authorship
+Copyright
+Responsible sharing
+Funding source
+Open access
+Elsevier Researcher Academy
+Language
+Submission
+Additional Information
+Preparation
+Editorial Policies
+Peer review
+Use of word processing software
+LaTeX
+Article structure
+Essential formatting guidelines to remember
+Sections
+Introduction
+Material and methods
+Theory/calculation
+Results
+Discussion
+Conclusion
+Appendices
+Essential title page information
+Abstract
+Keywords
+Abbreviations
+Acknowledgements
+Formatting of funding sources
+Nomenclature and units
+Math formulae
+Footnotes
+Artwork
+Electronic artwork
+Color Artwork
+Figure captions
+Tables
+References
+Citation in text
+Web references
+Preprint references
+References in a special issue
+Reference management software
+Reference Style
+Journal abbreviations source
+After acceptance
+Proofs
+Offprints
+Author Inquiries
+Frequently Asked Questions
+Introduction
+The International Soil and Water Conservation Research helps to disseminate new knowledge and promote the practice of soil and water conservation. The Journal welcomes contributions related to innovative ideas and approaches, results and new data in soil erosion research, preventive and restorative soil conservation strategies, and related soil and water resource conservation research. We particularly welcome interdisciplinary work focusing on monitoring methods, soil erosion models, development and application of soil and water conservation measures and evaluation of their effects, maintenance, and improvement of soil quality, and watershed management related to soil loss and/or water quality/quantity protection. Moreover, we would like to promote results from experimental field and laboratory work as well as from simulations related to soil and water conservation.
+Types of paper
+Contributions falling into the following categories will be considered for publication: Original research papers, reviews articles, short communication, letter to the editor, and discussions papers. Please ensure that you select the appropriate article type from the list of options when making your submission. Authors contributing to special issues should ensure that they select the special issue article type from this list.
+1. Regular papers. These should report the results of original research. The material should not have been previously published elsewhere. They should consist of a title page (without author information for double-blind peer review); abstract; introduction including aims and hypotheses; materials & methods; results; discussion; conclusions; reference list; tables; and figures. The results and discussion sections may be combined; the conclusions can be a separate section or the last paragraph of the discussion section. Regular papers should not be longer than 20 pages in the printed journal format (40 pages double-spaced)
+2. Review articles. These are peer-reviewed and can be invited as well as submitted. Topics should cover subjects falling within the scope of the journal. We only consider review article with critical evaluation of existing data, defined topics or emerging fields of investigation, critical issues of public concern. The paper should provide significant new syntheses and insights rather than summarizing the literature. The format generally follows that of regular papers.
+3. Short communications. These are peer-reviewed and present original research that is less suitable for a regular paper because they are based on a relatively limited dataset. They typically describe relatively small experiments or studies which nevertheless provide interesting new insights. They should not exceed three printed pages, including references, tables, and figures. Within these constraints, a maximum of 1500 words; 3 figures/tables. The bulk of the text should be written in continuous form (no subsections). However, a cover page, (short) abstract and a list of Keywords are required; acknowledgements and references are allowed. In other respects, the format guidelines for Regular Papers should be followed.
+4. Letters to the editor. These are not peer-reviewed and are accepted from time to time on matters of topical interest at the discretion of the Editors-in-Chief. They can relate to published papers in the International Soil and Water Conservation Research or can discuss other timely issues within the journal's scope. Letters to the editor are generally short and should be written in continuous form (i.e., no abstract and no other subsections except for an optional list of references). They generally do not have figures or tables and very few references.
+5. Discussions papers. These are not peer-reviewed and are solicited by the Editors-in-Chief. They include invited discussions on published papers or on other topical subjects falling within the scope of the International Soil and Water Conservation Research. The format generally follows that of a letter to the editor.
+To avoid author disappointment because of rapid desk rejections, we list topics that will not be considered for publishing.
+Papers do not contribute significant new knowledge to the field of study.
+Disciplinary studies without soil and water conservation relevance
+Local or regional scale case studies lacking in methodological or intellectual novelty.
+Follow up studies with limited new contributions concerning data and method.
+Soil or plant science studies without soil and water conservation implications
+Water quality study focuses on pollutant chemicals without non-point pollution process involved.
+Laboratory batch experiments without an application component.
+Modelling studies without adequate calibration and data validation as well as without an adequate discussion of the results in terms of soil and water conservation.
+Review papers based only on bibliometric analysis without interpretation in the perspective of soil and water conservation science.
+Papers tackling socio-economic topics not strictly related to soil and water conservation.
+Submission checklist
+You can use this list to carry out a final check of your submission before you send it to the journal for review. Please check the relevant section in this Guide for Authors for more details.
+One author has been designated as the corresponding author with contact details:
+E-mail address
+Full postal address
+The first name and last name for all authors are fully spelled out. (Initial is accepted only for the middle name)
+We carry out a double-blind policy for peer review, so please do not include author related information in the manuscript.
+Graphical Abstracts / Highlights files (where applicable)
+Supplemental files (where applicable)
+All necessary files have been uploaded.
+Numbered lines with double lines spacing and page numbers.
+Include keywords.
+All figures (include relevant captions, subfigures if involved) are denoted as (a), (b), (c)…
+All text on figure must be shown with a font size equivalent to 9pt at least in the manuscript.
+Control the maximum sum total number of figures and tables within 20, while tables and figures numbering around 12 is highly recommended.
+All equations should be numbered with right aligned number in parentheses and cited in the context clearly (for example, refer to Eq. (#))
+Ensure all figure and table citations in the text match the files provided.
+All reference citations should follow the requested journal style format, provided in the online instructions for authors at: https://www.keaipublishing.com/en/journals/international-soil-and-water-conservation-research/guide-for-authors/
+Further considerations
+The manuscript has been 'spell checked' and 'grammar checked' preferably by a native speaker.
+All references mentioned in the Reference List are cited in the text, and vice versa.
+Permission has been obtained for use of copyrighted material from other sources (including the Internet)
+A competing interest’s statement is provided, even if the authors have no competing interests to declare.
+Journal policies detailed in this guide have been reviewed.
+Referee suggestions and contact details provided, based on journal requirements.
+If parts of the article are based on Artificial Intelligence (e.g., methods and/or text production) this should be declared in the submission letter.
+Before you begin
+Ethics in publishing
+Please see our information pages on Ethics in publishing and Ethical guidelines for journal publication. Submissions to KeAi journals are automatically screened using iThenticate's CrossCheck within the editorial system to detect plagiarism issues including instances of overlapping and similar text in submitted manuscripts. Details can be found here. High similarity papers will be desk rejected.
+Declaration of interest
+All authors must disclose any financial and personal relationships with other people or organizations that could inappropriately influence (bias) their work. Examples of potential competing interests include employment, consultancies, stock ownership, honoraria, paid expert testimony, patent applications/registrations, and grants or other funding. Authors must disclose any interests in two places: 1. A summary declaration of interest statement in the title page file (if double anonymized) or the manuscript file (if single anonymized). If there are no interests to declare then please state this: 'Declarations of interest: none'. 2. Detailed disclosures as part of a separate Declaration of Interest form, which forms part of the journal's official records. It is important for potential interests to be declared in both places and that the information matches. More information.
+Submission declaration and verification
+Submission of an article implies that the work described has not been published previously (except in the form of an abstract, a published lecture or academic thesis, see 'Multiple, redundant or concurrent publication' for more information), that it is not under consideration for publication elsewhere, that its publication is approved by all authors and tacitly or explicitly by the responsible authorities where the work was carried out, and that, if accepted, it will not be published elsewhere in the same form, in English or in any other language, including electronically without the written consent of the copyright-holder. To verify compliance, your article may be checked by Crossref Similarity Check and other originality or duplicate checking software.
+Use of inclusive language
+Inclusive language acknowledges diversity, conveys respect to all people, is sensitive to differences, and promotes equal opportunities. Content should make no assumptions about the beliefs or commitments of any reader; contain nothing which might imply that one individual is superior to another on the grounds of age, gender, race, ethnicity, culture, sexual orientation, disability or health condition; and use inclusive language throughout. Authors should ensure that writing is free from bias, stereotypes, slang, reference to dominant culture and/or cultural assumptions. We advise to seek gender neutrality by using plural nouns ("clinicians, patients/clients") as default/wherever possible to avoid using "he, she," or "he/she." We recommend avoiding the use of descriptors that refer to personal attributes such as age, gender, race, ethnicity, culture, sexual orientation, disability or health condition unless they are relevant and valid. When coding terminology is used, we recommend to avoid offensive or exclusionary terms such as "master", "slave", "blacklist" and "whitelist". We suggest using alternatives that are more appropriate and (self-) explanatory such as "primary", "secondary", "blocklist" and "allowlist". These guidelines are meant as a point of reference to help identify appropriate language but are by no means exhaustive or definitive.
+Author contributions
+For transparency, we require corresponding authors to provide co-author contributions to the manuscript using the relevant CRediT roles. The CRediT taxonomy includes 14 different roles describing each contributor's specific contribution to the scholarly output. The roles are: Conceptualization; Data curation; Formal analysis; Funding acquisition; Investigation; Methodology; Project administration; Resources; Software; Supervision; Validation; Visualization; Roles/Writing - original draft; and Writing - review & editing. Note that not all roles may apply to every manuscript, and authors may have contributed through multiple roles. More details and an example.
+Changes to authorship
+Authors are expected to consider carefully the list and order of authors before submitting their manuscript and provide the definitive list of authors at the time of the original submission. Any addition, deletion or rearrangement of author names in the authorship list should be made only before the manuscript has been accepted and only if approved by the journal Editor. To request such a change, the Editor must receive the following from the corresponding author: (a) the reason for the change in author list and (b) written confirmation (e-mail, letter) from all authors that they agree with the addition, removal or rearrangement. In the case of addition or removal of authors, this includes confirmation from the author being added or removed.
+Only in exceptional circumstances will the Editor consider the addition, deletion or rearrangement of authors after the manuscript has been accepted. While the Editor considers the request, publication of the manuscript will be suspended. If the manuscript has already been published in an online issue, any requests approved by the Editor will result in a corrigendum.
+Copyright
+Upon acceptance of an article, authors will be asked to complete a 'Journal Publishing Agreement'. Acceptance of the agreement will ensure the widest possible dissemination of information. An e-mail will be sent to the corresponding author confirming receipt of the manuscript together with a 'Journal Publishing Agreement' form or a link to the online version of this agreement.
+If excerpts from other copyrighted works are included, the author(s) must obtain written permission from the copyright owners and credit the source(s) in the article.
+Responsible sharing
+Find out how you can share your research published in Elsevier journals.
+Funding source
+You are requested to identify who provided financial support for the conduct of the research and/or preparation of the article and to briefly describe the role of the sponsor(s), if any, in study design; in the collection, analysis and interpretation of data; in the writing of the report; and in the decision to submit the article for publication. If the funding source(s) had no such involvement, it is recommended to state this.
+Open access
+This is an open access journal: all articles will be immediately and permanently free for everyone to read and download. To provide open access, this journal has an open access fee (also known as an article publishing charge APC) which needs to be paid by the authors or on their behalf e.g. by their research funder or institution. The Article Processing Charge (APC) for this journal is USD 2000, excluding taxes. This updated rate will take effect from January 1, 2026, based on the submission date of the manuscript (submissions made before December 31, 2025, will be subject to the previous rate).
+Peer review under responsibility of International Research and Training Center on Erosion and Sedimentation, the China Water and Power Press, and China Institute of Water Resources and Hydropower Research. (see https://www.elsevier.com/openaccesslicenses). All articles will be published under the following license:
+Elsevier Researcher Academy
+Researcher Academy is a free e-learning platform designed to support early and mid-career researchers throughout their research journey. The "Learn" environment at Researcher Academy offers several interactive modules, webinars, downloadable guides and resources to guide you through the process of writing for research and going through peer review. Feel free to use these free resources to improve your submission and navigate the publication process with ease.
+Language
+Please write your text in good English (American or British usage is accepted, but not a mixture of these). Authors who feel their English language manuscript may require editing to eliminate possible grammatical or spelling errors and to conform to correct scientific English may wish to use the Language Editing service available from Elsevier's Language Services.
+Submission
+Submission to this journal proceeds totally online. Use the following guidelines to prepare your article. Via the homepage of this journal ( https://www.evise.com/profile/api/navigate/ISWCR) you will be guided stepwise through the creation and uploading of the various files. The system automatically converts source files to a single Adobe Acrobat PDF version of the article, which is used in the peer-review process. Please note that even though manuscript source files are converted to PDF at submission for the review process, these source files are needed for further processing after acceptance. All correspondence, including notification of the Editor's decision and requests for revision, takes place by e-mail and via the author's homepage, removing the need for a hard-copy paper trail. If you are unable to provide an electronic version, please contact the editorial office prior to submission [iswcr@foxmail.com; telephone: +86 10 68785906; or fax: 86 10 68411174
+Additional Information
+Tables and figures may be presented with captions within the main body of the manuscript; if so, figures should additionally be uploaded as high resolution files.
+Preparation
+Editorial Policies
+For information on Editorial Policies for journal publication refer to http://www.keaipublishing.com/en/authors-and-editors/editorial-policies/
+Peer review
+This journal operates a double anonymized review process. All contributions are typically sent to a minimum of two independent expert reviewers to assess the scientific quality of the paper. The Editor is responsible for the final decision regarding acceptance or rejection of articles. The Editor's decision is final. Editors are not involved in decisions about papers which they have written themselves or have been written by family members or colleagues or which relate to products or services in which the editor has an interest. Any such submission is subject to all of the journal's usual procedures, with peer review handled independently of the relevant editor and their research groups. More information on types of peer review.
+Use of word processing software
+It is important that the file be saved in the native format of the word processor used. The text should be in single-column format. Keep the layout of the text as simple as possible. Most formatting codes will be removed and replaced on processing the article. In particular, do not use the word processor's options to justify text or to hyphenate words. However, do use bold face, italics, subscripts, superscripts etc. When preparing tables, if you are using a table grid, use only one grid for each individual table and not a grid for each row. If no grid is used, use tabs, not spaces, to align columns. The electronic text should be prepared in a way very similar to that of conventional manuscripts (see also the Guide to Publishing with Elsevier. Note that source files of figures, tables and text graphics will be required whether or not you embed your figures in the text. See also the section on Electronic artwork.
+To avoid unnecessary errors you are strongly advised to use the 'spell-check' and 'grammar-check' functions of your word processor.
+LaTeX
+You are recommended to use the Elsevier article class elsarticle.cls to prepare your manuscript and BibTeX to generate your bibliography.
+Our LaTeX site has detailed submission instructions, templates and other information.
+Article structure
+This section describes the article structure for this journal.
+Essential formatting guidelines to remember
+1. The manuscript must have line numbers that run consecutively from the beginning to the end of the manuscript.
+2. Abstract must not have more than 250 words.
+3. DO NOT use self-defined acronyms. Spell out the words. Commonly used and understood acronyms, such as GIS or DEM are acceptable.
+4. Do not report the precision of numbers that exceed the certainty, or reasonable certainty, of the number. For example, do not report a value as 5.34865 if the precision with uncertainty is 5.3.
+5. You MUST have a clear and concise, testable, hypothesis or objective statement at the end of the Introduction, immediately before the Methods section.
+6. Your article must clearly and concisely explain what this work contributes that is NEW to science or the field of soil and water conservation.
+Sections
+Divide your article into clearly defined and numbered sections. Subsections should be numbered 1.1 (then 1.1.1, 1.1.2, ...), 1.2, etc. (the abstract is not included in section numbering). Use this numbering also for internal cross-referencing: do not just refer to 'the text'. Any subsection may be given a brief heading. Each heading should appear on its own separate line.
+Introduction
+The purpose of the Introduction is threefold: 1) to provide (briefly, no more than a paragraph) the rationale for the study, 2) sufficient background information to allow the reader to understand and evaluate the study without need to read previously published literature, and 3) to state clearly, in a separate paragraph at the end of the Introduction, the objective of the study (and if appropriate, this should be stated as a scientific hypothesis). Avoid a detailed literature survey or a summary of the results.
+Material and methods
+Provide sufficient details to allow the work to be reproduced by an independent researcher. Methods that are already published should be summarized, and indicated by a reference. If quoting directly from a previously published method, use quotation marks and also cite the source. Any modifications to existing methods should also be described.
+Theory/calculation
+A Theory section should extend, not repeat, the background to the article already dealt with in the Introduction and lay the foundation for further work. In contrast, a Calculation section represents a practical development from a theoretical basis.
+Results
+Results should be clear and concise. Do not include methods in the Results section.
+Discussion
+This should explore the significance of the results of the work, not repeat them. A combined Results and Discussion section is often appropriate. If separate Results and Discussion sections are presented, do not present results in the Discussion section, nor discussion in the results section. Avoid extensive citations and discussion of published literature. Avoid repeating numbers in the text that are listed in the tables of results. The discussion should not propose new concepts or interpretations that are not supported by the results and data presented by the study.
+Conclusion
+The main conclusions of the study should be presented in a short Conclusions section. The conclusions section should not introduce new material not specifically supported by the results of the study.
+Appendices
+If there is more than one appendix, they should be identified as A, B, etc. Formulae and equations in appendices should be given separate numbering: Eq. (A.1), Eq. (A.2), etc.; in a subsequent appendix, Eq. (B.1) and so on. Similarly for tables and figures: Table A.1; Fig. A.1, etc.
+Essential title page information
+Title. Concise and informative. Titles are often used in information-retrieval systems. Avoid abbreviations and formulae where possible.
+Author names and affiliations. Please clearly indicate the given name(s) and family name(s) of each author and check that all names are accurately spelled. You can add your name between parentheses in your own script behind the English transliteration. Present the authors' affiliation addresses (where the actual work was done) below the names. Indicate all affiliations with a lower-case superscript letter immediately after the author's name and in front of the appropriate address. Provide the full postal address of each affiliation, including the country name and, if available, the e-mail address of each author.
+Corresponding author. Clearly indicate who will handle correspondence at all stages of refereeing and publication, also post-publication. This responsibility includes answering any future queries about Methodology and Materials. Ensure that the e-mail address is given and that contact details are kept up to date by the corresponding author.
+Present/permanent address. If an author has moved since the work described in the article was done, or was visiting at the time, a 'Present address' (or 'Permanent address') may be indicated as a footnote to that author's name. The address at which the author actually did the work must be retained as the main, affiliation address. Superscript Arabic numerals are used for such footnotes.
+Abstract
+A concise and factual abstract is required. The abstract will be seen and read by many more people than will read the paper, hence everything that is important in the paper must be reflected in the abstract and it must be able to stand alone. The abstract presents the paper in miniature, complete within itself.
+The abstract will consist of: 1) Rationale for the study (typically one sentence); 2) Statement of objective, if appropriate in the form of a hypothesis (typically one sentence); 3) Methods (no more than two sentences); 4) Results, typically two to three sentences, and quantified; 5) Conclusions, typically one to two sentences of the primary conclusion; and 6) (optional) Implications, typically one sentence.
+Write the abstract as a single paragraph, with no subheadings, and with a limit of 250 words. The word limit will be strictly enforced. Your paper may be returned if the abstract exceeds the word limit or does not follow the format. Some abstracting services truncate text beyond a certain length, and what is lost is often the conclusions. References and abbreviations should be avoided. Non-standard or uncommon abbreviations should be avoided.
+Keywords
+Authors are invited to submit keywords associated with their paper.
+Abbreviations
+Define abbreviations that are not standard in this field in a footnote to be placed on the first page of the article. Such abbreviations that are unavoidable in the abstract must be defined at their first mention there, as well as in the footnote. Ensure consistency of abbreviations throughout the article.
+Acknowledgements
+Collate acknowledgements in a separate section at the end of the article before the references and do not, therefore, include them on the title page, as a footnote to the title or otherwise. List here those individuals who provided help during the research (e.g., providing language help, writing assistance or proof reading the article, etc.).
+Formatting of funding sources
+List funding sources in this standard way to facilitate compliance to funder's requirements:
+Funding: This work was supported by the National Institutes of Health [grant numbers xxxx, yyyy]; the Bill & Melinda Gates Foundation, Seattle, WA [grant number zzzz]; and the United States Institutes of Peace [grant number aaaa].
+It is not necessary to include detailed descriptions on the program or type of grants and awards. When funding is from a block grant or other resources available to a university, college, or other research institution, submit the name of the institute or organization that provided the funding.
+If no funding has been provided for the research, it is recommended to include the following sentence:
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
+Nomenclature and units
+Follow internationally accepted rules and conventions: use the international system of units (SI). If other quantities are mentioned, give their equivalent in SI. Authors wishing to present a table of nomenclature should do so on the second page of their manuscript.
+Math formulae
+Please submit math equations as editable text and not as images. Present simple formulae in line with normal text where possible and use the solidus (/) instead of a horizontal line for small fractional terms, e.g., X/Y. In principle, variables are to be presented in italics. Powers of e are often more conveniently denoted by exp. Number consecutively any equations that have to be displayed separately from the text (if referred to explicitly in the text).
+Footnotes
+Footnotes should be used sparingly. Number them consecutively throughout the article. Many word processors can build footnotes into the text, and this feature may be used. Otherwise, please indicate the position of footnotes in the text and list the footnotes themselves separately at the end of the article. Do not include footnotes in the Reference list.
+Artwork
+This section describes the artwork for this journal.
+Electronic artwork
+General points
+Make sure you use uniform lettering and sizing of your original artwork.
+Embed the used fonts if the application provides that option.
+Aim to use the following fonts in your illustrations: Arial, Courier, Times New Roman, Symbol, or use fonts that look similar.
+Number the illustrations according to their sequence in the text.
+Use a logical naming convention for your artwork files.
+Provide captions to illustrations separately.
+Size the illustrations close to the desired dimensions of the published version.
+Submit each illustration as a separate file.
+Ensure that color images are accessible to all, including those with impaired color vision.
+A detailed guide on electronic artwork is available.
+You are urged to visit this site; some excerpts from the detailed information are given here.
+Formats
+If your electronic artwork is created in a Microsoft Office application (Word, PowerPoint, Excel) then please supply 'as is' in the native document format.
+Regardless of the application used other than Microsoft Office, when your electronic artwork is finalized, please 'Save as' or convert the images to one of the following formats (note the resolution requirements for line drawings, halftones, and line/halftone combinations given below):
+EPS (or PDF): Vector drawings, embed all used fonts.
+TIFF (or JPEG): Color or grayscale photographs (halftones), keep to a minimum of 300 dpi.
+TIFF (or JPEG): Bitmapped (pure black & white pixels) line drawings, keep to a minimum of 1000 dpi.
+TIFF (or JPEG): Combinations bitmapped line/half-tone (color or grayscale), keep to a minimum of 500 dpi.
+Please do not:
+Supply files that are optimized for screen use (e.g., GIF, BMP, PICT, WPG); these typically have a low number of pixels and limited set of colors;
+Supply files that are too low in resolution;
+Submit graphics that are disproportionately large for the content.
+Color Artwork
+Please make sure that artwork files are in an acceptable format (TIFF, EPS or MS Office files) and with the correct resolution. If, together with your accepted article, you submit usable color figures then Elsevier will ensure, at no additional charge, that these figures will appear in color on the Web (e.g., ScienceDirect and other sites) regardless of whether or not these illustrations are reproduced in color in the printed version.
+Figure captions
+Ensure that each illustration has a caption. Supply captions separately, not attached to the figure. A caption should comprise a brief title (not on the figure itself) and a description of the illustration. Keep text in the illustrations themselves to a minimum but explain all symbols and abbreviations used.
+Tables
+Please submit tables as editable text and not as images. Tables can be placed either next to the relevant text in the article, or on separate page(s) at the end. Number tables consecutively in accordance with their appearance in the text and place any table notes below the table body. Be sparing in the use of tables and ensure that the data presented in them do not duplicate results described elsewhere in the article. Please avoid using vertical rules and shading in table cells.
+References
+This section describes the references for this journal.
+Citation in text
+Please ensure that every reference cited in the text is also present in the reference list (and vice versa). Any references cited in the abstract must be given in full. Unpublished results and personal communications are not recommended in the reference list, but may be mentioned in the text. If these references are included in the reference list they should follow the standard reference style of the journal and should include a substitution of the publication date with either 'Unpublished results' or 'Personal communication'. Citation of a reference as 'in press' implies that the item has been accepted for publication.
+Web references
+As a minimum, the full URL should be given and the date when the reference was last accessed. Any further information, if known (DOI, author names, dates, reference to a source publication, etc.), should also be given. Web references can be listed separately (e.g., after the reference list) under a different heading if desired, or can be included in the reference list.
+Preprint references
+Where a preprint has subsequently become available as a peer-reviewed publication, the formal publication should be used as the reference. If there are preprints that are central to your work or that cover crucial developments in the topic, but are not yet formally published, these may be referenced. Preprints should be clearly marked as such, for example by including the word preprint, or the name of the preprint server, as part of the reference. The preprint DOI should also be provided.
+References in a special issue
+Please ensure that the words 'this issue' are added to any references in the list (and any citations in the text) to other articles in the same Special Issue.
+Reference management software
+Most Elsevier journals have their reference template available in many of the most popular reference management software products. These include all products that support Citation Style Language styles, such as Mendeley. Using citation plug-ins from these products, authors only need to select the appropriate journal template when preparing their article, after which citations and bibliographies will be automatically formatted in the journal's style. If no template is yet available for this journal, please follow the format of the sample references and citations as shown in this Guide. If you use reference management software, please ensure that you remove all field codes before submitting the electronic manuscript. More information on how to remove field codes from different reference management software.
+Reference Style
+The author are referred to the Publication Manual of the American Psychological Association, Fifth Edition, ISBN 1-55798-790-4, copies of which may be ordered from http://www.apa.org/books/4200061.html or APA Order Dept., P.O.B. 2710, Hyattsville, MD 20784, USA. or APA, 3 Henrietta Street, London, WC3E 8LU, UK. Details concerning this referencing style can also be found at http://humanities.byu.edu/linguistics/Henrichsen/APA/APA01.html.
+Examples:
+Text: All citations in the text should refer to:
+One author
+–Smith (2002) found…
+–(Smith, 2002).
+Two Authors:
+–Smith and Jones (2003) found…
+–(Smith & Jones, 2003).
+Three or More Authors
+–Smith et al. (2001) found…
+- (Phelps et al., 2004)
+–Smith et al. (2002) found…
+Groups as Authors:
+–1st Citation:
+(American Psychological Association [APA], 2000).
+–Subsequent Citations:
+(APA, 2000).
+Anonymous or No Author
+–Use first few words of reference list entry (usually title):
+(?Study Finds,? 1995)
+(TEA, 2007)
+Authors with Same Surname
+–Include initials: S. T. Smith (2000) and J. D. Smith (1999)
+Two of more works within the same parentheses
+–In order alphabetically, as they would appear in references, separated by semi-colons
+(Jones, 2003; Thomas, 2010)
+–If by same author, then by date
+(Jones, 2003, 2007)
+References should be arranged first alphabetically and then further sorted chronologically if necessary. More than one reference from the same author(s) in the same year must be identified by the letters “a”, “b”, “c”, etc., placed after the year of publication
+Reference to a journal publication
+Carlson, L. A. (2003). Existential theory: Helping school counselors attend to youth at risk for violence. Professional School Counseling, 6(5), 10-15.
+Sagarin, B. J., & Lawler-Sagarin, K. A. (2005). Critically evaluating competing theories: An exercise based on the Kitty Genovese murder. Teaching of Psychology, 32(3), 167–169.
+Hughes, J. C., Brestan, E. V., & Valle, L. A. (2004). Problem-solving interactions between mothers and children. Child and Family Behavior Therapy, 26(1), 1-16.
+Journal with more than seven authors
+Gilbert, D.OLE_LINK2 G., McCleron, J. F., Rabinovich, N. E., Sugai, C., Plath, L. C., Asgaard, G., … Botros, N. (2004). Effects of quitting smoking on EEG activation and attendtionlast for more than 31 days and are more severe with stress. Nicotine and Tobacco Research, 6, 249-267.
+Herbst-Damm, K.L., & Kulik, J.A. (2005). Volunteer support, marital status, and the survival times of terminally ill patients. Health Psychology, 24, 225-229. https://doi.org/10.1037/0278-6133.24.2.225
+Silick, T.J., & Schutte, N.S. (2006). Emotional intelligence and self-esteem mediate between perceived early parental love and adult happiness. E-Journal of Applied Psychology, 2(2), 38-48. Retrieved from http://ojs.lib.swin.edu.au/index.php/ejap.
+Reference to a book
+Beck, C. A. J., & Sales, B. D. (2001). Family mediation: Facts, myths, and future prospects. Washington, DC: American Psychological Association.
+Johnson, R. A. (1989). Retrieval inhibition as an adaptive mechanism in human memory. In H. L. RoedigerIII & F. I. M. Craik(Eds.), Varieties of memory & consciousness (pp. 309-330). Hillsdale, NJ: Erlbaum.
+English translation of a book:
+Lang, P. S. (1951). A philosophical essay on probabilities (F. W. Truscott & F. L. Emory, Trans.). New York, NY: Dover. (Original work published 1814)
+*In text, cite original date and translation date: (Lang, 1814/1951).
+Dissertations and Theses
+Caprette, C. L. (2005). Conquering the cold shudder: The origin and evolution of snake eyes (Doctoral dissertation). Ohio State University, Columbus, OH.
+Pecore, J. T. (2004). Sounding the spirit of Cambodia: The living tradition of Khmer music and dance-drama in a Washington, DC community (Doctoral dissertation). Retrieved from Dissertations and Theses database. (UMI No. 3114720)
+Caprette, C. L. (2005). Conquering the cold shudder: The origin and evolution of snake eyes (Doctoral dissertation). Retrieved from http://www.ohiolink.edu/etd/send-pdf.cgi?acc_num=osu1111184984
+Online resource from group/government
+U.S. Department of Health and Human Services. (2003). Managing asthma: A guide for schools. Retrieved from http://www.nhibi.nih.gov/health/prof/lung/asthma/asth_sch.pdf
+Reference in other Language
+Hughes, J. C., Brestan, E. V., & Valle, L. A. (2004). Problem-solving interactions between mothers and children. Child and Family Behavior Therapy, 26(1), 1-16. (In Chinese)
+Journal abbreviations source
+Journal names should be abbreviated according to
+Index Medicus journal abbreviations: http://www.nlm.nih.gov/tsd/serials/lji.html;
+List of title word abbreviations: http://www.issn.org/2-22661-LTWA-online.php;
+CAS (Chemical Abstracts Service): http://www.cas.org/sent.html.
+After acceptance
+Proofs
+One set of page proofs (as PDF files) will be sent by e-mail to the corresponding author (if we do not have an e-mail address then paper proofs will be sent by post) or, a link will be provided in the e-mail so that authors can download the files themselves. Elsevier now provides authors with PDF proofs which can be annotated; for this you will need to download Adobe Reader version 7 (or higher) available free from http://get.adobe.com/reader. Instructions on how to annotate PDF files will accompany the proofs (also given online). The exact system requirements are given at the Adobe site: http://www.adobe.com/products/reader/tech-specs.html.
+If you do not wish to use the PDF annotations function, you may list the corrections (including replies to the Query Form) and return them to Elsevier in an e-mail. Please list your corrections quoting line number. If, for any reason, this is not possible, then mark the corrections and any other comments (including replies to the Query Form) on a printout of your proof and return by fax, or scan the pages and e-mail, or by post. Please use this proof only for checking the typesetting, editing, completeness and correctness of the text, tables and figures. Significant changes to the article as accepted for publication will only be considered at this stage with permission from the Editor. We will do everything possible to get your article published quickly and accurately – please let us have all your corrections within 72 hours. It is important to ensure that all corrections are sent back to us in one communication: please check carefully before replying, as inclusion of any subsequent corrections cannot be guaranteed. Proofreading is solely your responsibility. Note that Elsevier may proceed with the publication of your article if no response is received.
+Offprints
+The corresponding author will be notified and receive a link to the published version of the open access article on ScienceDirect. This link is in the form of an article DOI link which can be shared via email and social networks. For an extra charge, paper offprints can be ordered via the offprint order form which is sent once the article is accepted for publication.
+Author Inquiries
+For inquiries relating to the submission of articles (including electronic submission) please visit this journal's homepage. Contact details for questions arising after acceptance of an article, especially those relating to proofs, will be provided by the publisher. You can track accepted articles at https://www.elsevier.com/trackarticle. You can also check our Author FAQs (https://www.elsevier.com/authorFAQ) and/or contact Customer Support via https://service.elsevier.com.
+Frequently Asked Questions
+What are the reasons for desk rejections?
+The most common reasons for desk rejections include but are not limited to our scope, ethics issues (high similarity with other already published literature, for example), modeling study without adequate calibration or validation, low writing quality, or poor English language usage.
+Can I resubmit the rejected paper to the journal?
+The ISWCR usually does not consider papers that had been rejected unless a re-submission invitation was indicated in the decision letter for the previous submission.
+Does ISWCR accept co-first authors and co-corresponding authors?
+Based on the nature of the study in soil and water conservation and discussions by the editorial board, co-first authors (also known as Joint first authorship, shared first authorship) are not encouraged. For papers with intensive collaboration involved, and the authors believe that the first two authors contributed equally and they insist on having the first authors, please contact the editorial office before submission. The request will be approved only upon review and discussion, and co-corresponding authors are not permitted. Joint first authorship, if permitted, will be indicated using a footnote on the title page with the phrase "These authors contributed equally".
+The corresponding author is the author who will handle correspondence at all stages of refereeing and publication, also post-publication. There is no reason to indicate two corresponding authors which in no way benefits the processing of the manuscript.
+What level of similarity rate is acceptable for ISWCR?
+All ISWCR submissions are automatically screened for originality by CrossCheck powered by iThenticate. iThenticate is a plagiarism detection software that compares the submitted work against 14 billion web pages and 110 million content items from leading academic publications.
+There are no strict requirements for the similarity rates. The report from the iThenticate is an important reference to editors, and the judgment is mainly based on the editors' evaluation. Usually, a manuscript with an overall similarity rate greater than 30% or a similarity rate to an individual paper greater than 5% will raise the editor's special attention.
+What is the policy for articles that have been published as a pre-print before submitting to ISWCR?
+These are generally accepted, but the authors and affiliations in the submitted manuscript must be the same group as in the pre-printed version.
+Stay Informed
+Register your interest and receive email alerts tailored to your needs. Sign up below.
+First name *
+Surname *
+Email address *
+Subject area *
+KeAi may contact you to share the latest updates about products, services, promotions, and events. If you do not wish to receive such messages, please check this box.

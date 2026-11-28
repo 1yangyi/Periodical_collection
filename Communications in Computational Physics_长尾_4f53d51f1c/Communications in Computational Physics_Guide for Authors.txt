@@ -1,0 +1,91 @@
+期刊: Communications in Computational Physics
+来源: https://www.global-sci.com/cicp/guide-for-authors
+标题: Guide for Authors
+
+Scope and what we look for
+CiCP publishes original research and survey papers on the development, analysis and application of numerical methods and computational models for problems in physics, mechanics, materials science, chemistry, biology and engineering. Read the full aims and scope.
+The editors judge every paper on two things together: the novelty and rigour of the computational contribution, and the physical relevance of what it achieves. A strong submission:
+describes the numerical method fully enough for the results to be reproduced;
+shows accuracy, efficiency and robustness on well-defined test problems;
+compares with existing approaches where the problem has been treated before;
+states the computational cost of the method.
+We recommend that every research paper ends with a short data and code availability statement saying where the data and code behind the results can be found, with a permanent link (for example a GitHub repository) where possible. The link is published with the paper.
+Preparing your manuscript
+Write your paper in the CiCP LaTeX template from the start. We typeset from the same file after acceptance, so papers prepared in it move through production fastest.
+Title page
+Title; every author’s name, full affiliation and email address; the corresponding author marked with \corrauth. The short author names for the running head are required. We ask every author to add an ORCID iD.
+Abstract and keywords
+A brief summary of the main findings, Mathematics Subject Classification (MSC2020) codes, and keywords. PACS codes are optional.
+Equations
+Number displayed equations in parentheses at the right margin, and refer to them as (2.1) or Eq. (2.1).
+Figures
+Supply figures in finished form, numbered 1, 2, 3… Lettering must stay readable after reduction — in MATLAB, for example, axis labels of 18 pt or more, tick labels of 14 pt or more, and a line width of 2.
+References
+Cite by number in square brackets, e.g. [3]. List only work that is published or in press; cite unpublished results and personal communications in the text. Abbreviate journal names in the standard way, as in the template’s sample references.
+Acknowledgements
+Thanks and grant numbers go in an unnumbered Acknowledgments section at the end — not in footnotes on the title page.
+Declarations
+Before the references, include:
+Competing interests — any financial or personal relationship that could be seen to influence the work. If there is none, write: “The authors declare no competing interests.”
+Funding — every funder and grant number.
+Data and code availability (recommended) — where the data and code can be found.
+Use of AI tools — any use of AI or AI-assisted tools, as our AI policy requires.
+Avoid production delays
+Put your own macros only in the block marked for them at the top of the template.
+Do not edit cicp.cls or send a modified copy.
+Keep every figure as a separate file as well — you will need them after acceptance.
+Submitting
+Submit online through ScholarOne Manuscripts. Upload the whole paper as one PDF; LaTeX source files are needed only after acceptance.
+There is no submission fee. Any charge applies only after acceptance.
+Every submission is acknowledged. Review reports, decisions and proofs all reach you by email.
+By submitting, you confirm the paper is original, has not been published elsewhere and is not under consideration by another journal, and you accept our ethical policy.
+Peer review
+Papers that pass the editorial office’s initial check are sent to independent referees. Review is double-anonymous: referees are not told who the authors are, and authors are not told who the referees are.
+You receive the referees’ reports with one of four decisions: accept, minor revision, major revision or reject. A revised paper is re-evaluated by the handling editor and, where needed, the original referees.
+After acceptance
+The editorial office will ask you to upload the final files through the submission system:
+the LaTeX source files of the paper;
+every figure as a separate file;
+a PDF of the whole paper.
+Production starts as soon as the complete set has arrived.
+Production and publication
+21days
+Production guarantee. For papers accepted on or after 15 November 2026, production — from acceptance to online publication — takes no more than 21 days of our time. Time spent waiting for you (final files, answers to queries, proof corrections or the signed publishing agreement) is not counted.
+Typesetting We typeset your paper in the journal’s house style from your source files.
+Editor proof A senior editor of the journal proofreads it, and we make the corrections.
+Author proof We email you the proof and a link to sign the publishing agreement online. Check the proof carefully and send corrections.
+Final check We make your corrections; the senior editor checks the changes.
+Online publication Published as Online First with its DOI, citable from that day.
+A paper can be published only after the publishing agreement has been signed.
+Each paper receives a Crossref DOI, is published as PDF and full-text HTML, and is later placed in an issue of the journal under the same DOI.
+Charges and open access
+You choose how your paper is published when you sign the publishing agreement at the author-proof stage. Open Access is optional; there is no charge for standard subscription publication.
+Subscription (standard)
+Open Access (optional)
+Charge
+None
+US$1,800, once, after acceptance
+Who can read it
+Subscribers and buyers of the article
+Everyone, free
+Copyright
+Transferred to the publisher
+You keep it; published under CC BY 4.0
+UKRI-funded authors can meet UKRI’s open-access requirement by choosing Open Access.
+Copyright and sharing your work
+The corresponding author signs the publishing agreement online, for all authors, from the link in the author-proof email — there is no form to download. For a subscription paper the agreement transfers copyright to the publisher, which lets us protect the paper against unauthorised use and license it for print, electronic, indexing and translation. For an Open Access paper you keep copyright and the paper is published under CC BY 4.0. The full text is shown before you sign.
+Posting a preprint — on arXiv, another non-commercial preprint server or your own website — does not count as prior publication. You can share your work as follows:
+Version
+Where you can post it
+When
+Submitted version (preprint)
+Your website, scholarly networks, non-commercial preprint servers
+Any time
+Accepted version
+Your website, research group, institutional repository
+After a 12-month embargo — at once if your institution subscribes to CiCP
+Open Access version
+Anywhere, under CC BY 4.0
+At once
+Questions
+Email the CiCP editorial office at [email protected].

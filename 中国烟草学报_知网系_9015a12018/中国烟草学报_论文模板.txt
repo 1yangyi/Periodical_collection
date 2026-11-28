@@ -1,0 +1,131 @@
+期刊: 中国烟草学报
+来源: https://zgyb.cbpt.cnki.net/EditorD2N/PromptPageInfo.aspx?t=v&c=3
+标题: 论文模板
+
+论文模板
+论文模板链接.doc
+以下为TXT版内容，格式不能正确显示：
+基金项目：XXX项目“大数据研究”(No. xxxxxxxx)若有资助项目须注明合同编号以确保唯一性
+作者简介：姓名(19XX—)，最高学历，职称，主要研究方向，Tel：xxx-xxxxxxxx此号码将在文中公开，Email：
+通讯作者：姓名若不同于第一作者（19XX—）， Tel：xxx-xxxxxxxx，Email：
+收稿日期： 网络出版日期：
+作者,作者,张杰,等. [J]. 中国烟草学报，2019,25（）. , et al. [J]. Acta Tabacaria Sinica, 2019,25(). doi:10.16472/j.chinatobacco.2019.0XX中英文引文格式及doi信息合并于此，请填入相应内容。
+________________
+*Corresponding author. Email:
+论文中一般应采用小四号字，1.5倍行距。图表中文字可适当缩小，标题可适当增大。排版时会统一处理为标准格式，所以不必过于细致。
+正文中字体一般为宋体，字母和数字为Times New Roman体，因为涉及部分标点符号的正确显示，所以要统一规定。论文应在右下角标出页码以利于编辑和修改。不必标出行号。
+《中国烟草学报》论文模版题目以具体化、立论式为佳
+作者11，作者21,2，张杰1，张小杰1,2人名中不留空，以逗号隔开
+1单位全名，部门(系)全名，省市(或直辖市)通讯地址 邮政编码；
+2 单位全名， 部门全名，辽宁大连大同路30号 116023
+摘要：【背景和目的】应用甘油碱法工艺对烟梗进行处理，制备低木质素烟梗薄片。【方法】以木质素脱除率和浆得率为衡量指标，对甘油碱法制浆工艺条件进行了优化，并比较了不同预处理工艺对再造烟叶烟气评吸质量的影响。【结果】（1）甘油碱法制浆最佳工艺条件为，氢氧化钾用量45%、蒸煮温度为200℃、蒸煮液固比为11:1、蒸煮时间为0.5 h，此时烟梗中的木质素含量为5.06%，木质素脱除率为43.01%，浆得率为37.12%。（2）甘油碱法的木质素脱除率和木质气降低效果虽然稍逊色于氧碱法，但其对烟气质量提升的综合效果明显优于氧碱法和乙酸法。（3）采用甘油碱法再造烟叶制备的项目卷烟，其感官质量优于常规卷烟。【结论】采用甘油碱法工艺制备的烟草薄片，木质素含量低，应用于卷烟中可提升烟气品质。
+关键词：木质素；烟梗；薄片；制浆；甘油碱法；氧碱法；卷烟；感官质量关键词不少于3个，宜多选以增加文章被检索到的可能性。以分号隔开
+试验研究性论文应尽量写成报道性摘要，采用结构化格式。一般包括【背景和目的】、【方法】、【结果】、【结论】四个部分。其中：结果应分清逻辑层次，建议使用序号陈述；结论应呼应目的，用一两句话陈述。其他类型论文也建议尽量使用该格式。
+摘要应为独立的、完整的小短文。题目和摘要中不应使用非公知公用的符号和术语，不应有参考文献。鼓励图片摘要。
+Modeling and control of vacuum pre-conditioner题目首字母和特有名词大写，其余均小写
+ZHANG Xiaojie 1，2姓前名后，姓全部大写。两字名不加连字符
+1 部门, 单位全名, 城市 邮编，中国；
+2 Industrial Chemistry Institute, Nanjing University of Science and Technology, Nanjing 210094, China
+Abstract：[Background] The stable moisture of vacuum pre-conditioner (VP) is of great importance to quality of cigarette. Since the moisture content and temperature of the flue gas inside the moisture return machine are not measurable, the moisture content at the outlet changes with the incoming material, steam and environment. To this end, the modeling and control system of tobacco vacuum moisture recovery was established in this paper to stabilize the moisture content of tobacco leaves exported. [Methods] A prototype of vacuum pre-conditioner was developed by increasing sensors and digital measuring to obtain data from inputs and outputs. The data were treated by patent methods. Through establishing steady-state model and dynamic model of vacuum pre-conditioner, state variables (SVs) such as internal pressure and temperature of vacuum pre-conditioner, moisture content and temperature of cigarette packet were observed. Experiments showed that the observation error was acceptable . Then, for the time-varying, nonlinear, time-delayed and multi-in-and-out controlled objects, the reference model of moisture maximization under the constraint of moisture return time was trained by digital simulation according to the artificial intelligence algorithm. [Results] Test data show: 1) The system can increase the moisture content from 2% to 6% under the condition that the temperature of the cigarette packed core does not exceed 70℃; 2) The system can be used to stabilize the outlet moisture, which is not affected by the drastic changes of steam, water spray, smoke packet and environment. [Conclusion] The modeling and control system of vacuum pre-conditioner developed based on big data can achieve accurate observation and control of vacuum moisture reversion.
+英文摘要应与中文摘要文意一致，但不必一一对应，必要时可适当加长英文摘要的篇幅。可以使用第一人称，主动语态表达。
+0 引言
+拟除虫菊酯类农药是一类效果极佳的杀虫剂，…为确保卷烟产品质量安全，需要建立一种高效、快速的检测方法背景。目前，国内外对…测定方法的研究主要集中在烟叶、烟丝和烟末的测定方面[1-6]，卷烟主流烟气中…分析检测则相对较少[7-9]。Mirjana等[10]报道了…，Mussalo等[11]比较了…相关研究。已有的烟草中…的分析方法不能完全适用于卷烟主流烟气中拟除虫菊酯类农药含量的测定知识空白点。本文建立了一种…检测方法，以期为…农药安全性提供参考本研究的目的及预期。
+引言是论文的开场白，应简要介绍本研究工作的背景、范围、相关领域的研究进展和知识空白，进而提出本研究的目的、预期结果和意义等。论文中大多数参考文献应首先在引文中出现，以上标方括号的形式[1-2]。引文中不宜过多叙述相关领域熟知及教科书中常识性的内容。不宜涉及本研究的数据、结果和结论。综述类论文的引言可仅表述目的和意义。
+论文的层次标题从“0 引言”开始，一律采用阿拉伯数字连续编号；不同层次的数字之间用小圆点相隔，末位数字后不加标点符号，如“1”，“1.1”等，层次标题编号均应顶格。
+注意生物学名词的斜体。物种的学名：菌株的属名、种名（包括亚种、变种）用拉丁文斜体；属的首字母大写，其他小写；属以上用拉丁文正体。限制性内切酶前3个字母用斜体，后面的字母和编码正体平排，如BamH 。各种基因的缩写符号应为斜体且大写。等等
+材料与方法一级标题。所有标题均应顶格。
+仪器、试剂与材料二级标题
+CETI8 V3.0电子烟吸烟机（英国斯茹林(Cerulean)公司）；…。
+异丙醇（色谱纯，美国Dikma公司）；烟碱（纯度＞99%，加拿大TRC公司）；…；
+烟液样品为自主配制的不同溶剂质量配比、相同烟碱浓度的样品，1,2-丙二醇和丙三醇的配比分别为2:8、3:7、4:6、5:5、6:4、7:3、8:2，烟碱浓度均为10 mg/g。
+1.2实验方法和条件
+1.2.1气溶胶总粒相物的捕集三级标题
+采用Coresta推荐的电子烟抽吸模式（抽吸容量55 mL，抽吸频率30 s，抽吸持续时间3s）[15]。
+1.2.2 气溶胶中主要成分分析样品制备
+将捕集电子烟气溶胶的剑桥滤片置于50 mL三角瓶中，加入20 mL含内标的萃取溶液（内标物2-甲基喹啉的浓度为0.2 mg/mL，1,3-丁二醇的浓度为1.0 mg/mL），室温下机械振荡20 min，取1 mL萃取液到2 mL色谱瓶中即可进行GC-FID 分析。
+气相色谱分析条件
+参照文献[14]中的实验条件，具体如下：…。
+材料应包括试验地点、时间、材料特性等。
+卷烟样品应注明样品编号、样品规格等；烟叶应注明年份、产地、品种、等级和数量等；土壤应注明类型、理化性状等；药品试剂应注明名称、纯度和生产商等；仪器设备应注明名称、型号和生产商等，自制仪器设备应提供示意图。
+方法应包括试验环境条件、试验方案、操作方法、测定方法和统计分析方法等。
+结果
+不同溶剂配比的选择
+主要品牌烟液产品的溶剂配比见表1。描述结果……结合所选烟具的工作电压范围选择了中等烟碱浓度作为研究对象，在7种不同溶剂配比的烟液中均添加最终浓度为10 mg/g的烟碱作为实验样品。形成推论。 2.2不同电压下抽吸电子烟产生气溶胶中主要成分释放量
+…释放量值见表2。从表2中数据可以看出，气溶胶中烟碱、1,2-丙二醇和丙三醇的释放量分布范围分别是7.87 ~ 51.77 μg/口描述结果……，跨度非常大形成推论。
+烟碱、1,2-丙二醇和丙三醇的相关性分析结果
+…具体分析结果见表3。描述结果….说明1,2-丙二醇对烟碱递送起关键作用形成推论….。
+结果通常以文字配合图格进行表述，经过归纳整理和数据挖掘，具有代表性和科学意义，能够形成推论。
+结果表述中，应以文字形式对图、表中的信息做适当解释，以帮助读者理解，但文字不应与图、表已包含的信息重复。
+数字与单位的表达
+数字用法应符合GB/T 15835的规定。量、单位和符号的用法应符合GB 3101的规定。
+应尽量使用阿拉伯数字。
+样品在温度（22±1）℃、相对湿度60%±2% 变化幅度应照此两种方式表述的恒温恒湿箱中平衡水分48 h数字和单位间有半字的空隙，但是℃和%除外，测试时每5个通道为1个抽吸方案，抽同一个样品，每个通道共计抽吸3支卷烟。
+所有单位，符号须采用国家标准单位及标准书写方式，如：mbar，ppm，ha应为hm2，ul应为µL，ml应为mL。
+2.5图表的格式
+注：活性炭复合滤嘴中活性炭含量为45 mg/支。
+Note：The activated carbon content of the activated carbon composite filter is about 45 mg / cig.
+图1 滤嘴中薄荷醇含量随储存时间的动态变化
+Fig.1 Dynamic change of menthol content in the filter with storage months
+图表的标题须中、英文双语标注。坐标轴、图例、注释建议中英文双语标注。双语标注的格式见上例。
+如果图注中的信息，能够在图片中体现的，尽量标在图片上。
+图注属于图的一部分，其位置应该在图与图题之间。
+图表的量和单位以“/”隔开。
+书写格式要规范，图1后边没有“.”（不能写成图1.）。Fig.1，因为是简写，所以Fig和1之间有“.”且要空格（不能写成Fig 1 ）。
+涉及国家版图的图片，务必要“规范使用地图 一点都不能错”，务必采用2019年新版国家标准地图，或根据新版国家标准地图“自助底图”制作，避免“问题地图”。
+表1 NtHMA4基因纯合突变材料叶片中的Cd含量
+Tab.1 Content of Cd in leaves of homozygous mutant of NtHMA4 gene
+原始样品编号
+（Initial samples name）
+Cd含量（Cd content）
+/ (mg•kg-1 DW）
+变幅（Variation）
+/%
+953
+23.32±0.33 a
+-42.08
+709
+29.53±4.53 b
+-26.65
+370
+32.96±1.49 bc
+-18.13
+贵烟1号CK
+40.26±4.18 d
+注：平均值多重比较采用One-way ANOVA Duncan法，数据后未标有相同的小写字母表示处理间差异有统计学意义（P<0.05）。Note: Data represent means±s.d.(n=3) and multiple comparison was performed using One-way ANOVA Duncan method. Different letters indicate significant difference at P<0.05.
+表格一般为三线表，可增加虚线以避免歧义。
+表格的注释列于表格下方。中英文可放在一起。
+讨论
+讨论是对研究结果进行全面、细致、深入地分析、解释和阐述的过程。讨论具有探索性，在某些情况下含有推测或呈现不同见解的不确定成分。讨论宜包括以下内容：
+——解释和分析结果的内在原因和机制，探讨研究对象的本质和规律；
+——将本研究结果与理论结果、前人研究成果、预设的研究目的或假设进行比较，分析异同，说明理由，突出本研究的创新性；
+——联系实际说明研究结果的学术意义及直接或潜在的应用价值；
+——对意外的发现或现象以及尚未定论的观点提出猜测，或指出研究的局限性。
+讨论是试验研究类论文正文的必要要素，最能体现水平和理解的深度。通常是引文之外，引用文献最多的部分。
+结论
+结论是对包括讨论在内的整个研究工作的最后总结，应准确、完整、明确、精炼，强调最终判断的客观性和概括性。结论宜包括下述内容：
+——归纳、总结出研究的新发现和新观点；
+——对研究对象本质和规律性的认识进行科学抽象和高度概括；
+——判断本项研究的理论意义和应用价值；
+——指出进一步的研究方向。
+结论或结语应与引言相呼应。
+结论宜采用(1)，(2)，(3)……的形式列项说明。
+致谢：本文在撰写和修改过程中，英美烟草公司的刘川博士给予了有意义的观点和建议，作者在此表示衷心感谢！ 若有致谢，应放在参考文献之前。
+参考文献
+参考文献著录应遵守GB 7714—2015的规定，本刊著录格式采用顺序编码制。
+未公开发表的资料不能作为参考文献。
+文献作者最多只列出3人，英文后接“et al”，中文后接“等”。
+中文参考文献应按上述格式以中英文对照的形式呈现。但原文无对应英文无需如此。
+按照国标规定，常用类别文献的著录示例如下：
+1. 期刊等连续出版物类的析出文献：
+[1] 王振国, 丁伟. 烟草野火病发生与防治的研究进展[J]. 中国烟草学报, 2012, 18(2): 101-106.
+WANG Zhenguo, DING Wei. Research progeress in tocacco wildfire disease’s occurrence and control[J]. Acta Tabacaria Sinica, 2012, 18(2): 101-106.
+2. 书籍、学位论文、标准、文集汇编等专著类文献：
+[2] 陈良元. 卷烟加工工艺[M]. 郑州: 河南科学技术出版社, 1996: 138-140.
+[1] 卢涛. 毛细多孔介质干燥过程中传热传质模型研究及应用[D]. 大连理工大学, 2003.
+LU Tao. Study and application of Model for heat and mass transfer in capillary porous media during drying[D]. Dissetation of Dalian University of Technology, 2003.
+[6] 赵春雷, 丁乃红, 张胜军, 等. 高压润梗装备设计与开发[C]//2010中国烟草学会工业专业委员会烟草工艺学术研讨会论文集. 青岛: 中国烟草学会, 2010.
+3. 专利文献
+[2] 韦策尔P, 比勒F. 制备烟草混合物的方法及相关设备:中国,CN102036574B [P].2013-08-28.
+Witzel P, Beahler F. A relating equipment and method of preparation tobacco mixtures[P]. CN 102036574B.
+4. 网络文章等电子资源文献：
+[3] 侯延琨. 中国创新潮出现在哪些领域？[N/OL]. FT中文网. (2018-01-25)[2019-04-24]. http://www.ftchinese.com/story/001076032?page=1&archive.

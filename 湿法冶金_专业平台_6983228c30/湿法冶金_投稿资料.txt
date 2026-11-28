@@ -1,0 +1,3001 @@
+期刊: 湿法冶金
+来源: https://castjournals.cast.org.cn/joweb/sfyj/CN/1172617838721381148
+标题: 湿法冶金
+
+Article(id=1172617838721381148, tenantId=1146029695717560320, journalId=1146120122248306696, issueId=1172617833407197957, articleNumber=1009-2617(2024)05-0573-10, orderNo=null, doi=10.13355/j.cnki.sfyj.2024.05.014, pmid=null, cstr=null, oa=null, hot=null, price=null, onlineType=0, articleFormat=0, articleType=null, articleTypeStr=null, receivedDate=1718380800000, receivedDateStr=2024-06-15, revisedDate=null, revisedDateStr=null, acceptedDate=null, acceptedDateStr=null, onlineDate=1757503478937, onlineDateStr=2025-09-10, pubDate=1729353600000, pubDateStr=2024-10-20, doiRegisterDate=null, doiRegisterDateStr=null, onlineIssueDate=1757503478937, onlineIssueDateStr=2025-09-10, onlineJustAcceptDate=null, onlineJustAcceptDateStr=null, onlineFirstDate=null, onlineFirstDateStr=null, sourceXml=null, magXml=null, createTime=1757503478937, creator=13701087609, updateTime=1757503478937, updator=13701087609, issue=Issue{id=1172617833407197957, tenantId=1146029695717560320, journalId=1146120122248306696, year='2024', volume='43', issue='5', pageStart='473', pageEnd='591', issueExtLink='null', onlineDate='null', pubDate='1729353600000', pubDateStr='2024-10-20', beforeIssueId=null, nextIssueId=null, price=null, status=1, issueComplete=1, articleOrder=1, issueType=-1, specialIssue=0, createTime=1757503477670, creator='13701087609', updateTime=1758275998347, updator='13701087609', preIssue=null, nextIssue=null, articleTotal=null, ext={EN=IssueExt(id=1175858020027347895, tenantId=1146029695717560320, journalId=1146120122248306696, issueId=1172617833407197957, language=EN, specialIssueTitle=, coverIllustrator=null, specialIssueEditor=, specialIssueAbout=), CN=IssueExt(id=1175858020027347896, tenantId=1146029695717560320, journalId=1146120122248306696, issueId=1172617833407197957, language=CN, specialIssueTitle=, coverIllustrator=null, specialIssueEditor=, specialIssueAbout=)}, issueFiles=null, downloadFileDto=null}, startPage=573, endPage=582, ext={EN=ArticleExt(id=1172617838973039390, articleId=1172617838721381148, tenantId=1146029695717560320, journalId=1146120122248306696, language=EN, title=Optimization of Ultrasound-Assisted Activator Leaching Technology of High-Silicon and Low-Germanium Zinc Oxide Dust by Response Surface Method, columnId=1152626641181700664, journalTitle=Hydrometallurgy of China, columnName=Experiment Research, runingTitle=null, highlight=null, articleAbstract=
+In order to maximize the extraction efficiency of zinc and germanium from high-silicon and low-germanium zinc oxide dust(ZOD), the ultrasonic enhanced leaching process assisted by sodium dodecyl sulfate (C12H25SO3Na) was constructed and optimized by response surface method(RSM),and the accurate prediction model of zinc and germanium leaching rate was established. The results show that on the basis of single factor test, the optimal leaching conditions determined by RSM are leaching temperature of 70 ℃, liquid volume to solid mass ratio of 8 mL/1 g and initial acid mass concentration of 160 g/L. The leaching rates of zinc and germanium can reach 96.94% and 85.41%, respectively. C12H25SO3Na plays a key role as a silica gel inhibitor in the leaching process, effectively preventing the polymerization of silicon ions into silica gel, and this effect is more significant under the combined ultrasonic treatment, reflecting the synergistic benefit between temperature, ultrasound and C12H25SO3Na.The research results provide an efficient recovery strategy for the resource utilization of high-silicon and low-germanium zinc oxide dust, and provide an important technical reference for the recovery of other high silicon waste.
+, authors=null, authorsList=Jie WEI, Qifei PEI, Zhanqing LU, Chen LIANG, Guang FU, Yingjie XU, Hongying XIA, authorCompany=null, correspAuthors=null, authorNote=null, correspAuthorsNote=null, copyrightStatement=null, copyrightOwner=null, extLink=null, articleAbsUrl=null, sourceXml=null, magXml=null, pdfUrl=null, pdf=null, pdfFileSize=null, pdfExtLink=null, richHtmlUrl=null, mobilePdfUrl=null, reviewReport=null, pdfFirstPage=null, abstractGraph=null, abstractGraphContent=null, abstractVideo=null, citation=null, cebUrl=null, magXmlContent=null, mapNumber=null, fund=null), CN=ArticleExt(id=1172618221296431733, articleId=1172617838721381148, tenantId=1146029695717560320, journalId=1146120122248306696, language=CN, title=响应曲面法优化超声协同活化剂浸出高硅低锗氧化锌烟尘研究, columnId=1152626641328501305, journalTitle=湿法冶金, columnName=试验研究, runingTitle=null, highlight=null, articleAbstract=为了最大化高硅低锗氧化锌烟尘(ZOD)中锌、锗提取效率,研究了采用响应曲面法(RSM)构建并优化了十二烷基硫酸钠(C12H25SO3Na)辅助下的超声强化浸出过程,并建立了锌、锗浸出率的精确预测模型。结果表明:在单因素试验基础上,运用RSM确定的最优浸出条件为浸出温度70 ℃,液固体积质量比8 mL/1 g,初始酸质量浓度160 g/L,该条件下的锌浸出率达96.94%,锗浸出率为85.41%;C12H25SO3Na在浸出过程中发挥了关键的硅胶抑制剂作用,有效阻止了硅离子聚合成硅胶,这一效果在超声波的协同作用下更为显著,体现了温度、超声波与C12H25SO3Na三者之间的显著协同效应。研究结果能为高硅低锗氧化锌烟尘的资源化利用提供高效的回收策略,并为其他高硅废弃物的回收提供技术参考。, authors=
+韦洁(1999—),女,硕士研究生,主要研究方向为冶金固废资源综合利用。
+, authorsList=韦洁, 裴启飞, 陆占清, 梁辰, 付光, 徐英杰, 夏洪应, authorCompany=null, correspAuthors=null, authorNote=null, correspAuthorsNote=
+付光(1976—),男,本科,高工,主要研究方向为湿法冶金。E-mail:16634992@qq.com;
+夏洪应(1981—),男,博士,教授,主要研究方向为冶金固废资源综合利用。E-mail:hyxia81@163.com。
+, copyrightStatement=null, copyrightOwner=null, extLink=null, articleAbsUrl=null, sourceXml=ROnAFhDVoI7KY6hvVgrMag==, magXml=mwYTcFXTWq7pTJymFBKx6Q==, pdfUrl=null, pdf=6bIXGAsPz6pxu2DjWDBU9g==, pdfFileSize=null, pdfExtLink=null, richHtmlUrl=null, mobilePdfUrl=null, reviewReport=null, pdfFirstPage=null, abstractGraph=null, abstractGraphContent=null, abstractVideo=null, citation=null, cebUrl=null, magXmlContent=vKGZqFY1gsOmBwbPRZ1lmw==, mapNumber=null, fund=null)}, authors=[Author(id=1176950126833714018, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, orderNo=0, firstName=null, middleName=null, lastName=null, nameCn=null, orcid=null, stid=null, country=null, authorPic=null, dead=0, email=null, emailSecond=null, emailThird=null, correspondingAuthor=0, authorType=1, ext={EN=AuthorExt(id=1176950126934377317, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950126833714018, language=EN, stringName=Jie WEI, firstName=Jie, middleName=null, lastName=WEI, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=1, 2, address=1 Faculty of Metallurgy and Energy Engineering, Kunming University of Science and Technology, Kunming 650093, China
+2 Yunnan Provincial Key Laboratory of Intensification Metallurgy, Kunming University of Science and Technology, Kunming 650093, China, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null), CN=AuthorExt(id=1176950127030846313, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950126833714018, language=CN, stringName=韦洁, firstName=null, middleName=null, lastName=null, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=1, 2, address=1 昆明理工大学 冶金与能源工程学院, 云南 昆明 650093
+2 昆明理工大学 云南省特种冶金重点实验室, 云南 昆明 650093, bio={"content":"
+韦洁(1999—),女,硕士研究生,主要研究方向为冶金固废资源综合利用。
+"}, bioImg=null, bioContent=
+韦洁(1999—),女,硕士研究生,主要研究方向为冶金固废资源综合利用。
+, aboutCorrespAuthor=null)}, companyList=[AuthorCompany(id=1176950126561084246, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=1, ext=[AuthorCompanyExt(id=1176950126569472854, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126561084246, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=1 Faculty of Metallurgy and Energy Engineering, Kunming University of Science and Technology, Kunming 650093, China), AuthorCompanyExt(id=1176950126573667159, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126561084246, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=1 昆明理工大学 冶金与能源工程学院, 云南 昆明 650093)]), AuthorCompany(id=1176950126644970329, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=2, ext=[AuthorCompanyExt(id=1176950126653358938, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126644970329, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=2 Yunnan Provincial Key Laboratory of Intensification Metallurgy, Kunming University of Science and Technology, Kunming 650093, China), AuthorCompanyExt(id=1176950126657553243, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126644970329, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=2 昆明理工大学 云南省特种冶金重点实验室, 云南 昆明 650093)])]), Author(id=1176950127135703917, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, orderNo=1, firstName=null, middleName=null, lastName=null, nameCn=null, orcid=null, stid=null, country=null, authorPic=null, dead=0, email=null, emailSecond=null, emailThird=null, correspondingAuthor=0, authorType=1, ext={EN=AuthorExt(id=1176950127207007088, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950127135703917, language=EN, stringName=Qifei PEI, firstName=Qifei, middleName=null, lastName=PEI, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=3, address=3 Yunnan Chihong Zn & Ge Co., Ltd., Qujing 655011, China, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null), CN=AuthorExt(id=1176950127278310260, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950127135703917, language=CN, stringName=裴启飞, firstName=null, middleName=null, lastName=null, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=3, address=3 云南驰宏锌锗股份有限公司, 云南 曲靖 655011, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null)}, companyList=[AuthorCompany(id=1176950126733050717, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=3, ext=[AuthorCompanyExt(id=1176950126741439326, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126733050717, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=3 Yunnan Chihong Zn & Ge Co., Ltd., Qujing 655011, China), AuthorCompanyExt(id=1176950126766605151, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126733050717, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=3 云南驰宏锌锗股份有限公司, 云南 曲靖 655011)])]), Author(id=1176950127391556473, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, orderNo=2, firstName=null, middleName=null, lastName=null, nameCn=null, orcid=null, stid=null, country=null, authorPic=null, dead=0, email=null, emailSecond=null, emailThird=null, correspondingAuthor=0, authorType=1, ext={EN=AuthorExt(id=1176950127475442558, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950127391556473, language=EN, stringName=Zhanqing LU, firstName=Zhanqing, middleName=null, lastName=LU, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=3, address=3 Yunnan Chihong Zn & Ge Co., Ltd., Qujing 655011, China, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null), CN=AuthorExt(id=1176950127550940033, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950127391556473, language=CN, stringName=陆占清, firstName=null, middleName=null, lastName=null, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=3, address=3 云南驰宏锌锗股份有限公司, 云南 曲靖 655011, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null)}, companyList=[AuthorCompany(id=1176950126733050717, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=3, ext=[AuthorCompanyExt(id=1176950126741439326, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126733050717, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=3 Yunnan Chihong Zn & Ge Co., Ltd., Qujing 655011, China), AuthorCompanyExt(id=1176950126766605151, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126733050717, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=3 云南驰宏锌锗股份有限公司, 云南 曲靖 655011)])]), Author(id=1176950127613854598, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, orderNo=3, firstName=null, middleName=null, lastName=null, nameCn=null, orcid=null, stid=null, country=null, authorPic=null, dead=0, email=null, emailSecond=null, emailThird=null, correspondingAuthor=0, authorType=1, ext={EN=AuthorExt(id=1176950127685157770, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950127613854598, language=EN, stringName=Chen LIANG, firstName=Chen, middleName=null, lastName=LIANG, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=1, 2, address=1 Faculty of Metallurgy and Energy Engineering, Kunming University of Science and Technology, Kunming 650093, China
+2 Yunnan Provincial Key Laboratory of Intensification Metallurgy, Kunming University of Science and Technology, Kunming 650093, China, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null), CN=AuthorExt(id=1176950127739683724, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950127613854598, language=CN, stringName=梁辰, firstName=null, middleName=null, lastName=null, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=1, 2, address=1 昆明理工大学 冶金与能源工程学院, 云南 昆明 650093
+2 昆明理工大学 云南省特种冶金重点实验室, 云南 昆明 650093, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null)}, companyList=[AuthorCompany(id=1176950126561084246, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=1, ext=[AuthorCompanyExt(id=1176950126569472854, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126561084246, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=1 Faculty of Metallurgy and Energy Engineering, Kunming University of Science and Technology, Kunming 650093, China), AuthorCompanyExt(id=1176950126573667159, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126561084246, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=1 昆明理工大学 冶金与能源工程学院, 云南 昆明 650093)]), AuthorCompany(id=1176950126644970329, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=2, ext=[AuthorCompanyExt(id=1176950126653358938, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126644970329, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=2 Yunnan Provincial Key Laboratory of Intensification Metallurgy, Kunming University of Science and Technology, Kunming 650093, China), AuthorCompanyExt(id=1176950126657553243, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126644970329, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=2 昆明理工大学 云南省特种冶金重点实验室, 云南 昆明 650093)])]), Author(id=1176950127794209678, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, orderNo=4, firstName=null, middleName=null, lastName=null, nameCn=null, orcid=null, stid=null, country=null, authorPic=null, dead=0, email=16634992@qq.com, emailSecond=null, emailThird=null, correspondingAuthor=0, authorType=1, ext={EN=AuthorExt(id=1176950127852929937, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950127794209678, language=EN, stringName=Guang FU, firstName=Guang, middleName=null, lastName=FU, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=3, address=3 Yunnan Chihong Zn & Ge Co., Ltd., Qujing 655011, China, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null), CN=AuthorExt(id=1176950127911650195, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950127794209678, language=CN, stringName=付光, firstName=null, middleName=null, lastName=null, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=3, address=3 云南驰宏锌锗股份有限公司, 云南 曲靖 655011, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null)}, companyList=[AuthorCompany(id=1176950126733050717, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=3, ext=[AuthorCompanyExt(id=1176950126741439326, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126733050717, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=3 Yunnan Chihong Zn & Ge Co., Ltd., Qujing 655011, China), AuthorCompanyExt(id=1176950126766605151, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126733050717, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=3 云南驰宏锌锗股份有限公司, 云南 曲靖 655011)])]), Author(id=1176950127961981846, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, orderNo=5, firstName=null, middleName=null, lastName=null, nameCn=null, orcid=null, stid=null, country=null, authorPic=null, dead=0, email=null, emailSecond=null, emailThird=null, correspondingAuthor=0, authorType=1, ext={EN=AuthorExt(id=1176950128037479322, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950127961981846, language=EN, stringName=Yingjie XU, firstName=Yingjie, middleName=null, lastName=XU, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=1, 2, address=1 Faculty of Metallurgy and Energy Engineering, Kunming University of Science and Technology, Kunming 650093, China
+2 Yunnan Provincial Key Laboratory of Intensification Metallurgy, Kunming University of Science and Technology, Kunming 650093, China, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null), CN=AuthorExt(id=1176950128100393884, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950127961981846, language=CN, stringName=徐英杰, firstName=null, middleName=null, lastName=null, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=1, 2, address=1 昆明理工大学 冶金与能源工程学院, 云南 昆明 650093
+2 昆明理工大学 云南省特种冶金重点实验室, 云南 昆明 650093, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null)}, companyList=[AuthorCompany(id=1176950126561084246, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=1, ext=[AuthorCompanyExt(id=1176950126569472854, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126561084246, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=1 Faculty of Metallurgy and Energy Engineering, Kunming University of Science and Technology, Kunming 650093, China), AuthorCompanyExt(id=1176950126573667159, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126561084246, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=1 昆明理工大学 冶金与能源工程学院, 云南 昆明 650093)]), AuthorCompany(id=1176950126644970329, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=2, ext=[AuthorCompanyExt(id=1176950126653358938, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126644970329, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=2 Yunnan Provincial Key Laboratory of Intensification Metallurgy, Kunming University of Science and Technology, Kunming 650093, China), AuthorCompanyExt(id=1176950126657553243, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126644970329, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=2 昆明理工大学 云南省特种冶金重点实验室, 云南 昆明 650093)])]), Author(id=1176950128184279967, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, orderNo=6, firstName=null, middleName=null, lastName=null, nameCn=null, orcid=null, stid=null, country=null, authorPic=null, dead=0, email=hyxia81@163.com, emailSecond=null, emailThird=null, correspondingAuthor=0, authorType=1, ext={EN=AuthorExt(id=1176950128247194531, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950128184279967, language=EN, stringName=Hongying XIA, firstName=Hongying, middleName=null, lastName=XIA, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=1, 2, address=1 Faculty of Metallurgy and Energy Engineering, Kunming University of Science and Technology, Kunming 650093, China
+2 Yunnan Provincial Key Laboratory of Intensification Metallurgy, Kunming University of Science and Technology, Kunming 650093, China, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null), CN=AuthorExt(id=1176950128301720485, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950128184279967, language=CN, stringName=夏洪应, firstName=null, middleName=null, lastName=null, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=1, 2, address=1 昆明理工大学 冶金与能源工程学院, 云南 昆明 650093
+2 昆明理工大学 云南省特种冶金重点实验室, 云南 昆明 650093, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null)}, companyList=[AuthorCompany(id=1176950126561084246, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=1, ext=[AuthorCompanyExt(id=1176950126569472854, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126561084246, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=1 Faculty of Metallurgy and Energy Engineering, Kunming University of Science and Technology, Kunming 650093, China), AuthorCompanyExt(id=1176950126573667159, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126561084246, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=1 昆明理工大学 冶金与能源工程学院, 云南 昆明 650093)]), AuthorCompany(id=1176950126644970329, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=2, ext=[AuthorCompanyExt(id=1176950126653358938, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126644970329, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=2 Yunnan Provincial Key Laboratory of Intensification Metallurgy, Kunming University of Science and Technology, Kunming 650093, China), AuthorCompanyExt(id=1176950126657553243, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126644970329, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=2 昆明理工大学 云南省特种冶金重点实验室, 云南 昆明 650093)])])], keywords=[Keyword(id=1176950128419161000, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, orderNo=1, keyword=high-silicon and low-germanium zinc oxide dust), Keyword(id=1176950128498852777, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, orderNo=2, keyword=response surface method), Keyword(id=1176950128565961642, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, orderNo=3, keyword=ultrasound), Keyword(id=1176950128633070508, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, orderNo=4, keyword=activator), Keyword(id=1176950128712762286, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, orderNo=5, keyword=sodium dodecyl sulfate), Keyword(id=1176950128805036976, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, orderNo=6, keyword=leaching), Keyword(id=1176950128880534448, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, orderNo=7, keyword=zinc), Keyword(id=1176950128968614834, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, orderNo=8, keyword=germanium), Keyword(id=1176950129035723700, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, orderNo=1, keyword=高硅低锗氧化锌烟尘), Keyword(id=1176950129090249654, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, orderNo=2, keyword=响应曲面法), Keyword(id=1176950129148969912, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, orderNo=3, keyword=超声波), Keyword(id=1176950129304159162, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, orderNo=4, keyword=活化剂), Keyword(id=1176950129379656636, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, orderNo=5, keyword=十二烷基硫酸钠), Keyword(id=1176950129442571198, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, orderNo=6, keyword=浸出), Keyword(id=1176950129513874368, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, orderNo=7, keyword=锌), Keyword(id=1176950129576788930, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, orderNo=8, keyword=锗)], refs=[Reference(id=1176950133255192593, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2024, volume=330, issue=null, pageStart=null, pageEnd=null, url=null, language=null, rfNumber=[1], rfOrder=0, authorNames=XU Y J, QU D K, XIA H Y, journalName=Separation & Purification Technology, refType=null, unstructuredReference=XU Y J, QU D K, XIA H Y, et al. Migration behavior of germanium and its related elements in zinc hydrometallurgy process[J]. Separation & Purification Technology, 2024, 330.DOI:10.1016/j.seppur.2023.125467., articleTitle=Migration behavior of germanium and its related elements in zinc hydrometallurgy process, refAbstract=null), Reference(id=1176950133318107154, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2022, volume=7, issue=44, pageStart=null, pageEnd=null, url=null, language=null, rfNumber=[2], rfOrder=1, authorNames=XU Y J, XIA H Y, ZHANG Q, journalName=Chemistry Select, refType=null, unstructuredReference=XU Y J, XIA H Y, ZHANG Q, et al. Optimization of zinc and germanium recovery process from zinc oxide dust by response surface methodology[J]. Chemistry Select, 2022, 7(44).DOI:10.1002/slct.202203433., articleTitle=Optimization of zinc and germanium recovery process from zinc oxide dust by response surface methodology, refAbstract=null), Reference(id=1176950133397798931, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2022, volume=null, issue=null, pageStart=null, pageEnd=null, url=null, language=null, rfNumber=[3], rfOrder=2, authorNames=GENG X L, LIU Y, ZHANG W, journalName=Chemical Engineering Journal, refType=null, unstructuredReference=GENG X L, LIU Y, ZHANG W, et al. Recent advances in the recovery of germanium during the zinc refining process[J]. Chemical Engineering Journal, 2022,446.DOI:10.1016/j.cej.2022.137445., articleTitle=Recent advances in the recovery of germanium during the zinc refining process, refAbstract=null), Reference(id=1176950133477490708, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2021, volume=11, issue=6, pageStart=66, pageEnd=74, url=null, language=null, rfNumber=[4], rfOrder=3, authorNames=辛椿福, 夏洪应, 张利波, journalName=有色金属工程, refType=null, unstructuredReference=辛椿福, 夏洪应, 张利波, 等. 含锗氧化锌烟尘中有价金属回收利用研究进展[J]. 有色金属工程, 2021, 11(6):66-74., articleTitle=含锗氧化锌烟尘中有价金属回收利用研究进展, refAbstract=null), Reference(id=1176950133548793877, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2023, volume=null, issue=null, pageStart=null, pageEnd=null, url=null, language=null, rfNumber=[5], rfOrder=4, authorNames=朱应旭, journalName=富氧浸出含锗氧化锌烟尘的研究, refType=null, unstructuredReference=朱应旭. 富氧浸出含锗氧化锌烟尘的研究[D]. 昆明: 昆明理工大学, 2023., articleTitle=null, refAbstract=null), Reference(id=1176950133720760342, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2020, volume=29, issue=1, pageStart=37, pageEnd=43, url=null, language=null, rfNumber=[6], rfOrder=5, authorNames=邓志敢, 朱应旭, 魏昶, journalName=矿冶, refType=null, unstructuredReference=邓志敢, 朱应旭, 魏昶, 等. 常压富氧浸出含锗氧化锌烟尘回收锌和锗[J]. 矿冶, 2020, 29(1):37-43., articleTitle=常压富氧浸出含锗氧化锌烟尘回收锌和锗, refAbstract=null), Reference(id=1176950133800452119, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2024, volume=34, issue=3, pageStart=934, pageEnd=946, url=null, language=null, rfNumber=[7], rfOrder=6, authorNames=陆占清, 邓志敢, 魏昶, journalName=中国有色金属学报, refType=null, unstructuredReference=陆占清, 邓志敢, 魏昶, 等. 氧化锌烟尘中锗的浸出行为[J]. 中国有色金属学报, 2024, 34(3):934-946., articleTitle=氧化锌烟尘中锗的浸出行为, refAbstract=null), Reference(id=1176950133896921112, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2022, volume=41, issue=2, pageStart=117, pageEnd=121, url=null, language=null, rfNumber=[8], rfOrder=7, authorNames=孙彩虹, 代梦博, 张文杰, journalName=湿法冶金, refType=null, unstructuredReference=孙彩虹, 代梦博, 张文杰, 等. 转底炉工艺次氧化锌的硫酸浸出动力学[J]. 湿法冶金, 2022, 41(2):117-121., articleTitle=转底炉工艺次氧化锌的硫酸浸出动力学, refAbstract=null), Reference(id=1176950133968224281, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2009, volume=95, issue=2, pageStart=5, pageEnd=7, url=null, language=null, rfNumber=[9], rfOrder=8, authorNames=LIANG D Q, WANG J K, WANG Y H, journalName=Hydrometallurgy, refType=null, unstructuredReference=LIANG D Q, WANG J K, WANG Y H. Difference in dissolution between germanium and zinc during the oxidative pressure leaching of sphalerite[J]. Hydrometallurgy, 2009, 95(2):5-7., articleTitle=Difference in dissolution between germanium and zinc during the oxidative pressure leaching of sphalerite, refAbstract=null), Reference(id=1176950134064693274, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2021, volume=31, issue=4, pageStart=995, pageEnd=1006, url=null, language=null, rfNumber=[10], rfOrder=9, authorNames=朱应旭, 邓志敢, 魏昶, journalName=中国有色金属学报, refType=null, unstructuredReference=朱应旭, 邓志敢, 魏昶, 等. 常压富氧浸出含锗氧化锌烟尘[J]. 中国有色金属学报, 2021, 31(4):995-1006., articleTitle=常压富氧浸出含锗氧化锌烟尘, refAbstract=null), Reference(id=1176950134140190747, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2023, volume=42, issue=3, pageStart=241, pageEnd=246, url=null, language=null, rfNumber=[11], rfOrder=10, authorNames=邵庆阳, 吴远桂, 谈定生, journalName=湿法冶金, refType=null, unstructuredReference=邵庆阳, 吴远桂, 谈定生, 等. 用稀硫酸-有机酸体系浸出锌粉置换渣中的锗试验研究[J]. 湿法冶金, 2023, 42(3):241-246., articleTitle=用稀硫酸-有机酸体系浸出锌粉置换渣中的锗试验研究, refAbstract=null), Reference(id=1176950134211493916, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2023, volume=21, issue=11, pageStart=1433, pageEnd=1441, url=null, language=null, rfNumber=[12], rfOrder=11, authorNames=LIANG M, DI H K, HONG Y, journalName=International Journal of Chemical Reactor Engineering, refType=null, unstructuredReference=LIANG M, DI H K, HONG Y, et al. Physical effect of ultrasonic on leaching system of zinc oxide dust containing germanium[J]. International Journal of Chemical Reactor Engineering, 2023, 21(11):1433-1441., articleTitle=Physical effect of ultrasonic on leaching system of zinc oxide dust containing germanium, refAbstract=null), Reference(id=1176950134303768605, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2018, volume=115, issue=2, pageStart=null, pageEnd=null, url=null, language=null, rfNumber=[13], rfOrder=12, authorNames=WANG W K, WANG F C, LU F H, journalName=Metallurgical Research & Technology, refType=null, unstructuredReference=WANG W K, WANG F C, LU F H. Microwave alkaline roasting-water dissolving process for germanium extraction from zinc oxide dust and its analysis by response surface methodology(RSM)[J]. Metallurgical Research & Technology, 2018, 115(2):DOI:10.1051/METAL/2017093., articleTitle=Microwave alkaline roasting-water dissolving process for germanium extraction from zinc oxide dust and its analysis by response surface methodology(RSM), refAbstract=null), Reference(id=1176950134387654686, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2023, volume=216, issue=null, pageStart=null, pageEnd=null, url=null, language=null, rfNumber=[14], rfOrder=13, authorNames=LI Y H, HE X H, YANG Y D, journalName=Hydrometallurgy, refType=null, unstructuredReference=LI Y H, HE X H, YANG Y D, et al. High pressure acid leaching of low germanium bearing silica residue(GRS):characterization of leach residue and mechanistic details of germanium leaching[J]. Hydrometallurgy, 2023, 216.DOI:10.1016/j.hydromet.2022.106015., articleTitle=High pressure acid leaching of low germanium bearing silica residue(GRS):characterization of leach residue and mechanistic details of germanium leaching, refAbstract=null), Reference(id=1176950134446374943, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2023, volume=42, issue=4, pageStart=347, pageEnd=352, url=null, language=null, rfNumber=[15], rfOrder=14, authorNames=冯卿, 张玉慧, 李雷, journalName=湿法冶金, refType=null, unstructuredReference=冯卿, 张玉慧, 李雷, 等. 用硫酸化焙烧—水浸工艺从高砷铜冶炼烟尘中浸出铜锌[J]. 湿法冶金, 2023, 42(4):347-352., articleTitle=用硫酸化焙烧—水浸工艺从高砷铜冶炼烟尘中浸出铜锌, refAbstract=null), Reference(id=1176950134513483808, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2023, volume=null, issue=null, pageStart=null, pageEnd=null, url=null, language=null, rfNumber=[16], rfOrder=15, authorNames=陈春林, journalName=含锗氧化锌烟尘控酸氧化浸出工艺及产业化应用研究, refType=null, unstructuredReference=陈春林. 含锗氧化锌烟尘控酸氧化浸出工艺及产业化应用研究[D]. 昆明: 昆明理工大学, 2023., articleTitle=null, refAbstract=null), Reference(id=1176950134584786977, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2023, volume=33, issue=10, pageStart=105, pageEnd=115, url=null, language=null, rfNumber=[17], rfOrder=16, authorNames=党晓娥, 刘安全, 李林波, journalName=中国冶金, refType=null, unstructuredReference=党晓娥, 刘安全, 李林波, 等. 响应曲面法优化草酸-草酸铵协同浸出氰化尾渣中赤铁矿的工艺[J]. 中国冶金, 2023, 33(10):105-115., articleTitle=响应曲面法优化草酸-草酸铵协同浸出氰化尾渣中赤铁矿的工艺, refAbstract=null), Reference(id=1176950134656090146, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2021, volume=40, issue=5, pageStart=435, pageEnd=439, url=null, language=null, rfNumber=[18], rfOrder=17, authorNames=张俊峰, 赵辉, journalName=湿法冶金, refType=null, unstructuredReference=张俊峰, 赵辉. 有色冶炼酸性废水除钙试验研究[J]. 湿法冶金, 2021, 40(5):435-439., articleTitle=有色冶炼酸性废水除钙试验研究, refAbstract=null), Reference(id=1176950134760947747, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2023, volume=null, issue=null, pageStart=null, pageEnd=null, url=null, language=null, rfNumber=[19], rfOrder=18, authorNames=蔡无尘, journalName=铝电解废旧阴极炭无害化处理的除氟研究, refType=null, unstructuredReference=蔡无尘. 铝电解废旧阴极炭无害化处理的除氟研究[D]. 昆明: 昆明理工大学, 2023., articleTitle=null, refAbstract=null), Reference(id=1176950134832250916, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2023, volume=52, issue=9, pageStart=26, pageEnd=31, url=null, language=null, rfNumber=[20], rfOrder=19, authorNames=彭祥玉, 田家怡, 王宇斌, journalName=化工矿物与加工, refType=null, unstructuredReference=彭祥玉, 田家怡, 王宇斌, 等. 基于响应曲面法优化的飞灰中氯盐磁化水浸出条件及机理研究[J]. 化工矿物与加工, 2023, 52(9):26-31., articleTitle=基于响应曲面法优化的飞灰中氯盐磁化水浸出条件及机理研究, refAbstract=null), Reference(id=1176950134916136997, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2023, volume=42, issue=3, pageStart=306, pageEnd=311, url=null, language=null, rfNumber=[21], rfOrder=20, authorNames=蒋宗来, 孙建光, 辛国杨, journalName=湿法冶金, refType=null, unstructuredReference=蒋宗来, 孙建光, 辛国杨, 等. 用响应曲面法优化高氯废水脱氯试验研究[J]. 湿法冶金, 2023, 42(3):306-311., articleTitle=用响应曲面法优化高氯废水脱氯试验研究, refAbstract=null), Reference(id=1176950135004217382, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2023, volume=41, issue=4, pageStart=656, pageEnd=663, url=null, language=null, rfNumber=[22], rfOrder=21, authorNames=郑国华, 黄虹, 涂祖新, journalName=江西科学, refType=null, unstructuredReference=郑国华, 黄虹, 涂祖新, 等. 响应面Box-Behnken设计优化野金柴老叶复合酶处理工艺研究[J]. 江西科学, 2023, 41(4):656-663., articleTitle=响应面Box-Behnken设计优化野金柴老叶复合酶处理工艺研究, refAbstract=null), Reference(id=1176950135071326247, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2023, volume=55, issue=9, pageStart=106, pageEnd=113, url=null, language=null, rfNumber=[23], rfOrder=22, authorNames=章聪华, 颜文斌, 肖佳俊, journalName=无机盐工业, refType=null, unstructuredReference=章聪华, 颜文斌, 肖佳俊, 等. 响应曲面法优化酒石酸还原浸出电解锰阳极渣工艺[J]. 无机盐工业, 2023, 55(9):106-113., articleTitle=响应曲面法优化酒石酸还原浸出电解锰阳极渣工艺, refAbstract=null), Reference(id=1176950135184572456, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2013, volume=23, issue=5, pageStart=1480, pageEnd=1488, url=null, language=null, rfNumber=[24], rfOrder=23, authorNames=LI M, PENG B, CHAI L Y, journalName=Transactions of Nonferrous Metals Society of China, refType=null, unstructuredReference=LI M, PENG B, CHAI L Y, et al. Technological mineralogy and environmental activity of zinc leaching residue from zinc hydrometallurgical process[J]. Transactions of Nonferrous Metals Society of China, 2013, 23(5):1480-1488., articleTitle=Technological mineralogy and environmental activity of zinc leaching residue from zinc hydrometallurgical process, refAbstract=null), Reference(id=1176950135285235753, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2000, volume=59, issue=3/4, pageStart=305, pageEnd=312, url=null, language=null, rfNumber=[25], rfOrder=24, authorNames=SEONG M, PAUL G, journalName=Catalysis Today, refType=null, unstructuredReference=SEONG M, PAUL G. Characterization and reactivity of pure TiO-SO SCR catalyst:influence of SO42− content[J]. Catalysis Today, 2000, 59(3/4):305-312., articleTitle=Characterization and reactivity of pure TiO-SO SCR catalyst:influence of SO42− content, refAbstract=null), Reference(id=1176950135348150314, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2021, volume=null, issue=null, pageStart=5319, pageEnd=8324, url=null, language=null, rfNumber=[26], rfOrder=25, authorNames=VERMA S, DEB M, journalName=Journal of Agricultural and Food Chemistry, refType=null, unstructuredReference=VERMA S, DEB M. Single-drop and nanogram level determination of sulfite (SO42−) in alcoholic and nonalcoholic beverage samples based on diffuse reflectance fourier transform infrared spectroscopic (DRS-FTIR) analysis on KBr matrix[J]. Journal of Agricultural and Food Chemistry, 2021,55:5319-8324., articleTitle=Single-drop and nanogram level determination of sulfite (SO42−) in alcoholic and nonalcoholic beverage samples based on diffuse reflectance fourier transform infrared spectroscopic (DRS-FTIR) analysis on KBr matrix, refAbstract=null), Reference(id=1176950135436230699, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2002, volume=87, issue=5/6, pageStart=623, pageEnd=629, url=null, language=null, rfNumber=[27], rfOrder=26, authorNames=KLOPROGGE T J, WHARTON D, HICKEY L, journalName=American Mineralogist, refType=null, unstructuredReference=KLOPROGGE T J, WHARTON D, HICKEY L, et al. Infrared and raman study of interlayer anions CO32−,NO3−,SO42− and ClO4− in Mg/Al-hydrotalcite[J]. American Mineralogist, 2002, 87(5/6):623-629., articleTitle=Infrared and raman study of interlayer anions CO32−,NO3−,SO42− and ClO4− in Mg/Al-hydrotalcite, refAbstract=null), Reference(id=1176950135490756652, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, doi=null, pmid=null, pmcid=null, year=2001, volume=105, issue=6, pageStart=974, pageEnd=983, url=null, language=null, rfNumber=[28], rfOrder=27, authorNames=DEVLIN P J, SADLEJ J, BUCH V, journalName=The Journal of Physical Chemistry:A, refType=null, unstructuredReference=DEVLIN P J, SADLEJ J, BUCH V. Infrared spectra of large H2O clusters:new understanding of the elusive bending mode of ice[J]. The Journal of Physical Chemistry:A, 2001, 105(6):974-983., articleTitle=Infrared spectra of large H2O clusters:new understanding of the elusive bending mode of ice, refAbstract=null)], funds=[Fund(id=1176950132940619790, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, awardId=2021YFC290281, language=CN, fundingSource=国家重点研发计划项目(2021YFC290281), fundOrder=null, country=null), Fund(id=1176950132999340047, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, awardId=202405AK340004, language=CN, fundingSource=云南省锌资源技术创新中心项目(202405AK340004), fundOrder=null, country=null), Fund(id=1176950133087420432, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, awardId=云发改人事〔2019〕1096号, language=CN, fundingSource=云南省“兴滇英才支持计划”产业创新人才项目(云发改人事〔2019〕1096号), fundOrder=null, country=null)], companyList=[AuthorCompany(id=1176950126561084246, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=1, ext=[AuthorCompanyExt(id=1176950126569472854, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126561084246, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=1 Faculty of Metallurgy and Energy Engineering, Kunming University of Science and Technology, Kunming 650093, China), AuthorCompanyExt(id=1176950126573667159, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126561084246, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=1 昆明理工大学 冶金与能源工程学院, 云南 昆明 650093)]), AuthorCompany(id=1176950126644970329, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=2, ext=[AuthorCompanyExt(id=1176950126653358938, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126644970329, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=2 Yunnan Provincial Key Laboratory of Intensification Metallurgy, Kunming University of Science and Technology, Kunming 650093, China), AuthorCompanyExt(id=1176950126657553243, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126644970329, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=2 昆明理工大学 云南省特种冶金重点实验室, 云南 昆明 650093)]), AuthorCompany(id=1176950126733050717, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=3, ext=[AuthorCompanyExt(id=1176950126741439326, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126733050717, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=3 Yunnan Chihong Zn & Ge Co., Ltd., Qujing 655011, China), AuthorCompanyExt(id=1176950126766605151, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126733050717, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=3 云南驰宏锌锗股份有限公司, 云南 曲靖 655011)])], figs=[ArticleFig(id=1176950129731978182, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, label=null, caption=null, figureFileSmall=TzKxztXNVgtLG+xI94XcEg==, figureFileBig=7FapkqJb+fzFFK2oPRfD8w==, tableContent=null), ArticleFig(id=1176950129782309832, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, label=图1, caption=高硅低锗氧化锌烟尘的XRD图谱, figureFileSmall=TzKxztXNVgtLG+xI94XcEg==, figureFileBig=7FapkqJb+fzFFK2oPRfD8w==, tableContent=null), ArticleFig(id=1176950129841030090, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, label=null, caption=null, figureFileSmall=T11VYsA/a2vR3zh3YFPVsw==, figureFileBig=OKdJRIgdS5ZxRzaGIpYbxw==, tableContent=null), ArticleFig(id=1176950129912333260, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, label=图2, caption=锌浸出率二次模型的实际值与预测值之间的关系, figureFileSmall=T11VYsA/a2vR3zh3YFPVsw==, figureFileBig=OKdJRIgdS5ZxRzaGIpYbxw==, tableContent=null), ArticleFig(id=1176950129983636430, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, label=null, caption=null, figureFileSmall=bsTKLU+qDA0pV4elkVmfIA==, figureFileBig=gJZbs7FlQ501EoahBFwWzw==, tableContent=null), ArticleFig(id=1176950130046550993, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, label=图3, caption=锗浸出率模型实际值与预测值之间的关系, figureFileSmall=bsTKLU+qDA0pV4elkVmfIA==, figureFileBig=gJZbs7FlQ501EoahBFwWzw==, tableContent=null), ArticleFig(id=1176950130113659858, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, label=null, caption=null, figureFileSmall=rrL3YGy3Vo0hh30V2DJV3w==, figureFileBig=1CuvA/qSLpEj7iqIddBGqg==, tableContent=null), ArticleFig(id=1176950130176574420, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, label=图4, caption=浸出温度与液固体积质量比相互作用对锌浸出率影响的3D曲面和等高线, figureFileSmall=rrL3YGy3Vo0hh30V2DJV3w==, figureFileBig=1CuvA/qSLpEj7iqIddBGqg==, tableContent=null), ArticleFig(id=1176950130235294678, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, label=null, caption=null, figureFileSmall=/nXns/HopD1i+exTEJHgww==, figureFileBig=K4BTGrDW43YfLjZg/aNiHQ==, tableContent=null), ArticleFig(id=1176950130298209239, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, label=图5, caption=浸出温度与初始硫酸质量浓度相互作用对锌浸出率影响的3D曲面和等高线, figureFileSmall=/nXns/HopD1i+exTEJHgww==, figureFileBig=K4BTGrDW43YfLjZg/aNiHQ==, tableContent=null), ArticleFig(id=1176950130365318105, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, label=null, caption=null, figureFileSmall=8FJt4fBM1bRQdy2+jq3xhg==, figureFileBig=1E3rHArAf+m0Axtlj3mQjQ==, tableContent=null), ArticleFig(id=1176950130474370011, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, label=图6, caption=液固体积质量比与初始硫酸质量浓度相互作用对锌浸出率影响的3D曲面和等高线, figureFileSmall=8FJt4fBM1bRQdy2+jq3xhg==, figureFileBig=1E3rHArAf+m0Axtlj3mQjQ==, tableContent=null), ArticleFig(id=1176950130545673181, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, label=null, caption=null, figureFileSmall=h3CPGr56DOtUN9gZDEDiXg==, figureFileBig=IU4SVCBo14s75RFZJZ8Omg==, tableContent=null), ArticleFig(id=1176950130608587743, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, label=图7, caption=浸出温度与液固体积质量比相互作用对锗浸出率影响的3D曲面和等高线, figureFileSmall=h3CPGr56DOtUN9gZDEDiXg==, figureFileBig=IU4SVCBo14s75RFZJZ8Omg==, tableContent=null), ArticleFig(id=1176950130675696609, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, label=null, caption=null, figureFileSmall=Uu7xEemuSGvSOXQodIE+Eg==, figureFileBig=1UQD7usz11Zkk240Q+oiww==, tableContent=null), ArticleFig(id=1176950130738611171, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, label=图8, caption=浸出温度与初始硫酸质量浓度相互作用对锗浸出率影响的3D曲面和等高线, figureFileSmall=Uu7xEemuSGvSOXQodIE+Eg==, figureFileBig=1UQD7usz11Zkk240Q+oiww==, tableContent=null), ArticleFig(id=1176950130814108645, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, label=null, caption=null, figureFileSmall=QCF169gCYarFLa6QacG7jA==, figureFileBig=dPKgNO10mbenIOWcUVbU0Q==, tableContent=null), ArticleFig(id=1176950130910577639, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, label=图9, caption=液固体积质量比与初始硫酸质量浓度与相互作用对锗浸出率影响的3D曲面和等高线, figureFileSmall=QCF169gCYarFLa6QacG7jA==, figureFileBig=dPKgNO10mbenIOWcUVbU0Q==, tableContent=null), ArticleFig(id=1176950130981880808, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, label=null, caption=null, figureFileSmall=w+LmQ9f9QrReOPkmTgeByQ==, figureFileBig=3JFI9x4dolCBxlqFsaGeJQ==, tableContent=null), ArticleFig(id=1176950131061572586, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, label=图10, caption=2种浸出渣的XRD图谱对比, figureFileSmall=w+LmQ9f9QrReOPkmTgeByQ==, figureFileBig=3JFI9x4dolCBxlqFsaGeJQ==, tableContent=null), ArticleFig(id=1176950131128681452, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, label=null, caption=null, figureFileSmall=cnOFJy5A+y9K7wOFMnUIWg==, figureFileBig=LyGh16pth68yu1OqFYDEpQ==, tableContent=null), ArticleFig(id=1176950131204178925, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, label=图11, caption=2种浸出渣的FT-IR光谱, figureFileSmall=cnOFJy5A+y9K7wOFMnUIWg==, figureFileBig=LyGh16pth68yu1OqFYDEpQ==, tableContent=null), ArticleFig(id=1176950131300647919, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, label=null, caption=null, figureFileSmall=O4amBkpyHph7YjTyoVEylA==, figureFileBig=6P5Hse0FzzIRPo6U6uFPXA==, tableContent=null), ArticleFig(id=1176950131363562481, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, label=图12, caption=超声协同活化剂强化浸出渣的SEM-EDS光谱, figureFileSmall=O4amBkpyHph7YjTyoVEylA==, figureFileBig=6P5Hse0FzzIRPo6U6uFPXA==, tableContent=null), ArticleFig(id=1176950131443254259, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, label=null, caption=null, figureFileSmall=null, figureFileBig=null, tableContent=
+Zn
+Pb
+Fe
+S
+Si
+As
+Ge
+47.69
+8.38
+5.51
+2.49
+2.56
+0.72
+360*
+), ArticleFig(id=1176950131518751733, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, label=表1, caption=
+高硅低锗氧化锌烟尘的主要化学组成 %
+, figureFileSmall=null, figureFileBig=null, tableContent=
+Zn
+Pb
+Fe
+S
+Si
+As
+Ge
+47.69
+8.38
+5.51
+2.49
+2.56
+0.72
+360*
+), ArticleFig(id=1176950131640386551, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, label=null, caption=null, figureFileSmall=null, figureFileBig=null, tableContent=
+水平
+因素
+x1/℃
+x2/(mL·g-1)
+x3/(g·L-1)
+-1
+50
+6
+120
+0
+70
+8
+160
+1
+90
+10
+200
+), ArticleFig(id=1176950131778798585, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, label=表2, caption=
+设计因素水平
+, figureFileSmall=null, figureFileBig=null, tableContent=
+水平
+因素
+x1/℃
+x2/(mL·g-1)
+x3/(g·L-1)
+-1
+50
+6
+120
+0
+70
+8
+160
+1
+90
+10
+200
+), ArticleFig(id=1176950131854296059, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, label=null, caption=null, figureFileSmall=null, figureFileBig=null, tableContent=
+试验编号
+x1/℃
+x2/(mL·g-1)
+x3/(g·L-1)
+y1(Zn)/%
+y2(Zn)/%
+y1(Ge)/%
+y2(Ge)/%
+1
+0
+1
+1
+94.84
+94.86
+78.50
+79.38
+2
+0
+0
+0
+96.94
+97.06
+85.41
+85.32
+3
+0
+0
+0
+96.94
+97.03
+85.41
+85.81
+4
+0
+0
+0
+96.94
+96.75
+85.41
+86.35
+5
+1
+0
+1
+93.53
+93.52
+80.00
+80.11
+6
+0
+0
+0
+96.94
+96.88
+85.41
+84.14
+7
+1
+-1
+0
+94.35
+94.36
+73.57
+74.07
+8
+0
+0
+0
+96.94
+96.96
+85.41
+85.42
+9
+1
+0
+-1
+90.35
+90.36
+78.24
+78.62
+10
+0
+1
+-1
+91.74
+91.74
+75.00
+75.61
+11
+-1
+-1
+0
+95.24
+95.25
+72.54
+73.53
+12
+0
+-1
+-1
+91.04
+91.02
+72.93
+72.05
+13
+0
+-1
+1
+94.28
+94.28
+73.36
+72.75
+14
+-1
+0
+-1
+91.24
+91.25
+77.38
+77.27
+15
+1
+1
+0
+94.99
+94.98
+76.80
+75.81
+16
+-1
+0
+1
+94.41
+94.40
+79.54
+79.16
+17
+-1
+1
+0
+95.87
+95.86
+76.53
+76.03
+), ArticleFig(id=1176950131959153662, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, label=表3, caption=
+试验设计方案及结果
+, figureFileSmall=null, figureFileBig=null, tableContent=
+试验编号
+x1/℃
+x2/(mL·g-1)
+x3/(g·L-1)
+y1(Zn)/%
+y2(Zn)/%
+y1(Ge)/%
+y2(Ge)/%
+1
+0
+1
+1
+94.84
+94.86
+78.50
+79.38
+2
+0
+0
+0
+96.94
+97.06
+85.41
+85.32
+3
+0
+0
+0
+96.94
+97.03
+85.41
+85.81
+4
+0
+0
+0
+96.94
+96.75
+85.41
+86.35
+5
+1
+0
+1
+93.53
+93.52
+80.00
+80.11
+6
+0
+0
+0
+96.94
+96.88
+85.41
+84.14
+7
+1
+-1
+0
+94.35
+94.36
+73.57
+74.07
+8
+0
+0
+0
+96.94
+96.96
+85.41
+85.42
+9
+1
+0
+-1
+90.35
+90.36
+78.24
+78.62
+10
+0
+1
+-1
+91.74
+91.74
+75.00
+75.61
+11
+-1
+-1
+0
+95.24
+95.25
+72.54
+73.53
+12
+0
+-1
+-1
+91.04
+91.02
+72.93
+72.05
+13
+0
+-1
+1
+94.28
+94.28
+73.36
+72.75
+14
+-1
+0
+-1
+91.24
+91.25
+77.38
+77.27
+15
+1
+1
+0
+94.99
+94.98
+76.80
+75.81
+16
+-1
+0
+1
+94.41
+94.40
+79.54
+79.16
+17
+-1
+1
+0
+95.87
+95.86
+76.53
+76.03
+), ArticleFig(id=1176950132051428351, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, label=null, caption=null, figureFileSmall=null, figureFileBig=null, tableContent=
+项目
+平方和
+自由度
+均方和
+F值
+P值
+显著性
+模型
+80.91
+9
+8.99
+987.21
+<0.000 1
+显著
+x1
+1.57
+1
+1.57
+172.02
+<0.000 1
+x2
+0.80
+1
+0.80
+87.86
+<0.000 1
+x3
+20.13
+1
+20.13
+2 210.47
+<0.000 1
+x1x2
+2.5×10-5
+1
+2.5×10-5
+2.745×10-3
+0.959 7
+x1x3
+2.5×10-5
+1
+2.5×10-5
+2.745×10-3
+0.959 7
+x2x3
+4.9×10-3
+1
+4.9×10-5
+0.54
+0.487 1
+x12
+6.14
+1
+6.14
+674.72
+<0.000 1
+x22
+1.60
+1
+1.60
+175.16
+<0.000 1
+x32
+47.13
+1
+47.13
+5 175.00
+<0.000 1
+残差
+0.064
+7
+9.106×10-3
+—
+—
+失拟项
+1.225×10-3
+3
+4.083×10-4
+0.026
+0.993 4
+不显著
+纯误差
+0.063
+4
+0.016
+—
+—
+总方差
+80.97
+16
+—
+—
+), ArticleFig(id=1176950132143702016, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, label=表4, caption=
+锌浸出二次模型的方差分析结果
+, figureFileSmall=null, figureFileBig=null, tableContent=
+项目
+平方和
+自由度
+均方和
+F值
+P值
+显著性
+模型
+80.91
+9
+8.99
+987.21
+<0.000 1
+显著
+x1
+1.57
+1
+1.57
+172.02
+<0.000 1
+x2
+0.80
+1
+0.80
+87.86
+<0.000 1
+x3
+20.13
+1
+20.13
+2 210.47
+<0.000 1
+x1x2
+2.5×10-5
+1
+2.5×10-5
+2.745×10-3
+0.959 7
+x1x3
+2.5×10-5
+1
+2.5×10-5
+2.745×10-3
+0.959 7
+x2x3
+4.9×10-3
+1
+4.9×10-5
+0.54
+0.487 1
+x12
+6.14
+1
+6.14
+674.72
+<0.000 1
+x22
+1.60
+1
+1.60
+175.16
+<0.000 1
+x32
+47.13
+1
+47.13
+5 175.00
+<0.000 1
+残差
+0.064
+7
+9.106×10-3
+—
+—
+失拟项
+1.225×10-3
+3
+4.083×10-4
+0.026
+0.993 4
+不显著
+纯误差
+0.063
+4
+0.016
+—
+—
+总方差
+80.97
+16
+—
+—
+), ArticleFig(id=1176950132223393794, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, label=null, caption=null, figureFileSmall=null, figureFileBig=null, tableContent=
+R2
+Radj2
+Rpred2
+Adep
+Cv/%
+0.999 2
+0.998 6
+0.998 2
+89.968
+0.1
+), ArticleFig(id=1176950132294696964, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, label=表5, caption=
+锌浸出二次模型的可信度分析结果
+, figureFileSmall=null, figureFileBig=null, tableContent=
+R2
+Radj2
+Rpred2
+Adep
+Cv/%
+0.999 2
+0.998 6
+0.998 2
+89.968
+0.1
+), ArticleFig(id=1176950132386971654, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, label=null, caption=null, figureFileSmall=null, figureFileBig=null, tableContent=
+项目
+平方和
+自由度
+均方和
+F值
+P值
+显著性
+模型
+376.72
+9
+41.86
+37.91
+<0.000 1
+显著
+x1
+0.86
+1
+0.86
+0.78
+0.407 3
+x2
+26.03
+1
+26.03
+23.57
+0.001 8
+x3
+7.70
+1
+7.70
+6.98
+0.033 4
+x1x2
+0.14
+1
+0.14
+0.13
+0.728 3
+x1x3
+0.040
+1
+0.040
+0.036
+0.854 4
+x2x3
+2.36
+1
+2.36
+2.13
+0.187 4
+x12
+47.33
+1
+47.33
+42.87
+0.000 3
+x22
+217.99
+1
+217.99
+197.44
+<0.000 1
+x32
+44.89
+1
+44.89
+40.66
+0.000 4
+残差
+7.73
+7
+1.10
+—
+—
+失拟项
+5.06
+3
+1.69
+2.53
+0.195 3
+不显著
+纯误差
+2.66
+4
+0.67
+—
+—
+总方差
+384.45
+16
+—
+—
+), ArticleFig(id=1176950132454080520, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, label=表6, caption=
+锗浸出率二次模型的方差分析结果
+, figureFileSmall=null, figureFileBig=null, tableContent=
+项目
+平方和
+自由度
+均方和
+F值
+P值
+显著性
+模型
+376.72
+9
+41.86
+37.91
+<0.000 1
+显著
+x1
+0.86
+1
+0.86
+0.78
+0.407 3
+x2
+26.03
+1
+26.03
+23.57
+0.001 8
+x3
+7.70
+1
+7.70
+6.98
+0.033 4
+x1x2
+0.14
+1
+0.14
+0.13
+0.728 3
+x1x3
+0.040
+1
+0.040
+0.036
+0.854 4
+x2x3
+2.36
+1
+2.36
+2.13
+0.187 4
+x12
+47.33
+1
+47.33
+42.87
+0.000 3
+x22
+217.99
+1
+217.99
+197.44
+<0.000 1
+x32
+44.89
+1
+44.89
+40.66
+0.000 4
+残差
+7.73
+7
+1.10
+—
+—
+失拟项
+5.06
+3
+1.69
+2.53
+0.195 3
+不显著
+纯误差
+2.66
+4
+0.67
+—
+—
+总方差
+384.45
+16
+—
+—
+), ArticleFig(id=1176950132546355210, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, label=null, caption=null, figureFileSmall=null, figureFileBig=null, tableContent=
+R2
+Radj2
+Rpred2
+Adep
+Cv/%
+0.979 9
+0.954 1
+0.878 4
+15.969
+1.33
+), ArticleFig(id=1176950132617658379, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, label=表7, caption=
+锗浸出率二次模型的可信度分析结果
+, figureFileSmall=null, figureFileBig=null, tableContent=
+R2
+Radj2
+Rpred2
+Adep
+Cv/%
+0.979 9
+0.954 1
+0.878 4
+15.969
+1.33
+), ArticleFig(id=1176950132693155852, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=EN, label=null, caption=null, figureFileSmall=null, figureFileBig=null, tableContent=
+Pb
+Ca
+S
+Fe
+Zn
+Ge*
+Si
+39.67
+14.29
+12.17
+11.56
+4.35
+175.4
+0.34
+), ArticleFig(id=1176950132785430541, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, language=CN, label=表8, caption=
+强化酸浸渣的化学组成 %
+, figureFileSmall=null, figureFileBig=null, tableContent=
+Pb
+Ca
+S
+Fe
+Zn
+Ge*
+Si
+39.67
+14.29
+12.17
+11.56
+4.35
+175.4
+0.34
+)], attaches=null, journal=Journal(id=1146119103623835657, delFlag=0, nameCn=湿法冶金, nameEn=Hydrometallurgy of China, nameHistory1=null, nameHistory2=null, issn=1009-2617, eissn=, cn=11-3012/TF, coden=null, periodic=1, language=CN, oaType=0, ccby=null, superviseOffice=null, ownerOffice=null, pubOffice=null, editorOffice=null, officeType=null, aims=null, clcCode=null, officeProv=null, officeCity=null, officeAddr=null, officeZip=null, officeEmail=null, officePhone=null, editDirector=null, officeDirector=null, officeDirectorPhone=null, officeStaffNum=null, officeEmpNum=null, coverPicUrl=ML4PO2yJMiCn17KYxauyiw==, journalPrice=null, startedYear=null, abbrevIsoEn=Hydromet Chin, journalRemark=null, publicationField=null, createdTime=null, updatedTime=1784016047366, createdBy=null, updatedBy=13041195026, firstLetterCn=S, firstLetterEn=S, subjectCode=Engineering, subjectName=null, subjectCodeEn=Engineering, subjectNameEn=null, picCn=ML4PO2yJMiCn17KYxauyiw==, picEn=Gjj3Lht1PhYSE3+d1o3GzQ==, jcr=null, cjcr=null, exts=[JournalExt(id=1283819610919113404, language=CN, name=湿法冶金, nameHistory1=null, nameHistory2=null, managedBy=中国核工业集团有限公司, sponsoredBy=核工业北京化工冶金研究院, publishedBy=《湿法冶金》编辑部, editorOffice=, officeProv=null, officeCity=null, officeAddr=, officeZip=, editDirector=, officeDirector=null, officePhone=null, coverPicUrl=null, journalRemark=, submitArticleUrl=null, websiteUrl=https://sfyj.cbpt.cnki.net/portal, createdTime=1784016047458, updatedTime=1784016047458, createdBy=13041195026, updatedBy=13041195026, submissionGuidelinesUrl=https://sfyj.cbpt.cnki.net/portal/journal/portal/client/news/SFYJ_0a96be87-490b-49ff-90aa-bee7b5d1b2cc, submissionAuthorUrl=https://sfyj.cbpt.cnki.net/index.aspx?t=1, submissionEditorUrl=https://sfyj.cbpt.cnki.net/EditorE3N/index.aspx?t=3, submissionReviewUrl=https://sfyj.cbpt.cnki.net/EditorE3N/index.aspx?t=2, submissionCeEditorUrl=https://sfyj.cbpt.cnki.net/EditorE3N/index.aspx?t=3, submissionAeEditorUrl=https://sfyj.cbpt.cnki.net/EditorE3N/index.aspx?t=3, option={"copyright":""}), JournalExt(id=1283819610982027965, language=EN, name=Hydrometallurgy of China, nameHistory1=null, nameHistory2=null, managedBy=, sponsoredBy=, publishedBy=, editorOffice=, officeProv=null, officeCity=null, officeAddr=, officeZip=, editDirector=, officeDirector=null, officePhone=null, coverPicUrl=null, journalRemark=, submitArticleUrl=null, websiteUrl=https://sfyj.cbpt.cnki.net/portal, createdTime=1784016047473, updatedTime=1784016047473, createdBy=13041195026, updatedBy=13041195026, submissionGuidelinesUrl=https://sfyj.cbpt.cnki.net/portal/journal/portal/client/news/SFYJ_0a96be87-490b-49ff-90aa-bee7b5d1b2cc, submissionAuthorUrl=https://sfyj.cbpt.cnki.net/index.aspx?t=1, submissionEditorUrl=https://sfyj.cbpt.cnki.net/EditorE3N/index.aspx?t=3, submissionReviewUrl=https://sfyj.cbpt.cnki.net/EditorE3N/index.aspx?t=2, submissionCeEditorUrl=https://sfyj.cbpt.cnki.net/EditorE3N/index.aspx?t=3, submissionAeEditorUrl=https://sfyj.cbpt.cnki.net/EditorE3N/index.aspx?t=3, option={"copyright":""})], databaseList=null, tenantJournalId=1146120122248306696, websiteList=[Website(id=1148243202391400870, webName=null, webTitle=null, webDomain=null, webCopyrigh=null, webIpcNo=null, seoTitle=null, seoKeywords=null, seoDescription=null, tenantJournalId=null, journalId=1146120122248306696, journalNameCn=null, journalNameEn=null, grayFlag=null, tenantId=1146029695717560320, platformId=null, journalGroupId=null, journalGroupNameCn=null, journalGroupNameEn=null, type=1, domain=https://castjournals.cast.org.cn/joweb/sfyj/CN, language=CN, createTime=1751692112777, createBy=18614031015, updateTime=1753517065508, updateBy=18614031015, name=《湿法冶金》中文站点, tplId=1146099689490845704, title=湿法冶金, delFlag=0, indexPage=/home, props=[WebsiteProps(id=1155898007666155631, tenantId=1146029695717560320, journalId=null, journalGroupId=null, siteId=1148243202391400870, code=articleTextType, value=kx, createTime=1753517160575, updateTime=1753517160575, creator=18614031015, updator=18614031015), WebsiteProps(id=1155898007645184108, tenantId=1146029695717560320, journalId=null, journalGroupId=null, siteId=1148243202391400870, code=banner, value=null, createTime=1753517160569, updateTime=1753517160569, creator=18614031015, updator=18614031015), WebsiteProps(id=1155898007636795499, tenantId=1146029695717560320, journalId=null, journalGroupId=null, siteId=1148243202391400870, code=logo, value=https://castjournals.cast.org.cn/joweb/kjdb/CN/file/pic?fileId=MQxQC8ritkQycwo0QA60VQ==, createTime=1753517160567, updateTime=1753517160567, creator=18614031015, updator=18614031015), WebsiteProps(id=1155898007657767022, tenantId=1146029695717560320, journalId=null, journalGroupId=null, siteId=1148243202391400870, code=picServerUrl, value=https://castjournals.cast.org.cn/joweb/kjdb/CN/file/pic, createTime=1753517160572, updateTime=1753517160572, creator=18614031015, updator=18614031015), WebsiteProps(id=1155898007653572717, tenantId=1146029695717560320, journalId=null, journalGroupId=null, siteId=1148243202391400870, code=staticResourcePath, value=https://castjournals.cast.org.cn/joweb/cast_kjdb_cn_619/, createTime=1753517160571, updateTime=1753517160571, creator=18614031015, updator=18614031015)]), Website(id=1155897814010970126, webName=null, webTitle=null, webDomain=null, webCopyrigh=null, webIpcNo=null, seoTitle=null, seoKeywords=null, seoDescription=null, tenantJournalId=null, journalId=1146120122248306696, journalNameCn=null, journalNameEn=null, grayFlag=null, tenantId=1146029695717560320, platformId=null, journalGroupId=null, journalGroupNameCn=null, journalGroupNameEn=null, type=1, domain=https://castjournals.cast.org.cn/joweb/sfyj/EN, language=EN, createTime=1753517114406, createBy=18614031015, updateTime=1753517114406, updateBy=18614031015, name=《湿法冶金》英文站点, tplId=1146101810881728533, title=Hydrometallurgy of China, delFlag=0, indexPage=/home, props=[WebsiteProps(id=1155898118869733563, tenantId=1146029695717560320, journalId=null, journalGroupId=null, siteId=1155897814010970126, code=articleTextType, value=kx, createTime=1753517187087, updateTime=1753517187087, creator=18614031015, updator=18614031015), WebsiteProps(id=1155898118852956344, tenantId=1146029695717560320, journalId=null, journalGroupId=null, siteId=1155897814010970126, code=banner, value=null, createTime=1753517187083, updateTime=1753517187083, creator=18614031015, updator=18614031015), WebsiteProps(id=1155898118827790519, tenantId=1146029695717560320, journalId=null, journalGroupId=null, siteId=1155897814010970126, code=logo, value=https://castjournals.cast.org.cn/joweb/kjdb/CN/file/pic?fileId=MQxQC8ritkQycwo0QA60VQ==, createTime=1753517187077, updateTime=1753517187077, creator=18614031015, updator=18614031015), WebsiteProps(id=1155898118865539258, tenantId=1146029695717560320, journalId=null, journalGroupId=null, siteId=1155897814010970126, code=picServerUrl, value=https://castjournals.cast.org.cn/joweb/kjdb/CN/file/pic, createTime=1753517187086, updateTime=1753517187086, creator=18614031015, updator=18614031015), WebsiteProps(id=1155898118861344953, tenantId=1146029695717560320, journalId=null, journalGroupId=null, siteId=1155897814010970126, code=staticResourcePath, value=https://castjournals.cast.org.cn/joweb/cast_kjdb_cn_619/, createTime=1753517187085, updateTime=1753517187085, creator=18614031015, updator=18614031015)])], journalTitle=湿法冶金, weixinUrl=null, journalUrl=null, iacademicId=null, status=1, seqNo=null, journalTitleEn=Hydrometallurgy of China, journalPhotoCn=ML4PO2yJMiCn17KYxauyiw==, journalPhotoEn=Gjj3Lht1PhYSE3+d1o3GzQ==, journalFirstLetter=S, journalRecommend=null, journalNew=null, journalCollection=null, jcrJf=null, cjcrJf=0.00, jcrJfStr=null, cjcrJfStr=null, submissionFirstDecision=null, sciSubjectClassification=null, casSubjectClassification=null, citeScore=null, totalCitationFrequency=null, icpCode=null, psCode=null, advertisingLicenseCode=null, copyrightInformation=null, country=null, option=, provinceCode=null, provinceName=null, collectFlag=false, interPubPlatform=, interPubPlatformUrl=null), detailUrlCn=https://castjournals.cast.org.cn/joweb/sfyj/CN/10.13355/j.cnki.sfyj.2024.05.014, detailUrlEn=https://castjournals.cast.org.cn/joweb/sfyj/EN/10.13355/j.cnki.sfyj.2024.05.014, pdfUrlCn=https://castjournals.cast.org.cn/joweb/sfyj/CN/PDF/10.13355/j.cnki.sfyj.2024.05.014, pdfUrlEn=https://castjournals.cast.org.cn/joweb/sfyj/EN/PDF/10.13355/j.cnki.sfyj.2024.05.014, aliStartDate=null, aliEndDate=null, collectionFlag=false, citedCount=null, citedUrl=null, previewStatus=0, delFlag=0, hasFullText=1, orderTime=1729353600000, fullTextJson=null, articleText=null, reference=null)
+响应曲面法优化超声协同活化剂浸出高硅低锗氧化锌烟尘研究
+预览PDF | 下载PDF
+韦洁 1, 2 , 裴启飞 3 , 陆占清 3 , 梁辰 1, 2 , 付光 3      , 徐英杰 1, 2 , 夏洪应 1, 2
+湿法冶金  | 试验研究 2024,43(5): 573-582
+收起
+湿法冶金  |试验研究 2024 , 43 (5) : 573 -582
+响应曲面法优化超声协同活化剂浸出高硅低锗氧化锌烟尘研究
+全屏
+[Author(id=1176950126833714018, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, orderNo=0, firstName=null, middleName=null, lastName=null, nameCn=null, orcid=null, stid=null, country=null, authorPic=null, dead=0, email=null, emailSecond=null, emailThird=null, correspondingAuthor=0, authorType=1, ext={EN=AuthorExt(id=1176950126934377317, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950126833714018, language=EN, stringName=Jie WEI, firstName=Jie, middleName=null, lastName=WEI, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=1, 2, address=1 Faculty of Metallurgy and Energy Engineering, Kunming University of Science and Technology, Kunming 650093, China
+2 Yunnan Provincial Key Laboratory of Intensification Metallurgy, Kunming University of Science and Technology, Kunming 650093, China, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null), CN=AuthorExt(id=1176950127030846313, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950126833714018, language=CN, stringName=韦洁, firstName=null, middleName=null, lastName=null, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=1, 2, address=1 昆明理工大学 冶金与能源工程学院, 云南 昆明 650093
+2 昆明理工大学 云南省特种冶金重点实验室, 云南 昆明 650093, bio={"content":"
+韦洁(1999—),女,硕士研究生,主要研究方向为冶金固废资源综合利用。
+"}, bioImg=null, bioContent=
+韦洁(1999—),女,硕士研究生,主要研究方向为冶金固废资源综合利用。
+, aboutCorrespAuthor=null)}, companyList=[AuthorCompany(id=1176950126561084246, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=1, ext=[AuthorCompanyExt(id=1176950126569472854, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126561084246, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=1 Faculty of Metallurgy and Energy Engineering, Kunming University of Science and Technology, Kunming 650093, China), AuthorCompanyExt(id=1176950126573667159, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126561084246, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=1 昆明理工大学 冶金与能源工程学院, 云南 昆明 650093)]), AuthorCompany(id=1176950126644970329, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=2, ext=[AuthorCompanyExt(id=1176950126653358938, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126644970329, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=2 Yunnan Provincial Key Laboratory of Intensification Metallurgy, Kunming University of Science and Technology, Kunming 650093, China), AuthorCompanyExt(id=1176950126657553243, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126644970329, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=2 昆明理工大学 云南省特种冶金重点实验室, 云南 昆明 650093)])]), Author(id=1176950127135703917, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, orderNo=1, firstName=null, middleName=null, lastName=null, nameCn=null, orcid=null, stid=null, country=null, authorPic=null, dead=0, email=null, emailSecond=null, emailThird=null, correspondingAuthor=0, authorType=1, ext={EN=AuthorExt(id=1176950127207007088, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950127135703917, language=EN, stringName=Qifei PEI, firstName=Qifei, middleName=null, lastName=PEI, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=3, address=3 Yunnan Chihong Zn & Ge Co., Ltd., Qujing 655011, China, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null), CN=AuthorExt(id=1176950127278310260, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950127135703917, language=CN, stringName=裴启飞, firstName=null, middleName=null, lastName=null, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=3, address=3 云南驰宏锌锗股份有限公司, 云南 曲靖 655011, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null)}, companyList=[AuthorCompany(id=1176950126733050717, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=3, ext=[AuthorCompanyExt(id=1176950126741439326, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126733050717, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=3 Yunnan Chihong Zn & Ge Co., Ltd., Qujing 655011, China), AuthorCompanyExt(id=1176950126766605151, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126733050717, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=3 云南驰宏锌锗股份有限公司, 云南 曲靖 655011)])]), Author(id=1176950127391556473, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, orderNo=2, firstName=null, middleName=null, lastName=null, nameCn=null, orcid=null, stid=null, country=null, authorPic=null, dead=0, email=null, emailSecond=null, emailThird=null, correspondingAuthor=0, authorType=1, ext={EN=AuthorExt(id=1176950127475442558, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950127391556473, language=EN, stringName=Zhanqing LU, firstName=Zhanqing, middleName=null, lastName=LU, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=3, address=3 Yunnan Chihong Zn & Ge Co., Ltd., Qujing 655011, China, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null), CN=AuthorExt(id=1176950127550940033, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950127391556473, language=CN, stringName=陆占清, firstName=null, middleName=null, lastName=null, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=3, address=3 云南驰宏锌锗股份有限公司, 云南 曲靖 655011, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null)}, companyList=[AuthorCompany(id=1176950126733050717, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=3, ext=[AuthorCompanyExt(id=1176950126741439326, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126733050717, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=3 Yunnan Chihong Zn & Ge Co., Ltd., Qujing 655011, China), AuthorCompanyExt(id=1176950126766605151, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126733050717, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=3 云南驰宏锌锗股份有限公司, 云南 曲靖 655011)])]), Author(id=1176950127613854598, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, orderNo=3, firstName=null, middleName=null, lastName=null, nameCn=null, orcid=null, stid=null, country=null, authorPic=null, dead=0, email=null, emailSecond=null, emailThird=null, correspondingAuthor=0, authorType=1, ext={EN=AuthorExt(id=1176950127685157770, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950127613854598, language=EN, stringName=Chen LIANG, firstName=Chen, middleName=null, lastName=LIANG, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=1, 2, address=1 Faculty of Metallurgy and Energy Engineering, Kunming University of Science and Technology, Kunming 650093, China
+2 Yunnan Provincial Key Laboratory of Intensification Metallurgy, Kunming University of Science and Technology, Kunming 650093, China, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null), CN=AuthorExt(id=1176950127739683724, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950127613854598, language=CN, stringName=梁辰, firstName=null, middleName=null, lastName=null, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=1, 2, address=1 昆明理工大学 冶金与能源工程学院, 云南 昆明 650093
+2 昆明理工大学 云南省特种冶金重点实验室, 云南 昆明 650093, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null)}, companyList=[AuthorCompany(id=1176950126561084246, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=1, ext=[AuthorCompanyExt(id=1176950126569472854, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126561084246, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=1 Faculty of Metallurgy and Energy Engineering, Kunming University of Science and Technology, Kunming 650093, China), AuthorCompanyExt(id=1176950126573667159, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126561084246, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=1 昆明理工大学 冶金与能源工程学院, 云南 昆明 650093)]), AuthorCompany(id=1176950126644970329, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=2, ext=[AuthorCompanyExt(id=1176950126653358938, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126644970329, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=2 Yunnan Provincial Key Laboratory of Intensification Metallurgy, Kunming University of Science and Technology, Kunming 650093, China), AuthorCompanyExt(id=1176950126657553243, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126644970329, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=2 昆明理工大学 云南省特种冶金重点实验室, 云南 昆明 650093)])]), Author(id=1176950127794209678, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, orderNo=4, firstName=null, middleName=null, lastName=null, nameCn=null, orcid=null, stid=null, country=null, authorPic=null, dead=0, email=16634992@qq.com, emailSecond=null, emailThird=null, correspondingAuthor=0, authorType=1, ext={EN=AuthorExt(id=1176950127852929937, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950127794209678, language=EN, stringName=Guang FU, firstName=Guang, middleName=null, lastName=FU, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=3, address=3 Yunnan Chihong Zn & Ge Co., Ltd., Qujing 655011, China, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null), CN=AuthorExt(id=1176950127911650195, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950127794209678, language=CN, stringName=付光, firstName=null, middleName=null, lastName=null, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=3, address=3 云南驰宏锌锗股份有限公司, 云南 曲靖 655011, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null)}, companyList=[AuthorCompany(id=1176950126733050717, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=3, ext=[AuthorCompanyExt(id=1176950126741439326, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126733050717, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=3 Yunnan Chihong Zn & Ge Co., Ltd., Qujing 655011, China), AuthorCompanyExt(id=1176950126766605151, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126733050717, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=3 云南驰宏锌锗股份有限公司, 云南 曲靖 655011)])]), Author(id=1176950127961981846, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, orderNo=5, firstName=null, middleName=null, lastName=null, nameCn=null, orcid=null, stid=null, country=null, authorPic=null, dead=0, email=null, emailSecond=null, emailThird=null, correspondingAuthor=0, authorType=1, ext={EN=AuthorExt(id=1176950128037479322, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950127961981846, language=EN, stringName=Yingjie XU, firstName=Yingjie, middleName=null, lastName=XU, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=1, 2, address=1 Faculty of Metallurgy and Energy Engineering, Kunming University of Science and Technology, Kunming 650093, China
+2 Yunnan Provincial Key Laboratory of Intensification Metallurgy, Kunming University of Science and Technology, Kunming 650093, China, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null), CN=AuthorExt(id=1176950128100393884, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950127961981846, language=CN, stringName=徐英杰, firstName=null, middleName=null, lastName=null, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=1, 2, address=1 昆明理工大学 冶金与能源工程学院, 云南 昆明 650093
+2 昆明理工大学 云南省特种冶金重点实验室, 云南 昆明 650093, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null)}, companyList=[AuthorCompany(id=1176950126561084246, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=1, ext=[AuthorCompanyExt(id=1176950126569472854, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126561084246, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=1 Faculty of Metallurgy and Energy Engineering, Kunming University of Science and Technology, Kunming 650093, China), AuthorCompanyExt(id=1176950126573667159, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126561084246, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=1 昆明理工大学 冶金与能源工程学院, 云南 昆明 650093)]), AuthorCompany(id=1176950126644970329, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=2, ext=[AuthorCompanyExt(id=1176950126653358938, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126644970329, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=2 Yunnan Provincial Key Laboratory of Intensification Metallurgy, Kunming University of Science and Technology, Kunming 650093, China), AuthorCompanyExt(id=1176950126657553243, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126644970329, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=2 昆明理工大学 云南省特种冶金重点实验室, 云南 昆明 650093)])]), Author(id=1176950128184279967, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, orderNo=6, firstName=null, middleName=null, lastName=null, nameCn=null, orcid=null, stid=null, country=null, authorPic=null, dead=0, email=hyxia81@163.com, emailSecond=null, emailThird=null, correspondingAuthor=0, authorType=1, ext={EN=AuthorExt(id=1176950128247194531, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950128184279967, language=EN, stringName=Hongying XIA, firstName=Hongying, middleName=null, lastName=XIA, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=1, 2, address=1 Faculty of Metallurgy and Energy Engineering, Kunming University of Science and Technology, Kunming 650093, China
+2 Yunnan Provincial Key Laboratory of Intensification Metallurgy, Kunming University of Science and Technology, Kunming 650093, China, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null), CN=AuthorExt(id=1176950128301720485, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, authorId=1176950128184279967, language=CN, stringName=夏洪应, firstName=null, middleName=null, lastName=null, prefix=null, suffix=null, authorComment=null, nameInitials=null, affiliation=null, department=null, xref=1, 2, address=1 昆明理工大学 冶金与能源工程学院, 云南 昆明 650093
+2 昆明理工大学 云南省特种冶金重点实验室, 云南 昆明 650093, bio=null, bioImg=null, bioContent=null, aboutCorrespAuthor=null)}, companyList=[AuthorCompany(id=1176950126561084246, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=1, ext=[AuthorCompanyExt(id=1176950126569472854, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126561084246, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=1 Faculty of Metallurgy and Energy Engineering, Kunming University of Science and Technology, Kunming 650093, China), AuthorCompanyExt(id=1176950126573667159, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126561084246, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=1 昆明理工大学 冶金与能源工程学院, 云南 昆明 650093)]), AuthorCompany(id=1176950126644970329, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, xref=2, ext=[AuthorCompanyExt(id=1176950126653358938, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126644970329, language=EN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=2 Yunnan Provincial Key Laboratory of Intensification Metallurgy, Kunming University of Science and Technology, Kunming 650093, China), AuthorCompanyExt(id=1176950126657553243, tenantId=1146029695717560320, journalId=1146120122248306696, articleId=1172617838721381148, companyId=1176950126644970329, language=CN, country=null, province=null, city=null, postcode=null, companyName=null, departmentName=null, remark=2 昆明理工大学 云南省特种冶金重点实验室, 云南 昆明 650093)])])]
+韦洁1, 2, 裴启飞3, 陆占清3, 梁辰1, 2, 付光3    , 徐英杰1, 2, 夏洪应1, 2
+作者信息
+1 昆明理工大学 冶金与能源工程学院, 云南 昆明 650093
+2 昆明理工大学 云南省特种冶金重点实验室, 云南 昆明 650093
+3 云南驰宏锌锗股份有限公司, 云南 曲靖 655011
+通讯作者:
+付光(1976—),男,本科,高工,主要研究方向为湿法冶金。E-mail:16634992@qq.com;
+夏洪应(1981—),男,博士,教授,主要研究方向为冶金固废资源综合利用。E-mail:hyxia81@163.com。
+Optimization of Ultrasound-Assisted Activator Leaching Technology of High-Silicon and Low-Germanium Zinc Oxide Dust by Response Surface Method
+Jie WEI1, 2, Qifei PEI3, Zhanqing LU3, Chen LIANG1, 2, Guang FU3    , Yingjie XU1, 2, Hongying XIA1, 2
+Affiliations
+1 Faculty of Metallurgy and Energy Engineering, Kunming University of Science and Technology, Kunming 650093, China
+2 Yunnan Provincial Key Laboratory of Intensification Metallurgy, Kunming University of Science and Technology, Kunming 650093, China
+3 Yunnan Chihong Zn & Ge Co., Ltd., Qujing 655011, China
+出版时间: 2024-10-20 doi: 10.13355/j.cnki.sfyj.2024.05.014
+文章导航
+摘要
+收起
+为了最大化高硅低锗氧化锌烟尘(ZOD)中锌、锗提取效率,研究了采用响应曲面法(RSM)构建并优化了十二烷基硫酸钠(C12H25SO3Na)辅助下的超声强化浸出过程,并建立了锌、锗浸出率的精确预测模型。结果表明:在单因素试验基础上,运用RSM确定的最优浸出条件为浸出温度70 ℃,液固体积质量比8 mL/1 g,初始酸质量浓度160 g/L,该条件下的锌浸出率达96.94%,锗浸出率为85.41%;C12H25SO3Na在浸出过程中发挥了关键的硅胶抑制剂作用,有效阻止了硅离子聚合成硅胶,这一效果在超声波的协同作用下更为显著,体现了温度、超声波与C12H25SO3Na三者之间的显著协同效应。研究结果能为高硅低锗氧化锌烟尘的资源化利用提供高效的回收策略,并为其他高硅废弃物的回收提供技术参考。
+关键词
+高硅低锗氧化锌烟尘 / 响应曲面法 / 超声波 / 活化剂 / 十二烷基硫酸钠 / 浸出 / 锌 / 锗
+Abstract
+收起
+In order to maximize the extraction efficiency of zinc and germanium from high-silicon and low-germanium zinc oxide dust(ZOD), the ultrasonic enhanced leaching process assisted by sodium dodecyl sulfate (C12H25SO3Na) was constructed and optimized by response surface method(RSM),and the accurate prediction model of zinc and germanium leaching rate was established. The results show that on the basis of single factor test, the optimal leaching conditions determined by RSM are leaching temperature of 70 ℃, liquid volume to solid mass ratio of 8 mL/1 g and initial acid mass concentration of 160 g/L. The leaching rates of zinc and germanium can reach 96.94% and 85.41%, respectively. C12H25SO3Na plays a key role as a silica gel inhibitor in the leaching process, effectively preventing the polymerization of silicon ions into silica gel, and this effect is more significant under the combined ultrasonic treatment, reflecting the synergistic benefit between temperature, ultrasound and C12H25SO3Na.The research results provide an efficient recovery strategy for the resource utilization of high-silicon and low-germanium zinc oxide dust, and provide an important technical reference for the recovery of other high silicon waste.
+Key words
+high-silicon and low-germanium zinc oxide dust / response surface method / ultrasound / activator / sodium dodecyl sulfate / leaching / zinc / germanium
+引用本文
+韦洁, 裴启飞, 陆占清, 梁辰, 付光, 徐英杰, 夏洪应. 响应曲面法优化超声协同活化剂浸出高硅低锗氧化锌烟尘研究. 湿法冶金, 2024 , 43 (5) : 573 -582 . DOI: 10.13355/j.cnki.sfyj.2024.05.014
+Jie WEI, Qifei PEI, Zhanqing LU, Chen LIANG, Guang FU, Yingjie XU, Hongying XIA. Optimization of Ultrasound-Assisted Activator Leaching Technology of High-Silicon and Low-Germanium Zinc Oxide Dust by Response Surface Method[J]. Hydrometallurgy of China, 2024 , 43 (5) : 573 -582 . DOI: 10.13355/j.cnki.sfyj.2024.05.014
+正文
+收起
+锗作为高科技和工业领域的关键稀有金属,已被广泛应用于光纤通信、军事国防、航空航天等高科技领域[1-2]。自然界中极少存在独立的锗工业矿床,多以类质同象形式伴生于铅锌矿内[3]。因此锗的大规模获取主要依赖于从锌、铅等有色金属的冶炼副产品中进行回收。
+氧化锌烟尘作为锌冶炼的副产物,是我国锗产出的重要来源,约占总来源量的60%[4]。在湿法炼锌工艺中,由于锌矿的化学成分不同,会产出具有高硅低锗特征的含锗氧化锌烟尘[5-6]。当原矿中硅含量较高时,大部分锌和硅会以ZnSiO4形式进入烟尘中,大大影响锌的有效回收;且硅的水解产物正电荷硅离子,在酸性环境中也易于聚合成多聚硅酸直至形成吸附力强的硅胶体,大幅降低锗等有价金属的浸出效率[7-8]。
+当前,含锗氧化锌烟尘的处理主要以常压酸浸为主,但因烟尘自身的锗含量低、赋存状态复杂及硅含量高等特征会引起共沉淀问题,使得实际锗回收率仅在60%~70%之间,资源利用率较低[9-10]。为了突破传统酸浸法的局限,提升锌、锗回收效率,相继出现了加压酸浸、超声及微波辅助等技术[11-15]。其中,超声波协同十二烷基硫酸钠(C12H25SO3Na)能加快整体浸出效率,提升效果最为显著;但该法在使用过程中,会有硅胶加速产生,影响浸出效果。为了从高硅低锗氧化锌烟尘中高效浸出锌、锗,并抑制硅胶产生,试验以硫酸为浸出剂、C12H25SO3Na为活化剂,研究了采用超声协同浸出法浸出锌、锗,并通过响应曲面法优化了工艺条件,以期通过引入阴离子表面活化剂抑制硅胶产生,为高硅氧化锌烟尘的高效资源化利用开辟新径,进一步为处理其他富含硅质的工业废弃物提供技术参考与实践指导。
+1 试验部分
+收起
+1.1 试验原料
+试验原料为来自云南某企业的高硅低锗氧化锌烟尘,将烟尘经过初步筛分后置于80 ℃的恒温干燥箱中烘干,之后对其进行化学成分组成(XRF)分析,其中锌、锗、硅为定量分析,结果见表1。可以看出:该烟尘的主要元素组成为Zn、Pb、Fe、Si、As、Ge等,成分复杂多样。通常氧化锌烟尘含硅0.2%~0.6%,锗300~700 g/t[16],说明试验原料呈高硅(2.56%)、低锗(360 g/t)特征,这也是导致常规浸出工艺中浸出率低的主要原因之一。原料的XRD图谱如图1所示。可以看出:该烟尘主要由氧化锌(ZnO)(PDF#36-1451)、硫酸锌(ZnSO4)(PDF#08-0491)、三氧化二铁(Fe2O3)(PDF#82-2359)及硫化铅(PbS)(PDF#05-0592)组成。由于锗含量过低,XRD图谱中未能检测出锗的相关物相。
+表1 高硅低锗氧化锌烟尘的主要化学组成 %
+Zn
+Pb
+Fe
+S
+Si
+As
+Ge
+47.69
+8.38
+5.51
+2.49
+2.56
+0.72
+360*
+*.单位为g/t。
+图1 高硅低锗氧化锌烟尘的XRD图谱
+1.2 试验试剂及仪器
+试验试剂:硫酸,分析纯,成都市科隆化学品有限公司;十二烷基磺酸钠,分析纯,天津市致远化学试剂有限公司。
+主要试验仪器:集热式恒温磁力搅拌器,DF-101S型,巩义市予华仪器有限责任公司;循环水式多用真空泵,SHZ-D(Ⅲ)型,天津华鑫仪器厂;电热鼓风干燥箱,DHG-9030A型,上海一恒科学仪器有限公司;超声波处理器,FS-600N,定制。
+1.3 试验原理及方法
+超声波可强化湿法冶金的浸出过程,有效打开包裹层,从而加快浸出过程相关化学反应速率;活化剂C12H25SO3Na可包裹硅酸盐离子,产生静电排斥,导致浸出残渣粒度增大。因此,试验以硫酸为浸出剂、C12H25SO3Na为活化剂,与超声波外场强化协同活化剂C12H25SO3Na浸出高硅低锗氧化锌烟尘,从而提高锌锗浸出率。
+浸出试验在250 mL三口平底烧瓶中进行。首先将一定量配制好的硫酸与一定质量高硅低锗氧化锌烟尘原料混合加入烧瓶中,然后将恒温磁力搅拌水浴锅调节至指定温度范围;待温度达标后,将烧瓶置于水浴锅中,并加装冷凝装置防止溶液蒸发,使用橡胶塞对瓶口进行密封处理;将超声波探头置于上端瓶口处,同时开启超声波和磁力搅拌;浸出过程中加入适量硅胶抑制剂C12H25SO3Na,浸出一定时间后,得到渣液混合物;对混合物进行真空抽滤,并将浸出渣置于电热鼓风干燥箱中进行干燥;最后对浸出液及浸出渣进行相关化学分析,计算金属浸出率yB。计算公式如下:
+yB=ρBVmwB×100%。
+(1)
+式中:yB—金属浸出率,%;ρB—浸出液中锌、锗离子质量浓度,g/L;V—浸出液体积,L;wB—原料锌、锗质量分数,%;m—原料质量,g。
+2 试验结果与讨论
+收起
+2.1 前期试验条件的选择
+本课题组前期进行了单因素试验,考察了初始硫酸质量浓度、液固体积质量比、浸出温度3个主要因素对锌、锗浸出的影响,确定了优化条件为:初始硫酸质量浓度180 g/L、液固体积质量比7 mL/1 g、浸出温度70 ℃。之后在该条件下进一步引入功率为360 W的超声波和硅胶抑制剂C12H25SO3Na进行强化浸出试验,考察了C12H25SO3Na对浸出的影响。结果表明:C12H25SO3Na质量浓度为2 g/L时,锌浸出率达最大,为93.94%;而C12H25SO3Na质量浓度增至4 g/L时,锗浸出率达最大,为75.6%;之后随C12H25SO3Na质量浓度增大,锌浸出率趋于稳定后略有下降,锗浸出率逐渐降低。综合考虑,确定C12H25SO3Na最佳质量浓度为4 g/L。
+在初始硫酸质量浓度为180 g/L、液固体积质量比为7 mL/1 g、浸出温度为70 ℃、硅胶抑制剂C12H25SO3Na质量浓度为4 g/L条件下辅助功率为360 W的超声波强化浸出60 min时,锌、锗浸出率均达峰值,分别为96.29%、81.38%,相比无超声波和硅胶抑制剂提高12.79%、12.64%,说明超声协同活化剂浸出技术可明显缩短浸出时间,有效抑制浸出过程中硅胶产生,减少因硅胶吸附进入渣中的锌锗元素,提高锌、锗浸出率。
+综上,确定适宜浸出条件为:C12H25SO3Na质量浓度4 g/L,超声波功率360 W,初始硫酸质量浓度120~200 g/L,液固体积质量比6~10 mL/1 g,浸出温度50~90 ℃。再通过响应曲面法对上述工艺条件进一步优化。
+2.2 响应曲面法优化工艺条件
+2.2.1 Box-Behnken试验设计及结果
+为了深入考察各关键技术参数对金属提取率的影响,采取控制变量法,选定浸出温度(x1)、液固体积质量比(x2)及初始硫酸质量浓度(x3)为自变量,以浸出率为响应指标,构建响应曲面模型。通过引入Design-Expert软件简化试验设计流程,增强结果的准确性和可靠性[17],通过Box-Behnken响应曲面法[18]设计了因素水平(见表2),并得出了试验设计方案及结果(见表3),其中y1(Zn)、y1(Ge)分别为锌、锗浸出率预测值,y2(Zn)、y2(Ge)为锌、锗浸出率实际值。由表2、3看出:在浸出温度70 ℃、液固体积质量比8 mL/1 g、初始硫酸质量浓度160 g/L条件下,锌、锗预测浸出率最高,分别为96.94%、85.41%,因此,确定该条件为优化工艺条件。
+表2 设计因素水平
+水平
+因素
+x1/℃
+x2/(mL·g-1)
+x3/(g·L-1)
+-1
+50
+6
+120
+0
+70
+8
+160
+1
+90
+10
+200
+表3 试验设计方案及结果
+试验编号
+x1/℃
+x2/(mL·g-1)
+x3/(g·L-1)
+y1(Zn)/%
+y2(Zn)/%
+y1(Ge)/%
+y2(Ge)/%
+1
+0
+1
+1
+94.84
+94.86
+78.50
+79.38
+2
+0
+0
+0
+96.94
+97.06
+85.41
+85.32
+3
+0
+0
+0
+96.94
+97.03
+85.41
+85.81
+4
+0
+0
+0
+96.94
+96.75
+85.41
+86.35
+5
+1
+0
+1
+93.53
+93.52
+80.00
+80.11
+6
+0
+0
+0
+96.94
+96.88
+85.41
+84.14
+7
+1
+-1
+0
+94.35
+94.36
+73.57
+74.07
+8
+0
+0
+0
+96.94
+96.96
+85.41
+85.42
+9
+1
+0
+-1
+90.35
+90.36
+78.24
+78.62
+10
+0
+1
+-1
+91.74
+91.74
+75.00
+75.61
+11
+-1
+-1
+0
+95.24
+95.25
+72.54
+73.53
+12
+0
+-1
+-1
+91.04
+91.02
+72.93
+72.05
+13
+0
+-1
+1
+94.28
+94.28
+73.36
+72.75
+14
+-1
+0
+-1
+91.24
+91.25
+77.38
+77.27
+15
+1
+1
+0
+94.99
+94.98
+76.80
+75.81
+16
+-1
+0
+1
+94.41
+94.40
+79.54
+79.16
+17
+-1
+1
+0
+95.87
+95.86
+76.53
+76.03
+2.2.2 回归模型方差分析及模型可信度分析
+借助Design Expert 8.0软件对表3数据进行方差分析,以验证模型的统计显著性。表4、5为锌浸出率二次模型的方差分析和可信度分析结果,图2为锌浸出率模型实际值与预测值之间的关系。表6、7为锗浸出率二次模型的方法分析和可信度分析结果,图3为锗浸出率模型实际值与预测值之间的关系。
+表4 锌浸出二次模型的方差分析结果
+项目
+平方和
+自由度
+均方和
+F值
+P值
+显著性
+模型
+80.91
+9
+8.99
+987.21
+<0.000 1
+显著
+x1
+1.57
+1
+1.57
+172.02
+<0.000 1
+x2
+0.80
+1
+0.80
+87.86
+<0.000 1
+x3
+20.13
+1
+20.13
+2 210.47
+<0.000 1
+x1x2
+2.5×10-5
+1
+2.5×10-5
+2.745×10-3
+0.959 7
+x1x3
+2.5×10-5
+1
+2.5×10-5
+2.745×10-3
+0.959 7
+x2x3
+4.9×10-3
+1
+4.9×10-5
+0.54
+0.487 1
+x12
+6.14
+1
+6.14
+674.72
+<0.000 1
+x22
+1.60
+1
+1.60
+175.16
+<0.000 1
+x32
+47.13
+1
+47.13
+5 175.00
+<0.000 1
+残差
+0.064
+7
+9.106×10-3
+—
+—
+失拟项
+1.225×10-3
+3
+4.083×10-4
+0.026
+0.993 4
+不显著
+纯误差
+0.063
+4
+0.016
+—
+—
+总方差
+80.97
+16
+—
+—
+表5 锌浸出二次模型的可信度分析结果
+R2
+Radj2
+Rpred2
+Adep
+Cv/%
+0.999 2
+0.998 6
+0.998 2
+89.968
+0.1
+图2 锌浸出率二次模型的实际值与预测值之间的关系
+表6 锗浸出率二次模型的方差分析结果
+项目
+平方和
+自由度
+均方和
+F值
+P值
+显著性
+模型
+376.72
+9
+41.86
+37.91
+<0.000 1
+显著
+x1
+0.86
+1
+0.86
+0.78
+0.407 3
+x2
+26.03
+1
+26.03
+23.57
+0.001 8
+x3
+7.70
+1
+7.70
+6.98
+0.033 4
+x1x2
+0.14
+1
+0.14
+0.13
+0.728 3
+x1x3
+0.040
+1
+0.040
+0.036
+0.854 4
+x2x3
+2.36
+1
+2.36
+2.13
+0.187 4
+x12
+47.33
+1
+47.33
+42.87
+0.000 3
+x22
+217.99
+1
+217.99
+197.44
+<0.000 1
+x32
+44.89
+1
+44.89
+40.66
+0.000 4
+残差
+7.73
+7
+1.10
+—
+—
+失拟项
+5.06
+3
+1.69
+2.53
+0.195 3
+不显著
+纯误差
+2.66
+4
+0.67
+—
+—
+总方差
+384.45
+16
+—
+—
+表7 锗浸出率二次模型的可信度分析结果
+R2
+Radj2
+Rpred2
+Adep
+Cv/%
+0.979 9
+0.954 1
+0.878 4
+15.969
+1.33
+图3 锗浸出率模型实际值与预测值之间的关系
+由表4看出:锌浸出率的二次模型的F值高达987.21,说明该模型对响应变量具有显著影响,且P值低于0.05,进一步证实模型的显著性;失拟检验中,P值超过0.05表示模型与试验数据间匹配良好,无显著偏差,暗示通过所得回归方程即可有效替代实际试验数据来解读试验结果,确保分析的准确性;此外,该模型下的锌浸出率预测值与实际值几乎相等,且相关系数R2>0.99,进一步说明二者相关度较高[19];变量x1、x2、x3的P值都小于0.001是突出的模型变量,表明所选择因素对锌浸出率影响显著,各因素之间的相互作用无显著性影响;基于F值的大小得出各因素对锌浸出率的影响大小排序为x2<x1<x3。
+由表5看出:R2大于0.99、调整后的决定系数Radj2及调整的决定系数Rpred2均较高且差量较小,表明该模型与实际数据具有高度一致性;模型精密度值Adep为89.968>4,离散系数Cv小于10%,说明本试验设计精密度较高[20]。综上可知,使用该模型对超声波联合活化剂强化高硅低锗烟尘锌浸出过程的影响因素进行优化分析和预测可行,所得结果精确有效。
+由图2看出:锌浸出率的实际值与预测值之间仅存在微小差异,表明该模型具有极高的预测准确性,分析结论具有较高的可信度,进一步说明该回归模型能有效阐释并预估超声波协同活化剂在高硅低锗烟尘中促进锌锗浸出的过程,具有理想的描述与预测能力。
+由表6看出:锗浸出率的二次型模型在方差分析中的F值达37.91,表明模型对于响应变量具有显著的预测能力;同时,模型的P值低于0.05,进一步证实了其统计显著性;失拟检验中,P值大于0.05,说明模型与实际试验数据契合紧密,无显著偏离,允许使用回归公式替代原始试验数据来解析结果,表明模型的实用性良好[21];此外,锗浸出率的预测值与实际值基本一致,且相关系数R2超过0.95,进一步说明二者相关度较高;变量x2和x3的P值远低于0.005,显著影响锗浸出效率,而x3及交互作用则效果不明显;基于F值大小得出,各单一因素对锗浸出率的影响大小排序为x1<x3<x2。
+由表7看出:R2大于0.95、Radj2及Rpred2均较高且差量较小,表明该模型与实际数据具有高度一致性;Adep为15.969>4,Cv小于10%,说明本试验设计精密度较高[22]。综上可知,使用该模型对超声波联合活化剂强化高硅低锗烟尘锗浸出过程的影响因素进行优化分析和预测可行,所得结果精确有效。
+由图3看出:锗浸出率的实际值与预测值数据点均匀分布于符合正态分布的直线两侧,说明该模型的分析结果高度可接受[23]。
+2.2.3 响应面相互作用分析
+使用Design Expert 8.0软件绘制3个因素之间的相互作用对锌、锗浸出率影响的3D曲面及对应的等高线,如图4~9所示。三维响应面图能直观反映浸出温度(x1)、液固体积质量比(x2)、初始硫酸质量浓度(x3)3个因素之间的相互作用对锌、锗浸出率的影响,若响应面较陡,斜率较大,说明两因素之间相互作用越强。
+图4 浸出温度与液固体积质量比相互作用对锌浸出率影响的3D曲面和等高线
+图5 浸出温度与初始硫酸质量浓度相互作用对锌浸出率影响的3D曲面和等高线
+图6 液固体积质量比与初始硫酸质量浓度相互作用对锌浸出率影响的3D曲面和等高线
+图7 浸出温度与液固体积质量比相互作用对锗浸出率影响的3D曲面和等高线
+图8 浸出温度与初始硫酸质量浓度相互作用对锗浸出率影响的3D曲面和等高线
+图9 液固体积质量比与初始硫酸质量浓度与相互作用对锗浸出率影响的3D曲面和等高线
+由图4~6看出:3个因素之间相互作用对锌浸出率均有一定影响,其中,液固体积质量比与初始硫酸质量浓度之间的相互作用最为显著,浸出温度与初始硫酸质量浓度之间的相互作用较强于浸出温度与液固体积质量比之间的相互作用;基于F值的大小得出,3个影响因素之间的相互作用对锌浸出率的影响大小排序为x2x3>x1x3>x1x2;3个影响因素中,单独增大液固体积质量比,锌浸出率呈升高趋势,但单独升高温度,锌浸出率呈现波动变化趋势,这可能与温度和初始硫酸质量浓度取值过大会对活化剂的性能产生影响有关。
+由图7~9看出:3个因素之间的相互作用对锗浸出率影响较大,结合图4~6可知,选取的3个因素对活化剂抑制硅胶吸附过程有较大的影响,这进一步说明其对锌、锗浸出率变化均有明显影响。由图7~9的3D曲面坡度看出:浸出温度(x1)与液固体积质量比(x2)之间的相互作用、浸出温度(x1)与初始硫酸质量浓度(x3)之间的相互作用均较强于液固体积质量比(x2)与初始硫酸质量浓度(x3)之间的相互作用;基于F值大小得出,3个影响因素之间的相互作用对锗浸出率的影响大小排序为x2x3>x1x2>x1x3;在所选取的3个因素中,单独增大液固体积质量比时,锗浸出率逐渐升高,但升幅较小;分别单独升高初始硫酸质量浓度和浸出温度时,锗浸出率呈先上升后下降趋势,原因是氧化锗在酸性体系中的溶解度随温度升高呈先升高后下降趋势,此外,浸出温度升高与初始硫酸质量浓度增大均会影响活化剂抑制硅胶聚合过程,使得硅胶聚合速度大于解聚速度,导致锗浸出率下降。
+综上,确定锌、锗最佳浸出条件为:液固体积质量比为8 mL/1 g,浸出温度70 ℃,初始硫酸质量浓度为160 g/L。在该条件下,锌和锗浸出率分别为96.94%和85.41%。基于表3数据集,进一步实施多元回归分析,构建了用于预测锌、锗浸出率的响应面多项式方程,见式(2)、(3)。
+y1(Zn)=12.210 75+0.399 68x1+2.685 75x2+0.712 04x3-0.003 02x12-0.153 87x22-0.002 090 94x32;
+(2)
+y1(Ge)=-127.097 44+28.480 38x2+0.609 58x3-0.008 381 88x12-1.798 81x22-0.002 040 78x32。
+(3)
+同时,在相同条件下进行常规酸浸对比试验,结果表明,超声协同活化剂强化浸出的锌、锗浸出率比常规酸浸分别提高13.96%、13.27%。
+2.3 浸出渣的表征
+2.3.1 元素组成及物相表征
+采用XRF对强化酸浸渣进行元素组成分析,结果见表8,其中,锌、锗、硅为定量分析结果。可以看出:强化酸浸渣主要由Pb、Ca、S、Fe、Zn、Ge和Si组成,与氧化锌烟尘原料相比,锌和锗含量明显降低,铅含量显著增加,硅含量显著降低,表明大部分锌被浸出,铅被富集。浸出渣可作为铅冶炼原料返回铅冶炼企业进一步加工。
+表8 强化酸浸渣的化学组成 %
+Pb
+Ca
+S
+Fe
+Zn
+Ge*
+Si
+39.67
+14.29
+12.17
+11.56
+4.35
+175.4
+0.34
+*.单位为g/t。
+超声协同活化剂强化浸出与常规酸浸所得的浸出渣的XRD图谱对比结果如图10所示。可以看出:2种浸出渣成分相似,主要由PbSO4、PbS和ZnS组成;与图1相比,2种浸出渣均未检测到ZnO的衍射峰,表明原料中的ZnO可通过酸浸实现完全浸出;与常规浸出渣相比,在强化浸出渣的XRD图谱中未检测到明显的ZnSO4衍射峰,表明在强化浸出过程中,ZnSO4已经几乎完全浸出,而常规浸出渣中检测到ZnSO4可能是在常规酸浸过程中,硅酸盐水解产生的硅胶吸附可溶性硫酸锌,在浸出渣中留下部分硫酸锌所引起;通过对比ZnS相的衍射峰发现,该相在常规浸出渣中的衍射峰明显高于强化浸出渣,表明在超声波辅助下,一些难以浸出的ZnS逐渐被浸出,提高了锌浸出率。
+图10 2种浸出渣的XRD图谱对比
+2.3.2 FI-IR表征
+常规浸出渣和强化浸出渣的FT-IR光谱如图11所示。常规浸出渣在450~500 cm-1处的峰被确定为Zn—O键的伸缩振动[24],而在强化浸出渣中,此峰显示为弱峰,说明在同一时间内相较于常规酸浸法,强化酸浸能有效提高浸出率;1 000~1 200 cm-1处的强峰为SO42−吸收峰,其中ZnSO4和PbSO4主要存在于强化浸出渣中[25],而大量PbSO4存在于常规浸出渣中,这与XRD分析结果(图10)一致;常规浸出渣的峰强度远大于强化浸出渣的峰强度,表明在强化浸出后,浸出渣中形成了更多SO42−;在700~1 000 cm-1处,强化浸出渣的弱峰被确定为SiO32−吸收峰[26],且该峰在常规浸出渣中有所减弱,这是因为在强化浸出过程中,在活化剂作用下,部分硅酸盐以悬浮聚合形式存在于浸出液中;此外,1 350~1 500 cm-1处的弱峰被确定为CO32−,1 500~2 000 cm-1处的峰为C══O吸收峰,3 250~3 500 cm-1之间的峰为O—H吸收峰[27-28]。
+图11 2种浸出渣的FT-IR光谱
+2.3.3 SEM-EDS表征
+超声协同活化剂强化浸出渣的SEM-EDS表征结果如图12所示。
+图12 超声协同活化剂强化浸出渣的SEM-EDS光谱
+由图12看出,材料的外观形态是通过选择不同的特殊形状来确定的:点1为一个蜂窝状的絮凝结构,其成分主要是铅化合物,并含有微量锌和铁元素;点2为长方形条状物,该结构主要由PbSO4构成,这是由于铅氧化物在浸出过程中与硫酸发生反应,进而转化为PbSO4,同时也可能涉及硫化铅的氧化过程;点3为不规则絮状物,此处含有氧化锌、铁化合物及PbSO4,表明部分锌和铁的化合物可能因被PbSO4包裹而难以有效浸出。综上所述,所选3个分析点的成分主要为S、Pb及少量的Zn和Fe,这与表8的分析结果相吻合;值得注意的是,Si几乎不存在,这进一步说明超声协同活化剂强化浸出工艺能有效地避免出现硅胶共沉淀问题。
+3 结论
+收起
+1)采用超声协同活化剂强化浸出方法从高硅低锗烟尘中浸出锌锗是可行的。浸出温度、液固体积质量比、初始硫酸质量浓度3个因素对锌锗浸出率均有较大影响,且各因素之间存在一定相互作用关系。浸出温度与初始硫酸质量浓度对硅胶聚合情况有直接影响。
+2)通过多元回归分析构建了分别用于锌和锗浸出率的响应面多项式方程,结果表明,各因素对锌、锗浸出率的影响顺序为液固体积质量比<浸出温度<初始硫酸质量浓度,其中,浸出温度与初始硫酸质量浓度之间的相互作用影响最为显著。
+3)通过响应曲面法优化的最佳工艺条件为:浸出温度70 ℃,液固体积质量比8 mL/1 g,初始硫酸质量浓度160 g/L。该条件下的锌浸出率为96.94%,锗浸出率为85.41%,相对误差小于2%,该模型准确可靠。
+基金
+收起
+国家重点研发计划项目(2021YFC290281)
+云南省锌资源技术创新中心项目(202405AK340004)
+云南省“兴滇英才支持计划”产业创新人才项目(云发改人事〔2019〕1096号)
+参考文献
+收起
+文献
+收起
+参考文献(28) 引证文献(5)
+排序方式：
+[1]
+Migration behavior of germanium and its related elements in zinc hydrometallurgy process
+XU Y J, QU D K, XIA H Y, et al. Migration behavior of germanium and its related elements in zinc hydrometallurgy process[J]. Separation & Purification Technology, 2024, 330.DOI:10.1016/j.seppur.2023.125467.
+[2]
+Optimization of zinc and germanium recovery process from zinc oxide dust by response surface methodology
+XU Y J, XIA H Y, ZHANG Q, et al. Optimization of zinc and germanium recovery process from zinc oxide dust by response surface methodology[J]. Chemistry Select, 2022, 7(44).DOI:10.1002/slct.202203433.
+[3]
+Recent advances in the recovery of germanium during the zinc refining process
+GENG X L, LIU Y, ZHANG W, et al. Recent advances in the recovery of germanium during the zinc refining process[J]. Chemical Engineering Journal, 2022,446.DOI:10.1016/j.cej.2022.137445.
+[4]
+含锗氧化锌烟尘中有价金属回收利用研究进展
+辛椿福, 夏洪应, 张利波, 等. 含锗氧化锌烟尘中有价金属回收利用研究进展[J]. 有色金属工程, 2021, 11(6):66-74.
+[5]
+朱应旭. 富氧浸出含锗氧化锌烟尘的研究[D]. 昆明: 昆明理工大学, 2023.
+[6]
+常压富氧浸出含锗氧化锌烟尘回收锌和锗
+邓志敢, 朱应旭, 魏昶, 等. 常压富氧浸出含锗氧化锌烟尘回收锌和锗[J]. 矿冶, 2020, 29(1):37-43.
+[7]
+氧化锌烟尘中锗的浸出行为
+陆占清, 邓志敢, 魏昶, 等. 氧化锌烟尘中锗的浸出行为[J]. 中国有色金属学报, 2024, 34(3):934-946.
+[8]
+转底炉工艺次氧化锌的硫酸浸出动力学
+孙彩虹, 代梦博, 张文杰, 等. 转底炉工艺次氧化锌的硫酸浸出动力学[J]. 湿法冶金, 2022, 41(2):117-121.
+[9]
+Difference in dissolution between germanium and zinc during the oxidative pressure leaching of sphalerite
+LIANG D Q, WANG J K, WANG Y H. Difference in dissolution between germanium and zinc during the oxidative pressure leaching of sphalerite[J]. Hydrometallurgy, 2009, 95(2):5-7.
+[10]
+常压富氧浸出含锗氧化锌烟尘
+朱应旭, 邓志敢, 魏昶, 等. 常压富氧浸出含锗氧化锌烟尘[J]. 中国有色金属学报, 2021, 31(4):995-1006.
+[11]
+用稀硫酸-有机酸体系浸出锌粉置换渣中的锗试验研究
+邵庆阳, 吴远桂, 谈定生, 等. 用稀硫酸-有机酸体系浸出锌粉置换渣中的锗试验研究[J]. 湿法冶金, 2023, 42(3):241-246.
+[12]
+Physical effect of ultrasonic on leaching system of zinc oxide dust containing germanium
+LIANG M, DI H K, HONG Y, et al. Physical effect of ultrasonic on leaching system of zinc oxide dust containing germanium[J]. International Journal of Chemical Reactor Engineering, 2023, 21(11):1433-1441.
+[13]
+Microwave alkaline roasting-water dissolving process for germanium extraction from zinc oxide dust and its analysis by response surface methodology(RSM)
+WANG W K, WANG F C, LU F H. Microwave alkaline roasting-water dissolving process for germanium extraction from zinc oxide dust and its analysis by response surface methodology(RSM)[J]. Metallurgical Research & Technology, 2018, 115(2):DOI:10.1051/METAL/2017093.
+[14]
+High pressure acid leaching of low germanium bearing silica residue(GRS):characterization of leach residue and mechanistic details of germanium leaching
+LI Y H, HE X H, YANG Y D, et al. High pressure acid leaching of low germanium bearing silica residue(GRS):characterization of leach residue and mechanistic details of germanium leaching[J]. Hydrometallurgy, 2023, 216.DOI:10.1016/j.hydromet.2022.106015.
+[15]
+用硫酸化焙烧—水浸工艺从高砷铜冶炼烟尘中浸出铜锌
+冯卿, 张玉慧, 李雷, 等. 用硫酸化焙烧—水浸工艺从高砷铜冶炼烟尘中浸出铜锌[J]. 湿法冶金, 2023, 42(4):347-352.
+[16]
+陈春林. 含锗氧化锌烟尘控酸氧化浸出工艺及产业化应用研究[D]. 昆明: 昆明理工大学, 2023.
+[17]
+响应曲面法优化草酸-草酸铵协同浸出氰化尾渣中赤铁矿的工艺
+党晓娥, 刘安全, 李林波, 等. 响应曲面法优化草酸-草酸铵协同浸出氰化尾渣中赤铁矿的工艺[J]. 中国冶金, 2023, 33(10):105-115.
+[18]
+有色冶炼酸性废水除钙试验研究
+张俊峰, 赵辉. 有色冶炼酸性废水除钙试验研究[J]. 湿法冶金, 2021, 40(5):435-439.
+[19]
+蔡无尘. 铝电解废旧阴极炭无害化处理的除氟研究[D]. 昆明: 昆明理工大学, 2023.
+[20]
+基于响应曲面法优化的飞灰中氯盐磁化水浸出条件及机理研究
+彭祥玉, 田家怡, 王宇斌, 等. 基于响应曲面法优化的飞灰中氯盐磁化水浸出条件及机理研究[J]. 化工矿物与加工, 2023, 52(9):26-31.
+[21]
+用响应曲面法优化高氯废水脱氯试验研究
+蒋宗来, 孙建光, 辛国杨, 等. 用响应曲面法优化高氯废水脱氯试验研究[J]. 湿法冶金, 2023, 42(3):306-311.
+[22]
+响应面Box-Behnken设计优化野金柴老叶复合酶处理工艺研究
+郑国华, 黄虹, 涂祖新, 等. 响应面Box-Behnken设计优化野金柴老叶复合酶处理工艺研究[J]. 江西科学, 2023, 41(4):656-663.
+[23]
+响应曲面法优化酒石酸还原浸出电解锰阳极渣工艺
+章聪华, 颜文斌, 肖佳俊, 等. 响应曲面法优化酒石酸还原浸出电解锰阳极渣工艺[J]. 无机盐工业, 2023, 55(9):106-113.
+[24]
+Technological mineralogy and environmental activity of zinc leaching residue from zinc hydrometallurgical process
+LI M, PENG B, CHAI L Y, et al. Technological mineralogy and environmental activity of zinc leaching residue from zinc hydrometallurgical process[J]. Transactions of Nonferrous Metals Society of China, 2013, 23(5):1480-1488.
+[25]
+Characterization and reactivity of pure TiO-SO SCR catalyst:influence of SO42− content
+SEONG M, PAUL G. Characterization and reactivity of pure TiO-SO SCR catalyst:influence of SO42− content[J]. Catalysis Today, 2000, 59(3/4):305-312.
+[26]
+Single-drop and nanogram level determination of sulfite (SO42−) in alcoholic and nonalcoholic beverage samples based on diffuse reflectance fourier transform infrared spectroscopic (DRS-FTIR) analysis on KBr matrix
+VERMA S, DEB M. Single-drop and nanogram level determination of sulfite (SO42−) in alcoholic and nonalcoholic beverage samples based on diffuse reflectance fourier transform infrared spectroscopic (DRS-FTIR) analysis on KBr matrix[J]. Journal of Agricultural and Food Chemistry, 2021,55:5319-8324.
+[27]
+Infrared and raman study of interlayer anions CO32−,NO3−,SO42− and ClO4− in Mg/Al-hydrotalcite
+KLOPROGGE T J, WHARTON D, HICKEY L, et al. Infrared and raman study of interlayer anions CO32−,NO3−,SO42− and ClO4− in Mg/Al-hydrotalcite[J]. American Mineralogist, 2002, 87(5/6):623-629.
+[28]
+Infrared spectra of large H2O clusters:new understanding of the elusive bending mode of ice
+DEVLIN P J, SADLEJ J, BUCH V. Infrared spectra of large H2O clusters:new understanding of the elusive bending mode of ice[J]. The Journal of Physical Chemistry:A, 2001, 105(6):974-983.
+[1]
+赵志宏,夏存杰,王艺濛,欧晓霞. UV-Fenton体系中四环素降解效果的研究. 当代化工研究. 2024, (21).
+[2]
+周良耀,常宏涛,王军,赵治华,桑晓云,张福顺. 响应面法优化液碱分解包头混合稀土精矿. 有色金属（中英文）. 2025, 15(9).
+[3]
+吕喜聪,唐文涛,梁柱俊,刘远东,李梦雪. 基于响应曲面法的铜电解废液脱杂工艺参数优化研究. 湿法冶金. 2025, 44(5).
+[4]
+张特,杜泽宇,邓志敢,王伟城,雷林欣,张朝波,付光. 碱熔活化—酸浸新工艺提取褐煤灰中的锗. 湿法冶金. 2026, 45(3).
+[5]
+王伟城,杜泽宇,邓志敢,白金龙,林文军,肖康,蒋文,刘卫平. 钠化焙烧—酸浸法提取富锗褐煤灰中的锗. 有色金属（中英文）. 2026, 16(7).
+第 1 页 / 共 1 页
+2024年第43卷第5期
+预览PDF | 下载PDF
+996
+464
+5
+引用本文
+BibTeX
+文章信息
+doi: 10.13355/j.cnki.sfyj.2024.05.014
+接收时间：2024-06-15
+首发时间：2025-09-10
+出版时间：2024-10-20
+补充材料
+相关文章
+文章信息
+作者
+出版历史
+收稿日期：2024-06-15
+基金
+国家重点研发计划项目(2021YFC290281)
+云南省锌资源技术创新中心项目(202405AK340004)
+云南省“兴滇英才支持计划”产业创新人才项目(云发改人事〔2019〕1096号)
+作者信息
+1 昆明理工大学 冶金与能源工程学院, 云南 昆明 650093
+2 昆明理工大学 云南省特种冶金重点实验室, 云南 昆明 650093
+3 云南驰宏锌锗股份有限公司, 云南 曲靖 655011
+通讯作者:
+付光(1976—),男,本科,高工,主要研究方向为湿法冶金。E-mail:16634992@qq.com;
+夏洪应(1981—),男,博士,教授,主要研究方向为冶金固废资源综合利用。E-mail:hyxia81@163.com。
+表1 高硅低锗氧化锌烟尘的主要化学组成 %
+*.单位为g/t。
+Zn
+Pb
+Fe
+S
+Si
+As
+Ge
+47.69
+8.38
+5.51
+2.49
+2.56
+0.72
+360*
+表2 设计因素水平
+水平
+因素
+x1/℃
+x2/(mL·g-1)
+x3/(g·L-1)
+-1
+50
+6
+120
+0
+70
+8
+160
+1
+90
+10
+200
+表3 试验设计方案及结果
+试验编号
+x1/℃
+x2/(mL·g-1)
+x3/(g·L-1)
+y1(Zn)/%
+y2(Zn)/%
+y1(Ge)/%
+y2(Ge)/%
+1
+0
+1
+1
+94.84
+94.86
+78.50
+79.38
+2
+0
+0
+0
+96.94
+97.06
+85.41
+85.32
+3
+0
+0
+0
+96.94
+97.03
+85.41
+85.81
+4
+0
+0
+0
+96.94
+96.75
+85.41
+86.35
+5
+1
+0
+1
+93.53
+93.52
+80.00
+80.11
+6
+0
+0
+0
+96.94
+96.88
+85.41
+84.14
+7
+1
+-1
+0
+94.35
+94.36
+73.57
+74.07
+8
+0
+0
+0
+96.94
+96.96
+85.41
+85.42
+9
+1
+0
+-1
+90.35
+90.36
+78.24
+78.62
+10
+0
+1
+-1
+91.74
+91.74
+75.00
+75.61
+11
+-1
+-1
+0
+95.24
+95.25
+72.54
+73.53
+12
+0
+-1
+-1
+91.04
+91.02
+72.93
+72.05
+13
+0
+-1
+1
+94.28
+94.28
+73.36
+72.75
+14
+-1
+0
+-1
+91.24
+91.25
+77.38
+77.27
+15
+1
+1
+0
+94.99
+94.98
+76.80
+75.81
+16
+-1
+0
+1
+94.41
+94.40
+79.54
+79.16
+17
+-1
+1
+0
+95.87
+95.86
+76.53
+76.03
+表4 锌浸出二次模型的方差分析结果
+项目
+平方和
+自由度
+均方和
+F值
+P值
+显著性
+模型
+80.91
+9
+8.99
+987.21
+<0.000 1
+显著
+x1
+1.57
+1
+1.57
+172.02
+<0.000 1
+x2
+0.80
+1
+0.80
+87.86
+<0.000 1
+x3
+20.13
+1
+20.13
+2 210.47
+<0.000 1
+x1x2
+2.5×10-5
+1
+2.5×10-5
+2.745×10-3
+0.959 7
+x1x3
+2.5×10-5
+1
+2.5×10-5
+2.745×10-3
+0.959 7
+x2x3
+4.9×10-3
+1
+4.9×10-5
+0.54
+0.487 1
+x12
+6.14
+1
+6.14
+674.72
+<0.000 1
+x22
+1.60
+1
+1.60
+175.16
+<0.000 1
+x32
+47.13
+1
+47.13
+5 175.00
+<0.000 1
+残差
+0.064
+7
+9.106×10-3
+—
+—
+失拟项
+1.225×10-3
+3
+4.083×10-4
+0.026
+0.993 4
+不显著
+纯误差
+0.063
+4
+0.016
+—
+—
+总方差
+80.97
+16
+—
+—
+表5 锌浸出二次模型的可信度分析结果
+R2
+Radj2
+Rpred2
+Adep
+Cv/%
+0.999 2
+0.998 6
+0.998 2
+89.968
+0.1
+表6 锗浸出率二次模型的方差分析结果
+项目
+平方和
+自由度
+均方和
+F值
+P值
+显著性
+模型
+376.72
+9
+41.86
+37.91
+<0.000 1
+显著
+x1
+0.86
+1
+0.86
+0.78
+0.407 3
+x2
+26.03
+1
+26.03
+23.57
+0.001 8
+x3
+7.70
+1
+7.70
+6.98
+0.033 4
+x1x2
+0.14
+1
+0.14
+0.13
+0.728 3
+x1x3
+0.040
+1
+0.040
+0.036
+0.854 4
+x2x3
+2.36
+1
+2.36
+2.13
+0.187 4
+x12
+47.33
+1
+47.33
+42.87
+0.000 3
+x22
+217.99
+1
+217.99
+197.44
+<0.000 1
+x32
+44.89
+1
+44.89
+40.66
+0.000 4
+残差
+7.73
+7
+1.10
+—
+—
+失拟项
+5.06
+3
+1.69
+2.53
+0.195 3
+不显著
+纯误差
+2.66
+4
+0.67
+—
+—
+总方差
+384.45
+16
+—
+—
+表7 锗浸出率二次模型的可信度分析结果
+R2
+Radj2
+Rpred2
+Adep
+Cv/%
+0.979 9
+0.954 1
+0.878 4
+15.969
+1.33
+表8 强化酸浸渣的化学组成 %
+*.单位为g/t。
+Pb
+Ca
+S
+Fe
+Zn
+Ge*
+Si
+39.67
+14.29
+12.17
+11.56
+4.35
+175.4
+0.34
+表1 高硅低锗氧化锌烟尘的主要化学组成 %
+*.单位为g/t。
+Zn
+Pb
+Fe
+S
+Si
+As
+Ge
+47.69
+8.38
+5.51
+2.49
+2.56
+0.72
+360*
+表2 设计因素水平
+水平
+因素
+x1/℃
+x2/(mL·g-1)
+x3/(g·L-1)
+-1
+50
+6
+120
+0
+70
+8
+160
+1
+90
+10
+200
+表3 试验设计方案及结果
+试验编号
+x1/℃
+x2/(mL·g-1)
+x3/(g·L-1)
+y1(Zn)/%
+y2(Zn)/%
+y1(Ge)/%
+y2(Ge)/%
+1
+0
+1
+1
+94.84
+94.86
+78.50
+79.38
+2
+0
+0
+0
+96.94
+97.06
+85.41
+85.32
+3
+0
+0
+0
+96.94
+97.03
+85.41
+85.81
+4
+0
+0
+0
+96.94
+96.75
+85.41
+86.35
+5
+1
+0
+1
+93.53
+93.52
+80.00
+80.11
+6
+0
+0
+0
+96.94
+96.88
+85.41
+84.14
+7
+1
+-1
+0
+94.35
+94.36
+73.57
+74.07
+8
+0
+0
+0
+96.94
+96.96
+85.41
+85.42
+9
+1
+0
+-1
+90.35
+90.36
+78.24
+78.62
+10
+0
+1
+-1
+91.74
+91.74
+75.00
+75.61
+11
+-1
+-1
+0
+95.24
+95.25
+72.54
+73.53
+12
+0
+-1
+-1
+91.04
+91.02
+72.93
+72.05
+13
+0
+-1
+1
+94.28
+94.28
+73.36
+72.75
+14
+-1
+0
+-1
+91.24
+91.25
+77.38
+77.27
+15
+1
+1
+0
+94.99
+94.98
+76.80
+75.81
+16
+-1
+0
+1
+94.41
+94.40
+79.54
+79.16
+17
+-1
+1
+0
+95.87
+95.86
+76.53
+76.03
+表4 锌浸出二次模型的方差分析结果
+项目
+平方和
+自由度
+均方和
+F值
+P值
+显著性
+模型
+80.91
+9
+8.99
+987.21
+<0.000 1
+显著
+x1
+1.57
+1
+1.57
+172.02
+<0.000 1
+x2
+0.80
+1
+0.80
+87.86
+<0.000 1
+x3
+20.13
+1
+20.13
+2 210.47
+<0.000 1
+x1x2
+2.5×10-5
+1
+2.5×10-5
+2.745×10-3
+0.959 7
+x1x3
+2.5×10-5
+1
+2.5×10-5
+2.745×10-3
+0.959 7
+x2x3
+4.9×10-3
+1
+4.9×10-5
+0.54
+0.487 1
+x12
+6.14
+1
+6.14
+674.72
+<0.000 1
+x22
+1.60
+1
+1.60
+175.16
+<0.000 1
+x32
+47.13
+1
+47.13
+5 175.00
+<0.000 1
+残差
+0.064
+7
+9.106×10-3
+—
+—
+失拟项
+1.225×10-3
+3
+4.083×10-4
+0.026
+0.993 4
+不显著
+纯误差
+0.063
+4
+0.016
+—
+—
+总方差
+80.97
+16
+—
+—
+表5 锌浸出二次模型的可信度分析结果
+R2
+Radj2
+Rpred2
+Adep
+Cv/%
+0.999 2
+0.998 6
+0.998 2
+89.968
+0.1
+表6 锗浸出率二次模型的方差分析结果
+项目
+平方和
+自由度
+均方和
+F值
+P值
+显著性
+模型
+376.72
+9
+41.86
+37.91
+<0.000 1
+显著
+x1
+0.86
+1
+0.86
+0.78
+0.407 3
+x2
+26.03
+1
+26.03
+23.57
+0.001 8
+x3
+7.70
+1
+7.70
+6.98
+0.033 4
+x1x2
+0.14
+1
+0.14
+0.13
+0.728 3
+x1x3
+0.040
+1
+0.040
+0.036
+0.854 4
+x2x3
+2.36
+1
+2.36
+2.13
+0.187 4
+x12
+47.33
+1
+47.33
+42.87
+0.000 3
+x22
+217.99
+1
+217.99
+197.44
+<0.000 1
+x32
+44.89
+1
+44.89
+40.66
+0.000 4
+残差
+7.73
+7
+1.10
+—
+—
+失拟项
+5.06
+3
+1.69
+2.53
+0.195 3
+不显著
+纯误差
+2.66
+4
+0.67
+—
+—
+总方差
+384.45
+16
+—
+—
+表7 锗浸出率二次模型的可信度分析结果
+R2
+Radj2
+Rpred2
+Adep
+Cv/%
+0.979 9
+0.954 1
+0.878 4
+15.969
+1.33
+表8 强化酸浸渣的化学组成 %
+*.单位为g/t。
+Pb
+Ca
+S
+Fe
+Zn
+Ge*
+Si
+39.67
+14.29
+12.17
+11.56
+4.35
+175.4
+0.34
+图1 高硅低锗氧化锌烟尘的XRD图谱
+图2 锌浸出率二次模型的实际值与预测值之间的关系
+图3 锗浸出率模型实际值与预测值之间的关系
+图4 浸出温度与液固体积质量比相互作用对锌浸出率影响的3D曲面和等高线
+图5 浸出温度与初始硫酸质量浓度相互作用对锌浸出率影响的3D曲面和等高线
+图6 液固体积质量比与初始硫酸质量浓度相互作用对锌浸出率影响的3D曲面和等高线
+图7 浸出温度与液固体积质量比相互作用对锗浸出率影响的3D曲面和等高线
+图8 浸出温度与初始硫酸质量浓度相互作用对锗浸出率影响的3D曲面和等高线
+图9 液固体积质量比与初始硫酸质量浓度与相互作用对锗浸出率影响的3D曲面和等高线
+图10 2种浸出渣的XRD图谱对比
+图11 2种浸出渣的FT-IR光谱
+图12 超声协同活化剂强化浸出渣的SEM-EDS光谱
+参考文献
+[1]
+Migration behavior of germanium and its related elements in zinc hydrometallurgy process
+XU Y J, QU D K, XIA H Y, et al. Migration behavior of germanium and its related elements in zinc hydrometallurgy process[J]. Separation & Purification Technology, 2024, 330.DOI:10.1016/j.seppur.2023.125467.
+[2]
+Optimization of zinc and germanium recovery process from zinc oxide dust by response surface methodology
+XU Y J, XIA H Y, ZHANG Q, et al. Optimization of zinc and germanium recovery process from zinc oxide dust by response surface methodology[J]. Chemistry Select, 2022, 7(44).DOI:10.1002/slct.202203433.
+[3]
+Recent advances in the recovery of germanium during the zinc refining process
+GENG X L, LIU Y, ZHANG W, et al. Recent advances in the recovery of germanium during the zinc refining process[J]. Chemical Engineering Journal, 2022,446.DOI:10.1016/j.cej.2022.137445.
+[4]
+含锗氧化锌烟尘中有价金属回收利用研究进展
+辛椿福, 夏洪应, 张利波, 等. 含锗氧化锌烟尘中有价金属回收利用研究进展[J]. 有色金属工程, 2021, 11(6):66-74.
+[5]
+朱应旭. 富氧浸出含锗氧化锌烟尘的研究[D]. 昆明: 昆明理工大学, 2023.
+[6]
+常压富氧浸出含锗氧化锌烟尘回收锌和锗
+邓志敢, 朱应旭, 魏昶, 等. 常压富氧浸出含锗氧化锌烟尘回收锌和锗[J]. 矿冶, 2020, 29(1):37-43.
+[7]
+氧化锌烟尘中锗的浸出行为
+陆占清, 邓志敢, 魏昶, 等. 氧化锌烟尘中锗的浸出行为[J]. 中国有色金属学报, 2024, 34(3):934-946.
+[8]
+转底炉工艺次氧化锌的硫酸浸出动力学
+孙彩虹, 代梦博, 张文杰, 等. 转底炉工艺次氧化锌的硫酸浸出动力学[J]. 湿法冶金, 2022, 41(2):117-121.
+[9]
+Difference in dissolution between germanium and zinc during the oxidative pressure leaching of sphalerite
+LIANG D Q, WANG J K, WANG Y H. Difference in dissolution between germanium and zinc during the oxidative pressure leaching of sphalerite[J]. Hydrometallurgy, 2009, 95(2):5-7.
+[10]
+常压富氧浸出含锗氧化锌烟尘
+朱应旭, 邓志敢, 魏昶, 等. 常压富氧浸出含锗氧化锌烟尘[J]. 中国有色金属学报, 2021, 31(4):995-1006.
+[11]
+用稀硫酸-有机酸体系浸出锌粉置换渣中的锗试验研究
+邵庆阳, 吴远桂, 谈定生, 等. 用稀硫酸-有机酸体系浸出锌粉置换渣中的锗试验研究[J]. 湿法冶金, 2023, 42(3):241-246.
+[12]
+Physical effect of ultrasonic on leaching system of zinc oxide dust containing germanium
+LIANG M, DI H K, HONG Y, et al. Physical effect of ultrasonic on leaching system of zinc oxide dust containing germanium[J]. International Journal of Chemical Reactor Engineering, 2023, 21(11):1433-1441.
+[13]
+Microwave alkaline roasting-water dissolving process for germanium extraction from zinc oxide dust and its analysis by response surface methodology(RSM)
+WANG W K, WANG F C, LU F H. Microwave alkaline roasting-water dissolving process for germanium extraction from zinc oxide dust and its analysis by response surface methodology(RSM)[J]. Metallurgical Research & Technology, 2018, 115(2):DOI:10.1051/METAL/2017093.
+[14]
+High pressure acid leaching of low germanium bearing silica residue(GRS):characterization of leach residue and mechanistic details of germanium leaching
+LI Y H, HE X H, YANG Y D, et al. High pressure acid leaching of low germanium bearing silica residue(GRS):characterization of leach residue and mechanistic details of germanium leaching[J]. Hydrometallurgy, 2023, 216.DOI:10.1016/j.hydromet.2022.106015.
+[15]
+用硫酸化焙烧—水浸工艺从高砷铜冶炼烟尘中浸出铜锌
+冯卿, 张玉慧, 李雷, 等. 用硫酸化焙烧—水浸工艺从高砷铜冶炼烟尘中浸出铜锌[J]. 湿法冶金, 2023, 42(4):347-352.
+[16]
+陈春林. 含锗氧化锌烟尘控酸氧化浸出工艺及产业化应用研究[D]. 昆明: 昆明理工大学, 2023.
+[17]
+响应曲面法优化草酸-草酸铵协同浸出氰化尾渣中赤铁矿的工艺
+党晓娥, 刘安全, 李林波, 等. 响应曲面法优化草酸-草酸铵协同浸出氰化尾渣中赤铁矿的工艺[J]. 中国冶金, 2023, 33(10):105-115.
+[18]
+有色冶炼酸性废水除钙试验研究
+张俊峰, 赵辉. 有色冶炼酸性废水除钙试验研究[J]. 湿法冶金, 2021, 40(5):435-439.
+[19]
+蔡无尘. 铝电解废旧阴极炭无害化处理的除氟研究[D]. 昆明: 昆明理工大学, 2023.
+[20]
+基于响应曲面法优化的飞灰中氯盐磁化水浸出条件及机理研究
+彭祥玉, 田家怡, 王宇斌, 等. 基于响应曲面法优化的飞灰中氯盐磁化水浸出条件及机理研究[J]. 化工矿物与加工, 2023, 52(9):26-31.
+[21]
+用响应曲面法优化高氯废水脱氯试验研究
+蒋宗来, 孙建光, 辛国杨, 等. 用响应曲面法优化高氯废水脱氯试验研究[J]. 湿法冶金, 2023, 42(3):306-311.
+[22]
+响应面Box-Behnken设计优化野金柴老叶复合酶处理工艺研究
+郑国华, 黄虹, 涂祖新, 等. 响应面Box-Behnken设计优化野金柴老叶复合酶处理工艺研究[J]. 江西科学, 2023, 41(4):656-663.
+[23]
+响应曲面法优化酒石酸还原浸出电解锰阳极渣工艺
+章聪华, 颜文斌, 肖佳俊, 等. 响应曲面法优化酒石酸还原浸出电解锰阳极渣工艺[J]. 无机盐工业, 2023, 55(9):106-113.
+[24]
+Technological mineralogy and environmental activity of zinc leaching residue from zinc hydrometallurgical process
+LI M, PENG B, CHAI L Y, et al. Technological mineralogy and environmental activity of zinc leaching residue from zinc hydrometallurgical process[J]. Transactions of Nonferrous Metals Society of China, 2013, 23(5):1480-1488.
+[25]
+Characterization and reactivity of pure TiO-SO SCR catalyst:influence of SO42− content
+SEONG M, PAUL G. Characterization and reactivity of pure TiO-SO SCR catalyst:influence of SO42− content[J]. Catalysis Today, 2000, 59(3/4):305-312.
+[26]
+Single-drop and nanogram level determination of sulfite (SO42−) in alcoholic and nonalcoholic beverage samples based on diffuse reflectance fourier transform infrared spectroscopic (DRS-FTIR) analysis on KBr matrix
+VERMA S, DEB M. Single-drop and nanogram level determination of sulfite (SO42−) in alcoholic and nonalcoholic beverage samples based on diffuse reflectance fourier transform infrared spectroscopic (DRS-FTIR) analysis on KBr matrix[J]. Journal of Agricultural and Food Chemistry, 2021,55:5319-8324.
+[27]
+Infrared and raman study of interlayer anions CO32−,NO3−,SO42− and ClO4− in Mg/Al-hydrotalcite
+KLOPROGGE T J, WHARTON D, HICKEY L, et al. Infrared and raman study of interlayer anions CO32−,NO3−,SO42− and ClO4− in Mg/Al-hydrotalcite[J]. American Mineralogist, 2002, 87(5/6):623-629.
+[28]
+Infrared spectra of large H2O clusters:new understanding of the elusive bending mode of ice
+DEVLIN P J, SADLEJ J, BUCH V. Infrared spectra of large H2O clusters:new understanding of the elusive bending mode of ice[J]. The Journal of Physical Chemistry:A, 2001, 105(6):974-983.
+分享链接
+https://castjournals.cast.org.cn/joweb/sfyj/CN/10.13355/j.cnki.sfyj.2024.05.014
+分享至
+Share on WeChat
+全文二维码
+扫描看全文
+引用本文
+BibTeX
+本文的引用情况
+[1]
+赵志宏,夏存杰,王艺濛,欧晓霞. UV-Fenton体系中四环素降解效果的研究. 当代化工研究. 2024, (21).
+[2]
+周良耀,常宏涛,王军,赵治华,桑晓云,张福顺. 响应面法优化液碱分解包头混合稀土精矿. 有色金属（中英文）. 2025, 15(9).
+[3]
+吕喜聪,唐文涛,梁柱俊,刘远东,李梦雪. 基于响应曲面法的铜电解废液脱杂工艺参数优化研究. 湿法冶金. 2025, 44(5).
+[4]
+张特,杜泽宇,邓志敢,王伟城,雷林欣,张朝波,付光. 碱熔活化—酸浸新工艺提取褐煤灰中的锗. 湿法冶金. 2026, 45(3).
+[5]
+王伟城,杜泽宇,邓志敢,白金龙,林文军,肖康,蒋文,刘卫平. 钠化焙烧—酸浸法提取富锗褐煤灰中的锗. 有色金属（中英文）. 2026, 16(7).
+摘要
+关键词
+Abstract
+Key words
+引用本文
+正文
+1 试验部分
+1.1 试验原料
+表1 高硅低锗氧化锌烟尘的主要化学组成 %
+图1 高硅低锗氧化锌烟尘的XRD图谱
+1.2 试验试剂及仪器
+1.3 试验原理及方法
+2 试验结果与讨论
+2.1 前期试验条件的选择
+2.2 响应曲面法优化工艺条件
+表2 设计因素水平
+表3 试验设计方案及结果
+表4 锌浸出二次模型的方差分析结果
+表5 锌浸出二次模型的可信度分析结果
+图2 锌浸出率二次模型的实际值与预测值之间的关系
+表6 锗浸出率二次模型的方差分析结果
+表7 锗浸出率二次模型的可信度分析结果
+图3 锗浸出率模型实际值与预测值之间的关系
+图4 浸出温度与液固体积质量比相互作用对锌浸出率影响的3D曲面和等高线
+图5 浸出温度与初始硫酸质量浓度相互作用对锌浸出率影响的3D曲面和等高线
+图6 液固体积质量比与初始硫酸质量浓度相互作用对锌浸出率影响的3D曲面和等高线
+图7 浸出温度与液固体积质量比相互作用对锗浸出率影响的3D曲面和等高线
+图8 浸出温度与初始硫酸质量浓度相互作用对锗浸出率影响的3D曲面和等高线
+图9 液固体积质量比与初始硫酸质量浓度与相互作用对锗浸出率影响的3D曲面和等高线
+2.3 浸出渣的表征
+表8 强化酸浸渣的化学组成 %
+图10 2种浸出渣的XRD图谱对比
+图11 2种浸出渣的FT-IR光谱
+图12 超声协同活化剂强化浸出渣的SEM-EDS光谱
+3 结论
+基金
+参考文献
+文献
+表1 高硅低锗氧化锌烟尘的主要化学组成 %
+表2 设计因素水平
+表3 试验设计方案及结果
+表4 锌浸出二次模型的方差分析结果
+表5 锌浸出二次模型的可信度分析结果
+表6 锗浸出率二次模型的方差分析结果
+表7 锗浸出率二次模型的可信度分析结果
+表8 强化酸浸渣的化学组成 %
+摘要
+关键词
+Abstract
+Key words
+引用本文
+正文
+1 试验部分
+1.1 试验原料
+表1 高硅低锗氧化锌烟尘的主要化学组成 %
+图1 高硅低锗氧化锌烟尘的XRD图谱
+1.2 试验试剂及仪器
+1.3 试验原理及方法
+2 试验结果与讨论
+2.1 前期试验条件的选择
+2.2 响应曲面法优化工艺条件
+表2 设计因素水平
+表3 试验设计方案及结果
+表4 锌浸出二次模型的方差分析结果
+表5 锌浸出二次模型的可信度分析结果
+图2 锌浸出率二次模型的实际值与预测值之间的关系
+表6 锗浸出率二次模型的方差分析结果
+表7 锗浸出率二次模型的可信度分析结果
+图3 锗浸出率模型实际值与预测值之间的关系
+图4 浸出温度与液固体积质量比相互作用对锌浸出率影响的3D曲面和等高线
+图5 浸出温度与初始硫酸质量浓度相互作用对锌浸出率影响的3D曲面和等高线
+图6 液固体积质量比与初始硫酸质量浓度相互作用对锌浸出率影响的3D曲面和等高线
+图7 浸出温度与液固体积质量比相互作用对锗浸出率影响的3D曲面和等高线
+图8 浸出温度与初始硫酸质量浓度相互作用对锗浸出率影响的3D曲面和等高线
+图9 液固体积质量比与初始硫酸质量浓度与相互作用对锗浸出率影响的3D曲面和等高线
+2.3 浸出渣的表征
+表8 强化酸浸渣的化学组成 %
+图10 2种浸出渣的XRD图谱对比
+图11 2种浸出渣的FT-IR光谱
+图12 超声协同活化剂强化浸出渣的SEM-EDS光谱
+3 结论
+基金
+参考文献
+文献
+表1 高硅低锗氧化锌烟尘的主要化学组成 %
+表2 设计因素水平
+表3 试验设计方案及结果
+表4 锌浸出二次模型的方差分析结果
+表5 锌浸出二次模型的可信度分析结果
+表6 锗浸出率二次模型的方差分析结果
+表7 锗浸出率二次模型的可信度分析结果
+表8 强化酸浸渣的化学组成 %
+2种不同金属材料的力学参数
+科
+Family
+属数
+Number of
+genus
+种数
+Number of
+species
+占总种数比例
+Percentage of
+total species (%)
+属
+Genus
+种数
+Number of
+species
+占总种数比例
+Percentage of total
+species (%)
+鹅膏菌科Amanitaceae
+2
+11
+5.26
+鹅膏菌属 Amanita
+10
+4.78
+小菇科 Mycenaceae
+2
+12
+5.74
+丝盖伞属 Inocybe
+5
+2.39
+多孔菌科 Polyporaceae
+8
+14
+6.70
+蜡蘑属 Laccaria
+5
+2.39
+红菇科 Russulaceae
+3
+23
+11.00
+小皮伞属 Marasmius
+6
+2.87
+小菇属 Mycena
+11
+5.26
+光柄菇属 Pluteus
+5
+2.39
+红菇属 Russula
+17
+8.13
+栓菌属 Trametes
+5
+2.39
+关闭全屏
+BibTeX
+EndNote
+RefWorks
+TxT
+表1 高硅低锗氧化锌烟尘的主要化学组成 %
+Zn
+Pb
+Fe
+S
+Si
+As
+Ge
+47.69
+8.38
+5.51
+2.49
+2.56
+0.72
+360*
+*.单位为g/t。
+表2 设计因素水平
+水平
+因素
+x1/℃
+x2/(mL·g-1)
+x3/(g·L-1)
+-1
+50
+6
+120
+0
+70
+8
+160
+1
+90
+10
+200
+表3 试验设计方案及结果
+试验编号
+x1/℃
+x2/(mL·g-1)
+x3/(g·L-1)
+y1(Zn)/%
+y2(Zn)/%
+y1(Ge)/%
+y2(Ge)/%
+1
+0
+1
+1
+94.84
+94.86
+78.50
+79.38
+2
+0
+0
+0
+96.94
+97.06
+85.41
+85.32
+3
+0
+0
+0
+96.94
+97.03
+85.41
+85.81
+4
+0
+0
+0
+96.94
+96.75
+85.41
+86.35
+5
+1
+0
+1
+93.53
+93.52
+80.00
+80.11
+6
+0
+0
+0
+96.94
+96.88
+85.41
+84.14
+7
+1
+-1
+0
+94.35
+94.36
+73.57
+74.07
+8
+0
+0
+0
+96.94
+96.96
+85.41
+85.42
+9
+1
+0
+-1
+90.35
+90.36
+78.24
+78.62
+10
+0
+1
+-1
+91.74
+91.74
+75.00
+75.61
+11
+-1
+-1
+0
+95.24
+95.25
+72.54
+73.53
+12
+0
+-1
+-1
+91.04
+91.02
+72.93
+72.05
+13
+0
+-1
+1
+94.28
+94.28
+73.36
+72.75
+14
+-1
+0
+-1
+91.24
+91.25
+77.38
+77.27
+15
+1
+1
+0
+94.99
+94.98
+76.80
+75.81
+16
+-1
+0
+1
+94.41
+94.40
+79.54
+79.16
+17
+-1
+1
+0
+95.87
+95.86
+76.53
+76.03
+表4 锌浸出二次模型的方差分析结果
+项目
+平方和
+自由度
+均方和
+F值
+P值
+显著性
+模型
+80.91
+9
+8.99
+987.21
+<0.000 1
+显著
+x1
+1.57
+1
+1.57
+172.02
+<0.000 1
+x2
+0.80
+1
+0.80
+87.86
+<0.000 1
+x3
+20.13
+1
+20.13
+2 210.47
+<0.000 1
+x1x2
+2.5×10-5
+1
+2.5×10-5
+2.745×10-3
+0.959 7
+x1x3
+2.5×10-5
+1
+2.5×10-5
+2.745×10-3
+0.959 7
+x2x3
+4.9×10-3
+1
+4.9×10-5
+0.54
+0.487 1
+x12
+6.14
+1
+6.14
+674.72
+<0.000 1
+x22
+1.60
+1
+1.60
+175.16
+<0.000 1
+x32
+47.13
+1
+47.13
+5 175.00
+<0.000 1
+残差
+0.064
+7
+9.106×10-3
+—
+—
+失拟项
+1.225×10-3
+3
+4.083×10-4
+0.026
+0.993 4
+不显著
+纯误差
+0.063
+4
+0.016
+—
+—
+总方差
+80.97
+16
+—
+—
+表5 锌浸出二次模型的可信度分析结果
+R2
+Radj2
+Rpred2
+Adep
+Cv/%
+0.999 2
+0.998 6
+0.998 2
+89.968
+0.1
+表6 锗浸出率二次模型的方差分析结果
+项目
+平方和
+自由度
+均方和
+F值
+P值
+显著性
+模型
+376.72
+9
+41.86
+37.91
+<0.000 1
+显著
+x1
+0.86
+1
+0.86
+0.78
+0.407 3
+x2
+26.03
+1
+26.03
+23.57
+0.001 8
+x3
+7.70
+1
+7.70
+6.98
+0.033 4
+x1x2
+0.14
+1
+0.14
+0.13
+0.728 3
+x1x3
+0.040
+1
+0.040
+0.036
+0.854 4
+x2x3
+2.36
+1
+2.36
+2.13
+0.187 4
+x12
+47.33
+1
+47.33
+42.87
+0.000 3
+x22
+217.99
+1
+217.99
+197.44
+<0.000 1
+x32
+44.89
+1
+44.89
+40.66
+0.000 4
+残差
+7.73
+7
+1.10
+—
+—
+失拟项
+5.06
+3
+1.69
+2.53
+0.195 3
+不显著
+纯误差
+2.66
+4
+0.67
+—
+—
+总方差
+384.45
+16
+—
+—
+表7 锗浸出率二次模型的可信度分析结果
+R2
+Radj2
+Rpred2
+Adep
+Cv/%
+0.979 9
+0.954 1
+0.878 4
+15.969
+1.33
+表8 强化酸浸渣的化学组成 %
+Pb
+Ca
+S
+Fe
+Zn
+Ge*
+Si
+39.67
+14.29
+12.17
+11.56
+4.35
+175.4
+0.34
+*.单位为g/t。
+论文
+最新文章
+热读文章
+热点专题
+内参
+蓝皮书
+产业发展报告
+传播力报告
+期刊分级目录
+资讯
+学术新闻
+行业新闻
+学术会议
+行业会议
+关于
+关于我们
+联系我们
+北京市海淀区学院南路86号
+100081
+010-62662699（运营支持）
+010-62662698（技术支持）
+qkjq@cast.org.cn
+中国科学技术协会版权所有 京ICP 备10216604号-4 海淀分局备案 1101084647
+科技导报社主办 中国科协信息中心技术支持

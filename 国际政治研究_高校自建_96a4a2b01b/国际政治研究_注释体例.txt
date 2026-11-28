@@ -1,0 +1,140 @@
+期刊: 国际政治研究
+来源: https://www.jis.pku.edu.cn/Zhushi1407/1104743cn61951382765.htm
+标题: 注释体例
+
+首页
+关于我们
+当期期刊
+期刊目录
+编读往来
+English
+注释体例
+投稿须知
+欢迎订阅
+当前位置：
+首页» 注释体例
+《国际政治研究》写作规范
+发布时间：2025-01-06  发布时间：2025-01-06 2014-05-24   作者： moon    [小] [中] [大] [更大]
+“内容提要”的写作要求
+1.独立性。内容提要是文章内容的浓缩，体现作者的主要观点，不宜将对文章框架的介绍作为内容提要。
+2.简洁性。行文流畅、简洁，不宜写成前言、背景，尽量避免使用可有可无的副词、形容词，像“基本”“重要”“主要”等。
+3.客观性。须用第三人称，尽量避免出现“本文”“笔者”等说法，尽量不要出现对文章的评价性的解释或说明。
+4.规范性。要使用学术语言。
+5.需提供中英文内容提要。
+6.篇幅以中文300字以内为宜。
+人名、地名翻译要求
+外国人名、地名请参照《世界人名翻译大辞典》（修订版）（新华通讯社译名室编，中国对外翻译出版公司2007年版）、《世界地名翻译大辞典》（周定国主编，中国对外翻译出版公司2007年版）翻译，并注原文。上述译名手册中没有的词可自行译出后注原文，并务请全稿统一。涉及其他专有名词时，请采用国内通译，并注原文。
+注 释 体 例
+一、总 则
+1．本刊采用页下注（脚注），每页依序重新编号，所有脚注序号一律在标点符号外。
+2．一般情况下，引用外文文献的注释仍从原文，无须另行译出。
+3．文章正文后不另开列“参考文献”。
+4．所引资料及其注释务求真实、准确、规范。
+5．本体例经刊行生效，也在本刊相关网页发布，敬请查阅参照。
+二、中 文 文 献
+（一）一般著作
+1．专著。其注释各个类项的标注次序为：著者，文献名，卷册序号，出版地，出版机构、时间或版次，页码。编著、译著基本一致。例如：
+亚里士多德：《政治学》，北京：商务印书馆1983年版（出版机构和时间之间没有逗号），第201页。
+司马迁：《史记》，第八册，北京：中华书局1982年版，第2595页。
+2．编著。应在编者姓名后加“编”或“主编”、“编著”。例如：
+陆学艺主编：《当代中国社会流动》，北京：社会科学文献出版社2004年版，第48-49页。
+3．译著。在著者姓名前可以“[ ]”标明著者国别；在文献名之后，可标明译者。例如：
+[英]霍布斯：《利维坦》，黎思复、黎廷弼译，北京：商务印书馆1985年版，第132页。
+（国别的括号用[]不用【】）
+[英]赫德利·布尔：《无政府社会：世界政治秩序研究》，张小明译，北京：世界知识出版社2003年版，导言，第15页。
+4．如著者、编者为二人，两者姓名之间以顿号间隔；如为三人以上，可省略为“×××（第一责任者姓名）等（编）”。例如：
+王正毅、张贵岩：《国际政治经济学：理论范式与现实经验研究》，北京：商务印书馆2003年版，第203、207页。
+刘继南等：《国际战争中的大众传播》，北京广播学院出版社2004年版，第120页。
+王振华等主编：《重塑英国》，北京：中国社会科学出版社2000年版，第49页。
+（二）单篇文章
+1．文集中的文章
+其引文注释的标注次序为：著者，文章题目（加书名号），文集编者名称，文集名，出版地、出版单位及版次，页码。例如：
+张世鹏：《历史比较中的欧洲“第三条道路”》，载陈林、林德山主编：《第三条道路：世纪之交的西方政治变革》，当代世界出版社2000年，第278页。
+2．报刊文章
+刘汉俊：《一个民族的征帆：写在郑和下西洋600年之际》，《人民日报》2005年7月11日，第10版。（文章的主标题和副标题之间用冒号，不用破折号）
+张小明：《革命、修正和补充》，《欧洲》2001年第3期，第16页。
+3．会议论文
+余谋昌：《公正与补偿：环境伦理与环境政治的结合点》，“环境政治学国际研讨会”论文集，济南：山东大学，2005年6月17—19日，第9页。
+4．学位论文
+苏长和：《全球公共问题与国际合作：一种制度的分析》，复旦大学国际政治系博士论文，1999年4月，第55页。
+（三）其他
+如引用资料来自政府出版物、通讯社消息、未刊手稿、缩微胶卷等，其注释也应尽量标明编辑者、文献名、出版地、出版机构和时间、页码，或者文献性质、收藏地点、收藏编号等。如无需或不便标明著作者/编辑者，则标明其他类项也可。例如：
+《毛泽东著作选读》上册，人民出版社1986年版，第153页。
+《中国与八国财长就全球经济发展等问题进行对话》，新华社莫斯科2006年２月１２日电。
+辽宁省档案馆编：《日俄战争档案史料》，档案第86、91号，辽宁古籍出版社1995年，第141、144页。
+三、外 文 文 献
+英文注释：
+（一）著作
+其引文之注释类项标注为：著者，文献名（斜体），出版地、出版机构及版次，页码。著作者姓名以名前姓后的顺序书写。例如：
+Alexander Wendt, Social Theory of International Politics, Cambridge University Press, 1999, p.11.
+如为编著，则编者姓名后加“ed.”（编者为一人）或“eds.”（编者为二人以上）。例如：
+Stephen D. Krasner, ed., International Regimes, Ithaca: Cornell University Press, 1983, p.2.
+S. M. Lipset and S. Rokkan, eds., Party System and Voter Alignments: Cross-national Perspectives, New York: The Free Press, 1967, pp.7-8.
+如著作者为三人以上，第一责任者姓名之后可省略为“et al.”（意即and others）。例如：
+Judith L. Goldstein, et al., Legalization and World Politics, The MIT Press, 2001, p.156.
+（二）文章
+1．文集中的文章。其注释的各个类项为：作者，文章标题（加双引号，文章标题后的逗号在双引号之内），文集编者，文集名称（斜体），出版地、出版机构及版次，页码。例如：
+Philip Norton, “The Conservative Party: ‘In Office but not in Power’,” in Anthony King, et al., New Labour Triumphs: Britain at the Polls, Chatham House Publishers, 1998, pp.75-76.
+2．刊物上的文章，则标注为：作者，文章标题（加双引号，文章标题后的逗号在双引号之内），刊物名称（斜体），刊物出版卷次、期号及年份，页码。例如：
+Ole Wæver, “International Society: Theoretical Promises Unfulfilled?” Cooperation and Conflict, Vol.27, No.1, 1992, p.98.
+3．报纸上的文章，标注作者、文章标题（加双引号，文章标题后的逗号在双引号之内）、报纸名称（斜体）及具体出版日期即可，如能注明版面则更好。例如：
+David E. Sanger, “U.S. and Seoul Try to Ease Rift on Talks with the North,” New York Times, June 11, 2005.（英文文章和发表的刊物之间的逗号在引号里面）
+4．会议论文
+David Kerr, “Reconstructing Eurasian Security: Norms and Geopolitics in the security Concepts of Europe, Russia, and China,” paper presented to the Conference on “Comparative Regionalism: The Case in Europe and Asia,” Renmin University of China, Beijing, April 8-9, 2005.
+5．学位论文
+Henry Kissinger, A World Restored: Metternich, Castlereagh, and the Problems of Peace 1812-22, Ph.D. dissertation, Harvard University, 1954, p.7.
+（三）其他
+如引用政府或国际组织出版物、通讯社消息、未刊手稿、缩微胶卷等，其注释也应尽量标明编辑者、文献名、出版地、出版机构和时间、页码，或者文献性质、收藏地点、收藏编号等。如无需或不便标明著作者/编辑者，则标明其他类项也可。例如：
+U.S. Agency for International Development, Foreign Aid in the National Interest, Washington, D.C., 2002, p.1.
+NSC162, “Review of Basic National Security Policy,” September 30, 1953, in Paul Kesaris, ed., Documents of the National Security Council (Microfilm), University Publications of America, Inc., 1980, reel 3.
+四、重复引用和转引
+（一）重复引用
+在同一篇文章中，如重复引用同一文献，则其注释方式如下：
+1．连续引用。中文文献，标注为：同上（书），第╳页；外文文献，则标注为：Ibid., p.×.（Ibid.意即出处同上）。
+2．非连续引用。不论中外文，皆只需注明著作者、文献名和页码。例如：
+亚里士多德：《政治学》，第56页。
+同上书，第189页。
+Alexander Wendt, Social Theory of International Politics, p.18.
+Ibid., pp.73-75.
+（二）转引
+1．中文文献
+先将转引文献按上述注释方式释出，以句号结束。再以“转引自”把载有转引文献的来源文献按相应方式释出。例如：
+张维华：《明史欧洲四国传注释》，上海古籍出版社1982年版，第173页。转引自陈乐民：《陈乐民集》，中国社会科学出版社2002年版，第205页。
+Stephen M. Walt, “International Relations: One World, Many Theories,” Foreign Policy, Spring, 1998, pp.43-44. 转引自袁正清：《国际政治理论的社会学转向：建构主义研究》，上海人民出版社2005年版，第297—298页。
+2．外文文献
+Stanly A. Erickson, “Economic and Technological Trend Affecting Nuclear Nonproliferation,” The Nonproliferation Review, Vol.8, No.2, 2001, p.43, quoted from Michael Wesley, “It’s Time to Scrap the NPT,” Australian Journal of International Affairs, Vol.59, No.3, September 2005, p.292.
+五、互联网资料
+本刊提倡并鼓励尽量引用纸质文献。
+如实有必要，可以使用互联网资料，标注时著作者、文献名称等类项同上述相应体例，同时注明详细的互联网网址和登录的具体时间。例如：
+Peter Wilson, “The English School and the Sociology of International Law: Strengths and Limitations,” paper presented to the annual British International Studies Association conference, University of Birmingham, December 15-17, 2003, http://www.leeds.ac.uk/polis/englishschool/wilson03.doc, 2005-03-27.（使用互联网资料需注明查询时间）
+德文注释：
+（一）著作
+Kurt Sontheimer, Grundzuege des politischen Systems der Bundesrepublik Deutschland, Muenchen, 1984, S. 56.
+（二）文章
+Lutz Leisering, “Der deutsche Nachkriegssozialstaat – Entfaltung und Krise eines zentristischen Sozialmodells”, in: Hans-Peter Schwarz (Hg.), Die Bundesrepublik Deutschland – Eine Bilanz nach 60 Jahren, Muenchen, 2008, S.423.
+（三）其他
+重复引用如下：
+Kurt Sontheimer,Grundzuege des politischen Systems der Bundesrepublik Deutschland, Muenchen, 1984, S.56.
+Ebenda, S.397.
+日文注释：
+（一）著作
+渡辺治『日本の大国化とネオ·ナショナリズムの形成：天皇制ナショナリズムの模索と隘路』桜井書店、2001年、70-71頁。
+（二）文章
+歴史学研究会「転換期の世界と日本」、『日本同時代史』（５）青木書店、1991年、134、142頁。
+俄文注释：
+（一）专著
+Рябов О. В. Русская философия женственности (XI-XX века). Юнона, 1999. С.12.
+Сахаров А. Н. История России с древнейших времен до наших дней. М.: Проспект, 2012.
+（二）文章
+Путин В. В. Нам нужна новая экономика. Ведомости, 30 января 2012.
+Рябов О. В. Миф о русской женщине в отечественной и западной историософии. Филологические науки, 2000. С.28-37.
+Бурашникова А. Б. Неопантюркизм и неоосманизм во внешней политике Турции//Известия Саратовского университета. Том 13 № 2, 2013.
+Светлана Червонная, Пантюркизм и панисламизм в российской истории//Отечественные записки. № 5, 2003.
+（三）互联网资料
+Юрий Паниев. Лавров дал ответ хакерам, http://www.ng.ru/world/2017-09-22/1_7079_lavrov.html, 2017-09-22.
+《国际政治研究》编辑部
+2024年12月
+加入收藏
+ISSN1671-4709 版权所有@《国际政治研究》编辑部 1980-2018
+点击关闭
+关闭 X

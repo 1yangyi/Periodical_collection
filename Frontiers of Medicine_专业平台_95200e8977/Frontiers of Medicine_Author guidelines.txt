@@ -1,0 +1,249 @@
+期刊: Frontiers of Medicine
+来源: https://journal.hep.com.cn/fmd/EN/guidelines
+标题: Author guidelines
+
+Home
+Journals
+Subscription
+Submission
+Metrics
+Top read articles on mendeley
+Editorial policy
+Open access
+About us
+Adv search
+About the journal
+Aims & scope
+Description
+Editorial board
+Youth Editorial Board
+Abstracting / indexing
+Cover gallery
+Back Cover Focus
+Contact us
+Browse
+Just accepted
+Online first
+Latest issue
+All volumes and issues
+Collections
+Featured articles
+Most accessed
+Most cited
+Just accepted
+Online first
+Authors & reviewers
+Online submission
+Guidelines for authors
+Download templates
+Series journals
+Guidelines for authors
+MedScience
+INSTRUCTIONS FOR AUTHORS
+General Information
+MedScience, formerly known as Frontiers of Medicine, is an international general medical journal supervised by Ministry of Education of the People’s Republic of China, sponsored by Chinese Academy of Engineering, administered by Higher Education Press & Ruijin Hospital Affiliated to Shanghai Jiao Tong University School of Medicine. The journal is jointly published by the Higher Education Press and Springer. Online versions are available through both https://journal.hep.com.cn/fmd and https://www.springer.com/medicine/journal/11684.
+Aims and Scope
+MedScience is a general medical journal devoted to publishing original research and review articles on the latest advances in clinical and basic medicine with a focus on epidemiology, traditional Chinese medicine, translational research, healthcare, public health and health policies. The journal employs a rigorous peer-review and editing process to ensure the scientific accuracy, novelty and importance of the manuscripts. MedScience is committed to promoting health and health care through communications among professionals in medical care, disease prevention and scientific research throughout the world by updating the progress in medicine, sharing experiences in disease control and treatment and exchanging views on health policies, medical services and health care reform.
+Main Topics
+The main topics include: clinical medicine, basic medical sciences, epidemiology, translational research, traditional Chinese medicine, public health, and health policies.
+Article Types
+Review provides a comprehensive overview of current topics of interest, with focuses on the updated information about new developments in the fields, along with a clear description of the evolving process. The total word count of the main text should not exceed 8000 words (not including references). Comprehensive review articles including at least 6 figures and tables and 300 references or more are especially encouraged.
+Research Article reports on new studies in medicine. Research Article should be no more than 5000 words in length (not including references) and may contain up to 6 figures and tables. Supplementary materials are permitted and may include figures and tables that are not essential for understanding of the research presented in the main text.
+Letter to MedScience presents brief report on novel clinical observations, preliminary research findings and urgent public health issues in medicine that require immediate academic attention. The total word count should not exceed 1500 words (not including references). Tables and figures are optional, with a maximum of 1 allowed.
+Editorial is primarily commissioned by the Editor-in-Chief or the journal’s Associate Editors. The total word count should not exceed 1500 words (not including references). Tables and figures are optional, with a maximum of 2 allowed.
+Comment provides in-depth analysis of specific research papers (including those published in MedScience or other journals) in medicine. The total word count should not exceed 1500 words (not including references). Tables and figures are optional, with a maximum of 1 allowed.
+Perspective may provide a personal opinion on key findings and the latest developments in the discipline. The total word count should not exceed 2000 words (not including references). Tables and figures are optional, with a maximum of 2 allowed.
+Case Report reports on rare cases with in-depth discussions and significant implications. The total word count should not exceed 2000 words (not including references).
+Ethical Approval of Studies and Informed Consent
+For all manuscripts reporting data from studies involving human participants or animals, formal review and approval, or formal review and waiver, by an appropriate institutional review board or ethics committee is required and should be described in the“Compliance with ethics guidelines” section. For those investigators who do not have formal ethics review committees, the principles outlined in the Declaration of Helsinki should be followed. For investigations of humans, state in the “Compliance with ethics guidelines” section the manner in which informed consent was obtained from the study participants (i.e., oral or written). Editors may request that authors provide documentation of the formal review and recommendation from the institutional review board or ethics committee responsible for oversight of the study.
+The Journal requirements are in accordance with the uniform requirements for manuscripts submitted to biomedical journals, drawn up by the International Committee of Medical Journal Editors (ICMJE).
+Conflicts of Interest and Financial Disclosures
+A conflict of interest exists if authors or their institutions have financial or personal relationships with other people or organizations that could inappropriately influence (bias) their actions. Financial relationships are easily identifiable, but conflicts can also occur because of personal relationships, academic competition, or intellectual passion. A conflict can be actual or potential, and full disclosure to The Editor is the safest course. Failure to disclose conflicts might lead to publication of a statement or even to retraction. All submissions to MedScience must include disclosure of all relationships that could be viewed as presenting a potential conflict of interest. The Editor may use such information as a basis for editorial decisions.
+The corresponding author should confirm that he or she had full access to all the data in the study and had final responsibility for the decision to submit for publication. All authors are required to provide a Conflict of Interest Statement.
+Standards of Reporting
+The journal advocates complete and transparent reporting of research. For biomedical and biological research, the checklists below must be completed before peer review, and made available to the Editors and reviewers.
+Randomized controlled trials: CONSORT
+Randomized controlled trial protocols: SPIRIT
+Systematic reviews and meta-analyses: PRISMA
+Case reports: CARE
+Preclinical animal studies: ARRIVE
+In addition, the journal strongly encourages the use of the following checklists and reporting guidelines:
+Observational studies: STROBE
+Systematic reviews and meta-analyses protocols: PRISMA-P
+Diagnostic/prognostic studies: STARD and TRIPOD
+Clinical practice guidelines: AGREE and RIGHT
+Qualitative research: SRQR and COREQ
+Quality improvement studies: SQUIRE
+Economic evaluations: CHEERS
+For more information, see https://www.springer.com/jp/editorial-policies.
+Format of Papers
+Preparation of manuscripts
+The manuscript should be legibly typed in A4 format. All sections of the manuscript must be double-spaced with generous margins. Number each page, including the title page.
+Non-Native Speakers of English
+Researchers who are not native speakers of English who submit manuscripts to international journals often receive negative comments from referees or editors about the English-language usage in their manuscripts, and these problems can contribute to a decision to reject a paper. To help reduce the possibility of such problems, we strongly encourage such authors to take at least one of the following steps:
+• Have your manuscript reviewed for clarity by a colleague whose native language is English.
+• Use one of the many English language editing services that are available.
+Title Page
+The title of the paper should be explicit, descriptive and as brief as possible. The surname and initials of each author should be followed by his or her department, institution, city with postal code and country. Any changes of address may be given in numbered footnotes.
+Please provide a running title of not more than 60 characters and from 3 to 7 keywords.
+Please provide e-mail address of the corresponding author at the footnote. Make sure that the manuscript has a contact telephone number on it.
+Example:
+Juan Fu1, 2, Yiguo Jiang (*)2, Xuemin Chen1
+1Department of Occupational and Environmental Health , the Ministry of Education Key Laboratory of Environment and Health, School of Public Health, Tongji Medical College, Huazhong University of Science and Technology, Wuhan 430030, China; 2Institute for Chemical Carcinogenesis, Guangzhou Medical College, Guangzhou 510182, China
+Abstract
+The second page of every manuscript must contain only the abstract, which should be a single paragraph of about 200 words. Please abide strictly by this limitation of length. The abstract should comprehensively but succinctly describe the contents of the paper to the reader, and abbreviations and reference citations should be avoided.
+Main text
+Headings and subheadings Headings and subheadings should be used throughout the text to divide the subject matter into its important, logical parts. Typical headings in the research article include:
+Introduction, Materials and methods, Results, Discussion, Acknowledgments, Compliance with ethics guidelines, and References.
+Introduction It mainly includes the following parts: background of the research through literature citation, the problems or questions needed to be solved, the objectives of the research and the main methods used.
+Materials and methods Methods must be described completely enough that other laboratories can replicate results and verify claims. Generally, standard procedures should be referenced, though significant variations should be described. Appropriate experimental design and statistical methods should be applied and described wherever necessary for proper interpretation of data and verification of claims. All novel materials and the procedures to prepare them should be described in sufficient detail to allow their reproduction (e.g., DNA constructs, genetic stocks, enzyme preparations, and analytical software).
+Results Results can be described in the text, as well as using tables and figures. Tables and figures should be placed next to the text it is indicated. The text should complement material given in Tables or Figures but should not directly repeat it. Give full details of statistical analysis either in the text or in Tables or Figure legends. Include the type of test, the precise data to which it is applied, the value of the relevant statistic, the sample size and/or degrees of freedom, and the probability level.
+Discussion The main purpose of the Discussion, however, is to comment on the significance of the results and set them in the context of previous work. Hypothesis should be rational and evidence-based.
+Acknowledgements The “Acknowledgements” section is the general term for the list of contributions, credits, and other information included at the end of the text of a manuscript but before the references. All sources of funding should be declared as an acknowledgment at the end of the text. Authors should obtain written permission to include the names of individuals in the “Acknowledgements” section. Personal acknowledgements should precede those of institutions or agencies.
+Compliance with ethics guidelines In order to comply with the Journal’s ethical requirements, the following must be included in a separate section entitled “Compliance with ethics guidelines” just before the reference list. The editors reserve the right to reject manuscripts that do not comply with the below-mentioned requirements. The author will be held responsible for false statements or failure to fulfill the below-mentioned requirements.
+Conflicts of interest:
+Authors must indicate whether or not they have a financial relationship with the organization that sponsored the research. The Conflict of Interest statements must list each author separately by name:
+John Smith declares that he has no conflict of interest.
+Paula Taylor has received research grants from Drug Company A.
+Mike Schultz has received a speaker honorarium from Drug Company B and owns stock in Drug Company C.
+If multiple authors declare no conflict, this can be done in one sentence: John Smith, Paula Taylor, and Mike Schultz declare that they have no conflict of interest.
+Editorial Board Members and Editors are required to declare any competing interests and may be excluded from the peer review process if a competing interest exists：
+John Smith is a member of the Editorial Board of MedScience, who was excluded from the peer-review process and all editorial decisions related to the acceptance and publication of this article. Peer-review was handled independently by the other editors to minimise bias.
+For studies with human subjects include the following:
+The study was approved (or granted exemption) by the appropriate institutional and/or national research ethics committee (including the name of the ethics committee) (approval No. XXX) on (date of approval) and the study was performed in accordance with the ethical standards as laid down in the 1964 Declaration of Helsinki and its later amendments or comparable ethical standards. Informed consent was obtained from all patients for being included in the study.
+If doubt exists whether the research was conducted in accordance with the 1964 Helsinki Declaration or comparable standards, the authors must explain the reasons for their approach, and demonstrate that an independent ethics committee or institutional review board explicitly approved the doubtful aspects of the study. If a study was granted exemption from requiring ethics approval, this should also be detailed in the manuscript (including the reasons for the exemption, and the full name and reference number(s) of the applicable regulatory provisions).
+If any identifying information about patients is included in the article, the following sentence must also be included:
+Additional informed consent was obtained from all patients whose identifying information is included in this article.
+For studies with animals include the following sentence:
+All institutional and national guidelines for the care and use of laboratory animals were followed.
+For articles that do not contain studies with human or animal subjects:
+We recommend including the following sentence to make sure that readers are aware that there are no ethical issues with human or animal subjects:
+This article does not contain any studies with human or animal subjects.
+For review articles include the following:
+This manuscript is a review article and does not involve a research protocol requiring approval by the relevant institutional review board or ethics committee.
+Data availability and compliance statement All manuscripts must include a section titled “Data availability and compliance statement” before the References section.
+Within this section, authors must:
+Declare the source(s) of all data supporting the study’s findings.
+State clearly that the acquisition and use of all presented data comply fully with all applicable laws, regulations, ethical standards, and data source terms.
+Note: The authors bear full legal responsibility for ensuring the legality of data acquisition and all subsequent uses.
+Below is an example of how this section should be structured and worded. Authors should adapt the bracketed [...] information to reflect their specific situation.
+The authors declare that the acquisition and subsequent use of all data presented in this manuscript comply fully with all relevant local, national, and international laws, regulations, ethical guidelines (including [mention specific approvals if applicable, e.g., Institutional Review Board (IRB) approval number XXXX, animal ethics committee approval]), and the terms of use associated with the original data sources.
+The authors assume full responsibility for the lawful acquisition and appropriate use of the data.
+References Authors are responsible for the accuracy and completeness of their references and for correct text citation. The references are each numbered, ordered sequentially as they appear in the text. When listing references, abbreviate names of journals should be used according to the journals list in PubMed. Please list all authors. Please use the following style for references:
+Article in a Journal:
+1. Worgall S, Wolff G, Falck-Pedersen E, Crystal RG. Innate immune mechanisms dominate elimination of adenoviral vectors following in vivo administration. Hum Gene Ther 1997; 8(1): 37–44
+Chapter in a Book:
+1. Hirsimaki P, Arstuka AU, Trump BF, Marzella L. Autophagocytosis. In: Trump BF, Arstuka AU. Pathobiology of Cell Membranes. New York: Plenum Press, 1983:201–236
+A book:
+1. Kryger M, Roth T, Dement W. The Principles and Practice of Sleep Medicine. 2nd ed. Philadelphia:WB Saunders, 1994
+Online Publication:
+1 Jelinic P, Stehle JC, Shaw P. The testis-specific factor CTCFL cooperates with the protein methyltransferase PRMT7 in H19 imprinting control region methylation. PLoS Biol 2006; 4: e355. DOI: 10.1371/journal.pbio.0040355
+2 Chow SE, Wang JS, Chuang SF, Chang YL, Chu WK, Chen WS, Chen YW. Resveratrol-induced p53-independent apoptosis of human nasopharyngeal carcinoma cells is correlated with the downregulation of DeltaNp63. Cancer Gene Ther 2010 Aug 20. [Epub ahead of print] doi:10.1038/cgt.2010.44
+Tables These should be labeled sequentially as Table 1, Table 2, etc. Tables should be referred to specifically in the text of the paper, and embedded within the text respectively. If a table has been published before, the authors must obtain written permission to reproduce the material in both print and electronic formats from the copyright owner and submit it with the manuscript.Tables should not duplicate the content of the text. They should consist of at least two columns; columns should always have headings. Authors should ensure that the data in the tables are consistent with those cited in the relevant places in the text, totals add up correctly, and percentages have been calculated correctly. If necessary, supply tables as Word or Excel files (one table per page).
+(1) Submitted as three-line tables, that is, there are three horizontal lines: one under the legend, one under the column heads, and one below the body. Vertical lines are generally not used.
+(2) Label each table at the top with an Arabic numeral followed by the table title. Insert explanatory material and footnotes below the table. Designate footnotes using lowercase superscript letters (a, b, c) reading horizontally across the table. Abbreviations that are used in a table should be defined in the footnotes.
+Figures Figures and images should be labeled sequentially, numbered and cited in the text. Figures should be referred to specifically in the text of the paper, and the figures should be embedded within the text respectively. At the same time, the figures should be also submitted separately. The use of three-dimensional histograms is strongly discouraged when the addition of the third dimension gives no extra information. If a figure has been published before, the authors must obtain written permission to reproduce the material in both print and electronic formats from the copyright owner and submit it with the manuscript. This follows for quotes, illustrations and other materials taken from previously published works not in the public domain. For submission, PDF and PPT are acceptable formats for the figures, which should be submitted separately, and the text in the figures could be edited. Use quality graphic programs such as Adobe PhotoShop, Adobe Illustrator, Corel Draw, or Freehand to create your figures. Figures should be approximately the same size as you would like them to appear in press. Note: While an image may look perfect on the screen, it is often of insufficient resolution for publication. Try viewing your figure at 100% and 300 dpi in resolution on the screen; if it is not blurry, it is probably of high enough resolution for the printing process.
+Size: width: 6-7.5 cm for one column, 10-15 cm for two columns, while the text and details in the figure should be clear and distinguishable.
+Line Art
+Monochrome
+Colorful
+Format
+PDF/PPT
+PDF/PPT
+PDF/PPT
+Color encoding
+Gray
+CMYK
+CMYK
+Resolution (dpi)
+≥ 600
+≥ 300
+≥ 300
+Figure legends Legends must be submitted for all figures. They should be brief and specific, and should appear after the corresponding figures. The description should be written in complete sentences, not word groups. Use scale markers in the image for electron micrographs, and indicate the type of stain used.
+Abbreviations Try to restrict the use of abbreviations to SI symbols and those recommended by the IUPAC. Abbreviations should be defined in brackets after their first mention in the text. Standard units of measurements and chemical symbols of elements may be used without definition in the body of the paper.
+Supplementary information
+Supplementary information is peer-reviewed material directly relevant to the conclusion of an article that cannot be included in the printed version owing to space or format constraints. It is posted on the journal’s web site and linked to the article when the article is published and may consist of data files, graphics, movies or extensive tables. The printed article must be complete and self-explanatory without the supplementary information. Supplementary information enhances a reader’s understanding of the paper but is not essential to that understanding. Supplementary information must be supplied to the editorial office in its final form for peer review. On acceptance the final version of the peer reviewed supplementary information should submitted with the accepted paper. Supplementary information is not subedited, so authors should ensure that it is supplied ready for publication online. To ensure that the contents of the supplementary information files can be viewed by the editor(s), referees and readers, please also submit a “read-me” file containing brief instructions on how to use the file. The supplementary information may not be altered, nor new supplementary information added, after the paper has been accepted for publication.
+Special Tips for Review Article
+Review article should be a comprehensive and in-depth synthesis and/or analysis of specific topics. An introduction giving the rationale for the review should be followed by sections with appropriate subheadings and a conclusion/perspective section at the end.
+1. 200-300 references published in recent years and at least 6 figures/tables are preferred.
+2. Retrospective summary of research milestones with a timeline figure could be added.
+House Style
+As the electronic submission will provide the basic material for typesetting, it is important that papers are prepared in the general editorial style of the journal.
+1. Do not make rules thinner than 1pt (0.36mm)
+2. Use a coarse hatching pattern rather than shading for tints in graphs
+3. Color should be distinct when being used as an identifying tool
+4. Use SI units and SI derived units throughout
+5. Spaces, not commas should be used to separate thousands
+6. Abbreviations should be preceded by the words for which they stand in the first instance of use
+7. Text should be double spacing with a wide margin
+Manuscript Submission
+Authors are encouraged to submit their papers electronically via the online submission system (https://mc.manuscriptcentral.com/fmd ). All correspondence, including the editor’s decision and request for revisions, will be by e-mail. If you need help from MedScience, please contact our editorial office (E-mail: mojsh@hep.edu.cn, fmd@pub.hep.cn; Tel: +86-10-58556319).
+Submission Requirements
+1. A cover letter stating that the manuscript has not been and will not be considered for publication elsewhere and giving a brief introduction to the novel findings of this work, along with three or more experts in the field as potential reviewers. Please provide the convenient contact information of first author including the email address and telephone number in the cover letter if it is difficult to contact with the corresponding author.
+2. A declaration stating that all the authors agreed to submit the manuscript to MedScience with the signature of the corresponding author. A copy of the Licence to Submission can be signed and uploaded to https://mc.manuscriptcentral.com/fmd.
+3. Electronic files including the text and the figures/tables.
+4. The manuscript should be submitted by the corresponding author.
+Revised manuscript submission
+Enclose a letter to answer the comments of the reviewers and the editors, point by point, when submit a revised manuscript.
+Copyright Transfer/Copyright
+The corresponding author must complete and sign the Copyright Transfer Statement/Copyright Statement upon acceptance of the manuscript and return it to the editorial office. Failure to do so will result in delays to the publication of your paper.
+No article can be published unless accompanied by a signed Copyright Transfer Statement/Copyright Statement, which ensures a transfer of copyright from the authors to the Higher Education Press/the author grants Higher Education Press the exclusive right to publish their article as open access. The signed statement should be submitted electronically to the MedScience editorial office (E-mail: mojsh@hep.edu.cn, fmd@pub.hep.cn; Tel: +86-10-58556319).
+No part of a paper which has been published by MedScience may be reproduced or published elsewhere without the written permission of the publisher.
+Proofs
+Once the manuscript has been accepted, the corresponding author will receive PDF proofs and are responsible for proofreading and checking the entire article. Authors should correct only typesetting errors, no major alteration of the text will be accepted. Page proofs must be returned within 48 hours to avoid delays in publication along with the reprint order if required.
+Online First Publication
+To minimize publication time and ensure that important data reach readers and the public as quickly as possible we now post online articles as soon as they are ready, before print publication. Online First articles are edited in the normal way. Once you have approved the proof we will post the article as a PDF on both: https://journal.hep.com.cn/fmd and https://www.springer.com/medicine/journal/11684.
+An Online First article is not a “pre-print.” It represents the full publication of that article. At the time of posting the bibliographic information is forwarded to indexing agencies, so the article can be searched for and found on bibliographical databases and can be cited as published (the citation format appears at the top of the online article).
+Peer Review
+Every Article, Case Report, and Review published in MedScience has been peer reviewed. Occasional contributions (e.g., Editorial) are accepted without peer review. On submission to MedScience, your report will first be read by one or more of the journal’s staff of editors. It is an important feature of our selection process that some papers are turned away on the basis of in-house assessment alone. That decision will be communicated quickly. Research papers and most other types of paper that receive positive in-house reviews are followed by peer review by at least two reviewers. You will receive notification of which editor is handling the peer review of your paper. If reviews are encouraging, and the editorial consensus is also favorable, then we seek statistical advice where appropriate.
+This journal also publishes special/guest-edited issues. The peer review process for these articles is the same as the peer review process of the journal in general. Additionally, if the guest editor(s) authors an article in their special issue, they will not handle the peer review process.
+Decision
+Submissions that survive in-house and peer review might be referred back to authors for revision. This is an invitation to present the best possible paper for further scrutiny by the journal; it is not an acceptance. Authors should give priority to such revisions; the journal will reciprocate by making a final decision quickly. The revised version which will be sent back should be highlighted to show where changes have been made. Detailed responses to reviewers’ comments, in a covering letter, are also necessary.
+Research Data Policy
+The journal encourages authors, where possible and applicable, to deposit data that support the findings of their research in a public repository. Authors and editors who do not have a preferred repository should consult Springer Nature’s list of repositories and research data policy.
+· List of Repositories
+· Research Data Policy
+General repositories — for all types of research data — such as Figshare and Dryad may also be used.
+Datasets that are assigned digital object identifiers (DOIs) by a data repository may be cited in the reference list. Data citations should include the minimum information recommended by DataCite: authors, title, publisher (repository name), identifier.
+· DataCite
+Springer Nature provides a research data policy support service for authors and editors, which can be contacted at researchdata@springernature.com.
+This service provides advice on research data policy compliance and on finding research data repositories. It is independent of journal, book and conference proceedings editorial offices and does not advise on specific manuscripts.
+·  Helpdesk
+Open Choice
+Open Choice allows you to publish open access in this journal, making your research more visible and accessible immediately on publication.
+Article processing charges (APCs) vary by journal – view the full list
+Copyright and license term – CC BY
+Open Choice articles do not require transfer of copyright as the copyright remains with the author. In opting for open access, the author(s) agree to publish the article under the Creative Commons Attribution License.
+Author Enquiries
+For submission inquiries, tracking articles and any information please contact the MedScience office (E-mail: mojsh@hep.edu.cn, fmd@pub.hep.cn; Tel: +86-10-58556319) at Higher Education Press, Beijing, China. All correspondence for the journal should be sent to the following address. Please include the manuscript number in all correspondences.
+Postal address:
+Mo Jiesheng
+Managing Editor
+Editorial Office of MedScience
+Academic Journal Publishing Division
+Higher Education Press
+Fusheng Building, 4 Huxin Dongjie
+Chaoyang District
+Beijing 100029, China
+Pubdate: Apr 09, 2014 Viewed: 8616
+Latest issue
+Aug 2026, Volume 20 Issue 4
+Table of contents Cover illustration
+View all volumes and issues
+Cover illustration
+High-altitude exposure alters functional connectivity among key regions of the default mode, executive control, and salience networks. (Courtesy of Drs. Juanqin Niu, Jie Liu, and Qiang Li. See pages 712−722 by Jiajie Chen et al. for more information.)
+Download cover
+Submit manuscript
+Subscription
+E-mail alert
+Subscribe to our RSS content
+Journal updates More
+Journal Renaming Announcement
+2025-11-21
+Links
+Ruijin Hospital
+Higher Education Press
+Chinese Academy of Engineering
+ISSN 3091-4973 (Print)
+ISSN 3091-4981 (Online)
+CN 10-2072/R

@@ -1,0 +1,378 @@
+期刊: Communications on Pure and Applied Analysis
+来源: https://www.aimsciences.org/index/GuideforAuthors
+标题: Guide for Authors
+
+Home
+Publications
+AIMS Journals
+Advances in Computational Science and Engineering
+Advances in Mathematics of Communications
+Applied Mathematics for Modern Challenges
+Communications on Analysis and Computation
+Communications on Pure and Applied Analysis
+Discrete and Continuous Dynamical Systems
+Discrete and Continuous Dynamical Systems - B
+Discrete and Continuous Dynamical Systems - I: Intelligence
+Discrete and Continuous Dynamical Systems - S
+Electronic Research Announcements in Mathematical Sciences
+Evolution Equations and Control Theory
+Foundations of Data Science
+Frontiers in Applied Mathematics
+Frontiers in Combinatorics and Number Theory
+Frontiers of Mathematical Finance
+Inverse Problems and Imaging
+Journal of Computational Dynamics
+Journal of Dynamics and Games
+Journal of Industrial and Management Optimization
+Journal of Modern Dynamics
+Kinetic and Related Models
+Mathematical Control and Related Fields
+Mathematical Foundations of Computing
+Numerical Algebra, Control and Optimization
+Probability, Uncertainty and Quantitative Risk
+Conference Publications
+AIMS Press Math Journals
+AIMS Mathematics
+Mathematical Biosciences & Engineering
+Big Data & Information Analytics
+Mathematics in Engineering
+Communications in Analysis and Mechanics
+Networks and Heterogeneous Media
+STEM Education
+Conferences
+About
+About AIMS
+Policies
+Copyright
+Disclaimer
+Order Journals
+Open Access
+Contact
+Ethical Standards
+Terms and Conditions
+Advanced Search
+Home
+Publications
+AIMS Journals
+Advances in Computational Science and Engineering
+Advances in Mathematics of Communications
+Applied Mathematics for Modern Challenges
+Communications on Analysis and Computation
+Communications on Pure and Applied Analysis
+Discrete and Continuous Dynamical Systems
+Discrete and Continuous Dynamical Systems - B
+Discrete and Continuous Dynamical Systems - I: Intelligence
+Discrete and Continuous Dynamical Systems - S
+Electronic Research Announcements in Mathematical Sciences
+Evolution Equations and Control Theory
+Foundations of Data Science
+Frontiers in Applied Mathematics
+Frontiers in Combinatorics and Number Theory
+Frontiers of Mathematical Finance
+Inverse Problems and Imaging
+Journal of Computational Dynamics
+Journal of Dynamics and Games
+Journal of Industrial and Management Optimization
+Journal of Modern Dynamics
+Kinetic and Related Models
+Mathematical Control and Related Fields
+Mathematical Foundations of Computing
+Numerical Algebra, Control and Optimization
+Probability, Uncertainty and Quantitative Risk
+Conference Publications
+AIMS Press Math Journals
+AIMS Mathematics
+Mathematical Biosciences & Engineering
+Big Data & Information Analytics
+Mathematics in Engineering
+Communications in Analysis and Mechanics
+Networks and Heterogeneous Media
+STEM Education
+Book Series
+Conferences
+About
+About AIMS
+Policies
+Copyright
+Disclaimer
+Order Journals
+Open Access
+Contact
+Ethical Standards
+Terms and Conditions
+Home >  Guide for Authors
+Guide for Authors
+BEFORE SUBMISSION
+●  Ethical Standards
+● Submission Declaration
+● Submission Checklist
+● Submission Preparation
+○ Article Structure
+○ Essential Title Page Information
+○ Abstract
+○ Keywords
+○ MSC Numbers
+○ Equations
+○ Figures
+○ Tables
+○ References
+○ Enhancing Manuscript Quality
+○ Use of Generative-AI Tools Declaration
+● Copyright
+● Open Access
+○ Open Choice
+○ Open Subscription
+○ Read & Publish
+● Policies
+○ Ethical Standards
+○ Terms and Conditions
+○ Repository Policy
+●  How to Submit
+AFTER SUBMISSION
+● Peer Review
+AFTER ACCEPTANCE
+● Acceptance Packet
+● Article Preparation
+● Galley Proof
+● Publication Guidelines
+● Article Promotion Tips
+AUTHOR INQUIRES
+● FAQ
+● Contact
+BEFORE SUBMISSION
+Prior to initial submission, authors are encouraged to use language-editing and copyediting services.
+Submissions that do not meet International Scholarly English Standards may be desk-rejected (rejection by an editor without external review).
+● Ethical Standards
+○ AIMS is a member of COPE. Your article must adhere to all policies outlined in our Ethical Standards.
+○ We follow COPE's guidelines and policies regarding the use of Artificial Intelligence (AI) tools: COPE Policy on AI tools.
+● Submission Declaration
+○ By submitting your manuscript, you attest that the work has not been previously published, has not been copyrighted, is not being submitted for publication elsewhere, and that its submission has been approved by all of the authors and by the institution where the work was carried out. Furthermore, submission indicates that any person cited as a source of personal communications has approved such citation, and that the authors have agreed that the copyright in the article shall be assigned to the publisher upon acceptance of the article.
+● Submission Checklist
+○ Before submitting your manuscript, make sure it fits into the journal’s Aim and Scope (Aim and Scope can be found at ACSE, AMC, AMMC, CAC, CPAA, DCDS, DCDS-B, DCDS-I, DCDS-S, EECT, FoDS, FAM, FCNT, FMF, IPI, JCD, JDG, JIMO, JMD, KRM, MCRF, MFC, NACO, PUQR) and that all information below is included (for more details, please check the relevant section in this Guide for Authors).
+■ All authors’full names, email addresses, full affiliations and names of countries
+■ One author has been designated as the corresponding author
+■ Abstract
+■ Keywords
+■ MSC numbers
+■ All figures and tables
+■ All references
+○ Further Considerations
+■ Manuscripts cannot be previously published, copyrighted, or submitted for publication elsewhere, and must be approved by all authors and by the institution where the work was carried out.
+■ Manuscript has been checked for spelling and grammar.
+■ Permission has been obtained for use of the copyrighted material from other sources (including the Website).
+■ Each reference mentioned in the References list is cited in your manuscript, and vice versa.
+■ Policies detailed in this guide and Ethical Standards have been reviewed carefully.
+■ One or two editors whose areas are closely related to the submission should be selected.
+■ Authors must claim responsibility for the accuracy and integrity of the work.
+■ Enhancing Manuscript Quality with Assistive-Artificial Intelligence (AI) Language Tools.
+At AIMS, we are committed to maintaining high language quality standards in all submitted manuscripts. To support our authors, we encourage the use of Assistive-AI language tools to improve clarity, coherence, and overall writing quality, which facilitates a smoother review and publication process.
+We follow COPE's guidelines and policies regarding the use of AI tools:  COPE Policy on AI tools.
+Authors must disclose any Generative-AI use in their manuscript's “Use of Generative-AI tools declaration” portion at the end of the manuscript before the “Acknowledgments” section.
+■ Use of Generative-AI Tools Declaration
+Here is our  AI Policy.
+Instructions for declaring Generative-AI tools are at the end of the document.
+● Submission Preparation
+To alleviate our referees’ burdensome hard work, please limit submissions according to the following guidelines (within any 12-month period from the same author, individually or as a co-author)
+No more than THREE submissions to CPAA
+No more than TWO submissions to DCDS
+No more than TWO submissions to DCDS-B
+○ Article Structure:
+■ Language: Articles must be in English.
+■ Format: Articles must be submitted in PDF format. Authors are strongly encouraged to use AMS-LaTeX (amsart) when preparing their manuscript because these manuscripts will move more quickly through the production and publication process.
+■ Page numbers: Each page must be numbered consecutively.
+■ Sections: Articles must have clearly numbered sections. Subsections should be numbered as 1.1, 1.2…etc., and subsubsections should be numbered as 1.1.1, 1.1.2…etc.
+■ Introduction: State the aims and importance of your work, in the first paragraph start broadly and then zoom in to your specific focus, come right to the point, provide an adequate background but avoid a lengthy literature survey.
+■ Body: Materials and methods must be described in sufficient detail. The results and discussion should be clear and concise.
+■ Conclusion: A short conclusions section describing the main conclusions of your article may be included at the end.
+■ Appendices: Appendices should be labeled A, B, C…etc., and should appear before the bibliography.
+■ Bibliography: The bibliography should appear at the very end of your article and should contain all references cited in your manuscript. More information about how to create your bibliography can be found in the References subsection.
+○ Essential Title Page Information:
+■ Title:
+● Titles should be concise and informative.
+● Titles are to be in the sentence case. Meaning, only the first word and proper nouns are capitalized. If a theory, formula, or specialized equation contains names (like Navier-Stokes) they are capitalized, otherwise leave them lower case.
+● Capitalization after a colon is required.
+● Ensure the correct usage of articles. (a, an, the)
+● Ensure the appropriate use of grammar and spelling.
+Note: Changes to the article title after initial manuscript submission must be approved by the Handling Editor. These are considered as significant changes and it is the responsibility of the authors to ensure that a record of significant changes is kept during the submission process and is shared with the Handling Editor for approval.
+More tips and suggestions can be found here.
+Examples of titles done correctly:
+“Optimal control of a stationary Navier-Stokes hemivariational inequality with numerical approximation”
+“Global attractor of the Euler-Bernoulli equations with a localized nonlinear damping”
+■ Author names, email addresses and affiliations:
+● Include all authors given names and family names and make sure that all names are spelled correctly.
+● Provide the e-mail address of each author, if available.
+● Place the authors' complete affiliations (where the actual work was done) below the names. Indicate all complete affiliations with superscript Arabic numerals after the author's name and in front of the appropriate affiliations. Provide the country name of each affiliation.
+● Note on change in authorship: The original author(s) must provide a clear and sufficient explanation for authorship changes in a revision letter to the Handling Editor.
+○ Changes in authorship include addition, deletion, or rearrangement of author names in the authorship list compared to the initial submission. These are considered as significant changes and it is the responsibility of the authors to ensure that a record of significant changes is kept during the submission process and is shared with the Handling Editor for approval.
+○ The Handling Editor must receive two materials from the original authors: 1) clear reasoning for the authorship change (if an author is added, this includes their specific contribution to the paper) and 2) written confirmation from all authors approving the change (including the author being added to or removed from the manuscript, if applicable). If the authors do not submit a revision letter containing sufficient explanation, the paper may be at risk of rejection. Final acceptance or rejection may ultimately be at the discretion of the journal’s Editor(s) in Chief.
+○ The addition, deletion, or rearrangement of author names is not permitted after an article is accepted. There must be exceptional scientific circumstances for this change to be considered. While the Managing Team considers the request, publication of the manuscript will be suspended. If the manuscript has already been published as an Early Access article or in a formal issue with volume and issue numbers, any requests approved by the Managing Team will result in a Correction.
+■ Corresponding author: The corresponding author should be clearly indicated.
+■ Current address. If an author has moved since the work described in the article was done, or was visiting at the time, a 'Current address' may be indicated as another affiliation address with superscript Arabic numerals added to that author's name and in front of the current affiliation address. The affiliation at which the author actually did the work must be retained as the main affiliation.
+■ Footnotes: Any footnotes should be placed at the bottom of the first page. These may include short thanks, grant information, corresponding author.
+○ Abstract
+■ The abstract should briefly state the purpose of the research, the principal techniques and major conclusions. As the abstract must be able to stand alone, independent of the paper, references to citations and numbered elements from the paper (e.g. theorems, equations) should be avoided. If a reference is essential, it should be written out in full, rather than given by number. Acronyms must be spelled out upon their first use both in the abstract and in the paper. An upper limit of 250 words is recommended for the length of the abstract.
+○ Keywords
+■ Include 3-5 or more keywords in the footer of page 1 which will be used for indexing purposes. Avoid using abbreviations and plural words.
+○ MSC Numbers
+■ 2020 Mathematics Subject Classification (MSC2020) numbers must be provided and placed in the footer of page 1. These numbers can be found here.
+○ Equations
+■ Equations should be centered with the number placed in parentheses by the right margin.
+○ Figures
+■ Figures must be of high resolution and high contrast and Figures can be in .eps, .png, .jpg, or .pdf format. All figures must fit within the margins of the article.
+○ Tables
+■ Tables should be included within the TeX file using the table environment and not as images. Number tables consecutively in the order in which they appear in the text. Any notes can be placed below the table body.
+○ References
+■ Each reference MUST be cited in your manuscript and play an essential role. An explanation for each reference must be clearly integrated into the narrative of your manuscript. It is highly recommended to use \cite{} to cite each reference. Do not cite any reference if your article is not affected without it.
+■ Responsibility for the accuracy of bibliographic citations lies entirely with the authors. Take particular care to ensure that the information is correct so that links to referenced articles can be made successfully.
+■ References should be listed alphabetically according to the first author’s last name, typed and punctuated according to the common examples shown below. More examples can be found in the AIMS template in the Acceptance Packet which can be found later in this guide:
+Journal Article:
+[1] Y. Benoist, P. Foulon and F. Labourie, Flots d'Anosov a distributions stable et instable differentiables, J. Amer. Math. Soc., 5 (1992), 33-74.
+Book:
+[2] J. Smoller, Shock Waves and Reaction-Diffusion Equations, 2nd edition, Springer-Verlag, New York, 1994.
+Preprint Article:
+[3] A. Teplinsky, Herman's theory revisited, preprint, 2012, arXiv:0707.0078.
+■ When citing Discrete and Continuous Dynamical Systems and Discrete and Continuous Dynamical Systems Series B, the abbreviations Discrete Contin. Dyn. Syst. and Discrete Contin. Dyn. Syst. Ser. B may be used instead. For journal abbreviations used in bibliographies, consult the list of latest Abbreviations of Names of Serials in Mathematical Reviews (MR).
+● Copyright Instructions
+○ Authors must complete and sign a Copyright Agreement before their article can be published. You can find the Copyright Agreement in your acceptance packet and below.
+■ Copyright Agreement for CPAA
+■ Copyright Agreement for JMD
+■ Copyright Agreement for PUQR
+■ Copyright Agreement for all other journals
+○ Page 1
+■ “Title of article” field: Include the full title of your paper. In case of a longer title, you may use a smaller font size in the text box to ensure the full title fits. The title used here should be an exact match of how the title is written in the paper’s .tex file.
+■ “All authors' names” field: Include all author names as they appear in your EditFlow submission. If the order of the names has changed since submission, please leave a note for our editorial staff confirming the correct order when uploading your sources.
+■ “Journal title” field (if applicable): Include the full and exact journal title. See below for an example.
+1.Incorrect: Discrete Continuous Dynamical System
+Correct: Discrete and Continuous Dynamical Systems
+(Note the “and” between “Discrete” and “Continuous” and “s” in “Systems”)
+○ Page 3
+■ “Name(s)” field: Each signing author should be listed here.
+○ The signing author name(s) should be an exact match of the name(s) as they appear on page 1 of the Copyright, in the EditFlow submission, and in the paper’s .tex file.
+■ “Signature(s)” field: All signing authors must provide a handwritten or digitally verified signature (typing into the signature field will not be sufficient).
+○ If there are multiple authors for a paper, either all must sign the Copyright Agreement or the submitting author may submit the Copyright Agreement on behalf of all authors. In this latter case, the signing author must ensure that they have the authority of all the authors to enter into the agreement on their behalf.
+1. Example: “I, [insert signing author’s name], attest that each author has approved this agreement and has agreed to be bound by it.
+○ Note: Other than filling in the relevant fields on pages 1 and 3, do not alter the Copyright Form (e.g., spacing).
+○ Permission to Reuse AIMS Materials
+■ Permission to reuse AIMS materials should be requested from the Copyright Clearance Center. Simply click “Get Permissions” at the top of the page and search for the article you would like to reuse. Then complete the permission request form.
+● Open Access
+○ Open Choice
+■ Most AIMS journals are hybrid, in which an author can opt for Open Choice by paying a one-time fee of 1,800 USD. The payment of this Article Processing Charge (APC) places the fully published version of the article in Open Access, freely available to all. Readers can see articles marked as ‘Open Access’ if authors opt for Open Choice. This option is voluntary and is solely up to the author, who may have funding available to put to this use. Otherwise, the full version of the article is available only to journal subscribers. For more information about Open Choice for AIMS journal articles, contact: cdenton@aimsciences.org
+○ Open Subscription
+■ AIMS offers Gold Open Access publication, free of charge, under Open Subscription. Please check with your institution to see if your institution ordered AIMS journals under Open Subscription. If not, you may encourage your institution to order AIMS journals under Open Subscription so that you and your colleagues can publish in any AIMS hybrid journal Open Access. For more information, visit our webpage.
+○ Read & Publish
+■ AIMS offers Gold Open Access publication, free of charge, under Read and Publish agreement. Please check with your institution to see if your institution signed up for this agreement. If not, you may encourage your institution to sign up for this agreement so that you and your colleagues can publish in any AIMS hybrid journal Open Access. For more information, visit our webpage.
+● Policies
+○ All articles must adhere to AIMS Ethical Standards.
+○ View our Terms and Conditions.
+○ View our Policies.
+● How to write and publish a math article
+○ This presentation may serve as a guide for junior researchers to improve the composition of their first articles. Use of this guide could increase the chances that an article resonates with peers and referees and garners more success overall.
+● How to Submit
+○ Submissions to journals of ACSE, AMC, AMMC, CAC, CPAA, DCDS, DCDS-B, DCDS-I, DCDS-S, EECT, FoDS, FAM, FCNT, FMF, IPI, JCD, JDG, JIMO, JMD, KRM, MCRF, MFC, NACO, PUQR
+■ Contact EditFlow editflow@msp.org with technical issues and questions for manuscripts submitted to all above journals except journals DCDS-I, FAM, and JMD.
+AFTER SUBMISSION
+● Peer Review
+○ All manuscripts submitted to AIMS undergo a rigorous single-blind peer review.
+○ Editors may contact institutions during peer review if needed.
+AFTER ACCEPTANCE
+● Acceptance Packet
+○ You will receive an acceptance letter that will include a link to download the acceptance packet. (e.g. AIMSTemplateFiles.zip) Everything you need to format and compile your article is included in the acceptance packet.
+■ Acceptance Packet for ACSE: Download Latex template, Download Word template
+■ Acceptance Packet for CPAA
+■ Acceptance Packet for DCDS-I
+■ Acceptance Packet for JMD
+■ Acceptance Packet for all other journals except PUQR
+● Article Preparation
+○ When preparing your final Tex file, it is important to closely follow the instructions in the TeX template provided in the acceptance packet. Additional details can be found in the Template FAQ document. This will ensure that your article goes through the production line quickly and is published sooner.
+● Galley Proof
+○ After you have submitted your final article, you will be contacted by a Production Editor. They will make final typesetting changes to your article and send you a galley proof to review. Please check the galley proof version of your article very carefully based on the Proofreading Checklist. Be sure to return the galley proofs within the timeline specified or publication of your article may be delayed.
+■ No changes: Reply to the Production Editor with your confirmation.
+■ Minor changes: When responding to the Production Editor, send an updated galley proof version with a clear, detailed list of ALL changes that were made. DO NOT change the name of the .tex file. DO NOT use your own .tex file.
+■ Significant changes: Significant changes at this stage are typically not acceptable. If the authors discover that a significant change is needed, such as to one of the following examples, they should immediately contact their Production Editor:
+● The title of the article
+● The addition, deletion, or rearrangement of author names
+● The addition or removal of research content
+Your Production Editor will consult with the Managing Team of the journal. If you prefer to communicate with the Managing Team of the journal directly, please keep your Production Editor cc’d with all correspondence so they can proceed accordingly. While the Managing Team considers the request, publication of the manuscript will be suspended. Please note that you may have to resubmit your article as a new submission if any significant changes need to be made.
+● Publication Guidelines
+○ Changes cannot be made after online publication unless absolutely essential. Essential changes will be published separately as a Correction.
+● Article Promotion Tips
+○ Authors can significantly increase readership and citations by promoting their work. AIMS helps authors reach broader audiences by utilizing various promotional strategies. For details, please refer to How to Promote Your Published Article.
+AUTHOR INQUIRES
+● FAQ
+● Contact
+Journals and Books
+Advances in Computational Science and Engineering
+Hybrid & Quarterly    Since 2023
+Advances in Mathematics of Communications
+Hybrid & Bimonthly   Since 2007
+Applied Mathematics for Modern Challenges
+Hybrid & Quarterly    Since 2023
+Communications on Analysis and Computation
+Hybrid & Quarterly    Since 2023
+Communications on Pure and Applied Analysis
+Hybrid & Monthly   Since 2002
+Discrete and Continuous Dynamical Systems
+Hybrid & Monthly   Since 1995
+Discrete and Continuous Dynamical Systems - B
+Hybrid & Monthly   Since 2001
+Discrete and Continuous Dynamical Systems - I: Intelligence
+Hybrid & Quarterly    Since 2026
+Discrete and Continuous Dynamical Systems - S
+Hybrid & Monthly   Since 2008
+Electronic Research Announcements in Mathematical Sciences
+Evolution Equations and Control Theory
+Hybrid & Monthly   Since 2012
+Foundations of Data Science
+Hybrid & Quarterly    Since 2019
+Frontiers in Applied Mathematics
+Hybrid & Biannual   Since 2026
+Frontiers in Combinatorics and Number Theory
+Hybrid & Quarterly    Since 2026
+Frontiers of Mathematical Finance
+Open Access & Quarterly   Since 2022
+Inverse Problems and Imaging
+Hybrid & Bimonthly   Since 2007
+Journal of Computational Dynamics
+Hybrid & Quarterly    Since 2014
+Journal of Dynamics and Games
+Hybrid & Quarterly    Since 2014
+Journal of Industrial and Management Optimization
+Open Access & Monthly     Since 2005
+Journal of Modern Dynamics
+Hybrid & Annual   Since 2007
+Kinetic and Related Models
+Hybrid & Bimonthly   Since 2008
+Mathematical Control and Related Fields
+Hybrid & Quarterly    Since 2011
+Mathematical Foundations of Computing
+Hybrid & Bimonthly   Since 2018
+Numerical Algebra, Control and Optimization
+Hybrid & Quarterly    Since 2011
+Probability, Uncertainty and Quantitative Risk
+Free Access & Quarterly    Since 2016
+AIMS Mathematics
+Monthly  Since 2016
+Mathematical Biosciences & Engineering
+Bimonthly  Since 2004
+Big Data & Information Analytics
+Quarterly   Since 2016
+Mathematics in Engineering
+Monthly  Since 2019
+Communications in Analysis and Mechanics
+Quarterly   Since 2009
+Networks and Heterogeneous Media
+Bimonthly  Since 2006
+STEM Education
+Quarterly   Since 2021
+Conference Publications
+Since 1998
+About AIMS
+Policies
+Copyright
+Disclaimer
+Order Journals
+Open Access
+Contact
+Ethical Standards
+Terms and Conditions
+Site map Copyright © 2026 American Institute of Mathematical Sciences

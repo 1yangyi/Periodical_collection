@@ -1,0 +1,61 @@
+期刊: 新疆大学学报.哲学社会科学版
+来源: https://xjdb.cbpt.cnki.net/EditorGN/PromptPageInfo.aspx?t=v&c=3
+标题: 论文模板
+
+论文模板
+新疆大学学报（哲学·人文社会科学版）稿件基本样式
+标题（居中，二号黑体，一般在20字以内）
+(——如有附标题，则为小二仿宋体)
+作者1，作者2（四号楷体）
+（1. 学校和院系，省市 邮编；2. 单位全称，省市 邮编）（五号仿宋体，单位全称，非省会城市前加省名）
+摘 要：简要说明论文研究工作的主要内容、研究目的、采用方法和主要结论。“摘要”两字宜用小五号黑体，摘要内容宜用小五号仿宋体，不用第一人称做主语，一般为250~400字左右。
+关键词：关键词1（该文内容所属二级学科名称）；关键词2；关键词3；关键词4；如有需要，第5及其后的关键词是有利于检索的其他关键词。“关键词”两字宜用小五号黑体，内容宜用小五号仿宋体。
+中图分类号：查阅《中国图书馆分类法》） 文献标识码： 文章编号：
+以下紧接英文题目、作者姓名及所在单位的英译文、摘要和关键词的英译文，全部使用Times New Roman：
+The low consumed power design of the hand-hold device based on AT91RM9200
+（与中文题目对应，三号，粗体，除题目的第1个字母及专有名词的第1个字母用大写之外，其余第1个字母用小写）
+ZHANG San1，LI Siwu2
+（姓在前，全用大写，名第1个字母用大写，其余为小写，字号五号）
+(1. Department of …, Xi-an University of Technology, Xi-an 710048；
+2. China Yangtze Three Gorges Project Development Corporation, Yichang, Hubei 443002)
+（单位：Times New Roman，五号，居中，单位及其所在城市名用斜体，邮编除外。）
+Abstract：This paper presents a fast arc detection method which is used for scanned line-drawing graphics recognition. It is a kind of method which is from arc supposition to arc verification. Firstly extract the skeleton of the line-drawing image, then use the piecewise linear polygon to approximate the skeleton for more simplification and reducing the quantum of data. After that, the local discrete curvature of every dominant point of the linear polygon is calculated and the discrete curvature is used to assume some arcs exist locally. Finally the hypotheses are verified by mapping the hypothetical arcs’ back into the original image according to the arcs’ circle parameters. This proposed method has the advantages that it can deal with the conditions of rupture, intersection and overlapping and it is robust and fast.（与中文摘要意思对应，语言流畅，信息具体，不用第一人称做主语。）
+Key words：computer application; graphics recognition; arc detection; image skeleton; discrete curvature; line drawing（关键词除专有名词外都用小写。摘要及关键词字号为小五号）
+以下正文除各部分标题、插图和表格外，一律用五号宋体，具体字体要求见注2。
+1一级标题（四号，楷体）（参考文献出处及注释序号不可标注在文中题目、摘要及一二三级标题上）
+1.1 二级标题（五号，宋体，加粗）科技论文一般用至三级标题，个别有的用至四级标题。
+1.1.1 三级标题（五号，宋体，加粗）
+图表名称的格式：图片名称标注在下方，表格名称标注在表格上方，居中，汉字用黑体，数字英文用Time New Roman , 罗马字用Symbol，字号小五。
+表1 名称……表格要求见注4
+Tab. 1 ……
+表格以序号、名称的格式标注，居中，中英文对照，表格为三线表（表格套用格式为简明型1）。
+x/cm
+I/mA
+v/(m×s-1)
+h/m
+p/MPa
+10
+30
+2.5
+4
+110
+12
+34
+3.0
+5
+111
+注：表注和图注用小五号宋体，表注左对齐，图注居中。
+1.1.2 三级标题（五号，宋体，加粗）
+图1 名称……图形要求见注5
+Fig. 1 ……
+图号和图名用小五号宋体，图下居中。
+1.2 二级标题（五号，宋体，加粗）
+0一级标题
+注释统一采用页下注：小五号字体，通篇统一编号。
+参考文献出处标注：以参考文献的序号在正文中以[ ]标注出，字体：Times New Roman，字号：五号，上标，颜色：蓝色，按照被引用的顺序标注。
+例：……年产量居全国之首[1]。
+致谢（可选）（五号黑体）：应向对论文有帮助的有关人士或单位表示谢意。（正文五号楷体）
+[参考文献] (References)（中文仿宋体五号，英文Times New Roman五号）
+文献正文中所有非英文文献需写出对应的英文译文（小五号宋体，英文为小五号Times New Roman编号两侧加中括号“[ ]”。）
+[1] 马克·吉普森,约翰·哈特雷.文化研究四十年——理查·霍加特访谈录[J].胡谱中,译.现代传播,2002(5):84.
+[2] 雷蒙德·威廉斯.文化与社会[M].吴松江，张文定,译. 北京：北京大学出版社，1991：126.

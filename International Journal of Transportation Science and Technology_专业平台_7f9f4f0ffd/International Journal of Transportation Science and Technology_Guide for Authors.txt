@@ -1,0 +1,237 @@
+期刊: International Journal of Transportation Science and Technology
+来源: https://www.keaipublishing.com/en/journals/international-journal-of-transportation-science-and-technology/guide-for-authors/
+标题: Guide for Authors
+
+Guide for Authors
+Introduction
+Focus
+Types of contributions
+Ethics In Publishing
+Copyright
+Role of the Funding Source
+Open Access
+Language
+Authorship
+Author contributions
+Preparation
+Use of word processing software
+Article structure
+Manuscript Format
+General format of manuscript
+Section, line and page numbers
+Essential Title Page Information
+Abstract
+Highlights
+Keywords
+Math formulae
+Footnotes
+Figures
+Tables
+References
+Reference Formatting
+Research Data
+Submission
+Peer Review Policy
+Revision
+Preprint references
+After acceptance
+Proofs
+Offprints
+Author inquiries
+Author Inquiries
+Introduction
+Focus
+The International Journal of Transportation Science and Technology (IJTST) publishes innovative, high-quality, peer-reviewed scholarly articles that contribute to the advancement of knowledge in transportation systems. The journal's interest is not in the individual technologies or methodologies per se, but is in their broader impacts on the safety, efficiency, reliability, resilience and sustainability of any person and freight transportation system. The journal's interests also include the impacts of transportation science and technology on the quality of life of the end users. Submission of articles in the topics listed under the associate editors are encouraged. Articles associated with emerging topics are equally welcomed.
+Types of contributions
+Research paper
+Research papers report on new research findings within the scope of IJTST. Each research paper is expected to include: (1) research background, motivation, and justification; (2) a research objective or research question; (3) a comprehensive literature review; (4) an experiment methodology or analytical procedure; (5) data used, their source and quality control; (6) results and discussions; (7) conclusions, scientific contributions, impacts on a transportation system, and suggestions for future research. The description of the experiment methodology or analytical procedure, and the data should be clear enough for scholars to repeat the process and obtain the same outcome. In addition to the abovementioned parts, every research article is also assessed by the editors and peers on the level of innovation, significance of contribution, and the potential of its finding in transforming and revolutionizing a transportation system. For the last assessment criterion, other than the systems performance, this journal is particularly interested in how the finding will impact the engineering practice (such as design, maintenance and operations) and the end users' experience (in terms of safety, cost, level of service, etc.).
+Overview article
+Overview articles serve to introduce new science and technology from other disciplines into transportation. Each overview article introduces an emerging technology, its state-of-the-art applications in the field of origin and other domains, its initial and potential applications in transportation, and the expected impacts on transportation systems. Overview papers are assessed by editors and peers based on the following criteria: (1) timeliness of the topic; (2) clarity in explaining the concept and techniques to readers; (3) breadth and depth of literature review; (4) ability to identify and organize the applications in transportation; (4) ability to map out the future challenges and propose research needs; and (5) ability to communicate the projected impacts on a transportation system.
+Review article Substantial overview of original research, usually with a comprehensive bibliography, generally also containing a table of contents.
+Short communication Short report or announcement of research, usually claiming certain results. Appear under many names, such as Letter Papers, Preliminary notes, Notes, etc.
+Editorial From the (guest) editor of the publication. Can be Foreword, Editorial, Guest Editorial, Preface, etc.
+Ethics In Publishing
+Declaration of interest
+All authors are requested to disclose any actual or potential conflict of interest including any financial, personal, or other relationships with other people or organizations within three years of beginning the submitted work that could inappropriately influence, or be perceived to influence, their work.
+Submission declaration and verification
+Submission of an article implies that the work described has not been published previously (except in the form of an abstract or as part of a published lecture or academic thesis or as an electronic preprint, see 'Multiple, redundant or concurrent publication' section of our ethics policy for more information), that it is not under consideration for publication elsewhere, that its publication is approved by all authors and tacitly or explicitly by the responsible authorities where the work was carried out, and that, if accepted, it will not be published elsewhere in the same form, in English or in any other language, including electronically without the written consent of the copyright holder. To verify originality, the article will be checked by CrossCheck and iThenticate.
+Ethics in publishing.Please see our information pages onEthics in publishing and Ethical guidelines for journal publication.Submissions to IJTST are automatically screened using iThenticate's CrossCheck within the editorial system to detect instances of overlapping and similar text in submitted manuscripts. When a plagiarism complaint is raised, the manuscripts would be desk rejected.
+Submission checklist
+All authors are strongly encouraged to use this list to carry out a final check of their articles before submitting them to IJTST for review. Please check to ensure that the following items are present:
+Corresponding author:
+E-mail address. Only professional office email address will be accepted for publication.Full postal address.
+Manuscript:
+Section and sub-section numbers.
+Line and page numbers, continuous with page 1 and line 1 from the title page.
+Keywords (up to five keywords).
+All figures (include captions)
+All tables (include captions)
+All equations (include numbers)
+References are listed and cited in Harvard style, not numeric style
+All references mentioned in the Reference list are cited in the text, and vice versa
+Indicate clearly if color should be used for any figures in print
+Further considerations:
+The manuscript has been 'spell checked' and 'grammar checked'
+Permission has been obtained for use of copyrighted material from other sources (including the Internet)
+A Conflict of Interest (COI) statement is provided, even if the authors have no COI to declare. Journal policies detailed in this Author Information guide have been reviewed.
+Copyright
+This journal is a peer reviewed, fully open access journal owned by Tongji University and Tongji University Press. Tongji University and Tongji University Press retains copyright of the overall compiled journal and the compiled issues. Authors will transfer copyright to Tongji University and Tongji University Press, but will have the right to share their article in the same way permitted to third parties under the relevant user license, as well as certain scholarly usage rights.
+Role of the Funding Source
+Authors are requested to identify who provided financial support for the conduct of the research and/or preparation of the article and to briefly describe the role of the sponsor(s), if any, in study design; in the collection, analysis, and interpretation of data; in the writing of the report; and in the decision to submit the article for publication.
+Open Access
+Every article appearing in this journal will be published as an open access article. This means that the article is universally and freely accessible via the internet in perpetuity, in an easily readable format immediately after publication. To provide open access, this journal has an open access fee (also known as an article publishing charge APC) which needs to be paid by the authors or on their behalf e.g. by their research funder or institution. The APC for this journal is USD 1000, excluding taxes. For all papers submitted before the 31st of December 2026, the APC will be waived making it free to submit to the journal.
+A CC user license manages the reuse of the article. Articles will be published under one of the following licenses according to author's choice :
+Creative Commons Attribution (CC BY)
+Allows users to copy, to create extracts, abstracts and new works from the Article, to alter and revise the Article and to make commercial use of the Article (including reuse and/or resale of the Article by commercial entities), provided the user gives appropriate credit (with a link to the formal publication through the relevant DOI), provides a link to the license, indicates if changes were made and the licensor is not represented as endorsing the use made of the work.
+Creative Commons Attribution-NonCommercial-NoDerivs (CC BY-NC-ND)
+For non-commercial purposes, lets others distribute and copy the article, and to include in a collective work (such as an anthology), as long as they credit the author(s) and provided they do not alter or modify the article. The full details of the license are available at https://creativecommons.org/licenses/by/4.0/.
+Language
+Write the text in good English (American or British usage is accepted, but not a mixture of these).
+Authorship
+Authors are expected to consider carefully the list and order of authors before submitting their manuscript and provide the definitive list of authors at the time of the original submission. Any addition, deletion or rearrangement of author names in the authorship list should be made only before the manuscript has been accepted and only if approved by the journal's Editor-in-Chief. To request such a change, the Editor-in-Chief must receive the following from the corresponding author: (a) the reason for the change in author list and (b) written confirmation (e-mail, letter) from all authors that they agree with the addition, removal or rearrangement. In the case of addition or removal of authors, this includes confirmation from the author being added or removed. Only in exceptional circumstances will the Editor-in-Chief consider the addition, deletion or rearrangement of authors after the manuscript has been accepted. While the Editor-in-Chief considers the request, publication of the manuscript will be suspended. If the manuscript has already been published in an online issue, any requests approved by the Editor-in-Chief will result in a corrigendum.
+Author contributions
+For transparency, we encourage corresponding authors to provide co-author contributions to the manuscript using the relevant CRediT roles. The CRediT taxonomy includes 14 different roles describing each contributor’s specific contribution to the scholarly output. The roles are: Conceptualization; Data curation; Formal analysis; Funding acquisition; Investigation; Methodology; Project administration; Resources; Software; Supervision; Validation; Visualization; Roles/Writing - original draft; and Writing - review & editing. Note that not all roles may apply to every manuscript, and authors may have contributed through multiple roles. More details and an example.
+Preparation
+Use of word processing software
+It is important that the file be saved in the native format of the word processor used. The text should be in single-column format. Keep the layout of the text as prescribed in the General Format of the Manuscript. Most formatting codes will be removed and replaced when copy editing the article. In particular, do not use the word processor's options to justify text or to hyphenate words. However, do use bold face, italics, subscripts, superscripts etc. Use only one grid for each individual table. The electronic text should be prepared in a way very similar to that of conventional manuscripts. Note that source files of figures, tables and text graphics will be required. To avoid unnecessary errors, authors are strongly advised to use the 'spell-check' and 'grammar-check' functions of the word processor.
+Article structure
+Subdivision - numbered sections
+Divide the article into clearly defined and numbered sections and sub-sections 1. (then 1.1., 1.2.,...), 2. (and then 2.1., 2.1.,?), etc. Up to a maximum of three section levels (e.g., 2.2.3.) are permitted. The Abstract, Acknowledgements and References are not included in section numbering. Use this numbering also for internal cross-referencing. Any subsection may be given a brief heading. Each heading should not be more than one line.
+Introduction
+Provide an adequate background, state the objective of the work or research question, and outline of the remaining sections. Avoid a detailed literature survey or a summary of the results.
+Literature review
+Survey the past efforts (with cited references) on the same topic that involved the use of same/related methods, equipment, and data. Provide critiques to justify your decisions that lead to the experimental works, data collections, methods of analysis, etc.
+Material and methods
+Describe the experiment in sufficient detail to allow the work to be reproduced by an independent researcher. Methods that are already published should be summarized and indicated by a reference. If quoting directly from a previously published method, use quotation marks, and also cite the source. Any modification to an existing method should also be described.
+Data
+The description of data should include data collection, data processing, and quality control.
+Theory/calculation
+A Theory section should extend, but not repeat, the background to the article already dealt with in the Introduction and lay the foundation for further work. In contrast, a Calculation section represents a practical development from a theoretical basis.
+Results
+Results should be clear and concise.
+Discussions
+The authors should highlight the significance of the results and elaborate on the implications of existing practice. A combined Results and Discussion section is often appropriate. Comparison with past results is encouraged (with cited references) but the authors should avoid extensive citations and discussion of published literature.
+Conclusions
+The main conclusions of the study may be presented in a short Conclusions section. The Conclusions section should also include statements of scientific contributions, limitations, impacts on a transportation system and recommendations for future research.
+Acknowledgements and Declarations
+This section is mandatory. Thank the organization that provided financial support for this research, in the standard format required by the funder, usually with the contract or project number. Acknowledge those who assisted in any part of this research and the nature of their contributions. See the last paragraph for example. If no funding has been provided for the research, include the following sentence: "This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors". The authors must also make three declarations: (1) new publication; (2) authors contributions and approval; (3) conflict of interest. If the contents involve human subjects, the authors must also include a statement of human subject research. The following paragraph is an example.
+This research is supported by the National Engineering Foundation of Canada under contract 2016-CPS-00176. The authors thank Maria Ford from the Orange County Metropolitan Planning Organization for providing the survey data. The authors declare that the contents of this article has not been published previously. All the authors have contributed to the work described, read and approved the contents for publication in this journal. All the authors have no conflict of interest with the funding entity and any organization mentioned in this article in the past three years that may have influenced the conduct of this research and the findings. All the authors have been certified by their respective organizations for human subject research.
+References
+List the cited references in Harvard (name-year) style, in alphabetical order of the first author's last name.
+Appendix
+The use of an appendix is not encouraged. Any appendix counts towards the paper length limit.
+Manuscript Format
+Authors are strongly encouraged to read and carefully follow the following requirements when formatting the manuscript.
+General format of manuscript
+The following manuscript format must be use for easy reading by the editors and reviewers, who volunteer their times. Adherence to the format will also speed up the publication time if the manuscript is accepted.
+Paper size: U.S. letter size (preferred) or A4.
+Margin: 1 inch or 25mm from all edges.
+Line spacing: Single space between lines in the same paragraph. Do not leave a blank line between two paragraphs. Leave a blank line before and after section and sub-section headers, equations, figures and tables.
+Indentation: Begin every paragraph with an indentation of 0.5 inch or 12 mm from the left margin.
+Font size: 12.
+Font type: Times Roman.
+Paper length: Not more than 22 pages, from the title page to end of References, including all figures and tables. A submitted manuscript exceeding the 22-page limit will be rejected without review.
+Layout: Single column (2 column style is not acceptable).
+Figures and Tables: Embedded between paragraphs when first cited in the text. Each figure or table, including caption, must not occupy more than 1 page. Figure and table captions should not be used as footnotes.
+Section, line and page numbers
+Number the sections, from Introduction to Conclusions, by numbers to (1., 2., 3.,...). If a section is divided into sub-sections, all the sub-sections must be numbered (e.g., 2.1., 2.2., 2.3.,?). All submitted manuscripts must have line numbers that appear on every page, along the left margin. The lines should be numbered consecutively from 1 on top of the title page, increase continuously until the last page. Do not start every page with line number 1. All pages must also come with page numbers, starting with 1 on the title page. The page number can appear on either the right top corner or the center bottom or right bottom of every page.
+The section, line and page numbers are important for the editors and reviewers to refer to specific parts of the manuscript when communicating with the authors. A manuscript without section, page or line numbers will be rejected without review.
+Essential Title Page Information
+Every manuscript should start with a title page (page 1).
+Title
+Concise and informative. Titles are often used in information-retrieval systems. Avoid abbreviations and formulae where possible. Each title must not be more than 144 characters including spaces.
+Author names and affiliations
+Please clearly indicate the given first and last names of each author exactly as they should appear in the published article. Check that all the names are accurately spelled. Nick name, if desired, must be enclosed between parentheses. Present the authors' affiliation addresses (where the actual work was done) below the names. Indicate all affiliations with a lower-case superscript letter immediately after the author's name and in front of the appropriate address.
+Corresponding author
+Clearly indicate who will handle correspondence at all stages of refereeing and publication, as well as post-publication, with a superscript asterisk `*? next to the name. This responsibility includes answering any future query. Ensure that the e-mail address is given and that contact details are kept up to date by the corresponding author. Use a corporate, institution or professional email address, not a personal email address. Only the professional email address of the corresponding author will appear in the published article.
+Present/permanent address
+If an author has moved since the work described in the article was done, or was visiting at the time, a 'Present address' (or 'Permanent address') may be indicated as a footnote to the corresponding author's name. The address at which the author actually did the work must be retained as the main, affiliation address. Superscript Arabic numerals are used for such footnotes.
+Starting from page 2 are the Abstract, Keywords, Graphical abstract, Highlights.
+Abstract
+An abstract of not more than 250 words is required. The abstract should state briefly the purpose of the research, the methodology used, the principal results, and major conclusions. An abstract is often presented separately from the article, so it must be able to stand alone. For this reason, reference must be avoided. Also, non-standard or uncommon abbreviations should be avoided, but if essential they must be defined when they are first mentioned in the abstract.
+Highlights
+Highlights are a short collection of bullet points that convey the core findings of the article. Highlights are optional and should be submitted in a separate editable file in the online submission system. Use 'Highlights' in the file name and include three to five bullet points (maximum 85 characters, including spaces, per bullet point).
+Keywords
+Immediately after the Abstract, provide a maximum of 6 keywords, using American spelling and avoiding general and plural terms and multiple concepts (avoid, for example, 'and', 'of'). Only abbreviations firmly established in the field may be eligible. These keywords will be used for indexing purposes. Keywords are used by internet search engines and therefore to increase the visibility and citations of your published article, standard and commonly used words should be used as keywords.
+Math formulae
+Type math equations in equation editors and not paste equations as graphical images. Place every equation in a separate line. The numerator and denominator in an equation should be stacked. When presenting simple formulae in line with normal text, use the solidus (/) instead of a horizontal line for small fractional terms, e.g., X/Y. In principle, variables are to be presented in italics. Powers of e are often more conveniently denoted by exp. Number consecutively all equations that have to be displayed separately from the text. Enclosed equation numbers in brackets, e.g., (1). When referring to an equation in the text, use Equation (1) or Eq. (1) instead of only the number.
+Footnotes
+Footnotes should only be used when it is necessary and cannot be avoided. Number them consecutively throughout the article. Many word processors can build footnotes into the text, and this feature may be used. Otherwise, please indicate the position of footnotes in the text and list the footnotes themselves separately at the end of the article. Do not include footnotes in the Reference list.
+Figures
+Figures should be placed next to the relevant text in the article, between 2 paragraphs. Each figure should not occupy more than one page. Ensure that each figure has a caption. A caption should comprise a brief title (not on the figure itself). Figure caption should be placed below each figure, centered between the left and right margins. Begin each caption with 'Fig' followed by a period '.', the figure number, and another period '.' before the description. Type the description like an English sentence that begins with an upper case letter and ends with a period. For example, Fig. 1. Fundamental diagram of traffic flow.
+Tables
+Please submit tables as editable text and not as images. Tables should be placed next to the relevant text in the article, between 2 paragraphs. Each table should not occupy more than one page. Number tables consecutively in accordance with their appearance in the text and place any table notes below the table body. Be sparing in the use of tables and ensure that the data presented in them does not duplicate results described elsewhere in the article. Please avoid using vertical rules and shading in table cells. Each table must be accompanied by a table caption. Table captions should be place above each table, in two lines of text, left justified. The first line begins with "Table", followed by the table number. The second line is the description. Type the description like an English sentence that begins with an upper case alphabet and ends with a period. For example
+Table 1
+Level of service criteria for roundabouts.
+References
+Citation in text
+Please ensure that every reference cited in the text is also present in the reference list (and vice versa). Unpublished results and personal communications are not recommended in the reference list, but may be mentioned in the text. If these references are included in the reference list, they should follow the standard reference style of the journal and should include a substitution of the publication date with either 'Unpublished results' or 'Personal communication'. Citation of a reference as 'in press' implies that the item has been accepted for publication.
+Reference links
+Online links to the cited sources help reviewers to speed up the review process. In order to allow Elsevier's copy editor to create links to abstracting and indexing services, such as Scopus, CrossRef, and PubMed, please ensure that data provided in the references are correct. Please note that incorrect names, journal/book titles, publication year and pagination may prevent link creation. When copying references, please be careful as they may already contain errors. Use of the DOI is highly encouraged. A DOI is guaranteed never to change. It is a permanent link to any electronic article. An example of a citation using DOI for an article not yet in an issue is:
+VanDecar J.C., Russo R.M., James D.E., Ambeh W.B., Franke M. (2003). Aseismic continuation of the Lesser Antilles slab beneath northeastern Venezuela. Journal of Geophysical Research, https://doi.org/10.1029/2001JB000884.
+Format of such citations should be in the same style as all other references in the paper.
+Web references
+As a minimum, the full URL should be given and the date when the reference was last accessed. Any further information, if known (DOI, author names, dates, reference to a source publication, etc.), should also be given.
+Data references
+This journal encourages authors to cite underlying or relevant datasets by including a data reference in your Reference List. Data references should include the following elements: author name(s), dataset title, data repository, version (where available), year, and global persistent identifier. Add [dataset] immediately before the reference so we can properly identify it as a data reference. The [dataset] identifier will not appear in your published article.
+References in a special issue
+Please ensure that the words 'special issue' are added to any references in the list (and any citations in the text) to other articles in the same Special Issue.
+Reference Formatting
+The Harvard system of references is used. References should conform to the following style. Where applicable, author(s) name(s), journal title/ book title, chapter title/article title, year of publication, volume number/book chapter and the article number or pagination must be present. Use of DOI is highly encouraged. Journal names should be abbreviated according to the List of Title Word Abbreviations. References should be arranged according to the following examples:
+Ben-Akiva, M., de Palma, A., Kanaroglou, P., 1986. Dynamic model of peak period traffic congestion with elastic arrival rates. Transportation Science 20(2), 164-181.
+Fischer, G.W., Nagin, D., 1981. Random versus coefficient quantal choice models. In: Manski, C.F., McFadden, D. (Eds.), Structural Analysis of Discrete Data with Econometric Applications, MIT Press, Cambridge, MA, pp. 273-304.
+Brilon, W. (Ed.), 1988. Intersections Without Traffic Signals, Proceedings of an International Workshop. Springer-Verlag, Berlin.
+Daganzo, C., 1996. Two paradoxes of traffic flow on networks with physical queues. II Symposium Ingenieria de los Transportes, Madrid, 22-24 May 1996, pp. 55-62.
+[dataset] Oguro, M., Imahiro, S., Saito, S., Nakashizuka, T., 2015. Mortality data for Japanese oak wilt disease and surrounding forest compositions. Mendeley Data, v1. http://dx.doi.org/10.17632/xwj98nb39r.1
+Research Data
+This journal encourages and enables authors to share data that supports research publication where appropriate and enables authors to interlink the data with the published articles. Research data refers to the results of observations or experimentation that validate research findings. To facilitate reproducibility and data reuse, this journal also encourages authors to share your software, code, models, algorithms, protocols, methods and other useful materials related to the project. Below are a number of ways in which authors can associate data with your article or make a statement about the availability of your data when submitting your manuscript. If authors are sharing data in one of these ways, they are encouraged to cite the data in your manuscript and reference list. Please refer to the "References" section for more information about data citation.
+Data statement
+To foster transparency, we encourage the authors to state the availability of your data in your submission. This may be a requirement of your funding body or institution. If your data is unavailable to access or unsuitable to post, the authors will have the opportunity to indicate why during the submission process, for example, by stating that the research data is confidential. The statement will appear with your published article on ScienceDirect.
+Submission
+Submission to this journal proceeds totally online. The EDITORIAL MANAGER online submission system( https://www.editorialmanager.com/ijtst/default1.aspx)guides the authors stepwise through the process of entering article details and uploading of files. The authors will be guided stepwise through the creation and uploading of the various files. Prepare at least the following files in Word document format:
+Cover letter
+Conflict of Interest statement (Acknowledgements and Declarations, may be copied from the manuscript file)
+Although the contents of the title page and the conflict of interest statement have appeared in th manuscript file and count towards the 22-page limit, the authors are required to prepare a separate title page and a separate conflict of interest statement and upload them during the submission process.
+The submitting author is required to answer a series of questions to confirm that:
+Funding source has been acknowledged.
+The materials have not been published or being considered for publication elsewhere.
+All authors have read and approved the manuscript.
+The manuscript has section, page and line numbers.
+A4 of letter size paper has been used with 25 mm or 1 inch margins on all edges.
+The texts are types in single space, with font Times Roman font size 12 or equivalent.
+The lines are numbered from 1 at the top of the title page and increased continuously to the end.
+The full name and affiliation of all the authors have been provided in the title page.
+Only the email address of the corresponding author is will be published and it must be a professional mail box.
+In addition, the submitting author is required to enter (type) separately a statement of intellectual contribution and a statement of broader impacts.
+The online submission system automatically converts and combines all source files to a single Adobe Acrobat PDF version of the article, which is used in the peer-review process. Please note that even though manuscript source files are converted to PDF at submission for the review process, these source files are needed for further processing after acceptance. All correspondence, including notification of the Editor-in-Chief's decision and requests for revision, takes place by e-mail and via the author's homepage, removing the need for a hard-copy paper trail. If you are unable to provide an electronic version, please contact the editorial office/journal prior to submission:
+Email:ijtst@tongji.edu.cn
+telephone: +86-021-69583904
+ORCiD ID: Our journal supports the use of ORCiD ID. Authors are encouraged to provide ORCiD ID at submission.
+Peer Review Policy
+This journal operates a single blind review process. All contributions will be initially assessed by an Editor-in-Chief and if necessary an Associate Editor for suitability to the journal. This suitability determination includes contents, language, format and plagiarism checks. Contributions found to be unsuitable will be rejected without review. A suitable submission is then sent by an Associate Editor to a minimum of two independent anonymous reviewers. Upon receiving the review comments, the Associate Editor recommends the publication decision (reject, major revision, minor revision, or accept) to the Editor-in-Chief. The Editor-in-Chief makes the final decision. More information on types of peer review.
+1.All manuscripts would be firstly checked by Editor-in-Chief. Any papers fail to meet the basic standard of the journal would be desk rejected for reasons like out of scope, ethic issues, high similarities, etc. Then, Editor-in-Chief would reassign selected papers to an Associate Editor.
+2.Associate Editor would invite multiple reviewers to review this paper.
+3.After at least 2 reviewers give their reviews and comments, Associate Editor would provide feedbacks based on review comments to the authors including his own review.
+4.When author submits the revised manuscript, Associate Editor will check and recommend a decision. Then, Editor-in-Chief would make final decision.
+5.For submissions from Editor-in-Chief, Associate Editors, Guest Editor(s), and other journal Board members, and authors who have conflicts of interest with them, we ensure that the paper is handled confidentially by a different team member.
+6. For submissions to Special Issues, if there are conflicts of interest between the GE(s) and authors, the submissions will be handled by another Editor from Editorial Board who will manage the peer review process and make the decision whether to accept or reject the paper after peer review.
+Revision
+Authors of manuscripts that have received the "revise" publication decisions are invited to re-submit the revised manuscripts for further consideration. The revised manuscript should be accompanied by an Author Response Statement, which contains (1) the point-by-point replies to all the review comments; and (2) all the changes that have been made between the original and the revised versions of the manuscript. The authors are strongly encouraged to use the template provided by this journal when typing the Author Response Statements. They are not expected to agree with all comments. Quite often, the review comments are contradictory. If an author disagrees with a review comment, he/she should provide a good explanation supported with data, evidence, or a reference. The decision to send the revised submission for another round of review, and the selection of the reviewers will be made by the Editor-in-Chief and the Associate Editor. For external re-review cases, the Associate Editor recommends the publication decision (reject, major revision, minor revision or accept) to the Editor-in-Chief. The Editor-in-Chief makes the final decision. For manuscripts that have minor revisions, the Editor-in-Chief and the Associate Editor may make publication decisions (reject, major revision, minor revision or accept) without an external review.
+Preprint references
+Where a preprint has subsequently become available as a peer-reviewed publication, the formal publication should be used as the reference. If there are preprints that are central to your work or that cover crucial developments in the topic, but are not yet formally published, these may be referenced. Preprints should be clearly marked as such, for example by including the word preprint, or the name of the preprint server, as part of the reference. The preprint DOI should also be provided.
+After acceptance
+Proofs
+One set of page proofs (as PDF files) will be sent by e-mail to the corresponding author or, a link will be provided in the e-mail so that authors can download the files themselves. Elsevier now provides authors with PDF proofs, which can be annotated; for this the corresponding author will need to download the free Adobe Reader, version 9 (or higher). Instructions on how to annotate PDF files will accompany the proofs (also given online). The exact system requirements are given at the Adobe site. If the authors do not wish to use the PDF annotations function, they may list the corrections (including replies to the Query Form) and return them to Elsevier in an e-mail. Please list the corrections quoting section, page and line numbers. If, for any reason, this is not possible, then mark the corrections and any other comments (including replies to the Query Form) on a printout of the proof and scan the pages and return via e-mail. Please use this proof only for checking the typesetting, editing, completeness, and correctness of the text, tables, and figures. Significant changes to the article as accepted for publication will only be considered at this stage with permission from the Editor-in-Chief. Elsevier will do everything possible to get the article published quickly and accurately. It is important to ensure that all corrections are sent back to us in one communication: please check carefully before replying, as inclusion of any subsequent corrections cannot be guaranteed. Proofreading is solely the authors responsibility.
+Offprints
+The corresponding author will be notified and will receive a link to the published version of the open access article on ScienceDirect. This link is in the form of an article DOI link, which can be shared via email and social networks.
+Author inquiries
+Author Inquiries
+Visit the Elsevier Support Center to find the answers you need. Here you will find everything from Frequently Asked Questions to ways to get in touch.
+You can also check the status of your submitted article or find out when your accepted article will be published.
+Stay Informed
+Register your interest and receive email alerts tailored to your needs. Sign up below.
+First name *
+Surname *
+Email address *
+Subject area *
+KeAi may contact you to share the latest updates about products, services, promotions, and events. If you do not wish to receive such messages, please check this box.

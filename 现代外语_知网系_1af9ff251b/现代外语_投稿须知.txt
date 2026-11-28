@@ -1,0 +1,91 @@
+期刊: 现代外语
+来源: https://xdwy.cbpt.cnki.net/EditorGN/PromptPageInfo.aspx?t=v&c=1
+标题: 投稿须知
+
+投稿须知
+投稿指南下载.doc
+投稿指南
+一、本刊稿约
+1. 《现代外语》为语言学与应用语言学学术期刊，由教育部人文社科重点研究基地——外国语言学及应用语言学研究中心承办，《现代外语》编辑部负责编辑，每年六期(2014年起改为双月刊)。
+2. 欢迎以下领域的理论性、实证性和综述性论文：理论语言学、语音学与音系学、句法学、语义学、语用学、社会语言学、功能语言学、心理语言学、认知语言学、语言习得、语言教学、语言测试、计算语言学、语料库语言学、法律语言学、词典学等。也欢迎介绍相关学科研究的前沿动态或综述、新书(最近2年内)评介。
+3. 研究类文稿控制在9000字左右；前沿动态/综述类文稿8000字内；书评类文稿不超过4500字。
+4. 尤其欢迎具有独到见解的原创性研究。
+5. 稿件审选及录用说明：
+(1) 参照国际惯例，严格实行同行专家匿名评审制度，并根据匿名评审意见决定录用与否。
+(2) 力求高效率处理稿件。投稿3个月之内若未接到稿件修改意见或录用通知，作者可自行处理。
+6. 对录用的稿件，本刊不付稿酬。届时将寄送作者该刊2份。
+7. 不向作者收取任何费用，如有疑问请直接联系本刊编辑部
+二、主要栏目
+1. 语言学：涉及语言学的主要分支研究。
+2. 二语研究及其应用：涉及二语或外语方面的相关研究，如语言习得、语言测试、语言教学与学习、教师发展等研究。
+3. 前沿研究及综述：涉及学科研究的前沿动态、最新发展趋势、研究综述等。
+4. 书刊评介：对近2年内的语言学外文原版专著进行内容介绍和评价，需突出重点及新兴信息，避免面面俱到。
+三、本刊稿件格式
+1. 文稿结构
+(1) 中文题目、单位和中文作者姓名、中文提要、中文关键词(3~5个)；英文题目、英文作者单位、英文提要。
+(2) 正文
+(3) 参考文献
+(4) (附录)
+(5) 课题或项目的名称及编号：采用首页脚注形式，注明课题的具体名称及其编号，如：本研究为国家哲学社科基金一般项目“中国大学生跨文化能力综合评价研究”(10BYY091)的阶段性成果。
+2. 文章标题、作者单位与姓名、中文提要、关键词格式
+(1)文章标题加粗，楷体3号，居中。作者单位(楷体小4号)和姓名(楷体4号)居中。中文提要和关键词两个名称使用黑体小5号，内容则使用楷体小5号。
+3. 正文格式
+(1) 正文使用5号字。中文内容用宋体(各级标题参照下款规定)，外文内容和数字皆用Times New Roman字体。图表的标题用5号字，内容则用小5号字。表格的标题置于表格之上，图的标题则置于图的下方。
+(2) 正文章节各类标题均独占一行，左边顶格排版，一律用阿拉伯数字(从1开始)表示，形式为：1. 1.1 1.1.1 …… 2. 2.1 2.1.1 ……。本刊只接受三级以内小标题。一级小标题使用加粗黑体5号，与前边内容空一行。二级小标题用黑体5号，三级小标题用仿宋5号。二级和三级标题上下不空行。
+(3) 正文脚注用宋体6号, 外文用Times New Roman字体。仅限于必要的脚注，须确保脚注和相应的上标保持在同一页。本刊不接受尾注形式。
+(4) 非中文姓氏一律使用外文原文。
+(5) 例句编号用(1)或(1)a、(1)b的形式。中文例句一律使用楷体字。
+(6) 重要术语如属首次在国内语言学期刊上出现，随后在括号中附上外文原文，但同一术语不要重复出现。
+4. 括号要求
+正文、文尾、脚注等中的所有括号，无论其中的内容是外文还是中文，一律采用英语格式(Times New Roman)下的括号。中文提要和正文的数字编号(例句编号(1)、(2)等除外)形式为：1) ……；2) ……。
+5. 文内引用文献和文尾参考文献的格式
+(1) 文内引用文献
+A. 文内夹注的参考文献放在括号内，按出版年份先后排列，外文文献在前，中文文献在后，各文献之间采用分号间隔。
+B. 作者名与年份之间空一格、不加逗号，如(Chomsky 1991)、(Wilson 1991: 28-80)、(Adams 1990; Bates & MacWhinney 1982, 1989)、(王力 1982；赵元任 1979；王贵、欧家明 2013)。
+C. 外文文献涉及双作者的，姓氏之间使用 & 连接，如(Jackson & Thompson 1993)，中文文献使用两者的完整姓名，用顿号连接，如(陈达来、肖鹏飞 2010)。
+D. 三个作者以上的，外文文献使用et al.，如(Miao et al. 1984)，中文文献则采用汉字“等”，如(金大来等 1998)。
+(2) 文末参考文献
+A. 参考文献按照姓氏字母次序排列，外文文献在前，中文文献在后。无需数字序号。如果一个文献内容超出一行，则第二行开始右缩进四个西文字符（或两个中文汉字）排版。
+B. 文末参考文献所涉及的作者或编者，不论数目多少，一律全部列出。单作者或编者的外文文献，姓氏在前，后跟名字的首字母(如Thompson, R)，中文文献则一律使用完整姓名。外文文献中两个以上作者或编者之间统一使用& (不用and)，如(Bates, R. & S. MacWhinney)，中文文献则统一使用顿号，如(史地夫、金磊、王晖)。文末外文文献涉及多个作者时，第一个作者姓氏排前，后边跟名字的首字母，后边作者均先排列名字的首字母，再跟姓氏，如(Herdina, P., U. Jessner & S. Flynn)。文末外文论文集分两种情况：1）论文集为独立文献时，第一编者姓氏排前，后边跟名字的首字母，其余编者名字的首字母排前，后边跟姓氏，如(Bussmanna, H. (ed.). 或(Flynn, S. & M. Johnnson (eds.).)；2) 当文献为论文集析出论文时，该论文集的编者不论多少，均为名字的首字母排前，后跟姓氏，如(In H. Bussmanna (ed.). 或 (In S. Flynn & M. Johnnson (eds.).)。
+C. 文末参考文献，中文用宋体，小5号，外文用Times New Roman字体。外文文献在前，以作者姓氏的字母为序；中文文献在后，以作者姓氏的中文拼音为序。
+D. 文献类型的字母标识：[M]为专著，[C]为论文集，[A]为论文集中的论文，[N]为报刊文章，[J]为期刊文章，[P]为未出版或未发表的会议论文，[OL]为网络论文，[D]为硕博士学位论文，[R]为报告，[CP]为计算机程序，词典为[Z]。文献标识字母皆使用Times New Roman字体。
+E. 英文专著名、英文论文集名、英文期刊名、英文词典、(英文)硕博士学位论文名等采用斜体，且实词首字母需大写，但英文论文集和英文期刊两者中的论文名只需第一个单词的首字母大写；报刊文章、报告、计算机程序、会议论文和网上论文的名称只需第一个单词大写首字母。
+F. 英文主副标题之间用冒号连接，中文主副标题则用破折号连接。
+G. 中文专著名、中文论文集名和中文期刊名都不加书名号(《》)。
+详见以下各类“参考文献样例”：
+(专著类)
+Adams, M. J. 1990. Beginning to Read: Thinking and Learning about Print [M]. Cambridge: MIT Press.
+Biber, D., S. Johansson, G. Leech, S. Conrad & E. Finegan. 2000. Longman Grammar of Spoken and Written English [M]. Beijing: Foreign Language Teaching and Research Press.
+Sperber, D. & D. Wilson. 1995. Relevance: Communication and Cognition [M]. Oxford: Basil Backwell.
+王艾录、司富珍，2002，语言理据研究[M]。北京: 中国社会科学出版社。
+(期刊类)
+Juel, C., P. Griffith & P. Gough. 1986. Acquisition of literacy: A longitudinal study of children in first and second grade [J]. Journal of Educational Psychology 78(4): 243-255.
+Lee, K. Y. S., S. N. Chiu & C. A. van Hasselt. 2002. Tone perception ability of Cantonese-speaking children [J]. Language and Speech 45(4): 387-406.
+邓思颖，2002，经济原则和中文没有动词的句子[J]。现代外语(3): 1-13。
+(译著类)
+贝内特.哈克著，张立等译，2008，神经科学的哲学基础[M]。杭州：浙江大学出版社。
+(论文集类)
+Hampe, B. (ed.). 2005. From Perception to Meaning: Image Schemas in Cognitive Linguistics [C]. Berlin: Mouton de Gruyter.
+Glynn, D. & K. Fischer (eds.). 2010. Quantitative Methods in Cognitive Semantics: Corpus-driven Approaches [C]. Berlin: Mouton de Gryuter.
+Anderson, R. & P. Pearson. 1984. A schema-theoretic view of basic processes in reading comprehension [A]. In P. Pearson (ed.). Handbook of Reading Research [C]. New York: Longman, 255-291.
+Bryant, P. E. & U. Goswami. 1987. Phonological awareness and learning to read [A]. In J. R. Beech & A. M. Colley (eds.). Cognitive Approach to Reading [C]. New York: Wiley, 213-243.
+伍铁平，1990，术语的模糊性和语言规律[A]。杨自俭、李瑞华(编)，英汉对比研究论文集[C]。上海: 上海外语教育出版社，179-188。
+(学位论文)
+Zou, K. 1995. The Syntax of the Chinese BA-Construction and Verb Compounds [D]. PhD. dissertation, University of Southern California.
+(计算机程序)
+McNamara, D., M. Louwerse & A. Graesser. 2002. Coh-Metrix: Automated Cohesion and Coherence Scores to Predict Text Readability and Facilitate Comprehension [CP]. Memphis: Institute for Intelligent Systems, University of Memphis.
+(研究报告)
+Cumming, A., R. Kantor, K. Baba, K. Eouanzoui, U. Erdosy & M. James. 2006. Analysis of discourse features and verification of scoring levels for independent and integrated prototype written tasks for the new TOEFL test [R]. TOEFL: Monograph Report No. 30.
+(会议论文)
+Wu, F., T. Haskell & E. Andersen. 2006. The interaction of lexical, syntactic, and discourse factors in online Chinese parsing: Evidence from eye-tracking [P]. Presented at the 19th Annual CUNY Conference on Human Sentence Processing. New York: CUNY Graduate School and University Center.
+(网上论文)
+Sanders, N. 2003. Opacity and sound change in the Polish lexicon [OL]. http://sanders.phonologist.org/diss.html.
+四、网络投稿步骤
+1. 在左上角“在线办公系统”中点击“作者投稿”。如果是初次投稿，请先注册，记住“用户名”和“密码”，以便作者再投稿和查询稿件处理进程。
+2. 按照提示进行操作。因为实行稿件处理的全程匿名制度，因此投稿时请删除文内的作者中英文个人信息，包括通讯地址等，审稿通过后再添加，否则会被退回重投。
+五、审稿流程和时间（假期除外）
+本刊不以职称、学历、单位等标准判定论文质量，继续实行“同行专家匿名评审度”。具体流程及大致时间包括：
+1. 一审（1-2周）：退稿或退修/修改再投（进二审），或同行专家外审
+2. 二审（1-2周）：退稿或退修/修改再投（再二审），或同行专家外审
+3. 同行专家外审（2周-1月左右）：修改发表，或修改再审/复审，或退稿
+4. 编辑部终审意见+通知作者（1周）

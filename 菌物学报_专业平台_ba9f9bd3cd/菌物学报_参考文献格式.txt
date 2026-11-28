@@ -1,0 +1,80 @@
+期刊: 菌物学报
+来源: https://manu40.magtech.com.cn/Jwxb/CN/column/column9.shtml
+标题: 参考文献格式
+
+模态框（Modal）标题
+在这里添加一些文本
+模态框（Modal）标题
+中文 | English
+Home
+期刊主页
+电子期刊
+出版伦理
+MENU
+关于期刊
+期刊介绍
+编委会
+开放获取政策
+期刊荣誉
+数据收录
+影响因子
+广告服务
+联系我们
+投稿指南
+征稿简则
+参考文献格式
+综述要求
+数据汇交
+科学名称的规范用法
+作者贡献角色分类
+下载中心
+版权协议
+论文模板
+在线期刊
+最新录用
+当期目录
+过刊浏览
+阅读排行
+下载排行
+引用排行
+读者服务
+期刊订阅
+E-mail Alert
+参考文献格式
+一、文内参考文献的引用格式：
+一位作者：戴芳澜（1979）或 （戴芳澜 1979）；
+两位作者：庄剑云和魏淑霞（1994）、（Arthur & Cummins 1936）、（庄剑云和魏淑霞 1994）；
+三位作者（含）以上：戴玉成等（2007）、（戴玉成等 2007）、（Smith et al. 1981）。
+二、文后参考文献的排列格式：
+中文投稿：文后中文参考文献采用中-英文双语表示。
+英文投稿：中文参考文献只需英文表述。
+文内文献排序规则：按出版年代由低到高排序，同年文献按照作者姓氏字母顺序升序排列。
+文后文献排序规则：按照作者姓氏字母升序排列，相同作者的同年文献用a，b，c…..标出。
+20位作者的文献需列出全部作者，超过20位作者的文献之列出前3位作者，其余用“等”或“et al.”表示。
+英文文献的期刊名称用全称并正体表示。
+例：
+1. [期刊] 作者，年份. 文题名. 刊名，卷号（期号）: 起止页码（英文刊名需写全称并正体，每词首字母大写）
+例：Batra LR, Korf RP, 1959. The species of Ciborinia pathogenic to herbaceous angiosperms. American Journal fo Botany, 46: 441-450
+2. [专著] 作者，年份. 书名. 版本（第一版可省略）. 出版地: 出版者. 页数
+例：戴芳澜，1979. 中国真菌总汇. 北京: 科学出版社. 1-1527
+3. [论文集] 文题只第一个词首字母大写。
+例：Abell BC, Tagg RC, 1954. Enzyme catalyzed cellular transaminations. In: Round AF (ed.) Advances in enzymology. Vol 2. Academic Press, New York. 125-147
+4. [博士论文]
+黄乾明，2006. 漆酶高产菌株的诱变选育及其酶的分离纯化、性质和基因克隆研究. 四川农业大学博士论文. 8-10
+Huang QM, 2006. Screening of inductive-mutant strain with high yied of laccase, and the purification, characterization and gene cloning of the enzyme from the mutant. PhD Dissertation, Sichuan Agricultural University, Ya‘an. 8-10 (in Chinese)
+5. [硕士论文]
+朱海潇，2008. 食用菌产漆酶能力的比较及漆酶性能的研究. 福建农林大学硕士论文，福州. 23
+Zhu HX, 2008. The comparison for the capacity of laccase production in various types of edible fungi and the characterization of laccase. MS Thesis, Fujian Agricultural and Forestry University, Fuzhou. 23 (in Chinese)
+6. [专利]
+柴一秋，韦忠民，陈祝安, 厉晓腊，刘又高，王根锷，2005. 蝉拟青霉新菌株的人工培养及其镇痛化合物的提取与利用：CN1614003A．2012-03-04
+Chai YQ, Wei ZM, Chen ZA, Li XL, Liu YG, Wang GE, 2005. Culture of Chansi mould strains and extraction and use of anagentic compound therefrom: China, CN1614003A. 2012-03-04 (in Chinese)
+发布日期：2018-12-06 浏览： 17011
+地址：北京市朝阳区北辰西路1号院3号 中国科学院微生物研究所B401
+邮编：100101
+稿件咨询电邮：jwxt@im.ac.cn
+稿件咨询电话：+86-10-64807521
+广告电邮：gg@im.ac.cn 发行电邮：bjb@im.ac.cn
+广告/发行电话：+86-10-64806142
+科微学术
+菌物学报
+版权所有 © 中国科学院微生物研究所《菌物学报》编辑部

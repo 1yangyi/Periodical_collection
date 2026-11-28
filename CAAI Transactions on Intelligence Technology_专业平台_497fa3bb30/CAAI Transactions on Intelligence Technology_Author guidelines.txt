@@ -1,0 +1,199 @@
+期刊: CAAI Transactions on Intelligence Technology
+来源: https://journal.hep.com.cn/caaitit/EN/guidelines
+标题: Author guidelines
+
+Home
+Journals
+Subscription
+Submission
+Metrics
+Top read articles on mendeley
+Editorial policy
+Open access
+About us
+Adv search
+About the journal
+Aims & scope
+Editorial board
+Cover gallery
+Browse
+Latest issue
+All volumes and issues
+Most accessed
+Most cited
+Authors & reviewers
+Online submisson
+Guidelines for authors
+Guidelines for authors
+1. Open Access
+All IET journals are Gold Open Access titles. Submissions will be subject to an APC if accepted and published in the journal. You can read more about APCs and whether you may be eligible for waivers or discounts, through your institution, funder, or a country waiver.
+There is no charge for submitting to IET journals.
+2. Special Issues
+Special issues of CAAI Transactions on Intelligence Technology highlight emerging topics within the field of engineering or pose interesting questions and offer new perspectives on an existing area of research.
+View our special issue calls for papers to submit your research or, if you are interested in submitting a special issue proposal, read our guidelines here.
+3. Article Types
+The following article types are included in CAAI Transactions on Intelligence Technology:
+Original Research Paper
+Report of original research findings and data.
+Review
+Critically examines the body of research on a particular subject and give insights/informed opinions on the direction and future of the research field.
+Case Study
+Report on a specific instance of an interesting or particular phenomenon or instance related to research areas covered by a journal’s scope.
+Industry Article
+A report from industrial-based scientists undertaking R&D on a new technology, application or technique which may facilitate future product development.
+Commentary
+Critique of a paper published in the journal to which you are submitting. The authors of the paper that is being critiqued may also opt to write a Reply.
+Opinion
+Less formal in tone and style than a research or review article, expressing personal views of the author on a particular subject or theme. These are generally by invitation only.
+Perspective
+Perspectives discuss one or a cluster of recently published papers, or a specific technique or application relevant to the journal’s scope. It should include a discussion of the outlook, challenges, and opportunities.
+Perspectives are not like research articles – research articles describe novel findings that have been found as a result of research. A perspective is more like a review paper, however, it differs from a review paper because reviews look widely at the current state of knowledge, how it has changed and what the challenges are whereas a perspective takes a narrower focus, e.g. on a single paper or technique. By invitation only.
+4. Preparing Your Submission
+Once the submission materials have been prepared in accordance with the author guidelines, please follow the "Submit an article" link on each journal’s home page to ensure you submit your paper to the correct manuscript submission and peer review site.
+For help with submissions, please contact cqznjs@126.com.
+Article Preparation Support
+Wiley Editing Services offers expert help with English Language Editing, as well as translation, manuscript formatting, figure illustration, figure formatting, and graphical abstract design – so you can submit your manuscript with confidence.
+Also, check out our resources for Preparing Your Article for general guidance about writing and preparing your manuscript.
+Article Pre-Screening
+All papers must be written in English and are pre-screened to ensure that only the most significant are sent for review. Please ensure that your manuscript satisfies the following points:
+Originality: is the work scientifically rigorous, accurate and novel? Does the work contain significant additional material to that already published? Has its value been demonstrated?
+Motivation: does the problem considered have a sound motivation? Does the paper clearly demonstrate the scientific interest of the results?
+Referencing: has reference been made to the most recent and most appropriate work? Is the present work set in the context of the previous work?
+Clarity: is the English clear and well written? Poorly written English may obscure the scientific merit of your paper. Are the ideas expressed clearly and concisely? Are the concepts understandable?
+Journal-Specific Submission Information
+All manuscripts are expected to include thorough experimental or theoretical evaluation and give a comparative evaluation against relevant and state-of-the-art methods. Submissions not abiding by these minimum requirements may be returned to authors without being sent to review.
+Free Format Submission
+All IET Journals now offer Free Format submission for a simplified and streamlined submission process.
+Before you submit, you will need:
+Your manuscript: this should be a single editable file including text, figures, and tables, or separate files — whichever you prefer. All required sections should be contained in your manuscript, including abstract, introduction, methods, results, and conclusions. Figures and tables should have legends. References may be submitted in any style or format, as long as it is consistent throughout the manuscript. If the manuscript, figures or tables are difficult for you to read, they will also be difficult for the editors and reviewers. If your manuscript is difficult to read, the editorial office may send it back to you for revision;
+The title page of the manuscript, including statements relating to our ethics and integrity policies (see information on these policies below):
+Data availability statement;
+Funding statement;
+Conflict of interest disclosure;
+Ethics approval statement;
+Patient consent statement;
+Permission to reproduce material from other sources;
+Clinical trial registration.
+Your co-author details, including affiliation and email address;
+An ORCID ID, freely available at https://orcid.org.
+Your manuscript must not be under consideration for any other publication while it is being considered by an IET Journal.
+If your manuscript was previously a conference paper, you must include details of how the manuscript has been expanded.
+If you are invited to revise your manuscript after peer review, the journal will also request the revised manuscript to be formatted according to journal requirements as described below.
+Preprint Policy
+Please find the Wiley preprint policy here.
+All IET journals accept articles previously published on preprint servers.
+All IET journals will consider review articles previously available as preprints. You are requested to update any pre-publication versions with a link to the final published article. You may also post the final published version of the article immediately after publication.
+Data Sharing and Data Availability
+IET journals expects data sharing. Please review Wiley’s Data Sharing policy where you will be able to see and select the data availability statement that is right for your submission.
+Data Citation
+Please review Wiley’s Data Citation policy.
+Funding
+You should list all funding sources in the Acknowledgments section. You are responsible for the accuracy of their funder designation. If in doubt, please check the Open Funder Registry for the correct nomenclature.
+Authorship
+For a complete overview of our Ethical Policies for the IET journals, please click here.
+The IET believes in clear, transparent and verifiable authorship. All listed authors should have contributed to the manuscript substantially and have agreed to the final submitted version. Where possible, please use institutional email addresses for all authors listed on your manuscript. If we are unable to confirm the identity of any of the authors, you may be asked to supply further information, including but not limited to: your institutional email address and web page (if you have one), your Google Scholar page or a link to your publication history. If we are unable to verify the identities of authors, your paper may be withdrawn or rejected.
+Authorship should be limited to those who have made a significant contribution to the conception, design, execution or interpretation of the reported study. Others who have made a significant contribution must be listed as co-authors. The submitting author must ensure that all the authors have seen and agreed to the submitted version of the manuscript and their inclusion of names as co-authors.
+The contributions of each author to the work must now be indicated as part of the submission process, and you will be asked to add Author Contributions using CRediT Taxonomy. Each author on a paper may have one or more CRediT contribution roles, but having a role described by the taxonomy does not automatically qualify someone as an author. Please review the Best Practice Guidelines on Research Integrity and Publishing Ethics.
+The IET does not recognise AI tools as authors or able to fulfil authorship criteria, as they cannot take responsibility for the submitted work. If AI tools are used in the preparation of any part of the paper, this should be clearly disclosed in the appropriate section of the paper, and authors take full responsibility for the paper in its entirety.
+Authorship Change Requests
+Every effort should be made to ensure that the authorship of your paper is clear, correct and verifiable from submission through to acceptance. Any changes to the listed authors on a paper must be done via an Authorship Change Form which can be requested from the Editorial Office. No requests to amend the authorship can be made after the manuscript has been accepted. Any changes to authorship between submission and acceptance should be approved by all authors (including any authors to be removed) and justified.
+All requests made will be assessed by the Editorial Office and Editor, and we may contact the authors' institutions to confirm the contribution of each author.
+ORCID
+All IET journals require ORCID. Please refer to Wiley’s resources on ORCID.
+Reproduction of Copyright Material
+If excerpts from copyrighted works owned by third parties are included, credit must be shown in the contribution. It is your responsibility to also obtain written permission for reproduction from the copyright owners. For more information visit Wiley’s Copyright Terms and Conditions FAQ.
+The corresponding author is responsible for obtaining written permission to reproduce the material "in print and other media" from the publisher of the original source, and for supplying Wiley with that permission upon submission.
+Title Page
+The title page should contain:
+A brief informative title containing the major key words. The title should not contain abbreviations (see Wiley's best practice SEO tips);
+A short running title of less than 40 characters;
+The full names of the authors;
+The author's institutional affiliations where the work was conducted, with a footnote for the author’s present address if different from where the work was conducted;
+Acknowledgments.
+Main Text File
+Manuscripts should be uploaded either as a single editable document (containing the main text, tables and figures), or with figures and tables provided as separate files.
+The main manuscript text file should be submitted in Microsoft Word (.doc or .docx) or LaTeX (.tex) format and include:
+A short informative title containing the major key words. The title should not contain abbreviations;
+The full names of the authors with institutional affiliations where the work was conducted, with a footnote for the author’s present address if different from where the work was conducted;
+Acknowledgments;
+An unstructured abstract;
+Up to seven keywords;
+The main body — formatted as introduction, materials & methods, results, discussion, conclusion;
+References — all references should be cited in the article text;
+Tables (each table complete with title and footnotes);
+Figures — figure legends must be added beneath each individual image during upload and as a complete list in the text.
+All tables and figures should be cited in the text.
+LaTeX Guidelines for Submission
+For authors requiring a LaTeX template, we strongly recommend reviewing Wiley’s New Journal Design (NJD) LaTeX Authoring Template.
+LaTeX users must use the File Designation "Main Document" from the dropdown box. For reviewing purposes, you should upload a single .pdf that you have generated from your compiled source files.
+Should your manuscript reach revision stage, figures and tables must be provided as separate files. The main manuscript file can be submitted in LaTeX (.tex) format.
+When submitting your revision, you must still upload a single .pdf that you have generated from your revised source files. You must use the File Designation "Main Document" from the dropdown box. In addition, you must upload your TeX source files.
+For all your source files you must use the File Designation "Supplemental Material not for review". Previous versions of uploaded documents must be deleted. If your manuscript is accepted for publication, we will use the files you upload to typeset your article within a totally digital workflow.
+Post-Acceptance LaTeX Guidelines
+Please check that you have supplied the following files for typesetting post-acceptance:
+PDF of the finalized source manuscript files compiled without any errors;
+The LaTeX source code files (text, figure captions, and tables, preferably in a single file), BibTeX files (if used), any associated packages/files along with all other files needed for compiling without any errors. This is particularly important if authors have used any LaTeX style or class files, bibliography files (.bbl, .bst. .blg) or packages apart from those used in the NJD LaTeX Template class file;
+Electronic graphics files for the illustrations in Encapsulated PostScript (EPS), PDF or TIFF format. Authors are requested not to create figures using LaTeX codes.
+Reference Style
+This journal uses the Chicago reference style. Review our reference style guidelines prior to submission.
+As this journal offers Free Format submission, however, this is for information only and you do not need to format the references in your article. This will instead be taken care of by the typesetter.
+Figures and Supporting Information
+Figures, supporting information, and appendices should be supplied as separate files. You should review the basic figure requirements for manuscripts for peer review, as well as the more detailed post-acceptance figure requirements. View Wiley’s FAQs on supporting information.
+5. Peer Review and Decisions
+CAAI Transactions on Intelligence Technology operates under a double-anonymized peer review model, i.e., the reviewers do not know the identity of authors, and vice versa.
+Papers will only be sent to review if the Editor-in-Chief (or designated Editor) determines that the paper meets the appropriate quality and relevance requirements.
+In-house submissions, i.e. papers authored by Editors or Editorial Board members of the title, will be sent to Editors unaffiliated with the author or institution and monitored carefully to ensure there is no peer review bias.
+The final decision on whether a submission is accepted for publication is made by the Editor-in-Chief. This is applicable to all submissions, including those for special issues.
+Wiley's policy on the confidentiality of the review process is available here.
+6. IET Journal Transfer Network
+Helping you find a home for your paper through the IET’s efficient transfer network: In the event that your submission to CAAI Transactions on Intelligence Technology is unsuccessful, the Editor may offer you the opportunity to transfer your manuscript, along with any reviews, to another related title within the IET portfolio for consideration. The IET is committed to furthering open research within the engineering community, and to helping your paper to reach a wide, global audience as quickly as possible. More information about the benefits of manuscript transfer is available here, along with instructions about what to do next if you would like to take advantage of this opportunity.
+7. Guidelines on Publishing and Research Ethics in Journal Articles
+For a complete overview of our Ethical Policies for the IET journals, please click here.
+All IET journals require that you include in the manuscript details IRB approvals, ethical treatment of human and animal research participants, and gathering of informed consent, as appropriate. You will be expected to declare all conflicts of interest, or none, on submission. Please review Wiley’s policies surrounding human studies, animal studies, clinical trial registration, biosecurity, and research reporting guidelines.
+This journal follows the core practices of the Committee on Publication Ethics (COPE) and handles cases of research and publication misconduct accordingly.
+This journal uses iThenticate’s CrossCheck software to detect instances of overlapping and similar text in submitted manuscripts. Read Wiley’s Top 10 Publishing Ethics Tips for Authors and Wiley’s Publication Ethics Guidelines.
+8. Copyright and Licensing
+All IET journals are Gold Open Access journals: authors of accepted papers pay an Article Publication Charge and their papers are published under a Creative Commons license. The IET journals use the CC-BY, CC-BY-NC, CC-BY-ND and CC-BY-NC-ND Creative Commons Licenses. Note that certain funders mandate a particular type of CC license be used.
+Authors can deposit all versions of their manuscript in an institutional repository, or other repository of their choice, without embargo.
+9. After Acceptance
+Wiley Author Services
+When an accepted article is received by Wiley’s production team, the corresponding author will receive an email asking them to login or register with Wiley Author Services. You will be asked to sign a publication license at this point as well as pay for any applicable APCs.
+Proofs
+Authors will receive an e-mail notification with a link and instructions for accessing HTML page proofs online. Authors should also make sure that any renumbered tables, figures, or references match text citations and that figure legends correspond with text citations and actual figures. Proofs must be returned within 48 hours of receipt of the email.
+Article Promotion Support
+Wiley Editing Services offers professional video, design, and writing services to create shareable video abstracts, infographics, conference posters, lay summaries, and research news stories for your research – so you can help your research get the attention it deserves.
+Cover Image Submissions
+This journal accepts artwork submissions for Cover Images. This is an optional service you can use to help increase article exposure and showcase your research. For more information, including artwork guidelines, pricing, and submission details, please visit the Journal Cover Image page.
+Author Name Change Policy
+In cases where authors wish to change their name following publication, Wiley will update and republish the paper and redeliver the updated metadata to indexing services. Our editorial and production teams will use discretion in recognizing that name changes may be of a sensitive and private nature for various reasons including (but not limited to) alignment with gender identity, or as a result of marriage, divorce, or religious conversion. Accordingly, to protect the author’s privacy, we will not publish a correction notice to the paper, and we will not notify co-authors of the change. Authors should contact the journal’s Editorial Office with their name change request.
+Graphical TOC/Abstract
+The IET journals’ tables of contents/abstracts will be presented in graphical form with a brief abstract.
+The table of contents entry must include the article title, the authors' names (with the corresponding author indicated by an asterisk), no more than 80 words or three sentences of text summarising the key findings presented in the paper and a figure that best represents the scope of the paper.
+Table of contents entries should be submitted as "Supplementary material for review" during the initial manuscript submission process.
+The image supplied should fit within the dimensions of 50mm x 60mm and be fully legible at this size.
+10. Editorial Office Contact Details
+If you need any further information or help with your submission, please contact cqznjs@126.com.
+Author Guidelines last updated: November 2023
+Pubdate:  Viewed:
+Latest issue
+2026-10-01 2026, Volume 11 Issue 5
+View all volumes and issues
+Cover illustration
+Download cover
+Submit manuscript
+Latest articles
+Most accessed
+Collections
+https://doi.org/
+View all articles
+https://doi.org/
+View all articles
+View all collections
+Subscription
+E-mail alert
+Subscribe to our RSS content
+Journal updates More
+Links
+ISSN 2468-6557 (Print)
+ISSN 2468-2322 (Online)
+CN 50-1239/TP

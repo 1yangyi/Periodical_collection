@@ -1,0 +1,106 @@
+期刊: 稀有金属
+来源: https://zxjs.cbpt.cnki.net/portal/journal/portal/client/news/zxjs_45d2220e-9880-4f06-995f-56f940e79f93
+标题: 《稀有金属》摘要撰写要求 2016-03-30 15:52:40
+
+稀有金属
+中文核心期刊
+首页 编委会介绍 期刊简介 投稿指南 作者须知 投审稿流程 出版伦理规范 编辑部公告 期刊征订 广告征订 联系我们 English
+进入后台管理系统
+《稀有金属》摘要撰写要求
+2016-03-30
+分享至：
+扫码分享到微信或朋友圈
+使用微信"扫一扫"功能。
+将此内容分享给您的微信好友或者朋友圈
+《稀有金属》严格按照Ei数据库文摘要求
+对于科技期刊的文章，文摘主要由三部分组成，即：研究的问题、过程和方法、结果。
+文摘只有写得正确，写的好, 才能起到帮助读者了解原文的作用。因此必须对文献进行认真的主题分析，找出文献的主题概念，正确地组织好这些主题内容，简明准确完整地写出文摘来。
+文摘最好要有具体内容，以下是三篇不成功的文摘：
+1. 通过实验方法研究含碳铁滴还原富氧化铁熔渣过程，根据实验现象分析含碳铁滴在熔渣中的行为变化规律，由此提出强化渣铁还原反应的有效措施。
+如果有可能，要把具体的“熔渣过程”，“变化规律”和“强化渣铁还原反应的有效措施”写出来。
+2. 通过大量生产试验，利用喂丝法球化处理工艺生产出了铸造QT900-3超强球铁。生产实践表明：该法工艺先进，效果好。进行了相关的理论分析。
+该篇文摘可以修改为：
+利用喂丝法球化处理工艺生产出了铸造QT900-3超强球铁。喂丝设备为ZW-1A喂丝机，芯线采用CWZ-1珠光体球铁专用线，喂丝时，铁水控制在1530-1480℃之间，对喂丝工艺进行了理论分析。
+3. 对天铁高炉喷煤系统技术改造过程中有关问题的解决进行了分析和探讨，提出了喷煤技术发展方向的有关见解
+该篇文摘可以修改为：
+天铁原有高炉喷煤系统的不足主要表现在：喷吹罐底部各锥体下料不均匀，造成高炉各风口喷吹不均匀；喷吹罐底部喷吹口布置不合理；“负压式”混合器限制了喷吹能力的进一步提高；只能依靠罐压调节喷煤量，煤量波动大，不能准确调节；固气比低；不能进一步提高喷煤量。天铁于1996年至1998对三座高炉的喷煤系统进行了改造，技术改造的重点问题包括：改善喷吹系统压缩空气的质量，对喷吹罐进行局部改造，采用软连接，局部计量技术；对煤粉的分配精度进行改进；对喷煤支管实施喷吹情况检测。
+文摘长度一般不超过150 words。少数情况下允许例外，视原始文献而定。在不遗漏主题概念的前提下，文摘应尽量简洁。
+（一）. 缩短文摘方法：
+1. 取消不必要的字句：如 ”It is reported …” “Extensive investigations show that…”
+“The author discusses …” “This paper concerned with …” ；文摘开头的 ”In this paper,”
+一些不必要的修饰词，如“in detail”、“briefly”、 “here”、 “new”、 “mainly”也尽量不要。
+2. 对物理单位及一些通用词可以适当进行简化；
+3. 取消或减少背景信息（Background Information）；根据我们的经验，一篇文摘的背景信息如果过长或占文摘篇幅的比例过大，则往往伴随着对作者所做的工作描述过于笼统和简单。以下是几篇篇不成功的文摘：
+根据传统光学干涉原理研制出的相位调制型光纤传感器，其突出的优点是灵敏度高，但却只能进行相对测量，因此本文介绍了能实现绝对测量的全光纤白光干涉型光纤传感器及其检测技术，该技术基于白光干涉的绝对测量原理。
+该文摘用一半的篇幅介绍了背景信息(斜体字部分)，对自己的工作却只做了泛泛的介绍。
+类似的文摘还有:
+动力学环境是空间光学遥感器极其组件研制中不可忽视的一个重要因素，因为它会对整机或组件造成结构性的破坏，所以在其研制的不同阶段必须进行充分的动力学环境试验。空间光学系统是执行重要任务的子系统，在结构及其性能、工作精度要求、密封性、可靠性方面均有比较特殊的要求。组件乃至系统必须经历动力学环境试验的严格考核，而且必须在此基础上通过其它相关试验做进一步测试。针对空间光子组件及系统的特点和要求，对各种因素进行了综合研究并编制了各类组件的动力学环境试验大纲，同时对试验中的控制、监测、试验夹具安全等诸方面技术实施做了分析和探讨。
+纳米材料具有奇异结构和特异功能，使材料的电学、力学、磁学及光学性质发生了巨大的变化。本文综述了纳米材料的制备及纳米烧结方法，介绍了纳米材料科学研究的最新研究动向，纳米材料研究过程中遇到的问题，并对纳米材料的发展进行了展望。
+管成型以其易于实现零件的轻量化，强韧化，高效精确低耗的特点，而成为先进塑性成型技术发展的一个重要方向。管先进塑性加工技术的的诞生、应用和发展离不开对重要基础问题的研究和掌握。本文围绕管轴压精密成型和管精确弯曲领域的基础问题进行了研究。
+4. 限制文摘只表示新情况，新内容，过去的研究细节可以取消；
+5. 不说无用的话，如“本文所谈的有关研究工作是对过去老工艺的一个极大的改进”，
+“本工作首次实现了...”，“经检索尚未发现与本文类似的文献”等词句切不可进入文摘；
+6. 作者在文献中谈及的未来计划不纳入文摘；
+7. 尽量简化一些措辞和重复的单元，如：
+不用 而用
+at a temperature of at 250℃-300℃
+250℃ to 300℃
+_____________________________________________________
+at a high pressure at 2000 psig
+of 2000 psig
+_____________________________________________________
+at a high temperature at 1500℃
+of 1500 ℃
+_____________________________________________________
+discussed and studied discussed
+in detail
+____________________________________________________
+8． 文摘第一句应避免与题目（Title）重复。
+（二）. 文体风格
+1. 文摘叙述要完整，清楚，简明；
+2. 尽量用短句子并避免句形单调；
+3. 用过去时态叙述作者工作，用现在时态叙述作者结论；
+如 “The structure of dislocation cores in GaP was investigated by weak-beam electron microscopy. The dislocations are dissociated into two Shokley partials with separations of 80±10 and 40±10 A in the pure edge and screw cases respectively. The results show that...”
+4． 能用名词做定语不要用动名词做定语，能用形容词做定语就不要用名词做定语。
+例如：用measurement accuracy 不用 measuring accuracy
+用experimental results 不用 experiment results
+可直接用名词或名词短语作定语的情况下，要少用of 句型。
+例如 用measurement accuracy 不用 accuracy of measurement
+用camera curtain shutter 不用 curtain shutter of camera
+用equipment structure 不用 structure of equipment
+5. 可用动词的情况尽量避免用动词的名词形式；
+例如： 用 Thickness of plastic sheets was measured.
+不用 Measurement of thickness of plastic sheet was made.
+6. 注意冠词用法，不要误用，滥用或随便省略冠词。
+7. 避免使用一长串形容词或名词来修饰名词，可以将这些词分成几个前置短语，用连字符连接名词组，作为单位形容词（一个形容词）。
+如应用 The chlorine-containing propylene-based polymer of high meld index.
+代替 The chlorine containing high melt index propylene based polymer.
+8. 尽量用主动语态代替被动语态；
+9． 尽量用简短、词义清楚并为人熟知的词；
+10．慎用行话和俗语；
+11. 语言要简练，但不得使用电报型语言;
+如 Adsorption nitrobenzene on copper chromite investigation.
+应为 Adsorption of nitrobenzene on copper chromite was investigated.
+12. 文词要纯朴无华, 不多姿多态的文学性描述手法；
+13. 组织好句子，使动词尽量靠近主语； 例如：
+不用： The decolorization in solutions of the pigment in dioxane，which were exposed to 10 hr of UV irradiation，was no longer irreversible.
+而用： When the pigment was dissolved in dioxane，decolorization was
+irreversible after 10hr of UV irradiation.
+14. 删繁从简；
+如用 increased 代替 has been found to increase
+用 the results show 代替 from the experimental results, it can be concluded that
+15. 文摘中涉及其他人的工作或研究成果时，尽量列出他们的名字及文献出处；
+16. 文摘词语拼写，用英美拼法都可以，但在每篇文章中须保持一致。
+17. 文摘中不能出现“图××”、“方程××”和“参考文献××”等句子。
+其它几点注意事项：
+1． 不要用home made 表示“国产”这个概念，home made实际上表示的是“家庭制造”这一概念。
+2． 如果不会引起误解，可数名词尽量用复数。
+3． 注意中英文不同的表达方法。不要简单地逐字直译。例如，不要将because放在句首表达“因为”这一概念，because表示原因语气用在文摘中过强。不要用“XX are analyzed and studied(discussed)”。来直译“分析研究（讨论）”这一中文概念。用“XX are analyzed”就可以了。尽量不要使用not only…but also直译中文“不但”…“而且”这一概念，用and就行了。
+（三）. 文摘中的特殊字符
+特殊字符主要指各种数学符号、上下脚标及希腊字母，它们无法直接输入计算机，因此都需转成键盘上有的字母和符号。Ei对此有专门规定。希望在文摘中尽量少用特殊字符及由特殊字符组成的数学表达式。因为它们的输入极为麻烦，而且极易出错，影响文摘本身的准确性和可读性，应尽量不用，改用文字表达或文字叙述. 更复杂的表达式几乎难以输入, 应设法取消。
+（四）. 缩写字及首字母缩写词（Abbreviations and Acronyms）
+对那些已经为大众所熟悉的缩写词，如radar、laser、CAD等，可以直接使用。对于那些仅为同行所熟悉的缩略语，应在题目、文摘或键词中至少出现一次全称。
+本系统由中国知网提供技术支持 使用说明 技术支持: cb@cnki.net http://find.cb.cnki.net
+建议采用IE 10.0以上版本，1024*768分辨率浏览本页面
+备案号 京ICP备17050991号-1
+检 索 高级检索

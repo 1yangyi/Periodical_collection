@@ -1,0 +1,162 @@
+期刊: 图书情报知识
+来源: https://dik.whu.edu.cn/jwk3/tsqbzs/CN/column/column300.shtml
+标题: 格式规范
+
+关注公众知识状态 引领学科发展潮流
+期刊中心首页
+首页
+关于本刊
+作者指南
+出版道德声明
+期刊浏览
+联系我们
+English
+当期目录
+过刊浏览
+期刊简介
+编委会
+期刊订阅
+投审稿流程
+格式规范
+版权声明
+出版道德规范
+期刊相关政策
+格式规范
+2021年，《图书情报知识》对论文格式要求做了部分调整，主要包括：
+（1）正文图、表头增加英文译文；
+（2）中文参考文献增加英文译文；
+（3）被多次引用的同一文献标注方式发生变化。
+具体详情请参见本网页标红内容以及“下载中心”的论文模板。
+1投稿须知
+《图书情报知识》是国家一级学科“图书馆，情报与档案管理”综合性学术期刊，以”关注公众知识状态，引领学科发展潮流”的宗旨，致力于学术自由与创新，发表图书馆学、情报学领域及与其密切相关领域的原创性学术成果。本刊采取同行专家匿名评审的审稿方式。投稿论文的字数为1万~1.5万字。本刊为国家社科基金资助期刊，不向作者收取任何审稿费、版面费等费用。
+2版权声明
+本刊所发表论文被中国知网、维普期刊资源整合服务平台（维普数据库）、国家哲学社会科学学术期刊数据库等全文收录，同时在本刊官网上实行公开获取（OA）方式，作者文章著作权使用费及稿酬本刊一次性给付。凡不愿入选数据库或在本刊官网上进行OA的稿件，请在投稿时特别予以说明。
+3学术规范
+（1）论文须为作者原创成果，据实署名。尊重他人知识产权，引证文献须实事求是。
+（2）遵守基本写作、引文和注释规范。
+（3）本刊坚决抵制一稿多投、抄袭等学术不端行为；提交论文须保证没有被其他刊物受理评审或接受发表。
+4形式要求
+4.1论文结构顺序
+中文标题；作者姓名；作者单位、城市、邮编；中文摘要、关键词、分类号；英文标题；英文摘要、关键词；正文；基金项目；通讯作者；作者简介；参考文献；作者贡献说明；支撑数据。
+4.2摘要格式
+本刊采用结构性文摘，主要内容包括：目的/意义、研究设计/方法、结论/发现、创新/价值等内容，避免采用评论性和指示性的写法。
+4.3关键词
+关键词的选择应以最能代表文中核心内容、最为迅速、准确地搜索到该篇论文为原则，一般5-8个。
+4.4分类号
+采用《中图法》分类号，请参照《中图法》（第五版）。跨学科研究论文，需提供两个分类号。
+4.5序号格式
+采用 1、1.1、1.1.1层级格式，原则上不超过三级标题。若级数较多不适宜做标题时，可用（1）（2）（3）和①、②、③区分。
+4.6基金项目
+基金项目以脚注形式标注于论文首页，包括基金名称、项目名称和项目编号。基金数量至多两个，且须与文章内容相关。
+4.7通讯作者与其他作者简介
+要求以脚注形式于论文首页明确标注通讯作者信息，包括姓名，开放研究者与贡献者身份识别码（ORCID，可通过http://iauthor.cn申请），学位，职称，研究方向，E-mail。并由通讯作者负责稿件投稿过程中编辑部与作者沟通的一切问题，如稿件退修、审校、问题反馈等。其他作者简介以脚注形式标注于论文首页，包括姓名，ORCID，学位，职称，研究方向，E-mail。
+具体请参见“论文模板”（参见期刊网站首页右则“下载中心”）。
+5图表规范
+（1）文中图表需与论文内容密切相关，每个图表都应在文中有对应的说明，且在必不可少的情况下使用。
+（2）图表须标明序号、名称，如图1 ****，表1 *****。
+（3）引用图表，须在其下方注明出处；作者自行解决版权许可。
+（4）图表务必清晰。若图表在Word文档中显示不清楚，投稿时须以附件形式提供原始图表。
+6引文标注方法
+（1）引用文献，须在文中以上标方式标注，并在文末参考文献表中以顺序编码列出。文末参考文献均须在正文中有所引用。示例如下：
+……另一些则通过引经据典、整合不同知识资料来形成系统完整的回答内容，实现了知识的组合[1]。……
+（2）同一处引用多篇文献时，需在正文中将各篇文献序号在方括号内全部列出，各序号间用逗号分隔。如遇连续序号，可标注起讫序号。示例如下：
+2017年，两位学者[5-6]分别从不同的角度对79届ASIS&T年会进行详细评述……
+从知识本身属性来看，根据新古典主义经济学及其后的新经济增长理论[19-21]……
+（3）根据《信息与文献 参考文献著录规则》（GB/T 7714—2015）的相关规定，对多次引用同一著者的同一著作时，在正文中标注首次引用的文献序号，并在序号的“[]”外著录引文页码；对多次引用同一非著作类文献时，在正文中标注首次引用的文献序号。
+（4）参考文献中作者不超过3人的全部列出，3人以上只列出前3人，后加“，等”，外文用“，et al”。国外作者采用“姓+名缩写”形式，姓取全称首字母大写在前、名以各部分首字母大写缩写在后，后面不带点。
+（5）外文文献题名每个单词首字母大写（除定冠词、介词外）。
+（6）外文文献出处项每个单词首字母大写（除定冠词、介词外）。
+（7）《图书情报知识》在严格执行2015版国家标准（GB/T 7714-2015）《信息与文献 参考文献著录规则》的同时，要求所有中文参考文献均需加有英文译文，即将参考文献的中文部分同时译成英文并用括弧接排在中文之后。英文翻译须以参考文献源的英文为准，切勿自行另译。如果文献源处没有对应的英文，则需本着忠实原著的翻译原则自行翻译。
+具体请参见“论文模板”（参见期刊网站首页右则“下载中心”）。
+7引文著录格式
+基本著录要求如下：
+（1）本刊引用文献的标注方法和文后参考文献著录格式参照执行国家标准GB/T 7714—2015；
+（2）未发表的成果及个人交流通信不列入参考文献，以脚注形式在当页注释说明；
+（3）参考文献出处的准确性由作者负责。
+7.1期刊论文类
+[1] 王世伟. 论智慧图书馆的三大特点[J]. 中国图书馆学报,2012,38(6):22-28. (Wang Shiwei. On Three Main Features of the Smart Library[J]. Journal of Library Science in China, 2012,38(6):22-28.)
+[2] Hewitt J A. Technical Services in 1983[J]. Library Resource Services, 1984, 28(3):205-218.
+[3] Schmitt M, Jaschke R. What Do Computer Scientists Tweet? Analyzing the Link-sharing Practice on Twitter[J]. PLoS One,2017,12(6):e0179630. （注：期刊论文原文不提供文章页码时，可参照本条参考文献著录格式，直接使用文章编号替代页码进行标注）
+7.2专著（图书）类
+[4]曾建勋.知识链接及其服务研究[M].北京:科学技术文献出版社,2012:67. (Zeng Jianxun. Knowledge Link and Its Service Research[M]. Beijing: Science and Technical Documentation Press, 2012:67.)
+[5] Tennant R. Managing the Digital Library[M]. New York: Reed Press, 2004:150-153.
+7.3析出文献类
+[6] 王晓光. “数字人文”的产生、发展与前沿[G]//全国高校社会科学科研管理研究会组. 方法创新与哲学社会科学发展. 武汉:武汉大学出版社, 2010:207-221. (Wang Xiaoguang. The Origin, Development and Frontier of Digital Humanities[G]//National Institute of Scientific Research Management for Social Science of Universities. Methodological Innovation and Development of Philosophy and Social Sciences. Wuhan: Wuhan University Press,2010:207-221.)
+[7] Wang G, Konolige T, Wilson C, et al. You Are How You Click: Clickstream Analysis for Sybil Detection[C]//King S. Proceedings of the 22nd USENIX Conference on Security. New York: ACM, 2013: 241-256.
+7.4报纸类
+[8] 冯惠玲. 数字时代的记忆风景[N]. 中国档案报,2015-11-19(003). (Feng Huiling. The Memory Landscape of Digital Age[N]. China Archives News, 2015-11-19(003).)
+7.5学位论文类
+[9]相晓敏. 中文组织机构名识别和消歧技术研究与应用[D]. 上海:华东师范大学, 2016. (Xiang Xiaomin. Research and Application of Chinese Organization Name Recognition and Disambiguation Technology[D]. Shanghai: East China Normal University,2016.)
+7.6电子文献类
+[10] Open Knowledge International. Global Open Data Index [EB/OL]. [2017-05-12]. http://2015.index.okfn.org/place/.
+[11]《光明日报》理论部. 2018年度中国十大学术热点[EB/ OL]. [2021-01-15]. https://news.gmw.cn/2019-01/11/content_32334236.htm.(Theory Department of Guangming Daily. Top Ten Academic Hotspots of China in 2018[EB/OL].[2021-01-15]. https://news.gmw.cn/2019-01/11/content_32334236.htm.)
+[12] 丁薛祥同志在中央档案馆国家档案局调研时的讲话[EB/ OL]. [2020-05-20]. http://www.saac.gov.cn/daj/yaow/201805/d7ff928a8ceb40da9d7410fe90cdb522.shtml.(Speech by Comrade Ding Xuexiang During the Investigation of the SAAC[EB/OL]. [2020-05-20]. http://www. saac.gov.cn/daj/yaow/201805/d7ff928a8ceb40da9d7410fe90cdb522.shtml.)
+7.7其他类型参考文献格式
+[13] Kroll T, Stieglitz S. Digital Nudging and Privacy: Improving Decisions About Self-disclosure in Social Networks[J/OL]. Behavior & Information Technology (2019-02-27) [2019-07-30].
+https://www.tandfonline.com/doi/full/10.1080/0144929X.2019.1584644.DOI:10.1080/0144929X.2019.1584644.
+[14]国家图书馆研究院. 2019中国公共图书馆事业发展基础数据概览[Z]. 国家图书馆研究院,2020. (Research Institute, National Library of China. Overview of Basic Data for China Public Library,2019[Z]. Research Institute, National Library of China,2020.)
+[15]中国数字经济发展白皮书(2020年)[R/OL]. [2020-09-30]. http://www.caict.ac.cn/kxyj/qwfb/bps/202007/t20200702_285535.htm. (White Paper on the Development of China’s Digital Economy (2020) [R/OL]. [2020-09-30]. http://www.caict.ac.cn/kxyj/qwfb/bps/202007/t20200702_285535.htm.)
+[16] Barlos F, Skinner A, Peeke R, et al. Collection and Monitoring via Planning for Active Situational Scenarios S(COMPASS)[R]. Sandia National Lab.(SNL-NM), Albuquerque, NM (United States), 2020.
+8作者贡献说明
+作者贡献说明用以揭示合作作者在论文中的作用，主要分为以下几个方面：
+（1）研究命题及思路的提出、构想以及设计，包括某个具体的观点或方法的提出；
+（2）研究过程的执行与实施；
+（3）重要和主要数据的获取、提供以及分析处理；
+（4）论文的起草或最终版本的修订；
+（5）论文研究中的其他重要和实质性工作（需要具体说明工作内容）。
+同一作者可能在多方面做出贡献，多个合作作者可能在同一方面做出贡献。仅仅为研究提供经费、基础设施条件或者基本管理监督等支持的，不能作为学术论文的作者。在有多个作者署名的论文中，请在论文最后注明每个作者在上述几个方面中的具体贡献，例如：
+陈某：提出整体研究思路与框架；
+张某、李某：负责数据调研；
+王某：负责数据清洗和分析；
+李某、张某、王某：负责论文起草及修改；
+王某：负责论文的最终版本修订。
+9支撑数据
+为保证数据的客观性和可重复检验性，提高科学诚信，本刊对于涉及到数据处理和分析的文章，要求作者在文章末尾处提供支撑数据的获取途径，以及数据文件名称和数据标题。
+具体要求如下：
+9.1支撑数据获取途径
+（1）如果是可公开获取的，请提供开放获取的平台地址；
+（2）如果是作者自存储的，请提供联系的邮箱地址。
+9.2支撑数据文件名称和说明
+请注明数据处理/分析/存储负责人的姓名，数据文件名称，数据标题
+9.3模板如下：
+（1）情况之一
+支撑数据可通过开放平台公开获取，平台地址
+1、数据处理/分析/存储负责人姓名. 数据文件1名称. 数据文件1标题
+2、数据处理/分析/存储负责人姓名. 数据文件2名称. 数据文件2标题
+3、……
+（2）情况之二
+支撑数据由作者自存储，E-mail地址
+1、数据处理/分析/存储负责人姓名. 数据文件1名称. 数据文件1标题
+2、数据处理/分析/存储负责人姓名. 数据文件2名称. 数据文件2标题
+3、……
+9.4示例如下：
+（1）情况之一
+支撑数据可开放获取，获取地址为http://***.***.***.***
+1、张宾，刘川. Users search data.xlsx.用户搜索数据.
+2、张宾，李洋. Drug.txt.药物词典.
+3、张宾，王玲. Solution.Xml.聚类结果.
+（2）情况之二
+支撑数据由作者自存储，E-mail：***@***
+1、张宾，刘川. Users search data.xlsx.用户搜索数据.
+2、张宾，李洋. Drug.txt.药物词典.
+3、张宾，王玲. Solution.Xml.聚类结果.
+《图书情报知识》论文模板（PDF版）
+《图书情报知识》论文模板（Word版）
+发布日期：2021-09-30 浏览： 28341
+作者中心
+作者投稿查稿系统
+投稿须知
+下载中心
+审稿中心
+专家审稿
+编委审稿
+主编审稿
+编辑部办公
+在线期刊
+当期目录
+过刊浏览
+下载排行
+阅读排行
+地址：武汉市武昌珞珈山 武汉大学信息管理学院 邮编：430072 电话：027-68754437 E-mail：tqy12@whu.edu.cn
+版权所有 © 《图书情报知识》编辑部 鄂ICP备05003330号-1
+本系统由北京玛格泰克科技发展有限公司设计开发 技术支持：support@magtech.com.cn

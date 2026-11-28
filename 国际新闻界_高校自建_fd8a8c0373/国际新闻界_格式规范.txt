@@ -1,0 +1,145 @@
+期刊: 国际新闻界
+来源: http://cjjc.ruc.edu.cn/CN/column/column4.shtml
+标题: 格式规范
+
+模态框（Modal）标题
+在这里添加一些文本
+模态框（Modal）标题
+首 页
+期刊介绍
+编委会
+投稿指南
+格式规范
+期刊订阅
+联系我们
+English
+投稿指南 格式规范
+期刊首页  格式规范
+格式规范
+本刊从2025年第1期开始使用以下新版格式规范，请作者投稿时予以参照。为了保证匿名评审的公正，稿件正文word文档的文件名和内容中都不能出现任何表明作者身份的信息，否则将被直接退稿。
+第一部分 标题、摘要和关键词
+中文标题：副标题（两端对齐，主标题黑体小3号字，副标题黑体小4号字，之间用冒号或破折号相隔，总字数不宜超过20字）
+摘要（“摘要”二字左对齐，黑体5号字）
+□□□□□□□□（两端对齐，宋体5号字，篇幅200－300字，摘要质量直接影响论文的被引用率，请作者高度重视。）
+关键词（“关键词”三字左对齐，黑体5号字）
+□□□□、□□□□、□□、□□□（宋体5号字，3-5个，之间用顿号分隔，关键词尽量不要与标题重复）
+English Title（两端对齐，Times New Roman小3号加粗；副标题Times New Roman小4号字，之间用冒号相隔。）
+Abstract（左对齐，Times New Roman 5号字加粗）
+□□□□□□□□□（两端对齐，Times New Roman 5号字）
+Keywords（左对齐，Times New Roman 5号字加粗）
+□□□□, □□, □□□（两端对齐，Times New Roman 5号字，之间用半角逗号分隔；专有名词和第一个单词的首字母大写，其他均为小写）
+【说明1】如稿件为英文论文，务必要有对应的中文标题、作者、摘要、关键词等信息，顺序为英文在前，中文在后。
+【说明2】如稿件为书评，在正文开头添加“书籍信息”；如稿件为访谈，在正文开头添加“被访谈者学术简介”，如：
+书籍信息（左对齐，黑体5号字）
+《书名》，□□著。出版社，出版年，总页码，ISBN，售价。
+被访谈者学术简介（左对齐，黑体5号字）
+□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
+□□□□□□□□□□□□□□□□□□□□□□□□□。（两端对齐，宋体5号字）
+第二部分 正文
+一、标题与字体
+（一）标题一般为三级以内，一级小标题表示为“一、□□□”，二级小标题为“（一）□□□”，三级小标题为“1. □□□□□”（阿拉伯数字序号后标点为“.”，而非“、”）。
+（二）一级小标题为黑体小4号字；注释和参考文献为宋体小5号字；一级小标题以外次级标题及正文均为宋体5号字，每段首行缩进2字符。阿拉伯数字、英文字号同中文，字体为Times New Roman。
+二、内容
+（一）引用外国人名、外文书籍等材料时，可以直接使用外文姓名全称。如使用中文译名，需在首次引用时附括号注明其外文姓名全称。
+（二）正文中专业术语的中英文对照时括号中的英文为小写，如“要旨（gist）”。
+（三）稿件中的图示若是彩色，请务必转换为灰度，转换时以可清晰辨识为准。
+三、标点
+（一）正文标点全部为中文全角输入；中文中间的连接符为宋体，如时-空，阿拉伯数字、英文中的连接符为Times New Roman，如（Peters，2005：21-30），pre-modern。
+（二）带有引号、书名号的并列成分之间不需要顿号。
+（三）图表格式的标题位置：图表标题在表格上方，图片标题在图片下方，居中，用冒号标注，如“图1：”“表1：”。图表与图片标题黑体、五号字，表格与图片内文字宋体、小五号字。
+四、引文
+（一）正文中的引文（直接引述与间接引述）采用文中夹注形式，基本格式为“（作者，出版年代：页码），如，张三（2017）……。或“……。”张三（2017：45）。
+引文如为著作，夹注中务必交代具体的引用页码，但是文后的参考文献信息中不必交代页码；引文如为期刊，夹注中不必交代页码，但是文后的参考文献信息中务必交代发表期刊的页码范围。
+（二）若引文等于或者超过4行，则上下各空一行，独立成段，无需引号，悬挂缩进2字符，段首缩进2字符，5号楷体字。
+（三）同一作者同一年的多个文献用a、b等区分，如（张三，2016a）（张三，2016b）。
+（四）如引注为译作，夹注中需加上译本参照版本年份，且译本参照版本年份在前，译作年份在后，如史密斯（1979/1997）。
+（五）如引文作者超过三位，可只标注第一作者，其姓名后标注“等”（英文用“et al.”）。
+第三部分 注释与参考文献
+一、注释 [Note / Notes]
+注释放在文末，全部顶格，在文中需要说明的文字处插入标注（依次上标阿拉伯数字序号1），文章末尾序号1对应的文字即为该处注释的内容。
+二、参考文献 [Reference / References]
+（一）参考文献格式为悬挂缩进2字符。
+（二）参考文献指按顺序列出正文和注释曾引用的文献，不同语言文献排序为：中文文献（包含外文文献中文版）在前、外文文献在后。中文和外文文献作者均以姓氏拼音首字母为序（作者不详或机构作者时，以其英译首字母排序）。
+（三）中文参考文献用中文全角，英文参考文献用英文半角，中文参考文献无须译成英文。
+（四）如果是报刊上的文章，没有具体作者，可以用报刊名称作为作者。
+（五）具体格式：
+期刊论文
+作者（出版年）。文章名称。《期刊名称》，卷（期），页码。（在线出版如有DOI或URL请加注，境外中文期刊在期刊名称后附小括号注明出版地）
+Last name, Initials. (Year). Article title. Journal Name, Volume(Issue), Page range. (DOI or URL if available)
+会议论文
+作者（会议时间）。论文名称。会议名称。地点。
+Author name, Initials. (Year, Month Day Range). Paper title [Paper presentation]. Conference Name, City, State, Country. （DOI or URL if available)
+书籍
+作者（出版年）。《书名》（第□□版）。出版社。
+Last name, Initials. (Year). Book title(Edition). Publisher.（非英文的外文著作直接使用原文字)
+书籍章节
+作者（出版年）。篇或章名。载编者（主编），《书名》（析出页码）。出版社。
+Chapter Author Last name, Initials., & Chapter Author Last name,, Initials. (Year). Title of chapter: Subtitle. In Editor’s Initial(s). Last name & Editor's Initial(s). Last name (Ed. or Eds.),Title of book (pp. page numbers of chapter). Publisher.
+编著
+编者（主编）（出版年）。《书名》（第□□版）。出版社。
+Editor Last name, Initial(s). (Ed. or Eds.). (Year). Book title: Subtitle. Publisher.
+译著
+原著作者（译本参照版本年份/译本出版年）。《书名》（□□译）（第□□版）。出版社。
+Last name, Initials. (Year). Book title (Translator initials, Last name, Trans.) (Edition). Publisher.
+学位论文
+作者（发表年）。论文名称。学校名称。
+Author last name, Initials. (Year). Dissertation title [Type of dissertation/thesis, University Name]. Archive Name. URL
+Author last name, Initials. (Year). Dissertation title [Unpublished type of dissertation/thesis]. University Name.
+报纸
+作者（出版年月日）。文章标题。《报纸名》，版别。
+Last name, Initials. (Year, Month Day). Article title. Newspaper Name, pages.URL
+杂志
+作者（出版年月日）。文章标题。《杂志名》，卷数（期数），页码。
+Last name, Initials. (Year, Month Day). Article title. Magazine Name, Volume(Issue), page range. URL
+网络材料
+作者或机构名（出版年月日）。文章标题。DOI或URL
+Last name, Initials/Organization Name. (Year, Month Day). Article title. URL
+发布日期：2024-12-11 浏览： 108875
+投稿系统
+作者投稿查稿
+专家在线审稿
+主编在线办公
+编辑部在线办公
+期刊信息
+期刊介绍
+编委会
+投稿指南
+审稿流程
+格式规范
+期刊订阅
+E-mail alert
+RSS
+通知公告 更多>>
+下载中心更多>>
+投稿须知与格式规范（2025年版）
+《国际新闻界》审稿及编辑流程
+《国际新闻界》征集《本期话题》栏目策划方案
+友情链接更多>>
+中国人民大学
+中国人民大学新闻学院
+《国际新闻界》B站
+微信公众号
+订阅
+期刊信息
+期刊介绍
+编委会
+投稿指南
+格式规范
+期刊订阅
+联系我们
+在线期刊
+当期目录
+过刊浏览
+E-mail Alert
+RSS
+联系我们
+地址：北京市海淀区中关村大街59号明德新闻楼
+邮编：100872
+电话：010-82509362
+E-mail:gjxwj@ruc.edu.cn
+访问统计
+总访问量 ：
+今日访问：
+在线人数：
+版权所有 © 《国际新闻界》编辑部
+技术支持：北京玛格泰克科技发展有限公司

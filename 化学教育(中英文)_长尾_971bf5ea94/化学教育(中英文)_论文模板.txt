@@ -1,0 +1,143 @@
+期刊: 化学教育(中英文)
+来源: http://www.hxjy.chemsoc.org.cn/CN/column/column4296.shtml
+标题: 论文模板
+
+Chinese Journal of Chemical Education
+作者投稿
+用户名
+密码
+注册
+找回密码 读者中心
+专家登录 编委登录 编辑登录 主编登录
+快速检索
+高级检索
+期刊浏览
+首页
+期刊介绍
+期刊简介
+版权信息
+编 委 会
+栏目设置
+投稿指南
+网上投稿
+投稿须知
+论文模板
+论文写作要求
+论文写作培训
+版权转让协议
+在线期刊
+当期目录
+最新录用
+过刊浏览
+下载排行
+下期要目
+下载中心
+期刊订阅
+网上付款
+邮局汇款
+现金支付
+期刊工具
+Email Alert
+RSS
+联系我们
+ENGLISH
+公告
+More>>
+·
+新年寄语
+·
+2026年《化学教育》订阅办法
+·
+投稿注意事项
+·
+严肃处理“学术不端行为”的公告
+·
+为《化学教育》代言
+·
+中学化学“名师工作室”稿件征集
+·
+免费发表和下载文章的办法
+·
+化学教育微信扫一扫
+重要会议及培训通知
+友情链接
+·
+中国科学技术协会
+·
+中国化学会
+·
+北京师范大学
+广告服务
+文章快速检索
+高级检索
+论文模板
+《化学教育》论文模板
+点击下载《化学教育》论文格式模板2018
+中文标题*（3号黑体）
+张 三1  李四六2  王五七1**（5号仿体）
+（1.北京师范大学化学学院  北京  100875；2.东北师范大学化学学院 吉林长春 130024）（6号宋体）
+摘 要（5号黑体）  内容（5号仿体）。
+关键词（5号黑体） XXX XXX XXX(5号仿体)
+XXXXXXXXXXXXXX[1]（文章前言不加标题，正文用5号宋体，1.25倍行距）
+1  一级标题（小4号黑体）
+XXXXXXXXXXXXXXXXXX[2]（5号宋体，1.25倍行距）
+1.1  二级标题（5号黑体）
+XXXXXXXXXXXXXXXXXX[3]，见表1。（5号宋体，1.25倍行距，以下正文同此）
+（表格要有表序和表题，放在相应文字附近，并在正文中有指示语）
+表1 XXXXXXXXX（6号黑体）
+Table 1 XXXXXXXXX（6号Times New Roman，加粗）
+XXXXX（6号宋体）
+XXX
+XXX
+XXX
+XXX
+XXX
+XXX
+XXXXX
+XXX
+XXX
+XXX
+XXX
+XXX
+XXX
+XXXXX
+XXX
+XXX
+XXX
+XXX
+XXX
+XXX
+注：XXXXXXX。(6号宋体)
+1.1.1 三级标题（5号宋体，与正文字号字体一样）
+XXXXXXXXXXXXX[4]，见图1。（图片要清晰、美观、规范，放在相应文字附近，格式为“嵌入式”，居中排，在正文中有指示语，并有图序和图题）
+图注：XXXXXXXX。(6号宋体)
+Fig.1 XXXXXXXX（6号Times New Roman，加粗）
+图1 XXXXXXXXXXX（6号黑体）
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+参 考 文 献（小5号黑体）
+[1] Matthew R Siebert, Todd E Daniel, Brian D High. Boot Camp To Improve Student Perception and Performance in Sophomore Organic Chemistry? Hoorah![J].Journal of Chemical Education, 2017, 94(12):1860-1865（6号宋体）（英文期刊文献）
+[2] 萧钰.出版业信息化迈入快车道[EB/OL].(2001-12-19)[2002-04-15]. http:∥www.creader.com/news/200112190019.htm（网络文献）
+[3] 周贤亚, 聂丽, 黄磊, 等. 通识课“趣味化学实验”存在的问题与对策[J]. 化学教育（中英文）, 2017, 38(24): 11-16（中文期刊文献）
+[4] 刘知新. 化学教学论[M]. 4版.北京: 高等教育出版社, 2009:23-34（图书文献）
+[5] 冯冬红，李济英.会提问，最具创造力的品质[N].中国教育报，2005-03-25（6）(报纸文献)
+[6] 白书农. 植物开花研究[M]∥李承森. 植物科学进展.北京：高等教育出版社，1998：146-163（图书或者论文集里析出的文献）
+[7]  刘永增.解读教师人生：关于教师自身和谐发展的思考[R].北京：中国教育学会，2006：34-35(报告文献)
+[8] 中华人民共和国教育部.普通高中化学课程标准（实验）[S].北京：人民教育出版社，2003：8(标准文献)
+[9] 姜锡洲.一种温热外敷药制备方案：中国，88105607.3[P].1989-07-26（专利文献）
+[10] 罗杰斯.西方文明史：问题与源头[M].潘惠霞，魏婧，杨艳，等译.大连：东北财经大学出版社，2011:15-16（翻译图书文献）
+[11] MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M].New York: Farrar, Straus and Giroux,2010:260（英文图书文献）
+[12] 朱玉军.大学化学教育研究的内外部要素分析研究[D].北京：北京师范大学博士学位论文，2019：15（学位论文文献）
+【注意！参考文章一定要在正文相应位置标注】
+英文标题(小4号Times New Roman，加粗)
+ZHANG San1 LI Si-Liu2  WANG Wu-Qi1**（5号Times New Roman）
+(1.College of Chemistry, Beijing Normal University, Beijing 100875,China;
+2. College of Chemistry, Northeast Normal University, Changchun 130024, China) （6号Times New Roman）
+Abstract（5号Times New Roman，加粗）  XXXXXXXXX（5号Times New Roman）
+Keywords（5号Times New Roman，加粗）  XXXX；XXX；XXX（5号Times New Roman）
+* 课题资助信息
+** 通信联系人，E-mail：
+京ICP备05007538号 京公网安备11010802010741号
+版权所有 © 《化学教育（中英文）》编辑部
+地址：北京市海淀区 新街口外大街19号 北京师范大学化学楼217室
+邮编：100875 电话：86-010-58807875 E-mail：hxjy-jce@263.net
+技术支持: 北京玛格泰克科技发展有限公司

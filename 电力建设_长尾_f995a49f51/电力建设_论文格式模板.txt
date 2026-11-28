@@ -1,0 +1,271 @@
+期刊: 电力建设
+来源: https://www.cepc.com.cn/CN/column/column11.shtml
+标题: 论文格式模板
+
+模态框（Modal）标题
+在这里添加一些文本
+模态框（Modal）标题
+中国科学引文数据库(CSCD)核心期刊
+中文核心期刊
+中国科技核心期刊
+ISSN 1000-7229 CN 11-2583/TM
+电力建设
+首页
+期刊介绍
+期刊简介
+学术指标
+主管主办单位
+编委会
+编辑委员会
+青年编辑委员会
+荣誉墙
+优秀审稿专家
+优秀青年编委
+优秀论文
+高影响力论文
+投稿指南
+投稿须知
+论文格式模板
+摘要撰写要求
+同行评议制度
+作者诚信声明
+版权转让协议模板
+版权与开放获取政策
+伦理声明
+出版伦理
+学术不端处理办法
+联系我们
+联系方式
+广告与订阅
+ECE英文刊
+English
+论文格式模板
+附件：《电力建设》稿件模板
+《电力建设》稿件修改说明
+基金项目：xxx基金项目（基金编号）；xxx公司科技项目（项目编号）
+Funding： This work is supported by …（No.基金编号）.
+【示例：国家自然科学基金项目(51537009)；国家重点研发计划资助项目(2020BAA022)
+Funding：This work is supported by National Natural Science Foundation of China(No. 51537009) and Key R&D Program of Hubei Province (No. 2020BAA022).】
+论文题目（通常不超26字）
+作者一1, 作者二1，作者三2,3
+(1.XXX大学院系，省份城市 邮政编码；2.XXX公司，省份城市 邮政编码；3. XXX研究院，省份城市 邮政编码)
+【说明：作者总数一般不超过6位，如有超出建议在文后致谢中列出。】
+摘要：【目的】提供研究、研制、调查等工作的前提、目的和任务，所涉及的主题范围等信息。【方法】提供所用的理论、技术、材料、工艺、结构、手段、装备、算法、程序等信息。【结果】提供实验的、研究的结果、数据，被确定的关系，观察的结果，得到的效果、性能等信息。【结论】提供对结果的分析、比较、评价和应用，以及提出的问题、观点、理论等；假设、启发、建议、预测及今后的课题等信息；论文的主要创新点也可列入结论部分。有时还可增加研究的局限：客观地提出研究的局限性和研究建议。
+【本刊论文将使用结构化摘要，中文摘要长度一般为500字左右。结构化摘要一般包括目的、方法、结果与结论四要素。【目的】【方法】【结果】【结论】四要素引导词需要保留。摘要能否准确、具体、完整地概括原文的创新之处，将会影响论文的审稿结果。摘要要使用规范化的名词术语，摘要中出现的缩略语应先给出全称，如：荷电状态（state of charge，SOC）。摘要四要素按照按照先后顺序连续编排】
+中文摘要示例如下（要求将目的、方法、结果、结论在摘要中标出来，见示例）：
+摘要：【目的】为改善半桥全桥混合型子模块数量较少的模块化多电平换流器(modular multilevel converter, MMC)运行性能，推进其在直流配电网等中低压领域的应用，提出了一种全电平逼近调制策略(full level modulation, FLM)。【方法】所提FLM利用全桥子模块(full bridge submodule, FBSM)的全电平输出能力，控制桥臂中某一FBSM运行于“脉宽调制(pulse width modulation, PWM)模式”，将所得全电平PWM波与原阶梯波叠加以进一步逼近正弦调制波。子模块工作模式由电容电压排序结果确定，相单元中任意时刻均有两个FBSM运行于“PWM模式”，输出互补的全电平PWM波。【结果】Matlab/Simulink仿真结果和物理实验结果表明，所提FLM可顺利完成交直流电压变换，任意时刻桥臂中仅有一个FBSM工作于“PWM模式”，控制难度与开关损耗并未显著增加；所提基于排序算法的电容电压均衡策略下，各桥臂电容电压均维持在额定值附近，且波动幅度在2%附近，开关器件耐压裕度与电压质量均远高于传统最近电平逼近调制策略（与文中结果分析对应）。【结论】所提调制策略得到的全电平PWM波与阶梯波叠加后交流侧电压、电流质量较传统NLM显著提高；与传统载波移相脉冲宽度调制(carrier phaseshifted pulse width modulation，CPS-PWM)相比，FLM调制下的相间循环电流、开关损耗及控制复杂度均明显降低，具备更高的工程可行性；FLM调制策略实现了FBSM的“双功能复用”，为提高器件利用率，充分挖掘元件“功能复用”潜力提供了新思路（与文后结论对应）。（520字）
+关键词： 关键词1；关键词2；关键词3；关键词4；关键词5
+【说明：关键词是为了便于作文献索引和检索而选取的能反映论文主题概念的词或词组，每篇论文标注4~8个关键词，词与词之间用分号隔开。】
+中图分类号：TM
+English Title
+ZUO Zhe1, ZUO Zhe1 , ZUO Zhe2,3
+(1. …, City Code, Nationality; 2. …, City Code, Nationality; 3 …, City Code, Nationality)
+ABSTRACT：[Objective] In order to improve the operation performance of the modular multilevel converter (MMC) with a small number of half-bridge hybrid sub-modules and promote its application in the field of medium and low voltage such as DC distribution network, a full-level approximation modulation (FLM) strategy was proposed. [Methods] The proposed FLM uses the full-level output capability of the full bridge submodule (FBSM) to control an FBSM in the bridge arm to run in the "pulse width modulation (PWM) mode", and superimposes the obtained full-level PWM wave with the original stepped wave to further approximate the sinusoidal modulation wave. The sub-module operating mode is determined by the capacitor voltage sequencing results, and two FBSMs are running in "PWM mode" at any time in the phase unit, outputting complementary full-level PWM waves. [Results] The Matlab/Simulink simulation results and physical experiment results show that the proposed FLM can successfully complete the AC/DC voltage conversion, and only one FBSM in the bridge arm works in the "PWM mode" at any time, and the control difficulty and switching loss do not increase significantly. Under the proposed capacitance voltage balancing strategy based on the sequencing algorithm, the capacitance voltage of each bridge arm is maintained near the rated value, and the fluctuation range is around 2%, and the withstand voltage margin and voltage quality of the switching device are much higher than those of the traditional nearest level approximation modulation strategy. [Conclusions] The voltage and current quality of the AC side obtained by the proposed modulation strategy are significantly higher than those of the traditional NLM after the superposition of the all-level PWM wave and the stepped wave. Compared with the traditional carrier phaseshifted pulse width modulation (CPS-PWM), the phase-to-phase cycle current, switching loss and control complexity under FLM modulation are significantly reduced, and the engineering feasibility is higher. The FLM modulation strategy realizes the "dual-function multiplexing" of FBSM, which provides a new idea for improving the utilization rate of the device and fully exploiting the potential of the "functional multiplexing" of the components.
+KEYWORDS: key word1; key word2; key word3; key word4
+【注意：英文摘要的内容应与中文摘要内容对应，可以比中文摘要所包含更多的信息、篇幅更长。要求专业术语翻译准确，时态、语法和标点用法正确，不漏句少句。英文摘要应注意时态。建议使用一般现在时说明研究目的、叙述研究内容、描述结果、得出结论、提出建议等；使用一般过去时描述作者的工作，包括介绍过去某一时刻（时段）的发现以及某些研究的实验、观察、调查、讨论等过程。缩略语首次出现时要给出全称。】
+0 引言
+引言内容通常包含研究的背景、目的、理由，预期结果及意义和价值。引言要做到：切合主题，言简意赅，突出重点、创新点，客观评价前人的研究，如实介绍作者自己的成果。引言一般1000字以上，不要包含图、表、公式推导。
+引言应介绍论文的研究背景和研究目的，以及相关领域前人所做的工作和研究概况，说明目前的研究热点、存在的问题及作者研究的意义，提出本文的研究思路。
+引言也可点明本文的理论依据、实验基础和研究方法，简要阐述研究内容，预示研究的结果、意义和前景，但不展开讨论。引言内容不要与摘要雷同；引言一般应与结论相呼应，但也应避免与结论简单重复。
+为了说明作者对前人所作工作进行了广泛和深入的调研，在引言中要适当地列举参考文献给予佐证，但应避免所有文献全集中在引言中出现而后文中不再提及。
+1 正文写作要求【一级标题】
+1.1 论文版面要求【二级标题】
+正文采用双栏排版。正文五号宋体，英文及数字为Times New Roman，标点符号均为全角。
+1.2 章节标题要求
+论文一般最多用三级标题，同一层级的标题应尽可能“排比”，即词（或词组）类型相同（或相近），意义相关。
+在标题以下，对于不设标题的列项说明可以用1）、2）、3）标注，再下级标题可用a）、b）标注。
+一篇文章中章节标题不要重复。
+1.3 缩写词要求
+缩略语或尚无标准或规定甚至自定义的名词术语，应在首次出现时给出全称，并需要在摘要和正文中分别给出中英文全称。
+缩写词书写格式为：中文名称（英文全称，英文缩写），如：虚拟电厂（virtual power plant，VPP）。英文全称中单词首字母大小写要符合英文规范表达，只有专有名词的首字母才要大写，其他单词首字母全部小写。
+第一次给出全称后，下文可仍用中文全称或英文缩写，但不要中英文混用。
+1.4 语言文字
+1）应保持术语一致性，即同一概念的名词术语在全文（包括图表中）应全文一致。
+2）应选用名词委审定发布的规范名词，“全称”和“简称”均可使用。对于没有规范简称，但是需要做简称处理的较长术语首次出现需给出全称，如1000 kV晋东南—南阳—荆门特高压交流试验示范工程（简称特高压交流试验示范工程）。
+2 数学公式及量和单位
+2.1 数学公式要求
+公式要采用MathType编辑（包括有独立编号公式和文字中公式），不接受图片格式公式，也不要将公式放在表格中排版。
+文字中内嵌公式中的分式采用横排（x/y）的形式，不要采用分子分组上下排版。
+公式书写格式如下：
+（1）
+式中：Tmax为……；m为……；SDGi为第i个……；……。
+【注意：所有变量符号首次出现需要对其代表的物理意义进行解释。另外，需保证同一变量符号只能表示一种物理意义。】
+2.2 量和单位
+2.2.1 总体要求【三级标题】
+论文中应采用标准化的量名称，不要使用已废弃的量名称。如，“电流强度”应改为“电流”，“天数”应改为“时间”。
+应采用标准化的量符号。量符号通常是单个拉丁字母或希腊字母，不要使用缩写词表示量符号。为区别量符号的不同使用情况，可以在量符号上附加上下标，作为说明性标记。
+2.2.2  字符的斜体要求
+以下字符需要斜体书写：1）物理量的符号（pH除外）；2）从量的符号转化而来的上下角标；3）一般函数符号；4）变数符号。
+注意：对于矢量（向量）、矩阵的符号需要用黑斜体。
+2.2.3 字符的正体要求
+以下字符需要正体书写：1）量的单位,如km，s，A，kV，kg等；2）某些常数的符号（仅限于自然对数的底e、圆周率π、复数的虚部i或j；3）数学运算符，如：矩阵转置符号T、微分符号d、偏微分符号?、连加符号∑、对数符号（log，lg，ln）、sin，tan，exp，div，det，lim，min，max等。
+注意：5个特殊集合用黑正体，N（自然数集或非负整数集），Z（整数集），Q（有理数集），R（实数集），C（复数集）。
+2.2.3 物理量的单位
+数值与单位之间要加空格，如10 h。
+3 插图要求
+3.1 插图总体要求
+插图在正文中应按出现的先后顺序编号，并排在引出段落的正文之后位置。在图下面标注图注、中英文图题（中英文需对应）。分图用（a）（b）（c）等标号，并给出分图题。
+正文中插图尽量为彩色绘制。辅助、支持性的插图可移入文后附录中。
+图中应尽量避免出现公式，可直接采用公式编号的方式代替，如式（1）。
+3.2 插图格式要求
+本刊不接受位图文件（照片除外）。本刊接受的绘图软件及输出文件格式如下，请作者提供图形原始文件。
+1）Visio：输出*.vsd，*.vsdx，*.pdf格式，可制作流程图、结构框图、元器件图等。
+2）Matlab和Origin：输出*.eps，*.pdf，*.emf三种格式，可制作曲线图、三维图。
+3）Excel：输出*.xls，*.xlsx格式，可制作曲线图、柱状图、圆饼图。
+4）PPT：输出*.ppt，*.pdf格式。勿将位图图片嵌在PPT页面中，再将PPT页面嵌在Word稿件中。
+5）Word绘图工具：输出*.doc，*.pdf格式。勿将位图图片直接嵌在Word文件中。
+6）其他：其他软件优先存储*.pdf格式。
+3.3 各种类型图制作要求
+本刊要求的插图格式如下：
+1）坐标曲线图。
+横纵坐标的物理量应与被标注的坐标轴平行，居中排印在坐标轴与标值的外侧，如图1所示。应防止刻度线过分密集，以至于数值前后连接，辨识不清。
+图1 图题
+Fig. 1 English title
+曲线图的另一种形式如图2所示，坐标轴表达的事定性的变量，即未给出标值线和标值，此时坐标原点用“O”标注，在坐标轴的末端画出箭头，标目放在坐标轴末端的外侧。
+图2 图题
+Fig. 2 English title
+2）录波图形的标准画法。
+录波图需标注横/纵坐标的物理量及每单元格所代表的数值及单位，如图3所示。
+图3 图题
+Fig. 3 English title
+【提示：曲线图请采用无背景网格的清晰曲线表示，注明横纵坐标的物理量及单位、刻度值。绘图软件建议采用Visio、Origin、Excel、AutoCAD等。】
+3）插图涉密审查。
+撰写论文过程中，应避免出现含有保密信息的插图，要特别谨慎选用可能泄密的电网接线地理图等。由于地图具有很强的政治性和科学性，撰写论文时应避免使用含国界的地图。
+4 表格要求
+数值表格采用竖向三线表（必要时可加辅助线），即第一行表头中栏目归类与表身中的内容按列竖向对应。表头中不应使用斜线，且表头中量和单位的标注形式应为“量的名称或符号/单位符号”，如：电压/kV。
+表身中同一量的数值修约数位应一致。表内“空白”代表未测或无此项，“—”代表未发现，“0”代表实测结果确为零。表格示例如1所示（注意千分空）。
+表1表题
+Table 1 English title
+仿真系统
+平均耗时/s
+模型1
+模型7
+模型13
+模型19
+IEEE 39
+0.048 3
+0.495 2
+0.005 9
+0.024 4
+IEEE 118
+0.173 1
+6.001 3
+0.012 4
+0.065 1
+5 结 论（或结束语）
+结论是对研究结果和论点的提炼和概括，不是摘要或各章节的简单重复。
+如果推导不出结论，也可没有“结论”而写作“结束语”，进行必要的讨论，在讨论中提出建议或待解决的问题等。
+【建议：分几条给出重要研究结论、重要创新点等。】
+致谢：本文中实验方案的制定和实验数据的测量记录工作是在×××公司×××、×××等工作人员的大力支持下完成的，在此向他们表示衷心的感谢。
+【说明：致谢不是论文必备项目】
+利益冲突声明：所有作者声明不存在利益冲突。
+作者贡献：作者1×××，作者2×××，……，所有作者均阅读并同意了论文终稿内容。
+【示例：张三进行了研究设计，李四完成实验并分析数据，×××参与了论文写作和修订，所有作者均阅读并同意了论文终稿内容。】
+【作者贡献可按照以下示例撰写：
+×××提出 ….概念、基本框架、提出研究方向、设计论文框架；
+×××设计研究思路、设计研究方案、研究方案可行性调查分析、实施研究过程；
+×××进行实验、进行对比实验、实验分析、
+文献调研与整理；
+×××确定研究对象范围、收集数据、采集、清洗与分析数据；
+×××承担….技术开发、绘制图谱；
+×××参与提出….，参与撰写论文；
+×××起草论文、修订论文、审核论文；
+×××参与论文修订、论文最终版本修订】
+4 参考文献
+本刊参考文献著录要求如下：
+1）参考文献应是文中直接引用的公开出版物，内部资料不建议作参考文献。
+2）所有参考文献均要在正文中标识引用，且在正文中的引用顺序应与文后参考文献编号顺序一致。
+3）中文参考文献为双语格式，需确认中英文信息与原文一致。
+4）需要按照GB/T7714-2025《信息与文献 参考文献著录规则》要求著录参考文献。
+几种常用类型参考文献著录格式如下：
+期刊文献示例：
+[1] 王利猛，刘雪梦，李扬，等. 阶梯式碳交易机制下考虑需求响应的综合能源系统低碳优化调度[J]. 电力建设， 2024， 45(2): 102-114.
+Wang Limeng, Liu Xuemeng, Li,Yang et al. Low-carbon optimal dispatch of integrated energy system considering demand response under the tiered carbon trading mechanism[J]. Electric Power Construction, 2024, 45(2): 102-114.
+学位论文文献示例：
+[2] 张伟龙. 北方小城镇供热输配管网的节能改造研究[D]. 哈尔滨: 哈尔滨工业大学, 2013.
+Zhang Weilong. Study on energy-saving transformation of heating transmission and distribution network in small towns in northern China[D]. Harbin: Harbin Institute of Technology, 2013.
+会议论文文献示例：
+[3] Kong W C, Dong Z Y, Chen G, et al. A rule based domestic load profile generator for future smart grid[C]//2014 Australasian Universities Power Engineering Conference (AUPEC). IEEE, 2014: 1-5.
+图书文献示例：
+[4] 张贤达．现代信号处理[M]．北京：清华大学出版社，2002：179-193．
+Zhang Xianda．Modern signal processing[M]．Beijing：Tsinghua University Press，2002：179-193．
+标准文献示例：
+[5] 带电作业用屏蔽服装:GB/T 6568—2008[S].
+Screen clothes for live working: GB/T 6568—2008[S].
+专利文献示例：
+[6] 姜锡洲. 一种温热外敷药的制备方法: CN1034137A[P]. 1989-07-26.
+Jiang Xizhou．The invention relates to a preparation method of warm external application medicine： CN1034137[P]．1989-07-26．
+在线电子文献示例：
+[7] 国家能源局.2017 年风电并网运行情况［EB/OL］.（2018-02-01）［2020-02-01］.http：//www. nea. gov. cn/2018-02/01/c_136942234.htm.【其中2018-02-01为发布日期，2020-02-01为引用日期】
+National Energy Administration. Description of wind power integration in 2017［EB/OL］. （2018-02-01） ［2020-02-01］.http：//www.nea.gov.cn/2018-02/01/c_136942234.htm.
+[8] 王强, 毕宇豪, 高超, 等. 融合多方信息的电动汽车充电负荷时空分布预测[J/OL]. 电力建设, 2025-01-21. https://kns.cnki.net/kcms/detail/11.2583.tm.20250121.1012.002.html.【其中2025-01-21为发布日期】
+Wang Qiang, Bi Yuhao, Gao Chao, et al. Spatio-temporal distribution prediction of electric vehicle charging load based on multi-information fusion[J/OL]. Electric Power Construction, 2025-01-21. https://kns.cnki.net/kcms/detail/11.2583.tm.20250121.1012.002.html.
+【提示：参考文献尽量选取近几年在期刊杂志发表的文章，以体现文章的实效性。参考文献一般不少于30篇】
+收稿日期: yyyy-mm-dd 修回日期: yyyy-mm-dd
+作者简介：作者一(出生年)，性别，学历，职称，主要研究方向为……；
+作者二(出生年)，性别，学历，职称，通信作者，主要研究方向为……，E-mail：……；
+作者三(出生年)，男，工程师，主要从事……工作；
+……
+作者×(出生年)，男，工程师，主要从事……工作。
+（编辑 ***）
+【说明：需要提供所有作者的简介，作者顺序与题目下方的一致，并指出“通信作者”，通信作者需要写明电子邮箱】
+【需要提供第一作者的近期彩色电子证件照，具体要求：蓝色（或白色）背景，图像清晰，不低于260×330像素，宽2.2cm，高2.9cm。】
+为方便稿件处理过程中的沟通，请提供稿件联系人以下信息：
+姓名，电话，邮箱
+附录A
+附录是作为论文主体的补充项目，并不是必需的。
+附录撰写原则：
+1）给出正文中相关内容的详细推导、演算或证明，提供数据、曲线、照片或软件程序等辅助材料。
+2）有些材料编入正文时，有损于编排的条理性和逻辑性，会导致论文结构不紧凑，主题不突出。如有必要，可以将这些材料作为附录至于文末。
+附录格式：
+1）排版同正文，字号五号，中文宋体，英文及数字为Times New Roman，行距为单倍行距，段尾不要单字成行。
+2）附录中公式、图、表都需按A1、A2……顺序重新编号，如式(A1)、图A1、表A1。
+3）若有多个附录，按附录A、附录B、附录C等编号，文中也需按顺序提出附录。
+发布日期：2025-05-16 浏览： 45746
+作者登录
+审稿登录
+检索
+年期检索
+条件检索
+1958年创刊（月刊）
+视频号 更多
+学术交流 更多
+学术通知 更多
+新闻报道 更多
+友情链接 更多
+国家电网有限公司
+国网经济技术研究院有限公司
+中国电力工程顾问集团有限公司
+中国电力科学研究院有限公司
+访问统计
+总访问量
+今日访问
+在线人数
+主管：国家电网有限公司
+主办：国网经济技术研究院有限公司
+中国电力工程顾问集团公司
+中国电力科学研究院
+主编：张全
+副主编：康重庆 毕天姝 李晖
+常务副主编：杨卫红 盛谊
+编辑部主任：魏希辉
+CN： 11-2583/TM
+ISSN： 1000-7229
+地址：北京市昌平区未来科学城国家电网办公区 A225
+邮编：102209
+电话：010-66602697(编辑部)
+010-66602696(发行广告)
+E-mail：dljs@263.net
+网址：https://www.cepc.com.cn(在线投稿)
+国内邮发代号：82-679
+国外发行代号：C8004
+国际刊名代码(CODEN):DJIIAQ
+×
+扫码分享
+×
+扫码分享
+京ICP备18017181号-1
+国网安备4511A3CPZ号
+网站版权 © 《电力建设》编辑部
+AI小编
+你好！我是《电力建设》AI小编，有什么可以帮您的吗？

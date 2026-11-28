@@ -1,0 +1,66 @@
+期刊: 分析测试学报
+来源: https://www.fxcsxb.com/cn/info/9822
+标题: 投稿模板
+
+投稿模板
+中文题目
+作者1，作者2，作者1,2*
+(1. 单位1，省份 城市 邮编；2. 单位2 ，辽宁 大连 116023)
+摘 要：摘要内容。
+（250~300字，需用连贯的文字表述，无需分“目的、方法、结果、结论”。简要概述本文的主要工作、重要的数据与结论以及研究意义）
+关键词：xxxx；xxxx；xxxx；xxxx (3～8个）
+Title in English(与中文题名含义一致，且每一个实词的首字母大写)
+LI Yi-lin1，LI Ying2， LI Yang1,2* （姓全部大写，名字第一个字的首字母大写）
+(1. Laboratory of Environment Spectroscopy, Anhui Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, Hefei 230031, China；2. Dalian Institute of Chemical Physics, Chinese Academy of Sciences, Dalian 116023, China)
+Abstract：Content of abstract.
+（英文摘要不是对中文摘要简单的翻译，应与中文摘要相对独立，需概括文章的研究背景、方法、结果和结论）
+Key words：xxxx；xxxx；xxxx；xxxx (中、英文关键词一一对应)
+正文（以1.5倍行距、宋体(英文用Times New Roman)。正文各部分应简洁明了。各级标题用阿拉伯数字连续编号；不同层次的数字之间用小圆点相隔，末位数字不加标点符号。如“1”，“1.1”等）。
+1 实验部分
+1.1 二级标题
+1.1.1  三级标题
+2 结果与讨论
+2.1 二级标题
+2.1.1  三级标题
+图1 中文图题
+Fig. 1 Figure title in English
+表1 中文表题
+Table 1 Table title in English
+Analyte
+Linear range r/(µg.L-1)
+Regression equation
+Correlation coefficient（r）
+EMPA
+5~320
+y=0.123 5x-0.004 8
+0.999 7
+IMPA
+5~320
+y=0.166 9x-0.007 2
+0.998 9
+PMPA
+5~320
+y=0.551 3x-0.048 0
+0.997 4
+3 结 论
+参考文献：
+[1] （期刊论文）：全部作者的姓名. 期刊名, 年, 卷(期): 起止页码.
+例如：Aminuddin M, Miller J N. Talanta, 1995, 42(6): 775-778.
+Yang X，Xie J P，Xie F W，Zhao G，Wang S. J. Instrum. Anal.（杨雪，谢剑平，谢复炜，赵阁，王昇. 分析测试学报），2009, 28(6)：649-654.
+[2] （标准）：标准编号. 英文名称. （中文名称. 标准的中文系列名称）.
+例如：GB/T 5009.101-2003. Determination of antimony in polyester resin and products for food containers and packaging materials. National Standards of the People's Republic of China (食品容器及包装材料用聚酯树脂及其成型品中锑的测定. 中华人民共和国国家标准).
+[3] （专著）：主要责任者. 专著名. 版次. 出版地: 出版社, 出版年: 起止页码.
+例如：Malinowski E R. Factor analysis in chemistry. 2nd ed. New York: Wiley Interscience, 1991: 40-60.
+McLafferty F W. Interpretation of mass spectra. 3rd ed. Wang G H, Jiang L F, Wang C H, transl. Beijing: Chemical Industry Press (麦克拉弗蒂 F W. 质谱解析. 3版. 王光辉, 姜龙飞, 汪聪慧, 译. 北京: 化学工业出版社), 1999:20-30.
+[4]  （学位论文）：作者名. 论文题名. 所在地：大学/机构名称，发表年份.
+例如：Wang L Q. Preparation of Monoclonal Antibody Against Brevetoxin and Establishment of ELISA
+Detected Method. Changchun：Jilin University (王里奇. 短裸甲藻毒素单克隆抗体的制备及其ELISA检测方法的建立. 长春： 吉林大学)，2011.
+He M. Bioactivity Difference of Difenoconazole Stereoisomers and their Stereoselective Environnmental Behavior in Paddy Field. Beijing:Chinese Academy of Agricultural Sciences(贺敏. 苯醚甲环唑手性异构体活性差异及其在稻田的立体环境行为. 北京：中国农业科学院)，2016.
+[5] （专利）：专利申请者或所有者. 专利国别, 专利号. 公告日期或公开日期 [引用日期].
+例如：Stevens T M, Miller J T E. U. S. Patent, 4290775. 1981.
+Yantai Institute of Coastal Zone Research，Chinese Academy of Sciences，Qingdao University. China Patent（中国科学院烟台海岸带研究所，青岛大学. 中国专利），202323328828.3.[2024-07-02].
+[6] （电子文献）：主要责任者. 题名.［引用日期］. 获取和访问路径.
+例如：Turcotte D L. Fractals and chaos in geology and geophysics. New York: Cambridge University Press, 1992 [1998-09-22]. http: //www.seg.org/reviews/mccorm30.html.
+Ministry of Agriculture. No. 235 Bulletin of the Ministry of Agriculture of the People’s Republic of China（农业部. 中华人民共和国农业部公告第235号），2002. [2008-06-29]. http://yz.hz-agri.gov.cn/uploadFiles/2005-10/1130221564406.doc.
+基金项目：国家自然科学基金资助项目(No. xxxxxxxx)
+*通讯作者： 李´´´，学位，职称，研究方向：xxxxx，E-mail: aaa@aaa.ac.cn

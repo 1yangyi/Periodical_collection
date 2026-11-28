@@ -1,0 +1,91 @@
+期刊: 西北农业学报
+来源: http://xbnyxb.alljournals.cn/ch/common_item.aspx?parent_id=2009112484706001&menu_id=20150921110221277
+标题: 2.论文模板
+
+首页 | 编委会 | 期刊简介 | 投稿指南 | 审稿指南 | 联系我们 | 电子书
+1.参考文献著录规则
+2.论文模板
+3.文献摘要编写规则
+2.论文模板
+《西北农业学报》论文排版格式
+中文题目（小2号小标宋体）□□□□□□□□□□□□
+作者姓名（小4仿宋体）□□□，□□□，□□□，□□□ （正式的汉语拼音人名由姓和名2个部分组成。姓和名分写，姓在前，名在后，姓名之间用空格分开。复姓连写。姓和名的开头字母大写。 ”例如：Yang Weimin (杨为民), Sima Xiangnan(司马相南)。
+）
+（作者单位）(6号宋体)（□□□□□□□□）（例：1. 西北农林科技大学 园艺学院，陕西 杨凌 712100；2. …）
+摘 要 （小5号黑体）  □□□□□□□□□□□□□□□□□□□□□□□□□□□□（摘要正文小5号宋体）
+关键词 （小5号黑体）  □□□□□；□□□□□；□□□□□ （关键词为小5号宋体）
+□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□（正文，5号宋体，英文字体为Times New Roman）
+X□□一级标题（4号仿宋体）
+X.X□□二级标题（5号黑体）
+□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□（正文5号宋体）
+X.X.X□□三级标题（5号楷体） □□□□□□□□□□□□□□□□□□□□□□□□（正文5号宋体）
+（图、表请插入文中相应位置，图表及标题均居中）
+表1 □□□□□□（小5号黑体）
+Table 1 □□□□□□（小5号, Times New Roman）
+(表格为三线表，无竖线，可加辅助横线，表格中所有标目为6号宋体)
+图1 □□□□□□（小5号黑体）（图题为小5号黑体，但图中的有关文字（如图注、图例、坐标表示的量等）均为6号宋体）
+Fig.1 □□□□□□（小5号, Times New Roman）
+注：1. □□□; 2. □□□; 3. □□□; 4. □□□．（6号宋体, Times New Roman，中、英文分列）
+参考文献 Refrence：（5号黑体）（请按GBT 7714—2025《信息与文献 参考文献著录规则》的要求，对参考文献进行规范化著录）
+（参考文献正文为6号宋体，英文部分为6号Times New Roman）
+示例：
+[1] Saito M,Miyazaki K.Jadeite-bearin metagabbro in serpentinite melange of the"Kurosegawa Belt" in Izumi Town, Yatsushiro City,Kumamoto Prefecture,central Kyushu[J]. Bulletin of the Geological Survey of Japan,2006,57(5/6):169.
+[2] 张 群，程志宝，石志飞.惯性增强动力吸振器-浮置板轨道低频减振性能研究[J/OL]. 铁道学报，2024-05-09.https://kns.cnki.net/kcms/detail
+/11.2104. u.20240507.1737.002.html.
+[3] Maurya A,Szymanski M,Karlowski W M.ARA:a flexible pipeline for automated exploration of NCBI SRA datasets[J/OL]. GigaScience,2023,
+12:giad067.https://doi.org/10.1093/gigascience/giad067.
+[4] 丁文详.数字革命与竞争国际化[N].中国青年报，2000-11-20(15).
+[5] 汪学军.中国农业转基因生物研发进展与安全管理[C]//国家环境保护总局生物安全管理办公室.中国国家生物安全框架实施国际合作项目研讨会论文集.北京：中国环境科学出版社，2005:22-25.
+[6] 李 妍，王 莹.医疗机构保洁人员“一前五后”手卫生干预效果研究[C]//中华预防医学会医院感染控制分会第31次全国医院感染学术年会，2022:2.
+[7] 王 琦.融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究[D].武汉：武汉大学， 2022:87.
+[8] 金燕萍.社交媒体时代的虚假信息研究[D/OL].温州：温州大学，2020:16.https:// d.wanfangdata. com.cn/thesis/D02216281.
+[9] Cairns B R.Infrared spectroscopic studies of solid oxygen[D].Berkeley:University of California,Berkeley,1965:15.
+[10] 汤万金，杨跃翔，刘文，等.人体安全要技术国二研制最终报告：7178999X-2006BAK4A10/10.2013 [R/OL]. 2013-09-30.http:/1wwnstrs.
+cn/xiangxiBG.aspx? id=41707.
+[11] Calkin D E,Ager A A,Thompson M P,et al.A comparative risk assessment ramework for wildland fire maragemen:the 2010 cohesive strategy science report:RMRS-GTR-262[R/OL].2011:8-9.https://ww.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf.
+[12] U.S.Departmenit of Transporfation Federal Highway Adminisration.Guidleines for handling excavated acid- producing materials:PB 91-194001
+[R].Springfield:U.S.Department of Commerce National Information Service,1990:25.
+[13] 邓一刚.全智能节电器：CN200610171314.3[P].2008-01-16:8-9.
+[14] 西安电子科技大学.光折变自适应光外差探测方法：CNO1128777.2[P/OL]2002-03-06.http://211. 152.9.47/sipoasp/zljs/hyjs-yx-new. asp? Recid=01128777.2&leixin=0.
+[15] Triscc Icap Pty Ltd.Storage and delivery system:AU2022228203A[P/OL].2022-10-06.https//worldwide.es- pacernet.com/patent/search/family/06
+1561249/publica /AU2022228203Al?q=AU202228203A.
+[16] 中国国家博物馆[EB/OL].[2025-05-06].https://www.chnmuseum.cn/.
+[17] 许振超：“好好干，当一个好工人”[EB/OL].(2025-02-17)[2025-06-22].http://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html.
+[18] 李鸿章.奏请上海道库洋务外销要款无款可筹仍拨药厘接济事：04-01-35-0399-039[A]. 北京：中国第一历史档案馆，1887(光绪十三年三月十三日).
+[19] 湖北省建设厅.湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令：LSO31-001-0001-001[A/OL]. 武汉：湖北省档案馆，1931-11-07.https://www.hbda.gov.cn/pdf/LSO31-001-0001-001.PDF.PDF.
+[20] Fitzwilliam H.[Letter to Bess of Hardwick][A/OL].1570-07-28.https://www.bessofhardwick.org/ letter.jsp?letter=25.
+[21] 张伯伟.全唐五代诗格汇考[M].南京：江苏古籍出版社，2002,288.
+[22] 扬奎斯特，萨金特.递归宏观经济理论[M].杨斌，王忠玉，陈彦斌，等，译.2版.北京：中国人民大学出版社，2010:798.
+[23] Abadia O M,Conkey M W,McDonald J.Deep-time images in the age of globalization:rock art in the 21st century[M/OL].Springer Cham,2024.
+https://doi.org/10.1007/978-3-031-54638-9.
+[24] 谭其骧.中国历史地图集：第2册[CM].北京：地图出版社，1982:6.
+[25] GB/T 3792—2021 信息与文献 资源描述[S].
+[26] NB/T 10386—2000 水电工程水温实时监测系统技术规范[S].
+[27] GB/T 20090.16—2016 信息技术 先进音视频编码 第16部分：广播电视视频[S/OL].http://c.gb688.cn/bzgk/gb/showGb? type=online& hcno
+=1D4AC2D4256C8DE7EOAA286CA7649300.
+[28] ISO 21378:2019 Audit data collection[S].
+[29] 于洪飞，杨丽君，朱四光.互联网时代编辑学和出版学研究及其发展前景[G]//中国高等学校自然科学学报研究会.科技编辑学论文集：3.北京：北京工业大出版社，2001:1-19.(起讫页)
+[30] 周 壮，李盛阳，吴  薇，等.天宫二号遥感图像自然景物分类科学数据[DS/OL].V1.0.国家基础学科公共科学数据中心(2023-09-10)
+[2025-07-15]. https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf.
+[31] 肖 玲，张 雪，王 永.数据要素的统计测算方法探究[PP/OL].PSSXiv(2024-07-02)[2024-09-30]. https://zsyyb.cn/abs/202408.01096.CSTR.
+32012.36.PSSXiv.202408.01096.
+(凡论及他人工作和观点时均应引出文献。著录项目和著录格式按GB/T 7714-2025规定书写。本刊采用顺序编码制。在正文中提到文献作者时只须写出第一作者的姓，多于一位作者时后加“等”，文献编号紧接其后。同一处引用多篇文献时，应将各篇文献的序号在“[ ]”内全部列出，各序号间用“，”；如遇连续序号，起讫序号间用“-”连接。例如：王伟[70,72]提出……。Baldock等[5-6]认为……。在文后的参考文献表中，著作方式相同的责任者不超过3个时，应全部照录。超过3个时，可著录前3个责任者，其后加“，等”或与之相应的词，如“. et al”，西文著录个人责任者名字缩写并省略缩写点。西文刊名采用全称，每个实词的首字母大写。卷次，册次，卷期号，页码，出版年，版次，公告日期，更新日期，引用日期，文献序号等，均采用阿拉伯数字表示。)“日期”按“YYYY-MM-DD”格式著录。例如: “[2015-10-31]”。 “出版年”采用公元纪年，如有非公元纪年，则将其置于“( )”内。例如：1881(清光绪七年). "版本"第1版不著录，其他版本说明均应著录，西文版次用序数词的缩写形式表示。例如：5版(第5版或第五版) 5th ed.(Fifth edition)。
+(GB/T 7714-2025文献类型（17个）和标示代码：图书M，期刊J，报纸N，会议录C，学位论文D，报告R，标准S，专利P，网站EB，档案A，地图CM，数据集DS，预印本PP，汇编G，计算机程序CP，数据库DB，其他Z。电子资源载体和标识代码：磁带MT，磁盘DK，光盘CD，联机网络OL，缩微资料MM。
+英文题目（3号, Times New Roman）□□□□□□□□□
+作者英文名□□□，□□□，□□□（正式的汉语拼音人名由姓和名两个部分组成。姓和名分写，姓在前，名在后，姓名之间用空格分开。复姓连写。姓和名的开头字母大写。 ”例如：Yang Weimin (杨为民), Sima Xiangnan(司马相南)。
+例：Zhang Meili, Gao Qiang and Yu Wenhua ）（5号, Times New Roman）
+(作者单位)（六号, Times New Roman）(□□□□□□□)
+Abstract □□□□□□□□□□□□□□□□□□□□□□□□□□□□（小5号，Times New Roman）
+Key words □□□□□；□□□□□□；□□□□□□（小5号，Times New Roman，首字母大写）
+Received 2025-01-01 Returned 2025-03-03
+Foundation item National Natural Science Foundation of China (No. 30471378); the Key Sci-tech Project of the “11th 5-year-plan” of China (No. 2006BAC01A11); the Sichuan Youth Science and Technology Foundation (No. 07JQ0081); the Key Project of Applied & Basic Research of Sichuan and the Talent-Recruiting Program of Sichuan Agricultural University.
+First author  Shao Dongyan, female. Research area: micrbiology and immunology, functional components.E-mail:***
+Corresponding author  Shi Junling, female, Ph.D,professor. Research area:micrbiology and immunology, functional components.E-mail:***
+(如果是一个作者,英文部分直接写作者简介 About author。学历职称中的硕士研究生，博士研究生，硕士导师，博士导师，研究员翻译为master student, doctoral student，master supervisor，doctoral supervisor , research fellow）
+第一作者（小5号黑体）：姓名（如 姜 磊），性别（男），职称（研究生），研究方向。E-mail: ****（6号宋体）
+通信作者（小5号黑体）：姓名（如 姜 磊），性别（男），职称（研究生），研究方向。E-mail: ****（6号宋体）
+版权所有： 您是本站第 7667517 位访问者
+主管单位：中华人民共和国教育部 主办单位：西北农林科技大学，甘肃、宁夏、青海、新疆农（林）业科学院，青海、新疆畜牧（兽医）科学院及新疆农垦科学院 地址：陕西杨凌邰城路3号大铁10号信箱
+电话：029-87082760转4 电子邮件：xbnyxb@nwafu.edu.cn
+技术支持：北京勤云科技发展有限公司 京ICP备09084417号
+微信关注二维码

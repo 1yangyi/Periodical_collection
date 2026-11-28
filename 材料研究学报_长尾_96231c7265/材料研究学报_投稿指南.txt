@@ -1,0 +1,142 @@
+期刊: 材料研究学报
+来源: https://www.cjmr.org/CN/column/column60.shtml
+标题: 投稿指南
+
+快速检索
+引用检索
+图表检索
+高级检索
+最新录用 | 当期目录 | 过刊浏览 | 热点文章 | 虚拟专辑 | 阅读排行 | 下载排行 | 引用排行 | 期刊订阅
+ISSN 1005-3093
+CN 21-1328/TG
+创刊于 1987 年 (月刊)
+关于期刊
+» 期刊简介
+» 编委介绍
+» 数据库收录
+» 基金资助
+» 获奖情况
+作者中心
+» 在线投稿/查稿
+» 投稿指南
+» 版权转让协议
+审稿中心
+» 专家在线审稿
+» 编委在线审稿
+在线办公
+» 主编审稿登录
+» 远程编辑登录
+投稿指南
+投稿须知
+《材料研究学报》(Chinese Journal of Materials Research)是国家自然科学基金委员会和中国材料研究学会主办, 基金委工程与材料科学部和中国科学院金属所承办的中文综合类学术期刊, 报道金属材料、无机非金属材料、有机高分子材料、复合材料以及材料科学的边缘学科、交叉学科的最新研究成果, 特别是国家自然科学基金和各类国家基金资助项目的研究成果, 刊登国内外具有创新性和较高学术水平的关于材料, 特别是高新材料的组成、结构、制备和性能的评述论文和研究论文. 目前收录本刊的国外权威检索系统有: 美国《美国工程索引》(EI), 美国《化学文摘》(CA)和日本《科学技术文献速报》(JICST). 本刊是《中国期刊网》、《中国学术期刊(光盘版)》全文收录期刊, 是中国学术期刊综合评价数据库和中国科学引文数据库来源期刊.
+对稿件的要求:
+1.稿件的创新性强、学术观点明确、数据可靠. 稿件的格式: （1）研究论文: 标题(中、英文), 作者的单位名称和地址(中、英文), 摘要(中、英文), 引言, 实验方法, 实验结果和讨论, 结论; （2）专题评述: 撰写者一般为正在从事该领域研究工作的专家, 论文一般为国家自然科学基金资助的重大研究项目的总结或对材料科学前沿问题(近3--5年内)新进展的评述; 评述论文应包含作者对本人或本研究组的研究工作的评述, 引用的参考文献以近期发表的论文为主, 数量以30--50篇为宜, 一般不超过15000字.
+2.论文的题目应简明、准确, 不宜用缩略词.
+3.关键词是学术论文进入流通和引用的窗口, 规范关键词的选择有利于检索和引用. 请按照中国科协的规定选择关键词(中、英文, 各关键词用逗号隔开). 关键词不可少于4个.
+4.若是基金资助论文, 请给出资助基金的中、英文标准全称和批准号.
+5.文章中的图要求准确、清楚, 均应有中文和英文图题. 曲线图建议作者使用Origin软件，以便于编辑加工。横、纵坐标请使用标准物理量和国际标准单位。 (2) 照片应清晰，请将序号和比例尺与照片结合组成图形。表格应为三线表，有中、英文标题。图、表中的文字一律用英文。
+6.请使用中华人民共和国法定计量单位.
+7.严禁使用生成式 AI 及各类 AI 辅助工具，制作、修改投稿论文中的任何图片。
+8.引用他人研究成果时, 请按《著作权法》有关规定指明其出处, 由此引发的一切著作权的责任由作者自负. 文中引用的参考文献(使用英译文, 将中文放在括号内)要按其出现的先后顺序编号. 提倡引用中国同行发表的论文, 不要引用近期不能发表的论文和别人难以查阅的文献(如私人通信等).
+9.作者须自留稿件的底稿，如果在3个月内未收到编辑部的信函者, 可自行处理, 但须告知编辑部. 稿件被录用后, 作者须签署“著作权转让声明书”.
+10. 论文发表费280元/页（如需使用彩页，另外加收彩页制作费500元/页）；不向作者收取审稿费用，相应费用由编辑部代付；稿费采取向作者赠送当期期刊及免费下载材料期刊网电子版全文的方式支付。
+11.请登录本刊网站www.cjmr.org, 通过远程系统在线投稿, 不接受其他形式投稿. 请务必注明作者的通讯地址、电话号码(座机和手机)和E-mail地址, 以便于联系.
+12. 本刊编辑部地址: 沈阳市沈河区文化路72号中国科学院金属研究所院内
+邮编: 110016; Tel: 024-23971297; Fax: 024-83978072; E-mail: cjmr@imr.ac.cn)
+参考文献著录格式要求
+[1] 作者姓名(前3名). 文章标题 [J]. 刊名(缩写), 年, 卷(期): 起始页
+Cheng X D, Sun L F, Cao Z F, et al. Cracking process analysis of concrete cover caused by non-uniform corrosion [J]. J. Chin. Soc. Corros. Prot., 2015, 35 (3):257
+(程旭东，孙连方，曹志烽等. 钢筋非均匀锈蚀导致的混凝土保护层锈胀开裂过程分析 [J]. 中国腐蚀与防护学报，2015，35 (3):257)
+[2] 作者. 书名 [M]. 出版地: 出版社, 年
+Li X G, Du C W, Dong C F. Corrosion Behavior and Experimental Research of X70 Steel [M]. Beijing: Science Press, 2006
+(李晓刚, 杜翠微, 董超芳. X70钢的腐蚀行为与试验研究 [M]. 北京: 科学出版社, 2006)
+[3] 作者. 学位论文题目 [D]. 地点: 单位, 年
+[4] 作者. 文章标题 [A]. 论文集名称 [C]. 出版地, 年
+Lu X F. Anti-corrosion technology of PHC piles of Donghai bridge [A]. The 14th Asia Pacific Corrosion Control Meeting Modern Bridge Structure Anticorrosion Technology BBS Symposium [C]. Shanghai, 2007
+(陆旭峰. 东海大桥PHC管桩防腐蚀技术 [A]. 第十四届亚太腐蚀控制会议现代桥梁结构防腐蚀技术论坛文集 [C]. 上海, 2007)
+[5] 作者. 专利名 [P]. 国家名, 专利号, 申请年
+其中中文参考文献要求写成中英文对照的格式，期刊名要求缩写（不能正确给出缩
+写的，请保留全称）；作者名，姓前名后，名缩写，保留3位作者，其余用等（et al)
+代替。
+其余各类文献的著录格式皆参考陈浩元老师主编的科技书刊标准化18讲中204页
+的内容进行修改。
+资助基金名称中英文对照：
+National Basic Research Program of China
+国家重点基础研究发展计划（973）
+High Technology Research and Development Program of China
+国家高技术研究发展计划（863）
+National Natural Science Foundation of China
+国家自然科学基金
+National Funds for Distinguished Young Scholars
+国家杰出青年科学基金
+The Funds for Creative Research Groups of China
+国家创新研究群体科学基金.
+The Major International (Regional) Joint Research Program ofChina
+国家重大国际(地区)合作研究项目
+The National Key Basic Research Special Foundation ofChina
+国家重点基础研究项目特别基金资助的课题
+The Special Foundation for State Major Basic Research Program of China
+国家重点基础研究专项基金资助的课题
+China Postdoctoral Science Foundation
+中国博士后科学基金
+The National High Technology Joint Research Program ofChina
+国家高技术项目联合资助的课题
+Knowledge Innovative Program of The Chinese Academy of Sciences
+中国科学院知识创新工程重要方向项目
+The Program of “One Hundred Talented People” of The Chinese Academy of Sciences
+中国科学院“百人计划”研究项目
+The Major Program for the Fundamental Research of theChineseAcademyof Sciences
+中国科学院基础研究重大项目
+Program for New Century Excellent Talents in University
+新世纪优秀人才支持计划
+The Key Project of Chinese Ministry of Education
+教育部科学技术研究重大项目
+Program for Changjiang Scholars and Innovative Research Team in University
+长江学者和创新团队发展计划
+The Cultivation Fund of the Key Scientific and Technical Innovation Project，Ministry of Education of China
+教育部科技创新工程重大项目培育资金项目
+The Cheung Kong Scholars Programme
+教育部长江学者奖励计划
+The Scientific Research Foundation of the State Human Resource Ministry and the Education Ministry for Returned Chinese Scholars,China
+教育部和国家人事部留学回国人员基金
+The Foundation of the Ministry of Education ofChinafor Outstanding Young Teachers in University.
+教育部高等学校优秀青年教师研究基金
+The Scientific Research Foundation for the Returned Overseas Chinese Scholars，State Education Ministry
+教育部留学回国人员科研启动基金
+The Research Foundation from Ministry of Education ofChina
+教育部重大项目基金
+The Trans-Century Training Program Foundation for Talents from the Ministry of Education ofChina
+教育部跨世纪人才训练基金
+The Science Foundation for Post Doctorate Research from the Ministry of Science and Technology ofChina
+科技部博士后基金
+Special Prophase Project on Basic Research of The National Department of Science and Technology
+科技部基础研究重大项目前期研究专项
+Grant for Key Research Items No.2 in“Climbing” Program from the Ministry of Science and Technology of China
+科技部攀登计划二号重点项目基金
+Specialized Research Fund for the Doctoral Program of Higher Education
+高等学校博士学科点专项科研基金
+The Shanghai “Phosphor” Science Foundation,China
+上海科技启明星基金资助
+The “Dawn”Program ofShanghaiEducation Commission
+上海市“曙光”计划
+TheShanghaiPostdoctoral Sustentation Fund
+上海市博士后基金
+Ministry of Major Science & Technology of Shanghai
+上海市重大科技公关项目
+The Special Foundation for Young Scientists ofZhejiangProvince
+浙江省青年人才基金
+Beijing Municipal Science and Technology Project
+北京市重大科技专项
+Heilongjiang Postdoctoral Grant
+黑龙江省博士后资助基金
+Guangdong Natural Science Foundation
+广东省自然科学基金项目
+The "Tenth five" Obligatory Budget of PLA
+军队“十五”指令性课题
+The Fok Ying-Tong Education Foundation,China
+霍英东教育基金
+发布日期：2008-12-29 浏览: 140445
+版权所有 © 2017 《材料研究学报》编辑部
+地址: 沈阳市文化路72号, 中国科学院金属研究所(110016)
+电话: +86-024-23971297，传真: +86-024-83978072，E-mail: cjmr@imr.ac.cn，http://www.cjmr.org
+本系统由北京玛格泰克科技发展有限公司设计开发 技术支持：support@magtech.com.cn

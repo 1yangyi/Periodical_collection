@@ -1,0 +1,61 @@
+期刊: 地理学报(北京)
+来源: https://www.geog.com.cn/CN/column/column2271.shtml
+标题: 参考文献格式编排要求
+
+模态框（Modal）标题
+在这里添加一些文本
+模态框（Modal）标题
+参考文献格式编排要求
+《地理学报》参考文献格式编排要求（务请严格对照）
+参考文献是论文出版中最容易出现 “硬伤” 的环节， 参考文献务必严格对照本要求撰写， 务求体例完整、 规范、 正确！
+在论文中注意引用近 3-5年的国内外主要相关文献， 全文参考文献一般 15-20篇为宜，研究进展类论文引用参考文献一般控制在约 40篇为宜。中文文献后需要有前置英文对照（其中人名必须全拼）。正文中引用公开出版的文献， 按文中出现的先后顺序编码(在引用处右上角用方括号标注)列于全文末。对文中注释或未正式发表的文献可作为脚注处理， 用数字加圆圈标注。引用文献资料和数据要认真核实， 注明出处。文献作者一般只列前三名， 中用 “,” 隔开； 三人以上后加 “, 等” 或 “. et al.”。英文文献中作者姓在前， 名在后。如 P. E. James， 文献著录为James P E。参考文献排列格式为：
+1）专著：作者 (列前三名). 书名. 版次(首版不录). 出版地: 出版社, 出版年: 起止页码.
+英文示例：
+Wilks D S. Statistical Methods in the Atmospheric Sciences. USA: Academic Press, 2011: 395-458.
+中文示例：
+Lu Dadao. Regional Development and Spatial Structure, Beijing: Science Press, 1995: 15-89. [陆大道. 区域发展及其空间结构. 北京: 科学出版社, 1998: 15-89.]
+Chen Chuankang, Wu Guanghe, Li Changwen. Integrated physical geography. Higher Education Press, 1993. [陈传康, 伍光和, 李昌文. 综合自然地理学. 北京: 高等教育出版社, 1993.]
+2）文集：作者 (列前三名). 文题//编著者. 书名. 出版地: 出版社, 出版年: 起止页码.
+Camagni R, Capello R. The city network paradigm: Theory and empirical evidence//Capello R, Nijkamp P. Urban Dynamics and Growth: Advances in Urban Economics. Amsterdam: Elsevier, 2004: 495-529.
+3）期刊：作者 (列前三名). 论文名. 刊名, 出版年, 卷(期): 起止页码.
+英文示例：
+Liu Changming, Zhang Dan, Liu Xiaomeng, et al. Spatial and temporal change in the potential evapotranspiration sensitivity to meteorological factors in China (1960−2007). Journal of Geophysical Research, 2012, 22(1): 3-14.
+中文示例：
+Zheng Du, Wu Shaohong, Yin Yunhe, et al. Frontiers in terrestrial system research in China under global change. Acta Geographica Sinica, 2016, 71(9): 1475-1483. [郑度, 吴绍洪, 尹云鹤, 等. 全球变化背景下中国自然地域系统研究前沿. 地理学报, 2016, 71(9): 1475-1483.]
+4）学位论文：作者. 论文名[D]. 城市: 学校, 年份.
+Ji Mingxia. Response and interact between atmospheric circulation and temperature of Eurasian [D]. Lanzhou: Lanzhou University, 2009. [季明霞. 欧亚大气环流与地表气温之间的反馈和相互作用[D]. 兰州: 兰州大学, 2009.]
+发布日期：2026-05-20 浏览： 10001
+作者投稿
+专家审稿
+编辑办公
+主编办公
+编委审稿
+下载中心
+通知公告 更多
+在线期刊
+当期目录
+优先出版
+过刊浏览
+推荐文章
+专题
+按栏目浏览
+阅读排行
+下载排行
+引用排行
+E-mail Alert
+RSS
+在线购买
+微信公众平台
+友情链接 更多
+中国地理资源期刊数字传媒网
+中国地理学会
+中国自然资源学会
+中国科学院地理科学与资源研究所
+中国青藏高原研究会
+中国科学院自然科学期刊编辑研究会
+中国科学院
+中国科学技术期刊编辑学会
+访问统计
+总访问量：
+今日访问：
+在线人数：

@@ -1,0 +1,163 @@
+期刊: Research in Astronomy and Astrophysics
+来源: https://www.raa-journal.org/sub/author/
+标题: Author guidelines
+
+2.6
+2025 Impact Factor
+Submit
+Author guidelines
+Online Submissions
+RAA Content
+RAA Macro Package
+For New Authors
+Home / Submit / Author guidelines
+Author guidelines
+Author Guidelines
+Research in Astronomy and Astrophysics (RAA) publishes original research papers and reviews on all branches of astronomy and astrophysics. Reviews are by invitation only. Important new results that require rapid published can be submitted as a Letter.
+Authors who submit a paper are expected to be able to certify that the paper is original work, has not been published before and is not being considered for publication elsewhere. Papers should be written in grammatical English: authors who have doubts about this should ask a knowledgeable colleague to read a draft critically.
+In order to prevent possible instances of plagiarism, RAA will check all incoming articles that are submitted with commercial software designed to detect plagiarism. We will begin to implement this policy immediately. We will contact the author of an article that shows significant amounts of plagiarism. The communications with authors regarding the amount and type of plagiarism will be handled on a case-by-case basis, under the instruction of the responsible scientific editor. We believe that implementing this policy will improve the quality and reliability of the articles published by RAA.
+Artificial intelligence (AI) tools such as ChatGPT or Large LanguageModels (LLMs) cannot be listed as an author of a paper. AI tools cannot meet the requirements for authorship as they cannot take responsibility for the submitted work. As non-legal entities, they cannot assert the presence or absence of conflicts of interest nor manage copyright and license agreements. Authors who use AI tools in the writing of a manuscript, production of images or graphical elements of the paper, or in the collection and analysis of data, must be transparent in disclosing in the methodology or acknowledgments section how the AI tool was used and which tool was used. No disclosure statement is required if you only use these basic tools for grammar and spelling checks, reference and chart formatting, etc.
+Papers can be typeset directly from the author's TeX or LaTeX file as an alternative to conventional typesetting. Authors are encouraged to prepare their paper using the RAA's macro class file.
+Letters must be restricted in length to 6 printed pages. Authors of Letters are encouraged to recommend an expert to write a news and views about their letters.
+Data papers should be prepared using the Data Paper Template.
+Authors are required to submit their manuscripts via the RAA Web Peer Review System at ScholarOne System. If you cannot submit your paper using the web interface, please contact the editor via email at raa@raa-journal.org for help.
+Preparation of the Manuscript
+1. Requirements of Papers
+I. Manuscript Contents
+Manuscripts for submission should generally contain: title, author's name, address of author's institution, abstract, max. 6 key words, main text, acknowledgments, list of references, tables and figures. The author should insert the figures and tables to where the figures and tables should appear in the article. Manuscript pages should be numbered consecutively, as are the figures and tables, all the figures and tables should be mentioned in context.
+RAA encourages authors to place the related data or software products into the persistent repositories linked to the main journal articles by DOIs. We recommend the following astronomy archive platforms:
+(1) China-VO PaperData Repository
+(2) ScienceDB
+Title
+The title of the paper should be concise yet informative.
+Authors and addresses
+For every manuscript, all authors and all addresses should be listed. Addresses should contain e-mail addresses where possible. A number should precede each address and the authors' names should be marked with the appropriate numerical superscript(s).
+Abstract
+Authors should provide an abstract normally of not more than 200 words. The abstract should be self-contained, summarizing concisely the content and conclusions of the paper.
+Key words
+A maximum of 6 key words should be given following the Abstract. These should be selected from a list that is common to ApJ, A&A and MNRAS, and only key words that appear on the list are allowed.
+Click here to download the key words list
+Main Text
+Manuscripts should be divided into numbered sections and subsections, starting with ``1. INTRODUCTION''. Subsections should be numbered, e.g., 2.1, 2.2, 3.1, etc.; appendices with A, B, etc. All sections must have a short descriptive title.
+Abbreviations of concepts, methods, instruments, observatories, etc., may be used throughout the text but the full wording with the abbreviation in parentheses should be given once in the Abstract (if appropriate) and/or once at the first place of mention in the main text (usually in the Introduction).
+Figures and tables
+Figures submitted to the Journal must be of very good quality to ensure accuracy and clarity in the final published copy, and should preferably be in postscript form. Artwork should be in good focus, with clean, clear numbers and letters and sharp black lines. Thin lines, particularly in figures requiring considerable reduction, should be avoided.
+Line artwork
+Authors are asked to bear in mind, when preparing their diagrams, the likely reduction that will be needed when the figure is placed in the journal page. It is important to ensure that the line thickness used will withstand a possibly significant reduction in size. This applies to all aspects of the figure, but dotted and dot-dashed lines can cause particular problems. Axis labelling and lettering, too, should be sized appropriately for the figure and its likely final size. Labelling that is far too large for a figure can also be problematic, and may look very odd on the printed page. Unsuitable artwork will be referred back to the author, inevitably leading to delay in publication.
+Tables
+Tables published in the print version should be prepared using LaTeX. All tables must be mentioned explicitly by number and appear in correct numerical order in the body of the text. That is, Tables 1, 2, 3, and 4 must each be mentioned in the text at least once, and the first mention of Table 3 should not precede the first mention of Table 2.
+Mathematics
+Italic and boldface should be used appropriately to identify physical or mathematical variables. In general, variables are set in light italic, vectors in boldface italic (no arrows). Physical constants such as the speed of light, the Boltzmann constant, the Hubble constant and the solar mass are also set in light italic.
+Differential d, complex i, exponential e, sin, cos, tan, log, etc., are Roman.
+Sub/superscripts that are physical variables are italic, while those that are just labels are Roman (e.g. Ct, but Teff).
+Equations should be punctuated as part of the sentence. Equations in appendices should be numbered (A1), (A2), (B1), etc.
+Units
+Standard abbreviations for SI units (e.g., m, km, mm) or natural units (e.g., AU, pc, light-year) should be used. Expressions of rate, such as kilometers per second, Joules per square meter, etc., should always be set as, e.g., km s-1, not km/s; J m-2, not J/m2.
+The SI-derived unit for energy is Joule (J), but the erg is the unit of energy often used by astronomers by international agreement; and the magnetic unit is Tesla (T), but Gauss is still commonly used. Tesla (T) and Joule (J) are the preferred unit for RAA, but Gauss and erg are acceptable so long as the international astronomers continue to use them.
+Units should be in Roman and separated from the number by a "$\backslash$", half-space -- e.g. 200\,keV.
+The units of time are ms, s, min, h, d, yr, Gyr.
+The units of distance are Å, nm, μm, mm, cm, m, km, AU (au), light-year, pc, kpc, Mpc.
+The unit of arcseconds is arcsec when used to denote angular size or separation (e.g. "beamsize 12 arcsec", "30 arcsec west of the star"); use for positions (e.g. Dec. 30o\dg 29$'$ 23$''$) (similarly for arcminutes).
+Avoid repeating units unnecessarily (e.g. "1.3 and 2.6 mm" rather than ``1.3 mm and 2.6 mm'').
+The unit of magnitudes is "mag", not superscript "m".
+Use the degree symbol "\dgree" except to denote e.g. areas, where deg2 may be more appropriate (e.g. "a survey area of 3 deg2").
+Miscellaneous
+"e.g., i.e., cf., etc.", are Roman. Letters denoting wavebands (e.g., UBV) are set italic. Colour excess is set as, e.g., E(B-V). Letters denoting orbital states are set Roman. Ionized species should be denoted by small capitals, preceded by a thin space -- e.g., HeI; Computer software (e.g., CLOUDY -- {\sc cloudy}) should be in small capitals. Satellite names should be in italic (e.g., Ginga, IRAS). The correct bracket order is {[( )]}. Acronyms and abbreviations should be spelt out at the first occurrence, unless they are very well known.
+Dates should be written in the order: year, month, and day; e.g., ``2000 January 1'', the month being written in full, except in tables, where the standard three-letter abbreviations for months are used without a period.
+Figures and tables should be referred to as e.g., ``Figure 1 (Fig. 1 in parentheses)'' and ``Table 1'', unless they are from another paper, in which case ``figure 1 (fig. 1 in parentheses)'' and ``table 1'' should be used. Equations should be referred as Equation~(No.), and as Eq.(No) in parentheses, equations from another paper should be referred as equation~(number) or eq.~(number) in parentheses. Sections should be referred to as Section and Sect. in parentheses.
+II. References
+Citations in Text
+References should be cited in text by the last name of the author(s) and the date of publication (Hale 1929). There is no comma before the date. For papers with two authors, join author names with an ampersand (Press & Rybicki 1992). Papers by three or more authors are cited by the first author followed by "et al." and the date (Goodman et al. 2003).
+References are given in parentheses unless the author's name is part of the sentence, e.g., "the σ-model (Smoot et al. 1992)" but "according to Smoot et al. (1992)." If a parenthetical citation cites two or more papers, separate them by a semicolon: (Vittorio & Turner 1987; Peebles 1993). If two or more papers by the same author(s) are cited together, the author(s) is/are listed just once, with the dates of the papers following, separated by commas: (Peebles 1982, 1993, 1995). To distinguish papers by the same author(s) published in the same year, append a, b, c, etc., to the date: e.g., Paczynski (1995a, b).
+Reference List
+Format
+All sources cited in the text and tables must appear in the reference list at the end of the paper, and all entries in the reference list must be cited in the text. Reference entries should be ordered alphabetically, starting with the last name of the first author, followed by the first author's initial(s), and so on for each additional author. For papers with more than five authors, the last name and initials of the first three authors only should be listed, followed by a comma and "et al." References listed as "et al." are grouped together and last, as if the second author started with "z"; they are not alphabetized by the name of the actual second author. Multiple entries for one author or one group of authors should be ordered chronologically, and multiple entries for the same year should be distinguished by appending sequential lower-case letters to the year, even if the author groups are not identical: e.g., Smith, E., Rowe, T., & Jones, A. B. 1999a; Smith, A. B., Thomas, J. R., & Peebles, P. J. E. 1999b; Smith et al. 1999c (because all will appear as "Smith et al. 1999" in the text).
+Citation of Electronic Sources
+Electronic catalogs, databases, observers' guides, instrument documentation, electronic conference proceedings, electronic journals, and other stable (non-changing) documents available online should be listed in the reference list in the same manner as other references. These should give the author(s) or authoring agency, title of the document, location and name of the hosting organization (e.g., Pasadena, CA: JPL), version consulted if any, page or document number if any, and the URL (see examples below). References in this class include databases, manuals, conference proceedings, and similar documents, but not general informational sites for instruments or projects, sites for downloading computer code, or papers posted on personal web pages. Citations of electronic journals should follow normal journal format, omitting page number if none are used, followed by the URL. See below for examples.
+Note that URLs for all other electronic resources, such as personal web pages, general informational sites for organizations, telescopes, surveys, projects, proposals, sites for uploading computer or mathematical code, and other sites whose content regularly changes, should be given in a footnote at first mention in the text, but not listed in the reference list.
+Unpublished Material
+References to papers in preparation, preprints, or other sources generally not available to readers should be avoided if possible. If no published form is available, preprints may be listed in the reference list. Private communications, unpublished works, and papers in preparation should be cited only in the run of text, giving authors' initials and the year if completion is imminent, e.g., F. Carlon et al. (2009, in preparation).
+In the references list, use no bold or italic, use commas after author surnames, and use ampersand between the final two author names. Examples of correct styles for some common reference forms are given below.
+Journal article
+Lin, W. P., B{\"o}rner, G., & Mo, H. J. 2000, MNRAS, 319, 517
+Author [Last name, First-name initials], Author, (add ampersand) Author, Year, Journal abbreviated title, Volume number, First page of article
+``Letters'' are denoted by the prefix ``L'' on the page number (e.g. ApJ, 279, L23).
+Book
+Harwit, M., 1998, Astrophysical Concepts (3rd ed.; Berlin: Springer)
+Author [Last name, First-name initials], & Author, Year, Title, Edition, if any; (City of publication: Publisher)
+Article or chapter in an edited collection
+Huchra, J. A. 1986, in Inner Space/Outer Space, eds., E. W. Kolb, et al. (Chicago: Univ. Chicago Press), 65
+Author(s) [Last name, First-name initials], Year, in Collection title, Editors by first-name initials followed by last name (City of publication: Publisher), First page of article
+Conference proceedings
+Gunn, J. E., Knapp, G. 1993, in ASP Conf. Ser. Vol. 43, Sky Surveys., ed., T. B. Soifer (San Francisco: ASP), 267
+Author(s) [Last name, First-name initials], Year, in Conference series title [ASP Conf. Ser., AIP Conf. Proc., IAU Colloq., IAU Symp., etc.] and number, Volume title, Editors by first-name initials followed by last name, ed., (City of publication: Publisher), First page of article
+Preprints
+Smith, A. B. 1999, preprint (astro-ph/9912345)
+Author(s) [Last name, First-name initials], Year, preprint (preprint series and number)
+Star catalogs
+Hoffleit, D., 1982, The Bright Star Catalogue (New Haven: Yale Univ. Obs.)
+Author(s) [Last name, First-name initials], Year, Catalog title (City of publication: Publisher)
+Private communications and papers in preparation
+Papers in preparation and information obtained through private communications should be cited in the text but should not be included in the reference list.
+For journal articles, list the short title of the periodical. IAU abbreviations should be used. The following are some acronyms used for frequently cited journals:
+A&A Astronomy and Astrophysics
+A&AS Astronomy and Astrophysics Supplement Series
+AJ Astronomical Journal
+ApJ Astrophysical Journal
+ApJS Astrophysical Journal Supplement Series
+Ap&SS Astrophysics and Space Science
+ARA&A Annual Review of Astronomy and Astrophysics
+Azh Astronomicheskij Zhurnal
+ChJAA Chinese Journal of Astronomy and Astrophysics
+MNRAS Monthly Notices of the Royal Astronomical Society
+PASJ Publications of the Astronomical Society of Japan
+PASP Publications of the Astronomical Society of the Pacific
+RAA Research in Astronomy and Astrophysics
+2.Page Proofs
+An email will be sent to the authors when the page proofs are ready. Proofs should be read carefully, particularly equations and other numerical matter. It is the responsibility of each author to check the proofs, reply to any queries, and notify the production team of any typographical errors. When updating the reference list, please be careful to update textual citations as well if the year has changed.
+3. Macro Packages for Manuscript Preparation
+Your manuscript is required to be LaTeX-prepared using the RAA macro packages: the macro class raa.cls for LaTeX2e following the sample file sample.tex. Please download raa-package.tar and read readme first. Using the option 'referee' for submission before your paper is accepted.
+Click here to download the RAA macro package.
+4. Electronic-Submission Procedure
+Your full paper including all figures and tables must be compiled in a single pdf file. The source file including all individual figures and tex file will be required when your paper is accepted
+Submission Preparation Checklist
+As part of the submission process, authors are required to check off their submission's compliance with all of the following items, and submissions may be returned to authors that do not adhere to these guidelines.
+The submission has not been previously published, nor is it before another journal for consideration (or an explanation has been provided in Comments to the Editor).
+The paper is prepared using Latex2e (using the RAA's macro class file), see Author Guideline for preparing the manuscript.
+The text adheres to the stylistic and bibliographic requirements outlined in the Author Guidelines, which is found in About the Journal.
+The submission file is a pdf file with all illustrations, figures, and tables placed within the text at the appropriate points, rather than at the end. The source files will be need after the paper is accepted.
+Please provide a list of the names,
+affiliations, e-mail addresses and research interests of five potential
+reviewers with at least three from international institutions.
+This information will help expedite the review process.
+You may put them at the box "Comments to Editor"
+In order to prevent possible instances of plagiarism, RAA will check all incoming articles that are submitted with commercial software designed to detect plagiarism.
+Copyright Notice
+The copyright to this article is transferred to RAA if and when the article is accepted for publication. The author warrants that his/her contribution is original and that he/she has full power to make this grant. The author signs for and accepts responsibility for releasing this material on behalf of any and all co-authors. The copyright transfer covers the exclusive right to reproduce and distribute the article, including reprints, translations, photographic reproductions, microform, electronic form (offline, online) or any other reproductions of similar nature.
+An author may self-archive an author-created version of his/her article on his/her own website and his/her institution's repository, including his/her final version; however he/ she may not use the publisher's PDF version which is posted on www.raa-journal.org. Furthermore, the author may only post his/her version provided acknowledgment is given to the original source of publication and a link is inserted to the published article on RAA's website.
+If these terms are satisfactory, please sign below and return this agreement to us. We cannot publish your paper without this approval. After submission of this agreement signed by the corresponding author, changes of authorship or in the order of the authors listed will not be accepted by RAA.
+The copyright to your article is transferred to RAA if and when the article is accepted for publication. Please download the Copyright Agreement (word) here.
+Privacy Statement
+The names and email addresses entered in this journal site will be used exclusively for the stated purposes of this journal and will not be made available for any other purpose or to any other party.
+Download：
+Signup for Newsletter
+It accepts original submissions from all over the world and is internationally published and distributed by IOP
+Editors-in-Chief：
+Zhan-Wen Han and Liang Gao
+Steering Committee：
+Luis Ho
+Wing-Huen Ip
+Yipeng Jing
+Jingxiu Wang
+Robert Williams
+CN:11-5721/P
+ISSN: 1674-4527; e-ISSN：2397-6209
+Frequency：12 issues per year
+Published by：IOP publishing
+Science Press
+Sponsored by
+National Astronomical Observatories, CAS
+Chinese Astronomical Society
+© Research in Astronomy and Astrophysics (RAA). All Rights Reserved
+©  RAA | All Rights Reserved
+OJS Responsive Theme by: OpenJournalSystems.com

@@ -1,0 +1,154 @@
+期刊: 华中师范大学学报. 自然科学版
+来源: https://ftjs.cbpt.cnki.net/EditorB2N/PromptPageInfo.aspx?t=v&c=1
+标题: 投稿须知
+
+投稿须知
+作者指南
+1 目标范围
+《中国粉体技术》主要但不限于出版粉技术（中图分类号TB44）研究论文，涉及粉体加工如粉碎、分级、混合、改性、造粒、干燥、烧结、流态、雾化、气溶、输运、贮存等，或粉尘爆炸、粉体性能等的基础性和应用性研究。覆盖建材、化工、石油、环保、气象、国防、冶金、煤炭、食品、医药、轻纺、机电、地质、农业等粉体相关领域。
+《中国粉体技术》主要栏目有粉体加工、颗粒制备、颗粒测试与表征、气溶胶、流态化、粉尘爆炸、工程技术等。
+2 稿件类型
+1）研究性论文，以实验为基础，涉及具体的研究背景、方法、结果、讨论、结论等。研究要求有独立性、系统性、有创新性，应体现对行业的贡献。参考文献不低于20篇。
+2）综述性论文，应就某一主题，从研究背景出发，系统综述国内外同行业近期相关研究，文献覆盖面要广、要全、要有代表性，提出研究的意义和该综述的行业贡献和前景分析。参考文献不低于50篇。
+3）研究简报，要求对研究进行简洁而完整地描述，含研究背景和意义、方法、结果、结论。一般不超过2500字，包括适当的图、表格、参考文献等。
+3 投稿要求
+1）稿件必须为首发稿，均未在国、内外公开发表，或部分的发表。请勿一稿多投。作者对稿件的真实性、保密性负责。
+2）论文在编辑部编辑出版的期刊上首次发表后，按版权协议的约定: 该论文数字化复制权、发行权、汇编权及信息网络传播权将转让给编辑部。
+3）为保证作者的署名权和知识产权，全部作者均应在“版权协议”上签名，且作者之间无利益冲突。
+4）刊物应该有出版伦理和出版不端行为声明，并坚持学术出版的透明原则
+5）作者通过中国知网采编平台投稿、查看稿件进展。或通过期刊网站站链接到采编平台，不接受任何形式的中介或邮箱投稿。
+6）稿件一般要求国家级以上的科研基金项目支撑。
+4 稿件准备
+投稿前，请在官网下载最新投稿模板，严格按照模板要求整理文稿。原稿全文保存为.doc或.docx格式。
+4.1 首页
+1）文章编号和doi
+请保留该项内容，由编辑部正式出版前补充相关信息。
+2）题名
+要求准确、清楚、简洁，居中二号黑体，宜用名词性偏正词组构成，不超过20字为宜。不使用缩写。
+3）中文作者姓名
+中间用逗号隔开，居中，小四号楷体。外国作者的姓名写法遵从国际惯例。
+4）作者单位
+加圆括号置于作者姓名下方；单位名称与官网显示应一致；一级单位与二级单位之间用空格隔开；应包括省市或直辖市，及邮政编码；居中，小五宋体。
+不同单位使用“1.”“2.”……序号表示，中间用分号隔开。不同作者对应相同的2个单位或多个单位时，无论作者名字后面还是单位前面均省略序号。
+错误示例：
+张 强1，2，李健康1，2
+（1.济南大学 材料科学学院，山东 250022；2.国投XX煤业有限公司，河南 郑州 450001）
+应为：
+张 三，李老师
+（济南大学 材料科学学院，山东 250022；国投新登郑州煤业有限公司，河南郑州 450001）
+同一单位的二级单位用“a.”“b.”……表示，中间用逗号隔开。不同作者对应的2个或更多的二级单位相同时，无论作者名字后面还是单位前面均省略序号。
+错误示例：
+张 强1a，1b，李健康2
+（1.济南大学 a.材料科学学院，b.化学化工学院，山东 250022；2. 国投XX煤业有限公司，河南 郑州 450001）
+应为：
+张 强1，李健康2
+（1.济南大学 材料科学学院，化学化工学院，山东 250022；2. 国投XX煤业有限公司，河南 郑州 450001）
+5）中文摘要
+摘要应能反映论文主要内容，排在署名与关键词之间。小5号，仿宋体。400～500字左右，具有独立性和自明性，应包括但不限于目的、方法、结果（包含主要数据）、结论等部分，不必有背景介绍和自我评价语句。
+采用专业化术语或缩写时，应在首次出现时加以定义，形式为“中文（小写的英文，缩写）”。示例：
+甲醇制烯烃（methanol to olefins，MTO）、计算流体力学（computational fluid dynamics，CFD）
+严格按照模板提供的结构摘要顺序补充相关内容。可以使用动宾短语或完整句子。
+示例：
+研究性论文：【目的】为了讨探……，研究……，意义是……。【方法】采用……和……等方法，制备……，利用……和……等手段进行表征。【结果】……是多少，……怎么样。（以数据说话）【结论】提出……，认为……。（不要数据，肯定语气）
+综述性论文：【目的】为了讨探……，研究……，意义是……。【研究进展】综述……，概括……，总结……。【结论和展望】提出……。认为……。
+6）中文关键词。3～8个，中间用“；”隔开；不能用缩写；应有代表性，不能过于宽泛。
+示例：
+关键词：材料物理与化学；磷铝酸盐水泥；复合水泥
+7）中图分类号。请到网站或《中国图书馆分类法》查询，应具体到最后一层，有多个时分类号时使用“；”隔开。
+示例：
+“TB44；TQ324.8”
+8）文献标志码。请保留该项内容，由编辑部正式出版前补充相关信息。
+9）引用格式。请添加本文稿引用格式。
+示例：
+黄广华，陆有军，潘志东，等.采用水性嵌段高分子分散剂制备水基铝酸钴陶瓷墨水及其喷墨打印性能[J].中国粉体技术，2026，32（2）:159-170.
+HUANG G H, LU Y J, PAN Z D, et al. Preparation of water-based cobalt aluminate ceramic ink using water-based block polymer dispersant and its ink-jet printing performance [J]. China Powder Science and Technology, 2026, 32 (2): 159-170.
+10）英文题名。与中文题名对应，翻译确切；仅首单词首字母大写；不使用缩写；四号Times New Roman。
+11）英文作者姓名。斜体，姓前名后，姓大写，名首字母大写，双名中间不加连字符；单位上标正体；五号Times New Roman。
+示例：
+ZHENG Anxin（郑安心），ZHANG Yan（张言）。
+12）英文单位。用括号括起来，居中，小五号Times New Roman；与官网翻译一致；二级单位在前，一级单位在后；一级单位间用分号隔开，二级单位用“1a.，1b.”……表示，之间用逗号隔开，要国家名不要省名；各实词首字母大写；境外作者须提供准确无误的邮政地址。
+示例：
+（1a. College of Materials Science and Engineering，1b.XXX Key Laboratory of the Ministry of Education，University of Tianjin, Tianjin 300072, China; 2. School of Chemistry and Chemical Engineering, Shandong University, Jinan 250014, China)
+13）英文摘要Abstract。小五号Times New Roman。英文长摘要800词左右，与中文摘要的内容可以不严格对应；长摘要应详细地描述研究目的、方法、结果和结论等，尽可能多地展现重要内容；避免对目的、背景做过长的介绍；长摘要的清晰度与质量相较于长度更为重要，有助于提升国际传播能力；“方法”用一般过去时，“目的”“结果”“结论”用一般现在时，一般不用主动语态；如果不能提供长英文摘要，可以直接提供长中文摘要，由编辑部负责翻译）
+示例：
+Abstract（研究论文以此为模板）
+Objective The XXX is XXX. It is an effective way to improve XXX. Compared with the XXX, XXX has the advantages of XXX and XXX, resulting in XXX. However， the main difficulty in XXX is XXX. This leads to XXX.Based on XXX, the XXX and XXX are analyzed. The methods and results of our research can be help to the XXX.
+Methods In this paper, firstly, XXX was divided into the XXX based on the rate equation model of XXX. The XXX was XXX, and XXX was XXX, where XXX was established for XXX. Secondly, the above model was used to simulate the XXX and XXX of XXX under different XXX modes, and XXX was selected. Thirdly, the XXX’s characteristics of the XXX with different XXX, and XXX were simulated to screen out XXX for XXX. Fourthly, the effect of XXX on XXX’s characteristics of XXX was quantitatively described. According to the results of numerical simulation, the parameters of XXX were optimized and conducted via the experiments. Finally, the experimental results were compared with the simulated results, and an efficient and stable XXX was founded.
+Results and Discussion According to the XXX established above, it is found by calculation that the XXX is 2.1% higher than that under XXX when XXX is the same shown in Fig. 2(a). Therefore, the XXX is more reasonable. When XXX is adopted, XXX is used, and XXXs are changed. The results of numerical simulation are shown in Fig. 3(a). The XXX is from 0.2 to 0.3, and the XXX is from 0.05 to 0.15, which are a reasonable choice for XXX. XXX’s length increases from 3.0 m to 4.0 m, and the XXX grows slowly [Fig. 4 (a)]. At the same time, the XXX decreases, while the XXX increases rapidly from 0.2% to 7.5% Finally, a XXX with an XXX of 9.5% and XXX of 1 nm is used. XXX is achieved with a XXX, The XXX is 84.2% and XXX is 1.85.
+Conclusion In this paper, XXX is reported. Based on XXX is analyzed, It is found that when XX reaches 4 m or more, XXX is up to 40 W and accounts for 7.5% of the total output power. Therefore, in order to suppress XXX, XXX is used after theoretical calculation and experimental optimization. Meanwhile, as XXX is XXX, XXX is used to maximize XXX. To our knowledge, it is one of the highest efficient for the XXX with XXX. In order to make XXX, the XXX of the XXX is further optimized. XXX and XXX are used. In addition, XXX is XXX. The XXX is XXX which indicates that it can be used as XXX.
+Abstract（综述论文以此为模板）
+Significance The XXX has attracted tremendous scientific and technological interest. lt not only covers XXX, but also contains XXX, which makes it quite promising for materials processing, Chemical, biomolecular sensing, security and industry. Specifically, XXX and XXX have found direct demands in XXX, XXX, XXX, XXX, etc, owing to their XXX. XXX has been developed for several decades. In this century, XXX and XXX have provided an ideal platform for XXX, there are many reports on XXX based on the XXX. However, such XXX cannot render XXX, because XXX, due to XXX. As an alternative, XXX with the excellent XXX capability, XXX, and reliable chemical stability has become the most popular XXX, hence becoming the hot research topic in the recent decade.
+Progress So far, three main XXX mechanisms, i.e., XXX，XXX, and XXX have been exploited in XXX, among which the XXX is the pioneer. In 2012, Li et al. used a XXX to present a XXX, yielding XXX width of 24 ps, and XXX of 27.1 MHz (Fig. 3). This marks the first XXX in the XXX. After that, different XXXs were introduced into XXX to demonstrate XXX. However, all XXX, limited by the XXX, where the XXX, reported by Hu et al. using an XXX [Fig. 4(a)]. Until 2015, the XXX technique was moved to the XXX, where Duval et al, presented the XXX for the first time(Fig.7), After that, a multitude of efforts have made on improving XXX performances, e. g., XXX, XXX, XXX. One of the impressive results is that completed by Huang et al., where XXXs were produced through XXX and XXX by XXX as shown in Fig. 8(a). Recently, in 2018, Woodward et al, firstly introduced the XXX. The achieved XXX could XXX (Fig. 10), representing XXX. Subsequently, the XXX was also applied in XXX. To circumvent the issue of XXX, Majewski et al. used an alternative XXX to establish XXX. The XXX with an XXX was obtained.
+Conclusions and Prospects The past decade has seen great progress of XXX, enabling a range of new applications. Different mechanisms, e. g., XXX, XXX, and XXX have been introduced into XXX to demonstrate XXX. However, most of XXX involve some XXX, XXX, weakening XXX and preventing XXX while XXX, especially at the XXX. Thus the development towards XXX is undoubtedly the trend in the future. In addition, the performance parameters of the XXX fall far short of that in XXX, which needs to be improved by employing new techniques and designs. Parallel to the XXX, further extending XXX is also an important direction.
+14）英文关键词。以3～8个为宜，之间用“；”隔开；英文关键词以Keywords标识；严格与中文关键词对应；不用化学式或结构式，不用缩写，用英文全称；除必要的，全部用小写字母；小五号Times New Roman。
+示例：
+Keywords: materials physics and chemistry；phosphorus aluminate cement; composite cement
+15）收稿日期、修回日期、上线日期。请保留该项内容，由编辑部正式出版前添加相关信息。
+16）基金项目。应按国家规定的正式名称填写，注明项目编号。2个以上，中间用分号隔开。项目主持人应为作者之一；请在上传原稿全文后，再次上传基金项目凭证。文末应有英文项信息（小五号，Times New Roman；级别从大到小，中间用“，”隔开，最后一个基金项目前用“and”）。
+示例：
+国家自然科学基金项目，编号：0000000；国家科技重大专项，编号：00000。
+Funding：The research was supported by the National Natural Science Foundation of China (Code: 52374011)，the research was supported by the National Key R&D Program of China (Code: 2023YFF0616400) and the Sichuan Provincial Science Fund for Distinguished Young Scholars (Code: 2019JDJQ0038).
+17）作者简介。应包括姓名、出生年、民族、性别、职称、学位、人才称号、研究方向、E-mail等。
+示例：
+第一作者：姓名（出生年—），男（民族，汉族省略），职称，学位，硕士生导师或博士生导师，人才称号（院士、国家级人才、省部级人才），研究方向为......。E-mail：......。
+通信作者：姓名（出生年—），男（民族，汉族省略），职称，学位，硕士生导师或博士生导师，人才称号（院士、国家级人才、省部级人才），研究方向为......。E-mail：......。
+（学位为“硕士”或“博士”，未毕业的在读生为“硕士生”或“博士生”；人才称号和导师类别选其一或不选）
+4.2 正文
+1）论文应符合科学论文写作体例，语言文字的使用应遵从国家语言文字的现行法律、法规，标点符号、数字、计量单位等，按国家标准（推荐标准）的规定执行。
+2）正文从第2面开始，五号宋体，数字和英文采用Times New Roman。
+3）正文中（包括图、表中）采用专业化术语或缩写时，应在首次出现时再次加以定义（同摘要，即使摘要中定义过。
+4）正文中的参考文献序号以在正文中出现的先后为序，引用内容和顺序应与文后参考文献列表对应。文献序号用上标形式标出，如[1]。
+示例：
+1）李少华等[1]研究发现……；2）Rocha等[2]采用……；1）Li等[3]研究发现……；3）……是一种新型材料4-5，7]；4）文献[7-10]中报道了……。
+5）中、英文题名、摘要、关键词、图题、表题中不能出现缩写，一律改为规范的中、英文全称。
+4.2.1 引言
+1）正文中不带“引言”字样，引言中不要有图、表。
+2）作为论文开端，应解决以下问题：以现有文献综述研究背景；分析存在的、欲解决的问题；本文做了哪些工作；解决了哪些问题，对行业的贡献和意义。
+4.2.2 实验
+1）试剂材料与仪器设备
+试剂、材料格式如下：名称（缩写，化学式，纯度，厂家）；型号仪器设备名称（缩写，厂家）；中间用分号分开；相同厂家的可以合并，以顿号分开。
+示例：
+试剂、材料：三水硝酸铜（Cu(NO3)2.3H2O，分析纯，成都市科隆化学品有限公司）；1,3,5-苯三甲酸（C9O6H6）、二甲基甲酰胺（C3H7NO）、无水乙醇（C2H6O）（均为分析纯，阿拉丁试剂(上海)有限公司）；硝酸银（AgNO3）、氢氧化钠（NaOH）（均为分析纯，国药集团化学试剂有限公司）。
+仪器、设备：TGA/SDTA851E型热失重分析仪（梅特勒-托利多公司）；AXS D8 Advance X型射线粉末衍射仪（德国Bruker公司）；FEI Quanta 250F型扫描电子显微镜分析仪（SEM，美国FEI公司）。
+2）方法
+按先后顺序写明步骤、方法，逻辑性要强，主谓分明。计量单位、数字和标点符执行国家标准规定，不允许使用已废弃的量名称。
+量和符号用阿拉伯数字和字母表示，如：2 a（2年）、5 d（5天）、20 ℃（20摄氏度）、25 moL（25摩）；非物理量量词（计数单位）前的数字，如3人、50元、100根；计数的数值，如质量分数为1/3、体积分数为96.25%、比例为3:7等；一部分概数，如10多、500余、3 000左右等；代号、代码和序号中的数字，如HP-3000型、第1卷；公历世纪（21世纪）、年代、年、月、日、时刻等。
+为使多位数字便于阅读，数字从小数点开始向左或右，每3位之间空半格，如：2 637 r/min，1 234.567 8 mol/L等；数与单位之间空半格，如2.5 μm。
+变量符号：用斜体，如压强p、质量m、温度t、质量分数w；对于矢量和张量使用黑斜体，如v；pH例外。
+变量下标：如果下标代表某特定对象用正体，如vn、vt分别为法向分量、切向分量。如果下标代表变量用斜体，如i为不同颗粒，di为颗粒的直径；一般采用单个字母作下标，最多不超过3个英文字符。
+常量、算符、单位用正体。如光速c、圆周率π；微分符号d、特殊函数sin、H；米m、帕Pa、千k、热力学温标K，体积L，摩尔mol。
+单键、一字线、半字线和波浪线：化学键Si—CH3、Si—O—Al振动吸收峰、国标代号GB/T 18854—2015等用单键或一字线；若干连续图或公式号，如：图3—6所示，见式（1）—（6）等，用一字线；混合气体 O2-N2，压力-时间变化曲线，PP-g-PAD织物等，用半字线，再如Gas-solid two-phase flow characteristics of H-type vacuum glove box based on CFD中，前者用半字线，后两者用连字符；电压变化范围为1 500~4 000 mV，10%~20%等用波浪线。
+4.2.3 结果与分析
+1）数学表达式
+使用公式编辑器输入，不能用图片。公式居中，按顺序编号，编号右对齐。表达式需要换行时，等号留在本行，其余换行左对齐。公式是正文中的一部分，参照下文。公式中的变量采用相应的规范符号，斜体表示，解释性的如英文首字母用正体。
+示例：
+采用Hertz-Mindlin (No-slip) 接触模型[11]，由牛顿第二定律可知
+, （1）
+式中：mp为颗粒p的质量，kg；vp为气体速度，m/s；t为时间，min；g为气体重力加速度，m/s2；Fd为外力，N；fcon为颗粒间作用力，N；nc表示与颗粒p发生接触的颗粒数。
+， （2）
+式中：Ip为颗粒转动惯量，kg·m²；ωp为颗粒角速度，rad/s；Tpq表示扭矩，N·m。
+2）图、表
+图、表中的中文字体为6号宋体，数字和英文用6号Times New roman。
+a）图、表应有自明性，图题、表题应包含尽可能多的信息；图、表题应为中、英文对照；图题置于图下方，居中；表题置于表上方，居中；应标明图、表序号，不得遗漏或重复。
+b）应以图例或表注的形式说明图中所有符号、缩写等的含义，且与正文中的含义一致。
+c）正文中应有引出图、表的提示性文字，引出表和图的文字在前，表和图在后。应与图题、表题统一；由图、表得出结论之前，应有“由图或表可知，”等提示语。
+示例：
+“图3所示为……。由图可知，……”“……见表3。由表可知……”。
+d）图、表中各量需用名称或符号表示，并标明单位；量名称或符号与单位之间以“/”分隔，如“直径/m”或“d/m”；复合单位加括号，并以指数形式表示，如“浓度/(mol·L-1)”。
+e）如果图的坐标轴上的标值含小数，则该轴上所有标值小数点后的位数应相同，不够则补0，整数加小数点后补0；坐标轴上的0.00等应改为0；坐标轴上的标值线朝内，删去无对应标值的标值线；坐标轴起点、终点处须有相应的标值；横轴、纵轴起点数值均为0时，删去横轴起点处的0。
+f）当有多个同类图形时，不要将图形合并或使用图中图，应使用分图分别表示；分图序号用带括号的小写英文字母“（a）、（b）、……”表示，且只添加中文分图题名。
+g）解释性图注置于图形下方、图题上方，以分号隔开，以“一字线”连接序号和名称，句末用句号。
+h）图中也可以共同使用坐标轴；可用图例标明不同曲线，也可在曲线上方直接标注曲线的名称或代号（用不同数字）。
+i）三线表宜采用竖向形式。“注”左空1个汉字。如单元格内数据单位相同，可将单位置于英文表题右侧，表头单位右空1个汉字。
+j）表的单元格内同类的文字项目左对齐，如，某列是型号，则各种型号左对齐；单元格内文字项目另起一行时，第1行右缩一字，第2行始左对齐。
+k）有范围数值，应按符号居中上下对齐，如对齐“～”；数值应个位对齐或上下小数点对齐）。
+l）表内“空白”代表未测或无此项，“—”代表未发现，应区别数值为“0”时的情况。
+4.2.3 讨论
+1）讨论应是对实验结果的解释，需要一定的知识基础和科研思维能力；讨论起始于课题的已知情况，然后解释实验结果对课题研究的进一步认识和意义，最后是存在的问题和局限等。
+2）实验结果往往是相对的，没有绝对的正确，讨论起来要留有余地，常用提示、意指、呈现……等；对实验结果按顺序进行讨论，讲述每个结果表示什么，对某个问题认知的意义，特别是对粉体行业技术应用的研究意义。
+3）常使用主动句，可用第1人称；语句简练，避免冗长句。
+4）讨论不能引入新数据，所有数据都应来自结果部分；可引用已发表的他人结果，或自己以前的研究结果来支撑讨论，有时需要表明自己的结果支持他人发现，应该写出自己的结果与已发表的文献的相同和不同之处。
+5）应该用小段文字阐述在该结果的基础上，新的问题或假想是什么，应如何去研究新的问题或假想。
+6）应说明例外情况、缺乏相关性的情况、尚未搞清楚的情况；切记，不要试图掩盖、刻意回避与预期不符的数据。
+7）应说明科研成果的理论意义和现实应用；说明所得结论，尽量要清晰；说明每项结论的依据，如“正如资深学者所言……”，不可假设任何事情。
+8）如果“结果”部分是“结果与分析”或“结果与讨论”，本部分可不单列。

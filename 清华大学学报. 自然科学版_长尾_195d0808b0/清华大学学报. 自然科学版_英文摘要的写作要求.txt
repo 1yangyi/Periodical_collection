@@ -1,0 +1,107 @@
+期刊: 清华大学学报. 自然科学版
+来源: https://jst.tsinghuajournals.com/CN/column/column9.shtml
+标题: 英文摘要的写作要求
+
+模态框（Modal）标题
+在这里添加一些文本
+模态框（Modal）标题
+横山亮次奖 | 百年刊庆 | 中文 | English
+首页
+关于期刊
+期刊简介
+出版伦理
+获奖情况
+编辑委员会
+特约编委
+编辑部
+联系我们
+作者中心
+在线投稿/查稿
+投稿指南
+英文摘要的写作要求
+稿件作图要求
+稿件模板
+文稿出版协议
+作者在线帮助
+系统使用常用问题
+审稿中心
+审稿要求
+专家在线审稿
+优秀评审意见
+在线期刊
+当期目录
+过刊浏览
+阅读排行
+下载排行
+引用排行
+E-mail Alert
+期刊订阅
+交流合作
+英文摘要的写作要求
+清华大学学报（自然科学版）致作者: 写好英文摘要,提高EI收录率
+撰写好的英文摘要，对于论文是否被Ei检索关系重大。
+为进一步提高英文摘要的写作质量，根据中华人民共和国国家标准 （GB 6447-86）“文摘撰写规则”和Ei提出的要求，整理了本文，以供作者参考。
+1 摘要的目的
+摘要是论文的梗概，提供论文的实质性内容的知识。摘要的目的在于：给读者关于文献内容的足够的信息，使读者决定是否要获得论文。
+2 摘要的要素
+1） 目的——研究、研制、调查等的前提、目的和任务，所涉及的主题范围。
+2） 方法——所用的原理、理论、条件、对象、材料、工艺、结构、手段、装备、程序等。
+3） 结果——实验的、研究的结果、数据，被确定的关系，观察结果，得到的效果、性能等。
+4） 结论——结果的分析、研究、比较、评价、应用，提出的问题等。
+3 摘要的篇幅
+摘要的篇幅取决于论文的类型。
+可采用以下方法使摘要达到最小篇幅：
+1） 摘要中第一句的开头部分,不要与论文标题重复。
+2） 把背景信息删去，或减到最少。
+3） 只限于新的信息。过去的研究应删去或减到最小。
+4） 不应包含作者将来的计划。
+5） 不应包含不属于摘要的说法，如：
+“本文所描述的工作，属于……首创”。
+“本文所描述的工作，目前尚未见报道”。
+“本文所描述的工作，是对于先前最新研究的一个改进”。
+6） 相同的信息不要重复表达。
+原文为 at a temperature of 250 ℃ to 300 ℃ 应改为 at 250~300 ℃
+原文为 at a high pressure of 1.2 MPa 应改为 at 1.2 MPa
+7） 以量的国际单位符号表示物理量单位（例如，以“kg”代替 “kilogram”）。
+8） 以标准简化方法表示英文通用词（以“NY”代替“New York”）。
+9） 删去不必要的短语，如：
+“A method is described”，
+“In this work”，
+“It is reported that”,
+“This paper is concerned with” ，
+“Extensive investigations show that”
+4 摘要的英文写作风格
+要写好英文摘要，就要完全地遵从通行的公认的英文摘要写作规范。其要点如下：
+1） 句子完整、清晰、简洁。
+2） 用简单句。为避免单调，改变句子的长度和句子的结构。
+3） 用过去时态描述作者的工作，因它是过去所做的。但是，用现在时态描述所做的结论。
+4） 避免使用动词的名词形式。如：
+正：“Thickness of plastic sheet was measured”
+误：“measurement of thickness of plastic sheet was made”
+5） 正确地使用冠词，既应避免多加冠词，也应避免蹩脚地省略冠词。如：
+正：“Pressure is a function of the temperature”
+误：“The pressure is a function of the temperature”;
+正：“The refinery operates …”
+误：“Refinery operates…”
+6） 使用长的、连串的形容词、名词、或形容词加名词，来修饰名词。为打破这种状态，可使用介词短语，或用连字符连接名词词组中的名词，形成修饰单元。例如：
+应写为“The chlorine-containing propylene-based polymer of high melt index”，
+而不写为“The chlorine containing high melt index-propylene based polymer”
+7） 使用短的、简单的、具体的、熟悉的词。不使用华丽的词藻。
+8） 使用主动语态而不使用被动语态。 “A exceeds B”读起来要好于“B is exceeded by A”。使用主动语态还有助于避免过多地使用类似于“is”, “was”, “are”和“were”这样的弱动词。
+9） 构成句子时，动词应靠近主语。避免形如以下的句子：
+“The decolorization in solutions of the pigment in dioxane, which were exposed to 10 hr of UV irradiation, was no longer irreversible.”
+改进的句子，应当是：
+“When the pigment was dissolved in dioxane, decolorization was irreversible, after 10 hr of UV irradiation.”
+10） 避免使用那些既不说明问题，又没有任何含意的短语。例如： “specially designed or formulated”， “ The author discusses”， “The author studied” 应删去。
+11） 不使用俚语、非英语的句子。慎用行话和口语。不使用电报体。
+发布日期：2014-06-20 浏览： 44175
+扫码关注，本刊微信公众号
+地址：清华大学东门外学研大厦B座908室
+邮编：100084
+电话：010-62788108/62771385/62792976/62792994
+E-mail：xuebaost@tsinghua.edu.cn
+访问统计
+总访问量
+今日访问
+在线人数
+版权所有 © 《清华大学学报（自然科学版）》编辑部

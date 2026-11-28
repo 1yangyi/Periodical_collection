@@ -1,0 +1,68 @@
+期刊: 植物保护学报
+来源: https://zwbhxb.ijournals.cn/ch/first_menu.aspx?parent_id=20081122190830001
+标题: 投稿指南
+
+首页 | 期刊简介 |
+编委会
+编委会
+青年编委会
+| 道德声明 | 投稿指南 | 联系我们 | 期刊订阅 | English
+投稿指南
+《植物保护学报》征稿简介
+1 征稿范围
+本刊主要刊登农作物病害、虫害、草害、鼠害、农药等方面未曾发表过的偏重应用或与应用联系较紧密的研究论文、文献综述及研究简报等。优先发表国家重大、重点项目及有突破性进展和对生产有重要指导作用的科研成果。期刊为中英文混排，为促进国际交流，欢迎采用英文撰稿。
+2 内容要求
+2.1 概述
+文章内容力求完整充实，论点明确，资料和数据正确可靠，文字简明流畅。本刊设研究论文、文献综述、研究简报三个栏目。中文稿件使用的专业名词应参照全国科学技术名词审定委员会2000年公布的相关名词规范。
+2.2 研究论文
+题目：简洁明了，突出文中创新之处，一般不超过30个字。应具体明确，不能大而笼统。不宜有“研究”、“初步”等词。
+作者/单位：署名人应是直接参加课题研究的全部或主要部分的工作，并为文章的直接责任人。作者名之间不要加逗号。应写明作者单位的标准全称及所在地和邮编。作者位数不能超过6位。
+脚注：请采用插入脚注的形式。包括“基金项目”、“通讯作者”等。样例：
+基金项目：国家自然科学基金（30960011）
+*通讯作者（Author for correspondence），E-mail：lisi@sina.com
+摘要/关键词：摘要控制在300字左右。摘要应包括研究目的、方法、主要结果（关键性数据）和结论。英文摘要需根据中文摘要内容改写，对研究方法和结果的陈述用一般过去时。关键词3~5个。
+前言：应突出研究的重要性和意义，已有的研究进展和有待研究解决的问题。
+材料与方法：需列出试验中所使用材料、主要试剂和仪器及其来源。方法陈述需详细，并交代数据统计分析方法。一般包括1.1材料、1.2方法以及1.3数据分析三部分。
+结果与分析：是对结果的概括性描述，文字部分需对图表中关键性内容作简要说明。叙述力求简洁，突出该试验的重点结论，避免边叙边议。结果部分图、表不宜过多。
+讨论：需结合论文主题、研究结果、他人研究展开。主要是针对研究结果的重要性和创新性、所采用的技术措施的有效性等进行延伸分析。请注意文章只有讨论部分，而不是结论与讨论部分。
+参考文献：文献用著者-年份”制，文中引用处应在圆括号内注明原著者姓名和年代，2名作者之间用“和”（中文文献）或“&”（外文文献）连接，3名或3名以上作者时只给出第一名作者，后加“等”（中文文献）或“et al.”（外文文献），外文著者只给出姓氏即可（曾士迈等，1979；吴孔明和郭予元，2000；Biesmeijer et al., 2006）。文中引用超过1篇文献需按年代顺序分开表述。多个文献不宜一带而过，需稍分开表述。同类文献不必大量引用。
+2.3 文献综述
+选题应具有前瞻性和引导性。仅限于接受作者本人长期从事某领域的实践经验成果，并结合国际研究热点的综述性文章。不仅能概述国际、国内的研究进展，更重要的是提出自己的见解，并指明今后研究的方向。参考文献应涵盖国内外最新研究现状。不接受在读研究生投稿。
+2.4 研究简报
+全文2000余字，1.5倍行距不超过3页，图表及文献等尽可能删减，中英文摘要均删除，其余请参考研究论文。
+3 格式要求
+3.1 文字 文章排版一律用A4纸，页边距左右2.4 cm,上下2.5 cm。研究论文中文标题3号字，英文标题4号字。正文均5号字，中文宋体，英文Times New Roman，1.5倍行距（图表单倍行距）。正文中的各级标题用“1、1.1、1.1.1……”表示，一般不宜超过4节。缩略词首次出现时需有其中英文全称。学名首次出现时应给出其拉丁名全称，注意大小写、正斜体，属名再次出现时需缩写。公式中变量斜体。文中单位需符合国际、国内计量标准。亩已停用，请用hm2替代。mM、rpm等缩写，一律写为mmol/L及r/min的形式。文中药剂名均须用通用名（中英文）。农药品种的名称、来源、规格需规范。原药：中文通用名（英文通用名称）、纯度、来源。制剂：有效成分含量 有效成分中文通用名称（英文通用名称） 剂型名称。
+3.2 图表 文中图表力求少而精，图表应放在相应结果之后。图表全部中英文对照。表格采用“三线表”，设计合理。照片图层次分明、色彩清晰、大小适当，分辨率不低于300 dpi。线条图比例适当、标识清楚。图中字均用小5号。地图需等比例缩放，需有方向及比例尺，其国界须按照中国地图出版社网页最新出版的地图下载绘制。
+3.3 参考文献
+正文：文中引用处应在圆括号内注明原著者姓名和年代，如引用句中已出现原著者姓名的，只在圆括号中给出年份即可。2名作者之间用“和”（中文文献）或“&”（外文文献）连接，3名或3名以上作者时只给出第一名作者，后加“等”（中文文献）或“et al.”（外文文献），西文著者只给出姓氏即可。如文中引用超过1篇文献需按年代顺序分开表述。文中引用样例：曾士迈等（1979）研究发现……或（曾士迈等，1979；吴孔明和郭予元，2000；Biesmeijer et al.，2006）。
+文后：文献用“著者－出版年”制，文献著录时，中文文献需给出对应的英文对照，且英文在前，中文置于其后方括号中，如果原文献没有对应的英文，请一定自己翻译，尽可能正确。所有中英文文献统一按照英文字母升序排列。作者数在10位之内的需全部列出，超过10位的用“等”或“et al.”代替。若著者姓相同，按名的字母顺序排列；著者姓和名相同，按出版年排列；著者及年份均相同，年份后加a、b、c……以区别。只列正文中引用的且为公开发表的文献，未正式发表的资料不得列入。刊名用全称。文献请对照样例逐一修改。具体样例如下：
+Altieri MA. 2004. Biodiversity and pest management in agroecosystems (2nd edition). New York: Food Products Press, pp. 203-224
+Biesmeijer JC, Roberts SPM, Reemer M, Ohlemüller R, Edwards M, Peeters T, Schaffers AP, Potts SG, Kleukers R, Thomas CD, et al. 2006. Parallel declines in pollinators and insect-pollinated plants in Britain and the Netherlands. Science, 313(5785): 351-354
+Garnsey SM, Permar TA, Camber M, Henderson CT. 1993. Direct tissue blot immunoassay (DTBIA) for detection of Citrus tristeza virus (CTV).//Moreno P, de Graca JV, Yokomi RK. Proceedings of the 12th Conference on International Organization of Citrus Virologist. Riverside, USA, pp. 39-50
+McDonald AH, Nicol JM. 2005. Nematode parasites of cereals.//Luc M, Sikora R A, Bridge J. Plant parasitic nematodes in subtropical and tropical agriculture. Wallingford, UK: CABI Publishing, pp.131-191
+Qin JD. 1987. The relationships between insects and plants. Beijing: Science Press, pp. 52-78 (in Chinese) [钦俊德. 1987. 昆虫与植物的关系. 北京: 科学出版社, pp. 52-78]
+Sun YF, Zhang YJ, Lu YH, Wu KM, Guo YY. 2011. The sustainability control of blind stink bug based on the cotton volatile substances.//Wu KM. Plant protection science and technology innovation and specialization of the prevention and control of diseases and pests—Academic annual Conference of Botanical China Society of Plant Protection in 2011. Beijing: China Agricultural Science and Technology Press, pp.823 (in Chinese) [孙玉凤, 张永军, 陆宴辉, 吴孔明, 郭予元. 2011. 基于棉花挥发性物质的盲椿象可持续性防治.//吴孔明. 植保科技创新与病虫防控专业化——中国植物保护学会2011年学术年会论文集. 北京: 中国农业科学技术出版社, pp. 823]
+Tautz D, Arctander P, Minelli A, Thomas RH, Voqler AP. 2002. DNA points the way ahead in taxonomy. Nature, 418(6897): 479
+Wu KM, Guo YY. 2000. Field resistance evaluations of BT transgenic cotton GK series to cotton bollwoam. Journal of Plant Protection, 27(4): 317-321 (in Chinese) [吴孔明, 郭予元. 2000. 部分GK系列Bt棉对棉铃虫抗性的田间评价. 植物保护学报, 27(4): 317-321]
+Ye GY, Hu C, Shu QY, 1998. The development of transgenic rice resistant to insect pests and its wise and sustainable use.//Cheng JA, Zhou WJ. Agricultural Development and Research in the 21st Century. Beijing: China Environmental Science Press, pp. 406-414 (in Chinese) [叶恭银, 胡萃, 舒庆尧. 1998. 转基因抗虫水稻的转育及其合理持续利用.//程家安, 周伟军. 世界农业发展与研究. 北京: 中国环境科学出版社, pp. 406-414]
+Zeng SM, Wang PY, Wu XY, Zhang WY, Wang JQ, Song WZ, Wang SY. 1979. Preliminary study on the method of evaluation of horizontal resistance of wheat cultivars to stripe rust. Journal of Plant Protection, 6(1): 1-10 (in Chinese) [曾士迈, 王沛有, 武修英, 张万义, 王吉庆, 宋位中, 王生元. 1979. 小麦对条锈病的水平抗病性研究初报. 植物保护学报, 6(1): 1-10]
+Zhang XB. 2013. Dpp-Omb signaling regulates growth in a region specific manner during Drosophila wing development. Ph.D Thesis. Beijing: China Agricultural University (in Chinese) [张徐波. 2013. Dpp-Omb信号以区域化的方式调控果蝇翅的生长. 博士毕业论文. 北京: 中国农业大学]
+4 投稿及注意事项
+4.1 请登录《植物保护学报》网站（http://www.zwbhxb.com.cn）在线投稿，切勿一稿多投。
+4.2 来稿文责自负。投稿时需提供第一署名单位的介绍信，介绍信中需注明“此稿经审查，无抄袭、无一稿两投或泄密情况，数据真实可靠”，并需作者亲笔签名并加盖单位公章，扫描后通过E-mail发来。
+4.3 稿件格式请务必严格按照我刊格式要求，否则将以退稿处理。
+4.4 来稿收到交纳审理费和版面费通知后，请按照具体方法交纳200元审理费，版面费580元/页，若1个月未交纳，我刊将作撤稿处理。文章刊登后酌致稿酬，并赠送样刊2册。
+4.5 作者未在2个月之内返回修改稿，我刊将作撤稿处理。
+4.6 为适应我国信息化建设和扩大本刊及作者知识信息交流渠道，本刊已纳入CNKI中国期刊全文数据库，并已加入“中国知网”学术期刊优先数字出版平台，网址是www.cnk;.net, 其作者文章著作权使用费与本刊稿酬一次性给付。如作者不同意文章被收录，请在来稿时向本刊声明，本刊将作适当处理。
+4.7 稿件按收稿日期先后刊登，退稿一般在收到稿件后3个月内函告第一作者或通讯作者,特邀稿件和优秀稿件酌情提前发表。
+5 订阅
+《植物保护学报》为双月刊，全铜版纸印刷。国内定价128元，全年768元。国内读者可到当地邮局订阅，也可与本刊编辑部联系订阅。国外读者可通过中国国际图书贸易总公司（北京399信箱，邮编100044）订阅。国内邮发代号82–620，国外发行代号BM444。编辑部尚存各年过刊，需要者请直接与编辑部联系。
+6 我刊加入中国知网《中国学术期刊（网络版）》录用定稿网络首发
+为了以规范的网络期刊出版方式更快更好地确立作者的科研成果首发权，全面提高学术论文的传播效率和利用价值，我刊现已与《中国学术期刊（光盘版）》电子杂志社有限公司（简称电子杂志社）签署《CAJ-N网络首发学术期刊合作出版协议》，通过《中国学术期刊（网络版）》（CAJ-N）正式出版我刊网络版。从2017年 10 月 15 日起，凡经我刊审定录用的稿件（录用定稿）均将首先在我刊网络版上首发，后视编排情况发布排版定稿和整期汇编定稿，最后由我刊印刷版出版。
+来稿要求详见我刊的《投稿指南》。录用定稿网络首发之后，在后续的排版定稿、整期汇编定稿网络版和印刷版中，不得修改论文题目、作者署名、作者单位以及其学术内容，只可基于编辑规范进行少量文字的修改。
+CAJ-N是国家新闻出版广电总局批准创办、国家教育部主管、清华控股有限公司主办、《中国学术期刊（光盘版）》电子杂志社有限公司出版的由我国各类学术期刊组成的连续型网络出版物，每篇网络首发论文将被赋予一个唯一的国际DOI编码，而且在版本变动中，其DOI维持不变。按国家有关网络连续型出版物管理规定，网络首发论文视为正式出版论文，我刊编辑部与电子杂志社共同为论文作者颁发论文网络首发证书。论文作者可以从“中国知网”下载或打印论文和证书，作为正式发表的论文提交人事、科研管理等有关部门。
+我刊印刷版出版后，将一次性支付网络版（包括各版本）、光盘版和印刷版稿酬。同时，电子杂志社将以篇为单位，向论文作者提供多项免费服务，具体情况详见2017年10月16 日出版的《中国新闻出版广电报》专版与中国知网首页的期刊作者服务栏目。
+您是本站第 17669524 版权所有：植物保护学报 京ICP备05006550号-2
+主管单位：中国科协 主办单位：中国植物保护学会、中国农业大学 地址：北京市圆明园西路2号 中国农业大学植物保护学院 植物保护学报编辑部
+电话：010-62732528 电子邮件：zbxb@cau.edu.cn
+技术支持：北京勤云科技发展有限公司

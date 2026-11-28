@@ -1,0 +1,86 @@
+期刊: 光通信研究
+来源: https://www.gtxyj.com.cn/zh/info/7755/
+标题: 稿件格式要求
+
+浏览全部资源
+扫码关注微信
+首页
+期刊介绍
+编委会
+第二届编委会
+第一届编委会
+编委风采
+投稿指南
+投稿须知
+稿件处理流程
+稿件格式要求
+出版道德
+期刊协议
+版权归属
+开放获取
+许可协议
+下载中心
+学术资讯
+期刊订阅
+期刊订阅
+广告业务
+联系我们
+稿件格式要求
+《光通信研究》稿件格式要求
+标题（中文）
+标题应简明、具体、确切，概括文章的要旨，中文标题不超过20个汉字。
+作者署名
+中文署名：中国作者的姓名直接连写，外国作者的姓名写法遵从国际惯例。
+英文署名：中国作者姓名的汉语
+拼音采用姓前名后，中间为空格，姓氏的全部字母均为大写，复姓应连写；名字的首字母大写，姓氏与名均不缩写。例如：ZHANG Da-wei（张大伟），WANG Yan-bo（王彦波）。
+摘要
+中文摘要字数在500~800字为宜；英文摘要内容与中文对应。
+对于原创研究类文章，需对摘要按研究目的、方法、结果和结论四个要素进行结构化标注：
+摘要：【目的】……。【方法】……。【结果】……。【结论】……。
+Abstract:【Objective】……。【Methods】……。【Results】……。【Conclusion】……。
+对于综述类文章，推荐作者使用结构化的摘要，例如：
+摘要：【目的/意义】……。【分析/评论/进展】……。【结论/展望】……。
+Abstract:【Objective/Significance】……。【Analysis/Discussion/Progress】……。【Conclusion/Prospect】……。
+但如果作者认为其综述文章的摘要不便于划分结构，也可沿用传统的摘要形式。
+关键词（中文）
+关键词列于摘要之后，关键词是反应论文主题概念的词或词组，可以列出作者认为有利于检索和文献利用的其他关键词，一般为3~8个为宜，以分号相隔。
+基金项目
+多项基金项目应依次列出，其间以分号隔开，可参照如下写法。
+基金项目：国家自然科学基金资助项目（61771074）；国家重点研发计划资助项目（2018YFB1801702）
+英文正斜体
+所有外文（包括上下角标）凡变量用斜体，矩阵和矢量用黑斜体，单位和常量用正体。
+英文缩写词
+每个英文缩写在第一次出现时请都以中文（英文全写，英文缩写）格式给出，若第一次在图或表中出现，需以注的形式给出中文解释，若第一次在标题中出现，需以中文（英文缩写）形式给出。
+公式
+所有公式建议使用MythType公式编辑器生成。
+图表
+文前图后或表后，图表应紧跟在正文描述后面； 请同时给出中英文图表题，图表题与正文描述一致。
+参考文献
+1. 参考文献按在正文中出现的先后次序列于文后；
+2. 作者姓名、文献题目、期刊名/会议名、年卷期、起止页码等信息要全；
+3. 参考文献列表中请勿有重复文献；
+4. 中文文献须给出英文对应形式；
+常见参考文献举例：
+[1]昂温 G,昂温 P S.外国出版史[M].陈生铮,译.北京:中国书籍出版社,1988.
+Unwin G, Unwin PS. History of Foreign Publishing[M].Chen S Z. Beijing: China Book Press, 1988.
+[2]张筑生.微分半动力系统的不变集[D].北京:北京大学数学系数学研究所,1983.
+Zhang Z S. Invariant Sets of Differential Semidynamic Systems[D]. Beijing: Institute of mathematics, Department of Mathematics, Peking University, 1983.
+[3]金显贺,王昌长,王忠东,等.一种用于在线检测局部放电的数字滤波技术[J].清华大学学报:自然科学版,1993,33(4):62－67.
+Jin X H, Wang C C, Wang Z D, et al. A Digital Filter Technique Used for On-line Monitoring of Partial Discharge [J]. Journal of Tsinghua University: Science and Technology, 1993,33(4):62－67.
+[4] GB/T 7714-2005,文后参考文献著录规则[S].
+GB/T 7714-2005, Description Rules of Bibliographic References [S].
+[5] Han C，Jin M，Tao Y，et al. Ultra-compact silicon modulator with 110 GHz bandwidth[C]// Optical Fiber Communications Conference 2022. San Diego, California,US:OSA，2022：Th4C.5.
+作者简介
+作者简介格式为：姓名（出生年-）、性别、民族（汉族可省略）、籍贯（省、市/县）、学位/职称、主要研究方向。
+投稿模板下载：稿件模版
+站点地图
+地址：武汉市江夏区高新四路6号烽火科技园4号楼3层  邮编：430205
+技术支持由北京北大方正电子有限公司提供  鄂ICP备2022010197   鄂公网安备 42011202002092号
+本系统建议在Chrome、 IE9+ 以上版本浏览器阅读本站内容，360浏览器请切换至极速模式
+Cookies帮助我们提供服务并提供个性化体验。使用本网站，即表示您同意我们使用Cookies
+总访问量：85924  今日访问量：1
+0
+批量引用
+导出至
+BibTeXEndnoteRefManNoteExpressNoteFirst
+回到顶部

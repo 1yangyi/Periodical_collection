@@ -1,0 +1,118 @@
+期刊: 外国语(上海外国语大学学报)
+来源: https://benjamins.com/catalog/ltyl/guidelines
+标题: Instructions For Authors
+
+Language Teaching for Young Learners
+Guidelines
+Submission guidelines
+Authors wishing to submit articles for publication in Language Teaching for Young Learners are requested to do so through the journal’s online submission and manuscript tracking site. If you are not able to submit online, please contact the associate editor at: screle.ltyl at outlook.com
+1. Peer review
+Manuscripts submitted to Language Teaching for Young Learners will undergo double-blind peer review and will be evaluated based on their originality, methodological rigor, significance of findings, and quality of presentation. Manuscripts submitted to the journal should not be previously published or under consideration for publication elsewhere.
+2. Authorship
+Authors should decide the list and order of authors before submitting their manuscript. Any changes of author names should only be made when the manuscript has been accepted and only if approved by the journal Editors.
+3. Language
+All submissions to Language Teaching for Young Learners should be written in English. Either American English or British English can be used, but the spelling style should be consistent throughout the paper. If the manuscript is not written by a native speaker, it is advisable to have the paper proofread by a native-like speaker prior to submission.
+4. Format
+All submissions to Language Teaching for Young Learners should conform to the requirements of the Publication Manual of the American Psychological Association (7th ed.), which can be ordered online. Submissions that do not follow the APA style or that do not fall within the scope of Language Teaching for Young Learners will be returned to authors without review.
+5. Article types and lengths
+The journal invites submissions in six categories:
+Survey articles
+Survey articles provide researchers, teacher educators, and school teachers with up-to-date information on research concerning the teaching of second/foreign languages in state and private schools throughout the world. Survey articles should be no more than 10,000 words.
+Original research articles
+Original research articles report empirical studies relating to the teaching and assessment of second/foreign languages for young learners. The journal also welcomes research articles on in-service and pre-service preparation courses for teachers of young learners. Original research articles should not be longer than 8,000 words.
+Practitioner research articles
+Practitioner research articles report studies carried out by teachers investigating their own teaching in their own classrooms. The maximum length for practitioner research articles is 4,000 words.
+Brief reports
+Brief reports present descriptions of teacher-education programmes, innovation projects, and small-scale research studies. Brief reports should be no longer than 3,000 words.
+Book reviews
+This section reviews published materials (e.g. textbooks, teacher education materials, etc.) that have been designed for educating young second / foreign language learners. The word limit for book reviews is 1,500 words. See also the Book review guidelines.
+Interviews
+From time to time the journal will publish interviews with leading scholars and experienced teachers of young language learners. The purpose of the interviews is to provide a more subjective view of what is means to research and teach young learners.
+Proposals for an interview should first be sent to the editors of the journal who will decide whether the interview should proceed. The proposal should include a rationale for the choice of the person to be interviewed along with the questions that will shape the interview.
+Word limits should be adhered to closely; tables, references, notes, and appendices should be included in the word counts.
+6. Title page
+Title.  Concise and informative. Avoid abbreviations and formulae where possible.
+Author names and affiliations.  Present the authors’ affiliation addresses below each author’s name. Provide the full postal address of each affiliation, including the country name and, if available, the e-mail address of each author.
+Corresponding author.  Clearly indicate who will handle correspondence at all stages of refereeing, publication, and post-publication.
+7. Abstract
+The abstract for all kinds of the articles should be no more than 200 words.
+8. Key words
+All submissions should include four to six keywords that can be used for indexing purposes.
+9. Presentation
+All submissions should be presented in Times New Roman, 12-point font. Please include page numbers in the manuscript.
+10. Sections and Section Headings
+Papers should be reasonably divided into sections and, if appropriate, subsections. The headings of these subsections should be numbered in accordance with the Publication Manual of the American Psychological Association (7th ed.). Authors are advised not to use more than three levels of headings.
+11. Tables, Figures, and Other Graphics
+In the initial submission, authors should place tables, figures, and other graphics within the paper in the desired location. However, authors should be prepared to submit original artwork files separately upon final acceptance of their article. All tables and figures should be numbered consecutively and include a caption that is in accordance with the format described in the Publication Manual of the American Psychological Association (7th ed.).
+12. In-text citations
+In-text citations list should follow guidelines provided by the American Psychological Association (7th edition). A few examples follow; please consult the APA manual for full details.
+Direct quotations
+Use double quotes for shorter quotations. Any quotations within the main quote should use single quotes.
+Examples:
+Interpreting these results, Robbins et al. (2003) suggested that the “therapists in dropout cases may have inadvertently validated parental negativity about the adolescent without adequately responding to the adolescent’s needs or concerns” (p. 541), contributing to an overall climate of negativity.
+Confusing this issue is the overlapping nature of roles in palliative care, whereby “medical needs are met by those in the medical disciplines; nonmedical needs may be addressed by anyone on the team” (Csikai & Chaitin, 2006, p. 112).
+If the quotation comprises 40 or more words, display it in a freestanding block of text and omit the quotation marks. Start such a block quotation on a new line and indent the block about a half inch from the left margin (in the same position as a new paragraph).
+Example:
+Others have contradicted this view:
+Co-presence does not ensure intimate interaction among all group members. Consider large-scale social gatherings in which hundreds or thousands of people gather in a location to perform a ritual or celebrate an event. (Purcell, 1997, pp. 111–112)
+Indirect quotation/paraphrasing/summarizing
+Example:
+Classroom studies by Ellis (1984), Myles et al. (1998, 1999) and Myles (2004) demonstrate that learners often internalize rote-learned material as chunks, breaking them down for analysis later on.
+Citations from a secondary source
+Example:
+1) Gould’s (1981) research “raises fundamental doubts as to whether we can continue to think of intelligence as unidimensional” (as cited in Cohen & Lotan, 2014, pp. 151-152).
+2) Intelligence cannot be believed to consist of one single entity any more (Gould, 1981, as cited in Cohen & Lotan, 2014).
+Citing one work by multiple authors
+When a work has two authors, cite both names every time the reference occurs in text. When a work has three, four, or five authors, cite all authors the first time the reference occurs; in subsequent citations, include only the surname of the first author followed by et al. (not italicized and with a period after al) and the year if it is the first citation of the reference within a paragraph.
+When a work has six or more authors, cite only the surname of the first author followed by et al. (not italicized and with a period after al) and the year for the first and subsequent citations.
+Example:
+Kisangau, Lyaruu, Hosea, and Joseph (2007) found [Use as first citation in text.]
+Kisangau et al. (2007) found [Use as subsequent first citation per paragraph thereafter.]
+13. Notes
+Use footnotes rather than endnotes. These should be numbered consecutively throughout the paper and numbered in section headed Notes following the conclusion or acknowledgements section.
+14. Acknowledgements
+In order to maintain anonymity, acknowledgements, if any, should not be included in the initial submission. Authors of accepted papers may include a brief acknowledgements section in the final submission. The Acknowledgements should follow the Conclusion section of the main article.
+15. Funding
+Reference to any funding for the research reported in the article should be made as in this example:
+This work was supported by the National Institutes of Health [grant numbers xxxx, yyyy]; the Bill & Melinda Gates Foundation, Seattle, WA [grant number zzzz]; and the United States Institutes of Peace [grant number aaaa].
+16. References
+To ensure anonymity of the article, authors should include any references to their own publications as ‘Author’ at the beginning of the list of references. Authors should also ensure that ‘Author’ replaces any of the authors’ own names for works cited in the article.
+The full reference list should follow guidelines provided by the American Psychological Association (7th edition). A few examples follow; please consult the APA manual for full details.
+Journal article
+Calvert, M., & Sheen, Y. (2015). Task-based language learning and teaching: An action-research study. Language Teaching Research, 19(2), 226-244.
+Journal article, title translated into English, print version
+Guimard, P., & Florin, A. (2007). Les évaluations des enseignants en grande section de maternelle sont-elles prédictives des difficultés de lecture au cours préparatoire? [Are teacher ratings in kindergarten predictive of reading difficulties in first grade?]. Approche Neuropsychologique des Apprentissages chez l’Enphant, 19, 5–17.
+In-press article posted in a preprint archive
+Briscoe, R. (in press). Egocentric spatial representation in action and perception. Philosophy and Phenomenological Research. Retrieved from http://cogprints.org/5780/1/ECSRAP.F07.pdf
+Magazine article
+Chamberlin, J., Novotney, A., Packard, E., & Price, M. (2008, May). Enhancing worker well-being: Occupational health psychologists convene to share their research on work, stress, and health. Monitor on Psychology, 39(5), 26–29.
+Online magazine article
+Clay, R. (2008, June). Science vs. ideology: Psychologists fight back about the misuse of research. Monitor on Psychology, 39(6). Retrieved from http://www.apa.org/monitor/
+Newspaper article
+Schwartz, J. (1993, September 30). Obesity affects economic, social status. The Washington Post, pp. A1, A4.
+Online newspaper article
+Brody, J. E. (2007, December 11). Mental reserves keep brains agile. The New York Times. Retrieved from http://www.nytimes.com
+Special issue or section in a journal
+Haney, C., & Wiener, R. L. (Eds.). (2004). Capital punishment in the United States [Special issue]. Psychology, Public Policy, and Law, 10(4).
+Entire book, print version
+Ellis, R. (2003). Task-based language learning and teaching. Oxford: Oxford University Press.
+Shotton, M. A. (1989). Computer addiction? A study of computer dependency. London, England: Taylor & Francis.
+Electronic version of print book
+Shotton, M. A. (1989). Computer addiction? A study of computer dependency [DX Reader version]. Retrieved from http://www.ebookstore.tandf.co.uk/html/index.asp
+Book chapter, print version
+Haybron, D. M. (2008). Philosophy and the science of subjective well-being. In M. Eid & R. J. Larsen (Eds.), The science of subjective well-being (pp. 17–43). New York, NY: Guilford Press.
+Reference book
+VandenBos, G. R. (Ed.). (2007). APA dictionary of psychology. Washington, DC: American Psychological Association.
+Corporate author, government report
+U.S. Department of Health and Human Services, National Institutes of Health, National Heart, Lung, and Blood Institute. (2003). Managing asthma: A guide for schools (NIH Publication No. 02-2650). Retrieved from http://www.nhlbi.nih.gov/health/prof/lung/asthma/asth_sch.pdf
+Symposium contribution
+Muellbauer, J. (2007, September). Housing, credit, and consumer expenditure. In S. C. Ludvigson (Chair), Housing and consumer behavior. Symposium conducted at the meeting of the Federal Reserve Bank of Kansas City, Jackson Hole, WY.
+Unpublished doctoral dissertation or master’s thesis
+Author, A. A. (1978). Title of doctoral dissertation or master’s thesis (Unpublished doctoral dissertation or master’s thesis). Name of Institution, Location.
+Unpublished and Informally Published Works
+Author, A. A. (Year). Title of manuscript. Unpublished manuscript [or “Manuscript submitted for publication,” or “Manuscript in preparation”].
+17. Appendices
+One or more appendix sections may be included after the references section.
+18. Copyright permission.
+It is the responsibility of the author to obtain permission to reproduce any material that has been previously published.
+The editors of Language Teaching for Young Learners reserve the right to make editorial changes in any manuscript accepted for publication to ensure clarity, conciseness, or style. The author will be consulted only if the editing has been substantial.

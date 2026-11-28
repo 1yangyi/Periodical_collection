@@ -1,0 +1,198 @@
+期刊: Journal of Biomedical Research
+来源: https://journal.hep.com.cn/jbr/EN/guidelines
+标题: Author guidelines
+
+Home
+Journals
+Subscription
+Submission
+Metrics
+Top read articles on mendeley
+Editorial policy
+Open access
+About us
+Adv search
+About the journal
+Aims & scope
+Editorial board
+Abstracting / indexing
+Contact us
+Browse
+Latest issue
+All volumes and issues
+Most accessed
+Most cited
+Authors & reviewers
+Online submission
+Author guidelines
+Author guidelines
+Aim and Scope
+Journal of Biomedical Research (JBR), a peer-reviewed open-access publication without any charges throughout the submission, review, and publication processes, intends to provide international biomedical investigators and clinicians with an open forum to disseminate important new information in all aspects of experimental and clinical medicine. The Journal is indexed by PubMed, Scopus, Web of ScienceTM Emerging Sources Citation Index (ESCI), Google Scholar, Chemical Abstracts, and CSCD-C, and welcomes submissions from authors worldwide. Six issues annually feature high-quality Original Articles, Review Articles (mainly invited), Case Reports, Letters, and Perspectives. The Journal also publishes Perspective Articles on medicolegal and socioeconomic aspects of medicine. Manuscripts with clinical and public health implications and manuscripts with innovative ideas and/or approaches that bridge different fields are considered with priority.
+General Requirements
+All submitted manuscripts should contain original research that has not been previously published partly or in full in print or electronic format and are currently not under consideration for publication elsewhere. Manuscripts from any country are welcome, but must be written in English.
+Review Articles
+Review Articles provide critical, up-to-date syntheses of active or emerging topics of broad interest to the scientific or clinical community. Submissions should go beyond summary to offer analytical insight, identify knowledge gaps, and suggest future directions. Preference is given to reviews on timely, underexplored, or rapidly evolving subjects that have not been recently covered in depth elsewhere. The main text must be at least 6 000 words (excluding abstract, references, figure legends, and tables) and include approximately 130 references, with emphasis on recent literature (typically within the past 5 years) alongside key foundational studies. Each review must contain at least one table and two figures, preferably original schematic or conceptual illustrations that enhance understanding of the topic. The manuscript must include an abstract and may incorporate supplementary material online if it meaningfully supports the narrative.
+Original Articles
+Original Articles should summarize results of a complete, rigorously designed study supported by experimental and/or clinical data with a thorough analysis. The recommended length for a full-length article is 3 000 to 5 000 words, excluding abstract, references, tables, or figures. For clinical studies, we encourage the submission of large-scale, multicenter, prospective, and controlled study designs, which provide high-level evidence and enhance the generalizability of findings. For basic research, studies involving collaborative efforts across multiple institutions are welcomed, as such collaborations promote scientific rigor, diversity of expertise, and reproducibility.
+Case Reports
+Case Reports are intended to shed light on unusual cases and promote knowledge about unknown or novel disease processes or manifestations, which help contribute to a better understanding of such diseases, or provide up-to-date knowledge about rare and uncommon diseases. Submissions should not normally exceed 2 000 words or three published pages including figures, diagrams, and references. Please note: published Case Reports do not include an abstract; however, a concise abstract should be provided in the ''Abstract'' field of the submission system for peer review purposes and must not appear in the manuscript file. Supplementary material may be included online if needed to support the case presentation.
+Letters
+Letters are usually written to report original data, comment on a current controversial issue or express the viewpoint of the writer, and they should be limited to 2 000 words. A single Figure or Table can be made but should contain no more than eight separate panels labeled from (a) to (h). One panel may be composed of multiple figures with annotations around individual panels to make viewing easier. Subheadings should not be included in the Letters. All letters are subject to editing and possible abridgement. Published Letters do not contain an abstract; however, authors should enter a brief abstract in the submission system's abstract field for review purposes only. Supplementary material may be submitted for online publication if it enhances the letter's content.
+Perspectives
+Perspectives are intended to highlight recent, exciting research or discuss a timely topic. They usually do not discuss the author's own work in detail, but provide forward-looking and speculative thinking on the articles or hot topics being discussed. If there is experimental data presented to support the perspective, it is necessary to explain the data source. For example, if citing a figure from others, it is necessary to obtain consent from the original author and indicate the citation; if it is the result of the author's own unpublished article, it is necessary to indicate unpublished data. Perspectives should be no more than 2 000 words, with a maximum of 15 references and one figure or table. Like other short formats, Perspectives are published without an abstract; nonetheless, a short abstract should be entered in the submission system to aid peer review and must not be included in the manuscript. Supplementary material may be provided for online-only publication where appropriate.
+Editorial Commentary
+Editorial Commentary is usually written and commissioned by editors from JBR, which will summarize the current Special Issue or focus on commenting on the article published in the current issue.
+Rapid Publication
+The Journal offers rapid review and publication of studies that meet the following criteria: (a) Manuscripts with late-breaking research or immediate public health importance; (b) Manuscripts previously submitted to other reputable journals but not accepted for publication will be considered for rapid publication in JBR, if submitted with peer review comments and corresponding revisions. Manuscripts suitable for rapid publication will be processed in priority order.
+If you intend to submit your manuscript through the Rapid Publication pathway, please state this in your cover letter. The editors will carefully consider your request through an internal review. However, it should be noted that approval for rapid publication does not guarantee acceptance of the manuscript. For those manuscripts that do not qualify for rapid publication, a standard review process will be conducted.
+Details of Submission Requirements
+A cover letter from the corresponding author must accompany the manuscript and should briefly describe what is known in the field, the conceptual advances provided by and the significance of the reported findings. The authors are encouraged to suggest appropriate reviewers and are permitted to make a request for exclusion of up to three reviewers. The cover letter should state that the submitted material is original research, has not been previously published, and has not been submitted elsewhere while under review by JBR. For the materials (e.g., figures, diagrams, schemes, tables, and text), if any, reused/adapted from the works that have been published in both print and electronic formats elsewhere, written permission, if necessary, should be obtained from the copyright owner and submitted with the manuscript. The cover letter is confidential and will not be sent to the reviewers. The cover letter should contain the names of all the authors and their complete mailing addresses and identify the corresponding author.
+Manuscript Components
+Manuscript should be arranged in the following order: (a) Title page, including Title, Running title, Authors, Author affiliations, and Corresponding author information; (b) Abstract; (c) Keywords; (d) Introduction; (e) Materials and methods; (f) Results; (g) Discussion; (h) Funding; (i) Acknowledgments; (j) References; (k) Figure legends; (l) Tables; (m) Figures; (n) Supplementary data.
+Text components of the manuscript (a to k) should be prepared using Microsoft Word in 12 pt with one and a half line-space on one side of US letters (279 × 216 mm) with all pages numbered. Tables (l) should be prepared in Microsoft Word with a single space.
+Figures (m) should be editable artwork with a high resolution (see Figures for details). The manuscript can be submitted through the online submission system (www.jbr-pub.org.cn/).
+Research Article Format
+Title
+The title should be informative and concise, and reflect the content of the article in terms understandable to a broad readership. It should be no longer than 150 characters (including spaces) and contain no non-standard acronyms or abbreviations.
+Running Title
+A running title that describes the key meaning of the paper should be provided and kept within 60 characters (including spaces).
+Authorship
+Author names should be spelled out in full, with the given name first and the family name last. Affiliations (including department/subunit, institution, city, province/state/region, postal code and country or region) should be provided for each author. If the authors are affiliated with different units, the affiliation sequence should follow the order of the author list, marked with superscript using 1, 2, and 3, etc. following author names.
+No more than two corresponding authors are suggested. Corresponding author's name, full postal address, telephone and fax numbers and e-mail address should be provided. Ensure that the email address of the corresponding author(s) is the official contact information, as the Journal would only contact the corresponding author via his/her work email address during the entire process of manuscript handling, such as submission, peer review, editing, and publication process, etc. If there is more than one corresponding author, the Journal would contact only the first one or the designated one. Any change in authorship after submission must be approved in writing by all authors.
+To enhance author identification and ensure proper attribution, all corresponding authors are required to provide their ORCID (Open Researcher and Contributor ID) iDs at the time of submission. ORCID iDs for co-authors are strongly encouraged. The ORCID iD should be placed below the affiliation information on the title page, following the corresponding author's email address. Authors can register for a free ORCID iD at https://orcid.org.
+Abstract
+An unstructured abstract consisting of a single paragraph of no more than 200 words is recommended, including the purpose of the study or the reason why you intended to do the study, the main methods used in the study, and main data or outcomes as well as a conclusion in a definite, conclusive, and short statement, but not indefinite, vague, or suggestive sentences. The abstract must be informative rather than indicative. Authors should emphasize the new and important aspects of the study.
+Keywords
+Up to six keywords, separated by commas, are allowed. They should be taken from those recommended by the Index Medicus Medical Subject Headings (MeSH) browser (www.nlm.nih.gov/mesh/meshhome.html).
+Introduction
+The Introduction summarizes the rationale for the study and mainly includes the background of the research through literature citation, the questions to be addressed, and the objectives of the research.
+Materials and Methods
+Reagents The main reagents or kits used in the research should be given with the names of the suppliers along with their city, state and country, e.g., Lipofectamine 3000 (Invitrogen, Carlsbad, CA, USA). For the antibodies, please also show the catalog number as well as the dilution rate, e.g., anti-p53 antibody (1∶1 000, Cat. #48818, Cell Signaling Technology, Danvers, MA, USA).
+Drug Names The Recommended International Non-proprietary Name (RINN) should be used for medicinal substances unless the specific trade name of a drug is directly relevant to the discussion. Simple chemical names may be used in certain places, e.g., CO2.
+Species Nomenclature The binary names, consisting of a generic name and a specific name (e.g., Escherichia coli), for all microorganisms and animals should be given in full the first time they are used. The first letter of the genus may be abbreviated in the subsequent uses of the name (e.g., E. coli).
+Gene Nomenclature Use standard gene names from appropriate genetic nomenclature databases (human: www.genenames.org; rat: rgd.mcw.edu; mouse: www.informatics.jax.org; zebrafish: zfin.org; flies: flybase.org; worms: www.wormbase.org). Human gene names should be written in italicized capital letters (e.g., GAPDH), while the protein names are not italicized (e.g., GAPDH). Mouse and rat gene names should be written in italics with only the first letter capitalized (e.g., Gapdh), while the protein names are not italicized and all upper case (e.g., GAPDH). Generally, mRNAs and cDNAs use the same formatting as the gene names.
+Ethical Considerations Studies involving human subjects, human material, human data, or animals must have been reviewed and approved by the responsible Ethical Review Committee of the institution where the work was carried out, and be performed in accordance with the ethical standards of the responsible committee on human experimentation (institutional and national) and the Declaration of Helsinki (www.wma.net/), or the guidelines for the care and use of animals established by the authors' affiliated institution(s). For enrolled subjects, each should voluntarily sign an informed consent based on the full understanding of the research. The patients' names, initials, or hospital names or any information that may lead to the identification of the patients should be omitted. If doubt exists whether the research was conducted in accordance with the Helsinki Declaration, the authors must explain the rationale for their approach and demonstrate that the institutional review board explicitly approved the doubtful aspects of the study. An ethical statement detailing the above-mentioned information should be indicated in the Materials and Methods section.
+Methods Methods should be described in sufficient detail so that other laboratories can reproduce the results and verify the claims. Generally, standard procedures should be referenced, but significant modifications should be described. Appropriate experimental design and statistical methods should be supplied and described wherever necessary for proper interpretation of data and verification of claims. All novel materials and procedures should be described in sufficient detail to allow their reproduction (e.g., DNA constructs, genetic stocks, enzyme preparations, and analytical softwares).
+Units Manuscript should be prepared using the International System of Units (SI): second (s), meter (m), kilogram (kg), etc. To avoid confusion with the SI prefix mega, mol/L (not M or N) should be used. Temperatures are to be given in degrees Celsius (℃).
+The symbol ‰ ("per mill" or per thousand) should be avoided. Abbreviations, such as ppm and ppb, should not be used. No unit is required for relative molecular mass. A solidus (/) should not be followed by a multiplication sign or a division sign unless parentheses are inserted to avoid any ambiguity. In complicated cases, negative powers or parentheses should be used, for example, mol/(L·s), not mol/L/s. Multiple prefixes (e.g., mμg) should not be used.
+Dosage is expressed as per kg except in mice. Concentration in solution is expressed as per L, not per mL. Values for rpm should be converted into gravity (g). Absorbance (A) values are preferred to optical density (OD) values.
+Symbols are not pluralized (e.g., 7 kg, not kgs). The numerical value, such as the ratio of the quantity to the unit (e.g., λ/nm = 589), should be indicated. This is particularly useful in graphs and in the headings of columns in tables.
+Use 12.4 mm (not 0.0124 m), 5 μmol (not 5×10−6 mol), 3–8 g, 3%–8%, 3 m × 8 m × 2 m, (8 ± 3) g, and (8 ± 3) nmol/L.
+Do not include more digits than are justified by the accuracy of the determinations. For example: a dog weighs 9 kg (not 9000 g, which implies an accuracy of 1 g). In a sample, the number of significant figures is determined by the variation within the sample, that is, one-third of the standard deviation. For example: (8.6 ± 2.9) kg (not [8 619 ± 2 930] g, nor (9 ± 3) kg). The sign for multiplication of numbers is a cross (×) or a raised dot (·). Leave a space between the numerical value and the unit symbol, e.g., 56 ℃. Calendar dates may be written in the following format: April 28, 2023.
+For isotopically labeled compounds, use a square bracket directly attached to the front of the name (word) or formula. For example: [14C]urea, [α-32P]ATP (not AT32P), sodium [14C]formate. However, both [131I]iodoalbumin and 131I-albumin are correct.
+Results
+Emphasize or summarize only important observations. Simple data may be set forth in the text with no need for tables or figures. Results can be described using text, tables and figures. The text should complement the materials given in the Tables and/or Figures, and should not be simple, direct repetition of the information in the Tables and/or Figures. Please provide full details of statistical analysis either in the text or in the Tables and/or Figure legends. Please include the type of tests, the precise data to which it was applied, the value of the relevant statistics, the sample size and/or degrees of freedom, and the probability level.
+Tables
+Tables should be three-line graphs and cited consecutively in the text. All numbers should be written in the same decimal place. Not applicable data should be represented by a "–". Pay attention to the difference between "zero" and "not done" as an entry in the table. Tables should also be practically self-contained and self-explanatory. All tables should be cited in the text and numbered consecutively with Arabic numerals. Label each table at the top with an Arabic numeral followed by the table title. Insert explanatory material and footnotes below the table. Designate footnotes using lowercase superscript letters (a, b, c, etc.) reading horizontally across the table. All symbols or abbreviations that are used in a table should be defined in the footnotes. Please prepare the tables in MS Word with a single-spaced format. Do not embed tables as graphic files, document objects, or pictures.
+Figures
+When submitting a manuscript for review, please ensure that the image quality is sufficient for evaluation. However, if the manuscript is accepted, high-resolution figures are required for later prepublication and print production. Each figure should be provided as a single file, rather than embedded in the Microsoft Word document.
+Raster line art should carry an absolute minimum resolution of 1 200 dpi, and for greyscale and color artworks, a minimum resolution of 600 dpi is required. Photographs must be of the highest quality with good contrast. Color photographs are welcome. Photomicrographs should be cropped to show only the essential parts and an inset at higher magnification is usually more informative than a single large one. Scale bars (e.g., 1 mm) should be put inside the photomicrographs.
+We prefer vector artwork with editable layers. Formats of Adobe Illustrator (AI), EPS, PDF, layered Photoshop (PSD) and TIFF are acceptable to ensure that all the lines, texts, arrows, fills, etc. in the figures can be individually selected and modified in drawing software, such as AI or CDR.
+Figures including multiple panels should be saved in a single file, with each panel labeled using capital letters (e.g., A, B, and C, with Arial Bold font and 10 pt font size). The text in the figures is legible, with the format of Times New Roman font and recommended 8 pt font size (no smaller than 5 pt). Figures should be prepared at about the size they are to be printed. The figure width should be about 80 mm (one column) or 170 mm (two columns). Panels in the figure should be arranged compactly to maximize space efficiency while maintaining clarity.
+Figures (graphs, charts, photographs, and illustrations) should be practically self-explanatory and labeled professionally. Dimensional drawings and diagrams should include only the essential details with as little lettering as possible. The magnification for the micrograph should be indicated by scale bars, inscriptions should be legible, and the symbols and letters should be consistent among the panels. Figures should be explained in the text, and should appear in the order cited.
+All figures need to be original. Otherwise, if published figures would be used, including those in authors' previous articles, a consent
+should be obtained from the original article publisher.
+Figure Legend
+The legend should be typed below the reference of the manuscript with a brief title sentence for the whole figure. Staining methods and magnification should be indicated for a graph of tissue sections. Every figure should contain a title, and the figure legend should follow the title closely and provide enough information, including the representation of data (e.g., mean ± SD), the number of repetitions or the sample size (e.g., n = 3), and the method used for statistical analysis, to make the figures understandable without frequently referring to the text. All of the panels (A, B, etc.) in the figure should be specifically described by part name. Do not describe methods in figure legends unless they are necessary for interpreting the results conveyed by the figure. All symbols and abbreviations that are used in the figure should be defined in the legends.
+Discussion
+The main purpose of the Discussion is to comment on the significance of the results and set them in the context of previous work. Emphasize any new and important findings and relate your results to other studies. Discuss the limitations of your experiments. Both pre- and post-hypotheses should be rational and evidence-based. Please avoid repeating information in the Results section.
+Funding
+Sources of funding for the article should be listed in the following way: This work was supported by the National Natural Science Foundation of China (Grant No. xxxx) and Special Foundation for Clinical Science and Technology of Jiangsu Province (Grant No. yyyy). If no funding has been provided for the research, please include the following sentence: This work received no funding from any source.
+Acknowledgments
+Acknowledgments may briefly include: 1) contributors that do not warrant authorship; 2) technical help; 3) material support.
+Author Contributions
+To provide transparency and give appropriate credit, this journal requires the inclusion of a CRediT (Contributor Roles Taxonomy) authorship contribution statement (https://credit.niso.org/). This statement specifies the contributions of each author to the research and manuscript preparation. The corresponding author is responsible for ensuring that the descriptions are accurate and agreed upon by all authors. The statement should list the name(s) of the author(s) for each of the following roles (as applicable), using the standard CRediT taxonomy:
+Term
+Definition
+Conceptualization
+Ideas; formulation or evolution of overarching research goals and aims
+Methodology
+Development or design of methodology; creation of models
+Software
+Programming, software development; designing computer programs; implementation of the
+computer code and supporting algorithms; testing of existing code components
+Validation
+Verification, whether as a part of the activity or separate, of the overall replication/
+reproducibility of results/experiments and other research outputs
+Formal analysis
+Application of statistical, mathematical, computational, or other formal techniques to analyze
+or synthesize study data
+Investigation
+Conducting a research and investigation process, specifically performing the experiments,
+or data/evidence collection
+Resources
+Provision of study materials, reagents, materials, patients, laboratory samples, animals,
+instrumentation, computing resources, or other analysis tools
+Data curation
+Management activities to annotate (produce metadata), scrub data and maintain research
+data (including software code, where it is necessary for interpreting the data itself) for initial
+useand later reuse
+Writing—original draft
+Preparation, creation and/or presentation of the published work, specifically writing the
+initialdraft (including substantive translation)
+Writing—review & editing
+Preparation, creation and/or presentation of the published work by those from the original
+research group, specifically critical review, commentary or revision——including pre- or
+postpublication stages
+Visualization
+Preparation, creation and/or presentation of the published work, specifically visualization/data presentation
+Supervision
+Oversight and leadership responsibility for the research activity planning and execution,
+including mentorship external to the core team
+Project administration
+Management and coordination responsibility for the research activity planning and execution
+Funding acquisition
+Acquisition of the financial support for the project leading to this publication
+Example: Author A: Conceptualization, Methodology, Software. Author B: Data curation, Writing—original draft preparation. Author C: Visualization, Investigation, Supervision. Author D: Software, Validation. Author E: Writing—reviewing and editing.
+References
+References, which should be no more than 35 for original research and no more than 10 for Letter and Case Report, must be numbered consecutively in the order of appearance in the text, and listed in numerical order in the reference list. References cited only in tables or figures should be listed after those have been cited in the text.
+Each reference citation within the main body of the text should be indicated by a superscript Arabic number in square brackets. Authors are responsible for the accuracy and completeness of their references and correct citation in the text. Please pay particular attention to the content, year, volume, page and so on. Journal titles should be abbreviated in accordance with the Index Medicus (www.nlm.nih.gov). The names of all the authors are listed if three or fewer, followed by their initials, and, if there are more than three authors, only the first three authors are listed followed by et al. References published within the past five years are preferred. Do not cite uncompleted work or work that has not yet been accepted for publication as references. All references should be presented using the following format:
+Journal articles in English:
+[1] Manabe YC, Clark DP, Moore RD, et al. Cryptosporidiosis in patients with AIDS: correlates of disease and survival [J]. Clin Infect Dis, 1998, 27(3): 536–542.
+[2] Moisan M, Barbeau J, Moreau S, et al. Low-temperature sterilization using gas plasmas: a review of the experiments and an analysis of the inactivation mechanisms[J]. Int J Pharm, 2001, 226(1–2): 1–21.
+[3] Steube KG, Meyer C, Drexler HG. Constitutive protein expression of monocyte chemotactic protein-1 (MCP-1) by myelomonocytic cell lines and regulation of the secretion by anti- and proinflammatory stimuli[J]. Leuk Res, 1999, 23(9): 843-–849. Articles not in English:
+[1] Chachin M, Ohmura T, Hayashi N, et al. Pharmacological and clinical profile of telmisartan, a selective angiotensin II type-1 receptor blocker[J]. NipponYakurigaku Zasshi (in Japanese), 2004, 124(1): 31–39.
+Volume with supplement:
+[1] Avis NE, Deimling GT. Cancer survivorship and aging[J]. Cancer, 2008, 113(S12): 3519–3529. Volume with parts:
+[1] Ozben T, Nacitarhan S, Tuncer N. Plasma and urine sialic acid in non-insulin dependent diabetes mellitus[J]. Ann Clin Biochem, 1995, 32(Pt3): 303–306.
+Books:
+[1] Levinsky NG. Fluid and electrolytes. In: Thorn GW, Adams RD, Braunwald E, Editors. Harrison's Principles of Internal Medicine, 8th edition. New York: McGraw-Hill, 1977: 364–375.
+[2] Grundhoff A. Computational prediction of viral miRNAs[M]//van Rij RP. Antiviral RNAi: Concepts, Methods, and Applications. New York: Humana Press, 2011: 143–152.
+Electronic resources:
+[1] National Foundation for Infectious Diseases. Frequently Asked Questions about COVID-19 [EB/OL]. [2022-12-01(access date)]. https://www.nfid.org/infectious-diseases/frequently-asked-questions-about-novel-coronavirus-2019-ncov/.
+Patent:
+[1] Wang LY, Wang H, Yin GG. System for identifying patient response to anesthesia infusion: US, 8998808[P]. 2015-04-07.
+Supplementary Materials
+Supplemental materials that are directly related to the conclusion are encouraged. However, unrelated data may be removed by editors. Depending on the nature of supplemental data, they can be in plain text, MS Word, MS Excel, JPEG, TIFF, and video. We encourage authors to submit supplemental documents in PDF format if applicable.
+Abbreviations
+Any abbreviations should be defined on the first usage in the text. However, some common names, such as GTP, RNA and PCR, may not be defined. All nomenclature, including gene names and symbols, should be used in a scientifically accurate manner following the nomenclature conventions adopted by the scientific community.
+Potential Conflicts of Interest
+Authors are responsible for disclosing all financial and personal relationships that might bias their work. Authors should state explicitly whether potential conflicts do or do not exist in the manuscript on a conflict-of-interest notification page that follows the title page, providing additional detail, if necessary, in a cover letter that accompanies the manuscript.
+Data Integrity and Transparency Policy
+To ensure transparency and reproducibility, authors must make all primary data underlying the findings publicly available. This includes original unprocessed Western blot images (gel scans with molecular weight markers and loading controls), high-throughput sequencing data (e.g., RNA-seq, ChIP-seq), and other raw data such as flow cytometry files, mass spectrometry data, or microscopy images. Sequencing data can be deposited in public repositories (e.g., GEO, ENA, or CNGBdb) with accession numbers provided in the manuscript. Other raw data should be submitted as supplementary files or shared upon request. Any restrictions on data access must be clearly justified in the submission.
+Use of Artificial Intelligence
+The journal strictly prohibits the use of artificial intelligence (AI) tools to generate or write substantial parts of the manuscript, including the abstract, introduction, results, or discussion sections. AI may only be used for language editing or formatting assistance, and such use should be briefly disclosed in the Acknowledgments section. Authors are fully responsible for the scientific accuracy, originality, and integrity of the work. AI cannot be listed as an author.
+Reporting Clinical Trials
+Randomized controlled trials should be presented according to the CONSORT guidelines. At manuscript submission, authors must provide the CONSORT checklist accompanied by a flow diagram that illustrates the progress of patients through the trial, including recruitment, enrollment, randomization, withdrawal and completion, and a detailed description of the randomization procedure. The CONSORT checklist and template flow diagram can be found on http://www.consort-statement.org.
+Pubdate:  Viewed:
+Latest issue
+2026-09-01 2026, Volume 40 Issue 5
+View all volumes and issues
+Cover illustration
+Submit manuscript
+Latest articles
+Most accessed
+Collections
+https://doi.org/
+View all articles
+https://doi.org/
+View all articles
+View all collections
+Subscription
+E-mail alert
+Subscribe to our RSS content
+Journal updates More
+Links
+Higher Education Press
+ISSN 1674-8301
+CN 32-1810/R

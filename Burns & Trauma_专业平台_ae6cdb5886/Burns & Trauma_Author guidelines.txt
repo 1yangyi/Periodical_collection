@@ -1,0 +1,315 @@
+期刊: Burns & Trauma
+来源: https://journal.hep.com.cn/butr/EN/guidelines
+标题: Author guidelines
+
+Home
+Journals
+Subscription
+Submission
+Metrics
+Top read articles on mendeley
+Editorial policy
+Open access
+About us
+Adv search
+About the journal
+Aims & scope
+Editorial board
+Abstracting / indexing
+Journal metrics
+Contact us
+Editorial policy
+Browse
+Just accepted
+All volumes and issues
+Collections
+Featured articles
+Most accessed
+Most cited
+Authors & reviewers
+Online submission
+Author guidelines
+Author guidelines
+The Editors welcome submissions to Burns & Trauma which adhere to the Instructions to Authors. Manuscripts that do not meet all of the requirements below will not be considered for publication and may be returned to the authors for completion. For support and more information please contact the Burns & Trauma editorial office (editorial@burnstrauma.com).
+Aims and Scope
+Article Type Guide
+Manuscript Preparation
+Manuscript Format, Structure, and Style
+Highlights
+Declarations
+Editorial Policies
+Ethical Policy
+Plagiarism
+Human and Animal Rights
+Conflict of Interest
+Availability of Data and Materials
+Third-party Permissions
+Permissions regarding re-use of OUP material
+Funder Policies
+Submission
+Peer Review
+Processes
+Aims and Scope
+Burns & Trauma is an open access, peer-reviewed journal publishing the latest developments in basic, clinical and translational research related to burns and traumatic injuries, with a special focus on various aspects of biomaterials, tissue engineering, stem cells, critical care, immunobiology, skin transplantation, prevention and regeneration of burns and trauma injury.
+Article Type Guide
+The table below indicates requirements for the different article types published in Burns & Trauma. Subsequent sections describe in more detail the requirements of different elements, and the definition of each category.
+Article type
+Title page
+Abstract: word count
+Abstract structure
+Keywords
+Required sections
+Word count
+Tables/Figures
+Reference guideline
+Research
+Yes
+350
+Structured
+3–10
+Background, Methods, Results, Discussion, Conclusions
+No limit
+No limit
+No limit
+Review
+Yes
+350
+Unstructured
+3–10
+Background, Review, Conclusions
+No limit
+No limit
+No limit
+Guideline
+Yes
+350
+Unstructured
+3–10
+Use section and sub-section heads with short, informative titles as required.
+No limit
+No limit
+No limit
+Commentary
+Yes
+n/a
+n/a
+n/a
+Use section and sub-section heads with short, informative titles as required.
+1200 words
+Max of 1
+Max of 5
+Editorial
+Yes
+n/a
+n/a
+n/a
+Use section and sub-section heads with short, informative titles as required.
+1000 words
+Max of 1
+Max of 5
+Letter to the Editor
+Yes
+n/a
+n/a
+n/a
+Use section and sub-section heads with short, informative titles as required.
+1200 words
+Max of 1
+Max of 5
+Technical report
+Yes
+350
+Unstructured
+3–10
+Background, Methods, Results, Discussion, Conclusions
+1500 words
+Max of 1
+Max of 10
+Rapid communications
+Yes
+n/a
+n/a
+n/a
+Background, Methods, Results, Discussion, Conclusions
+1500 words
+Max of 1
+Max of 10
+Research highlights
+Yes
+A brief stand first of only one or two sentences.
+n/a
+n/a
+Use section and sub-section heads with short, informative titles as required.
+1000 words max
+Max of 1
+Max of 10
+In addition, all submissions require a ‘Declarations’ section. See instructions below for requirements.
+Manuscript Preparation
+Manuscript Format, Structure, and Style
+LaTeX files
+More information on LaTeX files is available in our guidelines on preparing your manuscript
+Language editing pre-submission
+Language editing, particularly if English is not your first language, can be used to ensure that the academic content of your paper is fully understood by the journal editors and reviewers
+Please note that edited manuscripts will still need to undergo peer review by the journal
+Title page
+To facilitate Burns & Trauma double-blinded peer review, the main document should consist of a file with no identifying author information. A separate title page should contain authors, affiliations, acknowledgements, and an address for correspondence
+Abstract
+See details above
+Avoid reference citations and abbreviations
+Authors
+Please list all author contributions upon submission of the manuscript
+Style conventions
+The journal follows Oxford SCIMED style
+Please ensure that you refer to these requirements when preparing your manuscript
+More information is available on the Mini Oxford SCIMED style checklist
+UK spelling should be used throughout, except in quotations and references
+Abbreviations
+Please define non-standard abbreviations at the first occurrence
+Tables & figures
+Figures and text should be submtted in separate files
+Should be accompanied by a legend
+Please number figures and tables consecutively Figures should use a common image format (e.g. pdf, eps, gif, tif, jpg)
+Further information on figures can be found in our guidelines about preparing your manuscript
+Videos
+This journal accepts videos to be published as part of the article
+A still image of the video will appear in the PDF version
+Videos should be cited in-text and numbered (Video 1…) like figures
+A submission guide can be found in our guidelines about preparing your manuscript
+References
+May be formatted in any readable style at submission
+Authors are responsible for their accuracy
+Acknowledgements/funding details
+These should be included at the end of the text
+Please refer to your funding organizations to acknowledge their support
+PubMed Central links will require a specific grant number to be referenced
+Supplementary data
+Material to be considered as Supplementary Material should be submitted at the same time as the main manuscript
+Supplementary material should be referred to in the main manuscript at an appropriate point in the text
+Supplementary material will be available online only and will not be copyedited, so ensure that it is clearly and succinctly presented
+The style should conform with the rest of the paper
+The presentation should work on any internet browser
+We recommend that files are no more than 2MB each, although exceptions can be made at the editorial office’s discretion
+Figure accessibility and alt text
+When submitting your manuscript, we require you to provide alt text (alternative text) descriptions for all images, figures, illustrations, and photographs included in the main article.
+Please consider accessibility when designing each figure, so that all images can be easily understood by visually impaired readers. OUP provides detailed guidance on figure accessibility, including contrast, text accessibility and alt text. It is also best practice for the information or data represented in the image to be fully described by the caption and/or surrounding text.
+Please include each alt text description in your main manuscript file, directly under the figure legend for the relevant figure, preceded by ‘Alt text:’.
+Detailed guidance on how to draft and submit alt text.
+Including alt text in your manuscript helps make your work more accessible to all readers. Good alt text ensures that individuals with visual impairments or those using screen readers can understand the content and context of your figures. The aim of alt text is to give concise and informative descriptions of your figures so all readers can understand and benefit from the visuals in your manuscript. Including alt text demonstrates a commitment to accessibility and enhances the overall impact and reach of your work.
+Alt text is only accessible via e-reader and will not appear as part of the typeset article.
+Highlights
+Three to five bullet points that help increase the discoverability of the manuscript via search engines
+Should capture the novel results of your study as well as new methods that were used during the study (if any)
+Highlights sample
+The ‘Highlights’ file should be clearly named
+The editors may contact the authors for this content after acceptance
+Declarations
+All manuscripts must contain the following sections under the heading 'Declarations':
+Ethics approval and consent to participate
+Consent for publication
+Availability of data and materials
+Conflict of interest
+Funding
+Authors' contributions
+Acknowledgements
+Authors' information (optional)
+Please see below for details on the information to be included in these sections.
+If any of the sections are not relevant to your manuscript, please include the heading and write 'Not applicable' for that section.
+Ethics approval and consent to participate
+Manuscripts reporting studies involving human participants, human data or human tissue must:
+include a statement on ethics approval and consent (even where the need for approval was waived)
+include the name of the ethics committee that approved the study and the committee’s reference number if appropriate
+Studies involving animals must include a statement on ethics approval.
+Consent for publication
+If your manuscript contains any individual person’s data in any form (including any individual details, images or videos), consent for publication must be obtained from that person, or in the case of children, their parent or legal guardian. All presentations of case reports must have consent for publication.
+Patient Consent Form
+Authors should state that in their paper that informed consent has been obtained from the subjects (or their guardians) as specified in the ICMJE Reccomendations, use of the Patient Consent Form is recommended. If another consent form is to be used, for example the standard consent form used by your institution, a blank copy of this form should be submitted to the journal so that the journal can verify that it meets best practice recommendations. If the patient or relatives of a deceased patient cannot be traced and consent cannot be obtained, the article can only be considered for publication if it is sufficiently anonymised. The Editorial Board reserves the right to reject papers for which the ethical aspects are, in the Board’s opinion, open to doubt. Please contact the Editorial Office if you have any queries regarding consent.
+Availability of Data and Materials
+Please see below for detailed requirements.
+Data and Software Citation
+Burns & Trauma supports the Force 11 Data Citation Principles and the recommendations of the FORCE11 Software Citation Implementation Group. When data and software underlying the research article are available in an online source, authors should include a full citation in their reference list.
+For details of the minimum information to be included in data and software citations see the guidance on Citing research data and software.
+ORCID
+Burns & Trauma requires submitting authors to provide an ORCID iD at submission to the journal. More information on ORCID and the benefits of using an ORCID iD is available. If you do not already have an ORCID iD, you can register for free via the ORCID website.
+Preprint policy
+Authors retain the right to make an Author’s Original Version (preprint) available through various channels, and this does not prevent submission to the journal. For further information see our Online Licensing, Copyright and Permissions policies. If accepted, the authors are required to update the status of any preprint, including your published paper’s DOI, as described on our Author Self-Archiving policy page.
+Conflict of interest
+All financial and non-financial conflicts of interest must be declared in this section. Please use the authors initials to refer to each authors' conflicts of interest in this section. If you do not have any conflicts of interest, please state "The authors declare that they have no conflict of interest" in this section.
+Funding
+All sources of funding for the research reported should be declared. The role of the funding body in the design of the study and collection, analysis, and interpretation of data and in writing the manuscript should be declared.
+Authors' contributions
+The individual contributions of authors to the manuscript should be specified in this section.
+Please use initials to refer to each author's contribution in this section, for example: "FC analysed and interpreted the patient data regarding the haematological disease and the transplant. RH performed the histological examination of the kidney, and was a major contributor in writing the manuscript. All authors read and approved the final manuscript."
+Acknowledgements
+Please acknowledge anyone who contributed towards the article who does not meet the criteria for authorship including anyone who provided professional writing services or materials. Authors should obtain permission to acknowledge from all those mentioned in the Acknowledgements section.
+Group authorship (for manuscripts involving a collaboration group): if you would like the names of the individual members of a collaboration Group to be searchable through their individual PubMed records, please ensure that the title of the collaboration Group is included on the title page and in the submission system and also include collaborating author names as the last paragraph of the “Acknowledgements” section. Please add authors in the format First Name, Middle initial(s) (optional), Last Name. You can add institution or country information for each author if you wish, but this should be consistent across all authors.
+Please note that individual names may not be present in the PubMed record at the time a published article is initially included in PubMed as it takes PubMed additional time to code this information.
+Authors' information
+This section is optional. You may choose to use this section to include any relevant information about the author(s) that may aid the reader's interpretation of the article, and understand the standpoint of the author(s). This may include details about the authors' qualifications, current positions they hold at institutions or societies, or any other relevant background information. Please refer to authors using their initials. Note this section should not be used to describe any competing interests.
+Editorial Policies
+Ethical policy
+Authors should observe high standards with respect to publication best practice. Falsification or fabrication of data, plagiarism, including duplicate publication of the authors’ own work without proper citation, and misappropriation of work are all unacceptable practices. Any cases of ethical or publication malpractice are treated very seriously and will be managed in accordance with the Commission on Publication Ethics (COPE) guidelines. Further information about OUP’s ethical policies is available.
+Natural language processing tools driven by artificial intelligence (AI) do not qualify as authors, and the Journal will screen for them in author lists. The use of AI (for example, to help generate content or images, write code, process data, or for translation) should be disclosed both in cover letters to editors and in the Methods or Acknowledgements section of manuscripts. Please see the COPE position statement on Authorship and AI for more details.
+Manuscripts may also be screened, including with services provided by third parties, to help detect integrity issues such as inappropriate image alteration and papermill activity.
+Plagiarism
+Manuscripts submitted to Burns & Trauma may be screened with iThenticate anti-plagiarism software in an attempt to detect and prevent plagiarism. Any manuscript may be screened, especially if there is reason to suppose part or all of the text has been previously published. Prior to final acceptance any manuscript that has not already been screened may be put through iThenticate. More information about iThenticate.
+Human and Animal Rights
+Consent from Patients
+Papers reporting experiments on patients or healthy volunteers must record the fact that the subjects' consent was obtained according to the Declaration of Helsinki. It must also be approved by the ethical committee of the institution in which the work was performed. Consent must be also recorded when photographs of patients are shown or other details are given that could lead to identification of these individuals.
+Animal Experiments
+When reporting animal experiments authors should indicate whether the institution’s, national research council’s, or any other law on the care and use of laboratory animals was followed.
+Conflict of Interest
+Any financial interests or connections, direct or indirect, or other situations that might raise the question of bias in the work reported or the conclusions, implications, or opinions stated—including pertinent commercial or other sources of funding for the individual author(s) or for the associated department(s) or organization(s), personal relationships, or direct academic competition—should be disclosed. For further information see the FAQ.
+If there are none, please declare no conflicts of interest.
+If one or a few authors have a conflict to disclose, further to that statement, there should be an additional statement for those remaining authors who do not have any conflicts of interest.
+Availability of Data and Materials
+Where ethically feasible, Burns & Trauma strongly encourages authors to make all data and software code on which the conclusions of the paper rely available to readers. We suggest that data be presented in the main manuscript or additional supporting files, or deposited in a public repository whenever possible. For information on general repositories for all data types, and a list of recommended repositories by subject area, please see Choosing where to archive your data.
+Third-party permissions
+In order to reproduce any third party material, including tables, figures, or images, in an article authors must obtain permission from the copyright holder and be compliant with any requirements the copyright holder may have pertaining to this reuse. When seeking to reproduce any kind of third party material authors should request the following:
+non-exclusive rights to reproduce the material in the specified article and journal;
+electronic rights, preferably for use in any form or medium;
+the right to use the material for the life of the work; and
+world-wide English-language rights.
+It is particularly important to clear permission for use in online versions of the journal, and we are not able to accept permissions which carry a time limit because we retain journal articles as part of our online journal archive. Further guidelines on clearing permissions.
+Permissions regarding re-use of OUP material
+Guidelines on permissions for the reuse of OUP material.
+Funder policies
+Information about compliance with funder requirements including PubMed/PMC deposits.
+Submission
+Burns & Trauma considers all manuscripts on the condition that:
+the manuscript is your own original work and does not duplicate any other previously published work, including your own work.
+the manuscript has been submitted only to Burns & Trauma. It should not be under consideration or peer review or accepted for publication or published elsewhere.
+the manuscript contains nothing that is abusive, defamatory, libellous, obscene, fraudulent, or illegal.
+All manuscripts are submitted and reviewed via the journal’s web-based manuscript submission system, ScholarOne Manuscripts. To submit to the journal go to Burns & Trauma manuscript submission system. New authors should create an account prior to submitting a manuscript for consideration. Questions about submitting to the journal should be sent to the editorial office.
+For more information about using ScholarOne, please go to the Author Resource Centre.
+Peer Review
+All submissions to the journal are initially reviewed by one of the Editors. At this stage manuscripts may be rejected without peer review if it is felt that they are not of high enough priority or not relevant to the journal. This fast rejection process means that authors are given a quick decision and do not need to wait for the review process.
+Manuscripts that are not instantly rejected are sent out for anonymous peer review, usually to two independent reviewers. Based on the feedback from these reviewers and the Editors' judgment a decision is given on the manuscript. The average time from submission to first decision is six weeks.
+If a paper is not acceptable in its present form, we will pass on suggestions for revisions to the author.
+Manuscript transfer
+In some cases, the editorial team of the Journal may offer you the option of transferring your manuscript to Research Connections. If you accept this offer, the manuscript files and any reviewer reports from consenting reviewers will be sent to Research Connections. The editorial team of Research Connections may choose to seek additional peer review. A decision will be made on the manuscript based on the feedback from all reviewers and the judgement of the Research Connections editorial team.
+Processes
+Speed
+40 days to first decision for reviewed manuscripts only
+31 days to first decision for all manuscripts
+123 days from submission to acceptance
+35 days from acceptance to publication
+Production Process
+For Burns & Trauma, manuscripts arrive at OUP and go through the production process until final versions are ready to publish. These are then published into the current issue.
+Authors will receive a link to the PDF proof of their manuscript on our online system by email, and it is essential that a current email address is supplied with all manuscripts. Proofing instructions will accompany the PDF file but the proof should be checked immediately upon receipt and uploaded in accordance with covering instructions. Only essential corrections should be made at the proof stage.
+Pubdate:  Viewed:
+Publishing model
+0
+{"submissionFirstDecision":"31","jcrJfStr":"11.0 (2025)"}
+Downloads
+Submission to first decision (median)
+31 days
+ISSN 2321-3868 (Print)
+ISSN 2321-3876 (Online)
+Submit manuscript
+Collections and calls for papers
+View all Collections
+Subscription
+E-mail alert
+Subscribe to our RSS content
+Journal updates More
+Links

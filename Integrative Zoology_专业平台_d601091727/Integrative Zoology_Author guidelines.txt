@@ -1,0 +1,277 @@
+期刊: Integrative Zoology
+来源: https://journal.hep.com.cn/inz/EN/guidelines
+标题: Author guidelines
+
+Home
+Journals
+Subscription
+Submission
+Metrics
+Top read articles on mendeley
+Editorial policy
+Open access
+About us
+Adv search
+About the journal
+Aims & scope
+Description
+Editorial board
+Cover gallery
+Contact us
+Browse
+Latest issue
+All volumes and issues
+Most accessed
+Most cited
+Authors & reviewers
+Online submisson
+Guidelines for authors
+Guidelines for authors
+Sections
+1. Submission
+2. Aims and Scope
+3. Preparing the Submission
+4. Editorial Policies and Ethical Considerations
+5. Submission Checklist and Summary of File Requirements
+6. Author Licensing
+7. Publication Process After Acceptance
+8. Post Publication
+1. SUBMISSION
+Authors should kindly note that submission implies that the content has not been published or submitted for publication elsewhere except as a brief abstract in the proceedings of a scientific meeting or symposium.
+Once the submission materials have been prepared in accordance with the Author Guidelines, manuscripts should be submitted online at http://mc03.manuscriptcentral.com/inz
+The submission system will prompt authors to use an ORCID iD (a unique author identifier) to help distinguish their work from that of other researchers. Click here to find out more.
+Click here for more details on how to use ScholarOne.
+Please direct your queries to the Editorial Office of Integrative Zoology:
+Institute of Zoology
+C-506, 1-5 Beichen Xi Road
+Beijing 100101
+China
+Tel/fax: 8610 6480 7295
+Email to: [email protected]
+2. AIMS AND SCOPE
+The official journal of the International Society of Zoological Sciences, Integrative Zoology focuses on zoology as an integrative discipline encompassing all aspects of animal life. It presents a broader perspective of many levels of zoological inquiry, both spatial and temporal, and encourages cooperation between zoology and other disciplines including, but not limited to, physics, computer science, social science, ethics, teaching, paleontology, molecular biology, physiology, behavior, ecology and the built environment. It also looks at the animal-human interaction through exploring animal-plant interactions, microbe/pathogen effects and global changes on the environment and human society.
+Integrative topics of greatest interest to the journal include:
+(1) Animals & climate change;
+(2) Animals & pollution;
+(3) Animals & infectious diseases;
+(4) Animals & biological invasions;
+(5) Animal-plant interactions;
+(6) Zoogeography & paleontology;
+(7) Neurons, genes & behavior;
+(8) Molecular ecology & evolution;
+(9) Physiological adaptations.
+3. PREPARING THE SUBMISSION
+Word length
+The length of an article (including references and tables) should not exceed 10,000 words.
+General Style Points
+The following points provide general advice on formatting and style.
+• Spelling: The journal uses US spelling and authors should therefore follow the latest edition of the Merriam–Webster’s Collegiate Dictionary. For example, behavior not behaviour; fertilization not fertilisation.
+• Abbreviations: Abbreviations should be used sparingly – only where they ease the reader’s task by reducing repetition of long, technical terms. Initially use the word in full, followed by the abbreviation in parentheses. Thereafter use the abbreviation only.
+• Units of measurement: All measurements must be given in SI or SI-derived units. For example 400 m, 23.4 s, 87 km, etc.
+• Numbers: Numbers under 10 are spelt out, except for: measurements with a unit (8mmol/l); age (6 weeks old), or lists with other numbers (11 dogs, 9 cats, 4 gerbils).
+Zoological nomenclature
+All papers must conform to the latest edition of the International Code of Zoological Nomenclature. Upon its first use in the title, abstract and text, the common name of a species should be followed by the name (genus, species and authority) in parentheses. For example: Taenia diminuta Ruldophi, 1819. Genus names should not be abbreviated at the beginning of paragraphs.
+Species Names
+Upon its first use in the title, abstract and text, the common name of a species should be followed by the scientific name (genus, species and authority) in parentheses. For well-known species, however, the scientific name may be omitted from the article title. If no common name exists in English, the scientific name should be used only.
+Taxonomic papers
+In taxonomic papers, type specimens and type depositories must be clearly designated and indicated. Authors are recommended to deposit the name-bearing type material in internationally recognized institutions.
+Genetic nomenclature
+Sequence variants should be described in the text and tables using both DNA and protein designations whenever appropriate. Sequence variant nomenclature must follow the current HGVS guidelines; see varnomen.hgvs.org, where examples of acceptable nomenclature are provided.
+Nucleotide Sequence Data
+Nucleotide sequence data can be submitted in electronic form to any of the three major collaborative databases: DDBJ, EMBL, or GenBank. It is only necessary to submit to one database as data are exchanged between DDBJ, EMBL, and GenBank on a daily basis. The suggested wording for referring to accession-number information is: ‘These sequence data have been submitted to the DDBJ/EMBL/GenBank databases under accession number U12345’.
+Addresses are as follows:
+• DNA Data Bank of Japan (DDBJ): www.ddbj.nig.ac.jp
+• EMBL Nucleotide Archive: ebi.ac.uk/ena
+• GenBank: www.ncbi.nlm.nih.gov/genbank
+Parts of the Manuscript
+The manuscript should be submitted in separate files: title page; main text file; figures.
+Title Page
+The title page should contain:
+i. A short informative containing the major key words. The title should not contain abbreviations (see Wiley's best practice SEO tips);
+ii. A short running title of less than 40 characters;
+iii. The full names of the authors;
+iv. The author's institutional affiliations where the work was conducted, with a footnote for the author’s present address if different from where the work was conducted;
+v. Acknowledgments.
+Authorship
+Please refer to the journal’s Authorship policy in the Editorial Policies and Ethical Considerations section for details on author listing eligibility.
+Acknowledgments
+Contributions from anyone who does not meet the criteria for authorship should be listed, with permission from the contributor, in an Acknowledgments section. Financial and material support should also be mentioned. Thanks to anonymous reviewers are not appropriate.
+Conflict of Interest Statement
+Authors will be asked to provide a conflict of interest statement during the submission process. For details on what to include in this section, see the ‘Conflict of Interest’ section in the Editorial Policies and Ethical Considerations section below. Submitting authors should ensure they liaise with all co-authors to confirm agreement with the final statement.
+Main Text File
+As papers are double-blind peer reviewed, the main text file should not include any information that might identify the authors.
+The main text file should be presented in the following order:
+i. Title, abstract, and key words;
+ii. Main text;
+iii. References;
+iv. Tables (each table complete with title and footnotes);
+v. Figure legends;
+vi. Supplementary Materials (if relevant).
+Figures and supporting information should be supplied as separate files.
+Abstract
+All articles must have a brief abstract that states in 250 words or fewer the purpose, basic procedures, main findings and principal conclusions of the study. The abstract should not contain abbreviations or references.
+Graphical Abstract
+The online table of contents will display a small image, alongside your abstract. Please supply a schematic figure for use as the illustrated abstract to convey the core message of your paper. This should be simple, colorful and contain minimal text to attract additional readers. In addition, please provide a short abstract consisting of 2-3 sentences (max 500 characters, including spaces) highlighting the major findings.
+Graphical Abstracts are optional at initial submission, but are required at revision before acceptance.
+For examples of graphical abstracts, please see our Early View articles.
+Keywords
+Three to five key words (for the purposes of indexing) should be supplied below the abstract in alphabetical order.
+Text
+Authors should use the following subheadings to divide the sections of their manuscript: Introduction, Materials and Methods, Results and Discussion.
+References
+The Harvard (author date) system of referencing is used (examples are given below). In the text give the author’s name followed by the year in parentheses: (Smith 2000). If there are two authors use ‘and’: Smith and Jones (2001); but if cited within parentheses use ‘&’: (Smith & Jones 2001). When reference is made to a work by three or more authors, the first name followed by et al. should be used: MacDonald et al. (2002). In the reference list, references should be listed in alphabetical order, then chronologically.
+In the reference list, cite the names of all authors when there are six or fewer; when seven or more, list the first three followed by et al. Do not use ibid. or op cit. Reference to unpublished data and personal communications should not appear in the list but should be cited in the text only (e.g. A Smith, 2000, unpubl. data). All citations mentioned in the text, tables or figures must be listed in the reference list.
+Authors are responsible for the accuracy of the references.
+Journals
+Currie PJ, Chen PJ (2001). Anatomy of Sinosauropteryx prima from Liaoning, northeastern China. Canadian Journal of Earth Science 38, 1705–27.
+Books
+Ringsven MK, Bond D (1996). Gerontology and Leadership Skills for Nurses, 2nd edn. Delmar Publishers, Albany, NY.
+Chapter in a book
+Hull DL (1988). Interactors versus vehicles. In: Plotkin HC, ed. The Role of Behavior in Evolution. MIT Press, Boston, pp. 19–50.
+Conference proceedings
+Kimura J, Shibasaki H, eds (1996). Recent advances in clinical neurophysiology. Proceedings of the 10th International Congress of EMG and Clinical Neurophysiology; 15–19 Oct 1995, Kyoto, Japan. Elsevier, Amsterdam.
+Web page
+Diabetes Australia. Prevalence of Diabetes in the Australian Population. [Cited 5 Jun 1996.] Available from URL: http://www.diabetes.org.au
+Tables
+Tables should be self-contained and complement, but not duplicate, information contained in the text. Number tables consecutively in the text in Arabic numerals. Type tables on a separate page with the legend above. Legends should be concise but comprehensive – the table, legend and footnotes must be understandable without reference to the text. Vertical lines should not be used to separate columns. Column headings should be brief, with units of measurement in parentheses; all abbreviations must be defined in footnotes. Footnote symbols: †, ‡, §, ¶, should be used (in that order) and *, **, *** should be reserved for P-values. Statistical measures such as SD or SEM should be identified in the headings.
+Figure Legends
+Legends should be concise but comprehensive – the figure and its legend must be understandable without reference to the text. Include definitions of any symbols used and define/explain all abbreviations and units of measurement.
+Figures
+Although authors are encouraged to send the highest-quality figures possible, for peer-review purposes, a wide variety of formats, sizes, and resolutions are accepted.
+Click here for the basic figure requirements for figures submitted with manuscripts for initial peer review, as well as the more detailed post-acceptance figure requirements.
+Additional Files
+Appendices
+Appendices will be published after the references. For submission they should be supplied as separate files but referred to in the text.
+Supporting Information
+Supporting information is information that is not essential to the article, but provides greater depth and background. It is hosted online and appears without editing or typesetting. It may include tables, figures, videos, datasets, etc.
+Click here for Wiley’s FAQs on supporting information.
+Note: if data, scripts, or other artefacts used to generate the analyses presented in the paper are available via a publicly available data repository, authors should include a reference to the location of the material within their paper.
+Wiley Author Resources
+Manuscript Preparation Tips: Wiley has a range of resources for authors preparing manuscripts for submission available here. In particular, authors may benefit from referring to Wiley’s best practice tips on Writing for Search Engine Optimization.
+Article Preparation Support
+Wiley Editing Services offers expert help with English Language Editing, as well as translation, manuscript formatting, figure illustration, figure formatting, and graphical abstract design – so you can submit your manuscript with confidence.
+Also, check out our resources for Preparing Your Article for general guidance about writing and preparing your manuscript.
+4. EDITORIAL POLICIES AND ETHICAL CONSIDERATIONS
+Editorial Review and Acceptance
+The acceptance criteria for all papers are the quality and originality of the research and its significance to our readership. Except where otherwise stated, manuscripts are double-blind peer reviewed by two anonymous reviewers and the Editor. Final acceptance or rejection rests with the Editorial Board, who reserves the right to refuse any material for publication.
+Manuscripts should be written in a clear, concise, direct style. Where contributions are judged as acceptable for publication on the basis of scientific content, the Editor and the Publisher reserve the right to modify typescripts to eliminate ambiguity and repetition and improve communication between author and reader.
+Animal Studies
+A statement indicating that the protocol and procedures employed were ethically reviewed and approved, as well as the name of the body giving approval, must be included in the Methods section of the manuscript. Authors are encouraged to adhere to animal research reporting standards, for example the ARRIVE guidelines for reporting study design and statistical analysis; experimental procedures; experimental animals and housing and husbandry. Authors should also state whether experiments were performed in accordance with relevant institutional and national guidelines for the care and use of laboratory animals:
+• US authors should cite compliance with the US National Research Council's Guide for the Care and Use of Laboratory Animals, the US Public Health Service's Policy on Humane Care and Use of Laboratory Animals, and  Guide for the Care and Use of Laboratory Animals.
+• UK authors should conform to UK legislation under the  Animals (Scientific Procedures) Act 1986 Amendment Regulations (SI 2012/3039).
+• European authors outside the UK should conform to  Directive 2010/63/EU.
+Research Permits
+Where research has been carried out in areas for which research permits are required (e.g. nature reserves), or when it deals with organisms for which collection or import/export permits are required (e.g. protected species), the authors must clearly detail obtaining these permits in the Acknowledgments section.
+Authorship
+The list of authors should accurately illustrate who contributed to the work and how. All those listed as authors should qualify for authorship according to the following criteria:
+1. Have made substantial contributions to conception and design, or acquisition of data, or analysis and interpretation of data;
+2. Been involved in drafting the manuscript or revising it critically for important intellectual content;
+3. Given final approval of the version to be published. Each author should have participated sufficiently in the work to take public responsibility for appropriate portions of the content; and
+4. Agreed to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
+Contributions from anyone who does not meet the criteria for authorship should be listed, with permission from the contributor, in an Acknowledgments section (for example, to recognize contributions from people who provided technical help, collation of data, writing assistance, acquisition of funding, or a department chairperson who provided general support). Prior to submitting the article all authors should agree on the order in which their names will be listed in the manuscript.
+Conflict of Interest
+The journal requires that all authors disclose any potential sources of conflict of interest. Any interest or relationship, financial or otherwise that might be perceived as influencing an author's objectivity is considered a potential source of conflict of interest. These must be disclosed when directly relevant or directly related to the work that the authors describe in their manuscript. Potential sources of conflict of interest include, but are not limited to: patent or stock ownership, membership of a company board of directors, membership of an advisory board or committee for a company, and consultancy for or receipt of speaker's fees from a company. The existence of a conflict of interest does not preclude publication. If the authors have no conflict of interest to declare, they must also state this at submission. It is the responsibility of the corresponding author to review this policy with all authors and collectively to disclose with the submission ALL pertinent commercial and other relationships.
+Publication Ethics
+This journal is a member of the Committee on Publication Ethics (COPE). Note this journal uses iThenticate’s CrossCheck software to detect instances of overlapping and similar text in submitted manuscripts. Read Wiley'sTop 10 Publishing Ethics Tips for Authors  here. Wiley’s Publication Ethics Guidelines can be found here.
+Reproduction of Copyright Material
+If excerpts from copyrighted works owned by third parties are included, credit must be shown in the contribution. It is the author’s responsibility to also obtain written permission for reproduction from the copyright owners.
+5. SUBMISSION CHECKLIST AND SUMMARY OF FILE REQUIREMENTS
+Submission Checklist
+Prior to submitting your paper, please ensure you have done the following:
+• Check the title and keywords of your study: Do they attract researchers in your field and more broadly?
+• Check that your abstract of 250 words or less effectively summarize your study and is written in such a way that will engage readers.
+• Check you have indicated the ethics approval system under which your study was conducted in the manuscript.
+• Cross-check all referencing and check the formatting of these both in the text and references section.
+• Ensure your manuscript is in DOC (Microsoft Word) format.
+• Check that the manuscript follows the Author Guidelines for Integrative Zoology, in particular checking that the sections are in the correct order including all tables and figure legends are presented at the end of the text.
+• Check that only SI values have been used throughout the manuscript.
+• At least one colleague has read through your manuscript.
+Summary of File Requirements
+• The main text file should be prepared using Microsoft Word, 1.5 line -spaced with continous line numbers throughout the article. The top, bottom and side margins should be 30 mm. All pages should be numbered consecutively in the top right-hand corner, beginning with the first page of the main text file.
+• A cover letter should be included in the ‘Cover Letter Field’ of the ScholarOne system. The text can be entered directly into the field or uploaded as a file.
+• The cover letter must describe how the work is novel relative to similar published works with respect to the literature in general, and in regards to your own published or submitted papers.
+• Two Word-files need to be included upon submission: A title page file and a main text file that includes all parts of the text in the sequence indicated in the section 'Parts of the manuscript', including tables and figure legends but excluding figures which should be supplied separately.
+• Each figure should be supplied as a separate file, with the figure number incorporated in the file name. For submission, low-resolution figures saved as .jpg or .bmp files should be uploaded, for ease of transmission during the review process. Upon acceptance of the article, high-resolution figures (at least 300 d.p.i.) saved as .eps or .tif files will be required.
+• For revised submission, authors need to respond to the comments made by the reviewer(s) in the space provided. You can also document any other changes you make to the original manuscript. In order to expedite the processing of the revised manuscript, please be as specific as possible in your response to the reviewer(s). Please also upload the response letter by separate file as “Supplemental File for Review”.
+6. AUTHOR LICENSING
+If your paper is accepted, the author identified as the formal corresponding author will receive an email prompting them to log in to Author Services, where via the Wiley Author Licensing Service (WALS) they will be required to complete a copyright license agreement on behalf of all authors of the paper.
+Authors may choose to publish under the terms of the journal’s standard copyright agreement, or Hybrid Open Access under the terms of a Creative Commons License.
+General information regarding licensing and copyright is available here. To review the Creative Commons License options offered under Hybrid Open Access, please click here. (Note that certain funders mandate that a particular type of CC license has to be used; to check this please click here.)
+Self-Archiving definitions and policies. Note that the journal’s standard copyright agreement allows for self-archiving of different versions of the article under specific conditions. Please click here for more detailed information about self-archiving definitions and policies.
+Open Access fees: If you choose to publish using Hybrid Open Access you will be charged a fee (APC). For more information on this journal’s APCs, please see the Open Access page.
+Funder Open Access: Please click here for more information on Wiley’s compliance with specific Funder Open Access Policies.
+7. PUBLICATION PROCESS AFTER ACCEPTANCE
+Accepted Article Received in Production
+When an article is received by Wiley’s production team, the corresponding author will receive an email asking them to login or register with Wiley Author Services. The author will be asked to sign a publication license at this point.
+Proofs
+Once the paper is typeset, the author will receive an email with a PDF typeset page proof, as well as associated forms and full instructions on how to correct and return the file. Please note that the author is responsible for all statements made in their work, including changes made during the editorial process – authors should check proofs carefully. Note that proofs should be returned within 72 hours from receipt of first proof.
+Early View
+The journal offers rapid speed to publication via Wiley’s Early View service. Early View articles are complete full-text articles published online in advance of their publication in a printed issue. Early View articles are complete and final. They have been fully reviewed, revised and edited for publication, and the authors' final corrections have been incorporated. Because they are in final form, no changes can be made after online publication. Early View articles are given a Digital Object Identifier (DOI), which allows the article to be cited and tracked before allocation to an issue.
+8. POST PUBLICATION
+Access and sharing
+When the article is published online:
+• The author receives an email alert (if requested).
+• The link to the published article can be shared through social media.
+• The author will have free access to the paper (after accepting the Terms & Conditions of use, they can view the article).
+• The corresponding author and co-authors can nominate up to ten colleagues to receive a publication alert and free online access to the article.
+Print copies of the article can now be ordered (instructions are sent at proofing stage).
+Promoting the Article
+To find out how to best promote an article, click here.
+Article Promotion Support
+Wiley Editing Services offers professional video, design, and writing services to create shareable video abstracts, infographics, conference posters, lay summaries, and research news stories for your research – so you can help your research get the attention it deserves.
+Measuring the Impact of an Article
+Wiley also helps authors measure the impact of their research through specialist partnerships with Kudos and Altmetric.
+Author Guidelines updated 18 November 2022
+Pubdate: Jul 09, 2024 Viewed: 2869
+Latest issue
+May 2026, Volume 21 Issue 3
+View all volumes and issues
+Cover illustration
+Submit manuscript
+Latest articles
+Most accessed
+Collections
+A Slow and Underappreciated Forest Megafauna: Food Habits, Movements, and Multiscale Habitat Preferences of Critically Endangered Sundaic Giant Tortoises (Manouria emys emys)
+Try Surya Harapan,Lisa Ong,Ade Prasetyo Agung,Rafia Rafia,Djong Hon Tjong,Wilson Novarino,Ahimsa Campos-Arceiz
+https://doi.org/10.1111/1749-4877.12965
+Congener Dreissenid Mussels Differ in Their Survival and Behavioral Responses to Drought and Immersion in Sediments
+Jarosław Kobak,Kamil Wiśniewski,Aleksandra Bomba,Daniel Szarmach,Csilla Balogh,Łukasz Jermacz,Małgorzata Poznańska-Kakareko
+https://doi.org/10.1111/1749-4877.70123
+The Age of Female Pardosa pseudoannulata Affects the Attractiveness of Their Dragline Silk Sex Pheromones to Males
+Yanrong Wu,Chengjie Tu,Haosiyi Zhu,He Zhang,Wenjing Xiao,Zuojun Xie,Lei Li,Yao Zhao,Qiong Zong,Jie Liu,Yu Peng
+https://doi.org/10.1111/1749-4877.70088
+Offensive and Defensive Exploitation of Ants by Termitophagous Spiders (Araneae: Zodariidae)
+Stano Pekár,Domagoj Gajski,Ondrej Šedo,Věra Opatová,Jan Korba,Charles Haddad
+https://doi.org/10.1111/1749-4877.13021
+Serotonergic Modulation of Social Dominance via the Dorsal Raphe–Central Amygdala Circuit in Male Mice
+Yingjuan Liu,Yi Jiang,Yuting Bai,Qin An,Jia Tian,Jiaowen Wu,Lu Li,Jie Zhou,Xiaojing Zhang,Ruili Wang,Hexuan Wang,Qiuhong Niu,Laifu Li
+https://doi.org/10.1111/1749-4877.70003
+View all articles
+Developing fertility control for rodents: a framework for researchers and practitioners
+Giovanna MASSEI,Jens JACOB,Lyn A. HINDS
+https://doi.org/10.1111/1749-4877.12727
+Exploring riverine aquatic animal diversity and establishing aquatic ecological monitoring approaches tailored to the Qinling region via eDNA technology
+Biao WANG,Yuqi WANG,Ni HE,Mingxing DU,Ping YOU
+https://doi.org/10.1111/1749-4877.12916
+A newly discovered Hystrix primigenia specimen from the Kemiklitepe collection at Ege University Natural History Museum: insights into paleobiogeography in Eurasia
+Kazım HALAÇLAR,Paul RUMMY,Serdar MAYDA,Tao DENG
+https://doi.org/10.1111/1749-4877.12820
+Evolution and conservation genetics of pangolins
+Tongtong GU,Jingyang HU,Li YU
+https://doi.org/10.1111/1749-4877.12796
+Population and community ecology: past progress and future directions
+Charles J. KREBS,Stan BOUTIN,Rudy BOONSTRA
+https://doi.org/10.1111/1749-4877.12863
+View all articles
+View all collections
+Subscription
+E-mail alert
+Subscribe to our RSS content
+Journal updates More
+Journal updates
+2024-07-09
+Links
+Links
+ISSN 1749-4877 (Print)
+ISSN 1749-4877 (Online)
+CN 116012/Q

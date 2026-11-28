@@ -1,0 +1,224 @@
+期刊: Atmospheric and Oceanic Science Letters
+来源: https://www.keaipublishing.com/en/journals/atmospheric-and-oceanic-science-letters/guide-for-authors/
+标题: Guide for Authors
+
+Guide for Authors
+Introduction
+Types of paper
+Submission Checklist
+Before you begin
+Ethics in Publishing
+Conflict of Interest
+Submission Declaration
+Changes to Authorship
+Copyright
+Author Rights
+Role of the funding source
+Open Access
+Language and Language Services
+Submission
+Additional Information
+Peer Review
+Use of Word Processing Software
+Article Structure
+Essential Title Page Information
+Abstract
+Keywords
+Abbreviations
+Acknowlegments
+Nomenclature_and_units
+Math Formulae
+Footnotes
+Artwork
+Tables
+References
+Preprint references
+Submission Checklist
+After acceptance
+After Acceptance
+Proofs
+Author inquiries
+Author Inquiries
+Introduction
+Types of paper
+Contributions falling into the following categories will be considered for publication: [original communications–length articles, reviews, research highlights, perspectives, project reports, data description, etc.].
+Please ensure that you select the appropriate article type from the list of options when making your submission. Authors contributing to special issues should ensure that they select the special issue article type from this list.
+Submission Checklist
+The following list will be useful during the final checking of an article prior to sending it to the journal for review. Please consult this Guide for Authors for further details of any item.
+Ensure that the following items are present:
+One Author designated as corresponding Author:
+o E-mail address
+o Full postal address
+o Telephone and fax numbers
+All necessary files have been uploaded
+o Keywords
+o All figure captions
+o All tables (including title, description, footnotes)
+Further considerations
+o Manuscript has been "spellchecked" and "grammar-checked"
+o References are in the correct format for this journal
+o All references mentioned in the Reference list are cited in the text, and vice versa
+o Permission has been obtained for use of copyrighted material from other sources (including the Web)
+o Color figures are clearly marked as being intended for color reproduction on the Web (free of charge) and in print or to be reproduced in color on the Web (free of charge) and in black-and-white in print
+o If only color on the Web is required, black and white versions of the figures are also supplied for printing purposes
+For any further information please visit our customer support site at http://service.elsevier.com/app/home/supporthub/publishing/.
+Before you begin
+Ethics in Publishing
+For information on Ethics in Publishing and Ethical guidelines for journal publication see https://www.elsevier.com/publishingethics and https://www.elsevier.com/ethicalguidelines.
+Conflict of Interest
+All authors are requested to disclose any actual or potential conflict of interest including any financial, personal or other relationships with other people or organizations within three years of beginning the submitted work that could inappropriately influence, or be perceived to influence, their work. See also https://www.elsevier.com/conflictsofinterest.
+Submission Declaration
+Submission of an article implies that the work described has not been published previously (except in the form of an abstract or as part of a published lecture or academic thesis), that it is not under consideration for publication elsewhere, that its publication is approved by all authors and tacitly or explicitly by the responsible authorities where the work was carried out, and that, if accepted, it will not be published elsewhere including electronically in the same form, in English or in any other language, without the written consent of the copyright-holder.
+Changes to Authorship
+This policy concerns the addition, deletion, or rearrangement of author names in the authorship of accepted manuscripts:
+Before the accepted manuscript is published in an online issue: Requests to add or remove an author, or to rearrange the author names, must be sent to the Journal Manager from the corresponding author of the accepted manuscript and must include: (a) the reason the name should be added or removed, or the author names rearranged and (b) written confirmation (e-mail, fax, letter) from all authors that they agree with the addition, removal or rearrangement. In the case of addition or removal of authors, this includes confirmation from the author being added or removed. Requests that are not sent by the corresponding author will be forwarded by the Journal Manager to the corresponding author, who must follow the procedure as described above. Note that: (1) Journal Managers will inform the Journal Editors of any such requests and (2) publication of the accepted manuscript in an online issue is suspended until authorship has been agreed.
+After the accepted manuscript is published in an online issue: Any requests to add, delete, or rearrange author names in an article published in an online issue will follow the same policies as noted above and result in a corrigendum.
+Copyright
+Upon acceptance of an article, authors will be asked to complete a 'Journal Publishing Agreement'. Acceptance of the agreement will ensure the widest possible dissemination of information. An e-mail will be sent to the corresponding author confirming receipt of the manuscript together with a 'Journal Publishing Agreement' form or a link to the online version of this agreement.
+Author Rights
+For open access publishing this journal uses a licensing agreement. Authors will retain copyright alongside scholarly usage rights and KeAi Communications Co., Ltd. will be granted exclusive publishing and distribution rights.
+Role of the funding source
+You are requested to identify who provided financial support for the conduct of the research and/or preparation of the article and to briefly describe the role of the sponsor(s), if any, in study design; in the collection, analysis and interpretation of data; in the writing of the report; and in the decision to submit the paper for publication. If the funding source(s) had no such involvement then this should be stated. Please see https://www.elsevier.com/funding
+Open Access
+Every peer-reviewed research article appearing in this journal will be published open access. This means that the article is universally and freely accessible via the internet in perpetuity, in an easily readable format immediately after publication. The standard article publishing charge (APC) for the journal is US$1200.
+A CC user license manages the reuse of the article (see https://www.elsevier.com/openaccesslicenses). All articles will be published under one of the following licenses:
+Creative Commons Attribution(CC-BY)
+Lets others distribute and copy the article, to create extracts, abstracts, and other revised versions, adaptations or derivative works of or from an article (such as a translation), to include in a collective work (such as an anthology), to text or data mine the article, even for commercial purposes, as long as they credit the author(s), do not represent the author as endorsing their adaptation of the article, and do not modify the article in such a way as to damage the author's honor or reputation. Creative Commons Attribution-NonCommercial-NoDerivs (CC BY-NC-ND)
+For non-commercial purposes, lets others distribute and copy the article, and to include in a collective work (such as an anthology), as long as they credit the author(s) and provided they do not alter or modify the article.
+Language and Language Services
+Please write your text in good English (American or British usage is accepted, but not a mixture of these). Authors who require information about language editing and copyediting services pre- and post-submission please visit http://www.lucidpapers.com/ or https://webshop.elsevier.com/language-editing/ or our customer support site at http://service.elsevier.com/app/home/supporthub/publishing/ for more information.
+Submission
+All submissions should be made online at AOSL ScholarOne Manuscripts website (https://mc03.manuscriptcentral.com/aosl). New users should first create an account. Once logged on to the site, submissions should be made via the Author Centre. Online user guides and access to a helpdesk are available on this website.
+AOSL have a length limit of 5500 words including figures (one figure is equivalent to 400 words), tables, references and an abstract of no more than 250 words. Manuscripts may be submitted in any standard editable format, including Word and EndNote. These files will be automatically converted into a PDF file for the review process. LaTeX files should be converted to PDF prior to submission because ScholarOne Manuscripts is not able to convert LaTeX files into PDFs directly. All LaTeX source files should be uploaded alongside the PDF.
+Due to length limit, AOSL accept Supplemental Materials associated with the article in most file formats, text, figures, and tables should be included in one PDF file, animations/movies and sound files should be in *.mp4 or *.mp3 format. Please upload these supporting materials separately from the main manuscript, choosing File Designation as “Supplemental File for Review” in the ScholarOne system. Please also note that Supplemental Materials are not copyedited during the proofing process, which would be available online only, with a link in the final publication.
+Manuscript Template for WORD Users: A Sample WORD File
+Additional Information
+Tables and figures may be presented with captions within the main body of the manuscript; if so, figures should additionally be uploaded as high resolution files.
+Peer Review
+This journal operates a single blind review process. All contributions are sent to a minimum of two independent expert reviewers to assess the scientific quality of the paper. The Editor is responsible for the final decision regarding acceptance or rejection of articles. The Editor's decision is final. For more information on the types of peer review, please visit: https://www.elsevier.com/reviewers/peer-review
+Use of Word Processing Software
+It is important that the file be saved in the native format of the wordprocessor used. The text should be in single-column format. Keep the layout of the text as simple as possible. Most formatting codes will be removed and replaced on processing the article. In particular, do not use the wordprocessor's options to justify text or to hyphenate words. However, do use bold face, italics, subscripts, superscripts etc. When preparing tables, if you are using a table grid, use only one grid for each individual table and not a grid for each row. If no grid is used, use tabs, not spaces, to align columns. The electronic text should be prepared in a way very similar to that of conventional manuscripts (see also the Guide to Publishing with Elsevier: https://www.elsevier.com/guidepublication). Note that source files of figures, tables and text graphics will be required whether or not you embed your figures in the text. See also the section on Electronic illustrations.
+To avoid unnecessary errors, you are strongly advised to use the "spell-check" and "grammar-check" functions of your wordprocessor.
+Article Structure
+Subdivision - numbered sections
+Divide your article into clearly defined and numbered sections. Subsections should be numbered 1.1 (then 1.1.1, 1.1.2, ...), 1.2, etc. (the abstract is not included in section numbering). Use this numbering also for internal cross-referencing: do not just refer to "the text". Any subsection may be given a brief heading. Each heading should appear on its own separate line.
+Introduction
+State the objectives of the work and provide an adequate background, avoiding a detailed literature survey or a summary of the results.
+Material and methods
+Provide sufficient detail to allow the work to be reproduced. Methods already published should be indicated by a reference: only relevant modifications should be described.
+Theory/calculation
+A Theory section should extend, not repeat, the background to the article already dealt with in the Introduction and lay the foundation for further work. In contrast, a Calculation section represents a practical development from a theoretical basis.
+Results
+Results should be clear and concise.
+Discussion
+This should explore the significance of the results of the work, not repeat them. A combined Results and Discussion section is often appropriate. Avoid extensive citations and discussion of published literature.
+Conclusions
+The main conclusions of the study may be presented in a short Conclusions section, which may stand alone or form a subsection of a Discussion or Results and Discussion section.
+Appendices
+If there is more than one appendix, they should be identified as A, B, etc. Formulae and equations in appendices should be given separate numbering: Eq. (A.1), Eq. (A.2), etc.; in a subsequent appendix, Eq. (B.1) and so on. Similarly for tables and figures: Table A.1; Fig. A.1, etc.
+Essential Title Page Information
+o Title. Concise and informative. Titles are often used in information-retrieval systems. Avoid abbreviations and formulae where possible.
+o Author names and affiliations. Where the family name may be ambiguous (e.g., a double name), please indicate this clearly. Present the authors' affiliation addresses (where the actual work was done) below the names. Indicate all affiliations with a lower-case superscript letter immediately after the author's name and in front of the appropriate address. Provide the full postal address of each affiliation, including the country name, and, if available, the e-mail address of each author.
+o Corresponding author. Clearly indicate who will handle correspondence at all stages of refereeing and publication, also post-publication. Ensure that telephone and fax numbers (with country and area code) are provided in addition to the e-mail address and the complete postal address. Contact details must be kept up to date by the corresponding author.
+o Present/permanent address. If an author has moved since the work described in the article was done, or was visiting at the time, a "Present address" (or "Permanent address") may be indicated as a footnote to that author's name. The address at which the author actually did the work must be retained as the main, affiliation address. Superscript Arabic numerals are used for such footnotes.
+Abstract
+A concise and factual abstract is required. The abstract should state briefly the purpose of the research, the principal results and major conclusions. An abstract is often presented separately from the article, so it must be able to stand alone. For this reason, References should be avoided, but if essential, then cite the author(s) and year(s). Also, non-standard or uncommon abbreviations should be avoided, but if essential they must be defined at their first mention in the abstract itself.
+Keywords
+Authors are invited to submit keywords associated with their paper.
+Abbreviations
+Define abbreviations that are not standard in this field in a footnote to be placed on the first page of the article. Such abbreviations that are unavoidable in the abstract must be defined at their first mention there, as well as in the footnote. Ensure consistency of abbreviations throughout the article.
+Acknowlegments
+Collate acknowledgements in a separate section at the end of the article before the references and do not, therefore, include them on the title page, as a footnote to the title or otherwise. List here those individuals who provided help during the research (e.g., providing language help, writing assistance or proof reading the article, etc.).
+Nomenclature_and_units
+Follow internationally accepted rules and conventions: use the international system of units (SI). If other quantities are mentioned, give their equivalent in SI. Authors wishing to present a table of nomenclature should do so on the second page of their manuscript.
+Math Formulae
+Present simple formulae in the line of normal text where possible and use the solidus (/) instead of a horizontal line for small fractional terms, e.g., X/Y. In principle, variables are to be presented in italics. Powers of e are often more conveniently denoted by exp. Number consecutively any equations that have to be displayed separately from the text (if referred to explicitly in the text).
+Footnotes
+Footnotes should be used sparingly. Number them consecutively throughout the article, using superscript Arabic numbers. Many wordprocessors build footnotes into the text, and this feature may be used. Should this not be the case, indicate the position of footnotes in the text and present the footnotes themselves separately at the end of the article. Do not include footnotes in the Reference list.
+Table footnotes
+Indicate each footnote in a table with a superscript lowercase letter.
+Artwork
+Electronic artwork General points o Make sure you use uniform lettering and sizing of your original artwork.
+o Save text in illustrations as "graphics" or enclose the font. o Only use the following fonts in your illustrations: Arial, Courier, Times, Symbol.
+o Number the illustrations according to their sequence in the text. o Use a logical naming convention for your artwork files.
+o Provide captions to illustrations separately.
+o Produce images near to the desired size of the printed version. o Submit each figure as a separate file.
+A detailed guide on electronic artwork is available on our website: https://www.elsevier.com/artworkinstructions You are urged to visit this site; some excerpts from the detailed information are given here.
+Formats
+Regardless of the application used, when your electronic artwork is finalised, please "save as" or convert the images to one of the following formats (note the resolution requirements for line drawings, halftones, and line/halftone combinations given below): EPS: Vector drawings. Embed the font or save the text as "graphics".
+TIFF: color or grayscale photographs (halftones): always use a minimum of 300 dpi.
+TIFF: Bitmapped line drawings: use a minimum of 1000 dpi. TIFF: Combinations bitmapped line/half-tone (color or grayscale): a minimum of 500 dpi is required.
+If your electronic artwork is created in a Microsoft Office application (Word, PowerPoint, Excel) then please supply "as is".
+Please do not:
+o Supply files that are optimised for screen use (like GIF, BMP, PICT, WPG); the resolution is too low;
+o Supply files that are too low in resolution;
+o Submit graphics that are disproportionately large for the content.
+Color artwork Please make sure that artwork files are in an acceptable format (TIFF, EPS or MS Office files) and with the correct resolution. If, together with your accepted article, you submit usable color figures then Elsevier will ensure, at no additional charge, that these figures will appear in color on the Web (e.g., ScienceDirect and other sites) regardless of whether or not these illustrations are reproduced in color in the printed version.
+Figure captionsEnsure that each illustration has a caption. Supply captions separately, not attached to the figure. A caption should comprise a brief title (not on the figure itself) and a description of the illustration. Keep text in the illustrations themselves to a minimum but explain all symbols and abbreviations used.
+Tables
+Number tables consecutively in accordance with their appearance in the text. Place footnotes to tables below the table body and indicate them with superscript lowercase letters. Avoid vertical rules. Be sparing in the use of tables and ensure that the data presented in tables do not duplicate results described elsewhere in the article.
+References
+Citation in text
+Please ensure that every reference cited in the text is also present in the reference list (and vice versa). Any references cited in the abstract must be given in full. Unpublished results and personal communications are not recommended in the reference list, but may be mentioned in the text. If these references are included in the reference list they should follow the standard reference style of the journal and should include a substitution of the publication date with either "Unpublished results" or "Personal communication" Citation of a reference as "in press" implies that the item has been accepted for publication.
+Web references
+As a minimum, the full URL should be given and the date when the reference was last accessed. Any further information, if known (DOI, author names, dates, reference to a source publication, etc.), should also be given. Web references can be listed separately (e.g., after the reference list) under a different heading if desired, or can be included in the reference list.
+References in a special issue
+Please ensure that the words 'this issue' are added to any references in the list (and any citations in the text) to other articles in the same Special Issue.
+Reference management software
+This journal has standard templates available in key reference management packages EndNote ( http://www.endnote.com/support/enstyles.asp) and Reference Manager ( http://refman.com/support/rmstyles.asp). Using plug-ins to wordprocessing packages, authors only need to select the appropriate journal template when preparing their article and the list of references and citations to these will be formatted according to the journal style which is described below.
+Reference style
+Text: All citations in the text should refer to:
+1. Single author: the author's name (without initials, unless there is ambiguity) and the year of publication;
+2. Two authors: both authors' names and the year of publication;
+3. Three or more authors: first author's name followed by "et al." and the year of publication.
+Citations may be made directly (or parenthetically). Groups of references should be listed first alphabetically, then chronologically.
+Examples: "as demonstrated (Allan, 1996a, 1996b, 1999; Allan and Jones, 1995). Kramer et al. (2000) have recently shown ...."
+List: References should be arranged first alphabetically and then further sorted chronologically if necessary. More than one reference from the same author(s) in the same year must be identified by the letters "a", "b", "c", etc., placed after the year of publication.
+Examples:
+Reference to a journal publication:
+Van der Geer, J., Hanraads, J.A.J., Lupton, R.A., 2000. The art of writing a scientific article. J. Sci. Commun. 163, 51-59.
+Reference to a book:
+Strunk Jr., W., White, E.B., 1979. The Elements of Style, third ed. Macmillan, New York.
+Reference to a chapter in an edited book:
+Mettam, G.R., Adams, L.B., 1999. How to prepare an electronic version of your article, in: Jones, B.S., Smith , R.Z. (Eds.), Introduction to the Electronic Age. E-Publishing Inc., New York, pp. 281-304.
+Journal abbreviations source
+Journal names should be abbreviated according to
+Index Medicus journal abbreviations: http://www.nlm.nih.gov/tsd/serials/lji.html; List of title word abbreviations: https://portal.issn.org/ltwa?order=asc&sort=word&page=2; CAS (Chemical Abstracts Service): http://www.cas.org/sent.html.
+Preprint references
+Where a preprint has subsequently become available as a peer-reviewed publication, the formal publication should be used as the reference. If there are preprints that are central to your work or that cover crucial developments in the topic, but are not yet formally published, these may be referenced. Preprints should be clearly marked as such, for example by including the word preprint, or the name of the preprint server, as part of the reference. The preprint DOI should also be provided.
+Submission Checklist
+The following list will be useful during the final checking of an article prior to sending it to the journal for review. Please consult this Guide for Authors for further details of any item.
+Ensure that the following items are present:
+One Author designated as corresponding Author:
+o E-mail address
+o Full postal address
+o Telephone and fax numbers
+All necessary files have been uploaded
+o Keywords
+o All figure captions
+o All tables (including title, description, footnotes)
+Further considerations
+o Manuscript has been "spellchecked" and "grammar-checked"
+o References are in the correct format for this journal
+o All references mentioned in the Reference list are cited in the text, and vice versa
+o Permission has been obtained for use of copyrighted material from other sources (including the Web)
+o Color figures are clearly marked as being intended for color reproduction on the Web (free of charge) and in print or to be reproduced in color on the Web (free of charge) and in black-and-white in print
+o If only color on the Web is required, black and white versions of the figures are also supplied for printing purposes
+For any further information please visit our customer support site at https://service.elsevier.com/app/home/supporthub/publishing/.
+After acceptance
+After Acceptance
+Use of the Digital Object Identifier
+The Digital Object Identifier (DOI) may be used to cite and link to electronic documents. The DOI consists of a unique alpha-numeric character string which is assigned to a document by the publisher upon the initial electronic publication. The assigned DOI never changes. Therefore, it is an ideal medium for citing a document, particularly 'Articles in press' because they have not yet received their full bibliographic information. The correct format for citing a DOI is shown as follows (example taken from a document in the journal Physics Letters B): doi:10.1016/j.physletb.2010.09.059
+When you use the DOI to create URL hyperlinks to documents on the web, they are guaranteed never to change.
+Proofs
+One set of page proofs (as PDF files) will be sent by e-mail to the corresponding author (if we do not have an e-mail address then paper proofs will be sent by post) or, a link will be provided in the e-mail so that authors can download the files themselves. Elsevier now provides authors with PDF proofs which can be annotated; for this you will need to download Adobe Reader version 7 (or higher) available free from http://get.adobe.com/reader. Instructions on how to annotate PDF files will accompany the proofs (also given online). The exact system requirements are given at the Adobe site: http://www.adobe.com/products/reader/systemreqs. If you do not wish to use the PDF annotations function, you may list the corrections (including replies to the Query Form) and return them to Elsevier in an e-mail. Please list your corrections quoting line number. If, for any reason, this is not possible, then mark the corrections and any other comments (including replies to the Query Form) on a printout of your proof and return by fax, or scan the pages and e-mail, or by post. Please use this proof only for checking the typesetting, editing, completeness and correctness of the text, tables and figures. Significant changes to the article as accepted for publication will only be considered at this stage with permission from the Editor. We will do everything possible to get your article published quickly and accurately - please let us have all your corrections within 48 hours. It is important to ensure that all corrections are sent back to us in one communication: please check carefully before replying, as inclusion of any subsequent corrections cannot be guaranteed. Proofreading is solely your responsibility. Note that Elsevier may proceed with the publication of your article if no response is received.
+Author inquiries
+Author Inquiries
+For inquiries relating to the submission of articles (including electronic submission) please visit this journal's homepage. Contact details for questions arising after acceptance of an article, especially those relating to proofs, will be provided by the publisher. You can track accepted articles at https://www.elsevier.com/trackarticle. You can also check our Author FAQs (https://www.elsevier.com/authorFAQ) and/or contact Customer Support via http://service.elsevier.com/app/home/supporthub/publishing/
+Stay Informed
+Register your interest and receive email alerts tailored to your needs. Sign up below.
+First name *
+Surname *
+Email address *
+Subject area *
+KeAi may contact you to share the latest updates about products, services, promotions, and events. If you do not wish to receive such messages, please check this box.

@@ -1,0 +1,104 @@
+期刊: Global Energy Interconnection
+来源: https://www.keaipublishing.com/en/journals/global-energy-interconnection/guide-for-authors/
+标题: Guide for Authors
+
+Guide for Authors
+Introduction
+Types of paper
+Before you begin
+Ethics in publishing
+Conflict of interest
+Submission declaration
+Author contributions
+Changes to authorship
+Copyright
+Role of the funding source
+Open access
+Language and language services
+Submission
+Additional information
+Preparation
+Editorial Policies
+Peer review
+Use of word processing software
+LaTeX
+Article structure and template
+Preprint references
+After acceptance
+Use of the Digital Object Identifier
+Proofs
+Author inquiries
+Author Inquiries
+Introduction
+Types of paper
+Contributions falling into the following categories will be considered for publication: Original research papers, Reviews, Letters.
+Please ensure that you select the appropriate article type from the list of options when making your submission. Authors contributing to special issues should ensure that they select the special issue article type from this list.
+Before you begin
+Ethics in publishing
+For information on Ethics in Publishing and Ethical guidelines for journal publication see Ethics in publishing and Ethical guidelines for journal publication.
+Submissions to KeAi journals are automatically screened using iThenticate's CrossCheck within the editorial system to detect instances of overlapping and similar text in submitted manuscripts. Details can be found here.
+Conflict of interest
+All authors are requested to disclose any actual or potential conflict of interest including any financial, personal or other relationships with other people or organizations within three years of beginning the submitted work that could inappropriately influence, or be perceived to influence, their work. See also More information.
+Submission declaration
+Submission of an article implies that the work described has not been published previously (except in the form of an abstract or as part of a published lecture or academic thesis), that it is not under consideration for publication elsewhere, that its publication is approved by all authors and tacitly or explicitly by the responsible authorities where the work was carried out, and that, if accepted, it will not be published elsewhere including electronically in the same form, in English or in any other language, without the written consent of the copyright-holder.
+Author contributions
+For transparency, we require corresponding authors to provide co-author contributions to the manuscript using the relevant CRediT roles. The CRediT taxonomy includes 14 different roles describing each contributor's specific contribution to the scholarly output. The roles are: Conceptualization; Data curation; Formal analysis; Funding acquisition; Investigation; Methodology; Project administration; Resources; Software; Supervision; Validation; Visualization; Roles/Writing - original draft; and Writing - review & editing. Note that not all roles may apply to every manuscript, and authors may have contributed through multiple roles. More details and an example.
+Changes to authorship
+This policy concerns the addition, deletion, or rearrangement of author names in the authorship of accepted manuscripts:
+Before the accepted manuscript is published in an online issue: Requests to add or remove an author, or to rearrange the author names, must be sent to the Journal Manager from the corresponding author of the accepted manuscript and must include: (a) the reason the name should be added or removed, or the author names rearranged and (b) written confirmation (e-mail, fax, letter) from all authors that they agree with the addition, removal or rearrangement. In the case of addition or removal of authors, this includes confirmation from the author being added or removed. Requests that are not sent by the corresponding author will be forwarded by the Journal Manager to the corresponding author, who must follow the procedure as described above. Note that: (1) Journal Managers will inform the Journal Editors of any such requests and (2) publication of the accepted manuscript in an online issue is suspended until authorship has been agreed.
+After the accepted manuscript is published in an online issue: Any requests to add, delete, or rearrange author names in an article published in an online issue will follow the same policies as noted above and result in a corrigendum.
+Copyright
+Upon acceptance of an article, authors will be asked to complete a 'Journal Publishing Agreement'. Acceptance of the agreement will ensure the widest possible dissemination of information. An e-mail will be sent to the corresponding author confirming receipt of the manuscript together with a 'Journal Publishing Agreement' form or a link to the online version of this agreement.
+Permission of the society is required for resale or distribution outside the institution and for all other derivative works, including compilations and translations (please consult journal-gei@geidco.org).If excerpts from other copyrighted works are included, the author(s) must obtain written permission from the copyright owners and credit the source(s) in the article.
+Author rights
+As an author you (or your employer or institution) have certain rights to reuse your work. For more information on author rights please see https://www.elsevier.com/copyright.
+Role of the funding source
+You are requested to identify who provided financial support for the conduct of the research and/or preparation of the article and to briefly describe the role of the sponsor(s), if any, in study design; in the collection, analysis and interpretation of data; in the writing of the report; and in the decision to submit the paper for publication. If the funding source(s) had no such involvement then this should be stated. Please see https://www.elsevier.com/funding.
+Open access
+Every peer-reviewed research article appearing in this journal will be published open access. This means that the article is universally and freely accessible via the internet in perpetuity, in an easily readable format immediately after publication. The author does not have any publication charges for open access. Global Energy Interconnection Development and Cooperation Organization will pay to make the article open access permanently.
+A CC user license manages the reuse of the article (see https://www.elsevier.com/openaccesslicenses). All articles will be published under the following license:
+Language and language services
+Please write your text in good English (American or British usage is accepted, but not a mixture of these). Authors who require information about language editing and copyediting services pre- and post-submission please visit https://webshop.elsevier.com/language-editing/ or our customer support site at https://service.elsevier.com for more information.
+Submission
+Submission to this journal proceeds totally online. Use the following guidelines to prepare your article via the homepage of this journal (https://www.keaipublishing.com/en/journals/global-energy-interconnection/) you will be guided stepwise through the creation and uploading of the various files. The system automatically converts source files to a single Adobe Acrobat PDF version of the article, which is used in the peer-review process. Please note that even though manuscript source files are converted to PDF at submission for the review process, these source files are needed for further processing after acceptance. All correspondence, including notification of the Editor's decision and requests for revision, takes place by e-mail and via the author's homepage, removing the need for a hard-copy paper trail. If you are unable to provide an electronic version, please contact the editorial office prior to submission [E-mail: journal-gei@geidco.org; Telephone: 86-10-66598506].
+ORCiD ID: Our journal supports the use of ORCiD IDID. Authors are encouraged to provide ORCiD ID at submission.
+Additional information
+Tables and figures may be presented with captions within the main body of the manuscript; if so, figures should additionally be uploaded as high resolution files.
+Preparation
+Editorial Policies
+For information on Editorial Policies for journal publication refer to https://www.keaipublishing.com/en/editors/editorial-policies/.
+Peer review
+This journal operates a double blind review process. All contributions are sent to a minimum of two independent expert reviewers to assess the scientific quality of the paper. The Editor is responsible for the final decision regarding acceptance or rejection of articles. The Editor's decision is final. For more information on the types of peer review, please visit: https://www.elsevier.com/reviewers/peer-review.
+1.All manuscripts would be firstly checked by Editor-in-Chief. Any papers fail to meet the basic standard of the journal would be desk rejected for reasons like out of scope, ethic issues, high similarities, etc. Then, Editor-in-Chief would reassign selected papers to an Managing Editor.
+2.The Managing Editor would invite multiple reviewers to review this paper.
+3.After at least 2 reviewers give their reviews and comments, the Managing Editor would provide feedbacks based on review comments to the authors.
+4.When author submits the revised manuscript, the Managing Editor will check and recommend a decision. Then, the Editor-in-Chief would make final decision.
+5. For submissions from Editor-in-Chief, Associate Editors, Guest Editor(s), and other journal Board members, and authors who have conflicts of interest with them, we ensure that the paper is handled confidentially by a different team member.
+6.For submissions to Special Issues, if there are conflicts of interest between the GE(s) and authors, the submissions will be handled by another Editor from Editorial Board who will manage the peer review process and make the decision whether to accept or reject the paper after peer review.
+Use of word processing software
+It is important that the file be saved in the native format of the word processor used. The text should be in single-column format. Keep the layout of the text as simple as possible. Most formatting codes will be removed and replaced on processing the article. In particular, do not use the word processor's options to justify text or to hyphenate words. However, do use bold face, italics, subscripts, superscripts etc. When preparing tables, if you are using a table grid, use only one grid for each individual table and not a grid for each row. If no grid is used, use tabs, not spaces, to align columns. The electronic text should be prepared in a way very similar to that of conventional manuscripts (see also the Guide to Publishing with Elsevier. Note that source files of figures, tables and text graphics will be required whether or not you embed your figures in the text. See also the section on Electronic artwork.
+To avoid unnecessary errors you are strongly advised to use the 'spell-check' and 'grammar-check' functions of your word processor.
+LaTeX
+LaTex files are not acceptable at this moment
+Article structure and template
+Please refer the following template to write manuscripts: Template for preparation of papers
+Preprint references
+Where a preprint has subsequently become available as a peer-reviewed publication, the formal publication should be used as the reference. If there are preprints that are central to your work or that cover crucial developments in the topic, but are not yet formally published, these may be referenced. Preprints should be clearly marked as such, for example by including the word preprint, or the name of the preprint server, as part of the reference. The preprint DOI should also be provided.
+After acceptance
+Use of the Digital Object Identifier
+The Digital Object Identifier (DOI) may be used to cite and link to electronic documents. The DOI consists of a unique alpha-numeric character string which is assigned to a document by the publisher upon the initial electronic publication. The assigned DOI never changes. Therefore, it is an ideal medium for citing a document, particularly 'Articles in press' because they have not yet received their full bibliographic information. The correct format for citing a DOI is shown as follows (example taken from a document in the journal Physics Letters B): doi:10.1016/j.physletb.2010.09.059
+When you use the DOI to create URL hyperlinks to documents on the web, they are guaranteed never to change.
+Proofs
+One set of page proofs (as PDF files) will be sent by e-mail to the corresponding author (if we do not have an e-mail address then paper proofs will be sent by post) or, a link will be provided in the e-mail so that authors can download the files themselves. Elsevier now provides authors with PDF proofs which can be annotated; for this you will need to download Adobe Reader version 7 (or higher) available free from http://get.adobe.com/reader. Instructions on how to annotate PDF files will accompany the proofs (also given online). The exact system requirements are given at the Adobe site: http://www.adobe.com/products/reader/systemreqs.
+If you do not wish to use the PDF annotations function, you may list the corrections (including replies to the Query Form) and return them to Elsevier in an e-mail. Please list your corrections quoting line number. If, for any reason, this is not possible, then mark the corrections and any other comments (including replies to the Query Form) on a printout of your proof and return by fax, or scan the pages and e-mail, or by post. Please use this proof only for checking the typesetting, editing, completeness and correctness of the text, tables and figures. Significant changes to the article as accepted for publication will only be considered at this stage with permission from the Editor. We will do everything possible to get your article published quickly and accurately - please let us have all your corrections within 48 hours. It is important to ensure that all corrections are sent back to us in one communication: please check carefully before replying, as inclusion of any subsequent corrections cannot be guaranteed. Proofreading is solely your responsibility. Note that Elsevier may proceed with the publication of your article if no response is received.
+Author inquiries
+Author Inquiries
+Visit the Elsevier Support Center to find the answers you need. Here you will find everything from Frequently Asked Questions to ways to get in touch.
+You can also check the status of your submitted article or find out when your accepted article will be published.
+Stay Informed
+Register your interest and receive email alerts tailored to your needs. Sign up below.
+First name *
+Surname *
+Email address *
+Subject area *
+KeAi may contact you to share the latest updates about products, services, promotions, and events. If you do not wish to receive such messages, please check this box.

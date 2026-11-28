@@ -1,0 +1,323 @@
+期刊: Cardiology Discovery
+来源: https://cs.medjournals.cn/en/cd/authors
+标题: Instructions for Authors
+
+Cardiol Discov
+Information for Authors
+The Editorial Office is pleased to answer any questions you may have about preparing your manuscript in accordance with our guidelines.
+Email: CD@cmaph.org
+AIMS AND SCOPE
+Cardiology Discovery (CD) is the official journal of the Chinese Society of Cardiology (CSC) of Chinese Medical Association (CMA). It is an English language, peer-reviewed journal aims to publish high-quality materials on all aspects of cardiovascular medicine and surgery, including original clinical, epidemiological, basic and translational research, health services and outcomes studies, state-of-the-art reviews, technical evaluations, editorial, perspective, consensus and guideline papers. CD has a international outlook, that is to create a platform of international collaboration and exchange of cutting-edge information on cardiovascular research and education.
+Articles are published quarterly. The journal is available both in print and online.
+ONLINE SUBMISSION
+All manuscripts must be submitted online at: https://www.editorialmanager.com/Cardiodiscovery. Once the manuscript has been created, visit the submission site to upload the manuscript. Once the manuscript has been vetted for compliance to the Journal's requirements, a manuscript number will be assigned to the submission. Failure to adhere to these guidelines will result in your manuscript being returned to you for correction. Faxed, scanned or emailed copies of manuscripts will not be accepted.
+First-time Users
+Please click the Register button at https://www.editorialmanager.com/Cardiodiscovery. Upon successful registration, you will be sent an email providing your username and password. Save this information for future reference. Note: If you have received an email from us with an assigned username and password, or if you are a repeat user, do not register again. Once you have an assigned username and password, you do not have to re-register.
+Authors
+Please click the Login button from the menu at the top of the page and login to the system as an author. Submit your manuscript according to the author instructions. You will be able to track the process of your manuscript through the system.
+JOURNAL POLICIES
+Duplicate Publication
+Manuscripts are reviewed for possible publication with the understanding that they are being submitted only to the Cardiology Discovery and have not been published, simultaneously submitted, or already accepted for publication elsewhere. The Editorial team may subject any manuscript submitted for consideration of publication in Cardiology Discovery to plagiarism-detection software.
+This does not preclude consideration of a manuscript that has been rejected by another journal or a complete report that follows publication of preliminary findings elsewhere, usually in the form of an abstract. Copies of any possibly duplicate published material should be submitted with the manuscript under consideration, with a statement in the cover letter as to why the manuscript currently being submitted is not a duplicate publication.
+Disclosure of Conflicts
+Authors must state all possible conflicts of interest in the manuscript, including financial, consultant, institutional and other relationships that might lead to bias or a conflict of interest. If there is no conflict of interest, this should also be explicitly stated as none declared. All sources of funding should be acknowledged in the manuscript. All relevant conflicts of interest and sources of funding should be included on the title page of the manuscript with the heading "Conflicts of Interest and Source of Funding:". For example: "Conflicts of Interest and Source of Funding: A has received honoraria from Company Z. B is currently receiving a grant (#12345) from Organization Y, and is on the speaker's bureau for Organization X - the CME organizers for Company A. For the remaining authors none were declared."
+Data Availability Statement
+Cardiology Discovery requires authors to include in any articles that report results derived from research data to include a Data Availability Statement from October 27, 2022. This policy applies to Original Article and Meta Analysis. The provision of a Data Availability Statement will be verified as a condition of publication. Data Availability Statements should include information on where data supporting the results reported in the article can be found including, where applicable, hyperlinks to publicly archived datasets analyzed or generated during the study. Where research data are not publicly available, this must be stated in the manuscript along with any conditions for accessing the data. Data Availability Statements must take one of the following forms (or a combination of more than one if required for multiple types of research data):
+The datasets generated during and/or analyzed during the current study are available in the [NAME] repository, [PERSISTENT WEB LINK TO DATASETS]
+The datasets generated during and/or analyzed during the current study are not publicly available due [REASON WHY DATA ARE NOT PUBLIC] but are available from the corresponding author on reasonable request.
+The datasets generated during and/or analyzed during the current study are available from the corresponding author on reasonable request.
+Data sharing not applicable to this article as no datasets were generated or analyzed during the current study.
+All data generated or analyzed during this study are included in this published article [and its supplementary information files].
+The data that support the findings of this study are available from [third party name] but restrictions apply to the availability of these data, which were used under license for the current study, and so are not publicly available. Data are however available from the authors upon reasonable request and with permission of [third party name].
+Authorship
+Cardiology Discovery expects that each person listed as an author has participated sufficiently in the intellectual content, the analysis of data, and/or the writing of the manuscript to take public responsibility for it. Each author must have reviewed the manuscript, believes it represents valid work, and approves it for submission.
+Moreover, should the Editorial team request the data upon which the manuscript is based, the authors shall produce it. Each author's specific contributions to the work should be indicated; this information will be published as a footnote to the paper. For example, the areas of participation might include:
+Participated in research design
+Participated in the writing of the paper
+Participated in the performance of the research
+Contributed new reagents or analytic tools
+Participated in data analysis
+An author may list more than one contribution, and more than one author may have contributed to the same aspect of the work. Any change in authorship/contributions after submission must be approved in writing by all authors and submitted to the Editorial Office for final consideration.
+Authors who use AI tools in the writing of a manuscript, production of images or graphical elements of the paper, or in the collection and analysis of data, must be transparent in disclosing in the Materials and Methods (or similar section) of the paper how the AI tool was used and which tool was used. Authors are fully responsible for the content of their manuscript, even those parts produced by an AI tool, and are thus liable for any breach of publication ethics.
+English Language Assistance
+Appropriate use of the English language is a requirement for publication in Journal name. Authors who have difficulty in writing in English who submit manuscripts to international journals often receive negative comments from referees or editors about the English-language usage in their manuscripts, and these challenges can contribute to a decision to reject a paper. To help reduce the possibility of such problems, we strongly encourage such authors consider using Wolters Kluwer Author Services**.
+Wolters Kluwer Author Services
+Wolters Kluwer, in partnership with Editage, offers a unique range of editorial services to help you prepare a submission-ready manuscript. For more information regarding Wolters Kluwer Author Services, please visit http://wkauthorservices.editage.com.
+**Note that the use of such a service is at the author's own expense and risk, and does not guarantee that the article will be accepted.
+Reporting of Randomized Clinical Trials
+Registration of Clinical Trials is an essential requirement for publication of clinical trials in Cardiology Discovery. On the title page of your manuscript, provide the name of the trial registry and the registration number/identifier of the trial.
+Acceptable web-based clinical trial registries include the following:
+EudraCT at https://eudract.ema.europa.eu for EU trials
+ClinicalTrials.gov at www.clinicaltrials.gov for US trials
+Chinese Clinical Trial Registry, found at http://www.chictr.org.cn
+Current Controlled Trials found at www.controlled-trials.com
+WHO International Trial Registry Network found at https://www.who.int/clinical-trials-registry-platform/network
+Australian & New Zealand Clinical Trials Registry, found at http://www.anzctr.org.au/
+And any publicly available primary registry of clinical trials
+Reports of randomized clinical trials should follow the recommendations given in the Consolidated Standards of Reported Trials (CONSORT) statement. In brief, this statement comprises a checklist and flow diagram to help improve the quality of reports of randomized controlled trials and offers a standard way for researchers to report trials.
+Reporting Guidelines
+Scholarly articles should be prepared according to the EQUATOR research reporting guidelines, as some commonly used guidelines listed below, and each submission should include a checklist (a reformatted version has been created for the journal) as supplementary material during new submission or submission of a revised manuscript. The relevant page/line and section/paragraph number in the manuscript should be stated for each item in the checklist. A statement should be included at the end of the “Introduction” to indicate which reporting checklist was followed (e.g., “We present this article in accordance with the CONSORT reporting checklist.”). Failure to do so will result in the manuscript being returned to the authors for amendment. Please note that the application of a checklist is aimed at transparent and clear reporting to allow a better critical appraisal of the manuscript. The final format of the manuscript should follow the author instruction requirements. Also, as the development of a reporting checklist is dynamic, authors should always refer to the equator network for any updated version of a reporting checklist and other reporting checklists not mentioned below. The editorial office will also refer to the latest reporting checklists (including those not mentioned in the author instruction) in the manuscript handling process.
+Study Type
+Guideline
+Download Checklist (or download from manuscript submission portal homepage)
+Animal Research
+ARRIVE
+ARRIVE Guidelines
+Bibliometric Review
+BIBLIO
+BIBLIO Checklist
+Health Economic Evaluation
+CHEERS
+CHEERS Checklist
+Randomized Controlled Trials
+CONSORT
+CONSORT Checklist
+CONSORT Flow Diagram
+Systematic Reviews & Meta-Analysis
+PRISMA
+PRISMA Checklist
+PRISMA Abstract Checklist
+PRISMA Flow Diagram new systematic reviews: searches of databases and registers only
+PRISMA Flow Diagram new systematic reviews: searches of databases, registers, and other sources
+PRISMA Flow Diagram updated systematic reviews: searches of databases and registers only
+PRISMA Flow Diagram updated systematic reviews: searches of databases, registers, and other sources
+Protocol for Systematic Review
+PRISMA-P
+PRISMA-P Checklist
+Narrative Review
+SANRA
+SANRA Checklist
+Clinical Trial Protocol
+SPIRIT
+SPIRIT Checklist
+Diagnostic Accuracy Study
+STARD
+STARD Checklist
+STARD Flow Diagram
+Observational Study
+STROBE
+STROBE Checklist
+Observational Studies Using Routinely Collected Health Data
+RECORD
+RECORD Checklist
+Molecular Epidemiological Study
+STROBE-MR
+STROBE-MR Checklist
+Qualitative Research
+Qualitative research provides in-depth insights about people's values, attitudes, beliefs, and experiences. Qualitative methodology informs approaches to data collection and analysis, and includes grounded theory, ethnography, and phenomenology. Open-ended interviews and focus groups are commonly used to collect data. Authors are advised to follow the COREQ guidelines for reporting primary qualitative research. Please visit: http://intqhc.oxfordjournals.org/content/19/6/349.full.pdf
+Systematic review and/or synthesis of primary qualitative studies can provide a broader understanding of people's perspectives across different healthcare contexts. Methodologies for synthesis of qualitative research include thematic synthesis, meta-ethnography and critical interpretive synthesis. Authors can refer to the ENTREQ statement at http://www.biomedcentral.com/content/pdf/1471-2288-12-181.pdf
+Financial Support and Competing Interests
+A financial disclosure section is part of the submission process and must be completed by each author at first revision. This information is for review by the Editors but will be published if relevant to the content of the accepted manuscript.
+The primary purpose of the disclosure section is to determine whether authors have received any commercial financial support that could create a conflict of interest. In addition to monetary interests, a potential for conflict of interest can exist whether or not an individual believes that a relationship (such as dual commitments, competing interests, or competing loyalties) affects his or her scientific judgment. Please review ICMJE Uniform Requirements for Manuscripts Submitted to Biomedical Journals at the following link: http://www.icmje.org/conflicts-of-interest.
+Ethics
+When reporting studies on human beings, author should indicate whether the procedures followed were in accordance with the ethical standards of the responsible committee on human experimentation (institutional or regional) and with the Helsinki Declaration. For prospective studies involving human participants, authors are expected to mention about approval of regional/national/institutional or independent ethics committee or review board, obtaining informed consent from adult research participants and obtaining assent for children aged over 7 years participating in the trial. The age beyond which assent would be required could vary as per regional and/or national guidelines. Ensure confidentiality of subjects by desisting from mentioning participants' names, initials or hospital numbers, especially in illustrative material. When reporting experiments on animals, indicate whether the institution's or a national research council's guide for, or any national law on the care and use of laboratory animals was followed.
+Evidence for approval by a local ethics committee (for both human as well as animal studies) must be supplied by the authors on demand. Animal experimental procedures should be as humane as possible and the details of anesthetics and analgesics used should be clearly stated. The ethical standards of experiments must be in accordance with the guidelines provided by the CPCSEA and World Medical Association Declaration of Helsinki on Ethical Principles for Medical Research Involving Humans for studies involving experimental animals and human beings, respectively. The journal will not consider any paper which is ethically unacceptable. A statement on ethics committee permission and ethical practices must be included in all research articles under the “Methods" section.
+Protection of Patients' Rights to Privacy
+Identifying information should not be published in written descriptions, photographs, sonograms, CT scans, etc., and pedigrees unless the information is essential for scientific purposes and the patient (or parent or guardian, wherever applicable) gives written informed consent for publication. Authors should remove patients' names from figures unless they have obtained written informed consent from the patients. The journal abides by ICMJE guidelines: (1) Authors, not the journals nor the publisher, need to have the patient consent form before the publication related to patient privacy and have the form properly archived by the author. (2) If the publication includes some facial images that make the patients identifiable, a statement about the patient's consent needs to be present in the manuscript.
+Peer Review
+Cardiology Discovery operates a single-blind external peer review process, wherein the names of the reviewers are hidden from the author. Brief introduction on peer review process of the journal:
+On submission, editors review all submitted manuscripts initially for suitability for formal review. Manuscripts with insufficient originality, serious scientific or technical flaws, or lack of a significant message are rejected before proceeding for formal peer-review. Manuscripts that are unlikely to be of interest to the readers of the journal are also liable to be rejected at this stage.
+Manuscripts that are found suitable for potential publication of the journal are sent to a minimum of two independent expert reviewers to assess the scientific quality of the manuscript. Authors submitting manuscripts to Cardiology Discovery may propose suitable reviewers or oppose reviewers who may have competing interests. The proposed reviewers should not be affiliated with the same institutes as the contributor(s). However, the selection of these reviewers is at the sole discretion of the editor, who selects reviewers to reflect relevant expertise, diversity, and geographical backgrounds.
+Peer reviewers have access to the submitted manuscript and any appendices included by the authors. If the paper is a randomized controlled trial, peer reviewers will also have access to the trial protocol. Peer review assists editors in their decision on whether to publish an article and helps authors revise and improve their manuscripts. Peer reviewers make suggestions for improvements, critique the analysis, point out relevant published work which is not yet cited, and provide recommendations to the authors and the editors. At Cardiology Discovery, reviewer comments are sent to the authors anonymously. Details of peer review including dates and peer review comments are not shared publicly. Reviewed articles are treated confidentially prior to their publication.
+Based on the comments from the reviewers, the handling editor takes an acceptance decision on the manuscript and convey the comments and suggestions (acceptance/ rejection/ amendments in manuscript) to the corresponding author, who is requested to provide a point by point response to reviewers' comments and submit a revised version of the manuscript. This process is repeated until reviewers and editors are satisfied with the manuscript. Manuscripts are accepted on the basis of quality, originality, significance, novelty and importance for the field.
+The authors do have the right to appeal if they have a genuine cause to believe that the editorial board has wrongly rejected the paper. If the authors wish to appeal the decision, they should email the editorial office (email: CD@cmaph.org) explaining in detail the reason for the appeal. The appeals will be acknowledged by the editorial office and will be investigated in an unbiased manner. The processing of appeals will be done within 6–8 weeks. While under appeal, the said manuscript should not be submitted to other journals. The final decision rests with the Editor-in-Chief of the journal. Second appeals are not considered.
+Manuscripts received from Editorial Board Members will be screened by the Editor-in-Chief and sent to external peer reviewers. In case, Editor-in-Chief is the author, then the article will be screened by Assistant Editor/Co-Editor-in-Chief and sent to external peer reviewers. The Editorial Board Members who are authors will be excluded from publication decisions.
+Editors are not involved in decisions about papers which they have written themselves or have been written by family members or colleagues or whoever relate to products or services in which the editor has an interest. Any such submission is subject to the journal's standard procedures, with peer review handled independently of the relevant editor and their research groups.
+All special issue articles follow the same peer review process as above.
+Collections and Special Issue
+Collections: For any articles published in Cardiology Discovery, if the subject of articles belong to a specific topical collection, they will be dynamically added to related topical collection under the navigation bar of "Collections".
+Special Issue: Authors can submit manuscripts that belong to the subject of our planned Special Issues through the journal submission site under related article types. The planned Special Issues are listed in the journal homepage under “Call For Papers". All special issue articles will follow the same Editorial, Peer review and Decision process as other articles. Guest Editors will also review the articles belong to the Special Issue and take a first decision based on the comments from the reviewers.
+Types of Manuscripts Published
+Type
+Text Word Guideline*
+Abstract Word Guideline
+Figure/Table Guideline
+Reference Guideline
+Supplement Possibility
+Editorial
+2000
+No abstract
+1
+20
+No
+Perspective
+2000
+No abstract
+No requirements
+No requirements
+Yes
+Consensus and Guideline
+No requirements
+500 words maximum, unstructured abstract
+No requirements
+No requirements
+No
+Original Article
+5000~8000
+500 words maximum, structured abstract
+10
+50
+Yes
+Meta Analysis
+5000
+500 words maximum, structured abstract
+10
+50
+Yes
+Trial Design
+3000~8000
+500 words maximum, unstructured abstract
+No requirements
+No requirements
+Yes
+Review
+8000~10000
+500 words maximum, unstructured abstract
+10
+120
+No
+Correspondence
+1500~2000
+No abstract
+2
+10
+Yes
+*Text word count excludes abstract, figure legends, and references. Please ensure that the text word count is included on the Title page of the manuscript.
+Editorials are invited articles to explain the importance of specific articles or to provide opinions on general concepts in practice, research or policy. Editorials have no abstract and are typically 1500 to 2000 words long. Editorials who discuss a recently published article should cite that article as the first reference.
+Perspectives are welcomed and the length should be about 2000 words (not including tables, figures, and references). Authors of this type of articles should sign their real names; no anonymous pieces are published.
+Consensuses and Guidelines are official recommendations from professional organizations on issues related to clinical practice and health care delivery. CD is flexible with length, reference, and other format requirements given the variability in the format of guidelines developed by different organizations. A concise table or concise graphic summarizing the recommendations and other key points is desirable. Guidelines that meet standards (http://www.equator-network.org/) will fare more favorably than those that do not.
+Original Articles are full-length reports of completed basic, translational or clinical research. Articles should report important, novel and fully completed studies with strong conclusions. There is a maximum length of 8000 words, but shorter articles can also be considered, as long as these are fully completed studies. Preliminary reports cannot be accepted. Articles have a structured abstract of maximum 500 words. The abstracts should be structured as follows: Objective, Methods, Results, and Conclusion.
+Meta Analyses are results of meta analysis. The length of the article is about 5000 words (not including tables, figures, and references). The meta analysis should have the following headings: Abstract, Keywords, Introduction, Methods, Results, Discussion, Reference, Tables, and Legends in that order. The abstracts should be structured as follows: Objective, Methods, Results, and Conclusion.
+Trial Designs are complete demonstration of a clinical study. A Trial Design should assert the importance and reasonableness of the research, contain a method section that depicts the layout and demonstrates the rationale, and a discussion that focuses on clinical implications and limitations of the study. Trial designs have a loose requirement on format and are relatively open ended.
+Reviews articles have an unstructured abstract of maximum 500 words and a word count of 8000 to 10000 words. Review articles should not simply summarize information, but also discuss the importance and impact of the data providing a clear view on how these insights have transformed or will transform the field. Authors of review articles are encouraged to include several figures and tables to summarize and visualize data.
+Case Reports CD is no longer accepting new Case Report submissions as of July 1, 2026. However, anything currently under review will be processed as usual.
+Correspondence are short discussions based on limited new data that still come to solid conclusions or initiate important new questions. Correspondence have no abstract and therefore should begin with a short introductory paragraph explaining the background and the rationale for the letter. Correspondence can only have 1200 words and 2 tables/figures.
+MANUSCRIPT PREPARATION AND FORMATTING INSTRUCTIONS
+Manuscripts must be written in clear, grammatical English (see English Language Assistance above). Manuscripts not conforming to Journal format will be returned to authors for modification. Please double space the entire main body document and number each page. Do not add line numbers as the system will generate those when the PDF is built.
+Title page, footnotes, abbreviations, and abstract pages must be included in the main body file. Please do not upload separate copies of these documents.
+Acceptable document file types for text and tables include .DOC and .DOCX; do not submit a PDF.
+Page 1:
+Title Page. The following elements are required for every submission:
+Title. Include a descriptive title of the work; the title should not be a sentence. No proprietary or brand names for drugs or agents may be used in article titles.
+Authors. The full first name, middle initials, and family name of each author, as well as the name(s) of the department(s) and institution(s) to which the work should be attributed.
+Address for Correspondence. A current email and full mailing address for the corresponding author must be provided.
+Funding. Include disclosure of funding received for this work, especially details of funding from any of the following organizations: National Institutes of Health (NIH); Wellcome Trust; and Howard Hughes Medical Institute (HHMI).
+Disclosure. If the author(s) have no funding to disclose, please include the phrase, "The authors declare no conflicts of interest."
+Page 2:
+Footnotes. These should be designated by superscript Arabic numbers and should include:
+Title: List each author's specific contributions to the work (see details above, under Authorship); list all forms of support received by each author for this study; list any potential conflict of interest for each author, or make a declaration of no conflict of interest.
+Authors' names: List current email addresses for each author.
+Text: Provide these in numerical sequence.
+Footnotes for other than the above are not permitted in the manuscript body.
+Page 3: Abbreviations.
+This page should list abbreviations not likely to be familiar to the reader. They should be listed alphabetically with their meanings. Please do not abbreviate terms unless they are used frequently.
+Page 4: Abstract.
+When required, abstracts are limited to 500 words, which is excluded from the overall manuscript word count. The abstract is unstructured and should briefly describe: (1) the problem being addressed in the study, (2) how the study was performed, (3) the salient results, and (4) what the authors conclude from the results.
+Main Body:
+Introduction. The introduction contains a statement of the purpose of the work, the problem that stimulated it, and a brief summary of relevant published investigations.
+Materials and Methods. Avoid detailed description of previously published methods and cite the appropriate reference. Detailed methods may be provided as Supplementary information.
+Results. The results should be concise, avoiding redundant tables and figures illustrating the same data.
+Discussion. This section should follow the results and is used to interpret results, with minimal recapitulation of findings.
+Statistics. Whenever possible quantify findings and present them with appropriate indicators of measurement error or uncertainty (such as confidence intervals). Authors should report losses to observation (such as dropouts from a clinical trial). When data are summarized in the Results section, specify the statistical methods used to analyze them. Avoid non-technical uses of technical terms in statistics, such as 'random' (which implies a randomizing device), 'normal', 'significant', 'correlations', and 'sample'. Define statistical terms, abbreviations, and most symbols. Specify the computer software used. Use upper italics (e.g., P=0.048). For all P values include the exact value and not less than 0.05 or 0.01. Mean differences in continuous variables, proportions in categorical variables and relative risks including odds ratios and hazard ratios should be accompanied by their confidence intervals.
+Acknowledgments. This section normally includes sources of research funds, the names of collaborators who are not listed as coauthors, or of any others who contributed to the manuscript. Where a medical writer or editorial assistant has been used to write or edit the article, the writer must be identified and named, together with the source of funding.
+Funding. Include disclosure of funding received for this work, especially details of funding from any of the following organizations: National Institutes of Health (NIH); Wellcome Trust; and Howard Hughes Medical Institute (HHMI).
+Disclosure. If the author(s) have no funding to disclose, please include the phrase, "The authors declare no conflicts of interest."
+Author contributions and potential conflicts of interest. List each author's specific contributions to the work (see details above, under (Authorship) and list all forms of support received by each author for this study; list any potential conflict of interest for each author, or make a declaration of no conflict of interest.
+References. The journal uses American Medical Association (AMA) style. References should begin on a separate page and numbered in the order in which they are cited in the text, where they are designated by superscript numbers placed outside periods and commas, and inside colons and semicolons. Only published works and manuscripts that have been accepted for publication should be listed in the References. Manuscripts in preparation, unpublished observations, and personal communications should be referred to in parentheses in the text. Completed manuscripts submitted for publication may be cited as footnotes to the text (see above, Footnotes). If these are subsequently accepted, the author may transfer them to the reference section in galley proof.
+References Format. No more than three authors should be listed. If there are four or more, only the first three followed by ''et al.'' should be included. Titles of journal articles must be included, and abbreviation of journal names should conform to Index Medicus style. The available Digital Object Identifier (DOI) should be added at the end of every reference.
+For information on AMA style
+Examples of journal citations:
+[1] Anderson RL, Cassidy JM. Variations in physical dimensions and chemical composition of human stratum corneum. J Invest Dermatol, 1973,61(1):30-2. doi:10.1111/1523-1747.ep12674117.
+[2] Sheng C, Zhang W, Ji H, et al. Structure- based optimization of azole antifungal agents by CoMFA, CoMSIA, and molecular docking. J Med Chem, 2006,49(8):2512-25. doi:10.1021/jm051211n.
+Example of a book citation:
+[1] Reese RE, Betts RF, Gumustop B. Handbook of antibiotics. 3rd ed. Philadelphia: Lippincott Williams & Wilkins, 2000.
+[2] Weinstein L, Swartz MN. Pathogenic properties of invading microorganisms. In: Sodeman WA Jr., Sodeman WA, eds. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 457-472.
+Example of Electronic Sources citation:
+American College of Obstetricians and Gynecologists. Task Force on Hypertension in Pregnancy. Hypertension in pregnancy 2013 [cited 2018]. Available from: https://www.acog.org/~/media/Task%20Force%20and%20Work%20Group%20Reports/public/HypertensioninPregnancy.pdf.
+Tables. Photographs of tables are not acceptable. Type each table, 1.5 spacing throughout (including column headings, footnotes, and data), on a separate page. Tables may be included as part of the Main Body file and placed after the References section. Number the tables in sequence in Arabic numerals and supply a concise, informative title for each one. Each column in the tables should carry a concise heading describing the data in the column. Use lowercase superscript letters to designate footnotes, and type the footnotes below the tables to which they refer. Explain in footnotes all non-standard abbreviations that are used in each table. For footnotes use the following symbols, in this sequence: *, †, ‡, §, ||, ¶ , **, ††, ‡‡. Tables are cited in the text in numerical order. Each table should be able to be understood without consulting the text.
+Like text, tables should be prepared using a standard word-processing program and may be included within the main body text document, or uploaded separately. Do not upload table files more than once (that is, in the main document and in separate files). Acceptable document file types for tables include .DOC and .DOCX; do not submit PDF, XLS or XLSX type files.
+Figures and Legends. Figures should be uploaded in the highest resolution available. Legends should be supplied for all figures. They are numbered to correspond with the figures and typed double-spaced on a separate page. Figure legends for any supplemental figures being submitted are to be provided separately; see section, Supplemental Digital Content (SDC).
+Acceptable figure file formats
+Do not embed figures into the main body file
+All final digital figures for accepted manuscripts must be submitted in EPS, TIFF, JPG. PowerPoint PPT format is permitted when the image resolution is very high.
+Each figure must be uploaded as a separate file.
+Histology figures must be in color.
+Monochrome images (such as line graphs) should be prepared at a resolution of 1200 DPI.
+Halftones images (black/white or color) should be prepared at a resolution of 300 DPI.
+Combination halftones (images containing both pictures and text labeling) should be prepared at 600 DPI.
+Color images must be saved as ''CMYK''. Images saved as ''RGB'' are not acceptable for printing.
+Your manuscript may be returned to you for correction if the images are of insufficient quality.
+Artwork submitted to the Journal will be checked for quality. Authors submitting a revised paper will have the opportunity to check the quality of their images and make the necessary changes. This step is required for all revisions.
+Other requirements for Figures and Legends
+Figures should be numbered consecutively according to the order in which they have been first cited in the text.
+Labels, numbers, and symbols should be clear and of uniform size. The lettering for figures should be large enough to be legible after reduction to fit the width of a printed column.
+Symbols, arrows, or letters used in photomicrographs should contrast with the background and should be marked neatly with transfer type or by tissue overlay and not by pen.
+Titles and detailed explanations belong in the legends for illustrations not on the illustrations themselves.
+When graphs, scatter-grams or histograms are submitted the numerical data on which they are based should also be supplied.
+The photographs and figures should be trimmed to remove all the unwanted areas.
+If photographs of individuals are used, their pictures must be accompanied by written permission to use the photograph.
+If a figure has been published elsewhere, acknowledge the original source and submit written permission from the copyright holder to reproduce the material. A credit line should appear in the legend for such figures.
+Legends for illustrations: Type legends (maximum 40 words, excluding the credit line) with Arabic numerals corresponding to the illustrations. When symbols, arrows, numbers, or letters are used to identify parts of the illustrations, identify and explain each one in the legend. Explain the internal scale (magnification) and identify the method of staining in photomicrographs.
+Final figures for print production: Ensure that the image has a minimum resolution of 300 PPI or 1800 × 1600 pixels in JPEG or TIFF format.
+The Journal reserves the right to crop, rotate, reduce, or enlarge the photographs to an acceptable size.
+Supplemental Digital Content (SDC): Authors may submit Supplemental Digital Content to supplement the information provided in the manuscript. It is preferable to include all significant figures and tables in the manuscript, since there is not a limit on the number of items in this online journal. Nonetheless, SDC may include the following types of content: text, tables, figures, references peripheral to information provided as SDC, audio, and video. SDC should be consecutively cited in the Main Body text of the submitted manuscript. SDC files will be available via url(/s) placed at the citation points within the article and are not copyedited by the publisher. Note that Journal policies for manuscript submission relating to peer review, patient anonymity, ethics, financial disclosure, copyright, and permissions also apply to SDC. Authors should mask patients' eyes and remove patients' names from supplemental digital content unless they obtain written consent from the patients and submit them as supplemental files at the time of the manuscript submission.
+Format, File Type and Size Requirements: SDC must be provided in one Word or PowerPoint file. Each SDC in the file should have a visual header in the following name format (e.g., ''SDC, Figure 1''; ''SDC, Materials and Methods'') and a corresponding citation must appear in the Main Body text. Note that SDC is numbered separately from non-SDC material. If providing SDC figure(s), a figure legend should be included on the figure itself. When uploading SDC select ''Supplemental Digital Content'' as the file designation. For audio and video files, also include the author name, videographer, participants, length (minutes), and size (MB). Video files should be formatted with a 320x240 pixel minimum screen size. For each submission, the SDC file cannot exceed a total size of 10 MB.
+CHECKLIST
+Covering letter
+Signed by all contributors;
+Previous publication/presentations mentioned;
+Source of funding mentioned;
+Conflicts of interest disclosed.
+Authors
+Last name and given name provided along with Middle name initials (where applicable);
+Author for correspondence, with E-mail address provided;
+Identity not revealed in paper except title page (e.g., name of the institute in Methods, citing previous study as "our study", names on figure labels, name of institute in photographs, etc.).
+Presentation and format
+Use only 10- or 12-point font size;
+Page numbers included at the bottom;
+Title page contains all the desired information;
+Abstract page contains the full title of the manuscript;
+Abstract provided (structured abstract of 500 words for original articles, meta analysis [Objective, Methods, Results, Conclusions] and review articles [Objective, Data sources, Study selection, Results, Conclusions]);
+Key words provided (three to six words);
+Introduction should be short and arresting. State the purpose of the article and summarize the rationale for the study or observation;
+Give only strictly pertinent references;
+The references cited in the text should be after punctuation marks;
+References according to the journal's instructions, punctuation marks checked;
+Send the article file without "Track Changes".
+Language and grammar
+Uniformly American English;
+Write the full term for each abbreviation at its first use in the title, abstract, keywords and text separately unless it is a standard unit of measure. Numerals from 1 to 10 spelt out;
+Numerals at the beginning of the sentence spelt out;
+Check the manuscript for spelling, grammar, and punctuation errors;
+If a brand name is cited, supply the manufacturer's name and address (city and state/country);
+Species names should be in italics.
+Tables and figures
+No repetition of data in tables and graphs and in text;
+Actual numbers from which graphs drawn, provided;
+Figures necessary and of good quality (color);
+Table and figure numbers in Arabic letters (not Roman);
+Figure legends provided (not more than 40 words);
+Patients' privacy maintained (if not permission taken);
+Credit note for borrowed figures/tables provided;
+Write the full term for each abbreviation used in the table as a footnote.
+Additional resources
+ICMJE: http://www.icmje.org.
+Equator Network: Enhancing the Quality and Transparency of Health Research: http://www.equator-network.org/.
+COPE: http://publicationethics.org/
+POST ACCEPTANCE
+Page Proofs
+The publisher's Journal Production Editor will contact you when page proofs are ready for your review. The figures included on author's proofs are high resolution. Please inform the Journal Production Editor immediately if you have any questions concerning the quality of the figures on the proofs. For information regarding proofs, or the status of publication of your accepted manuscript, please contact 8610-51322216 (Email: CD@cmaph.org).
+Changes at Proofs
+It is expected that the final manuscript sent to the Editor is indeed the final version, so few changes should be required at proof stage.
+Copyright
+The Chinese Medical Association (CMA) is the owner of all copyrights to any articles published in the journal.
+Open Access
+Every peer-reviewed research article appearing in this journal will be published open access. This means that the article is universally and freely accessible via the internet in perpetuity, in an easily readable format immediately after publication. The journal does not charge for submission, processing or publication of manuscripts and even for color reproduction of photographs. The Chinese Medical Association will pay to make the article open access.
+Creative Commons licenses
+Open access articles will be freely available to read, download and share from the time of publication. A CC user license manages the reuse of the article (see http://www.wkopenhealth.com/openaccessfaq.php). Articles are published under the terms of the Creative Commons Attribution-Non Commercial-No Derivatives License 4.0 (CC BY-NC-ND) which allows readers to disseminate and reuse the article, as well as share and reuse of the scientific material. It does not permit commercial exploitation or the creation of derivative works without specific permission. To view a copy of this license visit https://creativecommons.org/licenses/by-nc-nd/4.0/
+Editorial Office Contacts
+The Editorial Office is pleased to answer any questions you may have about preparing your manuscript in accordance with our guidelines.
+Email: CD@cmaph.org
+Submit a manuscript: https://www.editorialmanager.com/Cardiodiscovery
+CURRENT ISSUE
+Volume 06 · Issue 03 · 2026

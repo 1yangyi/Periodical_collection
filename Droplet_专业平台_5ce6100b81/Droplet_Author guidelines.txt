@@ -1,0 +1,258 @@
+期刊: Droplet
+来源: https://journal.hep.com.cn/droplet/EN/guidelines
+标题: Author guidelines
+
+Home
+Journals
+Subscription
+Submission
+Metrics
+Top read articles on mendeley
+Editorial policy
+Open access
+About us
+Adv search
+About the journal
+Aims & scope
+Description
+Editorial board
+Cover gallery
+Contact us
+Browse
+Latest issue
+All volumes and issues
+Most accessed
+Most cited
+Authors & reviewers
+Online submisson
+Guidelines for authors
+Guidelines for authors
+Author Guidelines
+Submission
+Aims and Scope
+Manuscript Types
+Preparing Your Submission
+Editorial Policies and Ethical Considerations
+Author Licensing
+Publication Process After Acceptance
+Post Publication
+Editorial Office Contact Details
+SUBMISSION
+Thanks for your kind interest in Droplet. The submissions have to consist of the contents that has not been published or submitted for publication elsewhere except as a brief abstract in the proceedings of conferences or symposiums.
+The submission system will prompt you to use an ORCID ID (a unique author identifier) to help distinguish your work from that of other researchers as well as develop your personal profile in a worldwide platform.
+All the submissions will be performed and processed using ScholarOne online submission system.
+A cover letter should be included in the ‘Cover Letter Field’ of the ScholarOne system. The text can be entered directly into the field or uploaded as a file.
+The cover letter must contain:
+A statement confirming the paper has not been published or submitted for publication elsewhere except as a brief abstract in the proceedings of a scientific meeting or symposium.
+A statement confirming that all authors are in agreement with the content of manuscript.
+In addition, the authors should state clearly the motivation and the novelty of their research in the cover letter. The author also needs to clarify the key results and the advances compared to previous work of their manuscripts.
+Once you have prepared your submission in accordance with the Guidelines, manuscripts should be submitted online at https://mc.manuscriptcentral.com/Droplet.
+Microsoft Word templates for
+Research Article Template (MS word)
+Review Article Template (MS word)
+AIMS AND SCOPE
+Droplet is a peer-reviewed international and cross-disciplinary open access journal to publish reviews, research papers, news and editorials that involve droplets, bubbles and related topics. The journal covers the design, synthesis, fabrication, characterization, manipulation, control, application and commercialization of structures, devices and systems that involve droplets and related objects from microscopic to macroscopic scales. Subject areas covered include, but are not limited to:
+Experimental, theoretical and computational fluid dynamics containing droplets and bubbles
+Fluid-structure interactions that involve droplets and bubbles
+Microfluidics and nanofluidics related to droplets and bubbles
+Biomimetic surfaces and interfaces involving droplets and bubbles
+Soft matter and active material involving droplets and bubbles
+Droplet-based 3D/4D printing
+Water-energy nexus that includes droplets and bubbles
+Droplets and bubbles in biological and bio-inspired systems
+Thermal processes that engage droplets and bubbles
+Novel applications of droplets and bubbles
+Development and commercialization of products based on droplets and bubbles
+Droplet aims to provide an excellent platform for the dissemination of the cutting-edge research results in the general area of droplet & bubble.
+MANUSCRIPT TYPES
+(1) Research Articles
+Description: The reports of original studies within the journal scope of Droplet.
+Word Limit: Within 4,500 words excluding references, tables and figure captions.
+Abstract: Within 260 words, briefly describe the contents of the research article.
+References: No word limits, but the American Medical Association (AMA) system of referencing should be used (see AMA Manual of Style for details).
+Figures/tables: The maximum figure number is 8. Tables and Figures must be inserted into the body of the manuscript immediately next to their in-text citation, and they should be properly prepared and numbered as describing here.
+Authors are encouraged to provide other relevant materials as Supporting Information.
+(2) Reviews
+Description: Reviews are comprehensive analyses of a specific topic. They can be submitted either by the invitations from the Editors or by the authors themselves; Both types will undergo the peer-review process prior to acceptance.
+Word Limit: No strict word limits, however, it is better to be within 8,000 words including abstract but excluding references, tables and figures.
+Abstract: Within 260 words, briefly describe the contents of the review article.
+References: No word limits. but the American Medical Association (AMA) system of referencing should be used (see AMA Manual of Style for details)
+Figures/tables: No strict number limits. Tables and Figures must be inserted into the body of the manuscript immediately next to their in-text citation, and they should be properly prepared and numbered as describing here.
+(3) Editorials [only invited by Editors]
+Description: It is written by Editorial Board members, invited authors or editors.
+Word Limit: 1,000 words maximum.
+Abstract: Not required.
+Figures/tables: Maximum 5 figure/tables. Tables and Figures must be inserted into the body of the manuscript immediately next to their in-text citation, and they should be properly prepared and numbered as describing here.
+References: Maximum 5 references. The American Medical Association (AMA) system of referencing should be used (see AMA Manual of Style for details).
+(4) News
+Description: It is written by Editorial Board members, invited authors or editors.
+Word Limit: 2,000 words maximum.
+Abstract: Not required.
+Figures/tables: No strict number limits. Tables and Figures must be inserted into the body of the manuscript immediately next to their in-text citation, and they should be properly prepared and numbered as describing here.
+References: No word limits. The American Medical Association (AMA) system of referencing should be used (see AMA Manual of Style for details).
+back to top
+PREPARING YOUR SUBMISSION
+Parts of the Manuscript
+The submitted file should be presented in the following order:
+Title - Author(s) - Affliliation(s) - Abstract - Main text [including Figures and Tables] [Each Figure completes with figure legend, and each table completes with title and footnotes] - (Experimental/Methods Section) - References - Supporting Information (if relevant)
+[Sections in brakets are only presented in certain article types.] [Supporting Information should be supplied as separate files.]
+Title page
+The title page should contain:
+1. A short informative title that contains the major key words. The title should not contain abbreviations (see Wiley's best practice SEO tips);
+2. The full names of the authors;
+3. The author's institutional affiliations at which the work was carried out.
+The present address of any author, if different from that where the work was carried out, should be supplied in a footnote.
+Abstract
+Please provide an abstract of no more than 260 words containing the major keywords. The abstract should adhere to the word count specifications under the section 'Manuscript Types'. It should state the main problem, methods, results, and conclusions. It must be factual and comprehensive. The use of abbreviations and acronyms should be limited and general statements (e.g. ‘‘the significance of the results is discussed’’) should be avoided.
+Authorship
+Please refer to the journal’s authorship policy in the Editorial Policies and Ethical Considerations section for details on eligibility for author listing.
+Main Text
+Authors should use the headings required for the Article Type as specified in the template, subheadings are not encouraged. Research Article manuscripts should be structured using the following sections: Introduction, Results, Discussion, Conclusion, Methods, Acknowledgment, Disclosure, References, and when relevant, Supporting Information. The Methods should be placed after the Conclusion.
+References
+The American Medical Association (AMA) system of referencing should be used see the - AMA Manual of Style for details. All references should be numbered consecutively in order of appearance and should be as complete as possible. In text citations should cite references in consecutive order using Arabic superscript numerals. Sample references follow:
+In-Text examples:
+Diabetes mellitus is associated with a high risk of foot ulcers.1-3
+Several interventions have been successful at increasing compliance.11,14-16
+The data of Smith et al18 is further evidence of this effect.
+As reported previously,1,3-6
+The results were as follows4:
+Journal article (1-6 authors):
+1. Lyu Y, Duan Y, Kang W, Li Z, Wang FY. Traffic flow prediction with big data: a deep learning approach. IEEE Transactions on Intelligent Transportation Systems. 2015;16: 865-873.
+Journal article with more than six authors:
+2. Allison MA, Hurley LP, Markowitz L, et al. Primary care physicians’ perspectives about HPV vaccine. Pediatrics. 2016;137:e20152488.
+Journal article with no named author or group name:
+3. Centers for Disease Control and Prevention (CDC). Licensure of a meningococcal conjugate vaccine (Menveo) and guidance for use--Advisory Committee on Immunization Practices (ACIP), 2010. MMWR Morb Mortal Wkly Rep. 2010;59:273.
+Online articles not yet published in an issue:
+4. Smith JJ, Fihn SD, White RH. Treatment of allergic rhinitis. Am J Med. In press; doi:10.1016/S0002-9343(00)00545-3.
+Book:
+5. Voet D, Voet JG. Biochemistry. New York: John Wiley & Sons; 1990. 1223 p.
+Book chapter:
+6. Guyton JL, Crockarell JR. Fractures of acetabulum and pelvis. In: Canale ST, ed. Campbell's Operative Orthopaedics. 10th ed. Philadelphia, PA: Mosby, Inc; 2003:2939-2984.
+Electronic book:
+7. Rudolph CD, Rudolph AM. Rudolph's Pediatrics. 21st ed. New York, NY: McGraw-Hill Companies; 2002. http://online.statref.com/Document/Document.aspx?DocID=1&StartDoc=1&EndDoc=1882&FxID=13&offset=7&SessionId=A3F279FQVVFXFSXQ. Accessed August 22, 2007.
+Internet document:
+8. American Cancer Society. Cancer Facts & Figures 2003. http://www.cancer.org/downloads/STT/CAFF2003PWSecured.pdf. Accessed March 3, 2003.
+Please note that journal title abbreviations should conform to the practices of Chemical Abstracts.
+Tables
+Tables should be self-contained and complement, but not duplicate, information contained in the text. They should be supplied as editable files, not pasted as images. Legends should be concise but comprehensive – the table, legend and footnotes must be understandable without reference to the text. All abbreviations must be defined in footnotes. Footnote symbols: †, ‡, §, ¶, should be used (in that order) and *, **, *** should be reserved for P-values. Statistical measures such as SD or SEM should be identified in the headings.
+Figure Legends
+Figure legends should be concise but comprehensive – the figure and its legend must have high readability. Include definitions of any symbols used and define/explain all abbreviations and units of measurement.
+Preparing Figures
+Although we encourage authors to send us the highest-quality figures possible, for peer-review purposes we are happy to accept a wide variety of formats, sizes, and resolutions. Figures must be inserted into the body of the manuscript immediately next to their in-text citation.
+Click here for the basic figure requirements for figures submitted with manuscripts for initial peer review, as well as the more detailed post-acceptance figure requirements.
+Graphic in the Table of Contents (TOC): A graphic must be included for display in the table of contents (TOC) and the abstract for Research Articles and Reviews. Graphic should capture the reader’s attention and give readers a quick visual impression of the essence of the manuscript without providing specific results. Please label the graphic as “For Table of Contents Only” and upload it separately at the first submission stage.
+Acknowledgments
+Contributions from anyone who does not meet the criteria for authorship should be listed, with permission from the contributor, in an Acknowledgments section. Financial and material support should also be mentioned. Thanks to anonymous reviewers are not appropriate.
+Conflict of Interest Statement
+You will be asked to provide a conflict of interest statement during the submission process. See the section ‘Conflict of Interest’ in the Editorial Policies and Ethical Considerations section for details on what to include in this section. Please ensure you liaise with all co-authors to confirm agreement with the final statement.
+Supporting Information
+Supporting information is information that is not essential to the article but that provides greater depth and background. It is generally hosted online and appears without editing or typesetting. It may include tables, figures, videos, datasets, etc. Click here for Wiley’s FAQs on supporting information.
+Note, if data, scripts or other artefacts used to generate the analyses presented in the paper are available via a publicly available data repository, authors should include a reference to the location of the material within their paper.
+Reproduction of Copyright Material
+If excerpts from copyrighted works owned by third parties are included, credit must be shown in the contribution. It is your responsibility to also obtain written permission for reproduction from the copyright owners. For more information please visit Wiley’s Copyright Terms & Conditions FAQ. The corresponding author is responsible for obtaining written permission to reproduce the material "in print and other media" from the publisher of the original source, and for supplying Wiley with that permission upon submission.
+Wiley Author Resources
+Wiley has a range of resources for authors preparing manuscripts for submission available here. In particular, authors may benefit from referring to Wiley’s best practice tips on Writing for Search Engine Optimization.
+Article Preparation Support
+Wiley Editing Services offers expert help with English Language Editing, as well as translation, manuscript formatting, figure illustration, figure formatting, and graphical abstract design – so you can submit your manuscript with confidence.
+back to top
+EDITORIAL POLICIES AND ETHICAL CONSIDERATIONS
+Editorial Peer-review and Acceptance
+The acceptance criteria for all papers are the quality and originality of the research and its significance to our readership. Except where otherwise stated, manuscripts are single-blind peer reviewed. Papers will only be sent to review if the Editor-in-Chief determines that the paper meets the appropriate quality and relevance requirements.
+Wiley's policy on confidentiality of the review process is available here.
+Manuscripts are assigned sequentially to Associate Editors. An Associate Editor solicits reviewers (typically, two external reviews are sought). The reviewers’ evaluations and Associate Editor’s comments are compiled by the Editor-in-Chief for disposition and transmittal to the authors.
+The Associate Editor will advise authors whether a manuscript is accepted, should be revised or is rejected. Minor revisions are expected to be returned better within two weeks of decision; major revisions better within four weeks. Manuscripts not revised within the time periods of three months are subject to withdrawal from consideration for publication unless the authors can provide extenuating circumstances.
+A number of manuscripts will have to be rejected on the grounds of priority and available space. A manuscript may be returned to the authors without outside review if the Editor-in-Chief and Associate Editor find it inappropriate for publication in the Journal. Similarly, the Editors may expedite the review process for manuscripts felt to be of high priority in order to reach a rapid decision. Such ‘fast-track decisions’ will normally occur within one week of receipt of the manuscript.
+Even though the final decisions are made, authors may dispute a decision and can document good reasons why a manuscript should be reconsidered. A rebuttal process exists. In the first place, authors should write rebuttal letters to the Editor-in-Chief.
+In-house submissions-Papers authored by Editors or Editorial Board members of the title, will be sent to Editors unaffiliated with the author or institution and monitored carefully to ensure there is no peer-review bias.
+Data storage and documentation
+Droplet encourages data sharing wherever possible, unless this is prevented by ethical, privacy or confidentiality matters. Authors publishing in the journal are therefore encouraged to make their data, scripts and other artefacts used to generate the analyses presented in the paper available via a publicly available data repository, however this is not mandatory. If the study includes original data, at least one author must confirm that he or she had full access to all the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis.
+Conflict of Interest
+The journal requires that all authors disclose any potential sources of conflict of interest. Any interest or relationship, financial or otherwise that might be perceived as influencing an author's objectivity is considered a potential source of conflict of interest. These must be disclosed when directly relevant or directly related to the work that the authors describe in their manuscript. Potential sources of conflict of interest include, but are not limited to, patent or stock ownership, membership of a company board of directors, membership of an advisory board or committee for a company, and consultancy for or receipt of speaker's fees from a company. The existence of a conflict of interest does not preclude publication. If the authors have no conflict of interest to declare, they must also state this at submission. It is the responsibility of the corresponding author to review this policy with all authors and collectively to disclose with the submission ALL pertinent commercial and other relationships.
+Funding
+Authors should list all funding sources in the Acknowledgments section. Authors are responsible for the accuracy of their funder designation. If in doubt, please check the Open Funder Registry for the correct nomenclature.
+Authorship
+All those listed as authors should qualify for authorship according to the following criteria:
+Have made substantial contributions to conception and design, or acquisition of data, or analysis and interpretation of data;
+Been involved in drafting the manuscript or revising it critically for important intellectual content;
+Given final approval of the version to be published. Each author should have participated sufficiently in the work to take public responsibility for appropriate portions of the content; and
+Agreed to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
+Contributions from anyone who does not meet the criteria for authorship should be listed, with permission from the contributor, in an Acknowledgments section (for example, to recognize contributions from people who provided technical help, collation of data, writing assistance, acquisition of funding, or a department chairperson who provided general support). Prior to submitting the article all authors should agree on the order in which their names will be listed in the manuscript.
+Additional authorship options
+Joint first or senior authorship: In the case of joint first authorship a footnote should be added to the author listing, e.g. ‘X and Y should be considered joint first author’ or ‘X and Y should be considered joint senior author.’
+ORCID
+As part of our commitment to supporting authors at every step of the publishing process, Droplet encourages the submitting author (only) to provide an ORCID iD when submitting a manuscript. This takes around 2 minutes to complete. Find more information.
+Publication Ethics
+The journal is committed to high standards for professional conduct and ethical behavior in all published material. Note this journal uses iThenticate’s CrossCheck software to detect instances of overlapping and similar text in submitted manuscripts. Read our Top 10 Publishing Ethics Tips for Authors here. Wiley’s Publication Ethics Guidelines can be found at https://authorservices.wiley.com/ethics-guidelines/index.html.
+Refer and Transfer
+Wiley believes that no valuable research should go unshared. This journal participates in Wiley’s Refer & Transfer program. If your manuscript is not accepted, you may receive a recommendation to transfer your manuscript to another suitable Wiley journal, either through a referral from the journal’s editor or through our Transfer Desk Assistant.
+back to top
+AUTHOR LICENSING
+All articles published by Droplet are fully open access where they are immediately freely available to read, download and share. To cover the cost of publishing, Droplet charges a publication fee when a submission is accepted for publication. There is no fee for initial submission for editorial/peer-review evaluation. Accepted papers will be published under a Creative Commons license. With Creative Commons licenses, the author retains copyright and the public is allowed to reuse the content. The author grants Wiley a license to publish the article and to identify as the original publisher. All authors will be directed to the Creative Commons Attribution license (CC BY) in accordance with funder mandates effective on 1 April 2013.
+If your paper is accepted, the author identified as the formal corresponding author will receive an email prompting them to login into Author Services; where via the Wiley Author Licensing Service (WALS) they will be able to complete the license agreement on behalf of all authors on the paper.
+To learn more about Creative Commons Licenses and to preview terms and conditions of the agreements, please click here. Note that certain funders mandate that a particular type of CC license has to be used; to check this, please click here.
+Open Access fees: Please note that Agreement to pay the APC is given at manuscript submission, but will only be charged upon acceptance. For more information about this journal's APC's, please visit the Open Access Page
+Please note: Article Publication Charges (APCs) are currently waived.
+PUBLICATION PROCESS AFTER ACCEPTANCE
+Accepted article received in production
+When your accepted article is received by Wiley’s production team, you (corresponding author) will receive an email asking you to login or register with Author Services. You will be asked to sign a publication license at this point.
+Proofs
+Once your paper is typeset you will receive an email notification of the URL from where to download a PDF typeset page proof, associated forms and full instructions on how to correct and return the file.
+Please note that you are responsible for all statements made in your work, including changes made during the editorial process and thus you must check your proofs carefully. Note that proofs should be returned as soon as possible from receipt of first proof.
+Early View
+The journal offers rapid publication via Wiley’s Early View service. Early View (Online Version of Record) articles are published on Wiley Online Library before inclusion in an issue. Note there may be a delay after corrections are received before your article appears online, as Editors also need to review proofs. Once your article is published on Early View no further changes to your article are possible. Your Early View article is fully citable and carries an online publication date and DOI for citations.
+Author Name Change
+In cases where authors wish to change their name following publication, Wiley will update and republish the paper and redeliver the updated metadata to indexing services. Our editorial and production teams will use discretion in recognizing that name changes may be of a sensitive and private nature for various reasons including (but not limited to) alignment with gender identity, or as a result of marriage, divorce, or religious conversion. Accordingly, to protect the author’s privacy, we will not publish a correction notice to the paper, and we will not notify co-authors of the change. Authors should contact the journal’s Editorial Office with their name change request.
+Additional Guidelines for Cover Pictures, Visual Abstracts, Frontispieces and Table of Contents Graphics
+Concepts illustrated in graphical material must clearly fit with the research discussed in the accompanying text.
+Images featuring depictions or representations of people must not contain any form of objectification, sexualization, stereotyping, or discrimination. We also ask authors to consider community diversity in images containing multiple depictions or representations of people.
+Inappropriate use, representation, or depiction of religious figures or imagery, and iconography should be avoided.
+Use of elements of mythology, legends, and folklore might be acceptable and will be decided on a case-by-case basis. However, these images must comply with the guidelines on human participants when they are present.
+Generally, authors should consider any sensitivities when using images of objects that might have cultural significance or may be inappropriate in the context (for example, religious texts, historical events, and depictions of people).
+Legal requirements: All necessary copyright permission for the reproduction of the graphical elements used in visuals must be obtained prior to publication.
+Graphics that do not adhere to these guidelines will be recommended for revision or will not be accepted for publication.
+Cover Picture Suggestion:
+Authors are welcome to suggest cover picture to [email protected], or, if the files are too large to be sent by e-mail, please contact [email protected] for alternative file transfer methods.
+Suggestions can be sent in at any time from acceptance of the manuscript to completion of the page proof corrections.
+The cover picture should be eye-catching and graphically present the essence of or an important message from your research. It may, for example, be a graphic from the article, a suitable combination of graphics from the article, or a newly created graphic based on the content of your article.
+It is not appropriate to use images that are previously published in connection with other work, images from stock photo or clip-art repositories, or images that are otherwise subject to copyright as part of a cover suggestion.
+Cover images will be reproduced at a size of 276 mm (height) x 210 mm (width). Please provide the image in TIFF, PSD, JPEG, or PDF format with sufficient resolution (at least 300 dpi). A white background should be avoided.
+back to top
+POST PUBLICATION
+Access and sharing
+Please review Wiley’s guidelines on sharing your research here. The submitted version of the manuscript, the accepted version, and the published version (Version of Record) can all be deposited on an institutional or other repository of the author's choice without embargo.
+When your article is published online:
+The author receives an email alert (if requested).
+The link to the published article can be shared through social media.
+The author will have free access to the paper (after accepting the Terms & Conditions of use, they can view the article).
+Now is the time to start promoting your article. Find out how to do that here
+Article Promotion Support
+Wiley Editing Services offers professional video, design, and writing services to create shareable video abstracts, infographics, conference posters, lay summaries, and research news stories for your research – so you can help your research get the attention it deserves.
+EDITORIAL OFFICE CONTACT DETAILS
+Droplet Editorial Office
+Email: editorial@wiley-droplet.com
+Jilin University
+No. 5988 Renmin Street, Changchun, 130022, China
+Pubdate:  Viewed:
+Latest issue
+2026-04-15 2026, Volume 5 Issue 2
+View all volumes and issues
+Cover illustration
+Submit manuscript
+Latest articles
+Most accessed
+Collections
+https://doi.org/
+View all articles
+https://doi.org/
+View all articles
+View all collections
+Subscription
+E-mail alert
+Subscribe to our RSS content
+Journal updates More
+Journal updates
+2024-07-09
+Links
+Links
+ISSN 2731-4375 (Print)
+ISSN 2731-4375 (Online)

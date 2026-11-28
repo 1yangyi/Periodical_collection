@@ -1,0 +1,327 @@
+期刊: Virologica Sinica
+来源: https://www.keaipublishing.com/en/journals/virologica-sinica/guide-for-authors/
+标题: Guide for Authors
+
+Guide for Authors
+Introduction
+Introduction
+Types of Paper
+Before you begin
+Ethics in publishing
+Studies in humans and animals
+Declaration of competing interest
+Submission declaration and verification
+Use of inclusive language
+Preprints
+Author Contributions
+Changes to authorship
+Open access
+Article publishing charge (APC)
+Copyright
+Author rights
+Submission
+Peer review
+Referees
+Article transfer service
+Elsevier researcher academy
+Preparation
+Editorial policies
+Essential title page information
+Highlights
+Abstract
+Keywords
+Article structure
+Sections
+Introduction
+Materials and methods
+Results
+Discussion
+Conclusions
+Nomenclature
+Abbreviation
+Units
+Math formulae
+Data policy
+Data availability
+Acknowledgements
+Artwork
+Image Manipulation
+General points
+Formats
+Please do not:
+Color artwork
+Figure captions
+Tables
+References
+Citation in text
+Reference links
+Web references
+Book and chapter
+Data references
+Reference to arXiv
+Preprint references
+Reference management software
+Journal abbreviations source
+Video
+Data visualization
+Supplementary material
+After acceptance
+Preproof publication
+Online proof correction
+Author inquiries
+Author Inquiries
+Author Inquiries
+Introduction
+Introduction
+Virologica Sinica is an open access journal which aims at presenting the cutting-edge basic and applied research on viruses all over the world. The journal publishes peer-reviewed original research articles and reviews, as well as commentaries, and letters, to encompass the latest developments in all branches of virology, including research on animal, plant and microbe viruses. The journal welcomes articles on virus discovery and characterization, viral epidemiology, viral pathogenesis, virus-host interaction, vaccine development, antiviral agents and therapies, and virus related bio-techniques.
+Virologica Sinica, the official journal of the Chinese Society for Microbiology, holds an editorial board of experts from a broad range of research fields worldwide, and will serve as a platform for the communication and exchange of academic information and ideas in an international context.
+Types of Paper
+Research article
+A complete report on original research and/or clinical studies.
+A structured abstract and keywords are required.
+A clear structure is required, which should contain but not confined to the following sections:
+Introduction
+Materials and methods
+Results
+Discussion
+Conclusions
+Data availability
+Ethics statement
+Author contributions (For details please visit the link)
+Conflict of interest
+Acknowledgments
+References
+Figure legends and tables (Word limit: 6000)
+Review article
+Review articles are summaries of important developments in virology research. They must be based on published articles and may address any subject within the scope of the journal. Reviews must have abstracts and keywords, and the body may have section headings and/or paragraph lead-ins. Reviews should describe and synthesize recent developments of a sharply defined topic on virology and highlight future directions. Most reviews are generally invited by the Editors, but unsolicited submissions may also be considered. You may send a pre-submission inquiry to the Editorial office with a proposed review outline. To submit a proposal, please provide a 1-page summary of the topic and overall aims of the review article.
+Letter
+Letters are intended for the presentation of brief observations and published in a short-form format. The number of figures and tables should be kept into one, while references are limited to 15. No subsection is required, but any additional information including but not limited to details of materials and methods, that authors think is important can be submitted as supplementary materials. A footnote is needed at the end of the manuscript to describe the funding source, conflict of interest and ethics statement. (Word limit: 1,500)
+Others
+Articles types including Perspective, News, Forum, Meeting reports and Recollections are also welcomed.
+You can use this list to carry out a final check of your submission before you send it to the journal for review. Please check the relevant section in this Guide for Authors for more details.
+Ensure that the following items are present:
+One author has been designated as the corresponding author with contact details:
+• E-mail address
+• Full postal address
+•ORCID
+All necessary files have been uploaded:
+Manuscript:
+• Include keywords, highlights and main text
+• All figures (include relevant captions)
+• All tables (including titles, description, footnotes)
+• Ensure all figure and table citations in the text match the files provided
+• Indicate clearly if color should be used for any figures in print
+Supplemental files (where applicable) (where applicable)
+Further considerations
+• Manuscript has been 'spell checked' and 'grammar checked'
+• All references mentioned in the Reference List are cited in the text, and vice versa
+• Permission has been obtained for use of copyrighted material from other sources (including the Internet)
+• A conflict of interest statement is provided, even if the authors have no conflict of interest to declare
+•An ethics statement is provided, if the study involves human or animal subjects
+•A data availability statement is provided
+•Author contribution following CRediT format is provided
+• Journal policies detailed in this guide have been reviewed
+• Referee suggestions and contact details provided, based on journal requirements
+For further information, visit our Support Center.
+Before you begin
+Ethics in publishing
+Please see our information pages on Ethics in publishing and Ethical guidelines for journal publication.
+Studies in humans and animals
+If the work involves the use of human subjects, the author should ensure that the work described has been carried out in accordance with The Code of Ethics of the World Medical Association (Declaration of Helsinki) for experiments involving humans. The manuscript should be in line with the Recommendations for the Conduct, Reporting, Editing and Publication of Scholarly Work in Medical Journals and aim for the inclusion of representative human populations (sex, age and ethnicity) as per those recommendations. The terms sex and gender should be used correctly. Authors should include a statement in the manuscript that informed consent was obtained for experimentation with human subjects. The privacy rights of human subjects must always be observed. All animal experiments should comply with the ARRIVE guidelines and should be carried out in accordance with the U.K. Animals (Scientific Procedures) Act, 1986 and associated guidelines, EU Directive 2010/63/EU for animal experiments, or the National Institutes of Health guide for the care and use of Laboratory animals (NIH Publications No. 8023, revised 1978) and the authors should clearly indicate in the manuscript that such guidelines have been followed. The sex of animals must be indicated, and where appropriate, the influence (or association) of sex on the results of the study.
+Declaration of competing interest
+All authors must disclose any financial and personal relationships with other people or organizations that could inappropriately influence (bias) their work. Examples of potential conflicts of interest include employment, consultancies, stock ownership, honoraria, paid expert testimony, patent applications/registrations, and grants or other funding. Authors should complete the declaration of competing interest statement using this template and upload to the submission system at the Attach/Upload Files step. Note: Please do not convert the .docx template to another file type. Author signatures are not required. If there are no interests to declare, please choose the first option in the template. More information
+Submission declaration and verification
+Submission of an article implies that the work described has not been published previously (except in the form of an abstract or as part of published lecture or academic thesis or as an electronic preprint, see 'Multiple, redundant or concurrent publication' section of our ethics policy for more information), that it is not under consideration for publication elsewhere, that its publication is approved by all authors and tacitly or explicitly by the responsible authorities where the work was carried out, and that, if accepted, it will not be published elsewhere in the same form, in English or in any other language, including electronically without the written consent of the copyright-holder. To verify originality, your article may be checked by the originality detection service Crossref Similarity Check.
+Use of inclusive language
+Inclusive language acknowledges diversity, conveys respect to all people, is sensitive to differences, and promotes equal opportunities. Content should make no assumptions about the beliefs or commitments of any reader; contain nothing which might imply that one individual is superior to another on the grounds of age, gender, race, ethnicity, culture, sexual orientation, disability or health condition; and use inclusive language throughout. Authors should ensure that writing is free from bias, stereotypes, slang, reference to dominant culture and/or cultural assumptions. We advise to seek gender neutrality by using plural nouns ("clinicians, patients/clients") as default/wherever possible to avoid using "he, she," or "he/she." We recommend avoiding the use of descriptors that refer to personal attributes such as age, gender, race, ethnicity, culture, sexual orientation, disability or health condition unless they are relevant and valid. When coding terminology is used, we recommend to avoid offensive or exclusionary terms such as "master", "slave", "blacklist" and "whitelist". We suggest using alternatives that are more appropriate and (self-) explanatory such as "primary", "secondary", "blocklist" and "allowlist". These guidelines are meant as a point of reference to help identify appropriate language but are by no means exhaustive or definitive.
+Please write your text in good English (American or British usage is accepted, but not a mixture of these). Authors who feel their English language manuscript may require editing to eliminate possible grammatical or spelling errors and to conform to correct scientific English may wish to use the English Language Editing service available from Elsevier's WebShop.
+Preprints
+Please note that preprints can be shared anywhere at any time, in line with Elsevier's sharing policy. Sharing your preprints e.g. on a preprint server will not count as prior publication (see 'Multiple, redundant or concurrent publication' for more information).
+Author Contributions
+For transparency, we require authors to submit an author statement file outlining their individual contributions to the paper using the relevant CRediT roles: Conceptualization; Data curation; Formal analysis; Funding acquisition; Investigation; Methodology; Project administration; Resources; Software; Supervision; Validation; Visualization; Roles/Writing - original draft; Writing - review & editing. Authorship statements should be formatted with the names of authors first and CRediT role(s) following.
+Sample CRediT author statement
+Zhang San: conceptualization, methodology, software. Priya Singh: data curation, writing-original draft preparation. Wang Wu: visualization, investigation. Jan Jansen: supervision. Ajay Kumar: software, validation. Sun Qi: writing-reviewing and editing.
+More information can be viewed here.
+Changes to authorship
+This policy concerns the addition, deletion, or rearrangement of author names in the authorship of accepted manuscripts:
+Before the accepted manuscript is published in an online issue: Requests to add or remove an author, or to rearrange the author names, must be sent to the Journal Manager from the corresponding author of the accepted manuscript and must include: (a) the reason the name should be added or removed, or the author names rearranged and (b) written confirmation (e-mail, fax, letter) from all authors that they agree with the addition, removal or rearrangement. In the case of addition or removal of authors, this includes confirmation from the author being added or removed. Requests that are not sent by the corresponding author will be forwarded by the Journal Manager to the corresponding author, who must follow the procedure as described above. Note that: (1) Journal Managers will inform the Journal Editors of any such requests and (2) publication of the accepted manuscript in an online issue is suspended until authorship has been agreed.
+After the accepted manuscript is published in an online issue: any requests to add, delete, or rearrange author names in an article published in an online issue will follow the same policies as noted above and result in a corrigendum.
+Open access
+Each article in Virologica Sinica will be published open access. This means that the article is universally and freely accessible via the internet in perpetuity, in an easily readable format immediately after publication.
+Article publishing charge (APC)
+Open access incurs an article publishing charge (APC) which needs to be paid by the authors or on their behalf e.g. by their research funder or institution. The APC fee is CNY 9000 or USD 1500, plus VAT for the submissions since 1st January 2022.
+Copyright
+Upon acceptance of an article, authors will be asked to complete a ?License Agreement? (see more information on this). Virologica Sinica adopts the Creative Commons Attribution-NonCommercial-NoDerivs (CC BY-NC-ND) license which permits limited re-use of the article for non-commercial purposes. The full details of the license are available at: https://creativecommons.org/licenses/by-nc-nd/4.0/.
+Author rights
+Authors will retain copyright alongside scholarly usage rights. As an author, you (your employer or institution) have certain rights to reuse your work. More information.
+Submission
+Submission to Virologica Sinica proceeds totally online. Use the following guidelines to prepare your article. Via the homepage of this journal (https://mc03.manuscriptcentral.com/vs), you will be guided stepwise through the creation and uploading of the various files. The system automatically converts source files to a single Adobe Acrobat PDF version of the article, which is used in the peer-review process. Please note that even though manuscript source files are converted to PDF at submission for the review process, these source files are needed for further processing after acceptance. All correspondence, including notification of the Editor?s decision and requests for revision, takes place by e-mail and via the author?s homepage, removing the need for a hard-copy paper trail. If you are unable to provide an electronic version, please contact the editorial office prior to submission: E-mail: virologica@wh.iov.cn Telephone: +86-27-87199157
+Peer review
+Virologica Sinica is devoted to provide all authors with an efficient, rigorously, and constructive editorial process. The journal operates a single anonymized review process.
+All manuscripts received will be subjected to an initial quality control, including the originality, the quality and the format. Those that pass the first assessment will be assigned to an Editor mostly from the Editorial Board, and occasionally, a Guest Editor of the relevant field will be invited to act as the role. The Editor will be completely responsible for the review process, decide whether the manuscript will be sent out for peer-review or reject without external review.
+A minimum of two comments will be generated from two independent reviewers based on the originality, rationality, significance and overall quality of the submission. The Editor will weigh all comments and render a decision. A decision letter will be directly emailed to the corresponding author from the Editor.
+General decision includes:
+Reject
+Major Revision
+Minor Revision
+Accept
+Upon peer-review, the authors may be asked to revise the manuscript. Revision should be completed within one month for minor revision and two months for major revision. A point-to-point response letter (submitted by the corresponding author on behalf of all authors) should be uploaded together with the revised version. The response letter should follow Q/A format, and detailed page and line number should be provided for the revisions. An Example of Point Response Letter can be downloaded. The final acceptance/rejection decision will be collaboratively made by the assigned Editor, the Editor-in-Chief and the Editorial Office.
+For submissions from the Editor-in-Chief, Associate Editors, Editors, and Editorial Board members, and authors who have conflicts of interest with them, we ensure that the paper is handled confidentially by a different team member.
+For submissions to Special Issues, if there are conflicts of interest between the Guest Editor(s) and authors, the submissions will be handled by another Editor from Editorial Board who will manage the peer review process and make the decision after peer review.
+For more information on types of peer review.
+Referees
+We suggest, as part of the submission process, providing the names of 2 peers who are experts in the related area that could be called upon for peer review. Please be aware of any conflicts of interest which could include but are not limited to the below:
+The reviewer should have no prior knowledge of your submission;
+The reviewer should not have recently collaborated with any of the authors;
+Reviewer nominees from the same institution as any of the authors are not permitted;
+Only suggested reviewers who have an academic and/or institutional email address will be considered. Email addresses with generic domain names (Gmail, Hotmail, Yahoo, AOL, etc.) will be disregarded.
+Please note that the editor retains the sole right to decide whether or not the suggested reviewers are used. For more information please visit our Support site.
+Article transfer service
+Virologica Sinica is part of Elsevier Article Transfer Service. This means that if the Editor feels your article is more suitable in one of Elsevier other participating journals, then you may be asked to consider transferring the article to one of those. If you agree, your article will be transferred automatically on your behalf with no need to reformat. Please note that your article will be reviewed again by the new journal. More information can be viewed here
+Elsevier researcher academy
+Researcher Academy is a free e-learning platform designed to support early and mid-career researchers throughout their research journey. The "Learn" environment at Researcher Academy offers several interactive modules, webinars, downloadable guides and resources to guide you through the process of writing for research and going through peer review. Feel free to use these free resources to improve your submission and navigate the publication process with ease.
+Preparation
+Editorial policies
+For general information on Editorial Policies for journal publication refer to https://www.keaipublishing.com/en/editors/editorial-policies/
+Essential title page information
+Title. Concise and informative. Titles are often used in information-retrieval systems. Avoid abbreviations and formulae where possible.
+Author names and affiliations. Please clearly indicate the given name(s) and family name(s) of each author and check that all names are accurately spelled. You can add your name between parentheses in your own script behind the English transliteration. Present the authors' affiliation addresses (where the actual work was done) below the names. Indicate all affiliations with superscript Arabic numerals immediately after the author's name and in front of the appropriate address. Provide the full postal address of each affiliation, including the city name, postcode, country name and, if available, the e-mail address of each author. Use the superscript "#" to present the authors contributing equally to the work.
+Corresponding author. Clearly indicate who will handle correspondence at all stages of refereeing and publication, also post-publication with a superscript "*" after corresponding author(s) name. This responsibility includes answering any future queries about Methodology and Materials. Ensure that the e-mail address and ORCID are given and that contact details are kept up to date by the corresponding author.
+Present/permanent address. If an author has moved since the work described in the article was done, or was visiting at the time, a "Present address" (or "Permanent address") may be indicated as a footnote to that author's name. The address at which the author actually did the work must be retained as the main, affiliation address. Superscript Arabic numerals are used for such footnotes.
+Highlights
+Highlights are mandatory for Virologica Sinica. They consist of a short collection of bullet points that convey the core findings of the article and should be submitted in a separate editable file in the online submission system. Please add 3 to 5 bullet points (maximum 85 characters, including spaces, per bullet point).
+Abstract
+A concise and factual abstract no more than 250 words is required. The abstract should state briefly the purpose of the research, the principal results and major conclusions. An abstract is often presented separately from the article, so it must be able to stand alone. For this reason, references should be avoided, but if essential, then cite the author(s) and year(s). Also, non-standard or uncommon abbreviations should be avoided, but if essential they must be defined at their first mention in the abstract itself.
+Keywords
+Immediately after the abstract, provide a maximum of 6 keywords, avoiding general and plural terms and multiple concepts (avoid, for example, ?and?, ?of?). Be sparing with abbreviations: only abbreviations firmly established in the field may be eligible. These keywords will be used for indexing purposes.
+Article structure
+This section describes the article structure for this journal.
+Sections
+Divide your article into clearly defined and numbered sections. Subsections should be numbered 1.1 (then 1.1.1, 1.1.2, ...), 1.2, etc. (the abstract is not included in section numbering). Use this numbering also for internal cross-referencing: do not just refer to 'the text'. Any subsection may be given a brief heading. Each heading should appear on its own separate line.
+Introduction
+State the objectives of the work and provide an adequate background, avoiding a detailed literature survey or a summary of the results.
+Materials and methods
+Provide sufficient details to allow the work to be reproduced by an independent researcher. Methods that are already published should be summarized, and indicated by a reference. If quoting directly from a previously published method, use quotation marks and also cite the source. Any modifications to existing methods should also be described. Product code, producer and country of origin are required for reagents and equipments. Hyperlink and access date should be included for online resource. Version information and parameter setting are needed for softwares.
+Results
+Results should present the experimental data in tables and/or figures with suitable, clear and concise descriptions. Number the figures and tables in numerical order, like ?Fig.1, Supplementary Fig. S1, or Fig. 1A, Table 1, Supplementary Table S1?, etc., and please ensure to cite all figures and tables in main text. Quantitative results of tables and/or figures are highly encouraged.
+Discussion
+This should explore the significance of the results of the work, not repeat them.
+Conclusions
+The main conclusions of the study should be summarized in a short Conclusions section after Discussion section.
+Nomenclature
+Names used for viruses should be those approved by the International Committee on Taxonomy of Viruses (ICTV) and reported on the ICTV Virus Taxonomy website. In addition, the standard usage of virus specie names should follow recommendations of the ICTV: when the entire species is discussed as a taxonomic entity, the species name, as with other taxa, is italic and has the first letter and any proper nouns capitalized (example: Tobacco mosaic virus). When the behavior or manipulation of individual viruses is discussed, the vernacular (example: tobacco mosaic virus) should be used.
+According to ICTV code released in October 2018, a virus name should never be italicized, even when it includes the name of a host species or genus, and should be written in lower case, such as Autographa californica multiple nucleopolyhedrovirus (AcMNPV), Bombyx mori nucleopolyhedrovirus (BmNPV). This ensures that it is distinguishable from a species name, which otherwise might be identical. The first letters of words in a virus name, including the first word, should only begin with a capital when these words are proper nouns (including host genus names but not virus genus names) or start a sentence. Single letters in virus names, including alphanumerical strain designations, may be capitalized. In most texts, virus names are used much more frequently than species names and may, therefore, be abbreviated. Examples: "Isolates of dengue virus 2 were obtained ...", "Detection of West Nile virus in human serum ...", "Salmonella phage SE1 was isolated ...", "Sida ciliaris golden mosaic virus (SCGMV) causes ...", "Aphids transmit potato virus Y (PVY)".
+Genes, mutations, genotypes, and alleles should be italicized while proteins should be set in roman type.
+Abbreviation
+Define abbreviations that are unavoidable in this field must be defined at their first mention and ensure the consistency of abbreviations throughout the article. Example: ?full name (abbreviation)?.
+Units
+Follow internationally accepted rules and conventions: use the international system of units (SI). If other units are mentioned, please give their equivalent in SI.
+Math formulae
+Please submit math equations as editable text and not as images. Present simple formulae in line with normal text where possible and use the solidus (/) instead of a horizontal line for small fractional terms, e.g., X/Y. In principle, variables are to be presented in italics. Powers of e are often more conveniently denoted by exp. Number consecutively any equations that have to be displayed separately from the text (if referred to explicitly in the text).
+Data policy
+We strongly recommend you to share data that supports your research publication where appropriate, and enables you to interlink the data with your published articles. Research data refers to the results of observations or experimentation that validate research findings. To facilitate reproducibility and data reuse, we also encourages you to share your software, code, models, algorithms, protocols, methods and other useful materials related to the project. For more information about the data policy of the journal, please click here.
+Data availability
+Please make a statement about the availability of your data when submitting your manuscript in one of the following ways. The statement will appear with your published article on ScienceDirect. For more information, visit the Data Statement page
+If you have made your research data available in a data repository, please provide the repository name, such as Science Data Bank: https://www.scidb.cn/en), the hyperlinks, and any conditions of reuse (eg. licence, embargo).
+If data are available upon reasonable request, please state what the data are, who the data are available from, and their publishable contact details.
+All the data generated during the current study are included in the manuscript.
+Acknowledgements
+Collate acknowledgements in a separate section at the end of the article before the references. List here those individuals who provided help during the research (e.g., providing language help, writing assistance or proof reading the article, etc.).
+List funding sources in this standard way to facilitate compliance to funder's requirements:
+This work was supported by the National Institutes of Health (grant numbers xxxx, yyyy); the Bill & Melinda Gates Foundation, Seattle, WA (grant number zzzz); and the United States Institutes of Peace (grant number aaaa).
+It is not necessary to include detailed descriptions on the program or type of grants and awards. When funding is from a block grant or other resources available to a university, college, or other research institution, submit the name of the institute or organization that provided the funding.
+If no funding has been provided for the research, please include the following sentence:
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
+Artwork
+This section describes the artwork for this journal.
+Image Manipulation
+Whilst it is accepted that authors sometimes need to manipulate images for clarity, manipulation for purposes of deception or fraud will be seen as scientific ethical abuse and will be dealt with accordingly. For graphical images, Virologica Sinica is applying the following policy: no specific feature within an image may be enhanced, obscured, moved, removed, or introduced. Adjustments of brightness, contrast, or color balance are acceptable if and as long as they do not obscure or eliminate any information present in the original. Nonlinear adjustments (e.g. changes to gamma settings) must be disclosed in the figure legend.
+General points
+Make sure you use uniform lettering and sizing of your original artwork.
+Embed the used fonts if the application provides that option.
+Use the following font and font size in your illustrations: Arial, 11 pt for capitals labeling each sub-figure, 6-8 pt for other words in the illustrations to ensure legibility. Please do not use bold.
+Number the illustrations according to their sequence in the text.
+Use a logical naming convention for your artwork files.
+Provide captions to illustrations separately.
+Size the illustrations close to the desired dimensions of the published version.
+Submit each illustration as a separate file.
+Ensure that color images are accessible to all, including those with impaired color vision.
+A detailed guide on electronic artwork is available.
+You are urged to visit this site; some excerpts from the detailed information are given here.
+Formats
+If your electronic artwork is created in a Microsoft Office application (Word, PowerPoint, Excel) then please supply "as is" in the native document format. Regardless of the application used other than Microsoft Office, when your electronic artwork is finalized, please "Save as" or convert the images to one of the following formats: TIFF, EPS, PDF, AI, PSD and JPEG.
+Note the resolution requirements for line drawings, halftones, and line/halftone combinations given below:
+Color or grayscale photographs (halftones), 300 dpi.
+Bitmapped (pure black & white pixels) line drawings, 1200 dpi.
+Combinations bitmapped line/half-tone (color or grayscale), 600 dpi.
+Please do not:
+Supply files that are optimized for screen use (e.g., GIF, BMP, PICT, WPG); these typically have a low number of pixels and limited set of colors;
+Supply files that are too low in resolution;
+Submit graphics that are disproportionately large for the content.
+Color artwork
+Please make sure that artwork files are in an acceptable format and with the correct resolution mentioned above. If, together with your accepted article, you submit usable color figures then Elsevier will ensure, at no additional charge, that these figures will appear in color online (e.g., ScienceDirect and other sites) regardless of whether or not these illustrations are reproduced in color in the printed version. Further information on the preparation of electronic artwork
+Figure captions
+Ensure that each illustration has a caption. Supply captions at the end of the main text, not attached to the figure. A caption should comprise a brief title (not on the figure itself) and a description of the illustration. Keep text in the illustrations themselves to a minimum and explain all symbols and abbreviations used in captions.
+Tables
+Please submit tables as editable text and not as images. Tables can be placed on separate page(s) at the end of the main text. Number tables consecutively in accordance with their appearance in the text and place any table notes below the table body. Be sparing in the use of tables and ensure that the data presented in them do not duplicate results described elsewhere in the article. Please avoid using vertical rules and shading in table cells.
+References
+This section describes the references for this journal.
+Citation in text
+Please ensure that every reference cited in the text is also present in the reference list (and vice versa). Any references cited in the abstract must be given in full. Unpublished results and personal communications are not recommended in the reference list, but may be mentioned in the text. If these references are included in the reference list they should follow the standard reference style of the journal and should include a substitution of the publication date with either "Unpublished results" or "Personal communication". Citation of a reference as "in press" implies that the item has been accepted for publication.
+Example: "as demonstrated (Zhang et al., 2020; Wang and Li, 2020; Liu, 2020a, 2020b)", "Zhang et al. (2000) have recently shown?".
+Reference links
+Increased discoverability of research and high-quality peer review are ensured by online links to the sources cited. In order to allow us to create links to abstracting and indexing services, such as Scopus, CrossRef and PubMed, please ensure that data provided in the references are correct. Please note that incorrect surnames, journal/book titles, publication year and pagination may prevent link creation. When copying references, please be careful as they may already contain errors. Use of the DOI is highly encouraged.
+Example:
+Turlewicz-Podbielska, H., Pomorska-Mol, M., 2021. Porcine Coronaviruses: Overview of the State of the Art. Virol. Sin. 36, 833-851.
+Su, L., Gao, Y., Zhang, M., Liu, Z., Lin, Q., Gong, L., Guo, J., Chen, L., An, T., Chen, J., 2021. Andrographolide and Its Derivative Potassium Dehydrographolide Succinate Suppress PRRSV Replication in Primary and Established Cells via Differential Mechanisms of Action. Virol. Sin. https://doi.org/10.1007/s12250-021-00455-y
+Please note the format of such citations should be in the same style as all other references in the paper.
+Web references
+As a minimum, the full URL should be given and the date when the reference was last accessed. Any further information, if known (DOI, author names, dates, reference to a source publication, etc.), should also be given.
+Example:
+Cancer Research UK, 1975. Cancer statistics reports for the UK. http://www.cancerresearchuk.org/aboutcancer/statistics/cancerstatsreport/ (accessed 13 March 2003).
+Book and chapter
+Author name, publishing date, book name, publisher information and page are needed. Chapter name is optional.
+Example:
+Strunk Jr., W., White, E.B., 1979. The Elements of Style, third ed. Macmillan, New York.
+Mettam, G.R., Adams, L.B., 1999. How to prepare an electronic version of your article, in: Jones, B.S., Smith, R.Z. (Eds.), Introduction to the Electronic Age. E-Publishing Inc., New York, pp. 281-304.
+Data references
+This journal encourages you to cite underlying or relevant datasets in your manuscript by citing them in your text and including a data reference in your Reference List. Data references should include the following elements: author name(s), dataset title, data repository, version (where available), year, and global persistent identifier. Add [dataset] immediately before the reference so we can properly identify it as a data reference. The [dataset] identifier will not appear in your published article.
+Example:
+Oguro, M., Imahiro, S., Saito, S., Nakashizuka, T., 2015. Mortality data for Japanese oak wilt disease and surrounding forest compositions. Mendeley Data, v1. http://dx.doi.org/10.17632/xwj98nb39r.1
+Reference to arXiv
+As with unpublished results and personal communications, references to arXiv documents are not recommended in the reference list. Please make every effort to obtain the full reference of the published version of an arXiv document. If a reference to an arXiv document must be included in the references list it should follow the standard reference style of the journal and should include a substitution of the volume and page numbers with "arXiv:YYMM.NNNN" or "arXiv:arch-ive/YYMMNNN" for articles submitted to arXiv before April 2007.
+Preprint references
+Where a preprint has subsequently become available as a peer-reviewed publication, the formal publication should be used as the reference. If there are preprints that are central to your work or that cover crucial developments in the topic, but are not yet formally published, these may be referenced. Preprints should be clearly marked as such, for example by including the word preprint, or the name of the preprint server, as part of the reference. The preprint DOI should also be provided.
+Reference management software
+Most Elsevier journals have their reference template available in many of the most popular reference management software products. These include all products that support Citation Style Language styles, such as Mendeley. Using citation plug-ins from these products, authors only need to select the appropriate journal template when preparing their article, after which citations and bibliographies will be automatically formatted in the journal's style. If no template is yet available for this journal, please follow the format of the sample references and citations as shown in this Guide. If you use reference management software, please ensure that you remove all field codes before submitting the electronic manuscript. More information on how to remove field codes from different reference management software.
+Virologica Sinica follows the "Elsevier - Harvard (with titles)" style. To add the style (elsevier-harvard.csl) into your Mendeley (download here), please (1) copy this file into "Mendeley Desktop\citationStyles-1.0" folder or (2) open the "Mendeley Desktop"→"View"→ "Citation Style"→ "More Styles"→ search "Elsevier - Harvard (with titles)"→ click "Done".
+To format inserted references using Virologica Sinica style in Microsoft Word, please use "Insert Citation" for citation in text and "Insert Bibliography" for reference list selecting "Elsevier - Harvard (with titles)" style.
+Journal abbreviations source
+Journal names should be abbreviated according to the List of Title Word Abbreviations.
+Video
+Elsevier accepts video material and animation sequences to support and enhance your scientific research. Authors who have video or animation files that they wish to submit with their article are strongly encouraged to include links to these within the body of the article. This can be done in the same way as a figure or table by referring to the video or animation content and noting in the body text where it should be placed. All submitted files should be properly labeled so that they directly relate to the video file's content. In order to ensure that your video or animation material is directly usable, please provide the file in one of our recommended file formats with a preferred maximum size of 150 MB per file, 1 GB in total. Video and animation files supplied will be published online in the electronic version of your article in Elsevier Web products, including ScienceDirect. Please supply 'stills' with your files: you can choose any frame from the video or animation or make a separate image. These will be used instead of standard icons and will personalize the link to your video data. For more detailed instructions please visit our video instruction pages. Note: since video and animation cannot be embedded in the print version of the journal, please provide text for both the electronic and the print version for the portions of the article that refer to this content.
+Data visualization
+Include interactive data visualizations in your publication and let your readers interact and engage more closely with your research. Follow the instructions here to find out about available data visualization options and how to include them with your article.
+Supplementary material
+Supplementary material such as applications, images and sound clips, can be published with your article to enhance it. Submitted supplementary items are published exactly as they are received (Excel or PowerPoint files will appear as such online). Please submit your material together with the article and supply a concise, descriptive caption for each supplementary file. If you wish to make changes to supplementary material during any stage of the process, please make sure to provide an updated file. Do not annotate any corrections on a previous version. Please switch off the 'Track Changes' option in Microsoft Office files as these will appear in the published version.
+After acceptance
+Preproof publication
+To accelerate article publishing, Virologica Sinica adopts the preproof publication mode. This means the final version of the accepted article, which has not yet been typeset or proofread, will be published and available on the ScienceDirect platform soon upon acceptance. A Digital Object Identifier (DOI) is allocated, thereby making it fully citable and searchable by title, author name(s) and the full text. The preproof version will also carry a disclaimer stating that the article is in press. After subsequent production stages, the typeset and proofread version will replace the preproof version.
+Online proof correction
+Corresponding authors will receive an e-mail with a link to our online proofing system, allowing annotation and correction of proofs online. The environment is similar to MS Word: in addition to editing text, you can also comment on figures/tables and answer questions from the Copy Editor. Web-based proofing provides a faster and less error-prone process by allowing you to directly type your corrections, eliminating the potential introduction of errors.
+If preferred, you can still choose to annotate and upload your edits on the PDF version. All instructions for proofing will be given in the e-mail we send to authors, including alternative methods to the online version and PDF.
+We will do everything possible to get your article published quickly and accurately. Please use this proof only for checking the typesetting, editing, completeness and correctness of the text, tables and figures. Significant changes to the article as accepted for publication will only be considered at this stage with permission from the Editor. It is important to ensure that all corrections are sent back to us in one communication. Please check carefully before replying, as inclusion of any subsequent corrections cannot be guaranteed. Proofreading is solely your responsibility.
+Author inquiries
+Author Inquiries
+Visit the Elsevier Support Center to find the answers you need. Here you will find everything from Frequently Asked Questions to ways to get in touch.
+You can also check the status of your submitted article or find out when your accepted article will be published.
+Author Inquiries
+You can check the status of your submitted article via submission system. If there is any question, please contact Editorial Office:
+E-mail address: virologica@wh.iov.cn; telephone: +86-27-87199157.
+Stay Informed
+Register your interest and receive email alerts tailored to your needs. Sign up below.
+First name *
+Surname *
+Email address *
+Subject area *
+KeAi may contact you to share the latest updates about products, services, promotions, and events. If you do not wish to receive such messages, please check this box.

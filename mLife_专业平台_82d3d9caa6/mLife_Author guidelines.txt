@@ -1,0 +1,293 @@
+期刊: mLife
+来源: https://journal.hep.com.cn/mlife/EN/guidelines
+标题: Author guidelines
+
+Home
+Journals
+Subscription
+Submission
+Metrics
+Top read articles on mendeley
+Editorial policy
+Open access
+About us
+Adv search
+About the journal
+Aims & scope
+Cover gallery
+Contact us
+Browse
+Latest issue
+All volumes and issues
+Most accessed
+Most cited
+Authors & reviewers
+Online submisson
+Guidelines for authors
+Guidelines for authors
+CONTENTS
+Aims and Scope
+Submission and Peer Review Process
+Article Types
+After Acceptance
+Appendix
+1. Aims and Scope
+mLife is an open access microbiology journal sponsored by the Institute of Microbiology of the Chinese Academy of Sciences and the Chinese Society for Microbiology. The journal publishes novel and high-impact discoveries in a wide spectrum of microbiological disciplines including, but not limited to, the following:
+Biodiversity, Ecology & Evolution
+Biochemistry, Genetics & Molecular Biology
+Metabolism & Physiology
+Pathogenesis & Immunity
+Public Health Microbiology & Infection Control
+Inter-microbe & Microbe-Host Interactions
+Microbiomes
+Environmental Microbiology
+Geomicrobiology
+Bioinformatics & Data Sciences
+Synthetic Biology & Biotechnology
+Methods & Instrumentation
+2. Submission and Peer Review Process
+Once the submission materials have been prepared in accordance with the Author Guidelines, manuscripts should be submitted online at https://mc.manuscriptcentral.com/mlife.
+For help with submissions, please contact: [email protected].
+This journal does not charge submission fees.
+Free Format submission
+mLife now offers Free Format submission for a simplified and streamlined submission process.
+Before you submit, you will need:
+Your manuscript: this should be an editable file including text, figures, and tables, or separate files—whichever you prefer. All required sections should be contained in your manuscript, including abstract, introduction, methods, results, and conclusions. Figures and tables should have legends. Figures should be uploaded in the highest resolution possible. If the figures are not of sufficiently high quality your manuscript may be delayed. References may be submitted in any style or format, as long as it is consistent throughout the manuscript. Supporting information should be submitted in separate files. If the manuscript, figures or tables are difficult for you to read, they will also be difficult for the editors and reviewers, and the editorial office will send it back to you for revision. Your manuscript may also be sent back to you for revision if the quality of English language is poor.
+An ORCID ID, freely available at https://orcid.org. (Why is this important? Your article, if accepted and published, will be attached to your ORCID profile. Institutions and funders are increasingly requiring authors to have ORCID IDs.)
+The title page of the manuscript, including:
+Your co-author details, including affiliation and email address. (Why is this important? We need to keep all co-authors informed of the outcome of the peer review process.)
+Statements relating to our ethics and integrity policies, which may include any of the following (Why are these important? We need to uphold rigorous ethical standards for the research we consider for publication):
+data availability statement
+funding statement
+conflict of interest disclosure
+ethics approval statement
+patient consent statement
+permission to reproduce material from other sources
+clinical trial registration
+Title Page
+The title page should contain:
+A brief informative title of fewer than 90 characters
+The full names of the authors;
+The author's institutional affiliations where the work was conducted, with a footnote for the author’s present address if different from where the work was conducted;
+Corresponding author(s) and email address(es).
+Acknowledgments
+Main Text File
+The main text file should be in Word format.
+The main document file should be prepared as follows.
+Abstract
+It is a separate paragraph to summarize problem statement, the objective, the method taken, the major findings, and the significance or implications of the results. The length is less than 250 words.
+Impact Statement
+The authors should present an Impact Statement before the main text, IN LAY LANGUAGE, highlighting the novelty and significance to a broad audience. The length is less than 100 words.
+Keywords
+A maximum of five keywords should be listed below the Impact Statement.
+Introduction
+This section is to introduce the background, knowledge gaps, questions, hypotheses, and the objectives of the research.
+Results
+This section is to provide a summary of the main findings of the research.
+Discussion
+This section should summarize the main results, describe the relations to other work and highlight the novelty and significance of the research. The results and discussion can be combined if it is better for presentation.
+Materials and methods
+This section is to introduce the materials, standard procedures, appropriate methods, statistical methods, etc. All novel materials and the procedures should be described in sufficient detail to allow their reproduction.
+Acknowledgments
+The authors should acknowledge persons who have contributed to the work presented but do not meet the criteria for authorship. In addition, the funding agencies and the grants directly supporting the work should be listed.
+References
+All references directly related to this article should be honestly cited and listed. In the main text, the references should be numbered in the order in which they are cited.
+This journal uses Vancouver reference style; as the journal offers Free Format submission, however, this is for information only and you do not need to format the references in your article. This will instead be taken care of by the typesetter.
+If you wish to review the reference style guidelines please click here.
+Please see the below examples:
+Journal article:
+Print Article with 1 to 6 authors:
+Petitti DB, Crooks VC, Buckwalter JG, Chiu V. Blood pressure levels before dementia. Arch Neurol. 2005;62:112-6.
+Print Article with more than 6 authors:
+Hallal AH, Amortegui JD, Jeroukhimov IM, Casillas J, Schulman CI, Manning RJ, et al. Magnetic resonance cholangiopancreatography accurately detects common bile duct stones in resolving gallstone pancreatitis. J Am Coll Surg. 2005;200:869-75.
+Electronic journal article with DOI:
+Kanneganti P, Harris JD, Brophy RH, Carey JL, Lattermann C, Flanigan DC. The effect of smoking on ligament and cartilage surgery in the knee: a systematic review. Am J Sports Med [Internet]. 2012 Dec [cited 2013 Feb 19];40(12):2872-8. Available from: http://ajs.sagepub.com/content/40/12/2872 DOI: 10.1177/0363546512458223.
+Print book:
+Carlson BM. Human embryology and developmental biology. 4th ed. St. Louis: Mosby; 2009. 541 p.
+Electronic book:
+Shreeve DF. Reactive attachment disorder: a case-based approach [Internet]. New York: Springer; 2012 [cited 2012 Nov 2]. 85 p. Available from: 5. http://ezproxy.lib.monash.edu.au/ login?url=http://dx.doi.org/10.1007/978-1-4614-1647-0
+Chapter in an edited book:
+Blaxter PS, Farnsworth TP. Social health and class inequalities. In: Carter C, Peel JR, editors. Equalities and inequalities in health. 2nd ed. London: Academic Press; 1976. p. 165-78.
+Chapter in an edited electronic book:
+Halpen-Felsher BL, Morrell HE. Preventing and reducing tobacco use. In: Berlan ED, Bravender T, editors. Adolescent medicine today: a guide to caring for the adolescent patient [Internet]. Singapore: World Scientific Publishing Co.; 2012 [cited 2012 Nov 3]. Chapter 18. Available from: http://www.worldscientific.com/doi/pdf/10.1142/9789814324496_0018.
+Tables
+Tables should follow the main text and should not be presented as images. All tables should be numbered and cited in the main text. A title is required for each table and the table notes should be put below the table body if necessary.
+Figure legends
+Figure legends should be concise and the interpretations should be complete, which is typically less than 300 words. Figure caption is required for each figure.
+Figures
+Figures should follow the Figure legends. Please review the basic figure requirements for manuscripts for peer review, as well as the more detailed post-acceptance figure requirements. It is advised to use composite figures to illustrate the main findings. The font and word size of labeling in the figures should be consistent for each panel and each figure. All figures should be numbered and cited in the main text. View Wiley’s FAQs on supporting information.
+Supporting Information
+Supporting information includes supplementary text, detailed materials and methods, additional Figures and Tables, and references.
+Peer Review
+This journal operates under a single-blind peer review model. Papers will only be sent to review if the Editor-in-Chief determines that the paper meets the appropriate quality and relevance requirements.
+In-house submissions, i.e. papers authored by Editors or Editorial Board members of the title, will be sent to Editors unaffiliated with the author or institution and monitored carefully to ensure there is no peer review bias.
+Wiley's policy on the confidentiality of the review process is available here.
+Article Preparation Support
+Wiley Editing Services offers expert help with English Language Editing, as well as translation, manuscript formatting, figure illustration, figure formatting, and graphical abstract design – so you can submit your manuscript with confidence.
+Also, check out our resources for Preparing Your Article for general guidance about writing and preparing your manuscript.
+Preprint Policy
+Please find the Wiley preprint policy here.
+This journal accepts articles previously published on preprint servers. Authors are requested to update any pre-publication versions with a link to the final published article, and may also post the final published version of the article immediately after publication.
+Data Sharing and Data Availability
+This journal encourages data sharing. Review Wiley’s Data Sharing policy where you will be able to see and select the data availability statement that is right for your submission.
+Data Citation
+Please review Wiley’s Data Citation policy.
+Data Protection
+By submitting a manuscript to or reviewing for this publication, your name, email address, and affiliation, and other contact details the publication might require, will be used for the regular operations of the publication. Please review Wiley’s Data Protection Policy to learn more.
+Funding
+You should list all funding sources in the Acknowledgments section. You are responsible for the accuracy of their funder designation. If in doubt, please check the Open Funder Registry for the correct nomenclature.
+Authorship
+All listed authors should have contributed to the manuscript substantially and have agreed to the final submitted version. Review editorial standards and scroll down for a description of authorship criteria.
+ORCID
+This journal encourages authors to provide ORCID. Please refer to Wiley’s resources on ORCID.
+Refer and Transfer Program
+Wiley believes that no valuable research should go unshared. This journal participates in Wiley’s Refer & Transfer program. If your manuscript is not accepted, you may receive a recommendation to transfer your manuscript to another suitable Wiley journal, either through a referral from the journal’s editor or through our Transfer Desk Assistant.
+Reproduction of Copyright Material
+If excerpts from copyrighted works owned by third parties are included, credit must be shown in the contribution. It is your responsibility to also obtain written permission for reproduction from the copyright owners. For more information visit Wiley’s Copyright Terms & Conditions FAQ.
+The corresponding author is responsible for obtaining written permission to reproduce the material "in print and other media" from the publisher of the original source, and for supplying Wiley with that permission upon submission.
+Guidelines on Publishing and Research Ethics in mLife Articles
+The journal requires that authors include in the manuscript details IRB approvals, ethical treatment of human and animal research participants, and gathering of informed consent, as appropriate. You will be expected to declare all conflicts of interest, or none, on submission. Please review Wiley’s policies regarding human studies, animal studies, clinical trial registration, biosecurity, and research reporting guidelines.
+This journal follows the core practices of the Committee on Publication Ethics (COPE) and handles cases of research and publication misconduct accordingly (https://publicationethics.org/core-practices).
+This journal uses iThenticate’s CrossCheck software to detect instances of overlapping and similar text in submitted manuscripts. Read Wiley’s Top 10 Publishing Ethics Tips for Authors and Wiley’s Publication Ethics Guidelines.
+Author Contributions
+For all Original Research, Method, Resources, Correspondence and Application Note, the journal mandates the CRediT (Contribution Roles Taxonomy)—more information is available on our Author Services site.
+3. Article Types
+mLife welcomes submissions in the following article types: Original Research, Review, Method, Correspondence, Editorial, Perspective, News and Views, Tools and Resource, Hypothesis, Meeting Report, Microbiologist, etc.
+Original Research
+Original Research should present original novel discoveries and represent a major advance in the general field of microbiology. It should be organized in the order as described in the Main Text File above.
+Correspondence
+Correspondence is a short article for communicating findings on par in novelty and significance, but not in quantity, with those in a regular research article. One composite figure and/or one table is allowed to show the main results. For this article type, abstract is not required, but the Impact Statement (less than 150 words) should be provided. Materials and methods, Supplementary figures, tables, and other data should be in the Supporting information section. The length of main text (excluding references and figure/table) should not exceed 2000 words and the number of references should not exceed 20. The authors' names and their affiliation(s) should be put at the end of the text.
+Review
+Review article should focus on a topic of interest to a broad audience in the field of microbiology. The topic should be related to the authors’ areas of research. It should be organized in the following order: Title page, Abstract, Keywords, Introduction, Subtopics, Concluding Remarks (Perspectives), Acknowledgments, References, Figure legends, Figures, and Tables. At least one figure and/or one table should be provided. A review article should preferably be 5,000-10,000 words in length.
+Editorial
+Editorial is only contributed by the editorial board of mLife. Free submission is not considered.
+Perspective
+Authors may present their perspectives on an important topic in the field of microbiology. The length of the main text body (excluding references and figures/tables) should not exceed 3000 words, and the total number of references should be fewer than 50.
+News and Views
+Authors may offer their views or opinions on a specific topic in the field of microbiology. The length of the main text body (excluding references and figures/tables) is about 2000 words, and the total reference number is less than 25.
+4. After Acceptance
+First Look
+After your paper is accepted, your files will be assessed by the editorial office to ensure they are ready for production. You may be contacted if any updates or files are required. Otherwise, your paper will be sent to the production team.
+Wiley Author Services
+When an accepted article is received by Wiley’s production team, the corresponding author(s) will receive an email asking them to login or register with Wiley Author Services.
+Copyright & Licensing
+mLife is an Open Access journal: accepted papers are published under a CC-BY Creative Commons license. Note that certain funders mandate a particular type of CC license be used.
+Proofs
+Authors will receive an e-mail notification with a link and instructions for accessing HTML page proofs online, with their proof included as a pdf. Proofs must be returned within 48 hours of receipt of the email. Authors should ensure that any renumbered tables, figures or references match text citations and that figure legends correspond with text citations and actual figures.
+Article Promotion Support
+Wiley Editing Services offers professional video, design, and writing services to create shareable video abstracts, infographics, conference posters, lay summaries, and research news stories for your research – so you can help your research get the attention it deserves.
+Author Name Change Policy
+In cases where authors wish to change their name following publication, Wiley will update and republish the paper and redeliver the updated metadata to indexing services. Our editorial and production teams will use discretion in recognizing that name changes may be of a sensitive and private nature for various reasons including (but not limited to) alignment with gender identity, or as a result of marriage, divorce, or religious conversion. Accordingly, to protect the author’s privacy, we will not publish a correction notice to the paper, and we will not notify co-authors of the change. Authors should contact the journal’s Editorial Office with their name change request.
+Publication Charges
+The publication charges including color figures and page charges are waived. Article Publication Charges (APCs) are currently waived. For more information on this journal’s APCs, please see the Open Access page.
+5. Appendix
+Open Research Badges
+This journal is part of Wiley’s Open Research Badges program.
+Resource Identification Initiative
+The journal supports the Resource Identification Initiative, which aims to promote research resource identification, discovery, and reuse. This initiative, led by the Neuroscience Information Framework and the Oregon Health & Science University Library, provides unique identifiers for antibodies, model organisms, cell lines, and tools including software and databases. These IDs, called Research Resource Identifiers (RRIDs), are machine-readable and can be used to search for all papers where a particular resource was used and to increase access to critical data to help researchers identify suitable reagents and tools.
+You will be asked to use RRIDs to cite the resources used in your research where applicable in the text, similar to a regular citation or GenBank Accession number. For antibodies, you should include in the citation the vendor, catalogue number, and RRID both in the text upon first mention in the Methods section. For software tools and databases, please provide the name of the resource followed by the resource website, if available, and the RRID. For model organisms, the RRID alone is sufficient.
+To Obtain Research Resource Identifiers (RRIDs):
+Use the Resource Identification Portal, created by the Resource Identification Initiative Working Group.
+Search for the research resource (please see the section titled “Search Features and Tips” for more information).
+Click on the “Cite This” button to obtain the citation and insert the citation into the manuscript text.
+If there is a resource that is not found within the Resource Identification Portal, you are asked to register the resource with the appropriate resource authority. Information on how to do this is provided in the “Resource Citation Guidelines” section of the Portal.
+If any difficulties in obtaining identifiers arise, please contact [email protected] for assistance.
+Example Citations:
+Antibodies: "Wnt3 was localized using a rabbit polyclonal antibody C64F2 against Wnt3 (Cell Signaling Technology, Cat# 2721S, RRID: AB_2215411)"
+Model Organisms: "Experiments were conducted in c. elegans strain SP304 (RRID:CGC_SP304)"
+Cell lines: "Experiments were conducted in PC12 CLS cells (CLS Cat# 500311/p701_PC-12, RRID:CVCL_0481)"
+Tools, Software, and Databases: "Image analysis was conducted with CellProfiler Image Analysis Software, V2.0 (http://www.cellprofiler.org, RRID:nif-0000-00280)"
+Species Names
+Upon its first use in the title, abstract, and text, the common name of a species should be followed by the scientific name (genus, species, and authority) in parentheses. For well-known species, however, scientific names may be omitted from article titles. If no common name exists in English, only the scientific name should be used.
+Genetic Nomenclature
+Sequence variants should be described in the text and tables using both DNA and protein designations whenever appropriate. Sequence variant nomenclature must follow the current HGVS guidelines; see varnomen.hgvs.org, where examples of acceptable nomenclature are provided.
+Sequence Data
+Nucleotide sequence data can be submitted in electronic form to any of the major collaborative databases: GSA, NMDC, DDBJ, EMBL, or GenBank. It is only necessary to submit to one database as data are exchanged between DDBJ, EMBL, and GenBank on a daily basis. The suggested wording for referring to accession-number information is: ‘These sequence data have been submitted to the GSA/NMDC/DDBJ/EMBL/GenBank databases under accession number U12345’. Data should be submitted prior to publications. Addresses are as follows:
+DNA Data Bank of Japan (DDBJ): www.ddbj.nig.ac.jp
+EMBL Nucleotide Archive: ebi.ac.uk/ena
+GenBank: www.ncbi.nlm.nih.gov/genbank
+Proteins sequence data should be submitted to one of the following repositories:
+NMDC: http://nmdc.cn/
+Protein Information Resource (PIR): pir.georgetown.edu
+SWISS-PROT: expasy.ch/sprot/sprot-top
+Structural Data
+For papers describing structural data, atomic coordinates and the associated experimental data should be deposited in the appropriate databank (see below). Please note that the data in databanks must be released, at the latest, upon publication of the article. We trust in the cooperation of our authors to ensure that atomic coordinates and experimental data are released on time.
+NMDC: http://nmdc.cn/
+Organic and organometallic compounds: Crystallographic data should not be sent as Supporting Information, but should be deposited with the Cambridge Crystallographic Data Centre (CCDC) at ccdc.cam.ac.uk/services/structure%5Fdeposit.
+Inorganic compounds: Fachinformationszentrum Karlsruhe (FIZ; fiz-karlsruhe.de).
+Proteins and nucleic acids: Protein Data Bank (rcsb.org/pdb).
+NMR spectroscopy data: BioMagResBank (bmrb.wisc.edu).
+Cover Image Submissions
+This journal accepts artwork submissions for Cover Images. This is an optional service you can use to help increase article exposure and showcase your research. For more information, including artwork guidelines, pricing, and submission details, please visit the Journal Cover Image page.
+Wiley Editing Services offers a professional cover image design service that creates eye-catching images, ready to be showcased on the journal cover.
+Additional Guidelines for Cover Pictures, Visual Abstracts, Frontispieces and Table of Contents Graphics
+Concepts illustrated in graphical material must clearly fit with the research discussed in the accompanying text.
+Images featuring depictions or representations of people must not contain any form of objectification, sexualization, stereotyping, or discrimination. We also ask authors to consider community diversity in images containing multiple depictions or representations of people.
+Inappropriate use, representation, or depiction of religious figures or imagery, and iconography should be avoided.
+Use of elements of mythology, legends, and folklore might be acceptable and will be decided on a case-by-case basis. However, these images must comply with the guidelines on human participants when they are present.
+Generally, authors should consider any sensitivities when using images of objects that might have cultural significance or may be inappropriate in the context (for example, religious texts, historical events, and depictions of people).
+Legal requirements:
+All necessary copyright permission for the reproduction of the graphical elements used in visuals must be obtained prior to publication.
+Clearance must be obtained from identifiable people before using their image on the cover or the like and such clearance must specify that it will be used on the cover. Use within text does not require such clearance unless it discloses sensitive personal information such as medical information. In all situations involving disclosure of such personal info, specific permission must be obtained. And images of individuals should not be used in a false manner.
+Graphics that do not adhere to these guidelines will be recommended for revision or will not be accepted for publication.
+Embedded Rich Media
+This journal has the option for authors to embed rich media (i.e. video and audio) within their final article. These files should be submitted with the manuscript files online, using either the “Embedded Video” or “Embedded Audio” file designation. If the video/audio includes dialogue, a transcript should be included as a separate file. The combined manuscript files, including video, audio, tables, figures, and text must not exceed 350 MB. For full guidance on accepted file types and resolution please see here.
+Ensure each file is numbered (e.g. Video 1, Video 2, etc.) Legends for the rich media files should be placed at the end of the article.
+The content of the video should not display overt product advertising. Educational presentations are encouraged.
+Any narration should be in English, if possible. A typed transcript of any speech within the video/audio should be provided. An English translation of any non-English speech should be provided in the transcript.
+All embedded rich media will be subject to peer review. Editors reserve the right to request edits to rich media files as a condition of acceptance. Contributors are asked to be succinct, and the Editors reserve the right to require shorter video/audio duration. The video/audio should be high quality (both in content and visibility/audibility). The video/audio should make a specific point; particularly, it should demonstrate the features described in the text of the manuscript.
+Participant Consent: It is the responsibility of the corresponding author to seek informed consent from any identifiable participant in the rich media files. Masking a participant’s eyes, or excluded head and shoulders is not sufficient. Please ensure that a consent form (https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/licensing-info-faqs.html) is provided for each participant.
+Author Guidelines updated 28 February 2023
+Pubdate: Jul 09, 2024 Viewed: 1140
+Latest issue
+Apr 2026, Volume 5 Issue 2
+View all volumes and issues
+Cover illustration
+Submit manuscript
+Latest articles
+Most accessed
+Collections
+SARS-CoV-2 enhances lysosomal exocytosis and deacidifies lysosomes to facilitate viral release
+Fujun Qin,Chuang Yan,Zizheng Liu,Dianbing Wang,Huimin Zhong,Qiang Ding,Minghai Chen,Xian-En Zhang
+https://doi.org/10.1002/mlf2.70065
+Direct interaction between MreB and the RodA-PBP2 complex organizes lateral cell wall synthesis in Escherichia coli
+Rui Zhan,Han Gong,Ying Li,Xiangdong Chen,Joe Lutkenhaus,Shishen Du
+https://doi.org/10.1002/mlf2.70079
+Challenging the prokaryotic MGE-defense origin of eukaryotic RNA editing
+Yuange Duan,Qiuhua Xie,Jiajia Yang,Wanzhi Cai,Hu Li
+https://doi.org/10.1002/mlf2.70084
+Novel plasmid pCM3 harboring the aph(3) gene confers phosphorylation-driven streptomycin resistance in Clavibacter michiganensis
+Xiaoli Xu,Cen Qian,Zhigang Hao,Meng Xie,Na Jiang,Jianqiang Li,Laixin Luo
+https://doi.org/10.1002/mlf2.70091
+The toxin–antitoxin complex Fic-1–AntF functions as a deAMPylase that regulates the activity of DNA gyrase
+Furong Chen,Liwei Guo,Canhua Lu,Wenjun Jiang,Zhao-Qing Luo,Junfeng Liu,Li-Qun Zhang
+https://doi.org/10.1002/mlf2.70085
+View all articles
+Cpx-mediated amino acid sensing diversifies gastrointestinal colonization of Klebsiella pneumoniae
+Danyang Li,Qiucheng Shi,Liuqing He,Jianhua Luo,Huajie Zhu,Xiaoting Hua,Yunsong Yu,Yan Jiang,Liang Tao
+https://doi.org/10.1002/mlf2.70005
+Cinnamaldehyde targets SarA to enhance β-lactam antibiotic activity against methicillin-resistant Staphylococcus aureus
+Jianguo Li,Tingyin Lu,Yuefei Chu,Yuejun Zhang,Jing Zhang,Wenzhen Fu,Jian Sun,Yahong Liu,Xiao-Ping Liao,Yu-Feng Zhou
+https://doi.org/10.1002/mlf2.12121
+Measurement of optical density of microbes by multi-light path transmission method
+Hongwei Wang,Carina M. Gu,Sujuan Xu,Hongfeng Wang,Xiaomin Zhao,Lichuan Gu
+https://doi.org/10.1002/mlf2.12147
+HPClas: A data-driven approach for identifying halophilic proteins based on catBoost
+Shantong Hu,Xiaoyu Wang,Zhikang Wang,Menghan Jiang,Shihui Wang,Wenya Wang,Jiangning Song,Guimin Zhang
+https://doi.org/10.1002/mlf2.12125
+Optimizing enzyme thermostability by combining multiple mutations using protein language model
+Jiahao Bian,Pan Tan,Ting Nie,Liang Hong,Guang-Yu Yang
+https://doi.org/10.1002/mlf2.12151
+View all articles
+View all collections
+Subscription
+E-mail alert
+Subscribe to our RSS content
+Journal updates More
+Journal updates
+2024-07-09
+Links
+Links
+ISSN 2097-1699 (Print)
+ISSN 2770-100X (Online)
+CN 101839/Q

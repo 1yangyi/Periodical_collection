@@ -1,0 +1,365 @@
+期刊: Neuroscience Bulletin
+来源: https://www.neurosci.cn/forauthors/instructionstoauthors/
+标题: Instructions for Authors
+
+Submit Manuscript
+Instructions for Authors
+Neuroscience Bulletin (NB), the official journal of the Chinese Neuroscience Society, is published monthly by the Center for Excellence in Brain Science and Intelligence Technology (CEBSIT), Chinese Academy of Sciences (CAS), and Springer. Neuroscience Bulletin aims to publish advances in the field of neuroscience and promote the exchange of scientific ideas within the community. The journal publishes original papers on various topics in neuroscience. Neuroscience Bulletin welcomes research contributions on molecular, cellular, or developmental neuroscience and neural circuits using multidisciplinary approaches and functional strategies.
+Types of Papers
+Manuscript Submission
+Manuscript Preparation
+Authorship Principles
+Editorial Procedure
+After Acceptance
+Page Charge
+Ethical Responsibilities of Authors
+Competing Interests
+Research Data Policy and Data Availability Statements
+Research Involving Animals, Their Data or Biological Material
+Research Involving Human Embryos, Gametes, and Stem Cells
+Informed Consent
+Types of Papers
+Neuroscience Bulletin considers manuscripts of the following types:
+Original Article
+Review
+Data Paper
+Insight
+Method
+Protocol
+Letter to the Editor
+Research Highlight
+All other types of articles, including correspondence, are also being considered upon enquiry. The article type should be specified in the author’s cover letter.
+Please note that NB intends to publish high-quality research articles as a major part of the journal. Short reports and articles of other formats are only considered if the research work provides a major scientific breakthrough. The number of these other articles is limited in every issue.
+Original Article
+An original article contains original research materials and presents compelling data on conceptual advances in any area of neuroscience. The total character count of all sections of the main text (including references and figure legends but excluding supplemental data) should not exceed 80,000, including spaces. Up to 8 figures and/or tables are allowed for the entire manuscript. The minimum requirement of a submitted research article is 5,000 words excluding the references and at least 6 display items (figures and tables).
+The submitted manuscript should be a substantial novel research study in all aspects of neuroscience, organizing a complete story with complex mechanisms elucidated using multiple techniques or approaches. It should provide mechanistic insights into a particular aspect of the neuroscience field. NB also welcomes clinical research investigating the pathogenesis or diagnostic markers of a disease. Please note that for clinical trials, an Informed Consent should be provided as supplemental material and stated in the main text. NB no longer accepts clinical research that lacks insightful mechanistic implications. References are limited to 100.
+Review
+Authoritative reviews contribute greatly to our journal, and we are interested in comprehensive articles well written to describe the cutting-edge development in any field of neuroscience for a general audience. The authors are expected to cover controversies in the field and propose their own viewpoints in an unbiased and justifiable way. In particular, the scope of the review should not be dominated by the authors’ own work. Reviews are usually 5,000 to 8,000 words in length (including an abstract of no more than 150 words, excluding the reference and title), and 3-6 schematic illustrations are strongly encouraged. Reviews are often contributed by research pioneers in the field and solicited by the editors. The authors are encouraged to submit a letter of inquiry before the submission.
+Data Paper
+A Data Paper is a peer-reviewed publication that focuses on describing datasets of high value to the neuroscience community, rather than reporting traditional research findings. It provides detailed descriptions of data collection, processing, and validation methods, along with comprehensive metadata to facilitate data reuse and sharing. Data Papers are currently published on a solicitation basis; authors interested in submitting a Data Paper are encouraged to contact the editorial office in advance. For detailed information on the scope of accepted data types, quality requirements, data deposition procedures, and manuscript preparation guidelines, please refer to the Data Paper Guidelines.
+Raw data must be deposited in the Neuroscience Bulletin community on Science Data Bank (ScienceDB) prior to submission.
+Insight
+For an Insight, the article should contain a discussion on recent primary research literature similar to a Review. But the main text of an Insight is shorter (no more than 2,000 words, excluding the reference and title) and focuses on a narrower scope. It is possible that in an Insight, authors advocate a position over a controversial issue or a speculative hypothesis. One schematic illustration is allowed to make the Insight more comprehensive. References are limited to 20.
+Method
+NB welcomes Method articles on novel experimental techniques in any field of basic neuroscience. The Method can be written in the Research Article format, yet the content should follow the criteria described below. The description of the method must be accompanied by its validation, its application to an important biological question, and results illustrating its performance in comparison to available approaches. The manuscript will be judged on its novelty, general interest, through assessments of methodological performance, and comprehensive technical descriptions that facilitate immediate application. The detailed step-by-step procedure must be described in the form of flow charts for readers to comprehend easily. Additional annotation for key procedures and special treatments will be encouraged. In addition, please note that NB no longer accepts Method on the neurosurgery pathway, surgical techniques, or any other clinically related technical studies.
+Protocol
+Neuroscience Bulletin welcomes the protocol paper, which is a format for step-by-step descriptions of procedures that can be followed immediately by other researchers. A protocol paper should contain sufficient information describing the experimental details, including reagents, equipment, timing, data analysis and interpretation, and necessary instructions throughout each step of an experiment. A discussion of the protocol must be included to state the advantages and limitations of the current technique. A protocol paper should include the following parts: Abstract, Keywords, Background, Procedures, Results, Discussion, Materials, reagents and equipment (including software), Declaration, References, and Supplementary information (including experimental videos is encouraged).
+Protocols are usually commissioned by the editorial office, and authors are welcome to submit suggestions for a protocol via Pre-submission Enquiries to nsb@sibs.ac.cn. The Pre-submission Enquiry must include the following parts:
+Title
+Abstract
+Previous publication(s) listed by the authors using this protocol
+Letter to the Editor
+The Letter to the Editor reports a short but exciting finding in a particular field of neuroscience with high quality and of broad interest. The letter should be brief yet concise, and no specific subsections are required. No Materials and Methods section is needed, but any technical information that the authors think is important should be submitted as supplementary materials. For a Letter to the Editor, the total word count should not exceed 2,500, and the display items should be limited to 2. References are limited to 15. No abstract and subsections are needed.
+Research Highlight
+The Research Highlight describes exciting research advances based on one breakthrough recently published. It highlights the main results of the research, emphasizes the significance, and provides further discussion or commentary on the topic. Research Highlight is up to 1,500 words in length with no more than 10 references and one or two figures. No abstract and subsections are needed.
+Back to Top ↑
+Manuscript Submission
+Submission
+Submission of a manuscript implies: that the work described has not been published before; that it is not under consideration for publication anywhere else; that its publication has been approved by all co-authors, if any, as well as by the responsible authorities – tacitly or explicitly – at the institute where the work has been carried out. The journal/publisher will not be held legally responsible should there be any claims for compensation.
+Permission
+Authors wishing to include figures, tables, or text passages that have already been published elsewhere are required to obtain permission from the copyright owner(s) for both the print and online format and to include evidence that such permission has been granted when submitting their papers. Any material received without such evidence will be assumed to originate from the authors.
+Online Submission
+Manuscripts should be submitted through our online submission system, ScholarOne Manuscripts, at: http://mc03.manuscriptcentral.com/nsb or http://www.neurosci.cn.
+Notice for Online Submission:
+You need to CREATE your own account (USER ID and PASSWORD) the first time you use this system. Then LOG ON to the server using your USER ID and PASSWORD and submit your manuscript according to the instructions provided. If you forget your USER ID or PASSWORD, please use the PASSWORD HELP, and enter your e-mail address to receive an e-mail with your account information.
+If you cannot access the online system or have any problems with online submission, please contact the Editorial Office at nsb@sibs.ac.cn.
+Author Statement
+The submitted manuscript should be accompanied by a signed “NB Author Statement (Updated Apr 2026)” stating that all the work is original, has not been published previously, and is not under consideration for publication elsewhere. The corresponding author responsible for the originality, legality and validity of the work must sign the form. Authors are expected to adhere to Authorship principles and good authorship practices to which prospective.
+Layout
+Authors can refer to a recent issue of Neuroscience Bulletin to view the general layout. The entire manuscript text should be double-spaced in 12-point Times New Roman font. All pages should be numbered consecutively. Abbreviations should be kept to a minimum. All abbreviations should be accompanied by their full names on their first appearance in the text, in parentheses. All quantities and units should be expressed according to international standards, and SI units must be used throughout.
+When an Arabic number precedes an SI unit, the unit symbol should be used rather than its full name, such as 2 s (two seconds), 2 min (2 minutes), 2 h (two hours), and 2 d (two days). Symbols are not followed by a period (e.g., min, not min.). Gene symbols should be italicized; protein products of the loci are not italicized. Nonstandard abbreviations should be defined when first used in the text. The use of abbreviations should be kept to a minimum.
+Manuscripts must be written in clear and concise English and be intelligible to a broad readership. Prior to submission, authors may benefit from having their manuscript reviewed for clarity by colleagues and/or by using one of the many English language-editing services.
+Source Files
+The manuscript file types acceptable for online submission are Word, WordPerfect, and TXT. For Figure submission, we accept JPEG, TIFF, and AI files. Required items differ for each article type and are specified during the submission process.
+Please ensure you provide all relevant editable source files at every submission and revision. Failing to submit a complete set of editable source files will result in your article not being considered for review.
+Back to Top ↑
+Manuscript Preparation
+Title Page
+The title page should include the following information.
+►Title
+A full title that is short, informative, and does not contain abbreviations. A running title of less than 50 characters, including spaces, should also be listed.
+►Author information
+The name(s) of the author(s)
+The affiliation(s) of the author(s), i.e. institution, (department), city, (state), country
+The complete address for correspondence with postal code, as well as email, and phone and fax numbers
+A clear indication and an active e-mail address of the corresponding author
+If available, the 16-digit ORCID of the author(s); Authors are recommended to use their ORCID ID when submitting an article for consideration or acquire an ORCID ID via the submission process.
+If address information is provided with the affiliation(s) it will also be published.
+For authors that are (temporarily) unaffiliated we will only capture their city and country of residence, not their e-mail address unless specifically requested.
+Large Language Models (LLMs), such as ChatGPT, do not currently satisfy our authorship criteria. Notably an attribution of authorship carries with its accountability for the work, which cannot be effectively applied to LLMs. Use of an LLM should be properly documented in the Methods section (and if a Methods section is not available, in a suitable alternative part) of the manuscript.
+Abstract
+The Abstract should be a single paragraph of no more than 150 words. It should summarize key research findings in the manuscript using concise English. It should also be comprehensible to readers before they have read the paper. Abbreviations should be avoided (as for the title). Reference citations within the Abstract are not permitted.
+Keywords
+The authors should provide 3 to 8 keywords separated by semicolons.
+Main Text
+►Introduction
+This section should provide a concise yet comprehensive summary of the background for the project. An extensive review of the literature is usually not appropriate, and the text should be succinct with no subheadings. Citation of the primary literature is required where appropriate.
+►Materials and Methods
+Sufficient experimental details are required in this section, and all experiments involving human participants must be conducted in accordance with the principles of the Declaration of Helsinki and approved by the institutional ethics committee. When experimental animals are used, this section must guarantee that the experiments were conducted in accordance with national legislation and associated guidelines and that the procedures were approved by the institutional animal care committee. Full details of any anesthetic or analgesic dose and route of administration must be given. Methods for statistical analyses and any non-standard techniques should be described and justified.
+►Results
+Results should be written in clear and concise language. Figures should be used to summarize or illustrate the important findings. Quantitative results illustrated by graphs or tables are encouraged. Subheadings are required in this section.
+►Discussion
+The discussion should deal with the interpretation of the results, accompanied by an assessment of their significance. A repeated description of the results should be avoided, and any potential implications of the results should be stated in this section.
+►Acknowledgements
+Acknowledgements should be placed at the end of the text and state the contributions of both individuals and supporting institutions. They should be as brief as courtesy allows. Grant numbers are permissible.
+►Declarations
+The declarations section should include:
+Competing Interests
+The journal requires authors to declare all competing interests in relation to their work. All submitted manuscripts must include a ‘competing interests’ section at the end of the manuscript listing all competing interests (financial and non-financial). Where authors have no competing interests, the statement should read “The author(s) declare(s) that they have no competing interests”. The Editor may ask for further information relating to competing interests.
+Editors and reviewers are also required to declare any competing interests and may be excluded from the peer review process if a competing interest exists.
+Authors’ Contribution and Agreement
+An Author Agreement is a statement to certify that all authors have seen and approved the final version of the manuscript being submitted. They warrant that the article is the authors' original work, hasn't received prior publication, and isn't under consideration for publication elsewhere.
+Ethics Approval
+The ethics approval may be included in the description of Materials and Methods.
+Research involving human participants, human material, or human data must have been performed in accordance with the Declaration of Helsinki and must have been approved by an appropriate ethics committee. A statement detailing this, including the name of the ethics committee and the reference number where appropriate, must appear in all manuscripts reporting such research. If a study has been granted an exemption from requiring ethics approval, this should also be detailed in the manuscript (including the name of the ethics committee that granted the exemption). Further information and documentation to support this should be made available to the Editor on request. Manuscripts may be rejected if the Editor considers that the research has not been carried out within an appropriate ethical framework. In rare cases, the Editor may contact the ethics committee for further information.
+If a study has not been granted ethics committee approval prior to commencing, retrospective ethics approval usually cannot be obtained, and it may not be possible to consider the manuscript for peer review. The decision on whether to proceed to peer review in such cases is at the Editor's discretion.
+Data, Material, and/or Code Availability
+A submission to the journal implies that materials described in the manuscript, including all relevant raw data, will be freely available to any researcher wishing to use them for non-commercial purposes, without breaching participant confidentiality.
+Data availability statements can take one of the following forms (or a combination of more than one if required for multiple datasets):
+The datasets generated during and/or analysed during the current study are available in the [NAME] repository, [PERSISTENT WEB LINK TO DATASETS]
+The datasets generated during and/or analysed during the current study are available from the corresponding author on reasonable request.
+All data generated or analysed during this study are included in this published article [and its supplementary information files].
+The datasets generated during and/or analysed during the current study are not publicly available due to [REASON(S) WHY DATA ARE NOT PUBLIC], but are available from the corresponding author on reasonable request.
+Data sharing not applicable to this article as no datasets were generated or analysed during the current study.
+The data that support the findings of this study are available from [THIRD PARTY NAME], but restrictions apply to the availability of these data, which were used under licence for the current study, and so are not publicly available. Data are, however, available from the authors upon reasonable request and with permission of [THIRD PARTY NAME].
+Consent to Participate (if applicable)
+Consent for Publication (if applicable)
+►References
+Place citations as numbers in superscript in the text and follow the style below. “Unpublished data”, “electronic material,” or “personal communications” should not be used as references, although written communications may be inserted in the text (in parentheses). Articles in press can be cited with the explicit permission of the corresponding author of the study. Authors are responsible for ensuring that the literature is accurately cited and discussed. The titles of journals should be abbreviated according to the “List of Journals Indexed” in Index Medicus. List all the authors up to six, but if the number exceeds six, add “et al.”.
+Please note that an endnote reference style is provided for download via this link.
+References should be numbered consecutively using Arabic numerals in the order of appearance in the text, using the following style:
+[1] Koob GF, Sanna PP, Bloom FE. Neuroscience of addiction. Neuron 1998, 21: 467–476.
+[2] Ogg S, Paradis S, Gottlieb S, Patterson GI, Lee L, Tissenbaum HA, et al. The forkhead transcription factor DAF-16 transduces insulin-like metabolic and longevity signals in C. elegans. Nature 1997, 389: 994–999.
+Example of books and other monographs:
+[3] Paxinos G, Watson G. The Rat Brain in Stereotaxic Coordinates. 4th ed. San Diego: Academic Press, 1999: 96–101.
+►Tables
+All tables are to be numbered using Arabic numerals.
+Tables should always be cited in text in consecutive numerical order.
+For each table, please supply a table caption (title) explaining the components of the table.
+Identify any previously published material by giving the original source in the form of a reference at the end of the table caption.
+Footnotes to tables should be indicated by superscript lower-case letters (or asterisks for significance values and other statistical data) and included beneath the table body.
+►Artwork and Illustrations Guidelines
+Electronic Figure Submission
+Supply all figures electronically.
+Indicate what graphics program was used to create the artwork.
+For vector graphics, the preferred format is EPS; for halftones, please use TIFF format (without layers unless otherwise required). Each figure is saved individually as a single file (not embedded in the text file).
+Vector graphics containing fonts must have the fonts embedded in the files.
+Name your figure files with "Fig" and the figure number, e.g., Fig1.eps.
+Line Art
+Definition: Black and white graphic with no shading.
+Do not use faint lines and/or lettering, and check that all lines and lettering within the figures are legible at the final size.
+All lines should be at least 0.1 mm (0.3 pt) wide.
+Scanned line drawings and line drawings in bitmap format should have a minimum resolution of 1200 dpi.
+Vector graphics containing fonts must have the fonts embedded in the files.
+Halftone Art
+Definition: Photographs, drawings, or paintings with fine shading, etc.
+If any magnification is used in the photographs, indicate this by using scale bars within the figures themselves.
+Halftones should have a minimum resolution of 300 dpi.
+Combination Art
+Definition: a combination of halftone and line art, e.g., halftones containing line drawing, extensive lettering, color diagrams, etc.
+Combination artwork should have a minimum resolution of 600 dpi.
+Color Art
+If black and white will be shown in the print version, make sure that the main information will still be visible. Many colors are not distinguishable from one another when converted to black and white. A simple way to check this is to make a xerographic copy to see if the necessary distinctions between the different colors are still apparent.
+If the figures will be printed in black and white, do not refer to color in the captions.
+Color illustrations should be submitted as RGB (8 bits per channel).
+Figure Lettering
+To add lettering, sans-serif fonts such as Helvetica or Arial shall be applied.
+Keep lettering consistently sized throughout your final-sized artwork, usually about 2–3 mm (8–12 pt).
+Variance of type size within an illustration should be minimal.
+Avoid effects such as shading, outline letters, etc.
+Figure Numbering
+All figures are to be numbered using Arabic numerals.
+Figures should always be cited in text in consecutive numerical order.
+Figure parts should be denoted by uppercase letters (A, B, C, etc.).
+If an appendix appears in your article and it contains one or more figures, continue the consecutive numbering of the main text. Do not number the appendix figures,"A1, A2, A3, etc." Figures in online appendices [Supplementary Information (SI)] should, however, be numbered separately.
+Figure Captions
+Each figure should have a concise caption describing accurately what the figure depicts. Include the captions in the text file of the manuscript, not in the figure file.
+Figure captions begin with the term Fig. in bold type, followed by the figure number, also in bold type.
+No punctuation is to be included after the number, nor is any punctuation to be placed at the end of the caption.
+Identify all elements found in the figure in the figure caption, and use boxes, circles, etc., as coordinate points in graphs.
+Identify previously published material by giving the original source in the form of a reference citation at the end of the figure caption.
+Figure Placement and Size
+Figures should be submitted within the body of the text. Only if the file size of the manuscript causes problems in uploading it, the large figures should be submitted separately from the text.
+When preparing your figures, size figures to fit in the column width.
+Figures must be submitted at the size they are to appear: 1 column (maximum width 8.5 cm), 1.5 columns (maximum width 11.6 cm), or 2 columns (maximum width 17.6 cm).
+Permissions
+If you include figures that have already been published elsewhere, you must obtain permission from the copyright owner(s) for both the print and online formats. Please be aware that some publishers do not grant electronic rights for free and that Springer or Neuroscience Bulletin will not be able to refund any costs that may have occurred to receive these permissions. In such cases, material from other sources should be used.
+Supplementary Information (SI)
+Due to space or format constraints, authors may submit additional peer-reviewed materials as supplementary information. These include figures, movies, or tables posted on the journal’s website and available to the readers upon publication. Legends explaining these results should be included. Supplementary information should help the readers to understand the paper, yet without it, the article should be complete and self-explanatory. Please refer to the supplementary items in the main text.
+Back to Top ↑
+Authorship Principles
+Authorship Clarification
+The Journal and Publisher assume all authors agreed with the content and that all gave explicit consent to submit and that they obtained consent from the responsible authorities at the institute/organization where the work has been carried out before the work is submitted.
+The Publisher does not prescribe the kinds of contributions that warrant authorship. It is recommended that authors adhere to the guidelines for authorship that are applicable in their specific research field. In absence of specific guidelines, it is recommended to adhere to the following guidelines (Based on/adapted from: ICMJE, Defining the Role of Authors and Contributors, Transparency in authors’ contributions and responsibilities to promote integrity in scientific publication, McNutt at all, PNAS February 27, 2018):
+All authors whose names appear on the submission:
+1)  made substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data; or the creation of new software used in the work;
+2) drafted the work or revised it critically for important intellectual content;
+3) approved the version to be published;
+4) agree to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
+Role of the Corresponding Author
+One author is assigned as Corresponding Author and acts on behalf of all co-authors and ensures that questions related to the accuracy or integrity of any part of the work are appropriately addressed. The Corresponding Author is responsible for the following requirements:
+1) ensuring that all listed authors have approved the manuscript before submission, including the names and order of authors;
+2) managing all communication between the Journal and all co-authors, before and after publication;*
+3) providing transparency on re-use of material and mention any unpublished material (for example manuscripts in press) included in the manuscript in a cover letter to the Editor;
+4) making sure disclosures, declarations, and transparency on data statements from all authors are included in the manuscript as appropriate (see above).
+* The requirement of managing all communication between the journal and all co-authors during submission and proofing may be delegated to a Contact or Submitting Author. In this case, please make sure the Corresponding Author is clearly indicated in the manuscript.
+Changes to Autorship
+Authors are strongly advised to ensure the correct author group, the Corresponding Author, and the order of authors at submission. Changes of authorship by adding or deleting authors, and/or changes in the Corresponding Author, and/or changes in the sequence of authors are not accepted after acceptance of a manuscript.
+Please note that author names will be published exactly as they appear on the accepted submission!
+Please make sure that the names of all authors are present and correctly spelled, and that addresses and affiliations are current.
+Adding and/or deleting authors at the revision stage is generally not permitted, but in some cases, it may be warranted. Reasons for these changes in authorship should be explained. Approval of the change during revision is at the discretion of the Editor-in-Chief.
+Authorship Issues or Disputes
+In the case of an authorship dispute during peer review or after acceptance and publication, the Journal will not be in a position to investigate or adjudicate. Authors will be asked to resolve the dispute themselves. If they are unable, the Journal reserves the right to withdraw a manuscript from the editorial process or, in case of a published paper, raise the issue with the authors’ institution(s) and abide by its guidelines.
+Confidentiality
+Authors should treat all communication with the Journal as confidential, which includes correspondence with direct representatives from the Journal, such as Editors-in-Chief and/or Handling Editors and reviewers’ reports, unless explicit consent has been received to share information.
+Back to Top ↑
+Editorial Procedure
+This journal follows a single-blind reviewing procedure.
+This journal also publishes special/guest-edited issues. The peer review process for these articles is the same as the peer review process of the journal in general.
+Additionally, if the guest editor(s) author an article in their special issue, they will not handle the peer review process.
+Upon peer review, the authors may be asked to revise the manuscript. If the authors have substantial reasons to believe that their manuscript was treated unfairly, they may appeal for reconsideration. Revision should be completed within four (minor revision) or eight weeks (major revision). The authors should provide a cover letter and point-to-point responses addressing the reviewers’ comments. The editor will notify the corresponding author upon acceptance of the manuscript. Accepted papers will be processed to advanced online publication as soon as possible.
+Back to Top ↑
+After Acceptance
+Upon acceptance, your article will be exported to Production to undergo typesetting. Once typesetting is complete, you will receive a link asking you to confirm your affiliation, choose the publishing model for your article, and arrange rights and payment of any associated publication costs.
+Once you have completed this, your article will be processed, and proofs will be sent.
+Article Publishing Agreement
+Depending on the publishing model you choose, you will either grant the Publisher an exclusive licence to publish the article (Licence to Publish form) or will be asked to transfer copyright of the article to the Publisher (Copyright Transfer Statement form).
+Proof Reading
+The purpose of the proof is to check for typesetting or conversion errors and the completeness and accuracy of the text, tables, and figures. Substantial changes in content, e.g., new results, corrected values, title, and authorship, are not allowed without the approval of the Editor.
+After online publication, further changes can only be made in the form of an Erratum, which will be hyperlinked to the article.
+Online First
+The article will be published online after receipt of the corrected proofs. This is the official first publication citable with the DOI. After the release of the printed version, the paper can also be cited by issue and page numbers.
+Back to Top ↑
+Page Charge
+Page charges for the printed form are as follows: 500 CNY (80 USD) for each text page, 800 CNY (120 USD) for each page containing black-and-white figures, 1500 CNY (250 USD) for each page containing color figures. The corresponding author will receive an invoice for all the publication-related charges once the manuscript is accepted for publication and enters the editing process.
+Make checks or money orders payable to:
+Beneficiary's Name (帐户名称): Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences (中国科学院脑科学与智能技术卓越创新中心)
+The bank account number is 4585 4835 7666, Shanghai Jianguo West Road Subbranch, Bank of China (中国银行上海市建国西路支行).
+Neuroscience Bulletin supports open access publishing and provides open access publishing as a choice. Please refer to the webpage (How to publish with us) for further information.
+Note: Page Charge is waived for author(s) who choose Open Access Publishing for their accepted manuscript.
+Back to Top ↑
+Ethical Responsibilities of Authors
+This journal is committed to upholding the integrity of the scientific record. As a member of the Committee on Publication Ethics (COPE) the journal will follow the COPE guidelines on how to deal with potential acts of misconduct.
+Authors should refrain from misrepresenting research results which could damage the trust in the journal, the professionalism of scientific authorship, and ultimately the entire scientific endeavour. Maintaining integrity of the research and its presentation is helped by following the rules of good scientific practice, which include*:
+The manuscript should not be submitted to more than one journal for simultaneous consideration.
+The submitted work should be original and should not have been published elsewhere in any form or language (partially or in full) unless the new work concerns an expansion of previous work. (Please provide transparency on the re-use of material to avoid the concerns about text-recycling (‘self-plagiarism’).
+A single study should not be split up into several parts to increase the quantity of submissions and submitted to various journals or to one journal over time (i.e. ‘salami-slicing/publishing’).
+Concurrent or secondary publication is sometimes justifiable, provided certain conditions are met. Examples include: translations or a manuscript that is intended for a different group of readers.
+Results should be presented clearly, honestly, and without fabrication, falsification or inappropriate data manipulation (including image-based manipulation). Authors should adhere to discipline-specific rules for acquiring, selecting and processing data.
+No data, text, or theories by others are presented as if they were the author’s own (‘plagiarism’). Proper acknowledgements to other works must be given (this includes material that is closely copied (near verbatim), summarised, and/or paraphrased), quotation marks (to indicate words taken from another source) are used for verbatim copying of material, and permissions secured for material that is copyrighted.
+Important note: the journal may use software to screen for plagiarism.
+Authors should make sure they have permissions for the use of software, questionnaires/(web) surveys and scales in their studies (if appropriate).
+Research articles and non-research articles (e.g. Opinion, Review, and Commentary articles) must cite appropriate and relevant literature in support of the claims made. Excessive and inappropriate self-citation or coordinated efforts among several authors to collectively self-cite is strongly discouraged.
+Authors should avoid untrue statements about an entity (who can be an individual person or a company) or descriptions of their behaviour or actions that could potentially be seen as personal attacks or allegations about that person.
+Research that may be misapplied to pose a threat to public health or national security should be clearly identified in the manuscript (e.g. dual use of research). Examples include the creation of harmful consequences of biological agents or toxins, disruption of immunity of vaccines, unusual hazards in the use of chemicals, and weaponisation of research/technology (amongst others).
+Authors are strongly advised to ensure that the author group, the Corresponding Author, and the order of authors are all correct at submission. Adding and/or deleting authors during the revision stages is generally not permitted, but in some cases may be warranted. Reasons for changes in authorship should be explained in detail. Please note that changes to authorship cannot be made after acceptance of a manuscript.
+*All of the above are guidelines, and authors need to make sure to respect third-party rights such as copyright and/or moral rights.
+Upon request, authors should be prepared to send relevant documentation or data in order to verify the validity of the results presented. This could be in the form of raw data, samples, records, etc. Sensitive information in the form of confidential or proprietary data is excluded.
+⇒If there is suspicion of misbehaviour or alleged fraud, the Journal and/or Publisher will carry out an investigation following COPE guidelines. If, after investigation, there are valid concerns, the author(s) concerned will be contacted under their given e-mail address and given an opportunity to address the issue. Depending on the situation, this may result in the Journal’s and/or Publisher’s implementation of the following measures, including, but not limited to:
+⇒If the manuscript is still under consideration, it may be rejected and returned to the author.
+⇒ If the article has already been published online, depending on the nature and severity of the infraction:
+- An erratum/correction may be placed with the article
+- An expression of concern may be placed with the article
+- or in severe cases, retraction of the article may occur.
+The reason will be given in the published erratum/correction, expression of concern or retraction note. Please note that retraction means that the article is maintained on the platform, watermarked “retracted”, and the explanation for the retraction is provided in a note linked to the watermarked article.
+⇒The author’s institution may be informed.
+⇒A notice of suspected transgression of ethical standards in the peer review system may be included as part of the author’s and article’s bibliographic record.
+Fundamental Errors
+Authors have an obligation to correct mistakes once they discover a significant error or inaccuracy in their published article. The author(s) is/are requested to contact the journal and explain in what sense the error is impacting the article. A decision on how to correct the literature will depend on the nature of the error. This may be a correction or retraction. The retraction note should provide transparency on which parts of the article are impacted by the error.
+Suggesting/ Excluding Reviewers
+Authors are welcome to suggest suitable reviewers and/or request the exclusion of certain individuals when they submit their manuscripts. When suggesting reviewers, authors should make sure they are totally independent and not connected to the work in any way. It is strongly recommended to suggest a mix of reviewers from different countries and different institutions. When suggesting reviewers, the Corresponding Author must provide an institutional email address for each suggested reviewer, or, if this is not possible to include other means of verifying the identity, such as a link to a personal homepage, a link to the publication record or a researcher or author ID in the submission letter. Please note that the Journal may not use the suggestions, but suggestions are appreciated and may help facilitate the peer review process.
+Back to Top ↑
+Competing Interests
+For Authors
+Authors are requested to disclose interests that are directly or indirectly related to the work submitted for publication. Interests within the last 3 years of beginning the work (conducting the research and preparing the work for submission) should be reported. Interests outside the 3-year time frame must be disclosed if they could reasonably be perceived as influencing the submitted work. Disclosure of interests provides a complete and transparent process and helps readers form their own judgments of potential bias. This is not meant to imply that a financial relationship with an organization that sponsored the research or compensation received for consultancy work is inappropriate.
+Editorial Staff
+Editorial Board Members and Editors are required to declare any competing interests and may be excluded from the peer review process if a competing interest exists. In addition, they should exclude themselves from handling manuscripts in cases where there is a competing interest. This may include – but is not limited to – having previously published with one or more of the authors and sharing the same institution as one or more of the authors. Where an Editor or Editorial Board Member is on the author list, they must declare this in the competing interests section on the submitted manuscript. If they are an author or have any other competing interest regarding a specific manuscript, another Editor or member of the Editorial Board will be assigned to assume responsibility for overseeing peer review. These submissions are subject to the exact same review process as any other manuscript. Editorial Board Members are welcome to submit papers to the journal. These submissions are not given any priority over other manuscripts, and Editorial Board Member status has no bearing on editorial consideration.
+Interests that should be considered and disclosed, but are not limited to the following:
+Funding
+Research grants from funding agencies (please give the research funder and the grant number) and/or research support (including salaries, equipment, supplies, reimbursement for attending symposia, and other expenses) by organizations that may gain or lose financially through publication of this manuscript.
+Employment
+Recent (while engaged in the research project), present, or anticipated employment by any organization that may gain or lose financially through publication of this manuscript. This includes multiple affiliations (if applicable).
+Financial Interests
+Stocks or shares in companies (including holdings of spouse and/or children) that may gain or lose financially through publication of this manuscript; consultation fees or other forms of remuneration from organizations that may gain or lose financially; patents or patent applications whose value may be affected by publication of this manuscript.
+It is difficult to specify a threshold at which a financial interest becomes significant; any such figure is necessarily arbitrary, so one possible practical guideline is the following: "Any undeclared financial interest that could embarrass the author were it to become publicly known after the work was published."
+Non-financial Interests
+In addition, authors are requested to disclose interests that go beyond financial interests that could impart bias on the work submitted for publication, such as professional interests, personal relationships, or personal beliefs (amongst others). Examples include but are not limited to: position on editorial board, advisory board, or board of directors, or other type of management relationships; writing and/or consulting for educational purposes; expert witness; mentoring relations; and so forth.
+Primary research articles require a disclosure statement. Review articles present an expert synthesis of evidence and may be treated as an authoritative work on a subject. Review articles, therefore, require a disclosure statement. Other article types, such as editorials, book reviews, comments (amongst others), may, depending on their content, require a disclosure statement. If you are unclear whether your article type requires a disclosure statement, please contact the Editor-in-Chief.
+Please note that, in addition to the above requirements, funding information (given that funding is a potential competing interest, as mentioned above) needs to be disclosed upon submission of the manuscript in the peer review system. This information will automatically be added to the Record of CrossMark; it is not added to the manuscript itself. Under ‘summary of requirements’ (see below), funding information should be included in the ‘Declarations’ section.
+Summary of Requirements and Statement Examples
+The above should be summarized in a statement and placed in a ‘Declarations’ section before the reference list under a heading of ‘Funding’ and/or ‘Competing interests’. Other declarations include Ethics approval, Consent, Data, Material, and/or Code availability, and Authors’ contribution statements.
+Please see the various examples of wording below and revise/customize the sample statements according to your own needs.
+When all authors have the same (or no) conflicts and/or funding it is sufficient to use one blanket statement.
+Examples of statements to be used when funding has been received:
+Partial financial support was received from [...]
+The research leading to these results received funding from […] under Grant Agreement No […].
+This study was funded by […]
+This work was supported by […] (Grant numbers […] and […]
+Examples of statements to be used when there is no funding:
+The authors did not receive support from any organization for the submitted work.
+No funding was received to assist with the preparation of this manuscript.
+No funding was received for conducting this study.
+No funds, grants, or other support were received.
+Examples of statements to be used when there are interests to declare:
+Financial interests: Author A has received research support from Company A. Author B has received a speaker honorarium from Company Wand owns stock in Company X. Author C is a consultant to Company Y.
+Non-financial interests: Author C is an unpaid member of committee Z.
+Financial interests: The authors declare they have no financial interests.
+Non-financial interests: Author A is on the board of directors of Y and receives no compensation as a member of the board of directors.
+Financial interests: Author A received a speaking fee from Y for Z. Author B receives a salary from association X, where s/he is the Executive Director.
+Non-financial interests: none.
+Financial interests: Author A and B declare they have no financial interests. Author C has received speaker and consultant honoraria from Company M and Company N. Dr. C has received speaker honorarium and research funding from Company M and Company O. Author D has received travel support from Company O.
+Non-financial interests: Author D has served on advisory boards for Company M, Company N and Company O.
+Examples of statements to be used when authors have nothing to declare:
+The authors have no relevant financial or non-financial interests to disclose.
+The authors have no competing interests to declare that are relevant to the content of this article.
+All authors certify that they have no affiliations with or involvement in any organization or entity with any financial interest or non-financial interest in the subject matter or materials discussed in this manuscript.
+The authors have no financial or proprietary interests in any material discussed in this article.
+Authors are responsible for the correctness of the statements provided in the manuscript. See also Authorship Principles. The Editor-in-Chief reserves the right to reject submissions that do not meet the guidelines described in this section.
+Back to Top ↑
+Research Data Policy and Data Availability Statements
+Neuroscience Bulletin strongly encourages authors to share their research data to promote transparency, reproducibility, and collaboration in the neuroscience community. For studies involving neuroimaging data, electrophysiological data, single-cell omics data, large-scale behavioral experimental data, and neural circuit connectivity data, authors are highly recommended to deposit the raw data in a public data repository that adheres to the FAIR principles (Findable, Accessible, Interoperable, and Reusable). This ensures long-term preservation and maximizes the availability of your valuable research data to the scientific community for verification and reuse, while respecting participant confidentiality and ethical considerations.
+Manuscripts that provide reliable, publicly accessible data will be given priority in the review and publication process.
+Refer to the Journal Data Policy page for details.
+Back to Top ↑
+Research Involving Animals, their Data or Biological Material
+The welfare of animals (vertebrate and higher invertebrates) used for research, education, and testing must be respected. Authors should supply detailed information on the ethical treatment of their animals in their submission. For that purpose, they may use the ARRIVE checklist, which is designed to be used when submitting manuscripts describing animal research.
+For studies involving client-owned animals, authors must also document informed consent from the client or owner and adherence to a high standard (best practice) of veterinary care.
+Authors are recommended to comply with:
+• The International Union for Conservation of Nature (IUCN) Policy Statement on Research Involving Species at Risk of Extinction and consult the IUCN Red List Index of threatened species.
+• Convention on the Trade in Endangered Species of Wild Fauna and Flora
+When reporting results, authors should indicate:
+• … that the studies have been approved by a research ethics committee at the institution or practice at which the studies were conducted. Please provide the name of the ethics committee and the relevant permit number.
+• … whether the legal requirements or guidelines in the country and/or state, or province, for the care and use of animals have been followed.
+Researchers from countries without any legal requirements or guidelines should voluntarily refer to the following sites for guidance:
+– The Basel Declaration describes fundamental principles of using animals in biomedical research
+– The International Council for Laboratory Animal Science (ICLAS) provides ethical guidelines for researchers as well as editors and reviewers
+– The Association for the Study of Animal Behaviour describes ethical guidelines for the treatment of animals in research and teaching
+– The International Association of Veterinary Editors’ Consensus Author Guidelines on Animal Ethics provide guidelines for authors on animal ethics and welfare
+Researchers may wish to consult the most recent (ethical) guidelines available from relevant taxon-oriented professional societies.
+If a study was granted exemption or did not require ethics approval, this should also be detailed in the manuscript.
+Back to Top ↑
+Research Involving Human Embryos, Gametes, and Stem Cells
+Manuscripts that report experiments involving the use of human embryos and gametes, human embryonic stem cells and related materials, and clinical applications of stem cells must include confirmation that all experiments were performed in accordance with relevant guidelines and regulations (See also Research involving human participants, their data or biological material.
+The manuscript should include an ethics statement identifying the institutional and/or national research ethics committee (including the name of the ethics committee) approving the experiments and describing any relevant details. Authors should confirm that informed consent (See also Informed Consent) was obtained from all recipients and/or donors of cells or tissues, where necessary, and describe the conditions of donation of materials for research, such as human embryos or gametes. Copies of approval and redacted consent documents may be requested by the Journal.
+We encourage authors to follow the principles laid out in the 2016 ISSCR Guidelines for Stem Cell Research and Clinical Translation
+In deciding whether to publish papers describing modifications of the human germline, the Journal is guided by safety considerations, compliance with applicable regulations, and the status of the societal debate on the implications of such modifications for future generations. In case of concerns regarding a particular type of study, the Journal may seek advice from the Editorial Office, which will be supported by the Springer Nature Research Integrity Group.
+The decision to publish a paper is the responsibility of the Editor-in-Chief of the Journal.
+Back to Top ↑
+Informed Consent
+All individuals have individual rights that are not to be infringed. Individual participants in studies have, for example, the right to decide what happens to the (identifiable) personal data gathered, to what they have said during a study or an interview, as well as to any photograph that was taken. This is especially true concerning images of vulnerable people (e.g., minors, patients, refugees, etc) or the use of images in sensitive contexts. In many instances, authors will need to secure written consent before including images.
+Identifying details (names, dates of birth, identity numbers, biometrical characteristics (such as facial features, fingerprint, writing style, voice pattern, DNA or other distinguishing characteristic) and other information) of the participants that were studied should not be published in written descriptions, photographs, and genetic profiles unless the information is essential for scholarly purposes and the participant (or parent/guardian if the participant is a minor or incapable or legal representative) gave written informed consent for publication. Complete anonymity is difficult to achieve in some cases. Detailed descriptions of individual participants, whether of their whole bodies or of body sections, may lead to disclosure of their identity. Under certain circumstances, consent is not required as long as information is anonymized and the submission does not include images that may identify the person.
+Informed consent for publication should be obtained if there is any doubt. For example, masking the eye region in photographs of participants is an inadequate protection of anonymity. If identifying characteristics are altered to protect anonymity, such as in genetic profiles, authors should provide assurance that alterations do not distort meaning.
+Exceptions where it is not necessary to obtain consent:
+• Images such as X-rays, laparoscopic images, ultrasound images, brain scans, and pathology slides, unless there is a concern about identifying information, in which case, authors should ensure that consent is obtained.
+• Reuse of images: If images are being reused from prior publications, the Publisher will assume that the prior publication obtained the relevant information regarding consent. Authors should provide the appropriate attribution for republished images.
+Consent and already Available Data and/ or Biological Material
+Regardless of whether material is collected from living or dead patients, they (family or guardian if the deceased has not made a pre-mortem decision) must have given prior written consent. The aspect of confidentiality, as well as any wishes from the deceased, should be respected.
+Data Protection, Confidentiality, and Privacy
+When biological material is donated for, or data is generated as part of a research project, authors should ensure, as part of the informed consent procedure, that the participants are made aware of what kind of (personal) data will be processed, how it will be used, and for what purpose. In case of data acquired via a biobank/biorepository, it is possible they apply a broad consent which allows research participants to consent to a broad range of uses of their data and samples, which is regarded by research ethics committees as specific enough to be considered “informed”. However, authors should always check the specific biobank/biorepository policies or any other type of data provider policies (in case of non-bio research) to be sure that this is the case.
+Consent to Participate
+For all research involving human subjects, freely-given, informed consent to participate in the study must be obtained from participants (or their parent or legal guardian in the case of children under 16), and a statement to this effect should appear in the manuscript. In the case of articles describing human transplantation studies, authors must include a statement declaring that no organs/tissues were obtained from prisoners and must also name the institution(s)/clinic(s)/department(s) via which organs/tissues were obtained. For manuscripts reporting studies involving vulnerable groups where there is the potential for coercion or where consent may not have been fully informed, extra care will be taken by the editor and may be referred to the Springer Nature Research Integrity Group.
+Consent to Publish
+Individuals may consent to participate in a study, but object to having their data published in a journal article. Authors should make sure to also seek consent from individuals to publish their data prior to submitting their paper to a journal. This is particularly applicable to case studies. A consent to publish form can be found here.
+Back to Top ↑
+For any queries about submission issues, peer review process, or the status of your manuscript, please contact the Editorial Office: nsb@ion.ac.cn.
+(Updated in April 2026)
